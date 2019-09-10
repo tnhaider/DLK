@@ -1,0 +1,22 @@
+This is the German Poetry Corpus, comprising over 70k poems.
+
+As it is German, it is called Deutscher Lyrik Korpus, DLK for short.
+
+It is in json format, as a python dict.
+
+Documents are organized as stanzas.
+
+Keys are in this form:
+
+"38237_s5.13": {"lines": ["'Mich gelüstet,'ab sprach der König,", "'Mich gelüstet, o Dadanes,", "Deines schwarzen Partherhengstes,", "Der nicht scheut die Elefanten,", "Den du rittst in sieben Schlachten,", "Den dein Vater schon geritten, -", "Schenkst dem König du das Roß'"], "title": "Ein Königsspiel", "author": "Dahn, Felix", "year": 1873},
+
+So a key is in the following format: <poemid>_s<stanzaid>.<noofstanzainpoem>, e.g.: 5237_s2.4 (for id 5237, stanza 2 of 4).
+
+DLK spans the entire New High German Language Period (the poetry in that timeframe), from 1575 to 1936.
+
+DLK was built from Textgrid and DTA (textarchiv.de).
+
+It was introduced in 
+
+Haider, T., & Eger, S. (2019, August). Semantic Change and Emerging Tropes In a Large Corpus of New High German Poetry. In Proceedings of the 1st International Workshop on Computational Approaches to Historical Language Change (pp. 216-222).
+Link: https://www.aclweb.org/anthology/W19-4727
