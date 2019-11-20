@@ -20,7 +20,7 @@ Items are in this form:
 "title": "Ein Königsspiel", "author": "Dahn, Felix", "year": 1873},
 ```
 
-So a key is in the following format:\<poemid\>_s\<stanzaid\>.\<noofstanzainpoem\>, e.g.: 5237_s2.4 (for id 5237, stanza 2 of 4).
+A key is in the following format:\<poemid\>_s\<stanzaid\>.\<noofstanzainpoem\>, e.g.: 5237_s2.4 (for id 5237, stanza 2 of 4).
 
 
 ## Description
