@@ -2,7 +2,7 @@
 
 This is the German Poetry Corpus, comprising over 70k poems.
 
-As it is German, it is called Deutscher Lyrik Korpus, DLK for short.
+As it is German, it is called Deutsches Lyrik Korpus, DLK for short.
 
 
 ## Format
