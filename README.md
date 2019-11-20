@@ -29,6 +29,9 @@ DLK spans the entire New High German Language Period (the poetry in that timefra
 
 DLK was built from Textgrid and DTA (textarchiv.de).
 
+Version 2 is the full corpus, but includes around 10.000 duplicate stanzas.
+Version 3 was cleaned up, the the integrity of particular poems was destroyed, because we removed duplicate stanzas without looking at the poem ids.
+
 
 ## Publication
 It was introduced in
