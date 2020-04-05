@@ -2,7 +2,7 @@
 
 This is the German Poetry Corpus, comprising over 70k poems.
 
-As it is German, it is called Deutscher Lyrik Korpus, DLK for short.
+As it is German, it is called Deutsches Lyrik Korpus, DLK for short.
 
 
 ## Format
@@ -20,7 +20,7 @@ Items are in this form:
 "title": "Ein Königsspiel", "author": "Dahn, Felix", "year": 1873},
 ```
 
-So a key is in the following format:\<poemid\>_s\<stanzaid\>.\<noofstanzainpoem\>, e.g.: 5237_s2.4 (for id 5237, stanza 2 of 4).
+A key is in the following format:\<poemid\>_s\<stanzaid\>.\<noofstanzainpoem\>, e.g.: 5237_s2.4 (for id 5237, stanza 2 of 4).
 
 
 ## Description
@@ -28,6 +28,9 @@ So a key is in the following format:\<poemid\>_s\<stanzaid\>.\<noofstanzainpoem\
 DLK spans the entire New High German Language Period (the poetry in that timeframe), from 1575 to 1936.
 
 DLK was built from Textgrid and DTA (textarchiv.de).
+
+Version 2 is the full corpus, but includes around 10.000 duplicate stanzas.
+Version 3 was cleaned up, the the integrity of particular poems was destroyed, because we removed duplicate stanzas without looking at the poem ids.
 
 
 ## Publication
