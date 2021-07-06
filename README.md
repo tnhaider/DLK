@@ -168,7 +168,7 @@ We achieved over .94% Accuracy, which might not be expected when tagging poetry 
   
  ![name-of-you-image](https://github.com/tnhaider/DLK/blob/master/figures/histo.stacked.dta.textgrid.years.poems.bins25.duplicates.png?raw=true)
 
-Since we aimed at a curated corpus, we needed to remove duplicate poems. We identify duplicates by first grouping poems from both corpora by authors, and then calculating the jaccard-coefficient J between the unigrams of two poems A and B.
+Since we aim at a unified corpus, we need to remove duplicate poems. We identify duplicates by first grouping poems from both corpora by authors, and then calculating the jaccard-coefficient J between the unigrams of two poems A and B.
 
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=\color{red}J(A,B) = \frac{|A \cap B|}{|A \cup B|}">
