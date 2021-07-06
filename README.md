@@ -126,7 +126,8 @@ Returns a string with the text of the line.
 #### Tokens
 `line['tokens']`
 
-To separate syllables within token elements, we use this glyph: ·
+Returns a list of pre-tokenized tokens.
+We use the glyph `·` to separate syllables within token elements.
 
 
 #### Token Info
