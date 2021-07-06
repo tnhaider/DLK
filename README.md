@@ -104,7 +104,7 @@ Every poem has an index, like so: `dta.poem.21698`, coded as `<subcorpus>.<text-
 
 Indexing follows the origin of a poem, thus it begins with either `dta.poem.` or `textgrid.poem.`. 
 
-The numbering is unified though, such that counting starts at 1 with the first DTA poem, and after the last DTA poem, the index continues to the Textgrid poems.
+The numbering is unified though, such that counting starts at 1 with the first DTA poem, and after the last DTA poem, the index further increments to the first Textgrid poem.
 
 ## Accessing information in the .json format:
 Assuming that the body of the poem is saved in a variable `poem`, you may then access different information like this:
