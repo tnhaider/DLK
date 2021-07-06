@@ -21,6 +21,8 @@ According to the number of line group tags with the attribute-value pair type=â€
   
   Furthermore, poetry in DTA is organized in whole books (editions), typically comprising collections of a single author with a proper book title. Textgrid on the other hand is fairly diverse and balanced over time, but it is not entirely clear from the XML where a poem was published, as each poem comes with its own TEI P5 header. Furthermore, titles are not always correctly annotated (though DTA is not perfect here either), and there is no reference URN. Additionally, it is not always clear if a Textgrid poem is actually just a stanza, since other poems with the same title exist (e.g. for MÃ¶ricke).
   
+  We also crawled the German version of Project Gutenberg (GUT-DE). However, we omit this corpus from our experiments, as it is wildly inconsistent and only offers metadata for less than 1/3 of its poems. In total, GUT-DE contains 36,822 poems.
+  
 ## Download
   
   You can find the corpora in .zip files in the their resprective folder.
