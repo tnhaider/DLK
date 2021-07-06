@@ -2,7 +2,7 @@
 
 As basis for research on computational literary stylistics of poetry, we aimed to build a large, comprehensive, and easily searchable corpus of New High German poetry. We achieved this by collecting and parsing the bulk of digitized corpora that contain public domain German literature. As this corpus contains the majority of digitized public domain poetry from the New High German period, we call this new corpus the German Poetry Corpus, in German: Deutsches Lyrik Korpus, DLK for short.
 
-|             | TGRID 'Verse' | DTA: 'Lyrik' | DLK 'v5'   |
+|             | TGRID 'Verse' | DTA: 'Lyrik' | DLK v5     |
 | :---------- | ------------: | -----------: | ---------: |
 | \#syllables | 24,025,692    | 4,421,923    | 25,901,322 |
 | \#words     | 16,049,526    | 2,986,912    | 17,335,638 |
