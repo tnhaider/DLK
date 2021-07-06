@@ -166,6 +166,11 @@ According to the number of line group tags with the attribute-value pairtype=’
 </TEI>
 ```
   
+  ## Download
+  
+  As github does not allow file sizes to be larger than 80MB, the Textgrid subcorpus and DLK itself are split across multiple (2) zip files. 
+  To unpack the respective corpus, you need both the .z01 and the .zip file (if there are more parts, there will be .z02, .z03, etc. files as well).
+  
 ## Composition
   
   Figure \ref{fig:dtatextgridbinsstacked} shows a histogram of the number of poems over time, binned in 25 year increments. It is apparent that Textgrid (green) is spread out over time, while DTA is stronger in the pre-romantic period (pre 1750). This plot also illustrates that either corpus might not be considered representative for public domain New High German poetry. But together, we gain a decent coverage over our time frame.
