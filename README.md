@@ -53,27 +53,33 @@ According to the number of line group tags with the attribute-value pair type=�
         "stanza.1": {
             "line.1": {
                 "text": "Den Auserkorenen hat eine Feder",
-                "tokens": [
+                "tokens": 
+                [
                 "Den", "Au·ser·ko·re·nen", 
                 "hat", "ei·ne", "Fe·der"
                 ],
-                "token_info": [
+                "token_info": 
+                [
                 "word", "word", "word", "word","word"
                 ],
-                "pos": [
+                "pos": 
+                [
                  "ART", "NN", "VAFIN", "ART", "NN"
                 ]
             },
             "line.2": {
                 "text": "Aus seiner Schwinge der Simurg geweiht:",
-                "tokens": [
+                "tokens": 
+                [
                 "Aus", "sei·ner", "Schwin·ge", "der", "Si·murg", 
                 "ge·weiht", ":"
                 ],
-                "token_info": [
+                "token_info": 
+                [
                 "word", "word", "word", "word", "word", "word", "punct"
                 ],
-                "pos": [
+                "pos": 
+                [
                 "APPR", "PPOSAT", "NN", "ART", "NE", "VVPP", "$."
                 ]
             },
