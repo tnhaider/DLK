@@ -198,14 +198,35 @@ DLK spans the entire New High German Language Period (the poetry in that timefra
 
 DLK was built from Textgrid and DTA (textarchiv.de).
   
+
+
+
+## Publication
+
+When using this corpus, please consider citing the following papers:
+
+```
+@article{haider2021metrical,
+  title={Metrical Tagging in the Wild: Building and Annotating Poetry Corpora with Rhythmic Features},
+  author={Haider, Thomas},
+  journal={Proceedings of the European Association for Computational Linguistics, arXiv:2102.08858},
+  year={2021}
+}
+```
+
+```
+@inproceedings{haider2019semantic,
+  title={Semantic Change and Emerging Tropes In a Large Corpus of New High German Poetry},
+  author={Haider, Thomas and Eger, Steffen},
+  booktitle={Proceedings of the 1st International Workshop on Computational Approaches to Historical Language Change},
+  pages={216--222},
+  year={2019},
+  source={https://www.aclweb.org/anthology/W19-4727}
+}
+```
+
+
 ## Version History
 
 Version 2 is the full corpus, but includes around 10.000 duplicate stanzas.
 Version 3 was cleaned up, the the integrity of particular poems was destroyed, because we removed duplicate stanzas without looking at the poem ids.
-
-
-## Publication
-It was introduced in
-
-Haider, T., & Eger, S. (2019, August). Semantic Change and Emerging Tropes In a Large Corpus of New High German Poetry. In Proceedings of the 1st International Workshop on Computational Approaches to Historical Language Change (pp. 216-222).
-Link: https://www.aclweb.org/anthology/W19-4727
