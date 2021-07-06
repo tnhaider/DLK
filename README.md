@@ -197,7 +197,11 @@ When using this corpus, please consider citing the following papers:
 }
 ```
 
+## TEI Format
 
+Currently, only the smaller corpora are set in TEI P5, while the larger ones are formatted exclusively in .json.
+We do have the code to construct the format below from .json.
+We might include the large corpora in this format at a later date.
 
 ### TEI P5 XML Poetry Header
 ``` 
