@@ -98,7 +98,7 @@ According to the number of line group tags with the attribute-value pair type=â€
     }
 }
 ```
-This is the .json format in which the corpora here are set. Every poem has an index, like so: `dta.poem.21698`.
+This is the .json format in which the corpora here are set. Every poem has an index, like so: `dta.poem.21698`, coded as `<subcorpus>.<text-type>.<global-index>`
 Indexing follows the origin of a poem, thus it begins with either `dta.poem.` or `textgrid.poem.`. The numbering is unified though, such that counting starts at 1 with the first DTA poem, and after the last DTA poem, the index continues to the Textgrid poems.
 
 ## Accessing information in the .json format:
