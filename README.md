@@ -119,11 +119,15 @@ and part-of-speech tags.
 
 #### Plain Text
 `line['text']`
+
 Returns a string with the text of the line.
+
 
 #### Tokens
 `line['tokens']`
+
 To separate syllables within token elements, we use this glyph: ·
+
 
 #### Token Info
 `line['token_info']`
