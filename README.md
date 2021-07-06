@@ -18,10 +18,12 @@ According to the number of line group tags with the attribute-value pair type=�
  Not all of the original texts are actually in German. The actual corpus sizes after filtering contamination can be looked up in the Table above. It should be noted that the whole DTA corpus contains a total of 40,077 line groups that look like poems, but without the proper genre label (e.g., appearing in the genre ‘science’), poems are likely embedded within other texts (by quotation, e.g., for criticism) and might not come with proper meta-data.
   
   DTA was originally mined from wikimedia commons and Textgrid was mined from zeno.org. While DTA is evidently curated quite well (including faksimiles) with mostly reliable annotation and only few OCR mistakes, it does not really offer any breadth regarding a comprehensive picture of New High German poetry. This latter point will be discussed with the histogram below under 'Composition'. 
+  
   Furthermore, poetry in DTA is organized in whole books (editions), typically comprising collections of a single author with a proper book title. Textgrid on the other hand is fairly diverse and balanced over time, but it is not entirely clear from the XML where a poem was published, as each poem comes with its own TEI P5 header. Furthermore, titles are not always correctly annotated (though DTA is not perfect here either), and there is no reference URN. Additionally, it is not always clear if a Textgrid poem is actually just a stanza, since other poems with the same title exist (e.g. for Möricke).
   
 ## Download
   
+  You can find the corpora in split .zip files in the their resprective folder.
   Since github does not allow file sizes to be larger than 80MB, the Textgrid subcorpus and DLK itself are split across multiple (2) zip files. 
   To unpack the respective corpus, you need both the .z01 and the .zip file (if there are more parts, there will be .z02, .z03, etc. files as well).
   
