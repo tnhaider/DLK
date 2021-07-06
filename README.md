@@ -177,10 +177,11 @@ According to the number of line group tags with the attribute-value pairtype=’
 
 Since we aim at a curated corpus, we need to remove duplicate poems. We identify duplicates by first grouping poems from both corpora by authors, and then calculating the jaccard-coefficient J (eq. \ref{eq:jaccard}) between the unigrams of two poems A and B.
 
+<img src="https://render.githubusercontent.com/render/math?math=
 \begin{equation}
     J(A,B) = \frac{|A \cap B|}{|A \cup B|}
     \label{eq:jaccard}
-\end{equation}
+\end{equation}">
 
 We evaluate our method by calculating J between all documents of the same author (after name standardization). We check J against titles and, if in doubt, by reading the actual texts. After manual inspection, we set a threshold for J to achieve high precision (to not identify false positives, i.e., saying that two texts are duplicates when in fact they are not). Optimizing for recall (not to miss too many actual duplicates) is hampered by not having a gold dataset, but set against precision, we could find a good balance.
 Finally, if two poems exceed the threshold $J=0.5$, we consider these two poems duplicates (high J means more unigram overlap). It appears that in the time-frame 1650--1675 there are a number of duplicate poems within Textgrid itself already (which is not the case in DTA), that also occur twice in Textgrid, even sharing the same title. 
