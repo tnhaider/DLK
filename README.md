@@ -133,8 +133,8 @@ We use the glyph `·` to separate syllables within token elements.
 #### Token Info
 `line['token_info']`
 
-Contains the same amount of elments like tokens.
-Can be either 'word' if the token is an actual word, or 'punct' if the token is a punctuation mark.
+Contains the same amount of elements as there are tokens.
+Can be either 'word' if the token is an actual word, or 'punct' if the token is a punctuation mark (or 'symbol'), according to the SoMaJo tokenizer.
 
 #### Part-of-Speech
 `line['pos']`
