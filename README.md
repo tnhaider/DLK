@@ -100,8 +100,10 @@ Assuming that the body of the poem is saved in a variable `poem`, you may then a
 `poem['metadata']['author']['name']`
 #### Stanzas and Lines
 Stanzas and lines can be accessed with their index:
-`first_stanza = poem['stanza.1']`
-`first_line_in_first_stanza = poem['stanza.1']`
+```
+first_stanza = poem['stanza.1']
+first_line_in_first_stanza = poem['stanza.1']
+```
 It is also possible to iterate over stanzas in poems or over lines in stanzas:
 ```
 for poem in poems:
