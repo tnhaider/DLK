@@ -92,13 +92,13 @@ According to the number of line group tags with the attribute-value pair type=â€
 This is the .json format in which the corpora here are set. Every poem has an index, here: `dta.poem.21698`.
 Assuming that the body of the poem is saved in a variable `poem`, you may then access different information like this:
 
-#### Metadata:
+### Metadata:
 `poem['metadata']`
-#### Publication Year
+### Publication Year:
 `poem['metadata']['pub_year']`
-#### Author Name
+### Author Name:
 `poem['metadata']['author']['name']`
-#### Stanzas and Lines
+### Stanzas and Lines:
 Stanzas and lines can be accessed with their index:
 ```
 first_stanza = poem['stanza.1']
@@ -106,24 +106,31 @@ first_line_in_first_stanza = poem['stanza.1']['line.1']
 ```
 It is also possible to iterate over stanzas in poems or over lines in stanzas:
 ```
-for poem in poems:
-  for stanza in poem:
-    for line in stanza:
+for pidx, poem in poems.items():
+  for sidx, stanza in poem.items():
+    for lidx, line in stanza.items():
       # Do sth. with line
 ```
-#### Line data
+### Line data:
 Lines have a text (as string), this text tokenized with syllable boundaries, meta information on tokens, and part-of-speech tags.
+
 #### Plain Text
-line['text']
+`line['text']`
+Returns a string with the text of the line.
+
 #### Tokens
-line['tokens']
+`line['tokens']`
 To separate syllables within token elements, we use this glyph: Â·
-##### Token Info
-line['token_info']
+
+#### Token Info
+`line['token_info']`
+
 Contains the same amount of elments like tokens.
 Can be either 'word' if the token is an actual word, or 'punct' if the token is a punctuation mark.
+
 #### Part-of-Speech
-line['pos']
+`line['pos']`
+
 Every line already comes pre-tagged according to the STTS tagset.
 To check which model we used for tagging, please consult the paper below.
 We achieved over .94% Accuracy, which might not be expected when tagging poetry (with off-the-shelf taggers).
