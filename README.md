@@ -33,7 +33,8 @@ According to the number of line group tags with the attribute-value pair type=鈥
   ### A Poem in .json
  
 ```  
-"dta.poem.21698": {
+"dta.poem.21698": 
+    {
     "metadata": {
         "author": {
             "name": "Various",
@@ -55,8 +56,7 @@ According to the number of line group tags with the attribute-value pair type=鈥
                 "text": "Den Auserkorenen hat eine Feder",
                 "tokens": 
                 [
-                "Den", "Au路ser路ko路re路nen", 
-                "hat", "ei路ne", "Fe路der"
+                "Den", "Au路ser路ko路re路nen", "hat", "ei路ne", "Fe路der"
                 ],
                 "token_info": 
                 [
@@ -71,8 +71,7 @@ According to the number of line group tags with the attribute-value pair type=鈥
                 "text": "Aus seiner Schwinge der Simurg geweiht:",
                 "tokens": 
                 [
-                "Aus", "sei路ner", "Schwin路ge", "der", "Si路murg", 
-                "ge路weiht", ":"
+                "Aus", "sei路ner", "Schwin路ge", "der", "Si路murg", "ge路weiht", ":"
                 ],
                 "token_info": 
                 [
@@ -90,6 +89,93 @@ According to the number of line group tags with the attribute-value pair type=鈥
     }
 }
 ```
+This is the .json format in which the corpora here are set. Every poem has an index, here: `dta.poem.21698`.
+Assuming that the body of the poem is saved in a variable `poem`, you may then access different information like this:
+
+#### Metadata:
+`poem['metadata']`
+#### Publication Year
+`poem['metadata']['pub_year']`
+#### Author Name
+`poem['metadata']['author']['name']`
+#### Stanzas and Lines
+Stanzas and lines can be accessed with their index:
+`first_stanza = poem['stanza.1']`
+`first_line_in_first_stanza = poem['stanza.1']`
+It is also possible to iterate over stanzas in poems or over lines in stanzas:
+```
+for poem in poems:
+  for stanza in poem:
+    for line in stanza:
+      # Do sth. with line
+```
+#### Line data
+Lines have a text (as string), this text tokenized with syllable boundaries, meta information on tokens, and part-of-speech tags.
+#### Plain Text
+line['text']
+#### Tokens
+line['tokens']
+To separate syllables within token elements, we use this glyph: 路
+##### Token Info
+line['token_info']
+Contains the same amount of elments like tokens.
+Can be either 'word' if the token is an actual word, or 'punct' if the token is a punctuation mark.
+#### Part-of-Speech
+line['pos']
+Every line already comes pre-tagged according to the STTS tagset.
+To check which model we used for tagging, please consult the paper below.
+We achieved over .94% Accuracy, which might not be expected when tagging poetry (with off-the-shelf taggers).
+
+
+## Composition
+  
+  The following histogram shows the number of poems in the respective corpora over time, binned in 25 year increments. It is apparent that Textgrid (green) is spread out over time, while DTA is stronger in the pre-romantic period (pre 1750). This plot also illustrates that either corpus might not be considered representative for public domain New High German poetry. But together, we gain a decent coverage over our time frame.
+  
+ ![name-of-you-image](https://github.com/tnhaider/DLK/blob/master/figures/histo.stacked.dta.textgrid.years.poems.bins25.duplicates.png?raw=true)
+
+Since we aim at a curated corpus, we need to remove duplicate poems. We identify duplicates by first grouping poems from both corpora by authors, and then calculating the jaccard-coefficient J between the unigrams of two poems A and B.
+
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=\color{red}J(A,B) = \frac{|A \cap B|}{|A \cup B|}">
+</p>
+
+We evaluate our method by calculating J between all documents of the same author (after name standardization). We check J against titles and, if in doubt, by reading the actual texts. After manual inspection, we set a threshold for J to achieve high precision (to not identify false positives, i.e., saying that two texts are duplicates when in fact they are not). Optimizing for recall (not to miss too many actual duplicates) is hampered by not having a gold dataset, but set against precision, we could find a good balance.
+Finally, if two poems exceed the threshold J=0.5, we consider these two poems duplicates (high J means more unigram overlap). It appears that in the time-frame 1650--1675 there are a number of duplicate poems within Textgrid itself already (which is not the case in DTA), that also occur twice in Textgrid, even sharing the same title. 
+Overall, DTA provides a cleaner resource, and if in doubt, we choose the DTA version of a poem to be included in DLK.
+In total, this method identifies 7600 poems to be duplicates.
+
+ ![name-of-you-image](https://github.com/tnhaider/DLK/blob/master/figures/DLK_Authors_vs_Time.portrait.png?raw=true)
+ 
+ In the above Figure, we plotted each poem in DTA and Textgrid over time, from 1550 to 1950. Every dot represents a poem, where dots can lie on top of each other. Dots are partly transparent, so that fully saturated dots show poems that lie on top of each other. Red dots are Textgrid poems and blue dots are DTA poems. The x-axis shows the year of a poem, while the y-axis is populated by authors, both corpora simply plotted on top of each other. One can see that DTA consists of full books that are organized by author (large dots) so that the datapoints for single poems get plotted on top of each other, while Textgrid has a time stamp for most single poems (after 1750), outlining the productive periods of authors.
+  
+
+
+
+## Publications
+
+When using this corpus, please consider citing the following papers:
+
+```
+@article{haider2021metrical,
+  title={Metrical Tagging in the Wild: Building and Annotating Poetry Corpora with Rhythmic Features},
+  author={Haider, Thomas},
+  journal={Proceedings of the European Association for Computational Linguistics, arXiv:2102.08858},
+  year={2021}
+}
+```
+
+```
+@inproceedings{haider2019semantic,
+  title={Semantic Change and Emerging Tropes In a Large Corpus of New High German Poetry},
+  author={Haider, Thomas and Eger, Steffen},
+  booktitle={Proceedings of the 1st International Workshop on Computational Approaches to Historical Language Change},
+  pages={216--222},
+  year={2019},
+  source={https://www.aclweb.org/anthology/W19-4727}
+}
+```
+
+
 
 ### TEI P5 XML Poetry Header
 ``` 
@@ -181,54 +267,6 @@ According to the number of line group tags with the attribute-value pair type=鈥
 </TEI>
 ```
   
-
-## Composition
-  
-  The following histogram shows the number of poems in the respective corpora over time, binned in 25 year increments. It is apparent that Textgrid (green) is spread out over time, while DTA is stronger in the pre-romantic period (pre 1750). This plot also illustrates that either corpus might not be considered representative for public domain New High German poetry. But together, we gain a decent coverage over our time frame.
-  
- ![name-of-you-image](https://github.com/tnhaider/DLK/blob/master/figures/histo.stacked.dta.textgrid.years.poems.bins25.duplicates.png?raw=true)
-
-Since we aim at a curated corpus, we need to remove duplicate poems. We identify duplicates by first grouping poems from both corpora by authors, and then calculating the jaccard-coefficient J between the unigrams of two poems A and B.
-
-<p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=\color{red}J(A,B) = \frac{|A \cap B|}{|A \cup B|}">
-</p>
-
-We evaluate our method by calculating J between all documents of the same author (after name standardization). We check J against titles and, if in doubt, by reading the actual texts. After manual inspection, we set a threshold for J to achieve high precision (to not identify false positives, i.e., saying that two texts are duplicates when in fact they are not). Optimizing for recall (not to miss too many actual duplicates) is hampered by not having a gold dataset, but set against precision, we could find a good balance.
-Finally, if two poems exceed the threshold J=0.5, we consider these two poems duplicates (high J means more unigram overlap). It appears that in the time-frame 1650--1675 there are a number of duplicate poems within Textgrid itself already (which is not the case in DTA), that also occur twice in Textgrid, even sharing the same title. 
-Overall, DTA provides a cleaner resource, and if in doubt, we choose the DTA version of a poem to be included in DLK.
-In total, this method identifies 7600 poems to be duplicates.
-
- ![name-of-you-image](https://github.com/tnhaider/DLK/blob/master/figures/DLK_Authors_vs_Time.portrait.png?raw=true)
- 
- In the above Figure, we plotted each poem in DTA and Textgrid over time, from 1550 to 1950. Every dot represents a poem, where dots can lie on top of each other. Dots are partly transparent, so that fully saturated dots show poems that lie on top of each other. Red dots are Textgrid poems and blue dots are DTA poems. The x-axis shows the year of a poem, while the y-axis is populated by authors, both corpora simply plotted on top of each other. One can see that DTA consists of full books that are organized by author (large dots) so that the datapoints for single poems get plotted on top of each other, while Textgrid has a time stamp for most single poems (after 1750), outlining the productive periods of authors.
-  
-
-
-
-## Publications
-
-When using this corpus, please consider citing the following papers:
-
-```
-@article{haider2021metrical,
-  title={Metrical Tagging in the Wild: Building and Annotating Poetry Corpora with Rhythmic Features},
-  author={Haider, Thomas},
-  journal={Proceedings of the European Association for Computational Linguistics, arXiv:2102.08858},
-  year={2021}
-}
-```
-
-```
-@inproceedings{haider2019semantic,
-  title={Semantic Change and Emerging Tropes In a Large Corpus of New High German Poetry},
-  author={Haider, Thomas and Eger, Steffen},
-  booktitle={Proceedings of the 1st International Workshop on Computational Approaches to Historical Language Change},
-  pages={216--222},
-  year={2019},
-  source={https://www.aclweb.org/anthology/W19-4727}
-}
-```
 
 
 ## Version History
