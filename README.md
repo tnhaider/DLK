@@ -111,7 +111,7 @@ first_line_in_first_stanza = poem['stanza.1']['line.1']
 ```
 It is also possible to iterate over stanzas in poems or over lines in stanzas:
 ```
-for pidx, poem in poems.items():
+for pidx, poem in corpus.items():
   for sidx, stanza in poem.items():
     for lidx, line in stanza.items():
       # Do sth. with line
