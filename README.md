@@ -112,7 +112,10 @@ for pidx, poem in poems.items():
       # Do sth. with line
 ```
 ### Line data:
-Lines have a text (as string), this text tokenized with syllable boundaries, meta information on tokens, and part-of-speech tags.
+Lines have a text (as string), 
+tokens (as list) with syllable boundaries (within the tokens), 
+meta information on tokens (word, punct, symbol, etc.), 
+and part-of-speech tags.
 
 #### Plain Text
 `line['text']`
