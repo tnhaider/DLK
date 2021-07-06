@@ -164,17 +164,17 @@ We achieved over .94% Accuracy, which might not be expected when tagging poetry 
 
 ## Composition
   
-  The following histogram shows the number of poems in the respective corpora over time, binned in 25 year increments. It is apparent that Textgrid (green) is spread out over time, while DTA is stronger in the pre-romantic period (pre 1750). This plot also illustrates that either corpus might not be considered representative for public domain New High German poetry. But together, we gain a decent coverage over our time frame.
+  The following histogram shows the number of poems in the respective corpora over time, binned in 25 year increments. It is apparent that Textgrid (green) is well spread out over time, while DTA is stronger in the pre-romantic period (pre 1750). This plot also illustrates that either corpus might not be considered representative for New High German poetry. But together, we gain a decent coverage over our time frame.
   
  ![name-of-you-image](https://github.com/tnhaider/DLK/blob/master/figures/histo.stacked.dta.textgrid.years.poems.bins25.duplicates.png?raw=true)
 
-Since we aim at a curated corpus, we need to remove duplicate poems. We identify duplicates by first grouping poems from both corpora by authors, and then calculating the jaccard-coefficient J between the unigrams of two poems A and B.
+Since we aimed at a curated corpus, we needed to remove duplicate poems. We identify duplicates by first grouping poems from both corpora by authors, and then calculating the jaccard-coefficient J between the unigrams of two poems A and B.
 
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=\color{red}J(A,B) = \frac{|A \cap B|}{|A \cup B|}">
 </p>
 
-We evaluate our method by calculating J between all documents of the same author (after name standardization). We check J against titles and, if in doubt, by reading the actual texts. After manual inspection, we set a threshold for J to achieve high precision (to not identify false positives, i.e., saying that two texts are duplicates when in fact they are not). Optimizing for recall (not to miss too many actual duplicates) is hampered by not having a gold dataset, but set against precision, we could find a good balance.
+We evaluate this method by calculating J between all documents of the same author (after name standardization). We check J against titles and, if in doubt, by reading the actual texts. After manual inspection, we set a threshold for J to achieve high precision (to not identify false positives, i.e., saying that two texts are duplicates when in fact they are not). Optimizing for recall (not to miss too many actual duplicates) is hampered by not having a gold dataset, but set against precision, we could find a good balance.
 Finally, if two poems exceed the threshold J=0.5, we consider these two poems duplicates (high J means more unigram overlap). It appears that in the time-frame 1650--1675 there are a number of duplicate poems within Textgrid itself already (which is not the case in DTA), that also occur twice in Textgrid, even sharing the same title. 
 Overall, DTA provides a cleaner resource, and if in doubt, we choose the DTA version of a poem to be included in DLK.
 In total, this method identifies 7600 poems to be duplicates.
