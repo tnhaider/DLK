@@ -37,8 +37,10 @@ According to the number of line group tags with the attribute-value pair type=â€
 ```  
 "dta.poem.21698": 
     {
-    "metadata": {
-        "author": {
+    "metadata": 
+    {
+        "author": 
+        {
             "name": "Various",
             "birth": "N.A.",
             "death": "N.A."
@@ -52,9 +54,12 @@ According to the number of line group tags with the attribute-value pair type=â€
         "booktitle": "Arent, Wilhelm (Hrsg.): 
                      Moderne Dichter-Charaktere. Leipzig, [1885]."
         },
-    "poem": {
-        "stanza.1": {
-            "line.1": {
+    "poem": 
+    {
+        "stanza.1": 
+        {
+            "line.1": 
+            {
                 "text": "Den Auserkorenen hat eine Feder",
                 "tokens": 
                 [
@@ -69,7 +74,8 @@ According to the number of line group tags with the attribute-value pair type=â€
                  "ART", "NN", "VAFIN", "ART", "NN"
                 ]
             },
-            "line.2": {
+            "line.2": 
+            {
                 "text": "Aus seiner Schwinge der Simurg geweiht:",
                 "tokens": 
                 [
@@ -85,7 +91,8 @@ According to the number of line group tags with the attribute-value pair type=â€
                 ]
             },
         },
-        "stanza.2: {
+        "stanza.2: 
+        {
             [....] [....] [....] [....]
         }
     }
