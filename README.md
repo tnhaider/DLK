@@ -291,4 +291,6 @@ When using this corpus, please consider citing the following papers:
 ## Version History
 
 Version 2 is the full corpus, but includes around 10.000 duplicate stanzas.
-Version 3 was cleaned up, the the integrity of particular poems was destroyed, because we removed duplicate stanzas without looking at the poem ids.
+Version 3 was cleaned up, but the integrity of certain poems was destroyed, because we removed duplicate stanzas without looking at the poem ids.
+Version 4 tried to reconstruct whole poems, but was still suffering from inconsistencies, broken Textgrid titles and sketchy duplication detection.
+Version 5 was completely rebuilt and now includes a number of automatic annotations like part-of-speech and syllable boundaries.
