@@ -28,7 +28,7 @@ According to the number of line group tags with the attribute-value pair type=â€
   
 ## Download
   
-  You can find the corpora in .zip files in their resprective folder.
+  You can find the corpora in .zip files in their respective folders.
   Since github does not allow file sizes to be larger than 80MB, the Textgrid subcorpus and DLK itself are split across multiple (2) zip files. 
   To unpack the respective corpus, you need both the .z01 and the .zip file (if there are more parts, there will be .z02, .z03, etc. files as well).
   
