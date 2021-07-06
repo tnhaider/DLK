@@ -13,7 +13,7 @@ As basis for research on computational literary stylistics of poetry, we aimed t
 | \#authors   | 227           | 73           | 254        |
 
 This corpus essentially contains the poetry from the German Text Archive (Deutsches Textarchiv: DTA) and also the Digital Library of Textgrid.
-According to the number of line group tags with the attribute-value pairtype=’poem’ (`<lg type='poem'>`), Textgrid contains 51,264 poems withthe genre label ‘Verse’, while DTA contains 23,877 poems with the genrelabel ‘Lyrik’. 
+According to the number of line group tags with the attribute-value pairtype=’poem’ (`<lg type='poem'>`), Textgrid contains 51,264 poems with the genre label ‘Verse’, while DTA contains 23,877 poems with the genre label ‘Lyrik’. 
   
  Not all of the original texts are actually in German. The actualcorpus sizes after filtering can be looked up in the Table above. It should be noted that the whole DTA corpus contains a total of 40,077 line groups that look like poems, but without the proper genre label (e.g., appearing in the genre ‘science’), poems are likely embedded within other texts (by quotation, e.g., for criticism) and might not come with proper meta-data.
   
