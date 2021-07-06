@@ -191,17 +191,11 @@ In total, this method identifies 7600 poems to be duplicates.
  ![name-of-you-image](https://github.com/tnhaider/DLK/blob/master/figures/DLK_Authors_vs_Time.portrait.png?raw=true)
  
  In the above Figure, we plotted each poem in DTA and Textgrid over time, from 1550 to 1950. Every dot represents a poem, where dots can lie on top of each other. Dots are partly transparent, so that fully saturated dots show poems that lie on top of each other. Red dots are Textgrid poems and blue dots are DTA poems. The x-axis shows the year of a poem, while the y-axis is populated by authors, both corpora simply plotted on top of each other. One can see that DTA consists of full books that are organized by author (large dots) so that the datapoints for single poems get plotted on top of each other, while Textgrid has a time stamp for most single poems (after 1750), outlining the productive periods of authors.
-
-## Temporal Distribution
-
-DLK spans the entire New High German Language Period (the poetry in that timeframe), from 1575 to 1936.
-
-DLK was built from Textgrid and DTA (textarchiv.de).
   
 
 
 
-## Publication
+## Publications
 
 When using this corpus, please consider citing the following papers:
 
