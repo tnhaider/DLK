@@ -53,7 +53,7 @@ According to the number of line group tags with the attribute-value pair type=â€
         "language": ["de:0.99"],
         "booktitle": "Arent, Wilhelm (Hrsg.): 
                      Moderne Dichter-Charaktere. Leipzig, [1885]."
-        },
+    },
     "poem": 
     {
         "stanza.1": 
