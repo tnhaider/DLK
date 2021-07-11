@@ -159,7 +159,7 @@ Can be either 'word' if the token is an actual word, or 'punct' if the token is 
 
 Every line already comes pre-tagged according to the STTS tagset.
 To check which model we used for tagging, please consult the paper below.
-We achieved over .94% Accuracy, which might not be expected when tagging poetry (with off-the-shelf taggers).
+We achieved over 95% Accuracy, which might not be expected when tagging poetry (with off-the-shelf taggers).
 
 
 ## Composition
