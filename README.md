@@ -1,4 +1,4 @@
-# The German Poetry Corpus / Deutsches Lyrik Korpus (DLK)
+# A German Poetry Corpus / Deutsches Lyrik Korpus (DLK)
 
 As basis for research on computational literary stylistics of poetry, we aimed to build a large, comprehensive, and easily searchable corpus of New High German poetry. We achieved this by collecting and parsing the bulk of digitized corpora that contain public domain German literature. As this corpus contains the majority of digitized public domain poetry from the New High German period, we call this new corpus the German Poetry Corpus, in German: Deutsches Lyrik Korpus, DLK for short.
 
