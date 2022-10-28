@@ -44,7 +44,7 @@ According to the number of line group tags with the attribute-value pair type=â€
     {
         "author": 
         {
-            "name": "Various", # Annotated in Margin: 'Carl Bleibtreu'
+            "name": "Various", # Annotated in Margin: 'Carl Bleibtreu' (see faksimile via urn)
             "birth": "N.A.",
             "death": "N.A."
         },
