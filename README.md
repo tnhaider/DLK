@@ -1,4 +1,4 @@
-# The German Poetry Corpus / Deutsches Lyrik Korpus (DLK)
+# A German Poetry Corpus / Deutsches Lyrik Korpus (DLK)
 
 As basis for research on computational literary stylistics of poetry, we aimed to build a large, comprehensive, and easily searchable corpus of New High German poetry. We achieved this by collecting and parsing the bulk of digitized corpora that contain public domain German literature. As this corpus contains the majority of digitized public domain poetry from the New High German period, we call this new corpus the German Poetry Corpus, in German: Deutsches Lyrik Korpus, DLK for short.
 
@@ -44,7 +44,7 @@ According to the number of line group tags with the attribute-value pair type=â€
     {
         "author": 
         {
-            "name": "Various",
+            "name": "Various", ### Annotated in Margin: 'Carl Bleibtreu' (see faksimile via urn)
             "birth": "N.A.",
             "death": "N.A."
         },
@@ -159,7 +159,7 @@ Can be either 'word' if the token is an actual word, or 'punct' if the token is 
 
 Every line already comes pre-tagged according to the STTS tagset.
 To check which model we used for tagging, please consult the paper below.
-We achieved over .94% Accuracy, which might not be expected when tagging poetry (with off-the-shelf taggers).
+We achieved over 95% Accuracy, which might not be expected when tagging poetry (with off-the-shelf taggers).
 
 
 ## Composition
