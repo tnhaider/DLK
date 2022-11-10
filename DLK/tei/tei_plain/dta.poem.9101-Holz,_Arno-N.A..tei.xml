@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-1 2-3 3-1 4-1 5-6 6-3</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">51</measure>
+        <measure type="characters">352</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1898</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192685"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In einem alten Park ein Schlösschen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ueber seinem bemoosten Dach glänzt ein Sommerhimmel,</l>
+            <l>sieben verwilderte Taxusalleeen</l>
+            <l>treffen sich vor seiner Thür.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich halte die Hand vor und sehe in ein Fenster.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann,</l>
+            <l>blinkend,</l>
+            <l>ein Goldrahmen,</l>
+            <l>verschwimmende Farben,</l>
+            <l>jetzt,</l>
+            <l>deutlich:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine rosenüberstreute Tapete,</l>
+            <l>ein blauer Divan,</l>
+            <l>eine nackte Dame füttert einen Kakadu!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

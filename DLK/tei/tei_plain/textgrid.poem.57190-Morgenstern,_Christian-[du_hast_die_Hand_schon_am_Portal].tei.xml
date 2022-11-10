@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[du hast die Hand schon am Portal]</title>
+        <author>
+          <persName>
+            <surname>Morgenstern</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-3 2-3 3-3 4-3 5-3 6-3</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">626</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[du hast die Hand schon am Portal]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast die Hand schon am Portal</l>
+            <l>und tastest nach der Klinke Hand</l>
+            <l>(denn noch erhellt sie dir kein Strahl).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst erst wach, wenn sie sie fand,</l>
+            <l>sei's dieses, sei's das nächste Mal; –</l>
+            <l>dann wirst du weiß stehn wie die Wand,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>davor du lange dumpf geirrt;</l>
+            <l>und wie ein Leichnam hinfällt, wird</l>
+            <l>dein Leib hinfallen in den Sand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast die Hand schon am Portal</l>
+            <l>und tastest nach der Klinke Hand</l>
+            <l>(denn noch erhellt sie dir kein Strahl).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst erst wach, wenn sie sie fand,</l>
+            <l>sei's dieses, sei's das nächste Mal; –</l>
+            <l>dann wirst du weiß stehn wie die Wand,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>davor du lange dumpf geirrt;</l>
+            <l>und wie ein Leichnam hinfällt, wird</l>
+            <l>dein Leib hinfallen in den Sand.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

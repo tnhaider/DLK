@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Maikäferlied .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">65</measure>
+        <measure type="tokens">41</measure>
+        <measure type="characters">275</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Maikäferlied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Türkenmännchen, flieg hinweg,               </l>
+            <l>Die Weiber mit den Stangen,</l>
+            <l>Wollen dich empfangen.</l>
+            <l>Türkenweibchen flieg hinweg,</l>
+            <l>Die Männer mit den Spiessen,</l>
+            <l>Wollen dich erschießen.</l>
+            <l>Flieg in den Himmel,</l>
+            <l>Bring mirn Sack voll Kümmel,</l>
+            <l>Tunk ich meinen Weck hinein,</l>
+            <l>Bei dem rothen kühlen Wein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

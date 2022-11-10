@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">2.</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">600</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>2.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Jüngling steht auf dem Verdeck,</l>
+            <l>Sieht seine Schiffe fahren,</l>
+            <l>Die Sonne stralt, es spielt die Luft</l>
+            <l>Mit seinen goldnen Haaren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Ruder schallt, das Segel schwillt,</l>
+            <l>Die bunten Wimpel fliegen,</l>
+            <l>Meerfrauen mit Gesang und Spiel</l>
+            <l>Sich um die Kiele wiegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er spricht: „Das ist mein Königreich,</l>
+            <l>Das frei und lustig streifet,</l>
+            <l>Das um die träge Erde her</l>
+            <l>Auf blauen Fluten schweifet.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ziehen finstre Wolken auf</l>
+            <l>Mit Sturm und mit Gewitter.</l>
+            <l>Die Blitze zucken aus der Nacht,</l>
+            <l>Die Maste springen in Splitter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Wogen stürzen auf das Schiff,</l>
+            <l>So wilde, Bergen gleiche;</l>
+            <l>Verschlungen ist der Königssohn</l>
+            <l>Sammt seinem lust’gen Reiche.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

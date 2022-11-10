@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput I.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">491</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput I.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein kleines Harfenmädchen sang.</l>
+            <l>Sie sang mit wahrem Gefühle</l>
+            <l>Und falscher Stimme, doch ward ich sehr</l>
+            <l>Gerühret von ihrem Spiele.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sang von Liebe und Liebesgram,</l>
+            <l>Aufopfrung und Wiederfinden</l>
+            <l>Dort oben, in jener besseren Welt,</l>
+            <l>Wo alle Leiden schwinden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sang vom irdischen Jammerthal,</l>
+            <l>Von Freuden, die bald zerronnen,</l>
+            <l>Vom Jenseits, wo die Seele schwelgt</l>
+            <l>Verklärt in ew’gen Wonnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sang das alte Entsagungslied,</l>
+            <l>Das Eyapopeya vom Himmel,</l>
+            <l>Womit man einlullt, wenn es greint,</l>
+            <l>Das Volk, den großen Lümmel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

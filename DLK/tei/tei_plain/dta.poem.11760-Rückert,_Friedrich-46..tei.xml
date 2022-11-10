@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">46.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">601</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>46.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein altes Sprichwort sagt: Im Trüben ist gut fischen.</l>
+            <l>Ein andres: gut ists auch im Trüben zu entwischen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort ists der Fischer selbst der seinen Tümpfel trübt,</l>
+            <l>Und am bethörten Fisch mit Glück sein Handwerk übt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und also trübt die Flut um sich der Kraken auch,</l>
+            <l>Daß blinde Heringsbrut sich dräng' in seinen Bauch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch hier ein Fischlein ists, das keine andre Kraft</l>
+            <l>Zu seiner Nothwehr hat als seinen braunen Saft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der braune Saft, um den die Menschen selbst es fangen,</l>
+            <l>Derselbe ists, durch den es ihnen ist entgangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Spritz, arme Sepie, wehrloser Tintenfisch,</l>
+            <l>Die Tinte nach dem Feind, und in der Trüb' entwisch!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

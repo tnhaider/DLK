@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dieselbe</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-4 3-8 4-4</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">528</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1785</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dieselbe</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur wer die Sehnsucht kennt,</l>
+            <l>Weiß, was ich leide!</l>
+            <l>Allein und abgetrennt</l>
+            <l>Von aller Freude,</l>
+            <l>Seh ich ans Firmament</l>
+            <l>Nach jener Seite.</l>
+            <l>Ach! der mich liebt und kennt,</l>
+            <l>Ist in der Weite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schwindelt mir, es brennt.</l>
+            <l>Mein Eingeweide.</l>
+            <l>Nur wer die Sehnsucht kennt,</l>
+            <l>Weiß, was ich leide!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur wer die Sehnsucht kennt,</l>
+            <l>Weiß, was ich leide!</l>
+            <l>Allein und abgetrennt</l>
+            <l>Von aller Freude,</l>
+            <l>Seh ich ans Firmament</l>
+            <l>Nach jener Seite.</l>
+            <l>Ach! der mich liebt und kennt,</l>
+            <l>Ist in der Weite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schwindelt mir, es brennt.</l>
+            <l>Mein Eingeweide.</l>
+            <l>Nur wer die Sehnsucht kennt,</l>
+            <l>Weiß, was ich leide!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

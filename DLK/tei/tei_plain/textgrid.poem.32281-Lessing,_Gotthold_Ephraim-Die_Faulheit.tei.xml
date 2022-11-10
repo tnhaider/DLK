@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Faulheit</title>
+        <author>
+          <persName>
+            <surname>Lessing</surname>
+            <forename>Gotthold Ephraim</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">744</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Faulheit</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fleiß und Arbeit lob' ich nicht.</l>
+            <l>Fleiß und Arbeit lob' ein Bauer.</l>
+            <l>Ja, der Bauer selber spricht,</l>
+            <l>Fleiß und Arbeit wird ihm sauer.</l>
+            <l>Faul zu sein, sei meine Pflicht;</l>
+            <l>Diese Pflicht ermüdet nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bruder, laß das Buch voll Staub.</l>
+            <l>Willst du länger mit ihm wachen?</l>
+            <l>Morgen bist du selber Staub!</l>
+            <l>Laß uns faul in allen Sachen,</l>
+            <l>Nur nicht faul zu Lieb' und Wein,</l>
+            <l>Nur nicht faul zur Faulheit sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fleiß und Arbeit lob' ich nicht.</l>
+            <l>Fleiß und Arbeit lob' ein Bauer.</l>
+            <l>Ja, der Bauer selber spricht,</l>
+            <l>Fleiß und Arbeit wird ihm sauer.</l>
+            <l>Faul zu sein, sei meine Pflicht;</l>
+            <l>Diese Pflicht ermüdet nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bruder, laß das Buch voll Staub.</l>
+            <l>Willst du länger mit ihm wachen?</l>
+            <l>Morgen bist du selber Staub!</l>
+            <l>Laß uns faul in allen Sachen,</l>
+            <l>Nur nicht faul zu Lieb' und Wein,</l>
+            <l>Nur nicht faul zur Faulheit sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

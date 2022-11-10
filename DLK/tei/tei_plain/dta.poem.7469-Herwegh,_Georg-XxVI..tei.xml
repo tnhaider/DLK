@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxVI.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">571</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxVI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir haben, was auch eine Sage schreibe,</l>
+            <l>Den Funken des Prometheus nicht gepachtet;</l>
+            <l>So tief wir unter uns das Weib geachtet,</l>
+            <l>Die reinste Flamme wohnt in </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wer dem selbstisch frostigen Getreibe,</l>
+            <l>Das ihm des Herzens liebste Kinder schlachtet,</l>
+            <l>Wer dieser Kälte zu entrinnen trachtet,</l>
+            <l>Wo flöh' er hin, als zu dem treuen Weibe?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Felsen ist der Mann, der nur erglüt,</l>
+            <l>Wenn trotzig er gen Himmel sich erhoben,</l>
+            <l>Zurück ihm schleudernd seiner Sonne Strahlen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein stiller See des Weibes weich Gemüt,</l>
+            <l>Das fromm in sich empfängt das Licht von Oben,</l>
+            <l>Drin sich die Himmel himmlischer noch malen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

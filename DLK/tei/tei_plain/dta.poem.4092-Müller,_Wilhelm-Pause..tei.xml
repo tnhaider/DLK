@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Pause.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-9 2-8</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">129</measure>
+        <measure type="characters">722</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Pause.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hab' sie umschlungen mit einem grünen Band —</l>
+            <l>Ich kann nicht mehr singen, mein Herz ist zu voll,</l>
+            <l>Weiß nicht, wie ich's in Reime zwingen soll.</l>
+            <l>Meiner Sehnsucht allerheißesten Schmerz</l>
+            <l>Durft' ich aushauchen in Liederscherz,</l>
+            <l>Und wie ich klagte so süß und fein,</l>
+            <l>Meint' ich doch, mein Leiden wär' nicht klein:</l>
+            <l>Ei, wie groß ist wohl meines Glückes Last,</l>
+            <l>Daß kein Klang auf Erden es in sich faßt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun, liebe Laute, ruh' an dem Nagel hier!</l>
+            <l>Und weht ein Lüftchen über die Saiten dir,</l>
+            <l>Und streift eine Biene mit ihren Flügeln dich,</l>
+            <l>Da wird mir bange und es durchschauert mich.</l>
+            <l>Warum ließ ich das Band auch hängen so lang?</l>
+            <l>Oft fliegt's um die Saiten mit seufzendem Klang.</l>
+            <l>Ist es der Nachklang meiner Liebespein?</l>
+            <l>Soll es das Vorspiel neuer Lieder sein?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

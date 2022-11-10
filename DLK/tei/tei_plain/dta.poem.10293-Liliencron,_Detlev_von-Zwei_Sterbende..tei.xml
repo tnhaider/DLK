@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zwei Sterbende.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">574</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zwei Sterbende.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der eine hatte Geld und just genug,             </l>
+            <l>Des Lebens Schwere ruhig zu ertragen,</l>
+            <l>Nach keinem Menschen braucht Mylord zu fragen,</l>
+            <l>Und keines Hospodaren Rock er trug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der andre trieb im Schweiße seinen Pflug,</l>
+            <l>Hoch wie die Wolken sah das Glück er jagen,</l>
+            <l>Auf jeder Rennbahn blieb zurück sein Wagen,</l>
+            <l>Statt Weines fand er nur den Wasserkrug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der erste sprach, als ihn der Tod umfing,</l>
+            <l>Und ihm den schwarzen Mantel überhing:</l>
+            <l>Ich sterbe gern, es rufen mich die Sterne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der zweite rief, als er die Augen schloß,</l>
+            <l>Und ihn die träge Welle überfloß:</l>
+            <l>Kein Eden will ich, ach, wie sterb’ ich gerne.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

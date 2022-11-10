@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das todte Glück .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">828</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das todte Glück .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leis' umrauscht von Himmelsquellen,</l>
+            <l>Süße Sehnsucht in der Brust</l>
+            <l>Saß ich einst die mondeshellen</l>
+            <l>Nächte da in stiller Lust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jene Zeit wird nimmer kommen,</l>
+            <l>Himmelsquellen sind versiegt,</l>
+            <l>All mein Sehnen ist verglommen,</l>
+            <l>Und mein Glück im Grabe liegt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weib, du riefst in böser Stunde</l>
+            <l>Mit dem zauberischen Blick,</l>
+            <l>Mit dem wonnevollen Munde</l>
+            <l>Schmeichelnd hin zu dir mein Glück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und es kam ein Kind und schmiegte,</l>
+            <l>Flehend sich in deinen Arm,</l>
+            <l>Der es mild umschlang und wiegte,</l>
+            <l>Als ein weicher Mutterarm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun das Kind in Traumeswonnen</l>
+            <l>Hingeschlummert, sich verlor;</l>
+            <l>Nahmst du still und kaltbesonnen</l>
+            <l>Deinen Todesdolch hervor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Scharf geschliffen am Gesteine</l>
+            <l>Deines Herzens war der Stahl,</l>
+            <l>Und das Kind, um das ich weine,</l>
+            <l>Athmete zum leztenmal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und du stießest leicht und munter</l>
+            <l>Wie ein Steinchen in den Bach,</l>
+            <l>In das Grab mein Glück hinunter,</l>
+            <l>Sahst ihm ruhig, lächelnd nach.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

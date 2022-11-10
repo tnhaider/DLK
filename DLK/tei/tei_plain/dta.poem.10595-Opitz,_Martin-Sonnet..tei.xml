@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">177</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">717</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So offt ich ewren Glantz/ jhr hellen äuglein/ schawe/</l>
+            <l>Empfindt ich bey mir selbst so grosse Lust vnd Freudt/</l>
+            <l>Daß ich mich frewen muß auch in Trübseligkeit</l>
+            <l>Vnd eusserster Fortun/ in dem ich auff euch bawe/</l>
+            <l>Hergegen schätz ich mich für die betrübtste Frawe/</l>
+            <l>Wann jhr nicht wie zuvor geneigt vnd freundlich seyt/</l>
+            <l>Ich bin mir selber gramm/ mein Leben ist mir leydt/</l>
+            <l>Weil ich von euch gehaßt/ auff die ich einig trawe.</l>
+            <l>Ihr jrrdisches Gestirn/ jhr sterblichen Planeten/</l>
+            <l>Ihr meine Sonn vnd Mond/ die jhr mich könnet tödten;</l>
+            <l>Ohn euch ist alle Lust nichts als ein blosses bildt/</l>
+            <l>Was wundert jhr euch dann/ daß ich zu euch muß eilen/</l>
+            <l>Mein Zuversicht? Es fleucht ein jeder für den Pfeilen</l>
+            <l>Deß Todes/ wider die jhr seyt mein starcker Schildt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

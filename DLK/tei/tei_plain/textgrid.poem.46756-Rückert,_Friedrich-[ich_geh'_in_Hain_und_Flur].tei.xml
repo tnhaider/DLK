@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[ich geh' in Hain und Flur]</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">600</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[ich geh' in Hain und Flur]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich geh' in Hain und Flur</l>
+            <l>Nie ohne deine Spur;</l>
+            <l>Denn immer muß ich denken,</l>
+            <l>Wohin ich nur mag lenken,</l>
+            <l>Die Augen und den Schritt:</l>
+            <l>Hier gingest du einst mit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und werd' ich hingelangen,</l>
+            <l>Wo du nie mitgegangen,</l>
+            <l>So denk' ich wieder: hier</l>
+            <l>Gingst du noch nie mit mir;</l>
+            <l>O könnt' ich mit dem neuen</l>
+            <l>Spaziergang dich erfreuen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich geh' in Hain und Flur</l>
+            <l>Nie ohne deine Spur;</l>
+            <l>Denn immer muß ich denken,</l>
+            <l>Wohin ich nur mag lenken,</l>
+            <l>Die Augen und den Schritt:</l>
+            <l>Hier gingest du einst mit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und werd' ich hingelangen,</l>
+            <l>Wo du nie mitgegangen,</l>
+            <l>So denk' ich wieder: hier</l>
+            <l>Gingst du noch nie mit mir;</l>
+            <l>O könnt' ich mit dem neuen</l>
+            <l>Spaziergang dich erfreuen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

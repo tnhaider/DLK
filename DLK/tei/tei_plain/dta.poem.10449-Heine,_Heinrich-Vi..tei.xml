@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">207</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">826</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als ich, auf der Reise, zufällig</l>
+            <l>Meines Liebchens Familie fand,</l>
+            <l>Schwesterchen, Vater und Mutter,</l>
+            <l>Sie haben mich freudig erkannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie fragten nach meinem Befinden,</l>
+            <l>Und sagten selber sogleich:</l>
+            <l>Ich hätte mich gar nicht verändert,</l>
+            <l>Nur mein Gesicht sey bleich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich fragte nach Muhmen und Basen,</l>
+            <l>Nach manchem langweil'gen Gesell'n,</l>
+            <l>Und nach dem kleinen Hündchen,</l>
+            <l>Mit seinem sanften Bell'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch nach der vermählten Geliebten</l>
+            <l>Fragte ich nebenbei;</l>
+            <l>Und freundlich gab man zur Antwort:</l>
+            <l>Daß sie in den Wochen sey.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und freundlich gratulirt' ich,</l>
+            <l>Und lispelte liebevoll:</l>
+            <l>Daß man sie von mir recht herzlich</l>
+            <l>Viel tausendmal grüßen soll.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwesterchen rief dazwischen:</l>
+            <l>Das Hündchen, sanft und klein,</l>
+            <l>Ist groß und toll geworden,</l>
+            <l>Und ward ertränkt, im Rhein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Kleine gleicht der Geliebten,</l>
+            <l>Besonders, wenn sie lacht;</l>
+            <l>Sie hat dieselben Augen,</l>
+            <l>Die mich so elend gemacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

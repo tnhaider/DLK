@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Adelnssucht .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-12 2-12 3-12</measure>
+        <measure type="syllables">205</measure>
+        <measure type="tokens">148</measure>
+        <measure type="characters">855</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Adelnssucht .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mancher jetzund nach Adel strebt,               </l>
+            <l>Hätt er nicht Geld,</l>
+            <l>Würd öfter um sich schauen,</l>
+            <l>Gedenken wer sein Vater war,</l>
+            <l>Ders ganze Jahr</l>
+            <l>Den Acker muste bauen;</l>
+            <l>Der jetzund sich</l>
+            <l>So gar höflich</l>
+            <l>Beyn Leuten thut aufschmücken,</l>
+            <l>Hälts nicht dafür,</l>
+            <l>Als wenn man spür,</l>
+            <l>Daß er den Pflug kann zwicken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn er nun kommt zum Abendtanz,</l>
+            <l>So gilt sein Kranz</l>
+            <l>Mehr denn der andern allen.</l>
+            <l>Er krümmt sich fast nach Adelssitt,</l>
+            <l>Sein gemeßner Tritt</l>
+            <l>Thut ihm selbst wohlgefallen.</l>
+            <l>Wer hätt vertraut,</l>
+            <l>Daß solches Kraut</l>
+            <l>In Dörfern auch sollt wachsen?</l>
+            <l>Wenn er nur spricht,</l>
+            <l>Er ist erwischt,</l>
+            <l>Ist bäurisch ausgelassen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weisheit die thut ihm viel zu leid,</l>
+            <l>Giebt bös Bescheid,</l>
+            <l>Wenn mans ihm nicht will glauben,</l>
+            <l>Dünkt sich in aller Sach gescheit,</l>
+            <l>Doch fehlts ihm weit,</l>
+            <l>Sieht aus wie saure Trauben.</l>
+            <l>Im Spiegel-Glas,</l>
+            <l>Wird sehen das,</l>
+            <l>Der Kittel ihn bas zieret,</l>
+            <l>Den seiden Waat,</l>
+            <l>Den Adelsstaat,</l>
+            <l>Zu bäurisch Art verführet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

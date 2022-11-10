@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">6.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">623</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>6.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alswie der Mensch, so ist sein Gott, so ist sein Glaube,</l>
+            <l>Aus geist'gem Aether bald, und bald aus Erdenstaube.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch doppelt ist der Gott, der Glaube doppelt auch,</l>
+            <l>Hier selbstentglommner Trieb, dort überkommner Brauch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Eigenste wird ganz nie frei vom Angenommnen,</l>
+            <l>Doch übt die Eigenheit ihr Recht am Ueberkommnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man reißt das Haus nicht ein, das Väter uns gebaut,</l>
+            <l>Doch richtet man sich's ein, wie man's am liebsten schaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und räumt man nicht hinweg ehrwürd'ge Ahnenbilder,</l>
+            <l>Durch Deutung macht man sie und durch Umgebung milder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Glaubens Bilder sind unendlich umzudeuten,</l>
+            <l>Das macht so brauchbar sie bei so verschiednen Leuten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

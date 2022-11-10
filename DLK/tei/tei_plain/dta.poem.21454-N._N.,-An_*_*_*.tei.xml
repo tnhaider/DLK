@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An  * * *</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">798</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An  * * *</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum ewigen Thron strebt ihr empor,</l>
+            <l>So trotzigstolz und löwenkühn,</l>
+            <l>Ihr sucht des Himmels Flammenthor,</l>
+            <l>Nicht eher kann Euch Frieden blüh’n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O nehmt mich auf in Euern Bund!</l>
+            <l>Ich bin so arm und leidesmüd’,</l>
+            <l>Im Kampf mit Euch werd’ ich gesund,</l>
+            <l>Vielleicht gelingt mir auch ein Lied.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Lied, das meine Seele reißt</l>
+            <l>Urmächtig aus der Trübsal Nacht,</l>
+            <l>Daß frei im Aether schwebt der Geist,</l>
+            <l>In Blumenduft und Sonnenpracht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Lied, wie Offenbarungslaut,</l>
+            <l>Wie Frühlingssturm in Wald und Flur,</l>
+            <l>Das nur im Licht die Gottheit schaut</l>
+            <l>Und hüllenlos die Allnatur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Lied, das wie die Thräne quillt,</l>
+            <l>Die uns erlöst aus tiefstem Schmerz,</l>
+            <l>Ein Lied, das jede Sehnsucht stillt,</l>
+            <l>Und süßer Trost für jedes Herz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Lied, das nicht mehr brünstig fragt,</l>
+            <l>Ein Lied, das Alles selig kennt,</l>
+            <l>In dem der ewige Morgen tagt,</l>
+            <l>In dem die ewige Sonne brennt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">280</measure>
+        <measure type="tokens">204</measure>
+        <measure type="characters">1135</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein hertze brennt in heisser glut</l>
+            <l>Und wirfft die flammen dennoch nicht empor/</l>
+            <l>Ich weiß nicht/ wie mir ist zu muth/</l>
+            <l>Mein seuffzen bring ich nur mit schmertzen vor;</l>
+            <l>Der augen naß/ so häuffig kommt gerannt/</l>
+            <l>Entzündet mehr/ als löschet/ meinen brandt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den krancken ist zu helffen leicht/</l>
+            <l>Wenn er die schmertzen nur dem artzt bekennt/</l>
+            <l>Eh ihm das gifft zum hertzen steigt/</l>
+            <l>Und eh die seele sich vom leibe trennt;</l>
+            <l>Ich aber sterbe lieber tausend mahl/</l>
+            <l>Eh daß ich solt eröffnen meine qual.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liebe gleichwohl meinen tod</l>
+            <l>Und halte viel vom ursprung meiner pein;</l>
+            <l>Die/ so mich hat gebracht in noth/</l>
+            <l>Die laß ich mir doch nicht zu wider seyn.</l>
+            <l>Lebt in der welt ein unvergnügter sinn/</l>
+            <l>Fürwahr so weiß ich/ daß ich solcher bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es saget zwar der weisen zunfft:</l>
+            <l>Man soll die lust was enger spannen ein/</l>
+            <l>Damit die herrschafft der vornunfft</l>
+            <l>Dem hertzen möge vorbehalten seyn;</l>
+            <l>Ich fühle doch/ so fern es einer fühlt/</l>
+            <l>Daß liebe nur tyrannisch meister spielt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr freunde habet gute nacht/</l>
+            <l>Hinfüro lieb ich nur die einsamkeit/</l>
+            <l>Ach! ach! wer hätte diß gedacht/</l>
+            <l>Daß aus der lust entspringe hertzenleid</l>
+            <l>Ich liebe zwar/ so fern es lieben heist/</l>
+            <l>Wenn einer irrt ohn hertze/ seel und geist.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

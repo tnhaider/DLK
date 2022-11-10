@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet.  
+ An die sterne wegen Barnien.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">117</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet.  
+ An die sterne wegen Barnien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr kinder süsser nacht/ ihr feuer-vollen brüder/</l>
+            <l>Du kleines heer der luft/ du himmels-bürgerey/</l>
+            <l>Die du durchs braune feld nach reiner melodey</l>
+            <l>Erhebest deinen tantz/ und deine schöne glteder/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn itzt der faule schlaff die müden augen-lieder</l>
+            <l>Durch einen faulen sieg den sinnen leget bey/</l>
+            <l>Damit kein wachen mehr bey uns zu spüren sey.</l>
+            <l>Jhr kinder süsser nacht legt eure fackeln nieder/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was steht ihr wie zuvor/ und lacht den welt-kreiß an?</l>
+            <l>Laufft durch das göldne hauß/ verlast die fenster-scheiben/</l>
+            <l>Geht rückwerts/ wie ihr solt/ ich will euch rückwerts treiben/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht rückwerts wieder hin die alte finstre bahn.</l>
+            <l>Geht kinder wie ihr solt/ flieht lichter/ flieht von mir/</l>
+            <l>Mein licht/ mein augen-stern/ mein lieb ist nicht allhier.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

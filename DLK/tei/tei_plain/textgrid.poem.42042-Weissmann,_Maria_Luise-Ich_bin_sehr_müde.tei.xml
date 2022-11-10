@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ich bin sehr müde</title>
+        <author>
+          <persName>
+            <surname>Weissmann</surname>
+            <forename>Maria Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">294</measure>
+        <measure type="tokens">188</measure>
+        <measure type="characters">1122</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1914</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ich bin sehr müde</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Fenster lehnt sich weit in den Abend hinaus,</l>
+            <l>Die Wolken stehen über den Dächern, ein Blumenstrauß,</l>
+            <l>Die Luft streichelt mich und ist sanft und voll großer Güte.</l>
+            <l>Ich aber halte die Hände gefaltet, denn ich bin müde,</l>
+            <l>Und höre verwundert auf das beschwingte Schreiten</l>
+            <l>Der Menschen, die auf der Straße vorübergleiten,</l>
+            <l>So sehr sind ihnen heute die Glieder leicht.</l>
+            <l>Nur ich liege, schwergebettet in meine Müde.</l>
+            <l>Manchmal höre ich einen Schritt, der Deinem gleicht,</l>
+            <l>Dann bin ich, Geliebter, wie die Musik der Schritte leicht</l>
+            <l>Und wie die Wolken über den Dächern silberne Blüte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Fenster lehnt sich weit in den Abend hinaus,</l>
+            <l>Die Wolken stehen über den Dächern, ein Blumenstrauß,</l>
+            <l>Die Luft streichelt mich und ist sanft und voll großer Güte.</l>
+            <l>Ich aber halte die Hände gefaltet, denn ich bin müde,</l>
+            <l>Und höre verwundert auf das beschwingte Schreiten</l>
+            <l>Der Menschen, die auf der Straße vorübergleiten,</l>
+            <l>So sehr sind ihnen heute die Glieder leicht.</l>
+            <l>Nur ich liege, schwergebettet in meine Müde.</l>
+            <l>Manchmal höre ich einen Schritt, der Deinem gleicht,</l>
+            <l>Dann bin ich, Geliebter, wie die Musik der Schritte leicht</l>
+            <l>Und wie die Wolken über den Dächern silberne Blüte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

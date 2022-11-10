@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">400</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„wer hat durch ein Gedicht das rauhe Volck gelehrt,</l>
+            <l>350”Warum ein Mensch die Macht des Himmels fürchtet, ehrt?</l>
+            <l>„was Krieg und Friede sey? was Recht? was ein Geseze?</l>
+            <l>„was GOtt und die Natur in unsre Sinnen eze?</l>
+            <l>„wie ward der Tugend Werth demselben angezeigt?</l>
+            <l>„wie ward es endlich mir und anderen geneigt?</l>
+            <l>355”Ich bin der Urbeginn, aus welchem alles flosse,</l>
+            <l>„was nach und nach die Welt mit Wohlfart übergosse.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

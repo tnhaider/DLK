@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[gedenkblatt für Meyerbeer]</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">186</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">742</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1850</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[gedenkblatt für Meyerbeer]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dieser Zeit, wo jeder will</l>
+            <l>Und möglichst hoch und möglichst viel;</l>
+            <l>Wo körperlos die Weltideen</l>
+            <l>Wie Geister durch die Straßen gehen,</l>
+            <l>Doch, kömmts zu bilden, was gedacht,</l>
+            <l>Dem Wollen fehlt des Werkes Macht,</l>
+            <l>Wir von der Harmonie der Sphären</l>
+            <l>Die Reibung, nicht den Einklang hören:</l>
+            <l>Da laßt uns hoch den Meister ehren,</l>
+            <l>Der Großes will und, als ein Mann,</l>
+            <l>Was er gewollt, auch machen kann!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dieser Zeit, wo jeder will</l>
+            <l>Und möglichst hoch und möglichst viel;</l>
+            <l>Wo körperlos die Weltideen</l>
+            <l>Wie Geister durch die Straßen gehen,</l>
+            <l>Doch, kömmts zu bilden, was gedacht,</l>
+            <l>Dem Wollen fehlt des Werkes Macht,</l>
+            <l>Wir von der Harmonie der Sphären</l>
+            <l>Die Reibung, nicht den Einklang hören:</l>
+            <l>Da laßt uns hoch den Meister ehren,</l>
+            <l>Der Großes will und, als ein Mann,</l>
+            <l>Was er gewollt, auch machen kann!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

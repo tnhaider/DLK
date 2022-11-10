@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">548</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bricht herfür der Nächte Licht/</l>
+            <l>Ach Liebster/ kom̃t/ sein Angesicht</l>
+            <l>Soll meine Sonne werden:</l>
+            <l>Die Nacht das sehr verschwigne Kind/</l>
+            <l>Erweckt den kühlen Suden-Wind</l>
+            <l>Der fasterhitzten Erden:</l>
+            <l>Es wehn und gehn</l>
+            <l>Alle Winde saufft und linde/</l>
+            <l>Mond und Sterne</l>
+            <l>Wincken durch die Lufft von ferne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja Venus ziht zum ersten auff/</l>
+            <l>und will durch seinen sanfften lauff</l>
+            <l>uns beyde selbst begleiten/</l>
+            <l>Dem folgt das andre Sternen-heer</l>
+            <l>und hengt das Gold je mehr und mehr</l>
+            <l>Am Himmel auf von weiten;</l>
+            <l>Ja ich wil mich/</l>
+            <l>O mein Leben/ Jhm nun eben</l>
+            <l>Gantz ergeben/</l>
+            <l>Nun wilich nach Freuden streben!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

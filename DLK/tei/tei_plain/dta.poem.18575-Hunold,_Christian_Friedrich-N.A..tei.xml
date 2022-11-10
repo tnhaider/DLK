@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">131</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">512</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1702</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197766"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach süsse Stunde brich doch an/</l>
+            <l>Mein Hoffen zu vergnügen.</l>
+            <l>Mein Hertze dencket stets daran</l>
+            <l>Durch </l>
+            <l>Drum Amor komm und sey bereit/</l>
+            <l>Zu krönen die Beständigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was kan wohl ein süßre Lust/</l>
+            <l>Und frohern Sinn verstatten?</l>
+            <l>Als wenn die allerschönste Brust</l>
+            <l>Sich wird mit meiner gatten.</l>
+            <l>Drüm Amor/ komm und sey bereit/</l>
+            <l>Zu krönen die Beständigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch bist du gantz von Stahl und Stein/</l>
+            <l>Soll ich zuletzt verderben?</l>
+            <l>So laß mich nur so glücklich seyn/</l>
+            <l>In deinen Arm zu sterben.</l>
+            <l>Ach! Amor komm/ ich bin bereit/</l>
+            <l>Zu küssen deine Sterblichkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

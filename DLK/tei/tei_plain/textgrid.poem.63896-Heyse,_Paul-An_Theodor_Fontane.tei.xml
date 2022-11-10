@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Theodor Fontane</title>
+        <author>
+          <persName>
+            <surname>Heyse</surname>
+            <forename>Paul</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3 5-4 6-4 7-3 8-3</measure>
+        <measure type="syllables">308</measure>
+        <measure type="tokens">176</measure>
+        <measure type="characters">1172</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1872</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Theodor Fontane</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O du, der Übersetzergilde Meister,</l>
+            <l>Der schon so jung Don Juan nachgesungen,</l>
+            <l>Gereift mit Shakespeares hoher Kraft gerungen</l>
+            <l>Und kühn besiegt Ariostos wilde Geister;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zuletzt, durch dein Gelingen dreist und dreister,</l>
+            <l>In Dantes Höllenschlund hinabgedrungen</l>
+            <l>Und dann geläutert dich emporgeschwungen</l>
+            <l>Zum Paradies – Gruß dir, Freund Gildemeister!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu selbstlos bargst du stets den eignen Wert,</l>
+            <l>Da doch an goldner Weisheit, Witz und Wissen</l>
+            <l>So reiche Lebensfrucht dir ward beschert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun, da der Herbst erschien, laß uns nicht missen</l>
+            <l>Den Segen deines Werks, und hundertfarben</l>
+            <l>Zum Erntefeste sammle deine Garben!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O du, der Übersetzergilde Meister,</l>
+            <l>Der schon so jung Don Juan nachgesungen,</l>
+            <l>Gereift mit Shakespeares hoher Kraft gerungen</l>
+            <l>Und kühn besiegt Ariostos wilde Geister;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zuletzt, durch dein Gelingen dreist und dreister,</l>
+            <l>In Dantes Höllenschlund hinabgedrungen</l>
+            <l>Und dann geläutert dich emporgeschwungen</l>
+            <l>Zum Paradies – Gruß dir, Freund Gildemeister!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu selbstlos bargst du stets den eignen Wert,</l>
+            <l>Da doch an goldner Weisheit, Witz und Wissen</l>
+            <l>So reiche Lebensfrucht dir ward beschert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun, da der Herbst erschien, laß uns nicht missen</l>
+            <l>Den Segen deines Werks, und hundertfarben</l>
+            <l>Zum Erntefeste sammle deine Garben!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

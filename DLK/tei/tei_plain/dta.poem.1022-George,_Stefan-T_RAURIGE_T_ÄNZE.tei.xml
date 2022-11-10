@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">T RAURIGE   T ÄNZE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">695</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>T RAURIGE   T ÄNZE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du noch l&amp;#228;nger auf den kahlen böden               </l>
+            <l>Nach fr&amp;#252;hern vollen farben sp&amp;#228;hn               </l>
+            <l>Auf fr&amp;#252;chte warten in den fahlen öden               </l>
+            <l>Und &amp;#228;hren von verdr&amp;#228;ngten sommern m&amp;#228;hn?             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bescheide dich wenn nur im schattenschleier               </l>
+            <l>Mild schimmernd du genossene f&amp;#252;lle schaust               </l>
+            <l>Und durch die m&amp;#252;den l&amp;#252;fte ein befreier               </l>
+            <l>Der wind der weiten z&amp;#228;rtlich um uns braust             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sieh die tage die wie wunden brannten               </l>
+            <l>In unsrer vorgeschichte schwinden schnell               </l>
+            <l>Doch alle dinge die wir blumen nannten               </l>
+            <l>Versammeln sich am toten quell.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

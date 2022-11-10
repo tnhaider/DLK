@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Einem Schauspieler.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">579</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Einem Schauspieler.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, ich will Kugeln gießen aus den Lettern,</l>
+            <l>Hör' ich die Stunde der Erlösung schlagen,</l>
+            <l>Und </l>
+            <l>Die Welt nicht suchen mehr auf Deinen Brettern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gilt es, der Erde Götzen zu zerschmettern,</l>
+            <l>Ich kenne Dich, Du wirst Dein Leben wagen.</l>
+            <l>Wer unsers Friedens drückend Joch getragen,</l>
+            <l>Dem graut auch wahrlich nicht vor Sturm und Wettern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bis dahin aber opfere dem Schönen</l>
+            <l>So treu, wie jetzt, und heisse nicht despotisch</l>
+            <l>Dein Herz zu früh desselben sich entwöhnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So Manche macht die Freiheit jetzt zelotisch,</l>
+            <l>Daß sie, Barbaren gleich, die Kunst verhöhnen;</l>
+            <l>Sei lieber göthisch, theurer Freund, als gothisch!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

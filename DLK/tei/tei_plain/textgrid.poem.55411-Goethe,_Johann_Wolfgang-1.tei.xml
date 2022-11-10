@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">134</measure>
+        <measure type="characters">814</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1825</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese Richtung ist gewiß,</l>
+            <l>Immer schreite, schreite!</l>
+            <l>Finsternis und Hindernis</l>
+            <l>Drängt mich nicht zur Seite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Endlich leuchtest meinem Pfad,</l>
+            <l>Luna! klar und golden;</l>
+            <l>Immer fort und immer grad</l>
+            <l>Geht mein Weg zur Holden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun der Fluß die Pfade bricht,</l>
+            <l>Ich zum Nachen schreite,</l>
+            <l>Leite, liebes Himmelslicht,</l>
+            <l>Mich zur andern Seite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seh ich doch das Lämpchen schon</l>
+            <l>Aus der Hütte schimmern,</l>
+            <l>Laß um deinen Wagenthron</l>
+            <l>Alle Sterne glimmern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese Richtung ist gewiß,</l>
+            <l>Immer schreite, schreite!</l>
+            <l>Finsternis und Hindernis</l>
+            <l>Drängt mich nicht zur Seite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Endlich leuchtest meinem Pfad,</l>
+            <l>Luna! klar und golden;</l>
+            <l>Immer fort und immer grad</l>
+            <l>Geht mein Weg zur Holden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun der Fluß die Pfade bricht,</l>
+            <l>Ich zum Nachen schreite,</l>
+            <l>Leite, liebes Himmelslicht,</l>
+            <l>Mich zur andern Seite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seh ich doch das Lämpchen schon</l>
+            <l>Aus der Hütte schimmern,</l>
+            <l>Laß um deinen Wagenthron</l>
+            <l>Alle Sterne glimmern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

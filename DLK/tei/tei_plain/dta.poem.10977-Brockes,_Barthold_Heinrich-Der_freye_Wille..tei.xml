@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der freye Wille.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der freye Wille.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Lehre von dem freyen Willen, und daß wir die Voll-
+kommenheit,</l>
+            <l>Aufs wenigst in so hohem Grad, nicht hegen,</l>
+            <l>Scheint eine große Schwierigkeit</l>
+            <l>Dadurch sich in den Weg zu legen,</l>
+            <l>Daß wenn wir unser Innerstes ergründen,</l>
+            <l>Wir uns, uns selber zu vergnügen,</l>
+            <l>Fast gänzlich ungeschickt, und gar nicht fähig finden,</l>
+            <l>So doch der kräftigste Beweis der Lehre</l>
+            <l>Von eines Willens Freyheit wäre.</l>
+            <l>Zumal wir selbst an Gottes Werken,</l>
+            <l>Worin er, seine Lieb und Allmacht zu bemerken,</l>
+            <l>Uns so viel Proben wollen gönnen,</l>
+            <l>Woran wir uns vergnügen sollen,</l>
+            <l>Wir doch daran, auch wenn wir wollen,</l>
+            <l>Uns dennoch nicht vergnügen können.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

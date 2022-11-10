@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frühlingsmorgen.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-9 2-10</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">555</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frühlingsmorgen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leuchtend brach der Strahl der Sonne,</l>
+            <l>Aus den weißen Nebelfluthen,</l>
+            <l>Als ich heut’ am frühen Morgen</l>
+            <l>Durch die thaubenetzte Wiese</l>
+            <l>Kummervollen Herzens hinschlich;</l>
+            <l>Und die morgenfrische Erde</l>
+            <l>Streckte alle ihre Glieder,</l>
+            <l>Blätter, Blüthen, Halme, Gräser —</l>
+            <l>Alle durstend ihm entgegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, wenn also Deiner Liebe</l>
+            <l>Seligsüßer Strahl doch endlich</l>
+            <l>Segnend auf mich niederthaute,</l>
+            <l>Jene Nebel hell durchbrechend,</l>
+            <l>Die von allen Seiten trübe</l>
+            <l>Meines Lebens Pfad umfließen —</l>
+            <l>Wenn ich endlich, gleich der Erde,</l>
+            <l>Die im Glanz der Sonne badet,</l>
+            <l>In dem Glanze Deiner Liebe</l>
+            <l>Meine Seele baden dürfte!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

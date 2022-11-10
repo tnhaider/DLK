@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">15.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">732</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>15.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Baumes Blüt' erfreut, des Baumes Schatten beut</l>
+            <l>Ein Dach dir, und ein Mahl die Frucht, die er verstreut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was brauchst du noch? ein Kleid? nimm es von seinem Bast;</l>
+            <l>Mach' auch ein Buch daraus, wenn du es nöthig hast.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und brauchst du dann ein Grab, er wird dich auch begraben,</l>
+            <l>Mag Ruh im kühlen Grund, mag Feuertod dich laben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Scheiterhaufen baut er hier, und dort den Sarg,</l>
+            <l>Bis deinen Rest im Schirm er seiner Wurzeln barg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was keucht durch fernen Raum der Hunger fremden Brodes,</l>
+            <l>Wenn dich begnügt ein Baum des Lebens und des Todes?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als Vogel schwinge sich dein Geist, vom Leib geschieden,</l>
+            <l>Dem höchsten Wipfel zu, der nicht mehr ist hienieden;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und singe von dem Baum des Todes und des Lebens</l>
+            <l>Herab zum Erdenraum den Frieden nicht vergebens.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

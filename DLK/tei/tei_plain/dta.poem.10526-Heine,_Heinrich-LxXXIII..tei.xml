@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">LxXXIII.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">79</measure>
+        <measure type="tokens">56</measure>
+        <measure type="characters">323</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>LxXXIII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ueber die Berge steigt schon die Sonne,</l>
+            <l>Die Lämmerheerde läutet fern;</l>
+            <l>Mein Liebchen, mein Lamm, meine Sonne und Wonne,</l>
+            <l>Noch einmal säh' ich dich gar zu gern!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schaue hinauf, mit spähender Miene —</l>
+            <l>Leb' wohl, mein Kind, ich wandre von hier!</l>
+            <l>Vergebens! Es regt sich keine Gardine; —</l>
+            <l>Sie liegt noch und schläft, und träumt von mir.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

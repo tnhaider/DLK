@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">3.</title>
+        <author>
+          <persName>
+            <surname>Schack</surname>
+            <forename>Adolf Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">558</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1854</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>3.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Süß sind die Laute all, in denen</l>
+            <l>Die Liebe traute Zwiesprach hält.</l>
+            <l>Süß ist das Wort, das zwischen Thränen</l>
+            <l>Und Lächeln flüchtig ihr entfällt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und süß der Schwur auch, der gleich Zweigen</l>
+            <l>Zwei Leben ineinander flicht;</l>
+            <l>Doch süßer noch der Lippen Schweigen,</l>
+            <l>Wenn Seele nur mit Seele spricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Süß sind die Laute all, in denen</l>
+            <l>Die Liebe traute Zwiesprach hält.</l>
+            <l>Süß ist das Wort, das zwischen Thränen</l>
+            <l>Und Lächeln flüchtig ihr entfällt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und süß der Schwur auch, der gleich Zweigen</l>
+            <l>Zwei Leben ineinander flicht;</l>
+            <l>Doch süßer noch der Lippen Schweigen,</l>
+            <l>Wenn Seele nur mit Seele spricht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

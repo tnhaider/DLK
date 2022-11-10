@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-4 4-4</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">647</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm Liebchen, komm! umwinde mir die</l>
+            <l>Mütze</l>
+            <l>Aus deiner Hand nur ist der Tulbend schön.</l>
+            <l>Hat Abbas doch, auf Irans höchstem Sitze,</l>
+            <l>Sein Haupt nicht zierlicher umwinden sehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Tulbend war das Band, das Alexandern</l>
+            <l>In Schleifen schön vom Haupte fiel</l>
+            <l>Und allen Folgeherrschern, jenen Andern,</l>
+            <l>Als Königszierde wohlgefiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Tulbend ist’s der unsern Kaiser schmücket,</l>
+            <l>Sie nennen’s Krone. Name geht wohl hin!</l>
+            <l>Juweel und Perle! sey das Aug’ entzücket!</l>
+            <l>Der schönste Schmuck ist stets der Mousselin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und diesen hier, ganz rein und silberstreifig,</l>
+            <l>Umwinde Liebchen um die Stirn umher.</l>
+            <l>Was ist denn Hoheit? Mir ist sie geläufig!</l>
+            <l>Du schaust mich an, ich bin so gross als Er.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

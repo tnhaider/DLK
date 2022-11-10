@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonett</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-4 5-4 6-3</measure>
+        <measure type="syllables">242</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">944</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1810</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonett</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O schwerer heißer Tag, ihr leichtes Leben</l>
+            <l>Schließt müde weinend seine Augenlider,</l>
+            <l>Schon senkt der Schlaf das tauende Gefieder,</l>
+            <l>Um solche Schönheit kühl ein Dach zu weben. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von ihren Lippen leise Worte schweben,</l>
+            <l>»du Liebe süßer Träume kehre wieder!«</l>
+            <l>Da läßt sich ihr der Traum der Liebe nieder,</l>
+            <l>Um ihres Schlummers kranke Lust zu heben. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»du Traum! – ich bin kein Traum, spricht er mit Bangen,</l>
+            <l>O laß uns nicht so holdes Glück versäumen!«</l>
+            <l>Da weckt er sie, und wollte sie umfangen. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O schwerer heißer Tag, ihr leichtes Leben</l>
+            <l>Schließt müde weinend seine Augenlider,</l>
+            <l>Schon senkt der Schlaf das tauende Gefieder,</l>
+            <l>Um solche Schönheit kühl ein Dach zu weben. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von ihren Lippen leise Worte schweben,</l>
+            <l>»du Liebe süßer Träume kehre wieder!«</l>
+            <l>Da läßt sich ihr der Traum der Liebe nieder,</l>
+            <l>Um ihres Schlummers kranke Lust zu heben. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»du Traum! – ich bin kein Traum, spricht er mit Bangen,</l>
+            <l>O laß uns nicht so holdes Glück versäumen!«</l>
+            <l>Da weckt er sie, und wollte sie umfangen. –</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

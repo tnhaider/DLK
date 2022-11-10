@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">163</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">648</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ists möglich daß der Geist sich lässt so sehr bethören,</l>
+            <l>Daß er sich bloß allein an grobe Schatten hält?</l>
+            <l>An statt zum Höchsten </l>
+            <l>aller Welt,</l>
+            <l>In Seines reinen Lichts Erkenntniß sich zu kehren?</l>
+            <l>Wird nicht in allen dem, was uns umgiebt, verspüret</l>
+            <l>Die Hand </l>
+            <l>Bleibt er, da alle Ding’ ihm GOTT entdecken,</l>
+            <l>Dennoch in seiner Blindheit stecken?</l>
+            <l>Man sieht das reine Gold und Blau des Himmels an:</l>
+            <l>Der schöne Glantz hat nichts, das uns vergnügen kan.</l>
+            <l>Man achtet nichts, als Reichthum nur.</l>
+            <l>Man sucht in Indien unnützer Schätze Spur.</l>
+            <l>Man nimmt so manche Noth und Pein,</l>
+            <l>So mancherley Gefahr auf sich, um die zu finden,</l>
+            <l>Die in der Erden tieffen Gründen,</l>
+            <l>Verholen und verborgen seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

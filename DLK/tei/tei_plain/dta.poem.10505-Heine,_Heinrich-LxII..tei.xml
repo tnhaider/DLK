@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">LxII.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">90</measure>
+        <measure type="tokens">61</measure>
+        <measure type="characters">357</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>LxII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast Diamanten und Perlen,</l>
+            <l>Hast alles, was Menschenbegehr,</l>
+            <l>Und hast die schönsten Augen —</l>
+            <l>Mein Liebchen, was willst du mehr?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf deine schönen Augen</l>
+            <l>Hab' ich ein ganzes Heer</l>
+            <l>Von ewigen Liedern gedichtet —</l>
+            <l>Mein Liebchen, was willst du mehr?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit deinen schönen Augen</l>
+            <l>Hast du mich gequält so sehr,</l>
+            <l>Und hast mich zu Grunde gerichtet —</l>
+            <l>Mein Liebchen, was willst du mehr?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

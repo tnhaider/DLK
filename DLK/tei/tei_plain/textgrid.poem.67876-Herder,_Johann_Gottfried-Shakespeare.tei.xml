@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Shakespeare</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-12 2-6 3-12 4-6</measure>
+        <measure type="syllables">356</measure>
+        <measure type="tokens">250</measure>
+        <measure type="characters">1450</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1773</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Shakespeare</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie süß das Mondlicht auf dem Hügel schläft!</l>
+            <l>Hier woll'n wir sizen, und den süssen Schall</l>
+            <l>Zum Ohre lassen schlüpfen. Sanfte Stille</l>
+            <l>Und Nacht wird Taste süsser Harmonie.</l>
+            <l>Siz, Jessika, sieh, wie die Himmelsflur</l>
+            <l>Ist eingelegt mit Stücken reichen Goldes!</l>
+            <l>Da ist kein kleiner Kreis, den du da siehst,</l>
+            <l>Der nicht in seinem Lauf wie'n Engel singt,</l>
+            <l>Stimmt ein ins Chor der jungen Cherubim.</l>
+            <l>Die Harmonie ist in den ew'gen Tönen;</l>
+            <l>Nur wir, so lang dies Kothkleid Sterblichkeit</l>
+            <l>Uns grob einhüllet, können sie nicht hören. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mann, der nicht Musik hat in ihm selbst,</l>
+            <l>Gerührt nicht wird vom Einklang süsser Töne,</l>
+            <l>Zu Ränken, Raub, Verrath ist der gemacht;</l>
+            <l>Die Triebe seines Geistes sind wie Nacht,</l>
+            <l>Sein Herz ist schwarz, wie Erebus –</l>
+            <l>Trau nicht dem Manne!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie süß das Mondlicht auf dem Hügel schläft!</l>
+            <l>Hier woll'n wir sizen, und den süssen Schall</l>
+            <l>Zum Ohre lassen schlüpfen. Sanfte Stille</l>
+            <l>Und Nacht wird Taste süsser Harmonie.</l>
+            <l>Siz, Jessika, sieh, wie die Himmelsflur</l>
+            <l>Ist eingelegt mit Stücken reichen Goldes!</l>
+            <l>Da ist kein kleiner Kreis, den du da siehst,</l>
+            <l>Der nicht in seinem Lauf wie'n Engel singt,</l>
+            <l>Stimmt ein ins Chor der jungen Cherubim.</l>
+            <l>Die Harmonie ist in den ew'gen Tönen;</l>
+            <l>Nur wir, so lang dies Kothkleid Sterblichkeit</l>
+            <l>Uns grob einhüllet, können sie nicht hören. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mann, der nicht Musik hat in ihm selbst,</l>
+            <l>Gerührt nicht wird vom Einklang süsser Töne,</l>
+            <l>Zu Ränken, Raub, Verrath ist der gemacht;</l>
+            <l>Die Triebe seines Geistes sind wie Nacht,</l>
+            <l>Sein Herz ist schwarz, wie Erebus –</l>
+            <l>Trau nicht dem Manne!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

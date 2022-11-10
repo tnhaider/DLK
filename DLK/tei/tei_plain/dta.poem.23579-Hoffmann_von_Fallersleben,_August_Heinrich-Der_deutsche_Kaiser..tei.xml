@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der deutsche Kaiser.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">557</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der deutsche Kaiser.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hin ist des deutschen Reichs uralte Herrlichkeit,</l>
+            <l>Zu einer Sage ward's in dieser jungen Zeit,</l>
+            <l>Doch hält das Volk noch fest an seinem alten Herrn,</l>
+            <l>Zu seinem Banner eilt's noch hin von nah und fern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was lockt das Volk wohl hin? Nicht Kriegslust, Sold und Ruhm,</l>
+            <l>Nicht mehr Begeisterung fürs alte Kaiserthum.</l>
+            <l>Das Volk sucht Obdach nur, es will nur Ruh' und Rast,</l>
+            <l>Begehrt Erquickung nur für manche Müh' und Last.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum deutschen Kaiser bin auch ich wohl eingekehrt,</l>
+            <l>Auch </l>
+            <l>Denn dieser Kaiser war ein deutsches Wirthshaus nur,</l>
+            <l>Vom heil'gen röm'schen Reich die allerletzte Spur.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

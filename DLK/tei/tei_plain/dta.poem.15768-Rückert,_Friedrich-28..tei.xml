@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">28.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">519</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>28.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So thöricht ist der Mensch nur auf sein Weh beflissen,</l>
+            <l>Daß er von seinem Wohl viel minder scheint zu wissen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selbst seine Sprache zeigt entgegen einem Namen</l>
+            <l>Fürs Liebe meistens drei, die auf das Leide kamen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur eines nennt er gut, o wär' es gut nur immer,</l>
+            <l>Drei übel, bös' und schlimm; oft ist noch gutes schlimmer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur eines nennt er süß, o möcht' es rein ihm munden,</l>
+            <l>Drei bitter, saur und herb, dem süßen oft verbunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur eines nennt er schön; es schien ihm unerlässlich</l>
+            <l>Dem beizugeben auch drei garstig, wüst' und hässlich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

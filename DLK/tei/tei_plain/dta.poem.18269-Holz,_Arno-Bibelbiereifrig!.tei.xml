@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Bibelbiereifrig!</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">7</measure>
+        <measure type="verses_per_stanza">1-3 2-4</measure>
+        <measure type="syllables">53</measure>
+        <measure type="tokens">40</measure>
+        <measure type="characters">222</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Bibelbiereifrig!</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jeder Mensch hat sein Pläsirchen —</l>
+            <l>So ein armer Recensent</l>
+            <l>Ist das ärmste aller Thierchen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn es pfaucht und wenn es zischt,</l>
+            <l>Laß es, laß es sich nur schinden,</l>
+            <l>Denn dem Ochsen, der da drischt,</l>
+            <l>Sollst du nicht das Maul verbinden!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

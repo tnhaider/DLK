@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wind und Glück</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">170</measure>
+        <measure type="characters">968</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wind und Glück</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stets, wenn das Segel zur Fahrt nur schlaff hing, hört' ich den Bootsmann</l>
+            <l>Pfeifen; begierig gemacht, fragt' ich ihn einst um den Grund.</l>
+            <l>Doch er bedeutete mich schlau lächelnd: »Der Wind ist ein Vogel,</l>
+            <l>Welcher gelockt sein will.« Sagt' es und flötete fort.</l>
+            <l>Und so sing' ich gefaßt mein Lied in schwererer Zeit nun,</l>
+            <l>Da mich das Leben bedrückt. Ist doch das Glück wie der Wind,</l>
+            <l>Flattert geflügelt umher in der Luft und harret des Lockrufs;</l>
+            <l>Komm, Glücksvogel! Den Weg zeigt dir der leise Gesang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stets, wenn das Segel zur Fahrt nur schlaff hing, hört' ich den Bootsmann</l>
+            <l>Pfeifen; begierig gemacht, fragt' ich ihn einst um den Grund.</l>
+            <l>Doch er bedeutete mich schlau lächelnd: »Der Wind ist ein Vogel,</l>
+            <l>Welcher gelockt sein will.« Sagt' es und flötete fort.</l>
+            <l>Und so sing' ich gefaßt mein Lied in schwererer Zeit nun,</l>
+            <l>Da mich das Leben bedrückt. Ist doch das Glück wie der Wind,</l>
+            <l>Flattert geflügelt umher in der Luft und harret des Lockrufs;</l>
+            <l>Komm, Glücksvogel! Den Weg zeigt dir der leise Gesang.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

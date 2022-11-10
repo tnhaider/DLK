@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An einen Kritikaster</title>
+        <author>
+          <persName>
+            <surname>Schubart</surname>
+            <forename>Christian Friedrich Daniel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">560</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1775</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An einen Kritikaster</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer nichts als deinen Geifer kennt,</l>
+            <l>Der ächt Verdienst zu stürzen brennt,</l>
+            <l>Ruft: der verfluchte Recensent!</l>
+            <l>Schlagt todt den Hund, schlagt todt!</l>
+            <l>Wer aber deine Ohnmacht kennt,</l>
+            <l>Wer weiß, du schimpfst ums liebe Brot,</l>
+            <l>Sagt: mit dem Schlingel hat's nicht Noth!</l>
+            <l>Laßt ihn nur leben, er ist todt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer nichts als deinen Geifer kennt,</l>
+            <l>Der ächt Verdienst zu stürzen brennt,</l>
+            <l>Ruft: der verfluchte Recensent!</l>
+            <l>Schlagt todt den Hund, schlagt todt!</l>
+            <l>Wer aber deine Ohnmacht kennt,</l>
+            <l>Wer weiß, du schimpfst ums liebe Brot,</l>
+            <l>Sagt: mit dem Schlingel hat's nicht Noth!</l>
+            <l>Laßt ihn nur leben, er ist todt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

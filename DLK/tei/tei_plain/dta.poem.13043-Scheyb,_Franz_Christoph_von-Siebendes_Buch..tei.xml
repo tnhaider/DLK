@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Siebendes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">821</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Siebendes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„allein, was halt’ ich mich bey diesen Kriegern auf,</l>
+            <l>„fort, lassen wir das Volck in seinem Waffen-Lauf!</l>
+            <l>„betrachten wir das Haupt, die Führer dieser Schaaren,</l>
+            <l>„die stets den Tapfersten vor dem Gesichte waren;</l>
+            <l>345”Scheints nicht, als wären sie Beschirmer, Schuz und Schild,</l>
+            <l>„die Vormaur ihres Heers, das von dem Ebenbild</l>
+            <l>„derselben angefrischt, ermuntert und beseelet</l>
+            <l>„die wahre Tapferkeit in seiner Brust verhöhlet?</l>
+            <l>„da sieht man was der Werth des wahren Adels ist,</l>
+            <l>350”Weil er alldort sich nicht als nach den Thaten mißt;</l>
+            <l>„mit Unzaghaftigkeit den Arm zum Kämpfen reget,</l>
+            <l>„mit Tugend, nicht mit Stolz den Heerzogs-Stab beweget.</l>
+            <l>„wie manches junges Haupt war vor zu schwach geschäzt,</l>
+            <l>„dem doch der Sieg den Kranz des Lorbers aufgesezt?</l>
+            <l>355”Wie mancher hatte sich den theuren Ruhm erworben,</l>
+            <l>„daß er dem Vaterland zu Lieb im Sieg gestorben?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

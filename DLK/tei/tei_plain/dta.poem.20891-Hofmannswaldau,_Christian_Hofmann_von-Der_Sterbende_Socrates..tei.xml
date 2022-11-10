@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der  
+ Sterbende  
+  Socrates.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">582</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1679</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20289-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa; Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der  
+ Sterbende  
+  Socrates.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf das wenn wir zum Tode gehn/</l>
+            <l>Und diesen Kercker lassen stehn/</l>
+            <l>Da unser Seele muste kleben/</l>
+            <l>Der Weise lebe Zweiffels frey/</l>
+            <l>Daß gar gewiß nach diesem Leben</l>
+            <l>Ein Leben noch zu hoffen sey.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wäre sonst die Wollust hassen/</l>
+            <l>Schlaff/ Wein und Buhlerey zu lassen/</l>
+            <l>Und allem diesem Feind zu seyn.</l>
+            <l>Und durch was mehr die reinen Sinnen/</l>
+            <l>Sich nahen zu der Tugend Schein/</l>
+            <l>Als nur ein törichtes Beginnen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Lust so ewig uns erfreut/</l>
+            <l>Nach vielerley Verdrießlichkeit/</l>
+            <l>Die nur auf dieser Erde bleibet/</l>
+            <l>Wär’ eine Hoffnung die verschwind/</l>
+            <l>Und was man von dem Himmel schreibet/</l>
+            <l>Verbliebe falscher Dampff und Wind.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

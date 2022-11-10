@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neuntes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-6</measure>
+        <measure type="syllables">74</measure>
+        <measure type="tokens">56</measure>
+        <measure type="characters">322</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neuntes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„sie lebt nach meinem Rath. Nichts ändert meinen Geist,</l>
+            <l>„nichts ist, was ihn von sich und seiner Tugend reißt.</l>
+            <l>„ich halte Mund und Herz nach einem Thon gestimmet.</l>
+            <l>160”Ich lache, wann der Haß nach mir die Lefzen krümmet.</l>
+            <l>„der Kummer quält mich nicht, ob ich geliebt, geschäzt,</l>
+            <l>„ob ich verachtet sey. Nichts ist, so mich verlezt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Grusz</title>
+        <author>
+          <persName>
+            <surname>Dehmel</surname>
+            <forename>Richard Fedor Leopold</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-3 3-4 4-3</measure>
+        <measure type="syllables">106</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">402</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1891</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Grusz</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und nähm' ich alle zarten Blüten</l>
+            <l>und schüttete sie </l>
+            <l>sie könnten alle nicht verschütten</l>
+            <l>die Zartheit, die Dich selbst umflicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Aphroditen einst die Wellen –</l>
+            <l>so würden sie umbranden dich,</l>
+            <l>bis Deine Anmut </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und nähm' ich alle zarten Blüten</l>
+            <l>und schüttete sie </l>
+            <l>sie könnten alle nicht verschütten</l>
+            <l>die Zartheit, die Dich selbst umflicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Aphroditen einst die Wellen –</l>
+            <l>so würden sie umbranden dich,</l>
+            <l>bis Deine Anmut </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

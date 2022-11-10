@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schreiben  
+ an  Mademoiselle  Weisen  
+ in Merseburg.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">82</measure>
+        <measure type="tokens">54</measure>
+        <measure type="characters">323</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schreiben  
+ an  Mademoiselle  Weisen  
+ in Merseburg.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Recht wie die Werke der Natur,</l>
+            <l>Wovon wir zwar das Ganze sehen,</l>
+            <l>Doch fast nicht die geringste Spur,</l>
+            <l>Von Theilchen, woraus sie bestehen:</l>
+            <l>So scheinen ebenfalls der weisen </l>
+            <l>Indem ich </l>
+            <l>Da doch die Stich, als Theile, nicht nur klein,</l>
+            <l>Und ihres Zwirns so zarte Fäser,</l>
+            <l>Auch selber durch Vergrößrungs-Gläser,</l>
+            <l>Kaum unsern Augen sichtbar seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

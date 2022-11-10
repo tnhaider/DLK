@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Noch bin ich jung und hoffe Kranz und Blüten,</title>
+        <author>
+          <persName>
+            <surname>Falke</surname>
+            <forename>Gustav</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1884</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Noch bin ich jung und hoffe Kranz und Blüten,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch bin ich jung und hoffe Kranz und Blüten,</l>
+            <l>Das Leben lacht, ein Feld im Sommersegen.</l>
+            <l>Noch fühl' ich Kraft, wenn Kampf und Stürme wüten,</l>
+            <l>Noch schlägt den Dirnen heiß das Herz entgegen.</l>
+            <l>Wie bald, und welke Kränze gilt es hüten,</l>
+            <l>Ängstlich die letzten Flackerflämmchen hegen,</l>
+            <l>Dann Asche, Asche, wo sonst Flammen sprühten,</l>
+            <l>Die wird der Tod zum andern Kehricht fegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch bin ich jung und hoffe Kranz und Blüten,</l>
+            <l>Das Leben lacht, ein Feld im Sommersegen.</l>
+            <l>Noch fühl' ich Kraft, wenn Kampf und Stürme wüten,</l>
+            <l>Noch schlägt den Dirnen heiß das Herz entgegen.</l>
+            <l>Wie bald, und welke Kränze gilt es hüten,</l>
+            <l>Ängstlich die letzten Flackerflämmchen hegen,</l>
+            <l>Dann Asche, Asche, wo sonst Flammen sprühten,</l>
+            <l>Die wird der Tod zum andern Kehricht fegen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

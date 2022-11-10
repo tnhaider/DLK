@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Tausch.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">482</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Tausch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wilst du tauschen? sprach ein Reicher,</l>
+            <l>Und er wies mir seine Schätze,</l>
+            <l>Und ich solt ihm für die Schätze,</l>
+            <l>Meine braune Doris geben.</l>
+            <l>Aber wißt ihr, was ich sagte?</l>
+            <l>Reicher, sprach ich, du bist närrisch!</l>
+            <l>Macht dein Gold vergnügte Minen?</l>
+            <l>Ist dein Gold getreu und artig?</l>
+            <l>Ist es witzig, ist es zärtlich?</l>
+            <l>Ist es tugendhaft, wie Doris?</l>
+            <l>Kann es dem Besitzer schmeicheln?</l>
+            <l>Kann es scherzen, kann es küssen?</l>
+            <l>Kann es tändeln, wie mein Mädchen?</l>
+            <l>Reicher, können dis die Schätze,</l>
+            <l>So vertausch ich dir mein Mädchen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

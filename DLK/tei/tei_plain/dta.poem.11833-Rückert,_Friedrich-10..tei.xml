@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">10.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">408</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>10.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn dich am frühen Tag ein frommer Vorsatz hebet,</l>
+            <l>Dein froher Herzenschlag dem dankt durch den er lebet;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als kühler Sommerhut wird dies Gefühl dir schatten,</l>
+            <l>Und an des Mittags Glut nicht deine Seel' ermatten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann wenn du dir zur Nacht das Zeugnis geben kannst,</l>
+            <l>Daß etwas du vollbracht, dir etwas angewannst;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wird bei Nacht ein Traum der Seele Kraft dir stärken,</l>
+            <l>Daß morgens sie im Raum erwacht zu neuen Werken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Als sie im schertz gesagt: daß die  
+ liebe bey ihr nur in den augen, bey ihm  
+ aber im hertzen wohne.  
+ Aus dem welschen des   Marc’ Antonio  
+ Virtuani.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">113</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">447</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Als sie im schertz gesagt: daß die  
+ liebe bey ihr nur in den augen, bey ihm  
+ aber im hertzen wohne.  
+ Aus dem welschen des   Marc’ Antonio  
+ Virtuani.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein schertz stimmt mit der wahrheit ein,</l>
+            <l>Weil ich der liebe glut in meinem hertzen spüre.</l>
+            <l>Ja, Chloris! du hast recht, denn deiner augen schein</l>
+            <l>Beweist, daß Amor selbst derselben blicke führe.</l>
+            <l>Nur bloß die würckung macht bey uns den unterscheid;</l>
+            <l>Nachdem der lose dieb dein kaltes hertz ergetzet,</l>
+            <l>Mich aber nur in angst und heiße flammen setzet.</l>
+            <l>Wie wär ich demnach so erfreut,</l>
+            <l>Wenn es der himmel fügen solte,</l>
+            <l>Daß Amsr seinen platz in uns verwechseln wolte!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

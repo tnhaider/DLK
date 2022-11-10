@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schön bin ich nicht .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-22</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">648</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schön bin ich nicht .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schön bin ich nicht, mein höchster Hort,               </l>
+            <l>Laß mich das nicht entgelten,</l>
+            <l>Lieb gilt für schön an manchem Ort,</l>
+            <l>Lieb soll vor aller Schönheit gelten.</l>
+            <l>Schön bin ich nicht, acht das gar klein,</l>
+            <l>Lieb thut all Ding bezwingen,</l>
+            <l>Lieb zwingt die Schönheit ganz allein,</l>
+            <l>Kann sie allein besingen:</l>
+            <l>„ihr findet in Geschichten</l>
+            <l>„vom Fisch Delphin genannt,</l>
+            <l>„kein Netz hält ihn mit nichten,</l>
+            <l>„und zieht ihn an das Land,</l>
+            <l>„allein durch lieblich Singen</l>
+            <l>„thut man ihn also zwingen,</l>
+            <l>„daß er kommt selbst ans Land.</l>
+            <l>„zum wunderbaren Zeichen</l>
+            <l>„auch die Waldvögelein,</l>
+            <l>„ihr Herzelein erweichen</l>
+            <l>„einander insgemein,</l>
+            <l>„mit lieblichem Gesange,</l>
+            <l>„das währet alsolange,</l>
+            <l>„bis sie vereinigt seyn.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

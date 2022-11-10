@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-9 2-4 3-9 4-4</measure>
+        <measure type="syllables">216</measure>
+        <measure type="tokens">156</measure>
+        <measure type="characters">920</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1773</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>»die liebe lange Nacht,«</l>
+            <l>Sprach Petrus einst, »hab' ich mit saurem Schweiß durchwacht</l>
+            <l>Und leider nichts gefangen.«</l>
+            <l>»nicht Alles läßt sich auch durch sauern Schweiß erlangen,«</l>
+            <l>Sprach unser Herr; »fahr auf die Höh</l>
+            <l>Mit gutem Muth</l>
+            <l>Und thu noch </l>
+            <l>Er that's und rief: »Ach, Herr, genug!</l>
+            <l>Das Netz zerriß; wir können mehr nicht fangen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kleingläubiger, heg' immer guten Muth!</l>
+            <l>Noch wird das Ende gut.</l>
+            <l>Kein Wunder der Natur gelang durch Schweiß und Müh;</l>
+            <l>Auf Gottes Wink gelingen sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»die liebe lange Nacht,«</l>
+            <l>Sprach Petrus einst, »hab' ich mit saurem Schweiß durchwacht</l>
+            <l>Und leider nichts gefangen.«</l>
+            <l>»nicht Alles läßt sich auch durch sauern Schweiß erlangen,«</l>
+            <l>Sprach unser Herr; »fahr auf die Höh</l>
+            <l>Mit gutem Muth</l>
+            <l>Und thu noch </l>
+            <l>Er that's und rief: »Ach, Herr, genug!</l>
+            <l>Das Netz zerriß; wir können mehr nicht fangen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kleingläubiger, heg' immer guten Muth!</l>
+            <l>Noch wird das Ende gut.</l>
+            <l>Kein Wunder der Natur gelang durch Schweiß und Müh;</l>
+            <l>Auf Gottes Wink gelingen sie.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

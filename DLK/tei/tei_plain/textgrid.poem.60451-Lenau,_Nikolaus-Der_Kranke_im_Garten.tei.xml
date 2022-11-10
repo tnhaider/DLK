@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Kranke im Garten</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">482</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Kranke im Garten</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch eine Nachtigall, so spät?</l>
+            <l>Schon sind die Blüten längst verweht,</l>
+            <l>Der Sommer reift die Felder schon,</l>
+            <l>Und noch ein Frühlingston?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Lenz, ward es dir offenbar,</l>
+            <l>Daß ich noch sterbe dieses Jahr?</l>
+            <l>Und riefest aus der Ferne du</l>
+            <l>Noch einen Gruß mir zu? –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch eine Nachtigall, so spät?</l>
+            <l>Schon sind die Blüten längst verweht,</l>
+            <l>Der Sommer reift die Felder schon,</l>
+            <l>Und noch ein Frühlingston?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Lenz, ward es dir offenbar,</l>
+            <l>Daß ich noch sterbe dieses Jahr?</l>
+            <l>Und riefest aus der Ferne du</l>
+            <l>Noch einen Gruß mir zu? –</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

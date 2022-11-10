@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ubersezte Spruch-Reimen.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">596</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ubersezte Spruch-Reimen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer das göldne Mittel liebt/ steckt nicht unter Spinnen-</l>
+            <l>weben</l>
+            <l>chwartzer Hütte stets verdeckt/ weiß auch ohne Neyd zu leben</l>
+            <l>Der bey stoltzen Höfen herrscht/ hofft bey rauher Winde</l>
+            <l>Brüllen/</l>
+            <l>Fürcht den Wechsel des Gelücks/ wenn ihm alles geht nach</l>
+            <l>Willen.</l>
+            <l>Denn der Winter kömmt und weicht/ Freude wechselt mit Be-</l>
+            <l>schwerden/</l>
+            <l>Gehts izt schlimm/ so bleibt der Trost/ daß es bald wird besser</l>
+            <l>werden.</l>
+            <l>Cynthius führt nicht allzeit bey sich den gespannten Bogen/</l>
+            <l>Unterweilen hat er auch linde Säiten auffgezogen.</l>
+            <l>Schaue daß man dich allzeit im Gedrangen muttig finde/</l>
+            <l>Aber halt die Segel ein bey dem allerbesten Winde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N ACH   D ER   L ESE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">103</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">611</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N ACH   D ER   L ESE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Umkreisen wir den stillen teich               </l>
+            <l>In den die wasserwege m&amp;#252;nden               </l>
+            <l>Du suchst mich heiter zu ergr&amp;#252;nden               </l>
+            <l>Ein wind umweht uns fr&amp;#252;hlingsweich             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die bl&amp;#228;tter die den boden gilben               </l>
+            <l>Verbreiten neuen wohlgeruch               </l>
+            <l>Du sprichst mir nach in klugen silben               </l>
+            <l>Was mich erfreut im bunten buch             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch weisst du auch vom tiefen gl&amp;#252;cke               </l>
+            <l>Und sch&amp;#228;tzest du die stumme thr&amp;#228;ne               </l>
+            <l>Das auge schattend auf der br&amp;#252;cke               </l>
+            <l>Verfolgest du den zug der schw&amp;#228;ne.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

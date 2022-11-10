@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Herrn  Autorem.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">114</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">438</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Herrn  Autorem.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo reine Liebes-Glut den holden Scepter führet/</l>
+            <l>Da ist die Tichterey ein treuer Unterthan/</l>
+            <l>Und wo dieselbe erst nur das Clavier berühret/</l>
+            <l>Da giebet jene gleich den Thon vernehmlich an.</l>
+            <l>Ein </l>
+            <l>Weil seine Leber Eyß/ das Hertze eisern ist</l>
+            <l>Ein </l>
+            <l>Wenn er ein schönes Weib nur erst einmahl geküsst.</l>
+            <l>Mein Freund/ es zeugt dein Buch von Lieben und von Wissen/</l>
+            <l>Apollo rühmt den Fleiß/ er kennt dein Wissen wol.</l>
+            <l>Die </l>
+            <l>Daß dich vor deine Mäh ein jeder lieben soll.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

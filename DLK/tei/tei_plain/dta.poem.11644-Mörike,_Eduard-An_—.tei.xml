@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An —</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">50</measure>
+        <measure type="characters">284</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An —</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ei, wer hätt' es je gemeint,</l>
+            <l>Fräulein Ludovike!</l>
+            <l>Hat man denn, so lieb man scheint,</l>
+            <l>Auch geheime Tücke?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mädchen! wer ergründet euch?</l>
+            <l>Räthsel ohne Ende!</l>
+            <l>Arg und falsch und engelgleich,</l>
+            <l>Wer das reimen könnte!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, nicht süßen Honig nur</l>
+            <l>Führen eure Lippen;</l>
+            <l>Und so seyd ihr von Natur</l>
+            <l>Liebliche X — — —.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

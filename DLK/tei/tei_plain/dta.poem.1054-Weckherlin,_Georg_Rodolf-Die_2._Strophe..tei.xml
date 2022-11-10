@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die 2. Strophe.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">108</measure>
+        <measure type="tokens">61</measure>
+        <measure type="characters">408</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1618</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20628-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die 2. Strophe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die mächtige streitten vmbsunst/</l>
+            <l>Vmbsunst die helden triumfieren/</l>
+            <l>Wan jhre namen als ein dunst</l>
+            <l>In kurtzen jahren sich verlieren.</l>
+            <l>Es ist nicht gnug seine khünheit</l>
+            <l>Seiner flüchtigen feinden rucken</l>
+            <l>Mit scharpfen eysen aufzutrucken</l>
+            <l>Zu seines lobs vnsterblichkeit:</l>
+            <l>Noch der tugent gäntzlich ergeben</l>
+            <l>(wie O grosser Printz ewer pracht)</l>
+            <l>Der Vergessung zu widerstreben;</l>
+            <l>Sondern es ist der Musen macht</l>
+            <l>Euch vnzugänglich zubeleben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

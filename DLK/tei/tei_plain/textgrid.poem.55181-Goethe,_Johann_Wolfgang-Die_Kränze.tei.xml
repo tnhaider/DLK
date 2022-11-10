@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Kränze</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">328</measure>
+        <measure type="tokens">184</measure>
+        <measure type="characters">1188</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1799</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Kränze</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Klopstock will uns vom Pindus entfernen; wir sollen nach Lorbeer</l>
+            <l>Nicht mehr geizen, uns soll inländische Eiche genügen;</l>
+            <l>Und doch führet er selbst den überepischen Kreuzzug</l>
+            <l>Hin auf Golgathas Gipfel, ausländische Götter zu ehren!</l>
+            <l>Doch auf welchen Hügel er wolle, versamml' er die Engel,</l>
+            <l>Lasse beim Grabe des Guten verlassene Redliche weinen:</l>
+            <l>Wo ein Held und Heiliger starb, wo ein Dichter gesungen,</l>
+            <l>Uns im Leben und Tod ein Beispiel trefflichen Mutes,</l>
+            <l>Hohen Menschenwertes zu hinterlassen, da knien</l>
+            <l>Billig alle Völker in Andachtswonne, verehren</l>
+            <l>Dorn- und Lorbeerkranz, und was ihn geschmückt und gepeinigt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Klopstock will uns vom Pindus entfernen; wir sollen nach Lorbeer</l>
+            <l>Nicht mehr geizen, uns soll inländische Eiche genügen;</l>
+            <l>Und doch führet er selbst den überepischen Kreuzzug</l>
+            <l>Hin auf Golgathas Gipfel, ausländische Götter zu ehren!</l>
+            <l>Doch auf welchen Hügel er wolle, versamml' er die Engel,</l>
+            <l>Lasse beim Grabe des Guten verlassene Redliche weinen:</l>
+            <l>Wo ein Held und Heiliger starb, wo ein Dichter gesungen,</l>
+            <l>Uns im Leben und Tod ein Beispiel trefflichen Mutes,</l>
+            <l>Hohen Menschenwertes zu hinterlassen, da knien</l>
+            <l>Billig alle Völker in Andachtswonne, verehren</l>
+            <l>Dorn- und Lorbeerkranz, und was ihn geschmückt und gepeinigt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

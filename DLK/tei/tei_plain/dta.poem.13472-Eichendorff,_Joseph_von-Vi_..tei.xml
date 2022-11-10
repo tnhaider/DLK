@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">625</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch Feld und Buchenhallen,</l>
+            <l>Bald singend, bald fröhlich still,</l>
+            <l>Recht lustig sey vor allen</l>
+            <l>Wer's Reisen wählen will!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn's kaum in Osten glühte,</l>
+            <l>Die Welt noch still und weit:</l>
+            <l>Da weht recht durch's Gemüthe</l>
+            <l>Die schöne Blüthenzeit!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Lerch' als Morgenbote</l>
+            <l>Sich in die Lüfte schwingt,</l>
+            <l>Eine frische Reisenote</l>
+            <l>Durch Wald und Herz erklingt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Lust, vom Berg zu schauen,</l>
+            <l>Weit über Wald und Strom,</l>
+            <l>Hoch über sich den blauen</l>
+            <l>Tiefklaren Himmelsdom!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Berge Vöglein fliegen</l>
+            <l>Und Wolken so geschwind,</l>
+            <l>Gedanken überfliegen</l>
+            <l>Die Vögel und den Wind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Wolken zieh'n hernieder,</l>
+            <l>Das Vöglein senkt sich gleich,</l>
+            <l>Gedanken gehn und Lieder</l>
+            <l>Fort bis in's Himmelreich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

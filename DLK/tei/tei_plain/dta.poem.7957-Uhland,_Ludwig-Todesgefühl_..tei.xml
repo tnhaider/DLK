@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Todesgefühl .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">577</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Todesgefühl .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Sterbenden zu Muth, wer mag es sagen?</l>
+            <l>Doch wunderbar ergriff mich’s diese Nacht;</l>
+            <l>Die Glieder schienen schon in Todes Macht,</l>
+            <l>Im Herzen fühlt’ ich letztes Leben schlagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Geist befiel ein ungewohntes Zagen,</l>
+            <l>Den Geist, der stets so sicher sich gedacht;</l>
+            <l>Erlöschend jetzt, dann wieder angefacht,</l>
+            <l>Ein mattes Flämmchen, das die Winde jagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie? hielten schwere Träume mich befangen?</l>
+            <l>Die Lerche singt, der rothe Morgen glüht,</l>
+            <l>In’s rege Leben treibt mich neu Verlangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie? oder gieng vorbei der Todesengel?</l>
+            <l>Die Blumen, die am Abend frisch geblüht,</l>
+            <l>Sie hängen hingewelket dort vom Stengel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

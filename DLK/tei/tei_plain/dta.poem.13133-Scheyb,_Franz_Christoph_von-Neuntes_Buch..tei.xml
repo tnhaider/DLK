@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neuntes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">125</measure>
+        <measure type="characters">733</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neuntes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„seht diesen Griffel an! der ist der Thaten Feder!</l>
+            <l>„der gräbt, was je geschicht, in ewig grüne Ceder.</l>
+            <l>25”Der Baum ist euch bekannt: er ist das Wunder-Holz;</l>
+            <l>„es übertrifft des Steins, des Erzes Macht und Stolz.</l>
+            <l>„die Zeit erkühnt sich nicht an ihm den Zahn zu wezen;</l>
+            <l>„kein Sturm kein Donner-Streich kann dessen Stam̃ verlezen.</l>
+            <l>„so folgt die Frag’, ob ich zu diesem Vorsaz taug,</l>
+            <l>30”Ich, der Geschichten Stimm'; ich, aller Zeiten Aug;</l>
+            <l>„man wird das, was ich schreib, so lang die Welt steht, lesen,</l>
+            <l>„und wissen wer das Paar, das Kronen-Paar gewesen.</l>
+            <l>„es waltet nur in mir ein so beflißner Geist,</l>
+            <l>„der den Nachkömmlingen den Ruhm der Vorwelt weist.</l>
+            <l>35”Ich kann denselbigen die längst verfloßnen Sachen</l>
+            <l>„durch meine Kunst so viel als gegenwärtig machen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

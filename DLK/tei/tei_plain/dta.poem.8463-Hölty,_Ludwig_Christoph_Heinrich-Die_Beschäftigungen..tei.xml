@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Beschäftigungen.</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">27</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">268</measure>
+        <measure type="tokens">169</measure>
+        <measure type="characters">1067</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Beschäftigungen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und französischen Modewiz,</l>
+            <l>Küsst den Damen die Hand, mischet den Pot pourri,</l>
+            <l>Kocht Pommaden und strickt Filet;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zieht die Säle voll Tanz Wiesen des Frühlings vor,</l>
+            <l>Roms Kastraten der Nachtigall;</l>
+            <l>Lebt vom Lächeln des Herrn, dreht, wie ein Wetterhahn,</l>
+            <l>Nach dem Winde des Hofes sich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieser liebet den Prunk gleissender Wissenschaft,</l>
+            <l>Stapelt Bücher auf Bücher auf,</l>
+            <l>Und begaffet den Band, und den bemalten Schnitt,</l>
+            <l>Und den gläsernen Bücherschrank.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jener schachert umher, wie ein Beschnittener,</l>
+            <l>Stopfet Beutel auf Beutel voll;</l>
+            <l>Schliesst sein Kämmerlein zu, schüttelt die Beutel aus,</l>
+            <l>Und beäugelt den Seelenschaz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich entzücket der Wald, mich der entblühte Baum,</l>
+            <l>Mich der tanzende Wiesenquell,</l>
+            <l>Mich der Morgengesang oder das Abendlied</l>
+            <l>Meiner Freundin der Nachtigall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dämmert endlich mein Traum heiter zum Leben auf,</l>
+            <l>Giebt der Himmel das Mädchen mir,</l>
+            <l>Dessen lächelndes Bild mir um die Seele schwebt;</l>
+            <l>Dann, dann bin ich ein Erdengott!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie ein mächtiger Gott, flieg' ich den Himmel durch,</l>
+            <l>Reisse Sterne, wie Blumen, ab,</l>
+            <l>Und bekränze mein Haupt, trinke die Quelle leer,</l>
+            <l>Die durch Rosen der Engel fleusst!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

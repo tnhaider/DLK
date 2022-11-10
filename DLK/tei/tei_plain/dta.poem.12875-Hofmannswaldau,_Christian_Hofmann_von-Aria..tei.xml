@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aria.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">165</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">674</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aria.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Muß ich denn nichts, als klage-lieder singen,</l>
+            <l>Und nur ein spiel der sternen seyn?</l>
+            <l>Soll meine ruh mir selber unruh bringen?</l>
+            <l>Erndt ich bey rosen dornen ein?</l>
+            <l>Ach, verhängniß! ändre dich,</l>
+            <l>Sonst wird dein schluß Melindens todes-stich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es zeigt sich zwar die angenehmste sonne;</l>
+            <l>Doch stehn die wolcken stets dabey:</l>
+            <l>Die nacht der angst steht immer bey der wonne.</l>
+            <l>Mein glück ist lauter tyranney.</l>
+            <l>Ach, verhängniß! ändre dich,</l>
+            <l>Sonst wird dein schluß Melindens todes-stich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kan ich das licht nicht ohne nebel haben,</l>
+            <l>So laß mich in dem schatten stehn.</l>
+            <l>Will deine gunst nicht die gefahr begraben,</l>
+            <l>So mag ich nicht auf marmel gehn?</l>
+            <l>Ach, verhängniß! ändre dich,</l>
+            <l>Sonst wird dein schluß Melindens todes-stich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

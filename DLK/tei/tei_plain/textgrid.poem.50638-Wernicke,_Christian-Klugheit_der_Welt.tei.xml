@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Klugheit der Welt</title>
+        <author>
+          <persName>
+            <surname>Wernicke</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">574</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1693</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Klugheit der Welt</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast den Seneca und Plato wohl gelesen;</l>
+            <l>Allein du kennest nicht der Welt verkehrtes Wesen.</l>
+            <l>Menalcas, glaub', es steckt viel Weisheit im Betrug,</l>
+            <l>Viel Wissenschaft in den Gebehrden.</l>
+            <l>Du hast Verstand, doch nicht Geschicklichkeit genug,</l>
+            <l>Auch von den Narren selbst für klug geschätzt zu werden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast den Seneca und Plato wohl gelesen;</l>
+            <l>Allein du kennest nicht der Welt verkehrtes Wesen.</l>
+            <l>Menalcas, glaub', es steckt viel Weisheit im Betrug,</l>
+            <l>Viel Wissenschaft in den Gebehrden.</l>
+            <l>Du hast Verstand, doch nicht Geschicklichkeit genug,</l>
+            <l>Auch von den Narren selbst für klug geschätzt zu werden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

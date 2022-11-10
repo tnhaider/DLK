@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Herrn Borchmann,  
+ als er bat, mit einer Schüssel vorlieb zu  
+ nehmen.</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">54</measure>
+        <measure type="characters">308</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197778"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Herrn Borchmann,  
+ als er bat, mit einer Schüssel vorlieb zu  
+ nehmen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Borchmann, sprich! wann essen</l>
+            <l>Die Menschen mehr als königlich?</l>
+            <l>Wenn sie der ganzen Welt vergessen</l>
+            <l>Und so vergnügt, wie Gleim und du, und ich</l>
+            <l>Mit einer Schüssel sind, und niemand fürchten dürfen,</l>
+            <l>Und ihren Wein mit einer Zunge schlürfen,</l>
+            <l>Die frey und unbeurtheilt spricht;</l>
+            <l>O welch ein Mahl! der König hat es nicht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

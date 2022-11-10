@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[kalt ist's, eine trockene Kälte]</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">440</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[kalt ist's, eine trockene Kälte]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kalt ist's, eine trockene Kälte,</l>
+            <l>Aus modernen Burgen schallt</l>
+            <l>Tadel für das Holz, den Heizer</l>
+            <l>Durch die weiten Säle bald.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber in des Armen Hütte</l>
+            <l>Ist von Tadel keine Spur,</l>
+            <l>Eingefroren ist das Wasser</l>
+            <l>Und man weint und zittert nur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kalt ist's, eine trockene Kälte,</l>
+            <l>Aus modernen Burgen schallt</l>
+            <l>Tadel für das Holz, den Heizer</l>
+            <l>Durch die weiten Säle bald.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber in des Armen Hütte</l>
+            <l>Ist von Tadel keine Spur,</l>
+            <l>Eingefroren ist das Wasser</l>
+            <l>Und man weint und zittert nur.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

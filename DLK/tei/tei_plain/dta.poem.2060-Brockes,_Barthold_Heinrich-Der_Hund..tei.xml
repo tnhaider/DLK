@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Hund.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">475</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Hund.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch ersieht man an den Hunden, so, daß es kaum zu</l>
+            <l>begreifen,</l>
+            <l>Wie mehr, als bey allen Thieren, ihre Meng’ und Art</l>
+            <l>sich häufen;</l>
+            <l>Seht und zählet mit Bewundrung, wie so viel- und man-</l>
+            <l>cherley,</l>
+            <l>Und in einer jeden Art wieder solche Menge sey.</l>
+            <l>Wenn man denn für andre Thiere unserm Gott zu danken,</l>
+            <l>pflichtig;</l>
+            <l>So sind es die Hunde gleichfalls, da die Dienste groß</l>
+            <l>und wichtig,</l>
+            <l>Welche wir von ihnen haben: Ja sie scheinen uns im Le-</l>
+            <l>ben,</l>
+            <l>Außer ihrem vielen Nutzen, zur Gesellschaft fast gege-</l>
+            <l>ben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

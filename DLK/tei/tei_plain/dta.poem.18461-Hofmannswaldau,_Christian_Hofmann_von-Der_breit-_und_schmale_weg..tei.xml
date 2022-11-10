@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der breit- und schmale weg.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">53</measure>
+        <measure type="characters">306</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1703</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199360"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der breit- und schmale weg.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist ein breiter steg</l>
+            <l>Und wohlgebahnter weg/</l>
+            <l>Der zum verderben führet/</l>
+            <l>Den einer/ so doch blind/</l>
+            <l>Ohn allen anstoß sindt/</l>
+            <l>Ohn alles fühlen spühret.</l>
+            <l>Der den die tugend kennt/</l>
+            <l>Wird allzeit schmal genennt/</l>
+            <l>Kein mensch kan selben finden/</l>
+            <l>Als der der tugend freund/</l>
+            <l>Der laster ärgster feind</l>
+            <l>Und nicht geblendt von sünden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

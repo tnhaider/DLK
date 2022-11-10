@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">23.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">623</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>23.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von einem Höfling wird erzählt auf diesem Blatte,</l>
+            <l>Daß klüger als er selbst der Hund war, den er hatte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von diesem immer ward, so oft er mußte kommen</l>
+            <l>Zum Dienst ins Fürstenschloß, das Hündlein mitgenommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stets lief das Hündlein nach, bis daß einmal es zauste</l>
+            <l>Im Schloß des Fürsten Hund, davor ihm künftig grauste.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seit folgt' es seinem Herrn nicht weiter als zur Pforte,</l>
+            <l>Und wartete, bis er herauskam, an dem Orte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sprach der Hofmann selbst: Mein Hund ist viel gescheiter,</l>
+            <l>Daß er zur Pforte geht des Schlosses und nicht weiter,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weil drin einmal gezaust ihm wurden Fell und Glieder,</l>
+            <l>Da ich, so oft gezaust, hineingeh' immer wieder.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

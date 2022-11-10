@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">72.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">408</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>72.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleichgültig findet mich der Lenz zum erstenmal,</l>
+            <l>Alsob ich älter sei als Wald und Berg und Thal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da Wald und Berg und Thal, die alten, sich erneun,</l>
+            <l>Wie sollte sich nicht neu das alte Herz auch freun?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein halb Jahrhundert lang freut' ich mich Jahr um Jahr,</l>
+            <l>Und wardst du nun so alt in diesem einz'gen gar?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nein! sondern weil ein Bild des Frühlings in mir steht,</l>
+            <l>Vor welchem das zu Nichts, das draußen steht, vergeht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

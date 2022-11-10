@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[du nennst mich Dichter, ich verdien es nicht]</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">84</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">362</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[du nennst mich Dichter, ich verdien es nicht]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du nennst mich Dichter, ich verdien es nicht.</l>
+            <l>Ein andrer sitzt, ich fühls, und schreibt mein Leben.</l>
+            <l>Und soll die Poesie den Namen geben,</l>
+            <l>Statt Dichter, fühl ich höchstens mich Gedicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du nennst mich Dichter, ich verdien es nicht.</l>
+            <l>Ein andrer sitzt, ich fühls, und schreibt mein Leben.</l>
+            <l>Und soll die Poesie den Namen geben,</l>
+            <l>Statt Dichter, fühl ich höchstens mich Gedicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

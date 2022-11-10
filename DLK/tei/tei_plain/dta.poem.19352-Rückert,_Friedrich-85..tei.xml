@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">85.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">610</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>85.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer ist freigebig? Wer, dis sagt das Wort, gibt frei,</l>
+            <l>Frei, ohne daß er selbst dazu gezwungen sei,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gezwungen weder durch Gewalt, noch Rücksicht auch,</l>
+            <l>Die gleichgewaltig ist, auf Ruhm, Stand oder Brauch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freigebig ist, dem Wort wohnt dieser Sinn auch bei,</l>
+            <l>Wer den Unfreien gibt, den Schuldverbundnen, frei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freigebig ist, wer frei dir gibt, daß, wie du magst,</l>
+            <l>Du hinnimmst, was er gibt, Dank oder nicht ihm sagst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freigebig, wer als Mann, als freier, kund sich gibt</l>
+            <l>Durch Geben, weil er kann hingeben, was er liebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn Sklav' ist seines Guts, wers nicht hingeben kann;</l>
+            <l>Frei fühlt sich vom Besitz nur der freigeb'ge Mann.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

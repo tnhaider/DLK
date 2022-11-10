@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Der graue Herbst</title>
+        <author>
+          <persName>
+            <surname>Morgenstern</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">98</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">372</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Der graue Herbst</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der graue Herbst</l>
+            <l>lädt mich zu sich hinaus,</l>
+            <l>übern grauen See,</l>
+            <l>übern grauen Wald,</l>
+            <l>in die graue, graue Himmelsferne ...</l>
+            <l>Bin ich der einzige Mensch der Erde? ...</l>
+            <l>Tiefe Verlassenheit fällt mich an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der graue Herbst</l>
+            <l>lädt mich zu sich hinaus,</l>
+            <l>übern grauen See,</l>
+            <l>übern grauen Wald,</l>
+            <l>in die graue, graue Himmelsferne ...</l>
+            <l>Bin ich der einzige Mensch der Erde? ...</l>
+            <l>Tiefe Verlassenheit fällt mich an.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

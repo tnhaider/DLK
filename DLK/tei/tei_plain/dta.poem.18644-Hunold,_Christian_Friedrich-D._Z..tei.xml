@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D. Z.</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">241</measure>
+        <measure type="tokens">174</measure>
+        <measure type="characters">974</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1702</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197766"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>D. Z.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier liegt mein Hertz/ und spricht/ ich bin besieget/</l>
+            <l>Hier beut mein Geist sich dir zum Sclaven an.</l>
+            <l>Die Freyheit hat mich nicht so sehr vergnüget/</l>
+            <l>Als da du mir die Fessel angethan.</l>
+            <l>Wer mich befreyt/ sucht mein Verderben/</l>
+            <l>Es ist nur Sterben</l>
+            <l>Mein löse Geld.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Dinstbarkeit/ die ich so willig Leide-</l>
+            <l>Ist viel zu schön/ daß jemand loß begehrt.</l>
+            <l>Mein edles Joch ist weicher Sammt und Seide/</l>
+            <l>Die Ketten sind des besten Goldes werth.</l>
+            <l>Das Sclaven Hauß der holden Plagen/</l>
+            <l>Ist kurtz zu sagen/</l>
+            <l>Mein Paradieß. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es mag die Welt ihr Jubel-Fest begehen/</l>
+            <l>Es ruffe Rom die freyen Zeiten aus.</l>
+            <l>Ich will bestrickt/ und stets gebunden stehen</l>
+            <l>Es sucht dein Knecht bey dir sein Sclaven-Hauß</l>
+            <l>Mein keusches Hertz/ so dir verbunden/</l>
+            <l>Rufft alle Stunden/</l>
+            <l>Ach zweiffle nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du solt mein Kind allein dieselbe bleiben/</l>
+            <l>Von der ein Winck mir gleich befehlen kan.</l>
+            <l>Es soll mich nichts von deiner Seite treiben</l>
+            <l>Es fasse mich gleich Todt und Unglück an:</l>
+            <l>Es wird die Treu doch nicht gebrochen/</l>
+            <l>Die ich versprochen/</l>
+            <l>Das schwer ich dir.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

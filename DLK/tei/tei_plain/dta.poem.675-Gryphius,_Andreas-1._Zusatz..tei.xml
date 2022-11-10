@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1. Zusatz.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">94</measure>
+        <measure type="tokens">65</measure>
+        <measure type="characters">362</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1. Zusatz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich (dem die grosse Welt vorhin zu enge war/) </l>
+            <l>Hält dieses enge grab verrigelt</l>
+            <l>Ich bin in dieser klufft versiegelt/</l>
+            <l>Vnd fest verstrickt in angst/ in wehmut vnd gefahr.</l>
+            <l>Wo ist die güldne zeit gebliben/</l>
+            <l>Da ich mit freyem munde sang? </l>
+            <l>Da meiner süssen seiten klang/</l>
+            <l>Sich in des höchsten lob must üben.</l>
+            <l>Ach wie hat alles sich verkehret/</l>
+            <l>Wie hefftig hat mich GOTT beschweret.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

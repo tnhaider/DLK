@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Gesang.  
+ An Schönborn.</title>
+        <author>
+          <persName>
+            <surname>Stolberg-Stolberg</surname>
+            <forename>Friedrich Leopold zu</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-23</measure>
+        <measure type="syllables">179</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">649</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1779</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20589-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Gesang.  
+ An Schönborn.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und oft schwebt er vom Himmel herab! den</l>
+            <l>nahenden fühl' ich,</l>
+            <l>Meine Seel’ erhebet sich dann in steigender Wal-</l>
+            <l>lung,</l>
+            <l>Wie das Meer sich erhebt in der Kühle des pur-</l>
+            <l>purnen Abends.</l>
+            <l>Neue Bilder schweben um ihn und junge Gedanken,</l>
+            <l>Wie mit zahllosen Blumen der Lenz die Erde</l>
+            <l>besuchet,</l>
+            <l>Und mit taufend Sängern des Hains in blühen-</l>
+            <l>den Stauden!</l>
+            <l>Hohe Gedanken schweben um ihn, wie rund um</l>
+            <l>den Himmel</l>
+            <l>Flammende Sonnen mit grüngelockten Erden</l>
+            <l>umkränzet,</l>
+            <l>Und mit Silberwangigen Monden! Mondschein-</l>
+            <l>ähnlich</l>
+            <l>Leuchtet er manchmal sanft und entlocket zärtliche</l>
+            <l>Thränen;</l>
+            <l>Und dann eilt er mit Flammen umgürtet, gleich</l>
+            <l>dem Kometen,</l>
+            <l>Wann er von Himmel zu Himmel im feurigen</l>
+            <l>Wagen daherrollt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

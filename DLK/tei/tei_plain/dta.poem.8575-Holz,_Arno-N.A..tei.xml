@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-4 4-5 5-5</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">839</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1899</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192690"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Hause, wo die bunten Ampeln brennen,</l>
+            <l>glänzen auf demselben Bücherspind,</l>
+            <l>über George Ohnet, Stinde und Dante,</l>
+            <l>Schiller und Goethe:</l>
+            <l>beide beteiligt an ein und demselben Gypskranz!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Hause, wo die bunten Ampeln brennen,</l>
+            <l>hängt an derselben Wedgwoodtapete, über demselben Rokokoschirm,</l>
+            <l>zwischen Klinger und Hokusai,</l>
+            <l>Anton von Werner.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Hause, wo die bunten Ampeln brennen,</l>
+            <l>spielen dieselben schlanken Hände, auf demselben Ebenholzflügel,</l>
+            <l>mit demselben Charm und Chic</l>
+            <l>Frédéric François Chopin und Ludolf Waldmann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Hause, wo die bunten Ampeln brennen,</l>
+            <l>auf vergoldeten Stühlchen sitzend,</l>
+            <l>trinkt man Chablis, Pilsner und Sect,</l>
+            <l>kommt dann peu-à-peu auf Nietzsche,</l>
+            <l>zuletzt wird getanzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich küsse entzückt der Hausfrau die Hand,</l>
+            <l>enttäusche einen älteren, glattrasirten Herrn</l>
+            <l>mit baumwollnen Handschuhen und Wadenstrümpfen</l>
+            <l>durch eine Mark Trinkgeld</l>
+            <l>und verschwinde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

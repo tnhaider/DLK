@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trost im Gesang .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">65</measure>
+        <measure type="characters">405</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trost im Gesang .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Wandrer, dem verschwunden</l>
+            <l>So Sonn' als Mondenlicht,</l>
+            <l>Der singt ein Lied in's Dunkel</l>
+            <l>Und härmt sich länger nicht.</l>
+            <l>Er schreitet muthig weiter</l>
+            <l>Die menschenleere Bahn,</l>
+            <l>Viel lichte Sangesbilder</l>
+            <l>Die gehen ihm voran.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nacht ist's auch mir geworden,</l>
+            <l>Die Freunde stehen fern,</l>
+            <l>Von meinem Himmel schwindet</l>
+            <l>Der allerletzte Stern,</l>
+            <l>Doch geh' ich muthig weiter</l>
+            <l>Die menschenleere Bahn,</l>
+            <l>Noch gehen Sangesbilder</l>
+            <l>Ja mir auch licht voran.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

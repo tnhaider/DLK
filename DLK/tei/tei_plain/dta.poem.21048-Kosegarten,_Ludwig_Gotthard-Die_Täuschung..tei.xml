@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Täuschung.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">185</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">728</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193300"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Täuschung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Erlenbusch, im Tannenhayn,               </l>
+            <l>In Sonn- und Mond- und Sternenschein</l>
+            <l>Umlächelt mich ein Bildniss.</l>
+            <l>Vor seinem Lächeln klärt sich schnell</l>
+            <l>Die Dämmerung in Himmelhell,</l>
+            <l>In Paradies die Wildniss.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es säuselt in der Abendluft,</l>
+            <l>Es dämmert in dem Morgenduft,</l>
+            <l>Es tanzet auf der Aue.</l>
+            <l>Es flötet in dem Wachtelschlag,</l>
+            <l>Und spiegelt sich im klaren Bach,</l>
+            <l>Und badet sich im Thaue.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es naht in holder Traulichkeit</l>
+            <l>Sich mir in tiefster Dunkelheit</l>
+            <l>So schüchtern und so leise.</l>
+            <l>Es lullt mich wohl in sanfte Ruh,</l>
+            <l>Und haucht im Schlaf mir Träume zu</l>
+            <l>Von wundersüsser Weise.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich öffn' ihm sehnend meinen Arm,</l>
+            <l>Und streb', es traut und liebewarm</l>
+            <l>An meine Brust zu drücken.</l>
+            <l>Ich hasch', und hasche leere Luft.</l>
+            <l>Und nichtig, wie ein Nebelduft,</l>
+            <l>Entwallt es meinen Blicken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

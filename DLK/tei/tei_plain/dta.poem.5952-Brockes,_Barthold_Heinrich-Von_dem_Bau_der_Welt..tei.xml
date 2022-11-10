@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Bau der Welt.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">113</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">430</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Bau der Welt.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch diese Wirbel, die so sehr verschiedlich seyn,</l>
+            <l>Theilt die Materie sich ein.</l>
+            <l>Es ist von einem jeden</l>
+            <l>Der Umkreiß sonderlich und unterschieden.</l>
+            <l>Da denn dieselben, welche fest,</l>
+            <l>Einfolglich weniger gebogen und gepresst;</l>
+            <l>Die breiten ihren Lauf</l>
+            <l>Viel weiter aus, gehn höher noch hinauf.</l>
+            <l>Die aber, deren Krafft geringer; sind verschränckt</l>
+            <l>In einem kleinen Creyse:</l>
+            <l>Daher in ihrer steten Reise</l>
+            <l>Jhr Gang sich lange nicht so hefftig auswärts lenckt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

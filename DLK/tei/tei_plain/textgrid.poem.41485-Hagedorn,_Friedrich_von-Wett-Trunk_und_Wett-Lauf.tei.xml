@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wett-Trunk und Wett-Lauf</title>
+        <author>
+          <persName>
+            <surname>Hagedorn</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">216</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">892</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1731</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wett-Trunk und Wett-Lauf</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaub, Anacharsis hatte Recht,</l>
+            <l>Der, weil er sich zuerst bezecht,</l>
+            <l>Begehrte, daß man ihm des Wett-Trunks Preis ertheilte:</l>
+            <l>Was, sprach er, trug nicht der den Lohn</l>
+            <l>Im Wett-Lauf jederzeit davon,</l>
+            <l>Der dessen Ziel zuerst ereilte?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freund, schien der Syracuser Wein</l>
+            <l>Dir gestern gleich zu stark zu sein,</l>
+            <l>Der dich noch eh', als mich, durch seine Kraft erhitzet;</l>
+            <l>So schäme dich der Züge nicht:</l>
+            <l>Du weißt, was Anacharsis spricht,</l>
+            <l>Und was er spricht, ist was dich schützet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaub, Anacharsis hatte Recht,</l>
+            <l>Der, weil er sich zuerst bezecht,</l>
+            <l>Begehrte, daß man ihm des Wett-Trunks Preis ertheilte:</l>
+            <l>Was, sprach er, trug nicht der den Lohn</l>
+            <l>Im Wett-Lauf jederzeit davon,</l>
+            <l>Der dessen Ziel zuerst ereilte?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freund, schien der Syracuser Wein</l>
+            <l>Dir gestern gleich zu stark zu sein,</l>
+            <l>Der dich noch eh', als mich, durch seine Kraft erhitzet;</l>
+            <l>So schäme dich der Züge nicht:</l>
+            <l>Du weißt, was Anacharsis spricht,</l>
+            <l>Und was er spricht, ist was dich schützet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

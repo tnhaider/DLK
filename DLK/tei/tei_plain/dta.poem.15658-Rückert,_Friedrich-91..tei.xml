@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">91.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">149</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">589</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>91.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das alte Sprichwort sagt: Nichts unterm Sonnenstral</l>
+            <l>Kommt Neues, das nicht dagewesen schon einmal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Umkehren läßt sichs auch: Nichts Altes kehret wieder,</l>
+            <l>Und immer neues Licht scheint von der Sonne nieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf anderm Punkt im Raum sind wir an jedem Tag,</l>
+            <l>Weil nie in ihrem Lauf die Erde rasten mag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie kommt auf gleicher Bahn nicht übers Jahr zurück;</l>
+            <l>Denn weiter lief die Sonn' inzwischen auch ein Stück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sonn' auch kehret nie im Schwung um ihre Sonne;</l>
+            <l>Denn ihre Sonn' auch kreist indeß um höh're Wonne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Welten höchste Wonn' ist solche Liebestreue,</l>
+            <l>Zum Ewigen der Trieb, der ewig alt und neue.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

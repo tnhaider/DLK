@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">In den Abend</title>
+        <author>
+          <persName>
+            <surname>Lichtenstein</surname>
+            <forename>Alfred</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">666</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1911</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>In den Abend</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus krummen Nebeln wachsen Köstlichkeiten.</l>
+            <l>Ganz winzge Dinge wurden plötzlich wichtig.</l>
+            <l>Der Himmel ist schon grün und undurchsichtig</l>
+            <l>Dort hinten, wo die blinden Hügel gleiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zerlumpte Bäume strolchen in die Ferne.</l>
+            <l>Betrunkne Wiesen drehen sich im Kreise,</l>
+            <l>Und alle Flächen werden grau und weise ...</l>
+            <l>Nur Dörfer hocken leuchtend: rote Sterne –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus krummen Nebeln wachsen Köstlichkeiten.</l>
+            <l>Ganz winzge Dinge wurden plötzlich wichtig.</l>
+            <l>Der Himmel ist schon grün und undurchsichtig</l>
+            <l>Dort hinten, wo die blinden Hügel gleiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zerlumpte Bäume strolchen in die Ferne.</l>
+            <l>Betrunkne Wiesen drehen sich im Kreise,</l>
+            <l>Und alle Flächen werden grau und weise ...</l>
+            <l>Nur Dörfer hocken leuchtend: rote Sterne –</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

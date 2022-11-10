@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der  
+ Sterbende  
+  Socrates.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">491</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1679</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20289-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa; Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der  
+ Sterbende  
+  Socrates.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und daß er mich macht alles Zweiffels frey/</l>
+            <l>Warum der Erd ist Kugel Art gegeben/</l>
+            <l>Und ob denn diß die beste Stelle sey/</l>
+            <l>Daß sie also muß in den Lüfften schweben.</l>
+            <l>Ich wünschte wol/ daß er mir kund gethan/</l>
+            <l>Warum der Mond itzt scheinet/ itzt vergehet/</l>
+            <l>Warum der Tag auch hier sich zeigen kan;</l>
+            <l>Wie das Gelück noch unterm Himmel stehet/</l>
+            <l>Wie auch/ warum der Sternen göldne Pracht/</l>
+            <l>So in der Lufft bald her bald wiederstreichet/</l>
+            <l>So wunder schön und artig ist gemacht/</l>
+            <l>Und wie man sie mit dem Gesicht erreichet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

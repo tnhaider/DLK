@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">O Liebe.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">209</measure>
+        <measure type="tokens">147</measure>
+        <measure type="characters">816</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>O Liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Liebe!</l>
+            <l>Die mich bis in den Tod geliebt,</l>
+            <l>Die schmerzlich sich um mich betrübt,</l>
+            <l>Die für mich lebt' und litt und starb,</l>
+            <l>Und sterbend mir das Heil erwarb . . ,</l>
+            <l>O Liebe,</l>
+            <l>Sieh, wie ich mich betrübe,</l>
+            <l>Dass ich nicht gnug dich liebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Liebe,</l>
+            <l>Die du für mich der Thränen Fluth,</l>
+            <l>Für mich verströmt dein rothes Blut,</l>
+            <l>Für mich dein Leben ausgestöhnt,</l>
+            <l>Den Vater sterbend mir versöhnt . . .</l>
+            <l>O Liebe,</l>
+            <l>Sieh, wie ich mich betrübe,</l>
+            <l>Dass ich nicht gnug dich liebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Liebe,</l>
+            <l>O du in deinem Dornenkranz,</l>
+            <l>In deines Blutes Purpurglanz,</l>
+            <l>O sündebüssend Opferlamm,</l>
+            <l>Mein König und mein Bräutigam . . .</l>
+            <l>O Liebe,</l>
+            <l>Sieh wie ich mich betrübe,</l>
+            <l>Dass ich so lau dich liebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Liebe,</l>
+            <l>Entzünd' in mir der Liebe Gluth,</l>
+            <l>Lass in der Wunden rother Fluth</l>
+            <l>Mich untergehn, gar untergehn,</l>
+            <l>Um nimmer, nimmer zu erstehn . . .</l>
+            <l>O Liebe,</l>
+            <l>Tilg' alle niedre Triebe,</l>
+            <l>Dass ich nur dich! dich! liebe!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

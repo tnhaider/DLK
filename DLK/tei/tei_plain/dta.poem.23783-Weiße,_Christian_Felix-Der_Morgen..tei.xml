@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Morgen.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">142</measure>
+        <measure type="characters">827</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Morgen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willkommen schöner Morgen!</l>
+            <l>Wie groß ist deine Pracht!</l>
+            <l>Sie bliebe mir verborgen,</l>
+            <l>Wär ich nicht früh erwacht:</l>
+            <l>Lust, Wunder und Entzücken</l>
+            <l>Begegnen meinen Blicken,</l>
+            <l>Wohin ich immer seh,</l>
+            <l>Jm Thal und auf der Höh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es glühn der Berge Spitzen</l>
+            <l>Von güldnem Sonnenstrahl;</l>
+            <l>Von Diamanten blitzen</l>
+            <l>Die Pflänzgen überall.</l>
+            <l>In Luft und auf der Weide</l>
+            <l>Ertönt das Lied der Freude,</l>
+            <l>Und weckt in süßem Schall</l>
+            <l>Den dankbarn Wiederhall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr wißt nicht, reiche Prasser,</l>
+            <l>Was ihr für Glück verschlaft?</l>
+            <l>Seyd eure eignen Hasser,</l>
+            <l>Und durch euch selbst bestraft!</l>
+            <l>Verschlaft die schönsten Stunden,</l>
+            <l>Nie sey von euch empfunden,</l>
+            <l>Was diese schöne Welt</l>
+            <l>Für Wunder in sich hält.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will es aber fühlen. &amp;#8212;</l>
+            <l>Indem die Weste mir</l>
+            <l>In Locken lieblich spielen,</l>
+            <l>Sitz und betracht ich hier.</l>
+            <l>Gott! ist mein irrdisch Leben</l>
+            <l>Mit so viel Glück umgeben,</l>
+            <l>Was wird der Wohnplatz seyn,</l>
+            <l>Der uns dort soll erfreun!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

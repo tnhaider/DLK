@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trinklied im Winter.</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-6 5-6 6-6</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">744</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trinklied im Winter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Nordwind brüllt;</l>
+            <l>Die Sonn' ist niedergesunken!</l>
+            <l>Der kalte Bär.</l>
+            <l>Blinkt Frost daher!</l>
+            <l>Getrunken, Brüder, getrunken!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Tannen glühn</l>
+            <l>Hell im Kamin,</l>
+            <l>Und knatternd fliegen die Funken!</l>
+            <l>Der edle Rhein</l>
+            <l>Gab uns den Wein!</l>
+            <l>Getrunken, Brüder, getrunken!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der edle Most</l>
+            <l>Verscheucht den Frost,</l>
+            <l>Und zaubert Frühling hernieder:</l>
+            <l>Der Trinker sieht</l>
+            <l>Den Hain entblüht,</l>
+            <l>Und Büsche wirbeln ihm Lieder!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hört Gesang</l>
+            <l>Und Harfenklang,</l>
+            <l>Und schwankt durch blühende Lauben;</l>
+            <l>Ein Mädchenchor</l>
+            <l>Rauscht schnell hervor,</l>
+            <l>Und bringt ihm goldene Trauben!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Saus' immerfort,</l>
+            <l>O Winternord,</l>
+            <l>Im schneebelasteten Haine!</l>
+            <l>Nur streu dein Eis,</l>
+            <l>O lieber Greis,</l>
+            <l>In keine Flaschen mit Weine!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der stolzen Frau</l>
+            <l>Färb braun und blau</l>
+            <l>Den Kamm, der adlich ihr schwillet!</l>
+            <l>Nur musst du fliehn</l>
+            <l>Den Hermelin,</l>
+            <l>Der junge Busen verhüllet!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

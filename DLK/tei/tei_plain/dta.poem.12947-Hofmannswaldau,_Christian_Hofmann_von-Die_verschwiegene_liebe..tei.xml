@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die verschwiegene liebe.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">105</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">413</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die verschwiegene liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein liebes-secretair bist du allein, mein hertze!</l>
+            <l>Wie Amors süße kertze</l>
+            <l>Mich nächst entzündet hat, das weißt du gantz allein.</l>
+            <l>Die seuffzer wollen zwar allhier verräther seyn,</l>
+            <l>Und öffnen allbereits der lippen freye pforte;</l>
+            <l>Doch, seuffzer! bleibt zurück, und brecht nicht durch den mund,</l>
+            <l>Es wird sonst allzu kund</l>
+            <l>Um wen ich in der stille buhle;</l>
+            <l>Denn in der liebes-schule</l>
+            <l>Sind heisse seuffzer schon so viel, als klare worte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

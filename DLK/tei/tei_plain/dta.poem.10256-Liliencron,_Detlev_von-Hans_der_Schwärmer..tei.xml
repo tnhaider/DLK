@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hans der Schwärmer.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">329</measure>
+        <measure type="tokens">228</measure>
+        <measure type="characters">1325</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hans der Schwärmer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hans Töffel liebt Schön Doris sehr,             </l>
+            <l>Schön Doris Hans Töffel vielleicht noch mehr.</l>
+            <l>Doch seine Liebe, ich weiß nicht wie,</l>
+            <l>Ist zu scheu, zu schüchtern, zu viel Elegie.</l>
+            <l>Im Kreise liest er Gedichte vor,</l>
+            <l>Schön Doris steht unten am Gartenthor:</l>
+            <l>Ach, käm’ er doch frisch zu mir hergesprungen,</l>
+            <l>Wie wollt’ ich ihn herzen, den lieben Jungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am andern Abend, der blöde Thor,</l>
+            <l>Hans Töffel trägt wieder Gedichte vor.</l>
+            <l>Schön Doris das wirklich sehr verdrießt,</l>
+            <l>Daß er immer weiter und weiter liest.</l>
+            <l>Sie schleicht sich hinaus, er gewahrt es nicht,</l>
+            <l>Just sagt er von Heine ein herrlich Gedicht.</l>
+            <l>Schön Doris steht unten in Rosendüften</l>
+            <l>Und hätte so gern seinen Arm um die Hüften.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am andern Abend ist großes Fest,</l>
+            <l>Viel Menschen sind eng aneinander gepreßt.</l>
+            <l>Heut muß er’s doch endlich sehn der Poet,</l>
+            <l>Wenn Schön Doris sacht aus der Thüre geht.</l>
+            <l>Potz Tausend, er merkt es und merkt es auch nicht,</l>
+            <l>Er spricht und verzapft gar ein eigen Gedicht.</l>
+            <l>Und unten im stillen, dunklen Garten</l>
+            <l>Muß Schön Doris vergeblich, vergeblich warten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am andern Abend, beim heiligen Gral,</l>
+            <l>Schön Doris fehlt im Gesellschaftssaal.</l>
+            <l>Und ist auch Hans Töffel mein Freund und mir wert —</l>
+            <l>Die Katze schläft unten am Feuerherd,</l>
+            <l>Beim Kätzchen steht sinnend Schön Doris und sehnt,</l>
+            <l>Ihr Köpfchen an meiner Schulter lehnt.</l>
+            <l>Und hätt’ ich auch eine Legion Verdammer,</l>
+            <l>Zu süß war die Stunde bei ihr in der Kammer.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

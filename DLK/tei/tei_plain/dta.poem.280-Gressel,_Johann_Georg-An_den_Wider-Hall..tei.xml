@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Wider-Hall.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">255</measure>
+        <measure type="tokens">169</measure>
+        <measure type="characters">981</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Wider-Hall.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stiller Ort/ beglückte Schatten/</l>
+            <l>Echo Sitz und Wunder-Haus</l>
+            <l>Gönnt/ daß ich auf euren Matten</l>
+            <l>Schütte meine Seuffzer aus;</l>
+            <l>Denn meine Seuffzer/ meine Zähren</l>
+            <l>Will/ mir zum Troste/ keiner hören.</l>
+            <l>Echo. Erhören.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Erhören ist verschwunden/</l>
+            <l>Mein Schatz ist in jener Welt/</l>
+            <l>Und der Schmertz vonmeinen Wunden</l>
+            <l>Hat mein Hertz schon halb gefällt.</l>
+            <l>Ach dein Erhören ist ein Meynen/</l>
+            <l>Mir wird die Sonne nimmer scheinen.</l>
+            <l>Echo. Erscheinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wird des Glückes froher Morgen</l>
+            <l>Nach den Stürmen mir aufgehn?</l>
+            <l>Wird der Himmel vor mich sorgen?</l>
+            <l>Soll ich mich erfreuet sehn?</l>
+            <l>Ach Nein! ach Nein! ich bin verlassen</l>
+            <l>Ich kan sie nicht wieder umfassen.</l>
+            <l>Ech. Umfassen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich umfasse ihre Brüste!</l>
+            <l>Nein/ ach Nein! das kan nicht seyn</l>
+            <l>Denn zu kosten süsse Lüste</l>
+            <l>Geht mit Todten keiner ein;</l>
+            <l>Den Todt und Grab mag ich umfangen/</l>
+            <l>Die </l>
+            <l>Echo. Erlangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nimmer und zu keinen Zeiten</l>
+            <l>Echo wird dein Reden wahr/</l>
+            <l>Da mich Augst und Noht bestreiten</l>
+            <l>Wird mir kein Befreyungs-Jahr;</l>
+            <l>Denn von den Banden/ von den Ketten</l>
+            <l>Wird nun/ sie todt/ mich keiner retten.</l>
+            <l>Echo. Erretten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

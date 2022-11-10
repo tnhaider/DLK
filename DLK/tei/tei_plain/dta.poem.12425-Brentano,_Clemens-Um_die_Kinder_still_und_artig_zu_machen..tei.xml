@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Um die Kinder still und artig zu machen.</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">524</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Um die Kinder still und artig zu machen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es kam ein Herr zum Schlößly               </l>
+            <l>Auf einem schönen Rößly,</l>
+            <l>Da lugt die Frau zum Fenster aus</l>
+            <l>Und sagt: „Der Mann ist nicht zu Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„und niemand heim als Kinder</l>
+            <l>„unds Mädchen auf der Winden.“</l>
+            <l>Der Herr auf seinem Rößly,</l>
+            <l>Sagt zu der Frau im Schlößly:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„sinds gute Kind, sinds böse Kind?</l>
+            <l>„ach liebe Frau, ach sagt geschwind.“</l>
+            <l>Die Frau, die sagt: „Sehr böse Kind,</l>
+            <l>„sie folgen Muttern nicht geschwind.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sagt der Herr: „So reit ich heim,</l>
+            <l>„dergleichen Kinder brauch ich kein.“</l>
+            <l>Und reit auf seinem Rößly,</l>
+            <l>Weit, weit entweg vom Schlößly.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Freiligrath.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">609</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Freiligrath.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Himmel fing von Neuem an zu blauen,</l>
+            <l>Der Winter sich zum Abmarsch anzuschicken,</l>
+            <l>Die Erde sich mit jungem Grün zu sticken, —</l>
+            <l>Ich nahm Dein Buch, recht tief darein zu schauen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und mich erfaßt ein heimlich lüstern Grauen;</l>
+            <l>Ich seh' die alten Straußenfedern nicken,</l>
+            <l>Und glaub' in Tausend Eine Nacht zu blicken —</l>
+            <l>Hier, denk' ich, wären so für mich die Frauen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da bringt mein Mädchen mir die ersten Veilchen,</l>
+            <l>Im blauen Shawl, im leichten Rosakleide,</l>
+            <l>Die weiche Hand das Einzige von Seide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Orient ruht wieder auf ein Weilchen;</l>
+            <l>Mein Herz, kaum nach der Fremde so begehrlich,</l>
+            <l>Bleibt gern im Lande nun und nährt sich ehrlich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">68.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">127</measure>
+        <measure type="characters">723</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>68.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Wandersmann, der aus der weiten Wüste kam,</l>
+            <l>Wo er nicht Menschenwort noch Menschenblick vernahm,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tritt in ein Felsenthal, von Bäumen kühl beschattet,</l>
+            <l>Wo eine Quelle rauscht, da setzt er sich ermattet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun schaut er in den Quell, und sieht sich selb darinn,</l>
+            <l>Und weiß nicht daß ers ist, und schwankt in seinem Sinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er schwankt, alswie er sieht sein Bild im Quelle schwanken,</l>
+            <l>Und sinkt, wie in die Flut, in wogende Gedanken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann ruft er staunend aus: Wer bist du? und mit Staunen</l>
+            <l>Hört er der Felsen Mund Wer bist du? gegenraunen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch Gegenfrage wird die Frage nicht beschwichtet,</l>
+            <l>Doch hat die Einsamkeit nichts andres ihm berichtet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sich selb nur sieht der Mensch im Spiegel der Natur,</l>
+            <l>Und was er sie befragt, das widerholt sie nur.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das dritte Buch.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">300</measure>
+        <measure type="tokens">206</measure>
+        <measure type="characters">1157</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198429"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das dritte Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Saul gabe nun Befehl das Lager aufzuheben,</l>
+            <l>Wozu im gantzen Heer sie mehr als willig leben,</l>
+            <l>Es tönt die Feldtrompet zum Abzug; Man bricht auf.</l>
+            <l>Es reiset also hin der Helden froher Hauf,</l>
+            <l>Ein jeder war bebürdt mit der Philister Schätzen,</l>
+            <l>Zum Zeichen seiner Ehr, die Last ist ihr Ergetzen,</l>
+            <l>Sie gehen muntrer jezt, als fürhin da sie leer.</l>
+            <l>Das ungewisse Glück beschwerte sie vor mehr</l>
+            <l>Als nun der schwere Raub. Der David hat zu schaffen,</l>
+            <l>Daß Goliath sein Haupt, des Schwerdt und grosse Waffen</l>
+            <l>Auch kommen mit von da, dieß ware seine Beut,</l>
+            <l>Die Ursach alles Raubs der andern Kriegesleut.</l>
+            <l>Viel anders zog er weg, als er war hergekommen;</l>
+            <l>Gleich als ein schlechter Hirt war er hie aufgenommen,</l>
+            <l>Nun aber ehrt man ihn als einen Kriegesheld,</l>
+            <l>Der da nach Hof gehört, und nicht mehr in das Feld.</l>
+            <l>In diesem neuen Stand hofft er wohl zu behagen,</l>
+            <l>Der die da ihm zu lieb wollt Hirtenkleider tragen,</l>
+            <l>Wie ehmahls er vernahm in jener süssen Nacht,</l>
+            <l>Die ihm, was er niemahls gehoffet, wissend macht.</l>
+            <l>Es war sein Hertz schon da, dahin die Reise gienge,</l>
+            <l>Der Wunsch ist mit vorhin, daß alles wohl gelinge.</l>
+            <l>Des Königs, Jonathans, ja ihr selbst eignes Wort,</l>
+            <l>Stärckt seinen Liebesgeist, treibt alle Zagheit fort.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">8.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">199</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">778</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>8.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Groß ist die Aehnlichkeit von Seel' und Schmetterling.</l>
+            <l>Doch die Verschiedenheit von beiden nicht gering.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Puppenmaske zeigt ein Todtenangesicht,</l>
+            <l>Aus dessen Ernst ein Strahl von höherm Leben bricht;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist das Gold, wovon die Chrysalide trägt</l>
+            <l>Den Namen, darin ist Verklärung vorgeprägt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur daß der Schmetterling noch in dem Sarge liegt,</l>
+            <l>Indeß vom Kerker frei die Psyche drüber fliegt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Psyche, die, wie sie sich unsichtbar gestaltet</l>
+            <l>Im Leben, so im Tod unsichtbar sich entfaltet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Schmetterling erhebt sein himmlisches Gefieder,</l>
+            <l>Senkt nieder es, und heckt am Boden Raupen wieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich aber hoffe, wenn mein Schmetterling sich hebt,</l>
+            <l>Daß ewig erdenfrei er durch die Himmel schwebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn keine Blume blüht hienieden, die aus Lüften</l>
+            <l>Mich locken könnte gleich dem Schmetterling mit Düften.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

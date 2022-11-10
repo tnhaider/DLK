@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wendla</title>
+        <author>
+          <persName>
+            <surname>Wedekind</surname>
+            <forename>Frank</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">740</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1891</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wendla</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieh die taufrische Maid,</l>
+            <l>Erst eben erblüht;</l>
+            <l>Durch ihr knappkurzes Kleid</l>
+            <l>Der Morgenwind zieht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie schreitet sie rüstig,</l>
+            <l>Jubiliert und frohlockt,</l>
+            <l>Und ahnt nicht, wer listig</l>
+            <l>Unterm Taxusbusch hockt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der allerfrechste Weidmann</l>
+            <l>Im ganzen Revier,</l>
+            <l>Er tut ihr ein Leid an</l>
+            <l>In frevler Jagdbegier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In einem langen Kleide</l>
+            <l>Geht sie nun bald einher,</l>
+            <l>Sinnt vergangener Zeiten</l>
+            <l>Und jubelt nicht mehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieh die taufrische Maid,</l>
+            <l>Erst eben erblüht;</l>
+            <l>Durch ihr knappkurzes Kleid</l>
+            <l>Der Morgenwind zieht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie schreitet sie rüstig,</l>
+            <l>Jubiliert und frohlockt,</l>
+            <l>Und ahnt nicht, wer listig</l>
+            <l>Unterm Taxusbusch hockt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der allerfrechste Weidmann</l>
+            <l>Im ganzen Revier,</l>
+            <l>Er tut ihr ein Leid an</l>
+            <l>In frevler Jagdbegier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In einem langen Kleide</l>
+            <l>Geht sie nun bald einher,</l>
+            <l>Sinnt vergangener Zeiten</l>
+            <l>Und jubelt nicht mehr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

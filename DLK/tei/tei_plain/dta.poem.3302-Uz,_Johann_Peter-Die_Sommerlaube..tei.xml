@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Sommerlaube.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">29</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">266</measure>
+        <measure type="tokens">174</measure>
+        <measure type="characters">1044</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Sommerlaube.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Laube prangt mit jungem Grün:</l>
+            <l>Es tönen ihre dunkeln Buchen</l>
+            <l>Von Vögeln, die voll Wollust glühn,</l>
+            <l>Von Frühlingstrieben glühn und Scherz und Schatten su-</l>
+            <l>chen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll, was der Wahn Geschäfte nennt,</l>
+            <l>Uns um so schöne Zeit betrügen?</l>
+            <l>Freund! wer des Lebens Kürze kennt,</l>
+            <l>Der legt es klüger an und braucht es zum Vergnügen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geneuß den feuervollen Wein:</l>
+            <l>Beym Weine herrscht vertraulich Scherzen.</l>
+            <l>Oft ladet Amor sich mit ein,</l>
+            <l>Und sein verborgner Pfeil schleicht in die offnen Herzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der schlaue Gott ist niemals weit;</l>
+            <l>Ich wittre seine sanften Triebe:</l>
+            <l>Denn grüner Lauben Dunkelheit</l>
+            <l>Ist für den Weingott schön, noch schöner für die Liebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geliebte Schatten! weicher Klee!</l>
+            <l>Ach! wäre Galathee zugegen!</l>
+            <l>Ach! sollt ich, holde Galathee,</l>
+            <l>Um deinen weissen Hals die Arme brünstig legen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo süsser Lippen Rosen blühn,</l>
+            <l>Wer kann sie sehn und nicht verlangen?</l>
+            <l>Die jugendlichen Küsse fliehn</l>
+            <l>Bey welkem Reiz vorbey und suchen frische Wangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein leblos Auge rührt mich nicht;</l>
+            <l>Kein blödes Kind wird mich gewinnen,</l>
+            <l>Das reizt, solang der Mund nicht spricht,</l>
+            <l>Und eine Venus ist, doch ohne Charitinnen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

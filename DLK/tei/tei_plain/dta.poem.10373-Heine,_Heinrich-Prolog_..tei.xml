@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Prolog .</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">41</measure>
+        <measure type="verses_per_stanza">1-6 2-7 3-7 4-7 5-7 6-7</measure>
+        <measure type="syllables">408</measure>
+        <measure type="tokens">251</measure>
+        <measure type="characters">1552</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Prolog .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit hohlen, schneeweißen Wangen;</l>
+            <l>Er schwankte und schlenderte schlotternd herum,</l>
+            <l>In dumpfen Träumen befangen.</l>
+            <l>Er war so hölzern, so täppisch, so links,</l>
+            <l>Die Blümlein und Mägdlein, die kicherten rings,</l>
+            <l>Wenn er stolpernd vorbeigegangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft saß er im finstersten Winkel zu Haus;</l>
+            <l>Er hatt' sich vor Menschen verkrochen.</l>
+            <l>Da streckte er sehnend die Arme aus,</l>
+            <l>Doch hat er kein Wörtlein gesprochen.</l>
+            <l>Kam aber die Mitternachtstunde heran,</l>
+            <l>Ein seltsames Singen und Klingen begann.</l>
+            <l>An die Thüre da hört er es pochen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da kommt seine Liebste geschlichen herein,</l>
+            <l>Im rauschenden Wellenschaumkleide.</l>
+            <l>Sie blüht und glüht, wie ein Röselein,</l>
+            <l>Ihr Schleier ist eitel Geschmeide.</l>
+            <l>Goldlocken umspielen die schlanke Gestalt,</l>
+            <l>Die Aeugelein grüßen mit süßer Gewalt —</l>
+            <l>In die Arme sinken sich beide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Ritter umschlingt sie mit Liebesmacht,</l>
+            <l>Der Hölzerne steht jetzt in Feuer,</l>
+            <l>Der Blasse erröthet, der Träumer erwacht,</l>
+            <l>Der Blöde wird freier und freier.</l>
+            <l>Sie aber, sie hat ihn gar schalkhaft geneckt,</l>
+            <l>Sie hat ihm ganz leise den Kopf bedeckt</l>
+            <l>Mit dem weißen, demantenen Schleier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In einen kristallenen Wasserpalast</l>
+            <l>Ist plötzlich gezaubert der Ritter.</l>
+            <l>Er staunt, und die Augen erblinden ihm fast,</l>
+            <l>Vor alle dem Glanz und Geflitter.</l>
+            <l>Doch hält ihn die Nixe umarmet gar traut,</l>
+            <l>Der Ritter ist Bräut'gam, die Nixe ist Braut,</l>
+            <l>Ihre Jungfraun spielen die Zither.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie spielen und singen; es tanzen herein</l>
+            <l>Viel winzige Mädchen und Bübchen.</l>
+            <l>Der Ritter, der will sich zu Tode freu'n,</l>
+            <l>Und fester umschlingt er sein Liebchen —</l>
+            <l>Da löschen auf einmal die Lichter aus,</l>
+            <l>Der Ritter sitzt wieder ganz einsam zu Haus,</l>
+            <l>In dem dustern Poetenstübchen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

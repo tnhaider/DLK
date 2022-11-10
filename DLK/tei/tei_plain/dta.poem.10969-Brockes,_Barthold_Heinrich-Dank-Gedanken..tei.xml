@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dank-Gedanken.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">186</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">715</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dank-Gedanken.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Gott! wie groß ist doch die Menge</l>
+            <l>Der Gaben, die du mir geschenkt,</l>
+            <l>Zumalen, wenn mein Geist der Zeiten Länge,</l>
+            <l>In welcher ich sie hab, erweget, und bedenkt.</l>
+            <l>Wie mancher Tag, wie manche Nacht,</l>
+            <l>Wie manchen Theil der Zeit, wie viele Stunden,</l>
+            <l>Wie viel Minuten und Secunden</l>
+            <l>Besitz ich sie! Und nicht allein</l>
+            <l>Nur ich, so gar auch in den Meinen,</l>
+            <l>Der abermal so viele seyn,</l>
+            <l>Die gleichsam sich in mir vereinen,</l>
+            <l>Besitz ich ebenfalls die Gaben,</l>
+            <l>Die sie, von deiner Gütigkeit,</l>
+            <l>Und zwar auch seit so langer Zeit,</l>
+            <l>Empfunden und genossen haben.</l>
+            <l>Ich danke denn, wie billig, dir,</l>
+            <l>O Brunnqvell alles Heils, dafür.</l>
+            <l>Ach laß mich doch, auf dieser Welt,</l>
+            <l>Nebst allen Meinen, so zu leben,</l>
+            <l>Wie es dir, o mein Gott, gefällt,</l>
+            <l>Aus allen Kräften mich bestreben!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

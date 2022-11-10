@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">E ilftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">611</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>E ilftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„nun, Tugenden! zum Streit! bezieht das neue Feld!</l>
+            <l>„in einer Jeden Herz wohnt ein geprüfter Held;</l>
+            <l>175”Nur eure Gegenwart kann jene Flutten hemmen,</l>
+            <l>„die schon so lange Zeit die Länder überschwemmen.</l>
+            <l>„das Heil des Vaterlands und unser Eigenthum</l>
+            <l>„ist eurer Thaten Preiß, Lohn, Ehre, Ziel und Ruhm.</l>
+            <l>„wer Recht besizt und sicht, kann sich als Sieger preisen,</l>
+            <l>180”Den Feinden unbesorgt die blosse Stirne weisen;</l>
+            <l>„wogegen, wann die Macht allein dem Heer befiehlt,</l>
+            <l>„man oft am Ende Ruhm, Besiz und Macht verspielt.</l>
+            <l>„die Rechte schmücken zwar sehr oft der Feinde Räncke;</l>
+            <l>„dadurch erweißt man nichts; die That lehrt, was man dencke.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

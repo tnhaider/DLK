@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Madrigal</title>
+        <author>
+          <persName>
+            <surname>Zäunemann</surname>
+            <forename>Sidonia Hedwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">222</measure>
+        <measure type="tokens">170</measure>
+        <measure type="characters">902</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1727</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Madrigal</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein wahrer Christ, der nach dem ewgen strebt,</l>
+            <l>Ob er gleich auf der Erde lebt;</l>
+            <l>Ist doch mit seinem Geist im Himmel:</l>
+            <l>Gleichwie die Kugel, wenn sie läuft,</l>
+            <l>Am minsten auf der Erde streist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie man ein lieblichs Saytenspiel im Lerm,</l>
+            <l>Getöß und Schwarm nicht höret;</l>
+            <l>So ist es mit dem Menschen auch, wenn er das Weltgetümmel ehret,</l>
+            <l>Und sucht ihm Herz und Ohr zu leihen; so kan er nicht den heilgen Geist</l>
+            <l>Und seine sanfte Stimme hören, die ihn den Weg nach Salem weißt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein wahrer Christ, der nach dem ewgen strebt,</l>
+            <l>Ob er gleich auf der Erde lebt;</l>
+            <l>Ist doch mit seinem Geist im Himmel:</l>
+            <l>Gleichwie die Kugel, wenn sie läuft,</l>
+            <l>Am minsten auf der Erde streist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie man ein lieblichs Saytenspiel im Lerm,</l>
+            <l>Getöß und Schwarm nicht höret;</l>
+            <l>So ist es mit dem Menschen auch, wenn er das Weltgetümmel ehret,</l>
+            <l>Und sucht ihm Herz und Ohr zu leihen; so kan er nicht den heilgen Geist</l>
+            <l>Und seine sanfte Stimme hören, die ihn den Weg nach Salem weißt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

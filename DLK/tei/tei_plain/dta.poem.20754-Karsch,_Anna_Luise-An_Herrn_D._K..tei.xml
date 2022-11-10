@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Herrn  D. K.</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">494</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Herrn  D. K.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Versichre doch den Stahl, den Sohn des Hip-               </l>
+            <l>pokrat’s,</l>
+            <l>Der Achtung, die ich für ihn habe;</l>
+            <l>Dem fürchterlichen Tod, dem grauerlichen Grabe</l>
+            <l>Entging durch Wirkung seines Raths</l>
+            <l>Schon eine Menge, die noch lebet,</l>
+            <l>Und ob mein Herz nicht vor dem Tode bebet,</l>
+            <l>So sprech ich doch, sollt er einmal</l>
+            <l>Mir ohngefähr von Mitkunft sagen:</l>
+            <l>Wart, unverschämter Tod! ich muß noch erst den Stahl</l>
+            <l>Von wegen dieser Sache fragen;</l>
+            <l>Und hätte nicht der Tod Befehl von Oben her,</l>
+            <l>So ging er bläßer fort, als er gekommen wär.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

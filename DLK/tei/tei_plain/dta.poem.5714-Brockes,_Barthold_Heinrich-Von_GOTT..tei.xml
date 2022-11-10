@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von GOTT.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">163</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">650</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von GOTT.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Epicurer Grund stürtzt ebenfalls danieder.</l>
+            <l>Flieg’t die Natur, durch ein blind </l>
+            <l>Bald hin, bald her,</l>
+            <l>Stets hin und wieder?</l>
+            <l>Was wir vorher gesagt, zeigt uns gar klärlich an,</l>
+            <l>Daß eine Ursach stets die andere regieret,</l>
+            <l>Durch eine erstere wird sie geführet;</l>
+            <l>Biß daß der Geist nicht weiter kommen kan,</l>
+            <l>Als zu dem ersteren Gesetz, das blos allein</l>
+            <l>Aus dem geflossen ist, wodurch die ganze Welt</l>
+            <l>Erschaffen ist, und uns ist vorgestellt.</l>
+            <l>Das was man insgemein pflegt </l>
+            <l>Ist nichts, und kan nichts seyn,</l>
+            <l>Als bloß ein Nahme nur, der zeigt, was wir nicht kennen.</l>
+            <l>Von einer Würckung muß man stets zur andern gehn,</l>
+            <l>Und, sonder jemals still’ zu stehn,</l>
+            <l>Zur ersten Ursach sich erhöhn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

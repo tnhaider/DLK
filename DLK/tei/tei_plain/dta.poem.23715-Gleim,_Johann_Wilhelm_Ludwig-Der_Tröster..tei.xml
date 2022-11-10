@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Tröster.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">731</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Tröster.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kleist du must, wenn ich einst sterbe,</l>
+            <l>Mein getreues Mädchen trösten.</l>
+            <l>Als ich nach volbrachter Bitte,</l>
+            <l>Wieder nach dem Mädchen sahe,</l>
+            <l>Sah ich noch die Tränen fliessen;</l>
+            <l>Und ich stahl den Weisen Gründe,</l>
+            <l>Und ich sprach mit Trauerminen:</l>
+            <l>Weine nicht, gebeugtes Mädchen,</l>
+            <l>Weine nicht um deinen Liebling.</l>
+            <l>Lebt er doch anitzt im Himmel,</l>
+            <l>Gönn ihm doch das Glükk der Engel,</l>
+            <l>Murre nicht mit dem Geschikke!</l>
+            <l>Aber das gebeugte Mädchen</l>
+            <l>Murrte doch mit dem Geschikke;</l>
+            <l>Denn von den erblaßten Wangen</l>
+            <l>Flossen noch viel heisse Tränen,</l>
+            <l>Als ich ausgetröstet hatte.</l>
+            <l>Ich verließ hierauf das Mädchen,</l>
+            <l>Und begleitete die Leiche,</l>
+            <l>Ihres Lieblings in den Tempel.</l>
+            <l>Und nach zwanzig Todtenseufzern,</l>
+            <l>Welche mich ein Redner lehrte,</l>
+            <l>Ging ich wieder zu dem Mädchen.</l>
+            <l>Und ich tröstete von neuen,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

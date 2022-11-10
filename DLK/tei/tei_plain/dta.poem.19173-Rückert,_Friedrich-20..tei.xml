@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">20.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">498</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>20.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um Mittag, wenn mit Duft der Himmel sich umsäumt,</l>
+            <l>Und hinter weißem Flor die stille Sonne träumt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Hauch das welke Blatt im Waldgebirg erfrischt,</l>
+            <l>Wo nur die Grille schrillt und nur die Schlange zischt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann halten weißverhüllt die Geister ihre Runde,</l>
+            <l>Und alle Schätze thun sich auf im Erdengrunde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das sind die Geister und die Schätze, die der Macht</l>
+            <l>Der Sonne folgen, nicht dem Mond der Mitternacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wer ein Sonnenkind ist rein von allem Bösen,</l>
+            <l>Der kann der Schätze Bann, das Band der Geister lösen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

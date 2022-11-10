@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Michel Angelo.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">241</measure>
+        <measure type="tokens">160</measure>
+        <measure type="characters">965</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Michel Angelo.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Sistine dämmerhohem Raum,</l>
+            <l>Das Bibelbuch in seiner nerv'gen Hand,</l>
+            <l>Sitzt Michel Angelo in wachem Traum,</l>
+            <l>Umhellt von einer kleinen Ampel Brand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laut spricht hinein er in die Mitternacht,</l>
+            <l>Als lauscht' ein Gast ihm gegenüber hier,</l>
+            <l>Bald wie mit einer allgewalt'gen Macht,</l>
+            <l>Bald wieder wie mit Seinesgleichen schier:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„umfaßt, umgrenzt hab' ich Dich, ewig Sein,</l>
+            <l>Mit meinen großen Linien fünfmal dort!</l>
+            <l>Ich hüllte Dich in lichte Mäntel ein</l>
+            <l>Und gab Dir Leib, wie dieses Bibelwort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit weh'nden Haaren stürmst Du feurig wild</l>
+            <l>Von Sonnen immer neuen Sonnen zu,</l>
+            <l>Für Deinen Menschen bist in meinem Bild</l>
+            <l>Entgegenschwebend und barmherzig Du!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So schuf ich Dich mit meiner nicht'gen Kraft:</l>
+            <l>Damit ich nicht der größre Künstler sei,</l>
+            <l>Schaff mich — ich bin ein Knecht der Leidenschaft —</l>
+            <l>Nach Deinem Bilde schaff mich rein und frei!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den ersten Menschen formtest Du aus Thon,</l>
+            <l>Ich werde schon von härterm Stoffe sein,</l>
+            <l>Da, Meister, brauchst Du Deinen Hammer schon,</l>
+            <l>Bildhauer Gott, schlag zu! Ich bin der Stein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

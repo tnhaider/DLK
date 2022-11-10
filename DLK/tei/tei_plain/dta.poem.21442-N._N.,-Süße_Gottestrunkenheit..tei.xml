@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Süße Gottestrunkenheit.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">129</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">507</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Süße Gottestrunkenheit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vorüber ist der Graus der Nacht,</l>
+            <l>Gebrochen ist des Sturmes Macht.</l>
+            <l>Wie weht die Morgenluft so lau!</l>
+            <l>Wie glitzert licht die grüne Au!</l>
+            <l>Ein jeder Bach, ein jeder Rain</l>
+            <l>Lockt weiter in die Welt hinein.</l>
+            <l>Ich bette mich in’s weiche Moos,</l>
+            <l>Ich träume in des Waldes Schooß.</l>
+            <l>Rings duftet der Wachholderdorn,</l>
+            <l>Vor meinen Augen wogt das Korn,</l>
+            <l>Die Lerche jubilirt im Blau —</l>
+            <l>Nur sonniges Glück, wohin ich schau’.</l>
+            <l>In süßer Gottestrunkenheit</l>
+            <l>Dehnt sich die Seele frei und weit,</l>
+            <l>Sie möchte untertauchen ganz</l>
+            <l>In all’ dem Duft, in all’ dem Glanz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

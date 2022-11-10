@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput VIII.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">544</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput VIII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„und die Freiheit kommt mit Spiel und Tanz,</l>
+            <l>Mit der Fahne, der weiß-blau-rothen;</l>
+            <l>Vielleicht holt sie sogar aus dem Grab</l>
+            <l>Den Bonaparte, den Todten!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach Gott! die Ritter sind immer noch hier,</l>
+            <l>Und manche dieser Gäuche,</l>
+            <l>Die spindeldürre gekommen in’s Land,</l>
+            <l>Die haben jetzt dicke Bäuche.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die blassen Canaillen, die ausgesehn</l>
+            <l>Wie Liebe, Glauben und Hoffen,</l>
+            <l>Sie haben seitdem in unserm Wein</l>
+            <l>Sich rothe Nasen gesoffen – – –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Freiheit hat sich den Fuß verrenkt,</l>
+            <l>Kann nicht mehr springen und stürmen;</l>
+            <l>Die Trikolore in Paris</l>
+            <l>Schaut traurig herab von den Thürmen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

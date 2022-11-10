@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erntelied.</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">29</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">550</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erntelied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aehren fallen</l>
+            <l>Unter Sichelschall;</l>
+            <l>Auf den Mädchenhüten</l>
+            <l>Zittern blaue Blüten;</l>
+            <l>Freud' ist überall!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sicheln klingen;</l>
+            <l>Mädchen singen,</l>
+            <l>Unter Sichelschall;</l>
+            <l>Bis, vom Mond beschimmert,</l>
+            <l>Rings die Stoppel flimmert,</l>
+            <l>Tönt der Erntesang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles springet,</l>
+            <l>Alles singet,</l>
+            <l>Was nur lallen kann.</l>
+            <l>Bei dem Erntemahle</l>
+            <l>Isst aus einer Schale</l>
+            <l>Knecht und Bauersmann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hans und Michel,</l>
+            <l>Schärft die Sichel,</l>
+            <l>Pfeift ein Lied dazu,</l>
+            <l>Mähet; dann beginnen</l>
+            <l>Schnell die Binderinnen,</l>
+            <l>Binden sonder Ruh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jeder scherzet,</l>
+            <l>Jeder herzet</l>
+            <l>Dann sein Liebelein.</l>
+            <l>Nach geleerten Kannen</l>
+            <l>Gehen sie von dannen,</l>
+            <l>Singen und juchhein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

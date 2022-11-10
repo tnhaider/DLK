@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Xx.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">550</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Xx.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber wie die keusche Rose sey er tief und voll!</l>
+            <l>Laß den Schmerz in deiner Seele wogen auf und ab,</l>
+            <l>Da so oft dem Quell des Leidens dein Gesang entquoll!</l>
+            <l>Peinigt dich ein Liebeskummer, sey getrost, o Herz!</l>
+            <l>Traurig macht verschmähte Liebe, doch beglückte toll;</l>
+            <l>Wäre Daphne nicht entronnen ihres Buhlen Arm,</l>
+            <l>Welchen Kranz um seine Lyra schlänge dann Apoll?</l>
+            <l>Fürchte nicht zu sterben, Guter! denn das Leben trügt:</l>
+            <l>Gib der Erde gern den lezten, schauderhaften Zoll!</l>
+            <l>Laß das welke Blatt vom Baume stürzen in den Teich,</l>
+            <l>Weil es noch im Todestaumel sich berauschen soll!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

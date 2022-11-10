@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">W ALLER   I M   S CHNEE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">927</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>W ALLER   I M   S CHNEE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich trat vor dich mit einem segenspruche               </l>
+            <l>Am abend wo f&amp;#252;r dich die kerzen brannten               </l>
+            <l>Und reichte dir auf einem sammtnen tuche               </l>
+            <l>Die höchste meiner gaben: den demanten             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber weisst nichts von dem opferbrauche               </l>
+            <l>Von blanken leuchtern mit erhobnen &amp;#228;rmen               </l>
+            <l>Von schalen die mit wolkenreinem rauche               </l>
+            <l>Der strengen tempel finsterniss erw&amp;#228;rmen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von engeln die sich in den nischen sammeln               </l>
+            <l>Und sich bespiegeln am kristallnen l&amp;#252;ster               </l>
+            <l>Von gl&amp;#252;hender und banger bitte stammeln               </l>
+            <l>Von halben seufzern hingehaucht im d&amp;#252;ster             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und nichts von w&amp;#252;nschen die auf untern sprossen               </l>
+            <l>Des festlichen altars vernehmlich wimmern               </l>
+            <l>Du fassest fragend kalt und unentschlossen               </l>
+            <l>Den edelstein aus gluten thr&amp;#228;nen schimmern.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

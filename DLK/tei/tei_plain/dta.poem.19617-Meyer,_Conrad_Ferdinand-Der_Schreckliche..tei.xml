@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Schreckliche.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">623</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Schreckliche.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Benvenuto, sprich, was schmiedest</l>
+            <l>Du wie rasend in der Werkstatt?</l>
+            <l>Welches ungeheure Kunstwerk?</l>
+            <l>— „Messer! Scharfe feine Messer!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Benvenuto, sprich, was prahlst du?</l>
+            <l>Welche ungeheure Lüge</l>
+            <l>Tischest auf du den Gesellen?</l>
+            <l>— „Ich bin stummer als ein Fischchen.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Benvenuto, sprich, was drohst du?</l>
+            <l>Welche ungeheure Mordthat,</l>
+            <l>Die vor Abend du begehn wirst?</l>
+            <l>— „Ich bin frömmer als ein Lämmlein.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Benvenuto bringt die Eisen</l>
+            <l>Meister Jakob von Perugia,</l>
+            <l>Der den kranken Finger schneidet</l>
+            <l>Dem geduld'gen Kind des Goldschmieds.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Benvenuto's glühnde Blicke</l>
+            <l>Folgen jedem Schnitt des Stahles.</l>
+            <l>„rafaella, schmerzt mein Messer?“</l>
+            <l>„benvenuto, nein, es schmerzt nicht.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

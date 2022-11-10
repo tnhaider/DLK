@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Gering.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">117</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">478</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193300"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Gering.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus den Tr&amp;#252;mmern der Vergangenheiten               </l>
+            <l>Aus den Aschen unsrer Jugendzeiten</l>
+            <l>Windet sich ein selger Schatten los.</l>
+            <l>Freund, es ist der Schatten jener Stunde,</l>
+            <l>Wo mein Geist zum hohen Freundschaftsbunde</l>
+            <l>Mit dem deinigen zusammenfloss;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo ich einen Blutsfreund in dir spürte,</l>
+            <l>Mit der Wahrheit Prüfstein dich berührte,</l>
+            <l>Und bewährt, wie ächtes Gold, dich fand;</l>
+            <l>Wo ich dann mit dir und unserm Dritten</l>
+            <l>Für der Trennung und des Bleibens Hütten</l>
+            <l>Unsrer Freundschaft kühnes Ideal erfand;</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

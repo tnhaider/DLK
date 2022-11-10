@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">S IEG   D ES   S OMMERS</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">129</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">670</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>S IEG   D ES   S OMMERS</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der l&amp;#252;fte schaukeln wie von neuen dingen               </l>
+            <l>Aus grauem himmel brechend milde feuer               </l>
+            <l>Und rauschen heimatw&amp;#228;rts gewandter schwingen               </l>
+            <l>Entbietet mir ein neues abenteuer             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du all die jahre hin mir glanz und glaube               </l>
+            <l>Bei dir und wo die stummen zeugen waren               </l>
+            <l>Von hoffen und von angst bei diesem laube               </l>
+            <l>Denn wird das gl&amp;#252;ck sich je uns offenbaren             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn jezt die nacht die lockende besternte               </l>
+            <l>In gr&amp;#252;ner garten-au es nicht ersp&amp;#228;ht               </l>
+            <l>Wenn es die bunte volle blumen-ernte               </l>
+            <l>Wenn es der glutwind nicht verr&amp;#228;t?             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

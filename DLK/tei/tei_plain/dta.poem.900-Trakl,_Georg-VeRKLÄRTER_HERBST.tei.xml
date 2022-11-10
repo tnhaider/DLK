@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">VeRKLÄRTER HERBST</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">390</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>VeRKLÄRTER HERBST</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gewaltig endet so das Jahr</l>
+            <l>Mit goldnem Wein und Frucht der Gärten.</l>
+            <l>Rund schweigen Wälder wunderbar</l>
+            <l>Und sind des Einsamen Gefährten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sagt der Landmann: Es ist gut.</l>
+            <l>Ihr Abendglocken lang und leise</l>
+            <l>Gebt noch zum Ende frohen Mut.</l>
+            <l>Ein Vogelzug grüßt auf der Reise.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist der Liebe milde Zeit.</l>
+            <l>Im Kahn den blauen Fluß hinunter</l>
+            <l>Wie schön sich Bild an Bildchen reiht –</l>
+            <l>Das geht in Ruh und Schweigen unter.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

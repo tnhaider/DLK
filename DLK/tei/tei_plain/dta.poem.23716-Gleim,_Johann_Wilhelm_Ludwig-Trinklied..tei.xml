@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trinklied.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">416</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trinklied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Br&amp;#252;der trinkt, es trinkt die Sonne,</l>
+            <l>Und sie hat schon tausend Ströme</l>
+            <l>Ohne Bruder ausgetrunken!</l>
+            <l>Brüder trinkt, es trinkt die Erde,</l>
+            <l>Seht, sie durstet, seht, wie durstig,</l>
+            <l>Trinkt sie diese Regentropfen!</l>
+            <l>Seht, dort um den Vater Bacchus</l>
+            <l>Stehn die Reben frisch am Berge;</l>
+            <l>Denn es hat das Naß der Wolken</l>
+            <l>Ihren heissen Durst gelöschet.</l>
+            <l>Brüder seht, das Naß der Reben</l>
+            <l>Wartet in den vollen Gläsern,</l>
+            <l>Wollt ihr euren Durst nicht löschen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

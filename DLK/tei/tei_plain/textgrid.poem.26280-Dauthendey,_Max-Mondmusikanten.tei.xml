@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mondmusikanten</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">768</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mondmusikanten</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit Flöte und der Violin'</l>
+            <l>Javanen, zwei, die Landstraß' ziehn.</l>
+            <l>Sie feiern so die helle Nacht.</l>
+            <l>Musik am grauen Weg erwacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hörst nicht der nackten Füße Schritt, –</l>
+            <l>Hörst nur Musik. Sie schreitet mit.</l>
+            <l>Musik als Dritter ist Gesell.</l>
+            <l>Sie folgt den beiden wie ein Quell.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Musik geht vor den beiden her.</l>
+            <l>Sie wissen bald von sich nichts mehr.</l>
+            <l>Musik zieht ihre Seelen fort,</l>
+            <l>Und zu Musik wird Zeit und Ort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit Flöte und der Violin'</l>
+            <l>Javanen, zwei, die Landstraß' ziehn.</l>
+            <l>Sie feiern so die helle Nacht.</l>
+            <l>Musik am grauen Weg erwacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hörst nicht der nackten Füße Schritt, –</l>
+            <l>Hörst nur Musik. Sie schreitet mit.</l>
+            <l>Musik als Dritter ist Gesell.</l>
+            <l>Sie folgt den beiden wie ein Quell.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Musik geht vor den beiden her.</l>
+            <l>Sie wissen bald von sich nichts mehr.</l>
+            <l>Musik zieht ihre Seelen fort,</l>
+            <l>Und zu Musik wird Zeit und Ort.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

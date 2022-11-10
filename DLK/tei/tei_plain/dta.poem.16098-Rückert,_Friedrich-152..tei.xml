@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">152.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">98</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">430</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>152.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bleibst in deiner Klaus' und gehst nicht aus dem Haus,</l>
+            <l>So blicke manchmal doch zum Fenster nur hinaus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn zu deiner Würd' auch das sich nicht will schicken,</l>
+            <l>So laß die Welt zu dir manchmal durchs Fenster blicken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Fenster liegt so hoch, nichts Niedres schaut herein,</l>
+            <l>Am Tage nur die Sonn', und Nachts der Sterne Schein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was nicht die Sonne sieht, das werden Sterne sehn;</l>
+            <l>Und theilen sie dirs mit, so wird dir nichts entgehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

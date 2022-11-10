@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die wahre Größe.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">65</measure>
+        <measure type="characters">384</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die wahre Größe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Krieger dürstet nach Ehre</l>
+            <l>In eisernem Feld,</l>
+            <l>Und glaubt, er bau ihr Altäre,</l>
+            <l>Wenn mancher edle Held</l>
+            <l>Von seinem Schwerdtstreich fällt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn er Länder verwüstet</l>
+            <l>Und Städte verbrannt,</l>
+            <l>Und sich auf Leichen gebrüstet</l>
+            <l>Mit Blut bespritzter Hand;</l>
+            <l>Wird er oft </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wer sich selber bestreitet,</l>
+            <l>Die Tugend verehrt,</l>
+            <l>Um sich das Glücke verbreitet,</l>
+            <l>Und durch sein Beyspiel lehrt,</l>
+            <l>Ist nur des Ramens werth.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

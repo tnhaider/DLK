@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Nashorn.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">149</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">599</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Nashorn.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß er der erlegten Körper Haut und Fleisch bis auf</l>
+            <l>das Bein</l>
+            <l>Abzulecken fähig ist. Sonsten sollen ihn allein</l>
+            <l>Scharf und harte Kräuter nähren. Sonst soll es verträg-</l>
+            <l>lich, gütig,</l>
+            <l>Wo man es nicht reizet, seyn: nur, verletzet, wird es</l>
+            <l>wütig,</l>
+            <l>Da es denn mit seinem Zorn, Grimm und Wut so weit</l>
+            <l>soll gehn,</l>
+            <l>Daß im Wege stehnde Bäume seinem Grimm nicht wi-</l>
+            <l>derstehn.</l>
+            <l>Da der Mauren Volk sein Fleisch, wir das Horn, ge-</l>
+            <l>brauchen können,</l>
+            <l>Werden wir auch dieses Thier nicht mit Recht unnützlich</l>
+            <l>nennen.</l>
+            <l>Aus der Glieder Ebenmaaße stralet denn bey diesem</l>
+            <l>Thier,</l>
+            <l>Nebst dem Nutzen, auch des Schöpfers Weisheit, Lieb</l>
+            <l>und Macht herfür.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

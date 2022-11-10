@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi.  
+  Als Jhr May: ins Feld  
+ gezogen.</title>
+        <author>
+          <persName>
+            <surname>Czepko</surname>
+            <forename>Daniel von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">431</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20871-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi.  
+  Als Jhr May: ins Feld  
+ gezogen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Feinde steht vnd schawt den Grossen König an/</l>
+            <l>So siht die </l>
+            <l>Vnd schwiege diese Hand/ würd' Euch die sache straffen/</l>
+            <l>Sie zörnt vor seine Gütt vnd bricht dem Siege bahn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr </l>
+            <l>Euch Schlacht vnd Feld vnd Sieg. Kein Arm kan Euch verletzen:</l>
+            <l>Jhr müst durch Trew den Sinn/ durch Muth den Degen wetzen:</l>
+            <l>Nur fort: die Losung heist: </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Wien/ du Andres Rom/ wie bist du so entbrant:</l>
+            <l>Er zeucht als König hin/ vnd wird als Kayser kommen.</l>
+            <l>Kein </l>
+            <l>Dem auch </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

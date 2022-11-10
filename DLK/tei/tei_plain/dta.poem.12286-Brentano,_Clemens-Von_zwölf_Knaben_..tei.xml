@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von zwölf Knaben .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">10</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2 9-2 10-2</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">623</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von zwölf Knaben .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Mutter zeihet mich,               </l>
+            <l>Zwölf Knaben freyen mich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Erst der thät mir winken,</l>
+            <l>Der ander mein gedenken,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Dritt der tratt mir auf den Fuß,</l>
+            <l>Der Viert bot mir einen freundlichen Gruß,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Fünft bot mir das Fingerlein,</l>
+            <l>Der Sechst der muß mein eigen seyn,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Siebent bot mir das rothe Gold,</l>
+            <l>Der Acht war mir von Herzen hold,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Neunt lag mir an meinem Arm,</l>
+            <l>Der Zehnt der war noch nicht erwarmt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Elfte war mein ehlich Mann,</l>
+            <l>Der Zwölft ging in der Still davon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die zwölf Knaben gut,</l>
+            <l>Zwölf Knaben gut,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieselbigen zwölf Knaben gut,</l>
+            <l>Die führten einen guten frischen freien Muth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was machen zwölfe hie?</l>
+            <l>Ein Dutzend machen sie.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Anmuth .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">134</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">534</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Anmuth .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Hoffnung, eine arge Dirne,</l>
+            <l>Verbuhlte mir den Augenblick,</l>
+            <l>Bestahl mit frecher Lügenstirne</l>
+            <l>Mein junges Leben um sein Glück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun ist's vorüber; in den Tagen,</l>
+            <l>Als ihr Betrug ins Herz mir schnitt,</l>
+            <l>Hab' ich das süße Kind erschlagen,</l>
+            <l>Und mit dem Leben bin ich quitt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht mehr zum Lustschloß umgelogen,</l>
+            <l>Scheint mir die Erde, was sie ist:</l>
+            <l>Ein schwankes Zelt, das wir bezogen</l>
+            <l>— Gott habe Dank! — auf kurze Frist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu lange doch dünkt mir das Brüten</l>
+            <l>Hier unter diesem schwanken Zelt;</l>
+            <l>Ergreif' es, Sturm, in deinem Wüthen,</l>
+            <l>Und streu die Lappen in die Welt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

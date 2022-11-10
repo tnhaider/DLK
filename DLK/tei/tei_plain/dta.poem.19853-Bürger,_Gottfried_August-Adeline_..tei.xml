@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Adeline .</title>
+        <author>
+          <persName>
+            <surname>Bürger</surname>
+            <forename>Gottfried August</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">681</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1778</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519672"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Adeline .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seh' ich, bei des Tempels Harmonieen,               </l>
+            <l>Ihr Gesicht von Seelenandacht glühen,</l>
+            <l>Ach! so wähnt mein hochgetäuschter Blik,</l>
+            <l>Eine Himmelsbraut in ihr zu schauen.</l>
+            <l>Mir entsinket alle mein Vertrauen,</l>
+            <l>Und die Liebe bebt vor ihr zurük.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber seh’ ich, wie im Altagskreise,</l>
+            <l>Frei und frölich, doch nach Sitt’ und Weise,</l>
+            <l>Sie so mädchenhaft sich haben kan;</l>
+            <l>Wie sie Scherz und Ernst so lieblich kleidet,</l>
+            <l>Und um ihre Huld sich alles neidet:</l>
+            <l>Dann wagt Liebe wieder sich heran.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ehrfurcht neigt sich ihr im Engelglanze.</l>
+            <l>Lieb’ umschmeichelt sie, im Mädchenkranze</l>
+            <l>Sanfter Myrten, ohne Himmelsschein.</l>
+            <l>Ach! so himlisch dünke sie stets allen!</l>
+            <l>Aber meiner Liebe zu gefallen,</l>
+            <l>Hold und magdlich meinem Blik allein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

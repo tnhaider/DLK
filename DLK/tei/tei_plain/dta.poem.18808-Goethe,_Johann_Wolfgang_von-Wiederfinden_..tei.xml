@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wiederfinden .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">712</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wiederfinden .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist es möglich, Stern der Sterne,</l>
+            <l>Drück’ ich wieder dich ans Herz!</l>
+            <l>Ach! was ist die Nacht der Ferne</l>
+            <l>Für ein Abgrund, für ein Schmerz.</l>
+            <l>Ja du bist es! meiner Freuden</l>
+            <l>Süsser, lieber Widerpart;</l>
+            <l>Eingedenk vergangner Leiden</l>
+            <l>Schaudr’ ich vor der Gegenwart.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als die Welt im tiefsten Grunde</l>
+            <l>Lag an Gottes ew’ger Brust,</l>
+            <l>Ordnet’ er die erste Stunde</l>
+            <l>Mit erhabner Schöpfungslust,</l>
+            <l>Und er sprach das Wort: Es werde!</l>
+            <l>Da erklang ein schmerzlich Ach!</l>
+            <l>Als das All, mit Machtgebärde,</l>
+            <l>In die Wirklichkeiten brach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf that sich das Licht! sich trennte</l>
+            <l>Scheu die Finsterniss von ihm,</l>
+            <l>Und sogleich die Elemente</l>
+            <l>Scheidend auseinander fliehn.</l>
+            <l>Rasch, in wilden wüsten Träumen,</l>
+            <l>Jedes nach der Weite rang,</l>
+            <l>Starr, in ungemessnen Räumen,</l>
+            <l>Ohne Sehnsucht, ohne Klang.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

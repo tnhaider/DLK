@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XXV.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">543</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XXV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„du schlenderst dort herum, und hast</l>
+            <l>Nicht mahl an deiner Seite</l>
+            <l>Einen treuen deutschen Verleger, der dich</l>
+            <l>Als Mentor warne und leite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„und die Verführung ist dort so groß,</l>
+            <l>Dort giebt es so viele Sylphiden,</l>
+            <l>Die ungesund, und gar zu leicht</l>
+            <l>Verliert man den Seelenfrieden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„geh’ nicht zurück und bleib’ bei uns;</l>
+            <l>Hier herrschen noch Zucht und Sitte,</l>
+            <l>Und manches stille Vergnügen blüht</l>
+            <l>Auch hier, in unserer Mitte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„bleib’ bei uns in Deutschland, es wird dir hier</l>
+            <l>Jetzt besser als eh’mals munden;</l>
+            <l>Wir schreiten fort, du hast gewiß</l>
+            <l>Den Fortschritt selbst gefunden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

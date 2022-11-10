@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Ernst Curtius</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-14 2-14</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">858</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Ernst Curtius</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn im fürstlichen Palaste</l>
+            <l>Strenger Ernst nicht ganz dich faßte,</l>
+            <l>Und so froh sich noch die Muse</l>
+            <l>Bitten darf bei dir zu Gaste,</l>
+            <l>Wie dereinst auf Ägeus' Fluten</l>
+            <l>An des Hydrioten Maste:</l>
+            <l>Nenne, Freund, mir Tag und Stunde,</l>
+            <l>Da ich schwärmend bei dir raste,</l>
+            <l>Daß du spürest, wie ich kühner,</l>
+            <l>Der ich einst in Farben praßte,</l>
+            <l>Jetzt nach mächtigen Stoffen greife,</l>
+            <l>Nach gediegnen Formen taste.</l>
+            <l>Brechen will ich dann die reifste</l>
+            <l>Meiner Früchte dir vom Aste.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn im fürstlichen Palaste</l>
+            <l>Strenger Ernst nicht ganz dich faßte,</l>
+            <l>Und so froh sich noch die Muse</l>
+            <l>Bitten darf bei dir zu Gaste,</l>
+            <l>Wie dereinst auf Ägeus' Fluten</l>
+            <l>An des Hydrioten Maste:</l>
+            <l>Nenne, Freund, mir Tag und Stunde,</l>
+            <l>Da ich schwärmend bei dir raste,</l>
+            <l>Daß du spürest, wie ich kühner,</l>
+            <l>Der ich einst in Farben praßte,</l>
+            <l>Jetzt nach mächtigen Stoffen greife,</l>
+            <l>Nach gediegnen Formen taste.</l>
+            <l>Brechen will ich dann die reifste</l>
+            <l>Meiner Früchte dir vom Aste.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

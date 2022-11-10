@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput X.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">517</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput X.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der lieben Westphalen womit ich so oft</l>
+            <l>In Göttingen getrunken,</l>
+            <l>Bis wir gerührt einander an’s Herz</l>
+            <l>Und unter die Tische gesunken!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe sie immer so lieb gehabt,</l>
+            <l>Die lieben, guten Westphalen,</l>
+            <l>Ein Volk so fest, so sicher, so treu,</l>
+            <l>Ganz ohne Gleißen und Prahlen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie standen sie prächtig auf der Mensur,</l>
+            <l>Mit ihren Löwenherzen!</l>
+            <l>Es fielen so grade, so ehrlich gemeint,</l>
+            <l>Die Quarten und die Terzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie fechten gut, sie trinken gut,</l>
+            <l>Und wenn sie die Hand dir reichen,</l>
+            <l>Zum Freundschaftsbündniß, dann weinen sie;</l>
+            <l>Sind sentimentale Eichen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">52.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2</measure>
+        <measure type="syllables">74</measure>
+        <measure type="tokens">50</measure>
+        <measure type="characters">279</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>52.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer etwas weiß, der ist darum kein Weiser noch,</l>
+            <l>Ein Wisser ist er nur; was ist ein Weiser doch?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der ist ein Weiser, wem sich Wesenheit gewiesen</l>
+            <l>In allen Weisen, voll Gewisheit, unbewiesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der ist ein Weiser, wer der Weisheit hohen Geist</l>
+            <l>An seinem Wesen selbst in eigner Weise weis't.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Rien ne m'est plus, plus ne m'est rien</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">636</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1876</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Rien ne m'est plus, plus ne m'est rien</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ich verloren habe, was mein war,</l>
+            <l>Verschmäh ich alles nun, was mir geboten.</l>
+            <l>Ich wandre mit dem Bettelstab, ein Narr,</l>
+            <l>Und schlafe auf dem dürren Feld der Toten,</l>
+            <l>Und bin ein Einsiedler und trostesbar,</l>
+            <l>Und bin geringer noch als die Heloten.</l>
+            <l>Ich bin ein Elender, so ganz und gar,</l>
+            <l>Daß mir die Hoffnung, Freud und Leid verlohten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ich verloren habe, was mein war,</l>
+            <l>Verschmäh ich alles nun, was mir geboten.</l>
+            <l>Ich wandre mit dem Bettelstab, ein Narr,</l>
+            <l>Und schlafe auf dem dürren Feld der Toten,</l>
+            <l>Und bin ein Einsiedler und trostesbar,</l>
+            <l>Und bin geringer noch als die Heloten.</l>
+            <l>Ich bin ein Elender, so ganz und gar,</l>
+            <l>Daß mir die Hoffnung, Freud und Leid verlohten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Aberglaube</title>
+        <author>
+          <persName>
+            <surname>Blumauer</surname>
+            <forename>Aloys</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">560</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1776</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Aberglaube</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Mann, dem eine Maus des Nachts den Schuh zerbiß,</l>
+            <l>Erzählte einst dem weisen Kato dies,</l>
+            <l>Als ein Ereigniß, das ihn sehr beängstigt hätte.</l>
+            <l>Darüber, Freund, legt ruhig euch zu Bette,</l>
+            <l>Sprach Kato; denn das Wunder wär'</l>
+            <l>Um zehnmal noch bedenklicher,</l>
+            <l>Wenn euer Schuh die Maus gebissen hätte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Mann, dem eine Maus des Nachts den Schuh zerbiß,</l>
+            <l>Erzählte einst dem weisen Kato dies,</l>
+            <l>Als ein Ereigniß, das ihn sehr beängstigt hätte.</l>
+            <l>Darüber, Freund, legt ruhig euch zu Bette,</l>
+            <l>Sprach Kato; denn das Wunder wär'</l>
+            <l>Um zehnmal noch bedenklicher,</l>
+            <l>Wenn euer Schuh die Maus gebissen hätte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

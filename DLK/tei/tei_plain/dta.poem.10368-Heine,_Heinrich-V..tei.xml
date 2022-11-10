@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">V.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">611</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>V.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In stiller, wehmuthweicher Abendstunde,</l>
+            <l>Umklingen mich die längst verscholl'nen Lieder,</l>
+            <l>Und Thränen rollen von der Wange nieder,</l>
+            <l>Und Blut entquillt der alten Herzenswunde.</l>
+            <l>Und wie in eines Zauberspiegels Grunde</l>
+            <l>Seh' ich das Bildniß meiner Liebsten wieder;</l>
+            <l>Sie sitzt am Arbeitstisch', im rothen Mieder,</l>
+            <l>Und Stille herrscht in ihrer heilgen Runde.</l>
+            <l>Doch plötzlich springt sie auf vom Stuhl und schneidet</l>
+            <l>Von ihrem Haupt die schönste aller Locken,</l>
+            <l>Und gibt sie mir, — vor Freud bin ich erschrocken</l>
+            <l>Mephisto hat die Freude mir verleidet.</l>
+            <l>Er spann ein festes Seil von jenen Haaren,</l>
+            <l>Und schleift mich dran herum seit vielen Jahren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

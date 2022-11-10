@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Leitstern .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">238</measure>
+        <measure type="tokens">160</measure>
+        <measure type="characters">941</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Leitstern .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der ausfuhr nach dem Morgenlande,</l>
+            <l>Des fremden Schiffes leichte Last,</l>
+            <l>Schon führt er zu der Heimath Strande,</l>
+            <l>Von Golde schwer, den eignen Mast.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hat so oft nach keinem Sterne,</l>
+            <l>Wie nach dem Liebesstern, geschaut.</l>
+            <l>Der lenkt’ ihn glücklich aus der Ferne</l>
+            <l>Zur Vaterstadt der theuren Braut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch hat er nicht das Ziel gefunden,</l>
+            <l>Obschon er in die Thore trat;</l>
+            <l>Wie mag er gleich die Braut erkunden</l>
+            <l>Im Labyrinth der großen Stadt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie mag sein Auge sie erlauschen?</l>
+            <l>Der Blick ist überall verbaut.</l>
+            <l>Wie mag er durch der Märkte Rauschen</l>
+            <l>Vernehmen ihrer Stimme Laut?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort ist ein Fenster zugefallen,</l>
+            <l>Vielleicht hat sie herausgeschaut;</l>
+            <l>Hier dieses Schleiers eilig Wallen,</l>
+            <l>Verbirgt es nicht die theure Braut?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon dunkeln sich die Abendschatten,</l>
+            <l>Noch irrt er durch die Straßen hin;</l>
+            <l>Die Füße wollen ihm ermatten,</l>
+            <l>Das rege Herz doch treibet ihn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was hält er plötzlich staunend inne?</l>
+            <l>Horch, Saiten! welcher Stimme Laut!</l>
+            <l>Umsonst nicht sah er ob der Zinne</l>
+            <l>Den Liebesstern, dem er vertraut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

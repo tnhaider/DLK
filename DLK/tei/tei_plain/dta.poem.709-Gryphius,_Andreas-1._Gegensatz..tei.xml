@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1. Gegensatz.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">74</measure>
+        <measure type="tokens">52</measure>
+        <measure type="characters">294</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1. Gegensatz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wenn ein nicht harter Regen </l>
+            <l>Diesen durst der Felder lescht. </l>
+            <l>Vnd die dürren </l>
+            <l>Wenn die winde sich bewegen:</l>
+            <l>Vnd külen lufft vnd </l>
+            <l>Bald lebt was vorhin todt.</l>
+            <l>So: </l>
+            <l>Dann lachen wir in noth.</l>
+            <l>Wenn vnß dein Allmachts Taw erquicket:</l>
+            <l>Wenn vnß dein Liebe-wind anblicket:</l>
+            <l>Wenn deines Segens Regen netzet:</l>
+            <l>So fleu</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

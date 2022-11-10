@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neuntes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">486</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neuntes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht in Geschmuck und Gold, nicht in der Stoffen Schäzen</l>
+            <l>340Wollt unsers Augs Begier, der Vorwiz sich ergözen.</l>
+            <l>Dieß alles hatte man kaum anzusehn im Sinn,</l>
+            <l>Es lief ein jeder Blick nur nach der Königinn.</l>
+            <l>Was man durch diese Nacht mit tausend Lobes-Sprüchen</l>
+            <l>Von ihrer Majestät und Tugend vorgestrichen,</l>
+            <l>345Entzückte nun das Herz mit so verborgner Macht,</l>
+            <l>Daß es Erstaunens-voll nicht wußte, was es dacht.</l>
+            <l>Gleich kannte man in ihr das Urbild jener Gaben,</l>
+            <l>Wovon die Tugenden so viel gesprochen haben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

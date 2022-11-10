@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[die Tante winkt, die Tante lacht]</title>
+        <author>
+          <persName>
+            <surname>Busch</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">544</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1870</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[die Tante winkt, die Tante lacht]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Tante winkt, die Tante lacht:</l>
+            <l>He, Fritz, komm mal herein!</l>
+            <l>Sieh, welch ein hübsches Brüderlein</l>
+            <l>Der gute Storch in letzter Nacht</l>
+            <l>Ganz heimlich der Mama gebracht.</l>
+            <l>Ei ja, das wird dich freun!</l>
+            <l>Der Fritz, der sagte kurz und grob:</l>
+            <l>Ich hol 'n dicken Stein</l>
+            <l>Und schmeiß ihn an den Kopp!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Tante winkt, die Tante lacht:</l>
+            <l>He, Fritz, komm mal herein!</l>
+            <l>Sieh, welch ein hübsches Brüderlein</l>
+            <l>Der gute Storch in letzter Nacht</l>
+            <l>Ganz heimlich der Mama gebracht.</l>
+            <l>Ei ja, das wird dich freun!</l>
+            <l>Der Fritz, der sagte kurz und grob:</l>
+            <l>Ich hol 'n dicken Stein</l>
+            <l>Und schmeiß ihn an den Kopp!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

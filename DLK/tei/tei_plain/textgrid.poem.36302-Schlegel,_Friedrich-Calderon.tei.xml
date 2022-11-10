@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Calderon</title>
+        <author>
+          <persName>
+            <surname>Schlegel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3 5-4 6-4 7-3 8-3</measure>
+        <measure type="syllables">306</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">1136</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1800</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Calderon</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Zaubergarten liegt im Meeresgrunde;</l>
+            <l>Kein Garten, nein, aus künstlichen Krystallen</l>
+            <l>Ein Wunderschloß, wo blitzend von Metallen,</l>
+            <l>Die Bäumchen sprossen aus dem lichten Grunde;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Meer, wo oben, seitwärts, in die Runde,</l>
+            <l>Farbige Flammenwogen uns umwallen,</l>
+            <l>Doch kühlend, duftend alle Sinne allen</l>
+            <l>Entrauben, süß umspielend jede Wunde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht Zaub'rer bloß von diesen Seligkeiten,</l>
+            <l>Bezaubert selbst wohnet, zum schönsten Lohne,</l>
+            <l>Im eignen Garten selig selbst der Meister;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum sollen alle Feen auch bereiten</l>
+            <l>Des Dichterhimmels diamantne Krone,</l>
+            <l>Dir, Calderon! du Sonnenstrahl der Geister.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Zaubergarten liegt im Meeresgrunde;</l>
+            <l>Kein Garten, nein, aus künstlichen Krystallen</l>
+            <l>Ein Wunderschloß, wo blitzend von Metallen,</l>
+            <l>Die Bäumchen sprossen aus dem lichten Grunde;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Meer, wo oben, seitwärts, in die Runde,</l>
+            <l>Farbige Flammenwogen uns umwallen,</l>
+            <l>Doch kühlend, duftend alle Sinne allen</l>
+            <l>Entrauben, süß umspielend jede Wunde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht Zaub'rer bloß von diesen Seligkeiten,</l>
+            <l>Bezaubert selbst wohnet, zum schönsten Lohne,</l>
+            <l>Im eignen Garten selig selbst der Meister;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum sollen alle Feen auch bereiten</l>
+            <l>Des Dichterhimmels diamantne Krone,</l>
+            <l>Dir, Calderon! du Sonnenstrahl der Geister.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

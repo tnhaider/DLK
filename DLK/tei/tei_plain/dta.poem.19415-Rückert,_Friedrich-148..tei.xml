@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">148.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">674</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>148.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein vielerfahrner Fuchs, der alle Weg' und Stege</l>
+            <l>Wohl ausgegangen hatt' in seinem Waldgehege,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hat den von Jägerkunst gestellten Trug getroffen,</l>
+            <l>Die Falle zugedeckt, und nur die Lockspeis' offen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Lockung kannt' er wohl, ihn konnte sie nicht locken;</l>
+            <l>Warum denn gieng er nicht vorüber ohne Stocken?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er dachte: würde doch der unsichtbare Grund</l>
+            <l>Des Sichtbarn auch durch mich dem Unerfahrnen kund!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vorsichtig zog er von der Falle weg die Reiser,</l>
+            <l>Bis sie am Tage lag; dann gieng er wie ein Weiser,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zufrieden nicht allein dem Schaden zu entweichen,</l>
+            <l>Davor behütet auch zu haben seinesgleichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie soll ein weiser Mann auf seinem Weg versäumen,</l>
+            <l>Versuchung, wo er kann, für Thoren wegzuräumen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

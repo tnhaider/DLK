@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den geneigten  
+ Leser.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">109</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">397</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1679</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20289-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa; Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den geneigten  
+ Leser.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Swenne si stet gegen in ze Angesiht/</l>
+            <l>Und si in mit trögen giht/</l>
+            <l>Daz si in von Herze meine:</l>
+            <l>Swer disen zwein geverlih si/</l>
+            <l>Und wont mit valsher Hute bi/</l>
+            <l>Der werde zeinem Steine.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Indem sie gegen jhm jhr freundlich Angesicht/</l>
+            <l>Und den verliebten Glantz der Augen hat gericht/</l>
+            <l>Zum Zeichen/ daß sie es von gantzem Hertzen meine/</l>
+            <l>Wer diesen Zwey zu wider ist/</l>
+            <l>Und brauchet jrgend arge List/</l>
+            <l>Der werde bald zu Steine.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

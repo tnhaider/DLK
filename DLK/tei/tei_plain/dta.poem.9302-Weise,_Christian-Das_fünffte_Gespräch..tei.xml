@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das fünffte Gespräch.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">155</measure>
+        <measure type="characters">896</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das fünffte Gespräch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine mutter wils nicht haben</l>
+            <l>Daß ich zeitlich freyen sol/</l>
+            <l>Denn sie meinet/ solchen knaben</l>
+            <l>Thuts ein ander höltzgen wol:</l>
+            <l>Aber ich denck auff die freythe</l>
+            <l>Lieber morgen wärstu heute.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. Sol ich funfzehn jahr noch warten</l>
+            <l>Und ein alter tantzknecht seyn?</l>
+            <l>Ach ich kan es besser karten/</l>
+            <l>Willigt nur das mädgen drein.</l>
+            <l>Drum gedenck ich an die freythe/</l>
+            <l>Lieber morgen wärstu heute.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>3. Hab ich doch genug zu wehren/</l>
+            <l>Nur in einer kurtzen nacht/</l>
+            <l>Daß der ehstand meinen ehren</l>
+            <l>Keine kunckelfusen macht.</l>
+            <l>Drum so denck ich an die freythe/</l>
+            <l>Lieber morgen wärstu heute.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>4. Ich mag nicht alleine liegen</l>
+            <l>Wenns die mutter zehnmahl sagt/</l>
+            <l>Kan ich keine jungfer kriegen/</l>
+            <l>Nun so nehm ich eine magd/</l>
+            <l>Also denck ich an die freythe/</l>
+            <l>Lieber morgen wärstu heute.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>5. Ich bin witzig und gedencke</l>
+            <l>Was zu meinen sachen frommt/</l>
+            <l>Schickt mir nur das hochzt-geschencke/</l>
+            <l>Wenn ihr nicht zur hochzeit kommt.</l>
+            <l>Denn es geht nun auf die freythe/</l>
+            <l>Lieber morgen wärstu heute.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

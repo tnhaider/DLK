@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[mein armer Kopf lag still in deinem Schooss]</title>
+        <author>
+          <persName>
+            <surname>Hartleben</surname>
+            <forename>Otto Erich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-4 4-5</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">740</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[mein armer Kopf lag still in deinem Schooss]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein armer Kopf lag still in deinem Schooss</l>
+            <l>und dachte – dachte bis er müde wurde.</l>
+            <l>Du hattest deine leichte, milde Hand</l>
+            <l>auf meine Stirn gelegt und warst entschlafen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und gar ein Zauber schien mir auszugehn</l>
+            <l>von deinen weissen Fingern: Frieden sandten</l>
+            <l>sie nieder in mein Hirn, und allgemach</l>
+            <l>sah ich den Schlaf in heitrer Ruhe nahn,</l>
+            <l>und mir ward leicht, als schlief ich in den Tod.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein armer Kopf lag still in deinem Schooss</l>
+            <l>und dachte – dachte bis er müde wurde.</l>
+            <l>Du hattest deine leichte, milde Hand</l>
+            <l>auf meine Stirn gelegt und warst entschlafen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und gar ein Zauber schien mir auszugehn</l>
+            <l>von deinen weissen Fingern: Frieden sandten</l>
+            <l>sie nieder in mein Hirn, und allgemach</l>
+            <l>sah ich den Schlaf in heitrer Ruhe nahn,</l>
+            <l>und mir ward leicht, als schlief ich in den Tod.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

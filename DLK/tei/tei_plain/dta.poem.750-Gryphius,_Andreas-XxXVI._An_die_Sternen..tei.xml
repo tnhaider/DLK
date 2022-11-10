@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxXVI.  An die Sternen.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">157</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">631</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxXVI.  An die Sternen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr lichter die ich nicht auff erden satt kan schawen/ </l>
+            <l>Jhr fackeln die jhr stets das weite firmament</l>
+            <l>Mit ewren flammen ziert/ vnd ohn auffhören brent; </l>
+            <l>Jhr Blumen die jhr schmückt des grossen himmels Awen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr </l>
+            <l>Sein wort die weisheit selbst mit rechten nahmen nennt</l>
+            <l>Die Gott allein recht misst/ die Gott allein recht kennt</l>
+            <l>(wir blinden sterblichen! was wollen wir vns trawen!)</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Bürgen meiner lust/ wie manche schöne Nacht</l>
+            <l>Hab ich/ in dem ich euch betrachtete gewacht?</l>
+            <l>Regirer vnser zeit/ wenn wird es doch geschehen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß ich/ der ewer nicht alhier vergessen kan/ </l>
+            <l>Euch/ derer Libe mir steckt </l>
+            <l>Von andern Sorgen frey werd vnter mir besehen. </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

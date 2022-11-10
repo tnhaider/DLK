@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Deutsche dankt .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Deutsche dankt .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heiliger Ebusund, du hast’s getroffen!</l>
+            <l>Solche Heilige wünschet sich der Dichter:</l>
+            <l>Denn gerade jene Kleinigkeiten</l>
+            <l>Ausserhalb der Gränze des Gesetzes,</l>
+            <l>Sind das Erbtheil wo er, übermüthig,</l>
+            <l>Selbst im Kummer lustig, sich beweget.</l>
+            <l>Schlangengift und Theriak muss</l>
+            <l>Ihm das eine wie das andere scheinen,</l>
+            <l>Tödten wird nicht jenes, dies nicht heilen:</l>
+            <l>Denn das wahre Leben ist des Handelns</l>
+            <l>Ew’ge Unschuld, die sich so erweiset</l>
+            <l>Dass sie niemand schadet als sich selber.</l>
+            <l>Und so kann der alte Dichter hoffen</l>
+            <l>Dass die Houris ihn im Paradiese,</l>
+            <l>Als verklärten Jüngling wohl empfangen,</l>
+            <l>Heiliger Ebusund, du hast’s getroffen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

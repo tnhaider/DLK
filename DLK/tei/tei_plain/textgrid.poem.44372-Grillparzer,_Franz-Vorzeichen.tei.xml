@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorzeichen</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">688</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1820</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorzeichen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Augen! meiner Hoffnung Sterne,</l>
+            <l>Dioskuren meiner Fahrt!</l>
+            <l>Schimmert nicht so hell und feurig!</l>
+            <l>Denn, das kündet, sagt man, Sturm –</l>
+            <l>Und so ist es auch: – Er naht schon! –</l>
+            <l>Denn ich fühls an meinem Beben,</l>
+            <l>Meinem Schwindeln, meinem Wanken,</l>
+            <l>Daß die Wellen schon empört;</l>
+            <l>Überzieht sich noch der Himmel,</l>
+            <l>Jener Himmel, wo ihr leuchtet,</l>
+            <l>O, dann rettet mich kein Gott!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Augen! meiner Hoffnung Sterne,</l>
+            <l>Dioskuren meiner Fahrt!</l>
+            <l>Schimmert nicht so hell und feurig!</l>
+            <l>Denn, das kündet, sagt man, Sturm –</l>
+            <l>Und so ist es auch: – Er naht schon! –</l>
+            <l>Denn ich fühls an meinem Beben,</l>
+            <l>Meinem Schwindeln, meinem Wanken,</l>
+            <l>Daß die Wellen schon empört;</l>
+            <l>Überzieht sich noch der Himmel,</l>
+            <l>Jener Himmel, wo ihr leuchtet,</l>
+            <l>O, dann rettet mich kein Gott!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

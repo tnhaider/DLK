@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frühpsalm.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">205</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">804</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193292"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frühpsalm.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hallelujah! Wie schimmert die Morgenwelt!</l>
+            <l>Hallelujah! Wem jubelt ihr Frühgesang?</l>
+            <l>Wem dampfen, Wiese, deine Nebel?</l>
+            <l>Fluren, wem athmet ihr euren Weihrauch?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wem saust der Ostwind Hymnen im Tannenwald?</l>
+            <l>Wem lallst du, fromme Lerche, dein Morgenlied?</l>
+            <l>Wem schwirrst du, grünlichgoldner Käfer?</l>
+            <l>Sonne, wem tanzest du deinen Reigen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Unsichtbaren, welchen kein Aug' erspäht!</l>
+            <l>Dem Unhörbaren, welchen kein Ohr erhorcht,</l>
+            <l>Dem Allgefühlten, Allgeliebten</l>
+            <l>Jubeln die Preise der jungen Schöpfung!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hallelujah! Erhabner, ich sah dich nie!</l>
+            <l>Hallelujah! Verborgner, du riefst mir nie!</l>
+            <l>Doch klopft dir jeder meiner Pulse,</l>
+            <l>Schüttert dir jegliche meiner Nerven!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einst geht ein andrer Morgen, ein schönerer,</l>
+            <l>Mir auf, ein ew'ger Morgen. — Ach, werd' ich dann,</l>
+            <l>Sprich, Vater, werd' ich dann dich schauen,</l>
+            <l>Welchen zu schauen mein Geist verschmachtet?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

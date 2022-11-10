@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Czepko</surname>
+            <forename>Daniel von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">115</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">488</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20871-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herr/ sehet dieses Buch/ das klopfft an Ewre Thür/</l>
+            <l>Vor welcher Tag vnd Nacht viel tausend Sorgen stehen/</l>
+            <l>Weil es den </l>
+            <l>Es trägt die </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sonne/ die nimbt zwar die dritte Jahr thür ein/</l>
+            <l>Seit daß bey mir das Werck voll Furchte liegt verborgen.</l>
+            <l>Jtzt bricht es durch die Nacht. Der wunderschöne Morgen/</l>
+            <l>Den </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herr seht Jhr es vor gutt/ so seid darumb begrüst;</l>
+            <l>Nehmt dieses kurtze Buch/ vnd reicht es </l>
+            <l>So alle Welt verehrt/ vnd schretbt im übersenden/</l>
+            <l>Der ists/ den Deutschland jtzt von seinem Kayser list.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

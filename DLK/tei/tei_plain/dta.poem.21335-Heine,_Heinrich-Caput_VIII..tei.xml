@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput VIII.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">519</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput VIII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Kaiser ist auferstanden seitdem,</l>
+            <l>Doch die englischen Würmer haben</l>
+            <l>Aus ihm einen stillen Mann gemacht,</l>
+            <l>Und er ließ sich wieder begraben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hab’ selber sein Leichenbegängniß gesehn,</l>
+            <l>Ich sah den goldenen Wagen</l>
+            <l>Und die goldenen Siegesgöttinnen drauf,</l>
+            <l>Die den goldenen Sarg getragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Elisäischen Feldern entlang,</l>
+            <l>Durch des Triumphes Bogen,</l>
+            <l>Wohl durch den Nebel, wohl über den Schnee,</l>
+            <l>Kam langsam der Zug gezogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mißtönend schauerlich war die Musik.</l>
+            <l>Die Musikanten starrten</l>
+            <l>Vor Kälte. Wehmüthig grüßten mich</l>
+            <l>Die Adler der Standarten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

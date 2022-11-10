@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den geneigten  
+ Leser.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">468</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1679</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20289-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa; Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den geneigten  
+ Leser.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Swer öch Turniren minnet also sere/</l>
+            <l>Daz er da bi vergisset der Husere:</l>
+            <l>Dern hat die Mazze niht behalten/</l>
+            <l>Ein genüg Turniren das ist gut;</l>
+            <l>Ze vil an allen Dingen/ tut</l>
+            <l>Bruch an den Lobe: so sagen die wisen Alten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer seinen gantzen Sinn auff das Turniren lenckt/</l>
+            <l>Und an sein Haus und Weib dabey nicht mehr gedenckt/</l>
+            <l>Der hat kein rechtes Maß gehalten/</l>
+            <l>Ein mässiger Turnir ist löblich und auch gut/</l>
+            <l>Doch wer zu viel in allen Sachen thut/</l>
+            <l>Verlihrt den Ruhm/ nach laut der weisen Alteu.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Lobredner.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">427</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Lobredner.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doris, höre doch die Redner,</l>
+            <l>Höre doch, sie loben Mädchen!</l>
+            <l>Chloe reitzt mit schwarzen Lokken,</l>
+            <l>Dafne mit erhabnem Busen,</l>
+            <l>Laura mit vergnügten Minen,</l>
+            <l>Sappho mit gelehrten Augen,</l>
+            <l>Hanchen mit geschwinden Füssen,</l>
+            <l>Galathe mit schönen Händen,</l>
+            <l>Und das braune Kammerfräulein,</l>
+            <l>Mit dem Grübchen in dem Kinne.</l>
+            <l>Doris, soll ich dich nicht loben?</l>
+            <l>Höre, Doris, ieder Redner</l>
+            <l>Lobte dich in seinem Mädchen;</l>
+            <l>Aber deine schöne Seele</l>
+            <l>Lobten sie an keinem Mädchen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

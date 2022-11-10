@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Schlaf.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">90</measure>
+        <measure type="tokens">59</measure>
+        <measure type="characters">337</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Schlaf.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm, süßer Schlaf, erquicke mich!</l>
+            <l>Mein müdes Auge sehnet sich</l>
+            <l>Der Ruhe zu genießen,</l>
+            <l>Komm, sanft es zuzuschließen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie aber, Freund, o schlössest du</l>
+            <l>Von nun an es auf ewig zu,</l>
+            <l>Und diese Augenlieder</l>
+            <l>Sähn nie den Morgen wieder?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So weis ich, daß ein schönres Licht</l>
+            <l>Einst meinen Schlummer unterbricht,</l>
+            <l>Und einen Tag mir gönnet,</l>
+            <l>Der keinen Abend kennet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

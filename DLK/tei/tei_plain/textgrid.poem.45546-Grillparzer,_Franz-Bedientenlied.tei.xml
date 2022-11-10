@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Bedientenlied</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">666</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Bedientenlied</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts besser meinem Sinn gefällt,</l>
+            <l>Ich sag es frank und frei,</l>
+            <l>Kein schönres Los in dieser Welt,</l>
+            <l>Als meines: ein Lakai.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tut man nur, was der Herr gewollt,</l>
+            <l>Erspart man sich die Wahl,</l>
+            <l>Und, wie die Welt auch zankt und grollt,</l>
+            <l>Man bleibt doch </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn, obgleich nur hintenan,</l>
+            <l>Mit Vieren man kutschiert,</l>
+            <l>Verspottet man den Wandersmann</l>
+            <l>Und nennt ihn </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts besser meinem Sinn gefällt,</l>
+            <l>Ich sag es frank und frei,</l>
+            <l>Kein schönres Los in dieser Welt,</l>
+            <l>Als meines: ein Lakai.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tut man nur, was der Herr gewollt,</l>
+            <l>Erspart man sich die Wahl,</l>
+            <l>Und, wie die Welt auch zankt und grollt,</l>
+            <l>Man bleibt doch </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn, obgleich nur hintenan,</l>
+            <l>Mit Vieren man kutschiert,</l>
+            <l>Verspottet man den Wandersmann</l>
+            <l>Und nennt ihn </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

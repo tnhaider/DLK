@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">44.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">571</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>44.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist unwandelbar als Wahrheit ausgemacht?</l>
+            <l>Von Allem Nichts fürwahr, was Menschenwitz erdacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Wunder der Natur, die Thaten der Geschichte,</l>
+            <l>Erscheinen jeden Tag dem Geist in neuem Lichte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie dort Erscheinungen und hier Eräugnisse,</l>
+            <l>So wechseln Meinungen und Ueberzeugnisse.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaubensbekenntnisse und Wissenschaftsgebäude,</l>
+            <l>Des ewig wandelnden Weltgeistes Spiel und Freude.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber laß, was ihn erfreut, dich nicht betrüben!</l>
+            <l>Er spielt sein Spiel mit dir, um deine Kraft zu üben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo ihn dein Ringen hat mit geist'ger Form gebunden,</l>
+            <l>Da hast du Wahrheit für den Augenblick gefunden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

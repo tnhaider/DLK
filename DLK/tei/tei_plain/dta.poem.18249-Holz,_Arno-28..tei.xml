@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">28.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">148</measure>
+        <measure type="characters">869</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>28.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein blutiger Frevel ist diese Zeit!</l>
+            <l>Am hölzernen Kreuz verröchelt der Gott,</l>
+            <l>Kindern und Thoren ein seichter Spott;</l>
+            <l>Verlöscht ist am Himmel das letzte Roth,</l>
+            <l>Ueber die Welt hin schreitet der Tod,</l>
+            <l>Und trunken durch die Gewitternacht klingt</l>
+            <l>Das sündige Lied, das die Nachtigall singt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Menschheit weint um ihr Paradies,</l>
+            <l>Draus sie ihr eigener Dämon verstieß,</l>
+            <l>Und heimlich zischt ihr die rothe Wuth</l>
+            <l>Ihre Parole zu: Gold und Blut!</l>
+            <l>Gold und Blut, Blut und Gold!</l>
+            <l>Hei wie das klappert, hei wie das rollt!</l>
+            <l>Und wüst dazwischen kräht der Hahn:</l>
+            <l>Volksohnmacht und Cäsarenwahn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und immer dunkler wird die Nacht,</l>
+            <l>Die Liebe schläft ein und der Haß erwacht</l>
+            <l>Und immer üppiger dehnt sich die Lust</l>
+            <l>Und immer angstvoller schwillt die Brust;</l>
+            <l>Kein Stern, der blau durch die Wolken bricht,</l>
+            <l>Kein Lied, das süß von Erlösung spricht —</l>
+            <l>Mein Herz schlägt laut, mein Gewissen schreit:</l>
+            <l>Ein blutiger Frevel ist diese Zeit!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

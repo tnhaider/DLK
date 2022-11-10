@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Karyatide.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">158</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">599</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Karyatide.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Hof des Louvre trägt ein Weib</l>
+            <l>Die Zinne mit dem Marmorhaupt,</l>
+            <l>Mit einem allerliebsten Haupt.</l>
+            <l>Als Meister Goujon sie geformt</l>
+            <l>In feinen Linien, überschlank,</l>
+            <l>Und stehend auf dem Baugerüst</l>
+            <l>Die letzte Locke meißelte,</l>
+            <l>Erschoß den Meister hinterrücks</l>
+            <l>(am Tag der Saint-Barth</l>
+            <l>Ein überzeugter Katholik.</l>
+            <l>Vorstürzend überflutet' er</l>
+            <l>Den feinen Busen ganz mit Blut,</l>
+            <l>Dann sank er rücklings in den Hof.</l>
+            <l>Die Marmormagd entschlummerte</l>
+            <l>Und schlief dreihundert Jahre lang,</l>
+            <l>Ein Feuerschein erwärmte sie</l>
+            <l>(am Tag da die Commüne focht)</l>
+            <l>Sie gähnt' und blickte rings sich um:</l>
+            <l>Wo bin ich denn? In welcher Stadt?</l>
+            <l>Sie morden sich. Es ist Paris.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

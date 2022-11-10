@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">648</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach kommet Herßliebster mein’ einige </l>
+            <l>Ach kommet ach kommet mein liebestes </l>
+            <l>Jhr meines Begehrens annehmliche Weide/</l>
+            <l>Ach eylet doch zu mir und seumet euch nicht</l>
+            <l>Vernehmet was euch meine Seele gewehret</l>
+            <l>Verstehet und sehet mein williges Hertz/</l>
+            <l>Als welches auf dieser Welt nichtes begehret</l>
+            <l>Als euch nur alleine zu lieben mit Schertz.</l>
+            <l>So lang’ ich in dieser Welt habe das </l>
+            <l>So lange wil ich in beständiger </l>
+            <l>Euch/ Euch mein Geliebter seyn einig ergeben</l>
+            <l>Und solches soll werden tag-täglichen neu.</l>
+            <l>Kein Trauren/ kein Schauren/ kein Neyden/</l>
+            <l>kein Leyden</l>
+            <l>Betrüben sol unseren ehelichen Stand/</l>
+            <l>Von eurer Gunst soll mich kein Unglük nicht</l>
+            <l>scheiden/</l>
+            <l>Seht nehmet zum </l>
+            <l>Mund und Hand.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

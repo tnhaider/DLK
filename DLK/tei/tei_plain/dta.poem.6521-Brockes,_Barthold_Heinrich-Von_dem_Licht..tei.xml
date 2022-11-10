@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Licht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">498</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Licht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es mag entweder schräg’, es mag gerade fallen,</l>
+            <l>Es mag vereint, getheilt, gebrochen, rückwerts prallen;</l>
+            <l>So theilt es sich</l>
+            <l>Auch unsern Augen mit verschiedentlich.</l>
+            <l>Die Cörper, welche glatt und dicht,</l>
+            <l>Wodurch der Strahlen Schönheit nicht</l>
+            <l>Geschwächt ist, drücken sie hell, gläntzend, rein,</l>
+            <l>Schnell wiederum zurück in hellen Wiederschein.</l>
+            <l>Wenn aber sie die Krafft an andre Cörper brechen,</l>
+            <l>Die sie zertheilen, biegen, schwächen;</l>
+            <l>So prallen sie auf unsre Blicke</l>
+            <l>So gläntzend lange nicht, und nicht so starck, zurücke.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

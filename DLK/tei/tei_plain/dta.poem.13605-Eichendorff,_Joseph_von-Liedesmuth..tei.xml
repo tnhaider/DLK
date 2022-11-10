@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Liedesmuth.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">98</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">415</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Liedesmuth.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was Lorbeerkranz und Lobestand!</l>
+            <l>Es duftet still die Frühlingsnacht</l>
+            <l>Und rauscht der Wald vom Felsenrand,</l>
+            <l>Ob's jemand hört, ob niemand wacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schläft noch alles Menschenkind,</l>
+            <l>Da pfeift sein lust'ges Wanderlied</l>
+            <l>Schon über's Feld der Morgenwind</l>
+            <l>Und frägt nicht erst, wer mit ihm zieht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ob ihr all' zu Hause saßt,</l>
+            <l>Der Frühling blüht doch, weil er muß,</l>
+            <l>Und ob ihr's les't oder bleiben laßt,</l>
+            <l>Ich singe doch aus frischer Brust.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.  Kampf des erwählten Volkes .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-6 2-5 3-6 4-5</measure>
+        <measure type="syllables">179</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">715</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.  Kampf des erwählten Volkes .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf, auf, auf ihr Helden, waget Gut und               </l>
+            <l>Blut,</l>
+            <l>Würget mit vereinten Kräften Babels Brut!</l>
+            <l>Eure Feldposaunen,</l>
+            <l>Trommeln und Kartaunen,</l>
+            <l>Lasset tönen und erwecken Löwenmuth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann die Blutfahn flieget, so seyd unverzagt,</l>
+            <l>Josua hat vor euch schon den Feind verjagt!</l>
+            <l>Unser Löwe brüllet,</l>
+            <l>Und mit Schrecken füllet</l>
+            <l>Das Heer der Assyrer, so sich an uns wagt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf, auf, zuckt die Schwerdter, schlaget muthig</l>
+            <l>drein,</l>
+            <l>Stürmt die Thürme Babels, reißt die Mauern ein.</l>
+            <l>Auf, sie sollen fallen,</l>
+            <l>Wenn Posaunen schallen,</l>
+            <l>Denn die Stunde, sie zu richten, bricht herein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du o Jesu führe selbsten deinen Krieg,</l>
+            <l>In uns, durch uns, mit uns, daß der Feind erlieg.</l>
+            <l>In der Kraft erscheinen</l>
+            <l>Wir nun als die deinen,</l>
+            <l>Können triumphiren nach erlangtem Sieg.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

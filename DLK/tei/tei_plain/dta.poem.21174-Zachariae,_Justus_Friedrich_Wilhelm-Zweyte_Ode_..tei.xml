@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zweyte Ode .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zweyte Ode .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum dringt durch die lange Nacht</l>
+            <l>Ein zweifelhafter Stral?</l>
+            <l>O Hofnung, Hofnung! täusche nicht</l>
+            <l>Ein unglückseligs Herz!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß mich in tiefer Traurigkeit,</l>
+            <l>In der die Seele stirbt!</l>
+            <l>Verzweiflung selbst ist Trost für mich,</l>
+            <l>Wofern du mich betrügst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu grausam! — dennoch lispelst du</l>
+            <l>Dem bangen Herzen ein:</l>
+            <l>Ich sey vielleicht — vielleicht geliebt;</l>
+            <l>O niedriger Verrath!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meynst du, der schimmernde Betrug</l>
+            <l>Soll Kraft dem Herzen leihn?</l>
+            <l>Mehr glücklich war es, ganz durchbohrt,</l>
+            <l>Ganz, o Verzweiflung, dein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Umsonst, umsonst! — Voll Grausamkeit</l>
+            <l>Betäubest du den Schmerz.</l>
+            <l>Verbinde meine Wunden dann,</l>
+            <l>Und reiß sie blutger auf!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

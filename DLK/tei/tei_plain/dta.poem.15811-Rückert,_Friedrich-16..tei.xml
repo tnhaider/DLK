@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">16.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">635</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>16.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du unbeschriebnes Blatt, nun komm' und sei beschrieben</l>
+            <l>Der Tochter meines Freunds, ich darf es nicht verschieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein unbeschriebnes Blatt ist jugendlicher Sinn;</l>
+            <l>Viel Schönes, Gutes drauf zu schreiben ist Gewinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein fleckenloses Blatt ist jungfräuliches Herz;</l>
+            <l>Nie furche drein die Schrift von Leidenschaft und Schmerz!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schreib fein bedächtig so daß nichts sei auszustreichen;</l>
+            <l>Ein ausgestrichnes Wort ist ein entstellend Zeichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Zug, der blaß erlischt, wird leichter angefrischt,</l>
+            <l>Ein fehlgeschriebner wird nie gründlich weggewischt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Messerchen, wie fein es kratzte, bleibt die Spur,</l>
+            <l>Und nie wirds glatt, ob man mit Bimsstein drüber fuhr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

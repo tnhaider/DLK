@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das garstige Gesicht</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-10 2-6 3-10 4-6</measure>
+        <measure type="syllables">292</measure>
+        <measure type="tokens">182</measure>
+        <measure type="characters">1096</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1773</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das garstige Gesicht</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn einen würdigen Biedermann,</l>
+            <l>Pastorn oder Ratsherrn lobesan,</l>
+            <l>Die Wittib läßt in Kupfer stechen</l>
+            <l>Und drunter ein Verslein radebrechen,</l>
+            <l>Da heißt's: »Seht hier mit Kopf und Ohren</l>
+            <l>Den Herrn, Ehrwürdig, Wohlgeboren!</l>
+            <l>Seht seine Augen und seine Stirn;</l>
+            <l>Aber sein verständig Gehirn,</l>
+            <l>So manch Verdienst ums gemeine Wesen</l>
+            <l>Könnt ihr ihm nicht an der Nase lesen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So, liebe Lotte! heißt's auch hier:</l>
+            <l>Ich schicke da mein Bildnis dir.</l>
+            <l>Magst wohl die ernste Stirne sehen,</l>
+            <l>Der Augen Glut, der Locken Wehen;</l>
+            <l>'s ist ungefähr das garst'ge Gesicht:</l>
+            <l>Aber meine Liebe siehst du nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn einen würdigen Biedermann,</l>
+            <l>Pastorn oder Ratsherrn lobesan,</l>
+            <l>Die Wittib läßt in Kupfer stechen</l>
+            <l>Und drunter ein Verslein radebrechen,</l>
+            <l>Da heißt's: »Seht hier mit Kopf und Ohren</l>
+            <l>Den Herrn, Ehrwürdig, Wohlgeboren!</l>
+            <l>Seht seine Augen und seine Stirn;</l>
+            <l>Aber sein verständig Gehirn,</l>
+            <l>So manch Verdienst ums gemeine Wesen</l>
+            <l>Könnt ihr ihm nicht an der Nase lesen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So, liebe Lotte! heißt's auch hier:</l>
+            <l>Ich schicke da mein Bildnis dir.</l>
+            <l>Magst wohl die ernste Stirne sehen,</l>
+            <l>Der Augen Glut, der Locken Wehen;</l>
+            <l>'s ist ungefähr das garst'ge Gesicht:</l>
+            <l>Aber meine Liebe siehst du nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

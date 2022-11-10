@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der  
+ Sterbende  
+  Socrates.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">84</measure>
+        <measure type="tokens">61</measure>
+        <measure type="characters">349</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1679</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20289-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa; Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der  
+ Sterbende  
+  Socrates.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Kloß ist rund nach meinem Düncken/</l>
+            <l>Die Himmel schliessen ihn recht ein/</l>
+            <l>Er muß stets unbeweglich seyn/</l>
+            <l>Sein gleicher Hang läst ihn nicht sincken.</l>
+            <l>Die Himmel so gleich um ihn gehn/</l>
+            <l>Die lassen ihn schnur-gleiche stehn;</l>
+            <l>Und weil er auf ihn selbst kan sitzen/</l>
+            <l>Und gleich getheilt Gewichte hat/</l>
+            <l>So hält er sich ohn andre Stützen/</l>
+            <l>Als des Gerichtes Wunderthat.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

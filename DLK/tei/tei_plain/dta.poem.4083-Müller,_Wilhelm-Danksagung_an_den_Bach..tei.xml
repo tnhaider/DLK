@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Danksagung an den Bach.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">95</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">384</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Danksagung an den Bach.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein rauschender Freund,</l>
+            <l>Dein Singen, dein Klingen,</l>
+            <l>War es also gemeint?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zur Müllerin hin!</l>
+            <l>So lautet der Sinn,</l>
+            <l>Gelt, hab' ich's verstanden?</l>
+            <l>Zur Müllerin hin!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hat </l>
+            <l>Oder hast mich berückt?</l>
+            <l>Das möcht' ich noch wissen,</l>
+            <l>Ob </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun wie's auch mag sein,</l>
+            <l>Ich gebe mich drein:</l>
+            <l>Was ich such', hab' ich funden,</l>
+            <l>Wie's immer mag sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach Arbeit ich frug,</l>
+            <l>Nun hab' ich genug,</l>
+            <l>Für die Hände, für's Herze</l>
+            <l>Vollauf genug!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

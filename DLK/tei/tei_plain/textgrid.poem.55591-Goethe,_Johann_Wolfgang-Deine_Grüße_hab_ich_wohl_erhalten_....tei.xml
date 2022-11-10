@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Deine Grüße hab ich wohl erhalten ...</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">236</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">934</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1779</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Deine Grüße hab ich wohl erhalten ...</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deine Grüße hab ich wohl erhalten.</l>
+            <l>Liebe lebt jetzt in tausend Gestalten,</l>
+            <l>Gibt der Blume Farb und Duft,</l>
+            <l>Jeden Morgen durchzieht sie die Luft,</l>
+            <l>Tag und Nacht spielt sie auf Wiesen, in Hainen</l>
+            <l>Mir will sie oft zu herrlich erscheinen;</l>
+            <l>Neues bringt sie täglich hervor,</l>
+            <l>Leben summt uns die Biene ins Ohr.</l>
+            <l>Bleib, ruf ich oft, Frühling! man küsset dich kaum,</l>
+            <l>Engel, so fliehst du wie ein schwankender Traum;</l>
+            <l>Immer wollen wir dich ehren und schätzen,</l>
+            <l>So uns an dir wie am Himmel ergötzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deine Grüße hab ich wohl erhalten.</l>
+            <l>Liebe lebt jetzt in tausend Gestalten,</l>
+            <l>Gibt der Blume Farb und Duft,</l>
+            <l>Jeden Morgen durchzieht sie die Luft,</l>
+            <l>Tag und Nacht spielt sie auf Wiesen, in Hainen</l>
+            <l>Mir will sie oft zu herrlich erscheinen;</l>
+            <l>Neues bringt sie täglich hervor,</l>
+            <l>Leben summt uns die Biene ins Ohr.</l>
+            <l>Bleib, ruf ich oft, Frühling! man küsset dich kaum,</l>
+            <l>Engel, so fliehst du wie ein schwankender Traum;</l>
+            <l>Immer wollen wir dich ehren und schätzen,</l>
+            <l>So uns an dir wie am Himmel ergötzen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neuntes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">722</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neuntes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ja! „, fuhr die Dicht-Kunst auf, das hab ich erst gesagt;</l>
+            <l>„so seht, wie meine Kunst der Künste Wercke schlagt.</l>
+            <l>„thalia zeigt nur an, daß sie von mir gelernet,</l>
+            <l>„was sich von eurer Macht und Wissenschaft entfernet.</l>
+            <l>245”Sie folgt dem Dichter-Trieb den meine Cither lehrt;</l>
+            <l>„was sie erzählet, ist was sie von mir gehört.</l>
+            <l>„sagt, welche von dem Chor vermag das aufzurichten?</l>
+            <l>„kann Marmel, Farb und Erz so viel als unser Dichten?</l>
+            <l>„zu dem, verstehet ihr, was das vor ein Gebäu?</l>
+            <l>250”Glaubt ihr vielleicht, daß es ein Scherz der Strahlen sey?</l>
+            <l>„daß hier die Sonne sich mit Regenbögen spiele?</l>
+            <l>„daß dessen Umfang nur auf eitlen Schimmer ziele?</l>
+            <l>„seht ihr darinnen nicht ein hell-beleuchtes Herz?</l>
+            <l>„das weder Steine braucht, noch Eisen, auch kein Erz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

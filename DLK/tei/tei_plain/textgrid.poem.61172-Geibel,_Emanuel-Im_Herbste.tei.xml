@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Im Herbste</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-4 2-7 3-4 4-7</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">614</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Im Herbste</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf des Gartens Mauerzinne</l>
+            <l>Bebt noch eine einz'ge Ranke:</l>
+            <l>Also bebt in meinem Sinne</l>
+            <l>Schmerzlich nur noch ein Gedanke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum vermag ich ihn zu fassen,</l>
+            <l>Aber dennoch von mir lassen</l>
+            <l>Will er, ach, zu keiner Frist;</l>
+            <l>Und so denk' ich ihn und trage</l>
+            <l>Alle Nächte, alle Tage</l>
+            <l>Mit mir fort die dumpfe Klage,</l>
+            <l>Daß du mir verloren bist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf des Gartens Mauerzinne</l>
+            <l>Bebt noch eine einz'ge Ranke:</l>
+            <l>Also bebt in meinem Sinne</l>
+            <l>Schmerzlich nur noch ein Gedanke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum vermag ich ihn zu fassen,</l>
+            <l>Aber dennoch von mir lassen</l>
+            <l>Will er, ach, zu keiner Frist;</l>
+            <l>Und so denk' ich ihn und trage</l>
+            <l>Alle Nächte, alle Tage</l>
+            <l>Mit mir fort die dumpfe Klage,</l>
+            <l>Daß du mir verloren bist.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

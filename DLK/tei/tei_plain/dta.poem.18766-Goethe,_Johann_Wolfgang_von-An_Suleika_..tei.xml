@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Suleika .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">434</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Suleika .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir mit Wohlgeruch zu kosen,</l>
+            <l>Deine Freuden zu erhöhn,</l>
+            <l>Knospend müssen tausend Rosen</l>
+            <l>Erst in Gluten untergehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um ein Fläschchen zu besitzen</l>
+            <l>Das den Ruch auf ewig hält,</l>
+            <l>Schlank wie deine Fingerspitzen,</l>
+            <l>Da bedarf es einer Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einer Welt von Lebenstrieben,</l>
+            <l>Die, in ihrer Fülle Drang,</l>
+            <l>Ahndeten schon Bulbuls Lieben,</l>
+            <l>Seeleregenden Gesang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sollte jene Quaal uns quälen?</l>
+            <l>Da sie unsre Lust vermehrt.</l>
+            <l>Hat nicht Myriaden Seelen</l>
+            <l>Timurs Herrschaft aufgezehrt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

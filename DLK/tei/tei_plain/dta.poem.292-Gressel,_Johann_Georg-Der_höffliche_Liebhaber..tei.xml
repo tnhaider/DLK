@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der höffliche Liebhaber.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">620</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der höffliche Liebhaber.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Hertze/ und das Auge spricht</l>
+            <l>Ob schon die Lippen schweigen/</l>
+            <l>Nennt gleich der Mund mein Lieben nicht/</l>
+            <l>Dennochs die Seuffzers zeigen.</l>
+            <l>Und deckt mein Blut</l>
+            <l>Gleich seine Gluth</l>
+            <l>Die Funcken doch aus meinen Adern steigen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Wesen läst mein Feuer sehn/</l>
+            <l>Ob ich es schon verhähle;</l>
+            <l>Läst gleich mein Mund kein Klagen gehn/</l>
+            <l>So thut es doch die Seele/</l>
+            <l>Und zeigt die Brust</l>
+            <l>Gleich aussen Lust/</l>
+            <l>Doch ich mich sehr durch innre Flammen quähle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So lieb’ ich nun/ doch scheut der Mund</l>
+            <l>Sein Liebes-Feur zu nennen/</l>
+            <l>Das Hertze aber macht es kund/</l>
+            <l>Und zeiget an mein Brennen/</l>
+            <l>Doch weiß ich nicht?</l>
+            <l>Wenns Hertze spricht</l>
+            <l>Ob meine Gluth mein Engel wird erkennen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XXVI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">500</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XXVI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich küsse dich, und ich fühle wie mich</l>
+            <l>Dein Genius begeistert;</l>
+            <l>Es hat ein wunderbarer Rausch</l>
+            <l>Sich meiner Seele bemeistert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„mir ist, als ob ich auf der Straß’</l>
+            <l>Die Nachtwächter singen hörte –</l>
+            <l>Es sind Hymeneen, Hochzeitmusik,</l>
+            <l>Mein süßer Lustgefährte!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„jetzt kommen die reitenden Diener auch,</l>
+            <l>Mit üppig lodernden Fackeln,</l>
+            <l>Sie tanzen ehrbar den Fackeltanz,</l>
+            <l>Sie springen und hüpfen und wackeln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„es kommt der hoch- und wohlweise Senat,</l>
+            <l>Es kommen die Oberalten;</l>
+            <l>Der Bürgermeister räuspert sich</l>
+            <l>Und will eine Rede halten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

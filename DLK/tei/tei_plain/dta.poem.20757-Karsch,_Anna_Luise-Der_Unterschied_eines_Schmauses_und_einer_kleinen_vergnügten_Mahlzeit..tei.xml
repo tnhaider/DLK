@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Unterschied eines Schmauses und einer  
+ kleinen vergnügten Mahlzeit.</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">53</measure>
+        <measure type="characters">327</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Unterschied eines Schmauses und einer  
+ kleinen vergnügten Mahlzeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Lieber! sprich, wann essen               </l>
+            <l>Die Menschen mehr als königlich?</l>
+            <l>„wenn sie die ganze Welt vergessen,</l>
+            <l>„und so vergnügt als Gleim, und Du und ich</l>
+            <l>„mit wenig Schüsseln sind, und niemand fürchten</l>
+            <l>dürfen,</l>
+            <l>„und ihren Wein mit einer Zunge schlürfen,</l>
+            <l>„die frey und unbeurtheilt spricht.“</l>
+            <l>O solch ein Mahl, die Fürsten habens nicht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

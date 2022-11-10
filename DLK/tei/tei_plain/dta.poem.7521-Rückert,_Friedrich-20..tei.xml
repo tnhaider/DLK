@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">20.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">700</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>20.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thu was du kannst, und laß das andre dem, der's kann</l>
+            <l>Zu jedem ganzen Werk gehört ein ganzer Mann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwo Hälften machen zwar ein Ganzes, aber merk:</l>
+            <l>Aus halb und halb gethan entsteht kein ganzes Werk.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer halb und halb gesund, der mag nur krank sich nennen;</l>
+            <l>Und gar nicht kennen wir, was halb und halb wir kennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn etwas Ganzes würd' aus noch so vielen Halben,</l>
+            <l>Ganz gut! es wimmelt jetzt von Halben allenthalben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In jeder Halbheit wohnt ein Trieb zur Uebertreibung;</l>
+            <l>Bei Uebertreibung bleibt nicht aus die Unterbleibung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zuwenig und zuviel ist beides ein Verdruß;</l>
+            <l>So fehl ist überm Ziel wie unterm Ziel ein Schuß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zuwenig und zuviel ist gleichsehr unvollkommen;</l>
+            <l>Im Ernst ist und im Spiel das rechte Maß willkommen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

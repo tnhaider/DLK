@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Einleitung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">620</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Einleitung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zufrieden mit mir selbst, verbringe,</l>
+            <l>Ein selbst verfertigt Liedchen singe,</l>
+            <l>Vergangner Widerwärtigkeit,</l>
+            <l>Nach überstandnem Sturm, vergesse,</l>
+            <l>Und, in vernünftiger Gelassenheit,</l>
+            <l>Mein gegenwärtigs Glück ermesse.</l>
+            <l>Jetzt will ich hier, in meines Schöpfers Werken,</l>
+            <l>Sein’ Allmacht, Lieb und Weisheit merken.</l>
+            <l>Jetzt will ich, halb entzückt, bald von der Sonnen Gluht,</l>
+            <l>Bald von der tiefen Meeres-Fluht,</l>
+            <l>Bald von der Erden Pracht und Zier,</l>
+            <l>Jetzt dort, dann wieder hier,</l>
+            <l>Zu aller Dinge Quell, dem grossen All zu Ehren,</l>
+            <l>Beseelte Lieder lassen hören.</l>
+            <l>Zu diesem Endzweck stärk, o Schöpfer, meine</l>
+            <l>Sinnen,</l>
+            <l>Und segne, fernerhin, wie vormahls, mein Be-</l>
+            <l>ginnen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Farben.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">524</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Farben.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hätt' ihn von Jugend an die Kranckheit eingenommen;</l>
+            <l>So wär ihm alles gelb auf Erden vorgekommen:</l>
+            <l>Und wir, die wir gesund, da von der Jugend an</l>
+            <l>Die Farben bloß bey uns beurtheilt seyn,</l>
+            <l>So stimmen wir darin mit niemand überein.</l>
+            <l>Der Werckzeug Unterscheid erregt bey jedermann</l>
+            <l>Die Mannigfaltigkeit, die man kaum zählen kan.</l>
+            <l>In Farben hat uns nichts vereinen können,</l>
+            <l>Als daß wir sie auf eine Weise nennen.</l>
+            <l>Die Menschen werden wol auf Erden</l>
+            <l>In diesen Punct nicht leicht vereinigt werden:</l>
+            <l>Ob sie sich gleich bestreben und befleissen</l>
+            <l>Die Dinge </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

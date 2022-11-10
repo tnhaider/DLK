@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxXII.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">381</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxXII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kam bey jedem Schritte fast in's Stocken sonst;</l>
+            <l>Sie, die nun im Aether ihre Schwinge wiegt,</l>
+            <l>Ließ in tausend Netze sich verlocken sonst;</l>
+            <l>Sie, die nun die Hydra der Begier erlegt,</l>
+            <l>Saß in Weiberröcken vor dem Rocken sonst;</l>
+            <l>Gegenüber einem Angesicht wie deins</l>
+            <l>War ich nicht so frostig, nicht so trocken sonst;</l>
+            <l>Aber neu verführen wirst du mein Gemüth,</l>
+            <l>Denn was wollen anders deine Locken sonst?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">135.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">553</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>135.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist zu sehr geneigt, andre nach dir zu richten,</l>
+            <l>Jedwedem dein Gefühl im Busen anzudichten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Danach benennest du den einen hochbeglückt,</l>
+            <l>Und einen andern tief in Noth hinabgedrückt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du setzest nur voraus, daß sie in ihren Lagen</l>
+            <l>Sich fühlen müßten so wie du sie würdest tragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bedenke: jeder lebt in seinem Element,</l>
+            <l>Ob dumpf ob licht es sei, wie wer kein andres kennt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Leben fühlen sie in angemessner Lage</l>
+            <l>Nicht als besondre Lust, noch als besondre Plage.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dem Gefühle sollst du sie durch deins nicht stören,</l>
+            <l>Und nicht das deinige durch Träumerei bethören.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"></title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">269</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">963</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head></head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flora saß auff ihrem Throne/</l>
+            <l>Bey ihr sah man die Napeen</l>
+            <l>Unter tausend Blumen stehen;</l>
+            <l>Loß und Glücke solten weisen/</l>
+            <l>Welch am meisten sey zu preisen:</l>
+            <l>Was geschach? Die weisse Bohne</l>
+            <l>Ward der Anemone.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flora rieff mit hellem Thone:</l>
+            <l>Manche spürt man übel riechen/</l>
+            <l>Ob sie schön: die Veyeln kriechen/</l>
+            <l>Rosen stechen/ Liljen färben/</l>
+            <l>Nelcken welcken/ Tulpen sterben:</l>
+            <l>Drum für aller Blumen Crone</l>
+            <l>Gilt mir Anemone.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nord-Wind/ wenn du mir zu Hohne</l>
+            <l>Mit verneutem Winter dräuest/</l>
+            <l>Schnee und Hagel um dich streuest/</l>
+            <l>Will ich zwar gedultig lassen</l>
+            <l>Manche weiche Blum’ erblassen/</l>
+            <l>Aber diß beding’ ich/ schone</l>
+            <l>Meiner Anemone.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Venus mit dem zarten Sohne</l>
+            <l>Kam in Garten Blumen brechen/</l>
+            <l>Hörte diese Worte sprechen/</l>
+            <l>Sagte/ daß Sylvanders Treue</l>
+            <l>Bald die schönste Blum erfreue?</l>
+            <l>Geh/ und krön’ ihn/ Kind/ zu Lohne</l>
+            <l>Mit der Anemone.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amor war bereit zur Frohne/</l>
+            <l>Flochte für den treuen Hirten</l>
+            <l>Anemon auff grüne Myrthen:</l>
+            <l>Dieser sang mit tausend Freuden:</l>
+            <l>Weil ich werde Lämmer weyden/</l>
+            <l>Wo ich treibe/ wo ich wohne/</l>
+            <l>Blüh’ mir Anemone!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">27.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">601</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>27.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geehret sei das Wort! es ist des Geistes Spiegel,</l>
+            <l>Ist des Gedankens, der gereift, Vollendungssiegel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo ihm das Siegel fehlt, gilt er sich selber nicht;</l>
+            <l>Und wo der Spiegel fehlt, gewahrt sich nicht das Licht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wenn es Spiegel ist, so ist es nur zum Gleichen,</l>
+            <l>Und wenn es Siegel ist, so ist es nur zum Zeichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie dem Gespiegelten entspricht der Spiegelglanz,</l>
+            <l>Nie dem Versiegelten das äußre Siegel ganz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer in die Formeln will des Worts die Geister bannen,</l>
+            <l>Die Formeln bleiben ihm, die Geister gehn vondannen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber suche fein die Geister zu belauschen,</l>
+            <l>Wie, wandelnd unsichtbar, sie Wortgewande tauschen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

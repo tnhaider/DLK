@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiX.  An sein Buch das er  H. Michael Borck  
+ übersendet.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-2 4-4</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">637</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiX.  An sein Buch das er  H. Michael Borck  
+ übersendet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geh smmer/ weil dich ja gelustet hin zu gehen. </l>
+            <l>Vnd suche Preussens </l>
+            <l>Vnd Frid’ vnd Krieg vermählt. als in verknüpfter </l>
+            <l>Vnd sprich dem zu/ durch den die grosse Stadt kan stehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er den die Tugend liebt/ den trewe must' erhöhen/ </l>
+            <l>Den redligkeit erkiest/ der raht für alles weh' </l>
+            <l>In schweren fällen weiß/ ergetzt (ob schon der Schne </l>
+            <l>Der greisen Jahr jhn deckt) sich täglich mit Astreen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob schon Minerva selbst/ vor seinem mund’ erbleicht:</l>
+            <l>Ob Phoebus jhm die Leyer; die wage Themis reicht;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist seiner freundtligkeit do</l>
+            <l>Er ists der mir viel </l>
+            <l>Er ists/ der mich nicht nur ins Angesicht gepreiß't/ </l>
+            <l>Wen könt ich dir wol sonst zum Freund vnd Richter setzen. </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

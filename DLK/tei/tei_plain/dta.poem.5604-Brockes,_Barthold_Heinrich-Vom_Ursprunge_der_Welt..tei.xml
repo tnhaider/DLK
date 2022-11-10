@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vom Ursprunge der Welt.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">163</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">652</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vom Ursprunge der Welt.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus den zwo Meinungen ist eine zu erlesen:</l>
+            <l>Entweder zog ein würckend weises Wesen</l>
+            <l>Die Welt aus nichts, und gab ihr die Gestalt,</l>
+            <l>Durch ein’ allmächtige Gewalt.</l>
+            <l>Wo nicht; so hat ein Klump, der ungeheuer schwer,</l>
+            <l>Ein Chaos voller Dunckelheit,</l>
+            <l>Vermischet und verwirrt von Ewigkeit,</l>
+            <l>So mancher Schönheit Pracht, von ohngefehr</l>
+            <l>Empfangen und erlangt: Allein,</l>
+            <l>Wer hat den Klumpen doch, wer hat des Chaos Nacht,</l>
+            <l>So von der gänzlichen Natur der Quell soll seyn,</l>
+            <l>Aus dem verwirrten Stand hervorgebracht?</l>
+            <l>Zog er sich selbst heraus? hat er sich selbst geschaffen?</l>
+            <l>Soll er von uns mit einer ew’gen Macht</l>
+            <l>Beschencket und verherrlicht seyn?</l>
+            <l>Nein, die Vernunfft geht dieses nimmer ein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

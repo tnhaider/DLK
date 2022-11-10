@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">8.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">689</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>8.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Volk ist glücklich, des Mannsalter ist durchdrungen</l>
+            <l>Von unveraltenden Jugenderinnerungen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das, immer werdend, nie Gewordenes verliert,</l>
+            <l>Und sich aus eignem Grund stets höher umgebiert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sowie der Einzelne sich auch nur kann verjüngen,</l>
+            <l>Wenn sein Bewußtseyn ruht auf seinen Selbstursprüngen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn er die Ordnung fühlt, in der durch jede Wendung</l>
+            <l>Der Stufen sich sein Gang gesteigert zur Vollendung;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fühlt, daß zur Ordnung selbst gehörten Störungen,</l>
+            <l>Und die Besonnenheit wuchs aus Bethörungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie sich viel Knoten- durch ein Rohr zur Reife drängt,</l>
+            <l>Ein Strom sein Bette durch beschäumte Felsen sprengt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum Himmelspiegel ist zuletzt der Strom geworden,</l>
+            <l>Und würz'gen Markes voll das Rohr an seinen Borden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

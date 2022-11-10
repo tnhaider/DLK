@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hatem .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-6</measure>
+        <measure type="syllables">241</measure>
+        <measure type="tokens">158</measure>
+        <measure type="characters">909</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hatem .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum dass ich dich wieder habe</l>
+            <l>Dich mit Kuss und Liedern labe,</l>
+            <l>Bist du still in dich gekehret;</l>
+            <l>Was beengt? und drückt und störet?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, Suleika, soll ich’s sagen?</l>
+            <l>Statt zu loben möcht’ ich klagen!</l>
+            <l>Sangest sonst nur meine Lieder,</l>
+            <l>Immer neu und immer wieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sollte wohl auch diese loben,</l>
+            <l>Doch sie sind nur eingeschoben;</l>
+            <l>Nicht von Hafis, nicht Nisami,</l>
+            <l>Nicht Saadi, nicht von Dschami.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kenn’ ich doch der Väter Menge,</l>
+            <l>Sylb’ um Sylbe, Klang um Klänge,</l>
+            <l>Im Gedächtniss unverloren;</l>
+            <l>Diese da sind neu geboren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gestern wurden sie gedichtet.</l>
+            <l>Sag hast du dich neu verpflichtet?</l>
+            <l>Hauchest du so froh-verwegen</l>
+            <l>Fremden Athem mir entgegen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der dich eben so belebet,</l>
+            <l>Eben so in Liebe schwebet,</l>
+            <l>Lockend, ladend zum Vereine</l>
+            <l>So harmonisch als der meine.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>War Hatem lange doch entfernt,</l>
+            <l>Das Mädchen hatte was gelernt,</l>
+            <l>Von ihm war sie so schön gelobt,</l>
+            <l>Da hat die Trennung sich erprobt.</l>
+            <l>Wohl dass sie dir nicht fremde scheinen;</l>
+            <l>Sie sind Suleika’s, sind die deinen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

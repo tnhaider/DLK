@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Föhn</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3 5-4 6-4 7-3 8-3</measure>
+        <measure type="syllables">306</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">1112</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1900</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Föhn</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blinde Klage im Wind, mondene Wintertage,</l>
+            <l>Kindheit, leise verhallen die Schritte an schwarzer Hecke,</l>
+            <l>Langes Abendgeläut.</l>
+            <l>Leise kommt die weiße Nacht gezogen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verwandelt in purpurne Träume Schmerz und Plage</l>
+            <l>Des steinigen Lebens,</l>
+            <l>Daß nimmer der dornige Stachel ablasse vom verwesenden Leib.</l>
+            <l>Tief im Schlummer aufseufzt die bange Seele,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tief der Wind in zerbrochenen Bäumen,</l>
+            <l>Und es schwankt die Klagegestalt</l>
+            <l>Der Mutter durch den einsamen Wald</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieser schweigenden Trauer; Nächte,</l>
+            <l>Erfüllt von Tränen, feurigen Engeln.</l>
+            <l>Silbern zerschellt an kahler Mauer ein kindlich Gerippe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blinde Klage im Wind, mondene Wintertage,</l>
+            <l>Kindheit, leise verhallen die Schritte an schwarzer Hecke,</l>
+            <l>Langes Abendgeläut.</l>
+            <l>Leise kommt die weiße Nacht gezogen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verwandelt in purpurne Träume Schmerz und Plage</l>
+            <l>Des steinigen Lebens,</l>
+            <l>Daß nimmer der dornige Stachel ablasse vom verwesenden Leib.</l>
+            <l>Tief im Schlummer aufseufzt die bange Seele,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tief der Wind in zerbrochenen Bäumen,</l>
+            <l>Und es schwankt die Klagegestalt</l>
+            <l>Der Mutter durch den einsamen Wald</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieser schweigenden Trauer; Nächte,</l>
+            <l>Erfüllt von Tränen, feurigen Engeln.</l>
+            <l>Silbern zerschellt an kahler Mauer ein kindlich Gerippe.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

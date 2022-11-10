@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Erinnern</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">790</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1785</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Erinnern</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel, viel sind meiner Tage</l>
+            <l>Durch Sünd entweiht gesunken hinab.</l>
+            <l>O, großer Richter, frage</l>
+            <l>Nicht wie, o lasse ihr Grab</l>
+            <l>Erbarmende Vergessenheit,</l>
+            <l>Laß, Vater der Barmherzigkeit,</l>
+            <l>Das Blut des Sohns es decken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach wenig sind der Tage</l>
+            <l>Mit Frömmigkeit gekrönt entflohn,</l>
+            <l>Sie sinds, mein Engel, trage</l>
+            <l>Sie vor des Ewigen Thron,</l>
+            <l>Laß schimmern die geringe Zahl,</l>
+            <l>Daß einsten mich des Richters Wahl</l>
+            <l>Zu seinen Frommen zähle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel, viel sind meiner Tage</l>
+            <l>Durch Sünd entweiht gesunken hinab.</l>
+            <l>O, großer Richter, frage</l>
+            <l>Nicht wie, o lasse ihr Grab</l>
+            <l>Erbarmende Vergessenheit,</l>
+            <l>Laß, Vater der Barmherzigkeit,</l>
+            <l>Das Blut des Sohns es decken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach wenig sind der Tage</l>
+            <l>Mit Frömmigkeit gekrönt entflohn,</l>
+            <l>Sie sinds, mein Engel, trage</l>
+            <l>Sie vor des Ewigen Thron,</l>
+            <l>Laß schimmern die geringe Zahl,</l>
+            <l>Daß einsten mich des Richters Wahl</l>
+            <l>Zu seinen Frommen zähle.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

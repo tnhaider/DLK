@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Jungfrau Sieglinde .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">49</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7 6-7 7-7</measure>
+        <measure type="syllables">329</measure>
+        <measure type="tokens">227</measure>
+        <measure type="characters">1264</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Jungfrau Sieglinde .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das war Jungfrau Sieglinde,</l>
+            <l>Die wollte früh aufstehn,</l>
+            <l>Mit ihrem Hofgesinde</l>
+            <l>Zum Frauenmünster gehn.</l>
+            <l>Sie ging in Gold und Seide,</l>
+            <l>Mit Blumen und Geschmeide,</l>
+            <l>Das ward zu großem Leide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es stehn drei Lindenbäume</l>
+            <l>Wohl vor der Kirchenpfort’;</l>
+            <l>Da saß der edle Heime,</l>
+            <l>Der sprach viel leise Wort’:</l>
+            <l>„was Gold, was Edelsteine!</l>
+            <l>Hätt’ ich der Blumen eine</l>
+            <l>Aus deinem Kranz, du Feine!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So sprach der Jüngling leise,</l>
+            <l>Da trieb der Wind sein Spiel,</l>
+            <l>Daß aus der Blumen Kreise</l>
+            <l>Die schönste Rose fiel.</l>
+            <l>Herr Heime thät sich bücken,</l>
+            <l>Die Rose wegzupflücken,</l>
+            <l>Damit wollt’ er sich schmücken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da war ein alter Ritter</l>
+            <l>In Siegelindens Chor,</l>
+            <l>Dem war es leid und bitter,</l>
+            <l>Gar zornig trat er vor:</l>
+            <l>„muß ich dich Hofzucht lehren?</l>
+            <l>Darfst du vom Kranz der Ehren</l>
+            <l>Ein Läublein nur begehren?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O weh dem Garten immer,</l>
+            <l>Der solche Rosen bracht’!</l>
+            <l>O Heil den Linden nimmer,</l>
+            <l>Wo solcher Streit erwacht!</l>
+            <l>Wie klangen da die Degen,</l>
+            <l>Bis unter wilden Schlägen</l>
+            <l>Der Jüngling todt erlegen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieglinde beugt’ sich nieder</l>
+            <l>Und nahm die Ros’ empor,</l>
+            <l>Steckt’ in den Kranz sie wieder,</l>
+            <l>Und ging zur Kirche vor.</l>
+            <l>Sie ging in Gold und Seide,</l>
+            <l>Mit Blumen und Geschmeide,</l>
+            <l>Wer thät ihr was zu Leide?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vor Sankt Mariens Bilde</l>
+            <l>Nahm sie herab die Kron’:</l>
+            <l>„nimm du sie, Reine, Milde!</l>
+            <l>Kein Blümlein kam davon.</l>
+            <l>Der Welt will ich entsagen,</l>
+            <l>Den heil’gen Schleier tragen</l>
+            <l>Und um die Todten klagen.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

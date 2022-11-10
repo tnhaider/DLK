@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Siebendes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">548</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Siebendes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Staats-Kunst ruhte nicht, sie hob ein Buch empor,</l>
+            <l>Und kam uns, ihren Zorn mit List verbergend, vor.</l>
+            <l>Indem sie theils entflammt, theils freundlich wiedersezte:</l>
+            <l>„dieß ist das Buch, worein ich meinen Rathschlag ezte.</l>
+            <l>145(Sie schlug, indem sie sprach, ein, zwey Mahl auf das Buch)</l>
+            <l>„hierinnen findet ihr der Frage Schluß und Spruch!</l>
+            <l>„hierinnen steht die Macht, das Trieb-Werck aufgeschrieben,</l>
+            <l>„durch welches man des Feinds Bestreben aufgerieben.</l>
+            <l>„dieß ist das Staats-Gesez, der Kriegs- und Friedens-Schild,</l>
+            <l>150”Den ich der Königinn im Streit vor Augen hielt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

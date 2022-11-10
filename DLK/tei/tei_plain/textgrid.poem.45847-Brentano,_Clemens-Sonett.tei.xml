@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonett</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3 5-4 6-4 7-3 8-3</measure>
+        <measure type="syllables">308</measure>
+        <measure type="tokens">198</measure>
+        <measure type="characters">1138</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1800</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonett</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es saß ein Kind ganz still zu meinen Füßen,</l>
+            <l>Und spielte froh mit freundlichen Gedanken,</l>
+            <l>Es blickt mich an, bis ihm die Blicke sanken,</l>
+            <l>Und goldne ferne Lande sich erschließen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von allen Seiten dringt ein süßes Grüßen,</l>
+            <l>Das alte Leben muß nun abwärts wanken,</l>
+            <l>Daß neue frohe Zweige grün umranken</l>
+            <l>Und rund umher ihm zarte Blumen sprießen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Kind erwacht, und fraget mich mit Bangen,</l>
+            <l>Ob andern wohl ein solcher Traum gelinge,</l>
+            <l>Ob ich's allein mit Zauberei umfangen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß dankbar es die Arme um mich schlinge.</l>
+            <l>Da rötet mir Verwunderung die Wangen</l>
+            <l>Woher das Kind die kühne Frag' erschwinge.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es saß ein Kind ganz still zu meinen Füßen,</l>
+            <l>Und spielte froh mit freundlichen Gedanken,</l>
+            <l>Es blickt mich an, bis ihm die Blicke sanken,</l>
+            <l>Und goldne ferne Lande sich erschließen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von allen Seiten dringt ein süßes Grüßen,</l>
+            <l>Das alte Leben muß nun abwärts wanken,</l>
+            <l>Daß neue frohe Zweige grün umranken</l>
+            <l>Und rund umher ihm zarte Blumen sprießen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Kind erwacht, und fraget mich mit Bangen,</l>
+            <l>Ob andern wohl ein solcher Traum gelinge,</l>
+            <l>Ob ich's allein mit Zauberei umfangen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß dankbar es die Arme um mich schlinge.</l>
+            <l>Da rötet mir Verwunderung die Wangen</l>
+            <l>Woher das Kind die kühne Frag' erschwinge.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

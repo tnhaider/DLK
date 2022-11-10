@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Trüb' umdämmerte Gluth war meine Seele;</title>
+        <author>
+          <persName>
+            <surname>Matthisson</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-3 3-4 4-3</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">454</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1794</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Trüb' umdämmerte Gluth war meine Seele;</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Trüb' umdämmerte Gluth war meine Seele;</l>
+            <l>Eine Flamme vom Himmel, rein, wie Hespers</l>
+            <l>Aetherfeuer im Spätroth, war die beßre</l>
+            <l>Seele des Mädchens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch der Erde bewölkte Gluth verklärte</l>
+            <l>Sich im Feuer des Himmels. Ewig lodern</l>
+            <l>Heilige Liebe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Trüb' umdämmerte Gluth war meine Seele;</l>
+            <l>Eine Flamme vom Himmel, rein, wie Hespers</l>
+            <l>Aetherfeuer im Spätroth, war die beßre</l>
+            <l>Seele des Mädchens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch der Erde bewölkte Gluth verklärte</l>
+            <l>Sich im Feuer des Himmels. Ewig lodern</l>
+            <l>Heilige Liebe!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

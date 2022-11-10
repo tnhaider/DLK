@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Einfluß der Witterung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">161</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">626</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Einfluß der Witterung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann der Himmel aufgekläret, und der Sonnen helle</l>
+            <l>Glut</l>
+            <l>Alle Vorwürff’ übergüldet; wann das Heer der Winde</l>
+            <l>ruht;</l>
+            <l>Deucht mich, daß bey dieser Stille, bey dem allgemeinen</l>
+            <l>Schein,</l>
+            <l>Da, in süssem Gleich-Gewicht, Lufft und Erd’ und Fluth sich</l>
+            <l>schmücken,</l>
+            <l>Wir zu zärtlichen Gedancken, etwas lieblichs auszudrücken,</l>
+            <l>Und was schönes zu beschreiben, besser aufgeräumet seyn.</l>
+            <l>Wann hingegen dunckle Wolcken, oder Wind, die Lüfte</l>
+            <l>füllen,</l>
+            <l>Und der Schönheit Quell, die Sonne, durch geschwärtzten</l>
+            <l>Dufft verhüllen;</l>
+            <l>Deucht mich, daß zu ernsten Lehren,</l>
+            <l>Auch die Wirckung der Natur zu versuchen, zu erklären,</l>
+            <l>Unsre Seelen-Kräffte fast fähig- und geschickter wären.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

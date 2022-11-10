@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">LxV.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">11</measure>
+        <measure type="verses">44</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4 9-4 10-4 11-4</measure>
+        <measure type="syllables">288</measure>
+        <measure type="tokens">214</measure>
+        <measure type="characters">1217</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>LxV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nacht lag auf meinen Augen,</l>
+            <l>Blei lag auf meinem Mund,</l>
+            <l>Mit starrem Hirn und Herzen</l>
+            <l>Lag ich in Grabesgrund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie lang kann ich nicht sagen,</l>
+            <l>Daß ich geschlafen hab';</l>
+            <l>Ich wachte auf und hörte</l>
+            <l>Wie's pochte an mein Grab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„willst du nicht aufstehn, Heinrich?</l>
+            <l>Der ew'ge Tag bricht an,</l>
+            <l>Die Todten sind erstanden,</l>
+            <l>Die ew'ge Lust begann.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Lieb, ich kann nicht aufstehn,</l>
+            <l>Bin ja noch immer blind;</l>
+            <l>Durch Weinen meine Augen</l>
+            <l>Gänzlich erloschen sind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich will dir küssen, Heinrich,</l>
+            <l>Vom Auge fort die Nacht;</l>
+            <l>Die Engel sollst du schauen,</l>
+            <l>Und auch des Himmels Pracht.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Lieb ich kann nicht aufstehn,</l>
+            <l>Noch blutet's immerfort,</l>
+            <l>Wo du in's Herz mir stachest</l>
+            <l>Mit einem spitz'gen Wort'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ganz leise leg' ich, Heinrich,</l>
+            <l>Dir meine Hand auf's Herz;</l>
+            <l>Dann wird es nicht mehr bluten,</l>
+            <l>Geheilt ist all sein Schmerz.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Lieb, ich kann nicht aufstehn,</l>
+            <l>Es blutet auch mein Haupt;</l>
+            <l>Hab' ja hinein geschossen,</l>
+            <l>Als du mir wurdest geraubt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„mit meinen Locken, Heinrich,</l>
+            <l>Stopf' ich des Hauptes Wund',</l>
+            <l>Und dräng' zurück den Blutstrom,</l>
+            <l>Und mache dein Haupt gesund.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bat so sanft, so lieblich,</l>
+            <l>Ich konnt' nicht widerstehn;</l>
+            <l>Ich wollte mich erheben,</l>
+            <l>Und zu der Liebsten gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da brachen auf die Wunden,</l>
+            <l>Da stürzt' mit wilder Macht</l>
+            <l>Aus Kopf und Brust der Blutstrom,</l>
+            <l>Und sieh! — ich bin erwacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

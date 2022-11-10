@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gute Lehre</title>
+        <author>
+          <persName>
+            <surname>Arnim</surname>
+            <forename>Ludwig Achim von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-4 4-5 5-4 6-4</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">702</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gute Lehre</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Grad Herz brich nicht,</l>
+            <l>Lieb mich und sags nicht,</l>
+            <l>Liebst du mich,</l>
+            <l>Wie ich dich,</l>
+            <l>Bleibt die Lieb beständiglich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schönste Rose fall nicht ab,</l>
+            <l>Bis ich komm und brech dich ab;</l>
+            <l>Wenn mich schon die Dornen stechen,</l>
+            <l>Will ich doch die Ros' abbrechen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer die Rosen will abbrechen,</l>
+            <l>Muß nicht achten der Dornen Stechen;</l>
+            <l>Rosendornen stechen sehr,</l>
+            <l>Falsche Liebe noch viel mehr!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Grad Herz brich nicht,</l>
+            <l>Lieb mich und sags nicht,</l>
+            <l>Liebst du mich,</l>
+            <l>Wie ich dich,</l>
+            <l>Bleibt die Lieb beständiglich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schönste Rose fall nicht ab,</l>
+            <l>Bis ich komm und brech dich ab;</l>
+            <l>Wenn mich schon die Dornen stechen,</l>
+            <l>Will ich doch die Ros' abbrechen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer die Rosen will abbrechen,</l>
+            <l>Muß nicht achten der Dornen Stechen;</l>
+            <l>Rosendornen stechen sehr,</l>
+            <l>Falsche Liebe noch viel mehr!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

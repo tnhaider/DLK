@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An meinen Arzt,</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">157</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">633</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An meinen Arzt,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe! da stünd' ich wieder auf meinen Füßen! und blicke</l>
+            <l>Froh erstaunt in die Welt, die mir im Rücken schön</l>
+            <l>Aber ich spreche von Danke dir nicht: du liesest ihn besser</l>
+            <l>Mir im Auge, du fühlst hier ihn im Drucke der Hand.</l>
+            <l>— Ich glückseliger Thor, daß ich meine, du solltest ver-</l>
+            <l>Ueber dich selber seyn, oder gerührt, so wie ich!</l>
+            <l>Doch daran erkennen wir dich! — Den schwindelnden</l>
+            <l>Herrlich meisternd fährt ruhig der Schiffer an's Land,</l>
+            <l>Wirft in den Kahn das Ruder, das, ach! so Viele ge-</l>
+            <l>Laut aufjauchzen sie ihm, aber er achtet es kaum,</l>
+            <l>Kettet das Schiff an den Pflock; und Abends sizt er beim</l>
+            <l>Wie ein anderer Mann, füllet sein Pfeifchen und ruht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

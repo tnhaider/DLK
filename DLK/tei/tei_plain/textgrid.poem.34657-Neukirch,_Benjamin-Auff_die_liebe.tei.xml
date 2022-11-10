@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auff die liebe</title>
+        <author>
+          <persName>
+            <surname>Neukirch</surname>
+            <forename>Benjamin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">98</measure>
+        <measure type="tokens">64</measure>
+        <measure type="characters">390</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auff die liebe</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! was wird durch Amors hand</l>
+            <l>Nicht auff erden ausgericht?</l>
+            <l>Man vergißt das vaterland/</l>
+            <l>Aber seine liebste nicht.</l>
+            <l>Man verlässet hoff und hauß/</l>
+            <l>Man versäumet freund und schmauß/</l>
+            <l>Aber seine liebste nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! was wird durch Amors hand</l>
+            <l>Nicht auff erden ausgericht?</l>
+            <l>Man vergißt das vaterland/</l>
+            <l>Aber seine liebste nicht.</l>
+            <l>Man verlässet hoff und hauß/</l>
+            <l>Man versäumet freund und schmauß/</l>
+            <l>Aber seine liebste nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

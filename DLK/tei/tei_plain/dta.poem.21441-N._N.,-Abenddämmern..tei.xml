@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abenddämmern.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">109</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">432</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abenddämmern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Abenddämmern trüb und fahl,</l>
+            <l>Tiefe Stille webt im Thal.</l>
+            <l>Schleier rings die Berge kränzt,</l>
+            <l>Selten nur ein Stern erglänzt.</l>
+            <l>Wellen zieh’n und Winde rauschen,</l>
+            <l>Träumend neig’ ich mich, zu lauschen</l>
+            <l>Und mir dünkt, daß Höh’n und Tiefen</l>
+            <l>Und die Wälder all’ mich riefen.</l>
+            <l>Unbegreiflich Heimathsehnen —</l>
+            <l>Strömt hervor mir heiße Thränen.</l>
+            <l>Seele möcht’ den Leib’ verlassen,</l>
+            <l>Möchte gern ein Ewiges fassen:</l>
+            <l>Das in süßem Friedgewähren</l>
+            <l>Sie entrückt in holde Sphären …</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

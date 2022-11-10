@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Du willst es nicht in Worten sagen.</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">161</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">646</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1852</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196098"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Du willst es nicht in Worten sagen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch legst du's brennend Mund auf Mund,</l>
+            <l>Und deiner Pulse tiefes Schlagen</l>
+            <l>Thut liebliches Geheimniß kund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du fliehst vor mir, du scheue Taube,</l>
+            <l>Und drückst dich fest an meine Brust;</l>
+            <l>Du bist der Liebe schon zum Raube,</l>
+            <l>Und bist dir kaum des Worts bewußt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du biegst den schlanken Leib mir ferne,</l>
+            <l>Indeß dein rother Mund mich küßt;</l>
+            <l>Behalten möchtest du dich gerne,</l>
+            <l>Da du doch ganz verloren bist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du fühlst, wir können nicht verzichten;</l>
+            <l>Warum zu geben scheust du noch?</l>
+            <l>Du mußt die ganze Schuld entrichten,</l>
+            <l>Du mußt, gewiß, du mußt es doch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Sehnen halb und halb in Bangen,</l>
+            <l>Am Ende rinnt die Schaale voll;</l>
+            <l>Die holde Schaam ist nur empfangen,</l>
+            <l>Daß sie in Liebe sterben soll.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

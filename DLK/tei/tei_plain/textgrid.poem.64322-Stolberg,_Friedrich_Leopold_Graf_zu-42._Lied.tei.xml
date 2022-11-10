@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">42. Lied</title>
+        <author>
+          <persName>
+            <surname>Stolberg</surname>
+            <forename>Friedrich Leopold Graf zu</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">700</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1775</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>42. Lied</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! mir ist das Herz so schwer!</l>
+            <l>Traurig irr' ich hin und her,</l>
+            <l>Suche Ruh, und finde keine,</l>
+            <l>Geh ans Fenster hin, und weine!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Säßest du auf meinem Schoß</l>
+            <l>Würd' ich aller Sorgen los,</l>
+            <l>Und aus deinen blauen Augen</l>
+            <l>Würd' ich Lieb' und Wonne saugen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Könnt' ich doch, du süßes Kind,</l>
+            <l>Fliegen hin zu dir geschwind!</l>
+            <l>Könnt' ich ewig dich umfangen,</l>
+            <l>Und an deinen Lippen hangen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! mir ist das Herz so schwer!</l>
+            <l>Traurig irr' ich hin und her,</l>
+            <l>Suche Ruh, und finde keine,</l>
+            <l>Geh ans Fenster hin, und weine!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Säßest du auf meinem Schoß</l>
+            <l>Würd' ich aller Sorgen los,</l>
+            <l>Und aus deinen blauen Augen</l>
+            <l>Würd' ich Lieb' und Wonne saugen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Könnt' ich doch, du süßes Kind,</l>
+            <l>Fliegen hin zu dir geschwind!</l>
+            <l>Könnt' ich ewig dich umfangen,</l>
+            <l>Und an deinen Lippen hangen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

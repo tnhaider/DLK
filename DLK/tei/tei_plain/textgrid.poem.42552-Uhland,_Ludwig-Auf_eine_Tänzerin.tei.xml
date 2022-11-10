@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf eine Tänzerin</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">796</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1825</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf eine Tänzerin</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du den leichten Reigen führest,</l>
+            <l>Wenn du den Boden kaum berührest,</l>
+            <l>Hinschwebend in der Jugend Glanz:</l>
+            <l>In jedem Aug ist dann zu lesen,</l>
+            <l>Du seiest nicht ein irdisch Wesen,</l>
+            <l>Du seiest Äther, Seele ganz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir aber grauet: wenn nach oben</l>
+            <l>Du würdest plötzlich nun enthoben,</l>
+            <l>Wie wärest, Seele, du bereit? –</l>
+            <l>Wohlan! der sich auf Blumen schaukelt,</l>
+            <l>Der Schmetterling, der ewig gaukelt,</l>
+            <l>Ist Sinnbild der Unsterblichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du den leichten Reigen führest,</l>
+            <l>Wenn du den Boden kaum berührest,</l>
+            <l>Hinschwebend in der Jugend Glanz:</l>
+            <l>In jedem Aug ist dann zu lesen,</l>
+            <l>Du seiest nicht ein irdisch Wesen,</l>
+            <l>Du seiest Äther, Seele ganz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir aber grauet: wenn nach oben</l>
+            <l>Du würdest plötzlich nun enthoben,</l>
+            <l>Wie wärest, Seele, du bereit? –</l>
+            <l>Wohlan! der sich auf Blumen schaukelt,</l>
+            <l>Der Schmetterling, der ewig gaukelt,</l>
+            <l>Ist Sinnbild der Unsterblichkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

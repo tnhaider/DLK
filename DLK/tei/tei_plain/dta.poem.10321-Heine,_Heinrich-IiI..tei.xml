@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">IiI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>IiI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im nächt'gen Traum hab' ich mich selbst geschaut,</l>
+            <l>Im schwarzen Gallafrack und seidner Weste,</l>
+            <l>Manschetten an der Hand, als ging's zum Feste,</l>
+            <l>Und vor mir stand mein Liebchen, süß und traut.</l>
+            <l>Ich beugte mich und sagte: „Sind Sie Braut?</l>
+            <l>Ei! ei! so gratulir' ich, meine Beste!“</l>
+            <l>Doch fast die Kehle mir zusammenpreste</l>
+            <l>Der langgezog'ne, vornehm kalte Laut.</l>
+            <l>Und bitt're Thränen plötzlich sich ergossen</l>
+            <l>Aus Liebchens Augen, und in Thränenwogen</l>
+            <l>Ist mir das holde Bildniß fast zerflossen.</l>
+            <l>O süße Augen, fromme Liebessterne,</l>
+            <l>Obschon ihr mir im Wachen oft gelogen,</l>
+            <l>Und auch im Traum, glaub' ich euch dennoch gerne!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

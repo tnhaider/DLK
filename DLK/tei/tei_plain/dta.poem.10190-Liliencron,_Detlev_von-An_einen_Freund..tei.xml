@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An einen Freund.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">848</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An einen Freund.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch seh' ich deine schwermutsvollen Augen,             </l>
+            <l>Dein blaß Gesichtchen und den herben Zug,</l>
+            <l>Den deine Lippen auch als Mann behielten.</l>
+            <l>Wir hatten, Knaben, in die Waldesschatten</l>
+            <l>Uns scheu zurückgezogen von den Spielen,</l>
+            <l>Und sprachen wichtig über Welt und Menschen.</l>
+            <l>Ich fühle noch das Grau’n, als erste Zweifel</l>
+            <l>Uns kamen über Gott — Unsterblichkeit,</l>
+            <l>Uns unerklärlich Schauer überliefen,</l>
+            <l>Wenn wir der Liebe Sphinx zu deuten suchten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es floß der Waldbach plätschernd uns zu Füßen,</l>
+            <l>Der Buchfink trillerte, die Drossel pfiff,</l>
+            <l>Und stieß der Falke seinen kurzen Schrei</l>
+            <l>In all’ die Stille, flogen wir zusammen.</l>
+            <l>Wie viele Jahre sind seitdem vorüber.</l>
+            <l>Du stehst im Leben aufrecht, und des Weges</l>
+            <l>Gehst wohlbewußt du, klar, und ohne Schwanken.</l>
+            <l>Doch denkst du noch zurück an jene Stunden,</l>
+            <l>Wenn Buchenkronen dir zu Häupten rauschen,</l>
+            <l>Und hoch am Himmel schrill der Falke schreit?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

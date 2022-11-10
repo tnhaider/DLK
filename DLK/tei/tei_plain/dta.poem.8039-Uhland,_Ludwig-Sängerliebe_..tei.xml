@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sängerliebe .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">494</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sängerliebe .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seit der hohe Gott der Lieder</l>
+            <l>Mußt’ in Liebesschmerz erbleichen,</l>
+            <l>Seit der Lorbeer seiner Schläfe</l>
+            <l>Unglücksel’ger Liebe Zeichen:</l>
+            <l>Wundert’s wen daß ird’schen Sängern,</l>
+            <l>Die dasselbe Zeichen kranzet,</l>
+            <l>Selten in der Liebe Leben</l>
+            <l>Ein beglückter Stern erglänzet?</l>
+            <l>Daß sie ernst und düster blicken,</l>
+            <l>Ihre Saiten traurig tönen,</l>
+            <l>Daß von Lust sie wenig singen,</l>
+            <l>Aber viel von Schmerz und Sehnen?</l>
+            <l>Sängerliebe, tief und schmerzlich,</l>
+            <l>Laßt euch denn in ernsten Bildern</l>
+            <l>Aus den Tagen des Gesanges,</l>
+            <l>Aus der Zeit der Minne, schildern!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

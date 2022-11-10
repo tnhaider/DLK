@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Einem Knaben .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">272</measure>
+        <measure type="tokens">185</measure>
+        <measure type="characters">1061</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Einem Knaben .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was trauerst du, mein schöner Junge?</l>
+            <l>Du Armer, sprich, was weinst du so?</l>
+            <l>Daß treulos dir im raschen Schwunge</l>
+            <l>Dein liebes Vögelein entfloh?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du blickest bald in deiner Trauer</l>
+            <l>Hinüber dort nach jenem Baum,</l>
+            <l>Bald wieder nach dem leeren Bauer</l>
+            <l>Blickst du in deinem Kindestraum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du legst so schlaff die kleinen Hände</l>
+            <l>An deines Lieblings ödes Haus;</l>
+            <l>Und prüfest rings die Sprossenwände,</l>
+            <l>Und fragst: „wie kam er nur hinaus?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An jenem Baume hörst du singen</l>
+            <l>Den Fernen, den dein Herz verlor,</l>
+            <l>Und unaufhaltsam eilig dringen</l>
+            <l>Die heißen Thränen dir hervor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gib acht, gib acht, o lieber Knabe,</l>
+            <l>Daß du nicht dastehst traurend einst,</l>
+            <l>Und um die beste, schönste Habe</l>
+            <l>Des Menschenlebens bitter weinst!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß du die Hand, die sturmerprobte,</l>
+            <l>Nicht legst, ein Mann an deine Brust,</l>
+            <l>Darin so mancher Schmerz dir tobte,</l>
+            <l>Dir säuselte so manche Lust;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß du die Hand in wildem Krampfe</l>
+            <l>Nicht drückst in deinen Busen ein,</l>
+            <l>Aus dem die Unschuld dir im Kampfe</l>
+            <l>Entflohn, das scheue Vögelein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann hörst du flüstern ihre leisen</l>
+            <l>Gesänge aus der Ferne her;</l>
+            <l>Neigst hin dich nach den süßen Weisen;</l>
+            <l>Das Vöglein aber kehrt nicht mehr! —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

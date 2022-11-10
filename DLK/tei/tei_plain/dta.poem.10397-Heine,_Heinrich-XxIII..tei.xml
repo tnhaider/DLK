@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxIII.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">500</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxIII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum sind denn die Rosen so blaß,</l>
+            <l>O sprich, mein Lieb, warum?</l>
+            <l>Warum sind denn im grünen Gras</l>
+            <l>Die blauen Veilchen so stumm?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum singt denn mit so kläglichem Laut</l>
+            <l>Die Lerche in der Luft?</l>
+            <l>Warum steigt denn aus dem Balsamkraut</l>
+            <l>Hervor ein Leichenduft?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum scheint denn die Sonn' auf die Au'</l>
+            <l>So kalt und verdrießlich herab?</l>
+            <l>Warum ist denn die Erde so grau</l>
+            <l>Und öde wie ein Grab?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum bin ich selbst so krank und so trüb',</l>
+            <l>Mein liebes Liebchen, sprich?</l>
+            <l>O sprich, mein herzallerliebstes Lieb,</l>
+            <l>Warum verließest du mich?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

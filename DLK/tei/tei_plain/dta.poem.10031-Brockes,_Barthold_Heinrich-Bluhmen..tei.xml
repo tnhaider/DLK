@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Bluhmen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">165</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">693</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Bluhmen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>A. Es währt der Bluhmen Zier ja nur so kurtze Zeit;</l>
+            <l>Und dennoch wird derselben Pracht</l>
+            <l>Uns alle Nacht</l>
+            <l>Geraubt, und können wir an ihnen das, was schön,</l>
+            <l>Die halbe Zeit von ihrer Daur, nicht sehn.</l>
+            <l>Mich deucht es scheint hieraus zu fliessen,</l>
+            <l>Daß sie für uns nicht, wie man glaubt, gemacht.</l>
+            <l>Wie, nach des Winters Sturm und rauhem Frost im Lentzen</l>
+            <l>Die Vorwürff’ alle schöner gläntzen;</l>
+            <l>Und wie, wenn unsre Lust uns die Gewohnheit stöhrt,</l>
+            <l>Der Wechsel sie uns wieder schencket,</l>
+            <l>Sie schmacksam macht, und noch vermehrt;</l>
+            <l>So deucht mich, wenn die Nacht sich zu uns lencket,</l>
+            <l>Daß es nur bloß zu diesem Zweck geschehe,</l>
+            <l>Damit man, mit noch grössrer Wonne,</l>
+            <l>Bey heller Wiederkunft der Sonne,</l>
+            <l>Sie, nach dem scheiden, wieder sehe.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

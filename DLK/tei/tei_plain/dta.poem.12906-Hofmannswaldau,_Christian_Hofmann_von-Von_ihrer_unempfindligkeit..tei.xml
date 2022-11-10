@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von ihrer unempfindligkeit.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-6</measure>
+        <measure type="syllables">58</measure>
+        <measure type="tokens">43</measure>
+        <measure type="characters">242</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von ihrer unempfindligkeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Belebter schnee der schönen brust!</l>
+            <l>Verliebter augen zweck und lust!</l>
+            <l>Es scheint, daß die natur dich so wol haßt als liebet,</l>
+            <l>Weil sie, so groß sie auch die pracht</l>
+            <l>Von deinen schönen bergen macht,</l>
+            <l>Dir dennoch einen stein an statt des hertzens giebet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

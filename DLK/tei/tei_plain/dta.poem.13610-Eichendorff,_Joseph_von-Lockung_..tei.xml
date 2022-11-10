@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lockung .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">468</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lockung .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hörst du nicht die Bäume rauschen</l>
+            <l>Draußen durch die stille Rund'?</l>
+            <l>Lockt's dich nicht hinabzulauschen</l>
+            <l>Von dem Söller in den Grund,</l>
+            <l>Wo die vielen Bäche gehen</l>
+            <l>Wunderbar im Mondenschein</l>
+            <l>Und die stillen Schlösser sehen</l>
+            <l>In den Fluß vom hohen Stein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kennst du noch die irren Lieder</l>
+            <l>Aus der alten schönen Zeit?</l>
+            <l>Sie erwachen alle wieder</l>
+            <l>Nachts in Waldeseinsamkeit,</l>
+            <l>Wenn die Bäume träumend lauschen</l>
+            <l>Und der Flieder duftet schwül</l>
+            <l>Und im Fluß die Nixen rauschen —</l>
+            <l>Komm herab, hier ist's so kühl.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

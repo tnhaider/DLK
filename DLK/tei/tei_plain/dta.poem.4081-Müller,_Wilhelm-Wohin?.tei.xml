@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wohin?</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">593</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wohin?</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl aus dem Felsenquell,</l>
+            <l>Hinab zum Thale rauschen</l>
+            <l>So frisch und wunderhell.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, wie mir wurde,</l>
+            <l>Nicht, wer den Rath mir gab,</l>
+            <l>Ich mußte auch hinunter</l>
+            <l>Mit meinem Wanderstab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hinunter und immer weiter,</l>
+            <l>Und immer dem Bache nach,</l>
+            <l>Und immer heller rauschte</l>
+            <l>Und immer heller der Bach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist das denn meine Straße?</l>
+            <l>O Bächlein, sprich, wohin?</l>
+            <l>Du hast mit deinem Rauschen</l>
+            <l>Mir ganz berauscht den Sinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was sag' ich denn von Rauschen?</l>
+            <l>Das kann kein Rauschen sein:</l>
+            <l>Es singen wohl die Nixen</l>
+            <l>Tief unten ihren Reihn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß singen, Gesell, laß rauschen,</l>
+            <l>Und wandre fröhlich nach!</l>
+            <l>Es gehn ja Mühlenräder</l>
+            <l>In jedem klaren Bach.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

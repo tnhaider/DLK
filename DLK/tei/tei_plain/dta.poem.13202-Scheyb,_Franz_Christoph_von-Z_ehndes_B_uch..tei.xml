@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z ehndes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">250</measure>
+        <measure type="tokens">184</measure>
+        <measure type="characters">1062</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z ehndes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„nichts leg’ ich meinem Wiz, nichts meiner Einsicht bey;</l>
+            <l>„ich weiß, daß alles nur ein Werck des Himmels sey.</l>
+            <l>235”Mich hat er zwar erwählt; von ihm bin ich gekrönet;</l>
+            <l>„mein Alles ist von ihm, und seiner Macht entlehnet.</l>
+            <l>„euch aber hat er mir als Wachten beygesezt,</l>
+            <l>„und solche Fähigkeit in euer Herz geezt,</l>
+            <l>„daß, weil ihr meinen Thron durch Krieg behaupten mußtet,</l>
+            <l>240”Jhr jene Kraft, die GOtt euch gab, zu brauchen wußtet.</l>
+            <l>„durch Krieg, sag’ ich, von dem die Vorwelt keine Spuhr</l>
+            <l>„viel weniger die Last und Gräßlichkeit erfuhr;</l>
+            <l>„durch Krieg, mit welchem uns so Freund’ als Feind’ umrungen,</l>
+            <l>„in dem wir doch mit Glück und Sieg die Fahnen schwungen.</l>
+            <l>245”Mit einem Wort: es ist kein Kriegs-Heer, sondern GOtt</l>
+            <l>„der mich durch euch, und euch durch mich von dieser Noth,</l>
+            <l>„von meiner Feinde Groll, von Sturz und Fall gerettet;</l>
+            <l>„er ists, den ich um Rath und Beystand angebettet.</l>
+            <l>„ja! GOtt ists, welcher mich zum Werckzeug ausersehn,</l>
+            <l>250”Durch welchen Land und Leut' in Heil und Wohlfart stehn.</l>
+            <l>„euch aber hat er mir zu meinem Rath gegeben:</l>
+            <l>„dieß ists, wodurch wir nun in der Errettung leben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

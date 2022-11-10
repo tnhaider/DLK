@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Geologisch</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">726</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1858</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Geologisch</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Euer geschmolzener Erdkern</l>
+            <l>Ist etwa wohl auch von der Wahrheit fern.</l>
+            <l>Wie scheinbar Grund und Folge seien,</l>
+            <l>Sollte wohl Frucht und frohes Gedeihen,</l>
+            <l>Das Leben mit all seiner Angehörung</l>
+            <l>Abhängen vom Reste frührer Zerstörung?</l>
+            <l>So daß, wenn erloschen des Unheils Spur,</l>
+            <l>Mit einem tot die irdsche Natur?</l>
+            <l>Die Erde ist Segen in Schale und Kern,</l>
+            <l>Und Wärme der zeugende Atem des Herrn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Euer geschmolzener Erdkern</l>
+            <l>Ist etwa wohl auch von der Wahrheit fern.</l>
+            <l>Wie scheinbar Grund und Folge seien,</l>
+            <l>Sollte wohl Frucht und frohes Gedeihen,</l>
+            <l>Das Leben mit all seiner Angehörung</l>
+            <l>Abhängen vom Reste frührer Zerstörung?</l>
+            <l>So daß, wenn erloschen des Unheils Spur,</l>
+            <l>Mit einem tot die irdsche Natur?</l>
+            <l>Die Erde ist Segen in Schale und Kern,</l>
+            <l>Und Wärme der zeugende Atem des Herrn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[leb wohl, o Weimar, gutes Land]</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">88</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">372</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[leb wohl, o Weimar, gutes Land]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leb wohl, o Weimar, gutes Land,</l>
+            <l>Die Pferde sind zur Fahrt gespannt,</l>
+            <l>Fort muß ich, heimatwärts.</l>
+            <l>Noch einmal, eh es ganz entschwand,</l>
+            <l>Begrüßt dich winkend diese Hand</l>
+            <l>Und klopfend dieses Herz.</l>
+            <l>...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leb wohl, o Weimar, gutes Land,</l>
+            <l>Die Pferde sind zur Fahrt gespannt,</l>
+            <l>Fort muß ich, heimatwärts.</l>
+            <l>Noch einmal, eh es ganz entschwand,</l>
+            <l>Begrüßt dich winkend diese Hand</l>
+            <l>Und klopfend dieses Herz.</l>
+            <l>...</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

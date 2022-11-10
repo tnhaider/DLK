@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">37.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">672</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>37.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer etwas lernen will, der muß dazu drei Gaben,</l>
+            <l>Von obenher, aus sich, und auch von außen haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Fähigkeit, die Lust und die Gelegenheit;</l>
+            <l>Die drei wo fehlen, kommt ein Lernender nicht weit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum Lernen Fähigkeit muß Gott dir selbst verleihen,</l>
+            <l>Weil in fruchtbarem Grund Fruchtbäume nur gedeihen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Fähigkeit ist todt, wo sie nicht wird zum Triebe;</l>
+            <l>Zum Lernen treiben muß dich eigne Lust und Liebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann muß Gelegenheit von außen zum Besuch</l>
+            <l>Dir kommen in Gestalt von Lehrer oder Buch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fehlt in der Nähe dir Gelegenheit zu lernen,</l>
+            <l>Der Trieb zu lernen wird dich treiben in die Fernen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und jede Fähigkeit ist selbst ihr eigner Trieb;</l>
+            <l>Und also sind sie Eins, die ich als drei beschrieb.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Thierchen ohne Nahmen.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-22</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">580</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Thierchen ohne Nahmen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am zwanzigsten des Maien,</l>
+            <l>An dem du mich, o Doris,</l>
+            <l>Nicht immer küssen woltest,</l>
+            <l>Saß an dem weissen Halse</l>
+            <l>Der freundlichen Filinde</l>
+            <l>Ein kleines schwarzes Thierchen.</l>
+            <l>Ich weiß es nicht zu nennen;</l>
+            <l>Dis weiß ich, daß es hüpfet,</l>
+            <l>Wie Grasepferde hüpfen,</l>
+            <l>Und daß es oft entwischet,</l>
+            <l>Wenn es erzürnte Schönen,</l>
+            <l>Im freien Felde iagen.</l>
+            <l>Ein Kenner der Insekten,</l>
+            <l>Beschrieb mir iüngst das Thierchen.</l>
+            <l>Er sprach: Es wird bei Schönen</l>
+            <l>Geboren und erzogen,</l>
+            <l>Es wohnet bei den Schönen,</l>
+            <l>Und wagt sich nur zu Männern,</l>
+            <l>Wenn sie mit Schönen spielen.</l>
+            <l>Ein solch beglükktes Thierchen</l>
+            <l>Saß an dem weissen Halse</l>
+            <l>Der freundlichen Filinde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

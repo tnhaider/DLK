@@ -1,0 +1,3146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Buch vom mönchischen Leben</title>
+        <author>
+          <persName>
+            <surname>Rilke</surname>
+            <forename>Rainer Maria</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">434</measure>
+        <measure type="verses">2216</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-5 7-5 8-5 9-4 10-5 11-2 12-4 13-8 14-5 15-1 16-4 17-2 18-5 19-5 20-4 21-2 22-2 23-14 24-3 25-11 26-4 27-6 28-4 29-2 30-1 31-4 32-5 33-5 34-4 35-27 36-4 37-3 38-2 39-2 40-3 41-4 42-7 43-5 44-3 45-8 46-1 47-6 48-4 49-2 50-4 51-6 52-8 53-5 54-5 55-3 56-3 57-5 58-8 59-6 60-18 61-4 62-4 63-7 64-4 65-7 66-9 67-3 68-7 69-6 70-2 71-5 72-5 73-4 74-1 75-6 76-4 77-7 78-6 79-5 80-1 81-2 82-5 83-11 84-5 85-9 86-6 87-5 88-12 89-8 90-5 91-6 92-5 93-5 94-8 95-8 96-3 97-3 98-4 99-9 100-5 101-4 102-6 103-1 104-10 105-1 106-5 107-5 108-7 109-6 110-6 111-5 112-5 113-5 114-13 115-5 116-1 117-3 118-4 119-7 120-6 121-7 122-7 123-5 124-6 125-5 126-1 127-5 128-5 129-4 130-6 131-4 132-6 133-5 134-4 135-6 136-6 137-5 138-8 139-4 140-6 141-5 142-6 143-4 144-5 145-5 146-2 147-4 148-9 149-8 150-11 151-9 152-4 153-5 154-5 155-4 156-6 157-7 158-5 159-1 160-4 161-1 162-6 163-1 164-4 165-2 166-5 167-4 168-5 169-5 170-4 171-8 172-1 173-6 174-5 175-6 176-6 177-2 178-2 179-7 180-11 181-5 182-4 183-4 184-4 185-4 186-3 187-3 188-5 189-2 190-1 191-5 192-5 193-8 194-5 195-4 196-5 197-4 198-8 199-4 200-6 201-4 202-6 203-6 204-1 205-6 206-4 207-3 208-3 209-13 210-3 211-2 212-3 213-13 214-9 215-3 216-4 217-2 218-4 219-4 220-4 221-4 222-4 223-5 224-5 225-5 226-4 227-5 228-2 229-4 230-8 231-5 232-1 233-4 234-2 235-5 236-5 237-4 238-2 239-2 240-14 241-3 242-11 243-4 244-6 245-4 246-2 247-1 248-4 249-5 250-5 251-4 252-27 253-4 254-3 255-2 256-2 257-3 258-4 259-7 260-5 261-3 262-8 263-1 264-6 265-4 266-2 267-4 268-6 269-8 270-5 271-5 272-3 273-3 274-5 275-8 276-6 277-18 278-4 279-4 280-7 281-4 282-7 283-9 284-3 285-7 286-6 287-2 288-5 289-5 290-4 291-1 292-6 293-4 294-7 295-6 296-5 297-1 298-2 299-5 300-11 301-5 302-9 303-6 304-5 305-12 306-8 307-5 308-6 309-5 310-5 311-8 312-8 313-3 314-3 315-4 316-9 317-5 318-4 319-6 320-1 321-10 322-1 323-5 324-5 325-7 326-6 327-6 328-5 329-5 330-5 331-13 332-5 333-1 334-3 335-4 336-7 337-6 338-7 339-7 340-5 341-6 342-5 343-1 344-5 345-5 346-4 347-6 348-4 349-6 350-5 351-4 352-6 353-6 354-5 355-8 356-4 357-6 358-5 359-6 360-4 361-5 362-5 363-2 364-4 365-9 366-8 367-11 368-9 369-4 370-5 371-5 372-4 373-6 374-7 375-5 376-1 377-4 378-1 379-6 380-1 381-4 382-2 383-5 384-4 385-5 386-5 387-4 388-8 389-1 390-6 391-5 392-6 393-6 394-2 395-2 396-7 397-11 398-5 399-4 400-4 401-4 402-4 403-3 404-3 405-5 406-2 407-1 408-5 409-5 410-8 411-5 412-4 413-5 414-4 415-8 416-4 417-6 418-4 419-6 420-6 421-1 422-6 423-4 424-3 425-3 426-13 427-3 428-2 429-3 430-13 431-9 432-3 433-4 434-2</measure>
+        <measure type="syllables">19366</measure>
+        <measure type="tokens">13084</measure>
+        <measure type="characters">73584</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1899</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Buch vom mönchischen Leben</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da neigt sich die Stunde und rührt mich an</l>
+            <l>mit klarem, metallenem Schlag:</l>
+            <l>mir zittern die Sinne. Ich fühle: ich kann –</l>
+            <l>und ich fasse den plastischen Tag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts war noch vollendet, eh ich es erschaut,</l>
+            <l>ein jedes Werden stand still.</l>
+            <l>Meine Blicke sind reif, und wie eine Braut</l>
+            <l>kommt jedem das Ding, das er will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts ist mir zu klein und ich lieb es trotzdem</l>
+            <l>und mal es auf Goldgrund und groß,</l>
+            <l>und halte es hoch, und ich weiß nicht wem</l>
+            <l>löst es die Seele los ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lebe mein Leben in wachsenden Ringen,</l>
+            <l>die sich über die Dinge ziehn.</l>
+            <l>Ich werde den letzten vielleicht nicht vollbringen,</l>
+            <l>aber versuchen will ich ihn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kreise um Gott, um den uralten Turm,</l>
+            <l>und ich kreise jahrtausendelang;</l>
+            <l>und ich weiß noch nicht: bin ich ein Falke, ein Sturm</l>
+            <l>oder ein großer Gesang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe viele Brüder in Sutanen</l>
+            <l>im Süden, wo in Klöstern Lorbeer steht.</l>
+            <l>Ich weiß, wie menschlich sie Madonnen planen,</l>
+            <l>und träume oft von jungen Tizianen,</l>
+            <l>durch die der Gott in Gluten geht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wie ich mich auch in mich selber neige:</l>
+            <l>von hundert Wurzeln, welche schweigsam trinken.</l>
+            <l>Nur, daß ich mich aus </l>
+            <l>mehr weiß ich nicht, weil alle meine Zweige</l>
+            <l>tief unten ruhn und nur im Winde winken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir dürfen dich nicht eigenmächtig malen,</l>
+            <l>du Dämmernde, aus der der Morgen stieg.</l>
+            <l>Wir holen aus den alten Farbenschalen</l>
+            <l>die gleichen Striche und die gleichen Strahlen,</l>
+            <l>mit denen dich der Heilige verschwieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir bauen Bilder vor dir auf wie Wände;</l>
+            <l>so daß schon tausend Mauern um dich stehn.</l>
+            <l>Denn dich verhüllen unsre frommen Hände,</l>
+            <l>sooft dich unsre Herzen offen sehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liebe meines Wesens Dunkelstunden,</l>
+            <l>in welchen meine Sinne sich vertiefen;</l>
+            <l>in ihnen hab ich, wie in alten Briefen,</l>
+            <l>mein täglich Leben schon gelebt gefunden</l>
+            <l>und wie Legende weit und überwunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus ihnen kommt mir Wissen, daß ich Raum</l>
+            <l>zu einem zweiten zeitlos breiten Leben habe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und manchmal bin ich wie der Baum,</l>
+            <l>der, reif und rauschend, über einem Grabe</l>
+            <l>(um den sich seine warmen Wurzeln drängen)</l>
+            <l>verlor in Traurigkeiten und Gesängen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du, Nachbar Gott, wenn ich dich manchesmal</l>
+            <l>in langer Nacht mit hartem Klopfen störe, –</l>
+            <l>so ists, weil ich dich selten atmen höre</l>
+            <l>und weiß: Du bist allein im Saal.</l>
+            <l>Und wenn du etwas brauchst, ist keiner da,</l>
+            <l>um deinem Tasten einen Trank zu reichen:</l>
+            <l>Ich horche immer. Gieb ein kleines Zeichen.</l>
+            <l>Ich bin ganz nah.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur eine schmale Wand ist zwischen uns,</l>
+            <l>durch Zufall; denn es könnte sein:</l>
+            <l>ein Rufen deines oder meines Munds –</l>
+            <l>und sie bricht ein</l>
+            <l>ganz ohne Lärm und Laut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus deinen Bildern ist sie aufgebaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und deine Bilder stehn vor dir wie Namen.</l>
+            <l>Und wenn einmal das Licht in mir entbrennt,</l>
+            <l>mit welchem meine Tiefe dich erkennt,</l>
+            <l>vergeudet sichs als Glanz auf ihren Rahmen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und meine Sinne, welche schnell erlahmen,</l>
+            <l>sind ohne Heimat und von dir getrennt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn es nur einmal so ganz stille wäre.</l>
+            <l>Wenn das Zufällige und Ungefähre</l>
+            <l>verstummte und das nachbarliche Lachen,</l>
+            <l>wenn das Geräusch, das meine Sinne machen,</l>
+            <l>mich nicht so sehr verhinderte am Wachen –:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann könnte ich in einem tausendfachen</l>
+            <l>Gedanken bis an deinen Rand dich denken</l>
+            <l>und dich besitzen (nur ein Lächeln lang),</l>
+            <l>um dich an alles Leben zu verschenken</l>
+            <l>wie einen Dank.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lebe grad, da das Jahrhundert geht.</l>
+            <l>Man fühlt den Wind von einem großen Blatt,</l>
+            <l>das Gott und du und ich beschrieben hat</l>
+            <l>und das sich hoch in fremden Händen dreht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man fühlt den Glanz von einer neuen Seite,</l>
+            <l>auf der noch Alles werden kann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die stillen Kräfte prüfen ihre Breite</l>
+            <l>und sehn einander dunkel an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lese es heraus aus deinem Wort,</l>
+            <l>aus der Geschichte der Gebärden,</l>
+            <l>mit welchen deine Hände um das Werden</l>
+            <l>sich ründeten, begrenzend, warm und weise.</l>
+            <l>Du sagtest </l>
+            <l>und wiederholtest immer wieder: </l>
+            <l>Doch vor dem ersten Tode kam der Mord.</l>
+            <l>Da ging ein Riß durch deine reifen Kreise</l>
+            <l>und ging ein Schrein</l>
+            <l>und riß die Stimmen fort,</l>
+            <l>die eben erst sich sammelten</l>
+            <l>um dich zu sagen,</l>
+            <l>um dich zu tragen</l>
+            <l>alles Abgrunds Brücke –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und was sie seither stammelten,</l>
+            <l>sind Stücke</l>
+            <l>deines alten Namens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin nicht. Der Bruder hat mir was getan,</l>
+            <l>was meine Augen nicht sahn.</l>
+            <l>Er hat mir das Licht verhängt.</l>
+            <l>Er hat mein Gesicht verdrängt</l>
+            <l>mit seinem Gesicht.</l>
+            <l>Er ist jetzt allein.</l>
+            <l>Ich denke, er muß noch sein.</l>
+            <l>Denn ihm tut niemand, wie er mir getan.</l>
+            <l>Es gingen alle meine Bahn,</l>
+            <l>kommen alle vor seinen Zorn,</l>
+            <l>gehen alle an ihm verloren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube, mein großer Bruder wacht</l>
+            <l>wie ein Gericht.</l>
+            <l>An mich hat die Nacht gedacht;</l>
+            <l>an ihn nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Dunkelheit, aus der ich stamme,</l>
+            <l>ich liebe dich mehr als die Flamme,</l>
+            <l>welche die Welt begrenzt,</l>
+            <l>indem sie glänzt</l>
+            <l>für irgend einen Kreis,</l>
+            <l>aus dem heraus kein Wesen von ihr weiß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber die Dunkelheit hält alles an sich:</l>
+            <l>Gestalten und Flammen, Tiere und mich,</l>
+            <l>wie sie's errafft,</l>
+            <l>Menschen und Mächte –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und es kann sein: eine große Kraft</l>
+            <l>rührt sich in meiner Nachbarschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an Nächte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an Alles noch nie Gesagte.</l>
+            <l>Ich will meine frömmsten Gefühle befrein.</l>
+            <l>Was noch keiner zu wollen wagte,</l>
+            <l>wird mir einmal unwillkürlich sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist das vermessen, mein Gott, vergieb.</l>
+            <l>Aber ich will dir damit nur sagen:</l>
+            <l>Meine beste Kraft soll sein wie ein Trieb,</l>
+            <l>so ohne Zürnen und ohne Zagen;</l>
+            <l>so haben dich ja die Kinder lieb.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit diesem Hinfluten, mit diesem Münden</l>
+            <l>in breiten Armen ins offene Meer,</l>
+            <l>mit dieser wachsenden Wiederkehr</l>
+            <l>will ich dich bekennen, will ich dich verkünden</l>
+            <l>wie keiner vorher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ist das Hoffahrt, so laß mich hoffährtig sein</l>
+            <l>für mein Gebet,</l>
+            <l>das so ernst und allein</l>
+            <l>vor deiner wolkigen Stirne steht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin auf der Welt zu allein und doch nicht allein genug,</l>
+            <l>um jede Stunde zu weihn.</l>
+            <l>Ich bin auf der Welt zu gering und doch nicht klein genug,</l>
+            <l>um vor dir zu sein wie ein Ding,</l>
+            <l>dunkel und klug.</l>
+            <l>Ich will meinen Willen und will meinen Willen begleiten</l>
+            <l>die Wege zur Tat;</l>
+            <l>und will in stillen, irgendwie zögernden Zeiten,</l>
+            <l>wenn etwas naht,</l>
+            <l>unter den Wissenden sein</l>
+            <l>oder allein.</l>
+            <l>Ich will dich immer spiegeln in ganzer Gestalt,</l>
+            <l>und will niemals blind sein oder zu alt</l>
+            <l>um dein schweres schwankendes Bild zu halten.</l>
+            <l>Ich will mich entfalten.</l>
+            <l>Nirgends will ich gebogen bleiben,</l>
+            <l>denn dort bin ich gelogen, wo ich gebogen bin.</l>
+            <l>Und ich will meinen Sinn</l>
+            <l>wahr vor dir. Ich will mich beschreiben</l>
+            <l>wie ein Bild das ich sah,</l>
+            <l>lange und nah,</l>
+            <l>wie ein Wort, das ich begriff,</l>
+            <l>wie meinen täglichen Krug,</l>
+            <l>wie meiner Mutter Gesicht,</l>
+            <l>wie ein Schiff,</l>
+            <l>das mich trug</l>
+            <l>durch den tödlichsten Sturm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du siehst, ich will viel.</l>
+            <l>Vielleicht will ich Alles:</l>
+            <l>das Dunkel jedes unendlichen Falles</l>
+            <l>und jedes Steigens lichtzitterndes Spiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es leben so viele und wollen nichts,</l>
+            <l>und sind durch ihres leichten Gerichts</l>
+            <l>glatte Gefühle gefürstet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber du freust dich jedes Gesichts,</l>
+            <l>das dient und dürstet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du freust dich Aller, die dich gebrauchen</l>
+            <l>wie ein Gerät.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch bist du nicht kalt, und es ist nicht zu spät,</l>
+            <l>in deine werdenden Tiefen zu tauchen,</l>
+            <l>wo sich das Leben ruhig verrät.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir bauen an dir mit zitternden Händen</l>
+            <l>und wir türmen Atom auf Atom.</l>
+            <l>Aber wer kann dich vollenden,</l>
+            <l>du Dom.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist Rom?</l>
+            <l>Es zerfällt.</l>
+            <l>Was ist die Welt?</l>
+            <l>Sie wird zerschlagen</l>
+            <l>eh deine Türme Kuppeln tragen,</l>
+            <l>eh aus Meilen von Mosaik</l>
+            <l>deine strahlende Stirne stieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber manchmal im Traum</l>
+            <l>kann ich deinen Raum</l>
+            <l>überschaun,</l>
+            <l>tief vom Beginne</l>
+            <l>bis zu des Daches goldenem Grate.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ich seh: meine Sinne</l>
+            <l>bilden und baun</l>
+            <l>die letzten Zierate.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daraus, daß Einer dich einmal gewollt hat,</l>
+            <l>weiß ich, daß wir dich wollen dürfen.</l>
+            <l>Wenn wir auch alle Tiefen verwürfen:</l>
+            <l>wenn ein Gebirge Gold hat</l>
+            <l>und keiner mehr es ergraben mag,</l>
+            <l>trägt es einmal der Fluß zutag,</l>
+            <l>der in die Stille der Steine greift,</l>
+            <l>der vollen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch wenn wir nicht wollen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer seines Lebens viele Widersinne</l>
+            <l>versöhnt und dankbar in ein Sinnbild faßt,</l>
+            <l>der drängt</l>
+            <l>die Lärmenden aus dem Palast,</l>
+            <l>wird </l>
+            <l>den er an sanften Abenden empfängt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist der Zweite seiner Einsamkeit,</l>
+            <l>die ruhige Mitte seinen Monologen;</l>
+            <l>und jeder Kreis, um dich gezogen,</l>
+            <l>spannt ihm den Zirkel aus der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was irren meine Hände in den Pinseln?</l>
+            <l>Wenn ich dich </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich </l>
+            <l>beginnst du zögernd, wie mit vielen Inseln,</l>
+            <l>und deinen Augen, welche niemals blinseln,</l>
+            <l>bin ich der Raum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist nichtmehr inmitten deines Glanzes,</l>
+            <l>wo alle Linien des Engeltanzes</l>
+            <l>die Fernen dir verbrauchen wie Musik, –</l>
+            <l>du wohnst in deinem allerletzten Haus.</l>
+            <l>Dein ganzer Himmel horcht in mich hinaus,</l>
+            <l>weil ich mich sinnend dir verschwieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin, du Ängstlicher. Hörst du mich nicht</l>
+            <l>mit allen meinen Sinnen an dir branden?</l>
+            <l>Meine Gefühle, welche Flügel fanden,</l>
+            <l>umkreisen weiß dein Angesicht.</l>
+            <l>Siehst du nicht meine Seele, wie sie dicht</l>
+            <l>vor dir in einem Kleid aus Stille steht?</l>
+            <l>Reift nicht mein mailiches Gebet</l>
+            <l>an deinem Blicke wie an einem Baum?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du der Träumer bist, bin ich dein Traum.</l>
+            <l>Doch wenn du wachen willst, bin ich dein Wille</l>
+            <l>und werde mächtig aller Herrlichkeit</l>
+            <l>und ründe mich wie eine Sternenstille</l>
+            <l>über der wunderlichen Stadt der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Leben ist nicht diese steile Stunde,</l>
+            <l>darin du mich so eilen siehst.</l>
+            <l>Ich bin ein Baum vor meinem Hintergrunde,</l>
+            <l>ich bin nur einer meiner vielen Munde</l>
+            <l>und jener, welcher sich am frühsten schließt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin die Ruhe zwischen zweien Tönen,</l>
+            <l>die sich nur schlecht aneinander gewöhnen:</l>
+            <l>denn der Ton Tod will sich erhöhn –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber im dunklen Intervall versöhnen</l>
+            <l>sich beide zitternd.</l>
+            <l>Und das Lied bleibt schön.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich gewachsen wäre irgendwo,</l>
+            <l>wo leichtere Tage sind und schlanke Stunden,</l>
+            <l>ich hätte dir ein großes Fest erfunden,</l>
+            <l>und meine Hände hielten dich nicht so,</l>
+            <l>wie sie dich manchmal halten, bang und hart.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort hätte ich gewagt, dich zu vergeuden,</l>
+            <l>du grenzenlose Gegenwart.</l>
+            <l>Wie einen Ball</l>
+            <l>hätt ich dich in alle wogenden Freuden</l>
+            <l>hineingeschleudert, daß einer dich finge</l>
+            <l>und deinem Fall</l>
+            <l>mit hohen Händen entgegenspringe,</l>
+            <l>du Ding der Dinge.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hätte dich wie eine Klinge</l>
+            <l>blitzen lassen.</l>
+            <l>Vom goldensten Ringe</l>
+            <l>ließ ich dein Feuer umfassen,</l>
+            <l>und er müßte mirs halten</l>
+            <l>über die weißeste Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gemalt hätt ich dich: nicht an die Wand,</l>
+            <l>an den Himmel selber von Rand zu Rand,</l>
+            <l>und hätt dich gebildet, wie ein Gigant</l>
+            <l>dich bilden würde: als Berg, als Brand,</l>
+            <l>als Samum, wachsend aus Wüstensand –</l>
+            <l>oder</l>
+            <l>es kann auch sein: ich fand</l>
+            <l>dich einmal ...</l>
+            <l>Meine Freunde sind weit,</l>
+            <l>ich höre kaum noch ihr Lachen schallen;</l>
+            <l>und du: du bist aus dem Nest gefallen,</l>
+            <l>bist ein junger Vogel mit gelben Krallen</l>
+            <l>und großen Augen und tust mir leid.</l>
+            <l>(meine Hand ist dir viel zu breit.)</l>
+            <l>Und ich heb mit dem Finger vom Quell einen Tropfen</l>
+            <l>und lausche, ob du ihn lechzend langst,</l>
+            <l>und ich fühle dein Herz und meines klopfen</l>
+            <l>und beide aus Angst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich finde dich in allen diesen Dingen,</l>
+            <l>denen ich gut und wie ein Bruder bin;</l>
+            <l>als Samen sonnst du dich in den geringen</l>
+            <l>und in den großen giebst du groß dich hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist das wundersame Spiel der Kräfte,</l>
+            <l>daß sie so dienend durch die Dinge gehn:</l>
+            <l>in Wurzeln wachsend, schwindend in die Schäfte</l>
+            <l>und in den Wipfeln wie ein Auferstehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich verrinne, ich verrinne</l>
+            <l>wie Sand, der durch Finger rinnt.</l>
+            <l>Ich habe auf einmal so viele Sinne,</l>
+            <l>die alle anders durstig sind.</l>
+            <l>Ich fühle mich an hundert Stellen</l>
+            <l>schwellen und schmerzen.</l>
+            <l>Aber am meisten mitten im Herzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich möchte sterben. Laß mich allein.</l>
+            <l>Ich glaube, es wird mir gelingen,</l>
+            <l>so bange zu sein,</l>
+            <l>daß mir die Pulse zerspringen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieh, Gott, es kommt ein Neuer an dir bauen,</l>
+            <l>der gestern noch ein Knabe war; von Frauen</l>
+            <l>sind seine Hände noch zusammgefügt</l>
+            <l>zu einem Falten, welches halb schon lügt.</l>
+            <l>Denn seine Rechte will schon von der Linken,</l>
+            <l>um sich zu wehren oder um zu winken</l>
+            <l>und um am Arm allein zu sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch gestern war die Stirne wie ein Stein</l>
+            <l>im Bach, geründet von den Tagen,</l>
+            <l>die nichts bedeuten als ein Wellenschlagen</l>
+            <l>und nichts verlangen, als ein Bild zu tragen</l>
+            <l>von Himmeln, die der Zufall drüber hängt;</l>
+            <l>heut drängt</l>
+            <l>auf ihr sich eine Weltgeschichte</l>
+            <l>vor einem unerbittlichen Gerichte,</l>
+            <l>und sie versinkt in seinem Urteilsspruch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Raum wird auf einem neuen Angesichte.</l>
+            <l>Es war kein Licht vor diesem Lichte,</l>
+            <l>und, wie noch nie, beginnt dein Buch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liebe dich, du sanftestes Gesetz,</l>
+            <l>an dem wir reiften, da wir mit ihm rangen;</l>
+            <l>du großes Heimweh, das wir nicht bezwangen,</l>
+            <l>du Wald, aus dem wir nie hinausgegangen,</l>
+            <l>du Lied, das wir mit jedem Schweigen sangen,</l>
+            <l>du dunkles Netz,</l>
+            <l>darin sich flüchtend die Gefühle fangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast dich so unendlich groß begonnen</l>
+            <l>an jenem Tage, da du uns begannst, –</l>
+            <l>und wir sind so gereift in deinen Sonnen,</l>
+            <l>so breit geworden und so tief gepflanzt,</l>
+            <l>daß du in Menschen, Engeln und Madonnen</l>
+            <l>dich ruhend jetzt vollenden kannst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß deine Hand am Hang der Himmel ruhn</l>
+            <l>und dulde stumm, was wir dir dunkel tun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Werkleute sind wir: Knappen, Jünger, Meister,</l>
+            <l>und bauen dich, du hohes Mittelschiff.</l>
+            <l>Und manchmal kommt ein ernster Hergereister,</l>
+            <l>geht wie ein Glanz durch unsre hundert Geister</l>
+            <l>und zeigt uns zitternd einen neuen Griff.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir steigen in die wiegenden Gerüste,</l>
+            <l>in unsern Händen hängt der Hammer schwer,</l>
+            <l>bis eine Stunde uns die Stirnen küßte,</l>
+            <l>die strahlend und als ob sie Alles wüßte</l>
+            <l>von dir kommt, wie der Wind vom Meer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann ist ein Hallen von dem vielen Hämmern</l>
+            <l>und durch die Berge geht es Stoß um Stoß.</l>
+            <l>Erst wenn es dunkelt lassen wir dich los:</l>
+            <l>Und deine kommenden Konturen dämmern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott, du bist groß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist so groß, daß ich schon nicht mehr bin,</l>
+            <l>wenn ich mich nur in deine Nähe stelle.</l>
+            <l>Du bist so dunkel; meine kleine Helle</l>
+            <l>an deinem Saum hat keinen Sinn.</l>
+            <l>Dein Wille geht wie eine Welle</l>
+            <l>und jeder Tag ertrinkt darin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur meine Sehnsucht ragt dir bis ans Kinn</l>
+            <l>und steht vor dir wie aller Engel größter:</l>
+            <l>ein fremder, bleicher und noch unerlöster,</l>
+            <l>und hält dir seine Flügel hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er will nicht mehr den uferlosen Flug,</l>
+            <l>an dem die Monde blaß vorüberschwammen,</l>
+            <l>und von den Welten weiß er längst genug.</l>
+            <l>Mit seinen Flügeln will er wie mit Flammen</l>
+            <l>vor deinem schattigen Gesichte stehn</l>
+            <l>und will bei ihrem weißen Scheine sehn,</l>
+            <l>ob deine grauen Brauen ihn verdammen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So viele Engel suchen dich im Lichte</l>
+            <l>und stoßen mit den Stirnen nach den Sternen</l>
+            <l>und wollen dich aus jedem Glanze lernen.</l>
+            <l>Mir aber ist, sooft ich von dir dichte,</l>
+            <l>daß sie mit abgewendetem Gesichte</l>
+            <l>von deines Mantels Falten sich entfernen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn du warst selber nur ein Gast des Golds.</l>
+            <l>Nur einer Zeit zuliebe, die dich flehte</l>
+            <l>in ihre klaren marmornen Gebete,</l>
+            <l>erschienst du wie der König der Komete,</l>
+            <l>auf deiner Stirne Strahlenströme stolz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kehrtest heim, da jene Zeit zerschmolz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ganz dunkel ist dein Mund, von dem ich wehte,</l>
+            <l>und deine Hände sind von Ebenholz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das waren Tage Michelangelo's,</l>
+            <l>von denen ich in fremden Büchern las.</l>
+            <l>Das war der Mann, der über einem Maß,</l>
+            <l>gigantengroß,</l>
+            <l>die Unermeßlichkeit vergaß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das war der Mann, der immer wiederkehrt,</l>
+            <l>wenn eine Zeit noch einmal ihren Wert,</l>
+            <l>da sie sich enden will, zusammenfaßt.</l>
+            <l>Da hebt noch einer ihre ganze Last</l>
+            <l>und wirft sie in den Abgrund seiner Brust.</l>
+            <l>Die vor ihm hatten Leid und Lust;</l>
+            <l>er aber fühlt nur noch des Lebens Masse</l>
+            <l>und daß er Alles wie </l>
+            <l>nur Gott bleibt über seinem Willen weit:</l>
+            <l>da liebt er ihn mit seinem hohen Hasse</l>
+            <l>für diese Unerreichbarkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Ast vom Baume Gott, der über Italien reicht,</l>
+            <l>Er hätte vielleicht</l>
+            <l>sich schon gerne, mit Früchten gefüllt, verfrüht,</l>
+            <l>doch er wurde mitten im Blühen müd,</l>
+            <l>und er wird keine Früchte haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur der Frühling Gottes war dort,</l>
+            <l>nur sein Sohn, das Wort,</l>
+            <l>vollendete sich.</l>
+            <l>Es wendete sich</l>
+            <l>alle Kraft zu dem strahlenden Knaben.</l>
+            <l>Alle kamen mit Gaben</l>
+            <l>zu ihm;</l>
+            <l>alle sangen wie Cherubim</l>
+            <l>seinen Preis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und er duftete leis</l>
+            <l>als Rose der Rosen.</l>
+            <l>Er war ein Kreis</l>
+            <l>um die Heimatlosen.</l>
+            <l>Er ging in Mänteln und Metamorphosen</l>
+            <l>durch alle steigenden Stimmen der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ward auch die zur Frucht Erweckte,</l>
+            <l>die schüchterne und schönerschreckte,</l>
+            <l>die heimgesuchte Magd geliebt.</l>
+            <l>Die Blühende, die Unentdeckte,</l>
+            <l>in der es hundert Wege giebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ließen sie sie gehn und schweben</l>
+            <l>und treiben mit dem jungen Jahr;</l>
+            <l>ihr dienendes Marien-Leben</l>
+            <l>ward königlich und wunderbar.</l>
+            <l>Wie feiertägliches Geläute</l>
+            <l>ging es durch alle Häuser groß;</l>
+            <l>und die einst mädchenhaft Zerstreute</l>
+            <l>war so versenkt in ihren Schooß</l>
+            <l>und so erfüllt von jenem Einen</l>
+            <l>und so für Tausende genug,</l>
+            <l>daß alles schien, sie zu bescheinen,</l>
+            <l>die wie ein Weinberg war und trug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber als hätte die Last der Fruchtgehänge</l>
+            <l>und der Verfall der Säulen und Bogengänge</l>
+            <l>und der Abgesang der Gesänge</l>
+            <l>sie beschwert,</l>
+            <l>hat die Jungfrau sich in anderen Stunden,</l>
+            <l>wie von Größerem noch unentbunden,</l>
+            <l>kommenden Wunden</l>
+            <l>zugekehrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihre Hände, die sich lautlos lösten,</l>
+            <l>liegen leer.</l>
+            <l>Wehe, sie gebar noch nicht den Größten.</l>
+            <l>Und die Engel, die nicht trösten,</l>
+            <l>stehen fremd und furchtbar um sie her.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So hat man sie gemalt; vor allem Einer,</l>
+            <l>der seine Sehnsucht aus der Sonne trug.</l>
+            <l>Ihm reifte sie aus allen Rätseln reiner,</l>
+            <l>aber im Leiden immer allgemeiner:</l>
+            <l>sein ganzes Leben war er wie ein Weiner,</l>
+            <l>dem sich das Weinen in die Hände schlug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist der schönste Schleier ihrer Schmerzen,</l>
+            <l>der sich an ihre wehen Lippen schmiegt,</l>
+            <l>sich über ihnen fast zum Lächeln biegt –</l>
+            <l>und von dem Licht aus sieben Engelskerzen</l>
+            <l>wird sein Geheimnis nicht besiegt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit einem Ast, der jenem niemals glich,</l>
+            <l>wird Gott, der Baum, auch einmal sommerlich</l>
+            <l>verkündend werden und aus Reife rauschen;</l>
+            <l>in einem Lande, wo die Menschen lauschen,</l>
+            <l>wo jeder ähnlich einsam ist wie ich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn nur dem Einsamen wird offenbart,</l>
+            <l>und vielen Einsamen der gleichen Art</l>
+            <l>wird mehr gegeben als dem schmalen Einen.</l>
+            <l>Denn jedem wird ein andrer Gott erscheinen,</l>
+            <l>bis sie erkennen, nah am Weinen,</l>
+            <l>daß durch ihr meilenweites Meinen,</l>
+            <l>durch ihr Vernehmen und Verneinen,</l>
+            <l>verschieden nur in hundert Seinen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist das endlichste Gebet,</l>
+            <l>das dann die Sehenden sich sagen:</l>
+            <l>Die Wurzel Gott hat Frucht getragen,</l>
+            <l>geht hin, die Glocken zu zerschlagen;</l>
+            <l>wir kommen zu den stillern Tagen,</l>
+            <l>in denen reif die Stunde steht.</l>
+            <l>Die Wurzel Gott hat Frucht getragen.</l>
+            <l>Seid ernst und seht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kann nicht glauben, daß der kleine Tod,</l>
+            <l>dem wir doch täglich übern Scheitel schauen,</l>
+            <l>uns eine Sorge bleibt und eine Not.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kann nicht glauben, daß er ernsthaft droht;</l>
+            <l>ich lebe noch, ich habe Zeit zu bauen:</l>
+            <l>mein Blut ist länger als die Rosen rot.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Sinn ist tiefer als das witzige Spiel</l>
+            <l>mit unsrer Furcht, darin er sich gefällt.</l>
+            <l>Ich bin die Welt,</l>
+            <l>aus der er irrend fiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie er</l>
+            <l>kreisende Mönche wandern so umher;</l>
+            <l>man fürchtet sich vor ihrer Wiederkehr,</l>
+            <l>man weiß nicht: ist es jedesmal derselbe,</l>
+            <l>sinds zwei, sinds zehn, sinds tausend oder mehr?</l>
+            <l>Man kennt nur diese fremde gelbe Hand,</l>
+            <l>die sich ausstreckt so nackt und nah –</l>
+            <l>da da:</l>
+            <l>als käm sie aus dem eigenen Gewand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wirst du tun, Gott, wenn ich sterbe?</l>
+            <l>Ich bin dein Krug (wenn ich zerscherbe?)</l>
+            <l>Ich bin dein Trank (wenn ich verderbe?)</l>
+            <l>Bin dein Gewand und dein Gewerbe,</l>
+            <l>mit mir verlierst du deinen Sinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach mir hast du kein Haus, darin</l>
+            <l>dich Worte, nah und warm, begrüßen.</l>
+            <l>Es fällt von deinen müden Füßen</l>
+            <l>die Samtsandale, die ich bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein großer Mantel läßt dich los.</l>
+            <l>Dein Blick, den ich mit meiner Wange</l>
+            <l>warm, wie mit einem Pfühl, empfange,</l>
+            <l>wird kommen, wird mich suchen, lange –</l>
+            <l>und legt beim Sonnenuntergange</l>
+            <l>sich fremden Steinen in den Schooß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wirst du tun, Gott? Ich bin bange.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist der raunende Verrußte,</l>
+            <l>auf allen Öfen schläfst du breit.</l>
+            <l>Das Wissen ist nur in der Zeit.</l>
+            <l>Du bist der dunkle Unbewußte</l>
+            <l>von Ewigkeit zu Ewigkeit.</l>
+            <l>Du bist der Bittende und Bange,</l>
+            <l>der aller Dinge Sinn beschwert.</l>
+            <l>Du bist die Silbe im Gesange,</l>
+            <l>die immer zitternder im Zwange</l>
+            <l>der starken Stimmen wiederkehrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast dich anders nie gelehrt:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn du bist nicht der Schönumscharte,</l>
+            <l>um welchen sich der Reichtum reiht.</l>
+            <l>Du bist der Schlichte, welcher sparte.</l>
+            <l>Du bist der Bauer mit dem Barte</l>
+            <l>von Ewigkeit zu Ewigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du, gestern Knabe, dem die Wirrnis kam:</l>
+            <l>Daß sich dein Blut in Blindheit nicht vergeude.</l>
+            <l>Du meinst nicht den Genuß, du meinst die Freude;</l>
+            <l>du bist gebildet als ein Bräutigam,</l>
+            <l>und deine Braut soll werden: deine Scham.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die große Lust hat auch nach dir Verlangen,</l>
+            <l>und alle Arme sind auf einmal nackt.</l>
+            <l>Auf frommen Bildern sind die bleichen Wangen</l>
+            <l>von fremden Feuern überflackt;</l>
+            <l>und deine Sinne sind wie viele Schlangen,</l>
+            <l>die, von des Tones Rot umfangen,</l>
+            <l>sich spannen in der Tamburine Takt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und plötzlich bist du ganz allein gelassen</l>
+            <l>mit deinen Händen, die dich hassen –</l>
+            <l>und wenn dein Wille nicht ein Wunder tut:</l>
+            <l>– – – – – – – – – – – – – – – – – – – – – – –</l>
+            <l>Aber da gehen wie durch dunkle Gassen</l>
+            <l>von Gott Gerüchte durch dein dunkles Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann bete du, wie es dich dieser lehrt,</l>
+            <l>der selber aus der Wirrnis wiederkehrt</l>
+            <l>und so, daß er zu heiligen Gestalten,</l>
+            <l>die alle ihres Wesens Würde halten,</l>
+            <l>in einer Kirche und auf goldnen Smalten</l>
+            <l>die Schönheit malte, und sie hielt ein Schwert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er lehrt dich sagen:</l>
+            <l>Du mein tiefer Sinn,</l>
+            <l>vertraue mir, daß ich dich nicht enttäusche;</l>
+            <l>in meinem Blute sind so viel Geräusche,</l>
+            <l>ich aber weiß, daß ich aus Sehnsucht bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein großer Ernst bricht über mich herein.</l>
+            <l>In seinem Schatten ist das Leben kühl.</l>
+            <l>Ich bin zum erstenmal mit dir allein,</l>
+            <l>du, mein Gefühl.</l>
+            <l>Du bist so mädchenhaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es war ein Weib in meiner Nachbarschaft</l>
+            <l>und winkte mir aus welkenden Gewändern.</l>
+            <l>Du aber sprichst mir von so fernen Ländern.</l>
+            <l>Und meine Kraft</l>
+            <l>schaut nach den Hügelrändern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe Hymnen, die ich schweige.</l>
+            <l>Es giebt ein Aufgerichtetsein,</l>
+            <l>darin ich meine Sinne neige:</l>
+            <l>du siehst mich groß und ich bin klein.</l>
+            <l>Du kannst mich dunkel unterscheiden</l>
+            <l>von jenen Dingen, welche knien;</l>
+            <l>sie sind wie Herden und sie weiden,</l>
+            <l>ich bin der Hirt am Hang der Heiden,</l>
+            <l>vor welchem sie zu Abend ziehn.</l>
+            <l>Dann komm ich hinter ihnen her</l>
+            <l>und höre dumpf die dunklen Brücken,</l>
+            <l>und in dem Rauch von ihren Rücken</l>
+            <l>verbirgt sich meine Wiederkehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott, wie begreif ich deine Stunde,</l>
+            <l>als du, daß sie im Raum sich runde,</l>
+            <l>die Stimme vor dich hingestellt;</l>
+            <l>dir war das Nichts wie eine Wunde,</l>
+            <l>da kühltest du sie mit der Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt heilt es leise unter uns.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn die Vergangenheiten tranken</l>
+            <l>die vielen Fieber aus dem Kranken,</l>
+            <l>den ruhigen Puls des Hintergrunds.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir liegen lindernd auf dem Nichts</l>
+            <l>und wir verhüllen alle Risse;</l>
+            <l>du aber wächst ins Ungewisse</l>
+            <l>im Schatten deines Angesichts.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alle, die ihre Hände regen</l>
+            <l>nicht in der Zeit, der armen Stadt,</l>
+            <l>alle, die sie an Leises legen,</l>
+            <l>an eine Stelle, fern den Wegen,</l>
+            <l>die kaum noch einen Namen hat, –</l>
+            <l>sprechen dich aus, du Alltagssegen.</l>
+            <l>und sagen sanft auf einem Blatt:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es giebt im Grunde nur Gebete,</l>
+            <l>so sind die Hände uns geweiht,</l>
+            <l>daß sie nichts schufen, was nicht flehte;</l>
+            <l>ob einer malte oder mähte,</l>
+            <l>schon aus dem Ringen der Geräte</l>
+            <l>entfaltete sich Frömmigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zeit ist eine vielgestalte.</l>
+            <l>Wir hören manchmal von der Zeit,</l>
+            <l>und tun das Ewige und Alte;</l>
+            <l>wir wissen, daß uns Gott umwallte</l>
+            <l>groß wie ein Bart und wie ein Kleid.</l>
+            <l>Wir sind wie Adern im Basalte</l>
+            <l>in Gottes harter Herrlichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Name ist uns wie ein Licht</l>
+            <l>hart an die Stirn gestellt.</l>
+            <l>Da senkte sich mein Angesicht</l>
+            <l>vor diesem zeitigen Gericht</l>
+            <l>und sah (von dem es seither spricht)</l>
+            <l>dich, großes dunkelndes Gewicht</l>
+            <l>an mir und an der Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bogst mich langsam aus der Zeit,</l>
+            <l>in die ich schwankend stieg;</l>
+            <l>ich neigte mich nach leisem Streit:</l>
+            <l>jetzt dauert deine Dunkelheit</l>
+            <l>um deinen sanften Sieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt hast du mich und weißt nicht wen,</l>
+            <l>denn deine breiten Sinne sehn</l>
+            <l>nur, daß ich dunkel ward.</l>
+            <l>Du hältst mich seltsam zart</l>
+            <l>und horchst, wie meine Hände gehn</l>
+            <l>durch deinen alten Bart.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein allererstes Wort war: </l>
+            <l>da ward die Zeit. Dann schwiegst du lange.</l>
+            <l>Dein zweites Wort ward Mensch und bange</l>
+            <l>(wir dunkeln noch in seinem Klange)</l>
+            <l>und wieder sinnt dein Angesicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich aber will dein drittes nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bete nachts oft: Sei der Stumme,</l>
+            <l>der wachsend in Gebärden bleibt</l>
+            <l>und den der Geist im Traume treibt,</l>
+            <l>daß er des Schweigens schwere Summe</l>
+            <l>in Stirnen und Gebirge schreibt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sei du die Zuflucht vor dem Zorne,</l>
+            <l>der das Unsagbare verstieß.</l>
+            <l>Es wurde Nacht im Paradies:</l>
+            <l>sei du der Hüter mit dem Horne,</l>
+            <l>und man erzählt nur, daß er blies.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kommst und gehst. Die Türen fallen</l>
+            <l>viel sanfter zu, fast ohne Wehn.</l>
+            <l>Du bist der Leiseste von Allen,</l>
+            <l>die durch die leisen Häuser gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man kann sich so an dich gewöhnen,</l>
+            <l>daß man nicht aus dem Buche schaut,</l>
+            <l>wenn seine Bilder sich verschönen,</l>
+            <l>von deinem Schatten überblaut;</l>
+            <l>weil dich die Dinge immer tönen,</l>
+            <l>nur einmal leis und einmal laut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft wenn ich dich in Sinnen sehe,</l>
+            <l>verteilt sich deine Allgestalt:</l>
+            <l>du gehst wie lauter lichte Rehe</l>
+            <l>und ich bin dunkel und bin Wald.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist ein Rad, an dem ich stehe:</l>
+            <l>von deinen vielen dunklen Achsen</l>
+            <l>wird immer wieder eine schwer</l>
+            <l>und dreht sich näher zu mir her,</l>
+            <l>und meine willigen Werke wachsen</l>
+            <l>von Wiederkehr zu Wiederkehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist der Tiefste, welcher ragte,</l>
+            <l>der Taucher und der Türme Neid.</l>
+            <l>Du bist der Sanfte, der sich sagte,</l>
+            <l>und doch: wenn dich ein Feiger fragte,</l>
+            <l>so schwelgtest du in Schweigsamkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist der Wald der Widersprüche.</l>
+            <l>Ich darf dich wiegen wie ein Kind,</l>
+            <l>und doch vollziehn sich deine Flüche,</l>
+            <l>die über Völkern furchtbar sind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir ward das erste Buch geschrieben,</l>
+            <l>das erste Bild versuchte dich,</l>
+            <l>du warst im Leiden und im Lieben,</l>
+            <l>dein Ernst war wie aus Erz getrieben</l>
+            <l>auf jeder Stirn, die mit den sieben</l>
+            <l>erfüllten Tagen dich verglich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du gingst in Tausenden verloren,</l>
+            <l>und alle Opfer wurden kalt;</l>
+            <l>bis du in hohen Kirchenchoren</l>
+            <l>dich rührtest hinter goldnen Toren;</l>
+            <l>und eine Bangnis, die geboren,</l>
+            <l>umgürtete dich mit Gestalt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß: Du bist der Rätselhafte,</l>
+            <l>um den die Zeit in Zögern stand.</l>
+            <l>O wie so schön ich dich erschaffte</l>
+            <l>in einer Stunde, die mich straffte,</l>
+            <l>in einer Hoffahrt meiner Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich zeichnete viel ziere Risse,</l>
+            <l>behorchte alle Hindernisse, –</l>
+            <l>dann wurden mir die Pläne krank:</l>
+            <l>es wirrten sich wie Dorngerank</l>
+            <l>die Linien und die Ovale,</l>
+            <l>bis tief in mir mit einem Male</l>
+            <l>aus einem Griff ins Ungewisse</l>
+            <l>die frommste aller Formen sprang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kann mein Werk nicht überschaun</l>
+            <l>und fühle doch: es steht vollendet.</l>
+            <l>Aber, die Augen abgewendet,</l>
+            <l>will ich es immer wieder baun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ist mein Tagwerk, über dem</l>
+            <l>mein Schatten liegt wie eine Schale.</l>
+            <l>Und bin ich auch wie Laub und Lehm,</l>
+            <l>sooft ich bete oder male</l>
+            <l>ist Sonntag, und ich bin im Tale</l>
+            <l>ein jubelndes Jerusalem.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin die stolze Stadt des Herrn</l>
+            <l>und sage ihn mit hundert Zungen;</l>
+            <l>in mir ist Davids Dank verklungen:</l>
+            <l>ich lag in Harfendämmerungen</l>
+            <l>und atmete den Abendstern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach Aufgang gehen meine Gassen.</l>
+            <l>Und bin ich lang vom Volk verlassen,</l>
+            <l>so ists: damit ich größer bin.</l>
+            <l>Ich höre jeden in mir schreiten</l>
+            <l>und breite meine Einsamkeiten</l>
+            <l>von Anbeginn zu Anbeginn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr vielen unbestürmten Städte,</l>
+            <l>habt ihr euch nie den Feind ersehnt?</l>
+            <l>O daß er euch belagert hätte</l>
+            <l>ein langes schwankendes Jahrzehnt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bis ihr ihn trostlos und in Trauern,</l>
+            <l>bis daß ihr hungernd ihn ertrugt;</l>
+            <l>er liegt wie Landschaft vor den Mauern,</l>
+            <l>denn also weiß er auszudauern</l>
+            <l>um jene, die er heimgesucht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schaut aus vom Rande eurer Dächer:</l>
+            <l>da lagert er und wird nicht matt</l>
+            <l>und wird nicht weniger und schwächer</l>
+            <l>und schickt nicht Droher und Versprecher</l>
+            <l>und Überreder in die Stadt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist der große Mauerbrecher,</l>
+            <l>der eine stumme Arbeit hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich komme aus meinen Schwingen heim,</l>
+            <l>mit denen ich mich verlor.</l>
+            <l>Ich war Gesang, und Gott, der Reim,</l>
+            <l>rauscht noch in meinem Ohr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich werde wieder still und schlicht,</l>
+            <l>und meine Stimme steht;</l>
+            <l>es senkte sich mein Angesicht</l>
+            <l>zu besserem Gebet.</l>
+            <l>Den andern war ich wie ein Wind,</l>
+            <l>da ich sie rüttelnd rief.</l>
+            <l>Weit war ich, wo die Engel sind,</l>
+            <l>hoch, wo das Licht in Nichts zerrinnt –</l>
+            <l>Gott aber dunkelt tief.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Engel sind das letzte Wehn</l>
+            <l>an seines Wipfels Saum;</l>
+            <l>daß sie aus seinen Ästen gehn,</l>
+            <l>ist ihnen wie ein Traum.</l>
+            <l>Sie glauben dort dem Lichte mehr</l>
+            <l>als Gottes schwarzer Kraft,</l>
+            <l>es flüchtete sich Lucifer</l>
+            <l>in ihre Nachbarschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist der Fürst im Land des Lichts,</l>
+            <l>und seine Stirne steht</l>
+            <l>so steil am großen Glanz des Nichts,</l>
+            <l>daß er, versengten Angesichts,</l>
+            <l>nach Finsternissen fleht.</l>
+            <l>Er ist der helle Gott der Zeit,</l>
+            <l>zu dem sie laut erwacht,</l>
+            <l>und weil er oft in Schmerzen schreit</l>
+            <l>und oft in Schmerzen lacht,</l>
+            <l>glaubt sie an seine Seligkeit</l>
+            <l>und hangt an seiner Macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zeit ist wie ein welker Rand</l>
+            <l>an einem Buchenblatt.</l>
+            <l>Sie ist das glänzende Gewand,</l>
+            <l>das Gott verworfen hat,</l>
+            <l>als Er, der immer Tiefe war,</l>
+            <l>ermüdete des Flugs</l>
+            <l>und sich verbarg vor jedem Jahr,</l>
+            <l>bis ihm sein wurzelhaftes Haar</l>
+            <l>durch alle Dinge wuchs.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst nur mit der Tat erfaßt,</l>
+            <l>mit Händen nur erhellt;</l>
+            <l>ein jeder Sinn ist nur ein Gast</l>
+            <l>und sehnt sich aus der Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ersonnen ist ein jeder Sinn,</l>
+            <l>man fühlt den feinen Saum darin</l>
+            <l>und daß ihn einer spann:</l>
+            <l>Du aber kommst und giebst dich hin</l>
+            <l>und fällst den Flüchtling an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will nicht wissen, wo du bist,</l>
+            <l>sprich mir aus überall.</l>
+            <l>Dein williger Euangelist</l>
+            <l>verzeichnet alles und vergißt</l>
+            <l>zu schauen nach dem Schall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich geh doch immer auf dich zu</l>
+            <l>mit meinem ganzen Gehn;</l>
+            <l>denn wer bin ich und wer bist du,</l>
+            <l>wenn wir uns nicht verstehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Leben hat das gleiche Kleid und Haar</l>
+            <l>wie aller alten Zaren Sterbestunde.</l>
+            <l>Die Macht entfremdete nur meinem Munde,</l>
+            <l>doch meine Reiche, die ich schweigend runde,</l>
+            <l>versammeln sich in meinem Hintergrunde</l>
+            <l>und meine Sinne sind noch Gossudar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Für sie ist beten immer noch: Erbauen,</l>
+            <l>aus allen Maßen bauen, daß das Grauen</l>
+            <l>fast wie die Größe wird und schön, –</l>
+            <l>und: jedes Hinknien und Vertrauen</l>
+            <l>(daß es die andern nicht beschauen)</l>
+            <l>mit vielen goldenen und blauen</l>
+            <l>und bunten Kuppeln überhöhn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn was sind Kirchen und sind Klöster</l>
+            <l>in ihrem Steigen und Erstehn</l>
+            <l>als Harfen, tönende Vertröster,</l>
+            <l>durch die die Hände Halberlöster</l>
+            <l>vor Königen und Jungfraun gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Gott befiehlt mir, daß ich schriebe:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Königen sei Grausamkeit.</l>
+            <l>Sie ist der Engel vor der Liebe,</l>
+            <l>und ohne diesen Bogen bliebe</l>
+            <l>mir keine Brücke in die Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Gott befiehlt mir, daß ich male:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zeit ist mir mein tiefstes Weh,</l>
+            <l>so legte ich in ihre Schale:</l>
+            <l>das wache Weib, die Wundenmale,</l>
+            <l>den reichen Tod (daß er sie zahle),</l>
+            <l>der Städte bange Bacchanale,</l>
+            <l>den Wahnsinn und die Könige.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Gott befiehlt mir, daß ich baue:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn König bin ich von der Zeit.</l>
+            <l>Dir aber bin ich nur der graue</l>
+            <l>Mitwisser deiner Einsamkeit.</l>
+            <l>Und bin das Auge mit der Braue ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das über meine Schulter schaue</l>
+            <l>von Ewigkeit zu Ewigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es tauchten tausend Theologen</l>
+            <l>in deines Namens alte Nacht.</l>
+            <l>Jungfrauen sind zu dir erwacht,</l>
+            <l>und Jünglinge in Silber zogen</l>
+            <l>und schimmerten in dir, du Schlacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In deinen langen Bogengängen</l>
+            <l>begegneten die Dichter sich</l>
+            <l>und waren Könige von Klängen</l>
+            <l>und mild und tief und meisterlich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist die sanfte Abendstunde,</l>
+            <l>die alle Dichter ähnlich macht;</l>
+            <l>du drängst dich dunkel in die Munde,</l>
+            <l>und im Gefühl von einem Funde</l>
+            <l>umgiebt ein jeder dich mit Pracht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dich heben hunderttausend Harfen</l>
+            <l>wie Schwingen aus der Schweigsamkeit.</l>
+            <l>Und deine alten Winde warfen</l>
+            <l>zu allen Dingen und Bedarfen</l>
+            <l>den Hauch von deiner Herrlichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Dichter haben dich verstreut</l>
+            <l>(es ging ein Sturm durch alles Stammeln),</l>
+            <l>ich aber will dich wieder sammeln</l>
+            <l>in dem Gefäß, das dich erfreut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wanderte in vielem Winde;</l>
+            <l>da triebst du tausendmal darin.</l>
+            <l>Ich bringe alles was ich finde:</l>
+            <l>als Becher brauchte dich der Blinde,</l>
+            <l>sehr tief verbarg dich das Gesinde,</l>
+            <l>der Bettler aber hielt dich hin;</l>
+            <l>und manchmal war bei einem Kinde</l>
+            <l>ein großes Stück von deinem Sinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du siehst, daß ich ein Sucher bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einer, der hinter seinen Händen</l>
+            <l>verborgen geht und wie ein Hirt;</l>
+            <l>(mögst du den Blick der ihn beirrt,</l>
+            <l>den Blick der Fremden von ihm wenden).</l>
+            <l>Einer der träumt, dich zu vollenden</l>
+            <l>und: daß er sich vollenden wird.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selten ist Sonne im Sobór.</l>
+            <l>Die Wände wachsen aus Gestalten,</l>
+            <l>und durch die Jungfraun und die Alten</l>
+            <l>drängt sich, wie Flügel im Entfalten,</l>
+            <l>das goldene, das Kaiser-Tor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An seinem Säulenrand verlor</l>
+            <l>die Wand sich hinter den Ikonen;</l>
+            <l>und, die im stillen Silber wohnen,</l>
+            <l>die Steine, steigen wie ein Chor</l>
+            <l>und fallen wieder in die Kronen</l>
+            <l>und schweigen schöner als zuvor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und über sie, wie Nächte blau,</l>
+            <l>von Angesichte blaß,</l>
+            <l>schwebt, die dich freuete, die Frau:</l>
+            <l>die Pförtnerin, der Morgentau,</l>
+            <l>die dich umblüht wie eine Au</l>
+            <l>und ohne Unterlaß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Kuppel ist voll deines Sohns</l>
+            <l>und bindet rund den Bau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du geruhen deines Throns,</l>
+            <l>den ich in Schauern schau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da trat ich als ein Pilger ein</l>
+            <l>und fühlte voller Qual</l>
+            <l>an meiner Stirne dich, du Stein.</l>
+            <l>Mit Lichtern, sieben an der Zahl,</l>
+            <l>umstellte ich dein dunkles Sein</l>
+            <l>und sah in jedem Bilde dein</l>
+            <l>bräunliches Muttermal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da stand ich, wo die Bettler stehn,</l>
+            <l>die schlecht und hager sind:</l>
+            <l>aus ihrem Auf- und Niederwehn</l>
+            <l>begriff ich dich, du Wind.</l>
+            <l>Ich sah den Bauer, überjahrt,</l>
+            <l>bärtig wie Joachim,</l>
+            <l>und daraus, wie er dunkel ward,</l>
+            <l>von lauter Ähnlichen umschart,</l>
+            <l>empfand ich dich wie nie so zart,</l>
+            <l>so ohne Wort geoffenbart</l>
+            <l>in allen und in ihm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du läßt der Zeit den Lauf,</l>
+            <l>und dir ist niemals Ruh darin:</l>
+            <l>der Bauer findet deinen Sinn</l>
+            <l>und hebt ihn auf und wirft ihn hin</l>
+            <l>und hebt ihn wieder auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie der Wächter in den Weingeländen</l>
+            <l>seine Hütte hat und wacht,</l>
+            <l>bin ich Hütte, Herr, in deinen Händen</l>
+            <l>und bin Nacht, o Herr, von deiner Nacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weinberg, Weide, alter Apfelgarten,</l>
+            <l>Acker, der kein Frühjahr überschlägt,</l>
+            <l>Feigenbaum, der auch im marmorharten</l>
+            <l>Grunde hundert Früchte trägt:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Duft geht aus aus deinen runden Zweigen.</l>
+            <l>Und du fragst nicht, ob ich wachsam sei;</l>
+            <l>furchtlos, aufgelöst in Säften, steigen</l>
+            <l>deine Tiefen still an mir vorbei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott spricht zu jedem nur, eh er ihn macht,</l>
+            <l>dann geht er schweigend mit ihm aus der Nacht.</l>
+            <l>Aber die Worte, eh jeder beginnt,</l>
+            <l>diese wolkigen Worte, sind:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von deinen Sinnen hinausgesandt,</l>
+            <l>geh bis an deiner Sehnsucht Rand;</l>
+            <l>gieb mir Gewand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hinter den Dingen wachse als Brand,</l>
+            <l>daß ihre Schatten, ausgespannt,</l>
+            <l>immer mich ganz bedecken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß dir Alles geschehn: Schönheit und Schrecken.</l>
+            <l>Man muß nur gehn: Kein Gefühl ist das fernste.</l>
+            <l>Laß dich von mir nicht trennen.</l>
+            <l>Nah ist das Land,</l>
+            <l>das sie das Leben nennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst es erkennen</l>
+            <l>an seinem Ernste.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gieb mir die Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich war bei den ältesten Mönchen, den Malern und Mythenmeldern,</l>
+            <l>die schrieben ruhig Geschichten und zeichneten Runen des Ruhms.</l>
+            <l>Und ich seh dich in meinen Gesichten mit Winden, Wassern und Wäldern</l>
+            <l>rauschend am Rande des Christentums,</l>
+            <l>du Land, nicht zu lichten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will dich erzählen, ich will dich beschaun und beschreiben,</l>
+            <l>nicht mit Bol und mit Gold, nur mit Tinte aus Apfelbaumrinden;</l>
+            <l>ich kann auch mit Perlen dich nicht an die Blätter binden,</l>
+            <l>und das zitterndste Bild, das mir meine Sinne erfinden,</l>
+            <l>du würdest es blind durch dein einfaches Sein übertreiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So will ich die Dinge in dir nur bescheiden und schlichthin benamen,</l>
+            <l>will die Könige nennen, die ältesten, woher sie kamen,</l>
+            <l>und will ihre Taten und Schlachten berichten am Rand meiner Seiten.</l>
+            <l>Denn du bist der Boden. Dir sind nur wie Sommer die Zeiten,</l>
+            <l>und du denkst an die nahen nicht anders als an die entfernten,</l>
+            <l>und ob sie dich tiefer besamen und besser bebauen lernten:</l>
+            <l>du fühlst dich nur leise berührt von den ähnlichen Ernten</l>
+            <l>und hörst weder Säer noch Schnitter, die über dich schreiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du dunkelnder Grund, geduldig erträgst du die Mauern.</l>
+            <l>Und vielleicht erlaubst du noch eine Stunde den Städten zu dauern</l>
+            <l>und gewährst noch zwei Stunden den Kirchen und einsamen Klöstern</l>
+            <l>und lässest fünf Stunden noch Mühsal allen Erlöstern</l>
+            <l>und siehst noch sieben Stunden das Tagwerk des Bauern –:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eh du wieder Wald wirst und Wasser und wachsende Wildnis</l>
+            <l>in der Stunde der unerfaßlichen Angst,</l>
+            <l>da du dein unvollendetes Bildnis</l>
+            <l>von allen Dingen zurückverlangst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gieb mir noch eine kleine Weile Zeit: ich will die Dinge so wie keiner lieben</l>
+            <l>bis sie dir alle würdig sind und weit.</l>
+            <l>Ich will nur sieben Tage, sieben</l>
+            <l>auf die sich keiner noch geschrieben,</l>
+            <l>sieben Seiten Einsamkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wem du das Buch giebst, welches die umfaßt,</l>
+            <l>der wird gebückt über den Blättern bleiben.</l>
+            <l>Es sei denn, daß du ihn in Händen hast,</l>
+            <l>um selbst zu schreiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So bin ich nur als Kind erwacht,</l>
+            <l>so sicher im Vertraun</l>
+            <l>nach jeder Angst und jeder Nacht</l>
+            <l>dich wieder anzuschaun.</l>
+            <l>Ich weiß, sooft mein Denken mißt,</l>
+            <l>wie tief, wie lang, wie weit – :</l>
+            <l>du aber bist und bist und bist,</l>
+            <l>umzittert von der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ist, als wär ich jetzt zugleich</l>
+            <l>Kind, Knab und Mann und mehr.</l>
+            <l>Ich fühle: nur der Ring ist reich</l>
+            <l>durch seine Wiederkehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich danke dir, du tiefe Kraft,</l>
+            <l>die immer leiser mit mir schafft</l>
+            <l>wie hinter vielen Wänden;</l>
+            <l>jetzt ward mir erst der Werktag schlicht</l>
+            <l>und wie ein heiliges Gesicht</l>
+            <l>zu meinen dunklen Händen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß ich nicht war vor einer Weile,</l>
+            <l>weißt du davon? Und du sagst nein.</l>
+            <l>Da fühl ich, wenn ich nur nicht eile,</l>
+            <l>so kann ich nie vergangen sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ja mehr als Traum im Traume.</l>
+            <l>Nur was sich sehnt nach einem Saume,</l>
+            <l>ist wie ein Tag und wie ein Ton;</l>
+            <l>es drängt sich fremd durch deine Hände,</l>
+            <l>daß es die viele Freiheit fände,</l>
+            <l>und traurig lassen sie davon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So blieb das Dunkel dir allein,</l>
+            <l>und, wachsend in die leere Lichte,</l>
+            <l>erhob sich eine Weltgeschichte</l>
+            <l>aus immer blinderem Gestein.</l>
+            <l>Die Massen wollen wieder Massen,</l>
+            <l>die Steine sind wie losgelassen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>und keiner ist von dir behauen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es lärmt das Licht im Wipfel deines Baumes</l>
+            <l>und macht dir alle Dinge bunt und eitel,</l>
+            <l>sie finden dich erst wenn der Tag verglomm.</l>
+            <l>Die Dämmerung, die Zärtlichkeit des Raumes,</l>
+            <l>legt tausend Hände über tausend Scheitel,</l>
+            <l>und unter ihnen wird das Fremde fromm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du willst die Welt nicht anders an dich halten</l>
+            <l>als so, mit dieser sanftesten Gebärde.</l>
+            <l>Aus ihren Himmeln greifst du dir die Erde</l>
+            <l>und fühlst sie unter deines Mantels Falten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast so eine leise Art zu sein.</l>
+            <l>Und jene, die dir laute Namen weihn,</l>
+            <l>sind schon vergessen deiner Nachbarschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von deinen Händen, die sich bergig heben,</l>
+            <l>steigt, unsern Sinnen das Gesetz zu geben,</l>
+            <l>mit dunkler Stirne deine stumme Kraft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Williger, und deine Gnade kam</l>
+            <l>immer in alle ältesten Gebärden.</l>
+            <l>Wenn einer die Hände zusammenflicht,</l>
+            <l>so daß sie zahm</l>
+            <l>und um ein kleines Dunkel sind –:</l>
+            <l>auf einmal fühlt er dich in ihnen werden,</l>
+            <l>und wie im Winde</l>
+            <l>senkt sich sein Gesicht</l>
+            <l>in Scham.</l>
+            <l>Und da versucht er, auf dem Stein zu liegen</l>
+            <l>und aufzustehn, wie er bei andern sieht,</l>
+            <l>und seine Mühe ist, dich einzuwiegen,</l>
+            <l>aus Angst, daß er dein Wachsein schon verriet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn wer dich fühlt, kann sich mit dir nicht brüsten;</l>
+            <l>er ist erschrocken, bang um dich und flieht</l>
+            <l>vor allen Fremden, die dich merken müßten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist das Wunder in den Wüsten,</l>
+            <l>das Ausgewanderten geschieht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Stunde vom Rande des Tages,</l>
+            <l>und das Land ist zu allem bereit.</l>
+            <l>Was du sehnst, meine Seele, sag es:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sei Heide und, Heide, sei weit.</l>
+            <l>Habe alte, alte Kurgane,</l>
+            <l>wachsend und kaumerkannt,</l>
+            <l>wenn es Mond wird über das plane</l>
+            <l>langvergangene Land.</l>
+            <l>Gestalte dich, Stille. Gestalte</l>
+            <l>die Dinge (es ist ihre Kindheit,</l>
+            <l>sie werden dir willig sein).</l>
+            <l>Sei Heide, sei Heide, sei Heide,</l>
+            <l>dann kommt vielleicht auch der Alte,</l>
+            <l>den ich kaum von der Nacht unterscheide,</l>
+            <l>und bringt seine riesige Blindheit</l>
+            <l>in mein horchendes Haus herein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich seh ihn sitzen und sinnen,</l>
+            <l>nicht über mich hinaus;</l>
+            <l>für ihn ist alles innen,</l>
+            <l>Himmel und Heide und Haus.</l>
+            <l>Nur die Lieder sind ihm verloren,</l>
+            <l>die er nie mehr beginnt;</l>
+            <l>aus vielen tausend Ohren</l>
+            <l>trank sie die Zeit und der Wind;</l>
+            <l>aus den Ohren der Toren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dennoch: mir geschieht,</l>
+            <l>als ob ich ein jedes Lied</l>
+            <l>tief in mir ihm ersparte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er schweigt hinterm bebenden Barte,</l>
+            <l>er möchte sich wiedergewinnen</l>
+            <l>aus seinen Melodien.</l>
+            <l>Da komm ich zu seinen Knien:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>und seine Lieder rinnen</l>
+            <l>rauschend zurück in ihn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da neigt sich die Stunde und rührt mich an</l>
+            <l>mit klarem, metallenem Schlag:</l>
+            <l>mir zittern die Sinne. Ich fühle: ich kann –</l>
+            <l>und ich fasse den plastischen Tag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts war noch vollendet, eh ich es erschaut,</l>
+            <l>ein jedes Werden stand still.</l>
+            <l>Meine Blicke sind reif, und wie eine Braut</l>
+            <l>kommt jedem das Ding, das er will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts ist mir zu klein und ich lieb es trotzdem</l>
+            <l>und mal es auf Goldgrund und groß,</l>
+            <l>und halte es hoch, und ich weiß nicht wem</l>
+            <l>löst es die Seele los ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lebe mein Leben in wachsenden Ringen,</l>
+            <l>die sich über die Dinge ziehn.</l>
+            <l>Ich werde den letzten vielleicht nicht vollbringen,</l>
+            <l>aber versuchen will ich ihn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kreise um Gott, um den uralten Turm,</l>
+            <l>und ich kreise jahrtausendelang;</l>
+            <l>und ich weiß noch nicht: bin ich ein Falke, ein Sturm</l>
+            <l>oder ein großer Gesang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe viele Brüder in Sutanen</l>
+            <l>im Süden, wo in Klöstern Lorbeer steht.</l>
+            <l>Ich weiß, wie menschlich sie Madonnen planen,</l>
+            <l>und träume oft von jungen Tizianen,</l>
+            <l>durch die der Gott in Gluten geht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wie ich mich auch in mich selber neige:</l>
+            <l>von hundert Wurzeln, welche schweigsam trinken.</l>
+            <l>Nur, daß ich mich aus </l>
+            <l>mehr weiß ich nicht, weil alle meine Zweige</l>
+            <l>tief unten ruhn und nur im Winde winken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir dürfen dich nicht eigenmächtig malen,</l>
+            <l>du Dämmernde, aus der der Morgen stieg.</l>
+            <l>Wir holen aus den alten Farbenschalen</l>
+            <l>die gleichen Striche und die gleichen Strahlen,</l>
+            <l>mit denen dich der Heilige verschwieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir bauen Bilder vor dir auf wie Wände;</l>
+            <l>so daß schon tausend Mauern um dich stehn.</l>
+            <l>Denn dich verhüllen unsre frommen Hände,</l>
+            <l>sooft dich unsre Herzen offen sehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liebe meines Wesens Dunkelstunden,</l>
+            <l>in welchen meine Sinne sich vertiefen;</l>
+            <l>in ihnen hab ich, wie in alten Briefen,</l>
+            <l>mein täglich Leben schon gelebt gefunden</l>
+            <l>und wie Legende weit und überwunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus ihnen kommt mir Wissen, daß ich Raum</l>
+            <l>zu einem zweiten zeitlos breiten Leben habe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und manchmal bin ich wie der Baum,</l>
+            <l>der, reif und rauschend, über einem Grabe</l>
+            <l>(um den sich seine warmen Wurzeln drängen)</l>
+            <l>verlor in Traurigkeiten und Gesängen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du, Nachbar Gott, wenn ich dich manchesmal</l>
+            <l>in langer Nacht mit hartem Klopfen störe, –</l>
+            <l>so ists, weil ich dich selten atmen höre</l>
+            <l>und weiß: Du bist allein im Saal.</l>
+            <l>Und wenn du etwas brauchst, ist keiner da,</l>
+            <l>um deinem Tasten einen Trank zu reichen:</l>
+            <l>Ich horche immer. Gieb ein kleines Zeichen.</l>
+            <l>Ich bin ganz nah.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur eine schmale Wand ist zwischen uns,</l>
+            <l>durch Zufall; denn es könnte sein:</l>
+            <l>ein Rufen deines oder meines Munds –</l>
+            <l>und sie bricht ein</l>
+            <l>ganz ohne Lärm und Laut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus deinen Bildern ist sie aufgebaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und deine Bilder stehn vor dir wie Namen.</l>
+            <l>Und wenn einmal das Licht in mir entbrennt,</l>
+            <l>mit welchem meine Tiefe dich erkennt,</l>
+            <l>vergeudet sichs als Glanz auf ihren Rahmen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und meine Sinne, welche schnell erlahmen,</l>
+            <l>sind ohne Heimat und von dir getrennt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn es nur einmal so ganz stille wäre.</l>
+            <l>Wenn das Zufällige und Ungefähre</l>
+            <l>verstummte und das nachbarliche Lachen,</l>
+            <l>wenn das Geräusch, das meine Sinne machen,</l>
+            <l>mich nicht so sehr verhinderte am Wachen –:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann könnte ich in einem tausendfachen</l>
+            <l>Gedanken bis an deinen Rand dich denken</l>
+            <l>und dich besitzen (nur ein Lächeln lang),</l>
+            <l>um dich an alles Leben zu verschenken</l>
+            <l>wie einen Dank.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lebe grad, da das Jahrhundert geht.</l>
+            <l>Man fühlt den Wind von einem großen Blatt,</l>
+            <l>das Gott und du und ich beschrieben hat</l>
+            <l>und das sich hoch in fremden Händen dreht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man fühlt den Glanz von einer neuen Seite,</l>
+            <l>auf der noch Alles werden kann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die stillen Kräfte prüfen ihre Breite</l>
+            <l>und sehn einander dunkel an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lese es heraus aus deinem Wort,</l>
+            <l>aus der Geschichte der Gebärden,</l>
+            <l>mit welchen deine Hände um das Werden</l>
+            <l>sich ründeten, begrenzend, warm und weise.</l>
+            <l>Du sagtest </l>
+            <l>und wiederholtest immer wieder: </l>
+            <l>Doch vor dem ersten Tode kam der Mord.</l>
+            <l>Da ging ein Riß durch deine reifen Kreise</l>
+            <l>und ging ein Schrein</l>
+            <l>und riß die Stimmen fort,</l>
+            <l>die eben erst sich sammelten</l>
+            <l>um dich zu sagen,</l>
+            <l>um dich zu tragen</l>
+            <l>alles Abgrunds Brücke –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und was sie seither stammelten,</l>
+            <l>sind Stücke</l>
+            <l>deines alten Namens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin nicht. Der Bruder hat mir was getan,</l>
+            <l>was meine Augen nicht sahn.</l>
+            <l>Er hat mir das Licht verhängt.</l>
+            <l>Er hat mein Gesicht verdrängt</l>
+            <l>mit seinem Gesicht.</l>
+            <l>Er ist jetzt allein.</l>
+            <l>Ich denke, er muß noch sein.</l>
+            <l>Denn ihm tut niemand, wie er mir getan.</l>
+            <l>Es gingen alle meine Bahn,</l>
+            <l>kommen alle vor seinen Zorn,</l>
+            <l>gehen alle an ihm verloren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube, mein großer Bruder wacht</l>
+            <l>wie ein Gericht.</l>
+            <l>An mich hat die Nacht gedacht;</l>
+            <l>an ihn nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Dunkelheit, aus der ich stamme,</l>
+            <l>ich liebe dich mehr als die Flamme,</l>
+            <l>welche die Welt begrenzt,</l>
+            <l>indem sie glänzt</l>
+            <l>für irgend einen Kreis,</l>
+            <l>aus dem heraus kein Wesen von ihr weiß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber die Dunkelheit hält alles an sich:</l>
+            <l>Gestalten und Flammen, Tiere und mich,</l>
+            <l>wie sie's errafft,</l>
+            <l>Menschen und Mächte –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und es kann sein: eine große Kraft</l>
+            <l>rührt sich in meiner Nachbarschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an Nächte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an Alles noch nie Gesagte.</l>
+            <l>Ich will meine frömmsten Gefühle befrein.</l>
+            <l>Was noch keiner zu wollen wagte,</l>
+            <l>wird mir einmal unwillkürlich sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist das vermessen, mein Gott, vergieb.</l>
+            <l>Aber ich will dir damit nur sagen:</l>
+            <l>Meine beste Kraft soll sein wie ein Trieb,</l>
+            <l>so ohne Zürnen und ohne Zagen;</l>
+            <l>so haben dich ja die Kinder lieb.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit diesem Hinfluten, mit diesem Münden</l>
+            <l>in breiten Armen ins offene Meer,</l>
+            <l>mit dieser wachsenden Wiederkehr</l>
+            <l>will ich dich bekennen, will ich dich verkünden</l>
+            <l>wie keiner vorher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ist das Hoffahrt, so laß mich hoffährtig sein</l>
+            <l>für mein Gebet,</l>
+            <l>das so ernst und allein</l>
+            <l>vor deiner wolkigen Stirne steht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin auf der Welt zu allein und doch nicht allein genug,</l>
+            <l>um jede Stunde zu weihn.</l>
+            <l>Ich bin auf der Welt zu gering und doch nicht klein genug,</l>
+            <l>um vor dir zu sein wie ein Ding,</l>
+            <l>dunkel und klug.</l>
+            <l>Ich will meinen Willen und will meinen Willen begleiten</l>
+            <l>die Wege zur Tat;</l>
+            <l>und will in stillen, irgendwie zögernden Zeiten,</l>
+            <l>wenn etwas naht,</l>
+            <l>unter den Wissenden sein</l>
+            <l>oder allein.</l>
+            <l>Ich will dich immer spiegeln in ganzer Gestalt,</l>
+            <l>und will niemals blind sein oder zu alt</l>
+            <l>um dein schweres schwankendes Bild zu halten.</l>
+            <l>Ich will mich entfalten.</l>
+            <l>Nirgends will ich gebogen bleiben,</l>
+            <l>denn dort bin ich gelogen, wo ich gebogen bin.</l>
+            <l>Und ich will meinen Sinn</l>
+            <l>wahr vor dir. Ich will mich beschreiben</l>
+            <l>wie ein Bild das ich sah,</l>
+            <l>lange und nah,</l>
+            <l>wie ein Wort, das ich begriff,</l>
+            <l>wie meinen täglichen Krug,</l>
+            <l>wie meiner Mutter Gesicht,</l>
+            <l>wie ein Schiff,</l>
+            <l>das mich trug</l>
+            <l>durch den tödlichsten Sturm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du siehst, ich will viel.</l>
+            <l>Vielleicht will ich Alles:</l>
+            <l>das Dunkel jedes unendlichen Falles</l>
+            <l>und jedes Steigens lichtzitterndes Spiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es leben so viele und wollen nichts,</l>
+            <l>und sind durch ihres leichten Gerichts</l>
+            <l>glatte Gefühle gefürstet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber du freust dich jedes Gesichts,</l>
+            <l>das dient und dürstet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du freust dich Aller, die dich gebrauchen</l>
+            <l>wie ein Gerät.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch bist du nicht kalt, und es ist nicht zu spät,</l>
+            <l>in deine werdenden Tiefen zu tauchen,</l>
+            <l>wo sich das Leben ruhig verrät.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir bauen an dir mit zitternden Händen</l>
+            <l>und wir türmen Atom auf Atom.</l>
+            <l>Aber wer kann dich vollenden,</l>
+            <l>du Dom.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist Rom?</l>
+            <l>Es zerfällt.</l>
+            <l>Was ist die Welt?</l>
+            <l>Sie wird zerschlagen</l>
+            <l>eh deine Türme Kuppeln tragen,</l>
+            <l>eh aus Meilen von Mosaik</l>
+            <l>deine strahlende Stirne stieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber manchmal im Traum</l>
+            <l>kann ich deinen Raum</l>
+            <l>überschaun,</l>
+            <l>tief vom Beginne</l>
+            <l>bis zu des Daches goldenem Grate.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ich seh: meine Sinne</l>
+            <l>bilden und baun</l>
+            <l>die letzten Zierate.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daraus, daß Einer dich einmal gewollt hat,</l>
+            <l>weiß ich, daß wir dich wollen dürfen.</l>
+            <l>Wenn wir auch alle Tiefen verwürfen:</l>
+            <l>wenn ein Gebirge Gold hat</l>
+            <l>und keiner mehr es ergraben mag,</l>
+            <l>trägt es einmal der Fluß zutag,</l>
+            <l>der in die Stille der Steine greift,</l>
+            <l>der vollen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch wenn wir nicht wollen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer seines Lebens viele Widersinne</l>
+            <l>versöhnt und dankbar in ein Sinnbild faßt,</l>
+            <l>der drängt</l>
+            <l>die Lärmenden aus dem Palast,</l>
+            <l>wird </l>
+            <l>den er an sanften Abenden empfängt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist der Zweite seiner Einsamkeit,</l>
+            <l>die ruhige Mitte seinen Monologen;</l>
+            <l>und jeder Kreis, um dich gezogen,</l>
+            <l>spannt ihm den Zirkel aus der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was irren meine Hände in den Pinseln?</l>
+            <l>Wenn ich dich </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich </l>
+            <l>beginnst du zögernd, wie mit vielen Inseln,</l>
+            <l>und deinen Augen, welche niemals blinseln,</l>
+            <l>bin ich der Raum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist nichtmehr inmitten deines Glanzes,</l>
+            <l>wo alle Linien des Engeltanzes</l>
+            <l>die Fernen dir verbrauchen wie Musik, –</l>
+            <l>du wohnst in deinem allerletzten Haus.</l>
+            <l>Dein ganzer Himmel horcht in mich hinaus,</l>
+            <l>weil ich mich sinnend dir verschwieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin, du Ängstlicher. Hörst du mich nicht</l>
+            <l>mit allen meinen Sinnen an dir branden?</l>
+            <l>Meine Gefühle, welche Flügel fanden,</l>
+            <l>umkreisen weiß dein Angesicht.</l>
+            <l>Siehst du nicht meine Seele, wie sie dicht</l>
+            <l>vor dir in einem Kleid aus Stille steht?</l>
+            <l>Reift nicht mein mailiches Gebet</l>
+            <l>an deinem Blicke wie an einem Baum?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du der Träumer bist, bin ich dein Traum.</l>
+            <l>Doch wenn du wachen willst, bin ich dein Wille</l>
+            <l>und werde mächtig aller Herrlichkeit</l>
+            <l>und ründe mich wie eine Sternenstille</l>
+            <l>über der wunderlichen Stadt der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Leben ist nicht diese steile Stunde,</l>
+            <l>darin du mich so eilen siehst.</l>
+            <l>Ich bin ein Baum vor meinem Hintergrunde,</l>
+            <l>ich bin nur einer meiner vielen Munde</l>
+            <l>und jener, welcher sich am frühsten schließt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin die Ruhe zwischen zweien Tönen,</l>
+            <l>die sich nur schlecht aneinander gewöhnen:</l>
+            <l>denn der Ton Tod will sich erhöhn –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber im dunklen Intervall versöhnen</l>
+            <l>sich beide zitternd.</l>
+            <l>Und das Lied bleibt schön.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich gewachsen wäre irgendwo,</l>
+            <l>wo leichtere Tage sind und schlanke Stunden,</l>
+            <l>ich hätte dir ein großes Fest erfunden,</l>
+            <l>und meine Hände hielten dich nicht so,</l>
+            <l>wie sie dich manchmal halten, bang und hart.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort hätte ich gewagt, dich zu vergeuden,</l>
+            <l>du grenzenlose Gegenwart.</l>
+            <l>Wie einen Ball</l>
+            <l>hätt ich dich in alle wogenden Freuden</l>
+            <l>hineingeschleudert, daß einer dich finge</l>
+            <l>und deinem Fall</l>
+            <l>mit hohen Händen entgegenspringe,</l>
+            <l>du Ding der Dinge.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hätte dich wie eine Klinge</l>
+            <l>blitzen lassen.</l>
+            <l>Vom goldensten Ringe</l>
+            <l>ließ ich dein Feuer umfassen,</l>
+            <l>und er müßte mirs halten</l>
+            <l>über die weißeste Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gemalt hätt ich dich: nicht an die Wand,</l>
+            <l>an den Himmel selber von Rand zu Rand,</l>
+            <l>und hätt dich gebildet, wie ein Gigant</l>
+            <l>dich bilden würde: als Berg, als Brand,</l>
+            <l>als Samum, wachsend aus Wüstensand –</l>
+            <l>oder</l>
+            <l>es kann auch sein: ich fand</l>
+            <l>dich einmal ...</l>
+            <l>Meine Freunde sind weit,</l>
+            <l>ich höre kaum noch ihr Lachen schallen;</l>
+            <l>und du: du bist aus dem Nest gefallen,</l>
+            <l>bist ein junger Vogel mit gelben Krallen</l>
+            <l>und großen Augen und tust mir leid.</l>
+            <l>(meine Hand ist dir viel zu breit.)</l>
+            <l>Und ich heb mit dem Finger vom Quell einen Tropfen</l>
+            <l>und lausche, ob du ihn lechzend langst,</l>
+            <l>und ich fühle dein Herz und meines klopfen</l>
+            <l>und beide aus Angst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich finde dich in allen diesen Dingen,</l>
+            <l>denen ich gut und wie ein Bruder bin;</l>
+            <l>als Samen sonnst du dich in den geringen</l>
+            <l>und in den großen giebst du groß dich hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist das wundersame Spiel der Kräfte,</l>
+            <l>daß sie so dienend durch die Dinge gehn:</l>
+            <l>in Wurzeln wachsend, schwindend in die Schäfte</l>
+            <l>und in den Wipfeln wie ein Auferstehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich verrinne, ich verrinne</l>
+            <l>wie Sand, der durch Finger rinnt.</l>
+            <l>Ich habe auf einmal so viele Sinne,</l>
+            <l>die alle anders durstig sind.</l>
+            <l>Ich fühle mich an hundert Stellen</l>
+            <l>schwellen und schmerzen.</l>
+            <l>Aber am meisten mitten im Herzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich möchte sterben. Laß mich allein.</l>
+            <l>Ich glaube, es wird mir gelingen,</l>
+            <l>so bange zu sein,</l>
+            <l>daß mir die Pulse zerspringen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieh, Gott, es kommt ein Neuer an dir bauen,</l>
+            <l>der gestern noch ein Knabe war; von Frauen</l>
+            <l>sind seine Hände noch zusammgefügt</l>
+            <l>zu einem Falten, welches halb schon lügt.</l>
+            <l>Denn seine Rechte will schon von der Linken,</l>
+            <l>um sich zu wehren oder um zu winken</l>
+            <l>und um am Arm allein zu sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch gestern war die Stirne wie ein Stein</l>
+            <l>im Bach, geründet von den Tagen,</l>
+            <l>die nichts bedeuten als ein Wellenschlagen</l>
+            <l>und nichts verlangen, als ein Bild zu tragen</l>
+            <l>von Himmeln, die der Zufall drüber hängt;</l>
+            <l>heut drängt</l>
+            <l>auf ihr sich eine Weltgeschichte</l>
+            <l>vor einem unerbittlichen Gerichte,</l>
+            <l>und sie versinkt in seinem Urteilsspruch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Raum wird auf einem neuen Angesichte.</l>
+            <l>Es war kein Licht vor diesem Lichte,</l>
+            <l>und, wie noch nie, beginnt dein Buch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liebe dich, du sanftestes Gesetz,</l>
+            <l>an dem wir reiften, da wir mit ihm rangen;</l>
+            <l>du großes Heimweh, das wir nicht bezwangen,</l>
+            <l>du Wald, aus dem wir nie hinausgegangen,</l>
+            <l>du Lied, das wir mit jedem Schweigen sangen,</l>
+            <l>du dunkles Netz,</l>
+            <l>darin sich flüchtend die Gefühle fangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast dich so unendlich groß begonnen</l>
+            <l>an jenem Tage, da du uns begannst, –</l>
+            <l>und wir sind so gereift in deinen Sonnen,</l>
+            <l>so breit geworden und so tief gepflanzt,</l>
+            <l>daß du in Menschen, Engeln und Madonnen</l>
+            <l>dich ruhend jetzt vollenden kannst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß deine Hand am Hang der Himmel ruhn</l>
+            <l>und dulde stumm, was wir dir dunkel tun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Werkleute sind wir: Knappen, Jünger, Meister,</l>
+            <l>und bauen dich, du hohes Mittelschiff.</l>
+            <l>Und manchmal kommt ein ernster Hergereister,</l>
+            <l>geht wie ein Glanz durch unsre hundert Geister</l>
+            <l>und zeigt uns zitternd einen neuen Griff.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir steigen in die wiegenden Gerüste,</l>
+            <l>in unsern Händen hängt der Hammer schwer,</l>
+            <l>bis eine Stunde uns die Stirnen küßte,</l>
+            <l>die strahlend und als ob sie Alles wüßte</l>
+            <l>von dir kommt, wie der Wind vom Meer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann ist ein Hallen von dem vielen Hämmern</l>
+            <l>und durch die Berge geht es Stoß um Stoß.</l>
+            <l>Erst wenn es dunkelt lassen wir dich los:</l>
+            <l>Und deine kommenden Konturen dämmern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott, du bist groß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist so groß, daß ich schon nicht mehr bin,</l>
+            <l>wenn ich mich nur in deine Nähe stelle.</l>
+            <l>Du bist so dunkel; meine kleine Helle</l>
+            <l>an deinem Saum hat keinen Sinn.</l>
+            <l>Dein Wille geht wie eine Welle</l>
+            <l>und jeder Tag ertrinkt darin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur meine Sehnsucht ragt dir bis ans Kinn</l>
+            <l>und steht vor dir wie aller Engel größter:</l>
+            <l>ein fremder, bleicher und noch unerlöster,</l>
+            <l>und hält dir seine Flügel hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er will nicht mehr den uferlosen Flug,</l>
+            <l>an dem die Monde blaß vorüberschwammen,</l>
+            <l>und von den Welten weiß er längst genug.</l>
+            <l>Mit seinen Flügeln will er wie mit Flammen</l>
+            <l>vor deinem schattigen Gesichte stehn</l>
+            <l>und will bei ihrem weißen Scheine sehn,</l>
+            <l>ob deine grauen Brauen ihn verdammen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So viele Engel suchen dich im Lichte</l>
+            <l>und stoßen mit den Stirnen nach den Sternen</l>
+            <l>und wollen dich aus jedem Glanze lernen.</l>
+            <l>Mir aber ist, sooft ich von dir dichte,</l>
+            <l>daß sie mit abgewendetem Gesichte</l>
+            <l>von deines Mantels Falten sich entfernen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn du warst selber nur ein Gast des Golds.</l>
+            <l>Nur einer Zeit zuliebe, die dich flehte</l>
+            <l>in ihre klaren marmornen Gebete,</l>
+            <l>erschienst du wie der König der Komete,</l>
+            <l>auf deiner Stirne Strahlenströme stolz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kehrtest heim, da jene Zeit zerschmolz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ganz dunkel ist dein Mund, von dem ich wehte,</l>
+            <l>und deine Hände sind von Ebenholz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das waren Tage Michelangelo's,</l>
+            <l>von denen ich in fremden Büchern las.</l>
+            <l>Das war der Mann, der über einem Maß,</l>
+            <l>gigantengroß,</l>
+            <l>die Unermeßlichkeit vergaß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das war der Mann, der immer wiederkehrt,</l>
+            <l>wenn eine Zeit noch einmal ihren Wert,</l>
+            <l>da sie sich enden will, zusammenfaßt.</l>
+            <l>Da hebt noch einer ihre ganze Last</l>
+            <l>und wirft sie in den Abgrund seiner Brust.</l>
+            <l>Die vor ihm hatten Leid und Lust;</l>
+            <l>er aber fühlt nur noch des Lebens Masse</l>
+            <l>und daß er Alles wie </l>
+            <l>nur Gott bleibt über seinem Willen weit:</l>
+            <l>da liebt er ihn mit seinem hohen Hasse</l>
+            <l>für diese Unerreichbarkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Ast vom Baume Gott, der über Italien reicht,</l>
+            <l>Er hätte vielleicht</l>
+            <l>sich schon gerne, mit Früchten gefüllt, verfrüht,</l>
+            <l>doch er wurde mitten im Blühen müd,</l>
+            <l>und er wird keine Früchte haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur der Frühling Gottes war dort,</l>
+            <l>nur sein Sohn, das Wort,</l>
+            <l>vollendete sich.</l>
+            <l>Es wendete sich</l>
+            <l>alle Kraft zu dem strahlenden Knaben.</l>
+            <l>Alle kamen mit Gaben</l>
+            <l>zu ihm;</l>
+            <l>alle sangen wie Cherubim</l>
+            <l>seinen Preis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und er duftete leis</l>
+            <l>als Rose der Rosen.</l>
+            <l>Er war ein Kreis</l>
+            <l>um die Heimatlosen.</l>
+            <l>Er ging in Mänteln und Metamorphosen</l>
+            <l>durch alle steigenden Stimmen der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ward auch die zur Frucht Erweckte,</l>
+            <l>die schüchterne und schönerschreckte,</l>
+            <l>die heimgesuchte Magd geliebt.</l>
+            <l>Die Blühende, die Unentdeckte,</l>
+            <l>in der es hundert Wege giebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ließen sie sie gehn und schweben</l>
+            <l>und treiben mit dem jungen Jahr;</l>
+            <l>ihr dienendes Marien-Leben</l>
+            <l>ward königlich und wunderbar.</l>
+            <l>Wie feiertägliches Geläute</l>
+            <l>ging es durch alle Häuser groß;</l>
+            <l>und die einst mädchenhaft Zerstreute</l>
+            <l>war so versenkt in ihren Schooß</l>
+            <l>und so erfüllt von jenem Einen</l>
+            <l>und so für Tausende genug,</l>
+            <l>daß alles schien, sie zu bescheinen,</l>
+            <l>die wie ein Weinberg war und trug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber als hätte die Last der Fruchtgehänge</l>
+            <l>und der Verfall der Säulen und Bogengänge</l>
+            <l>und der Abgesang der Gesänge</l>
+            <l>sie beschwert,</l>
+            <l>hat die Jungfrau sich in anderen Stunden,</l>
+            <l>wie von Größerem noch unentbunden,</l>
+            <l>kommenden Wunden</l>
+            <l>zugekehrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihre Hände, die sich lautlos lösten,</l>
+            <l>liegen leer.</l>
+            <l>Wehe, sie gebar noch nicht den Größten.</l>
+            <l>Und die Engel, die nicht trösten,</l>
+            <l>stehen fremd und furchtbar um sie her.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So hat man sie gemalt; vor allem Einer,</l>
+            <l>der seine Sehnsucht aus der Sonne trug.</l>
+            <l>Ihm reifte sie aus allen Rätseln reiner,</l>
+            <l>aber im Leiden immer allgemeiner:</l>
+            <l>sein ganzes Leben war er wie ein Weiner,</l>
+            <l>dem sich das Weinen in die Hände schlug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist der schönste Schleier ihrer Schmerzen,</l>
+            <l>der sich an ihre wehen Lippen schmiegt,</l>
+            <l>sich über ihnen fast zum Lächeln biegt –</l>
+            <l>und von dem Licht aus sieben Engelskerzen</l>
+            <l>wird sein Geheimnis nicht besiegt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit einem Ast, der jenem niemals glich,</l>
+            <l>wird Gott, der Baum, auch einmal sommerlich</l>
+            <l>verkündend werden und aus Reife rauschen;</l>
+            <l>in einem Lande, wo die Menschen lauschen,</l>
+            <l>wo jeder ähnlich einsam ist wie ich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn nur dem Einsamen wird offenbart,</l>
+            <l>und vielen Einsamen der gleichen Art</l>
+            <l>wird mehr gegeben als dem schmalen Einen.</l>
+            <l>Denn jedem wird ein andrer Gott erscheinen,</l>
+            <l>bis sie erkennen, nah am Weinen,</l>
+            <l>daß durch ihr meilenweites Meinen,</l>
+            <l>durch ihr Vernehmen und Verneinen,</l>
+            <l>verschieden nur in hundert Seinen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist das endlichste Gebet,</l>
+            <l>das dann die Sehenden sich sagen:</l>
+            <l>Die Wurzel Gott hat Frucht getragen,</l>
+            <l>geht hin, die Glocken zu zerschlagen;</l>
+            <l>wir kommen zu den stillern Tagen,</l>
+            <l>in denen reif die Stunde steht.</l>
+            <l>Die Wurzel Gott hat Frucht getragen.</l>
+            <l>Seid ernst und seht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kann nicht glauben, daß der kleine Tod,</l>
+            <l>dem wir doch täglich übern Scheitel schauen,</l>
+            <l>uns eine Sorge bleibt und eine Not.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kann nicht glauben, daß er ernsthaft droht;</l>
+            <l>ich lebe noch, ich habe Zeit zu bauen:</l>
+            <l>mein Blut ist länger als die Rosen rot.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Sinn ist tiefer als das witzige Spiel</l>
+            <l>mit unsrer Furcht, darin er sich gefällt.</l>
+            <l>Ich bin die Welt,</l>
+            <l>aus der er irrend fiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie er</l>
+            <l>kreisende Mönche wandern so umher;</l>
+            <l>man fürchtet sich vor ihrer Wiederkehr,</l>
+            <l>man weiß nicht: ist es jedesmal derselbe,</l>
+            <l>sinds zwei, sinds zehn, sinds tausend oder mehr?</l>
+            <l>Man kennt nur diese fremde gelbe Hand,</l>
+            <l>die sich ausstreckt so nackt und nah –</l>
+            <l>da da:</l>
+            <l>als käm sie aus dem eigenen Gewand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wirst du tun, Gott, wenn ich sterbe?</l>
+            <l>Ich bin dein Krug (wenn ich zerscherbe?)</l>
+            <l>Ich bin dein Trank (wenn ich verderbe?)</l>
+            <l>Bin dein Gewand und dein Gewerbe,</l>
+            <l>mit mir verlierst du deinen Sinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach mir hast du kein Haus, darin</l>
+            <l>dich Worte, nah und warm, begrüßen.</l>
+            <l>Es fällt von deinen müden Füßen</l>
+            <l>die Samtsandale, die ich bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein großer Mantel läßt dich los.</l>
+            <l>Dein Blick, den ich mit meiner Wange</l>
+            <l>warm, wie mit einem Pfühl, empfange,</l>
+            <l>wird kommen, wird mich suchen, lange –</l>
+            <l>und legt beim Sonnenuntergange</l>
+            <l>sich fremden Steinen in den Schooß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wirst du tun, Gott? Ich bin bange.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist der raunende Verrußte,</l>
+            <l>auf allen Öfen schläfst du breit.</l>
+            <l>Das Wissen ist nur in der Zeit.</l>
+            <l>Du bist der dunkle Unbewußte</l>
+            <l>von Ewigkeit zu Ewigkeit.</l>
+            <l>Du bist der Bittende und Bange,</l>
+            <l>der aller Dinge Sinn beschwert.</l>
+            <l>Du bist die Silbe im Gesange,</l>
+            <l>die immer zitternder im Zwange</l>
+            <l>der starken Stimmen wiederkehrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast dich anders nie gelehrt:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn du bist nicht der Schönumscharte,</l>
+            <l>um welchen sich der Reichtum reiht.</l>
+            <l>Du bist der Schlichte, welcher sparte.</l>
+            <l>Du bist der Bauer mit dem Barte</l>
+            <l>von Ewigkeit zu Ewigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du, gestern Knabe, dem die Wirrnis kam:</l>
+            <l>Daß sich dein Blut in Blindheit nicht vergeude.</l>
+            <l>Du meinst nicht den Genuß, du meinst die Freude;</l>
+            <l>du bist gebildet als ein Bräutigam,</l>
+            <l>und deine Braut soll werden: deine Scham.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die große Lust hat auch nach dir Verlangen,</l>
+            <l>und alle Arme sind auf einmal nackt.</l>
+            <l>Auf frommen Bildern sind die bleichen Wangen</l>
+            <l>von fremden Feuern überflackt;</l>
+            <l>und deine Sinne sind wie viele Schlangen,</l>
+            <l>die, von des Tones Rot umfangen,</l>
+            <l>sich spannen in der Tamburine Takt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und plötzlich bist du ganz allein gelassen</l>
+            <l>mit deinen Händen, die dich hassen –</l>
+            <l>und wenn dein Wille nicht ein Wunder tut:</l>
+            <l>– – – – – – – – – – – – – – – – – – – – – – –</l>
+            <l>Aber da gehen wie durch dunkle Gassen</l>
+            <l>von Gott Gerüchte durch dein dunkles Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann bete du, wie es dich dieser lehrt,</l>
+            <l>der selber aus der Wirrnis wiederkehrt</l>
+            <l>und so, daß er zu heiligen Gestalten,</l>
+            <l>die alle ihres Wesens Würde halten,</l>
+            <l>in einer Kirche und auf goldnen Smalten</l>
+            <l>die Schönheit malte, und sie hielt ein Schwert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er lehrt dich sagen:</l>
+            <l>Du mein tiefer Sinn,</l>
+            <l>vertraue mir, daß ich dich nicht enttäusche;</l>
+            <l>in meinem Blute sind so viel Geräusche,</l>
+            <l>ich aber weiß, daß ich aus Sehnsucht bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein großer Ernst bricht über mich herein.</l>
+            <l>In seinem Schatten ist das Leben kühl.</l>
+            <l>Ich bin zum erstenmal mit dir allein,</l>
+            <l>du, mein Gefühl.</l>
+            <l>Du bist so mädchenhaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es war ein Weib in meiner Nachbarschaft</l>
+            <l>und winkte mir aus welkenden Gewändern.</l>
+            <l>Du aber sprichst mir von so fernen Ländern.</l>
+            <l>Und meine Kraft</l>
+            <l>schaut nach den Hügelrändern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe Hymnen, die ich schweige.</l>
+            <l>Es giebt ein Aufgerichtetsein,</l>
+            <l>darin ich meine Sinne neige:</l>
+            <l>du siehst mich groß und ich bin klein.</l>
+            <l>Du kannst mich dunkel unterscheiden</l>
+            <l>von jenen Dingen, welche knien;</l>
+            <l>sie sind wie Herden und sie weiden,</l>
+            <l>ich bin der Hirt am Hang der Heiden,</l>
+            <l>vor welchem sie zu Abend ziehn.</l>
+            <l>Dann komm ich hinter ihnen her</l>
+            <l>und höre dumpf die dunklen Brücken,</l>
+            <l>und in dem Rauch von ihren Rücken</l>
+            <l>verbirgt sich meine Wiederkehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott, wie begreif ich deine Stunde,</l>
+            <l>als du, daß sie im Raum sich runde,</l>
+            <l>die Stimme vor dich hingestellt;</l>
+            <l>dir war das Nichts wie eine Wunde,</l>
+            <l>da kühltest du sie mit der Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt heilt es leise unter uns.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn die Vergangenheiten tranken</l>
+            <l>die vielen Fieber aus dem Kranken,</l>
+            <l>den ruhigen Puls des Hintergrunds.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir liegen lindernd auf dem Nichts</l>
+            <l>und wir verhüllen alle Risse;</l>
+            <l>du aber wächst ins Ungewisse</l>
+            <l>im Schatten deines Angesichts.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alle, die ihre Hände regen</l>
+            <l>nicht in der Zeit, der armen Stadt,</l>
+            <l>alle, die sie an Leises legen,</l>
+            <l>an eine Stelle, fern den Wegen,</l>
+            <l>die kaum noch einen Namen hat, –</l>
+            <l>sprechen dich aus, du Alltagssegen.</l>
+            <l>und sagen sanft auf einem Blatt:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es giebt im Grunde nur Gebete,</l>
+            <l>so sind die Hände uns geweiht,</l>
+            <l>daß sie nichts schufen, was nicht flehte;</l>
+            <l>ob einer malte oder mähte,</l>
+            <l>schon aus dem Ringen der Geräte</l>
+            <l>entfaltete sich Frömmigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zeit ist eine vielgestalte.</l>
+            <l>Wir hören manchmal von der Zeit,</l>
+            <l>und tun das Ewige und Alte;</l>
+            <l>wir wissen, daß uns Gott umwallte</l>
+            <l>groß wie ein Bart und wie ein Kleid.</l>
+            <l>Wir sind wie Adern im Basalte</l>
+            <l>in Gottes harter Herrlichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Name ist uns wie ein Licht</l>
+            <l>hart an die Stirn gestellt.</l>
+            <l>Da senkte sich mein Angesicht</l>
+            <l>vor diesem zeitigen Gericht</l>
+            <l>und sah (von dem es seither spricht)</l>
+            <l>dich, großes dunkelndes Gewicht</l>
+            <l>an mir und an der Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bogst mich langsam aus der Zeit,</l>
+            <l>in die ich schwankend stieg;</l>
+            <l>ich neigte mich nach leisem Streit:</l>
+            <l>jetzt dauert deine Dunkelheit</l>
+            <l>um deinen sanften Sieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt hast du mich und weißt nicht wen,</l>
+            <l>denn deine breiten Sinne sehn</l>
+            <l>nur, daß ich dunkel ward.</l>
+            <l>Du hältst mich seltsam zart</l>
+            <l>und horchst, wie meine Hände gehn</l>
+            <l>durch deinen alten Bart.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein allererstes Wort war: </l>
+            <l>da ward die Zeit. Dann schwiegst du lange.</l>
+            <l>Dein zweites Wort ward Mensch und bange</l>
+            <l>(wir dunkeln noch in seinem Klange)</l>
+            <l>und wieder sinnt dein Angesicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich aber will dein drittes nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bete nachts oft: Sei der Stumme,</l>
+            <l>der wachsend in Gebärden bleibt</l>
+            <l>und den der Geist im Traume treibt,</l>
+            <l>daß er des Schweigens schwere Summe</l>
+            <l>in Stirnen und Gebirge schreibt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sei du die Zuflucht vor dem Zorne,</l>
+            <l>der das Unsagbare verstieß.</l>
+            <l>Es wurde Nacht im Paradies:</l>
+            <l>sei du der Hüter mit dem Horne,</l>
+            <l>und man erzählt nur, daß er blies.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kommst und gehst. Die Türen fallen</l>
+            <l>viel sanfter zu, fast ohne Wehn.</l>
+            <l>Du bist der Leiseste von Allen,</l>
+            <l>die durch die leisen Häuser gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man kann sich so an dich gewöhnen,</l>
+            <l>daß man nicht aus dem Buche schaut,</l>
+            <l>wenn seine Bilder sich verschönen,</l>
+            <l>von deinem Schatten überblaut;</l>
+            <l>weil dich die Dinge immer tönen,</l>
+            <l>nur einmal leis und einmal laut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft wenn ich dich in Sinnen sehe,</l>
+            <l>verteilt sich deine Allgestalt:</l>
+            <l>du gehst wie lauter lichte Rehe</l>
+            <l>und ich bin dunkel und bin Wald.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist ein Rad, an dem ich stehe:</l>
+            <l>von deinen vielen dunklen Achsen</l>
+            <l>wird immer wieder eine schwer</l>
+            <l>und dreht sich näher zu mir her,</l>
+            <l>und meine willigen Werke wachsen</l>
+            <l>von Wiederkehr zu Wiederkehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist der Tiefste, welcher ragte,</l>
+            <l>der Taucher und der Türme Neid.</l>
+            <l>Du bist der Sanfte, der sich sagte,</l>
+            <l>und doch: wenn dich ein Feiger fragte,</l>
+            <l>so schwelgtest du in Schweigsamkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist der Wald der Widersprüche.</l>
+            <l>Ich darf dich wiegen wie ein Kind,</l>
+            <l>und doch vollziehn sich deine Flüche,</l>
+            <l>die über Völkern furchtbar sind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir ward das erste Buch geschrieben,</l>
+            <l>das erste Bild versuchte dich,</l>
+            <l>du warst im Leiden und im Lieben,</l>
+            <l>dein Ernst war wie aus Erz getrieben</l>
+            <l>auf jeder Stirn, die mit den sieben</l>
+            <l>erfüllten Tagen dich verglich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du gingst in Tausenden verloren,</l>
+            <l>und alle Opfer wurden kalt;</l>
+            <l>bis du in hohen Kirchenchoren</l>
+            <l>dich rührtest hinter goldnen Toren;</l>
+            <l>und eine Bangnis, die geboren,</l>
+            <l>umgürtete dich mit Gestalt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß: Du bist der Rätselhafte,</l>
+            <l>um den die Zeit in Zögern stand.</l>
+            <l>O wie so schön ich dich erschaffte</l>
+            <l>in einer Stunde, die mich straffte,</l>
+            <l>in einer Hoffahrt meiner Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich zeichnete viel ziere Risse,</l>
+            <l>behorchte alle Hindernisse, –</l>
+            <l>dann wurden mir die Pläne krank:</l>
+            <l>es wirrten sich wie Dorngerank</l>
+            <l>die Linien und die Ovale,</l>
+            <l>bis tief in mir mit einem Male</l>
+            <l>aus einem Griff ins Ungewisse</l>
+            <l>die frommste aller Formen sprang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kann mein Werk nicht überschaun</l>
+            <l>und fühle doch: es steht vollendet.</l>
+            <l>Aber, die Augen abgewendet,</l>
+            <l>will ich es immer wieder baun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ist mein Tagwerk, über dem</l>
+            <l>mein Schatten liegt wie eine Schale.</l>
+            <l>Und bin ich auch wie Laub und Lehm,</l>
+            <l>sooft ich bete oder male</l>
+            <l>ist Sonntag, und ich bin im Tale</l>
+            <l>ein jubelndes Jerusalem.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin die stolze Stadt des Herrn</l>
+            <l>und sage ihn mit hundert Zungen;</l>
+            <l>in mir ist Davids Dank verklungen:</l>
+            <l>ich lag in Harfendämmerungen</l>
+            <l>und atmete den Abendstern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach Aufgang gehen meine Gassen.</l>
+            <l>Und bin ich lang vom Volk verlassen,</l>
+            <l>so ists: damit ich größer bin.</l>
+            <l>Ich höre jeden in mir schreiten</l>
+            <l>und breite meine Einsamkeiten</l>
+            <l>von Anbeginn zu Anbeginn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr vielen unbestürmten Städte,</l>
+            <l>habt ihr euch nie den Feind ersehnt?</l>
+            <l>O daß er euch belagert hätte</l>
+            <l>ein langes schwankendes Jahrzehnt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bis ihr ihn trostlos und in Trauern,</l>
+            <l>bis daß ihr hungernd ihn ertrugt;</l>
+            <l>er liegt wie Landschaft vor den Mauern,</l>
+            <l>denn also weiß er auszudauern</l>
+            <l>um jene, die er heimgesucht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schaut aus vom Rande eurer Dächer:</l>
+            <l>da lagert er und wird nicht matt</l>
+            <l>und wird nicht weniger und schwächer</l>
+            <l>und schickt nicht Droher und Versprecher</l>
+            <l>und Überreder in die Stadt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist der große Mauerbrecher,</l>
+            <l>der eine stumme Arbeit hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich komme aus meinen Schwingen heim,</l>
+            <l>mit denen ich mich verlor.</l>
+            <l>Ich war Gesang, und Gott, der Reim,</l>
+            <l>rauscht noch in meinem Ohr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich werde wieder still und schlicht,</l>
+            <l>und meine Stimme steht;</l>
+            <l>es senkte sich mein Angesicht</l>
+            <l>zu besserem Gebet.</l>
+            <l>Den andern war ich wie ein Wind,</l>
+            <l>da ich sie rüttelnd rief.</l>
+            <l>Weit war ich, wo die Engel sind,</l>
+            <l>hoch, wo das Licht in Nichts zerrinnt –</l>
+            <l>Gott aber dunkelt tief.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Engel sind das letzte Wehn</l>
+            <l>an seines Wipfels Saum;</l>
+            <l>daß sie aus seinen Ästen gehn,</l>
+            <l>ist ihnen wie ein Traum.</l>
+            <l>Sie glauben dort dem Lichte mehr</l>
+            <l>als Gottes schwarzer Kraft,</l>
+            <l>es flüchtete sich Lucifer</l>
+            <l>in ihre Nachbarschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist der Fürst im Land des Lichts,</l>
+            <l>und seine Stirne steht</l>
+            <l>so steil am großen Glanz des Nichts,</l>
+            <l>daß er, versengten Angesichts,</l>
+            <l>nach Finsternissen fleht.</l>
+            <l>Er ist der helle Gott der Zeit,</l>
+            <l>zu dem sie laut erwacht,</l>
+            <l>und weil er oft in Schmerzen schreit</l>
+            <l>und oft in Schmerzen lacht,</l>
+            <l>glaubt sie an seine Seligkeit</l>
+            <l>und hangt an seiner Macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zeit ist wie ein welker Rand</l>
+            <l>an einem Buchenblatt.</l>
+            <l>Sie ist das glänzende Gewand,</l>
+            <l>das Gott verworfen hat,</l>
+            <l>als Er, der immer Tiefe war,</l>
+            <l>ermüdete des Flugs</l>
+            <l>und sich verbarg vor jedem Jahr,</l>
+            <l>bis ihm sein wurzelhaftes Haar</l>
+            <l>durch alle Dinge wuchs.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst nur mit der Tat erfaßt,</l>
+            <l>mit Händen nur erhellt;</l>
+            <l>ein jeder Sinn ist nur ein Gast</l>
+            <l>und sehnt sich aus der Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ersonnen ist ein jeder Sinn,</l>
+            <l>man fühlt den feinen Saum darin</l>
+            <l>und daß ihn einer spann:</l>
+            <l>Du aber kommst und giebst dich hin</l>
+            <l>und fällst den Flüchtling an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will nicht wissen, wo du bist,</l>
+            <l>sprich mir aus überall.</l>
+            <l>Dein williger Euangelist</l>
+            <l>verzeichnet alles und vergißt</l>
+            <l>zu schauen nach dem Schall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich geh doch immer auf dich zu</l>
+            <l>mit meinem ganzen Gehn;</l>
+            <l>denn wer bin ich und wer bist du,</l>
+            <l>wenn wir uns nicht verstehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Leben hat das gleiche Kleid und Haar</l>
+            <l>wie aller alten Zaren Sterbestunde.</l>
+            <l>Die Macht entfremdete nur meinem Munde,</l>
+            <l>doch meine Reiche, die ich schweigend runde,</l>
+            <l>versammeln sich in meinem Hintergrunde</l>
+            <l>und meine Sinne sind noch Gossudar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Für sie ist beten immer noch: Erbauen,</l>
+            <l>aus allen Maßen bauen, daß das Grauen</l>
+            <l>fast wie die Größe wird und schön, –</l>
+            <l>und: jedes Hinknien und Vertrauen</l>
+            <l>(daß es die andern nicht beschauen)</l>
+            <l>mit vielen goldenen und blauen</l>
+            <l>und bunten Kuppeln überhöhn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn was sind Kirchen und sind Klöster</l>
+            <l>in ihrem Steigen und Erstehn</l>
+            <l>als Harfen, tönende Vertröster,</l>
+            <l>durch die die Hände Halberlöster</l>
+            <l>vor Königen und Jungfraun gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Gott befiehlt mir, daß ich schriebe:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Königen sei Grausamkeit.</l>
+            <l>Sie ist der Engel vor der Liebe,</l>
+            <l>und ohne diesen Bogen bliebe</l>
+            <l>mir keine Brücke in die Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Gott befiehlt mir, daß ich male:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zeit ist mir mein tiefstes Weh,</l>
+            <l>so legte ich in ihre Schale:</l>
+            <l>das wache Weib, die Wundenmale,</l>
+            <l>den reichen Tod (daß er sie zahle),</l>
+            <l>der Städte bange Bacchanale,</l>
+            <l>den Wahnsinn und die Könige.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Gott befiehlt mir, daß ich baue:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn König bin ich von der Zeit.</l>
+            <l>Dir aber bin ich nur der graue</l>
+            <l>Mitwisser deiner Einsamkeit.</l>
+            <l>Und bin das Auge mit der Braue ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das über meine Schulter schaue</l>
+            <l>von Ewigkeit zu Ewigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es tauchten tausend Theologen</l>
+            <l>in deines Namens alte Nacht.</l>
+            <l>Jungfrauen sind zu dir erwacht,</l>
+            <l>und Jünglinge in Silber zogen</l>
+            <l>und schimmerten in dir, du Schlacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In deinen langen Bogengängen</l>
+            <l>begegneten die Dichter sich</l>
+            <l>und waren Könige von Klängen</l>
+            <l>und mild und tief und meisterlich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist die sanfte Abendstunde,</l>
+            <l>die alle Dichter ähnlich macht;</l>
+            <l>du drängst dich dunkel in die Munde,</l>
+            <l>und im Gefühl von einem Funde</l>
+            <l>umgiebt ein jeder dich mit Pracht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dich heben hunderttausend Harfen</l>
+            <l>wie Schwingen aus der Schweigsamkeit.</l>
+            <l>Und deine alten Winde warfen</l>
+            <l>zu allen Dingen und Bedarfen</l>
+            <l>den Hauch von deiner Herrlichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Dichter haben dich verstreut</l>
+            <l>(es ging ein Sturm durch alles Stammeln),</l>
+            <l>ich aber will dich wieder sammeln</l>
+            <l>in dem Gefäß, das dich erfreut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wanderte in vielem Winde;</l>
+            <l>da triebst du tausendmal darin.</l>
+            <l>Ich bringe alles was ich finde:</l>
+            <l>als Becher brauchte dich der Blinde,</l>
+            <l>sehr tief verbarg dich das Gesinde,</l>
+            <l>der Bettler aber hielt dich hin;</l>
+            <l>und manchmal war bei einem Kinde</l>
+            <l>ein großes Stück von deinem Sinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du siehst, daß ich ein Sucher bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einer, der hinter seinen Händen</l>
+            <l>verborgen geht und wie ein Hirt;</l>
+            <l>(mögst du den Blick der ihn beirrt,</l>
+            <l>den Blick der Fremden von ihm wenden).</l>
+            <l>Einer der träumt, dich zu vollenden</l>
+            <l>und: daß er sich vollenden wird.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selten ist Sonne im Sobór.</l>
+            <l>Die Wände wachsen aus Gestalten,</l>
+            <l>und durch die Jungfraun und die Alten</l>
+            <l>drängt sich, wie Flügel im Entfalten,</l>
+            <l>das goldene, das Kaiser-Tor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An seinem Säulenrand verlor</l>
+            <l>die Wand sich hinter den Ikonen;</l>
+            <l>und, die im stillen Silber wohnen,</l>
+            <l>die Steine, steigen wie ein Chor</l>
+            <l>und fallen wieder in die Kronen</l>
+            <l>und schweigen schöner als zuvor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und über sie, wie Nächte blau,</l>
+            <l>von Angesichte blaß,</l>
+            <l>schwebt, die dich freuete, die Frau:</l>
+            <l>die Pförtnerin, der Morgentau,</l>
+            <l>die dich umblüht wie eine Au</l>
+            <l>und ohne Unterlaß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Kuppel ist voll deines Sohns</l>
+            <l>und bindet rund den Bau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du geruhen deines Throns,</l>
+            <l>den ich in Schauern schau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da trat ich als ein Pilger ein</l>
+            <l>und fühlte voller Qual</l>
+            <l>an meiner Stirne dich, du Stein.</l>
+            <l>Mit Lichtern, sieben an der Zahl,</l>
+            <l>umstellte ich dein dunkles Sein</l>
+            <l>und sah in jedem Bilde dein</l>
+            <l>bräunliches Muttermal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da stand ich, wo die Bettler stehn,</l>
+            <l>die schlecht und hager sind:</l>
+            <l>aus ihrem Auf- und Niederwehn</l>
+            <l>begriff ich dich, du Wind.</l>
+            <l>Ich sah den Bauer, überjahrt,</l>
+            <l>bärtig wie Joachim,</l>
+            <l>und daraus, wie er dunkel ward,</l>
+            <l>von lauter Ähnlichen umschart,</l>
+            <l>empfand ich dich wie nie so zart,</l>
+            <l>so ohne Wort geoffenbart</l>
+            <l>in allen und in ihm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du läßt der Zeit den Lauf,</l>
+            <l>und dir ist niemals Ruh darin:</l>
+            <l>der Bauer findet deinen Sinn</l>
+            <l>und hebt ihn auf und wirft ihn hin</l>
+            <l>und hebt ihn wieder auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie der Wächter in den Weingeländen</l>
+            <l>seine Hütte hat und wacht,</l>
+            <l>bin ich Hütte, Herr, in deinen Händen</l>
+            <l>und bin Nacht, o Herr, von deiner Nacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weinberg, Weide, alter Apfelgarten,</l>
+            <l>Acker, der kein Frühjahr überschlägt,</l>
+            <l>Feigenbaum, der auch im marmorharten</l>
+            <l>Grunde hundert Früchte trägt:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Duft geht aus aus deinen runden Zweigen.</l>
+            <l>Und du fragst nicht, ob ich wachsam sei;</l>
+            <l>furchtlos, aufgelöst in Säften, steigen</l>
+            <l>deine Tiefen still an mir vorbei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott spricht zu jedem nur, eh er ihn macht,</l>
+            <l>dann geht er schweigend mit ihm aus der Nacht.</l>
+            <l>Aber die Worte, eh jeder beginnt,</l>
+            <l>diese wolkigen Worte, sind:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von deinen Sinnen hinausgesandt,</l>
+            <l>geh bis an deiner Sehnsucht Rand;</l>
+            <l>gieb mir Gewand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hinter den Dingen wachse als Brand,</l>
+            <l>daß ihre Schatten, ausgespannt,</l>
+            <l>immer mich ganz bedecken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß dir Alles geschehn: Schönheit und Schrecken.</l>
+            <l>Man muß nur gehn: Kein Gefühl ist das fernste.</l>
+            <l>Laß dich von mir nicht trennen.</l>
+            <l>Nah ist das Land,</l>
+            <l>das sie das Leben nennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst es erkennen</l>
+            <l>an seinem Ernste.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gieb mir die Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich war bei den ältesten Mönchen, den Malern und Mythenmeldern,</l>
+            <l>die schrieben ruhig Geschichten und zeichneten Runen des Ruhms.</l>
+            <l>Und ich seh dich in meinen Gesichten mit Winden, Wassern und Wäldern</l>
+            <l>rauschend am Rande des Christentums,</l>
+            <l>du Land, nicht zu lichten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will dich erzählen, ich will dich beschaun und beschreiben,</l>
+            <l>nicht mit Bol und mit Gold, nur mit Tinte aus Apfelbaumrinden;</l>
+            <l>ich kann auch mit Perlen dich nicht an die Blätter binden,</l>
+            <l>und das zitterndste Bild, das mir meine Sinne erfinden,</l>
+            <l>du würdest es blind durch dein einfaches Sein übertreiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So will ich die Dinge in dir nur bescheiden und schlichthin benamen,</l>
+            <l>will die Könige nennen, die ältesten, woher sie kamen,</l>
+            <l>und will ihre Taten und Schlachten berichten am Rand meiner Seiten.</l>
+            <l>Denn du bist der Boden. Dir sind nur wie Sommer die Zeiten,</l>
+            <l>und du denkst an die nahen nicht anders als an die entfernten,</l>
+            <l>und ob sie dich tiefer besamen und besser bebauen lernten:</l>
+            <l>du fühlst dich nur leise berührt von den ähnlichen Ernten</l>
+            <l>und hörst weder Säer noch Schnitter, die über dich schreiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du dunkelnder Grund, geduldig erträgst du die Mauern.</l>
+            <l>Und vielleicht erlaubst du noch eine Stunde den Städten zu dauern</l>
+            <l>und gewährst noch zwei Stunden den Kirchen und einsamen Klöstern</l>
+            <l>und lässest fünf Stunden noch Mühsal allen Erlöstern</l>
+            <l>und siehst noch sieben Stunden das Tagwerk des Bauern –:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eh du wieder Wald wirst und Wasser und wachsende Wildnis</l>
+            <l>in der Stunde der unerfaßlichen Angst,</l>
+            <l>da du dein unvollendetes Bildnis</l>
+            <l>von allen Dingen zurückverlangst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gieb mir noch eine kleine Weile Zeit: ich will die Dinge so wie keiner lieben</l>
+            <l>bis sie dir alle würdig sind und weit.</l>
+            <l>Ich will nur sieben Tage, sieben</l>
+            <l>auf die sich keiner noch geschrieben,</l>
+            <l>sieben Seiten Einsamkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wem du das Buch giebst, welches die umfaßt,</l>
+            <l>der wird gebückt über den Blättern bleiben.</l>
+            <l>Es sei denn, daß du ihn in Händen hast,</l>
+            <l>um selbst zu schreiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So bin ich nur als Kind erwacht,</l>
+            <l>so sicher im Vertraun</l>
+            <l>nach jeder Angst und jeder Nacht</l>
+            <l>dich wieder anzuschaun.</l>
+            <l>Ich weiß, sooft mein Denken mißt,</l>
+            <l>wie tief, wie lang, wie weit – :</l>
+            <l>du aber bist und bist und bist,</l>
+            <l>umzittert von der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ist, als wär ich jetzt zugleich</l>
+            <l>Kind, Knab und Mann und mehr.</l>
+            <l>Ich fühle: nur der Ring ist reich</l>
+            <l>durch seine Wiederkehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich danke dir, du tiefe Kraft,</l>
+            <l>die immer leiser mit mir schafft</l>
+            <l>wie hinter vielen Wänden;</l>
+            <l>jetzt ward mir erst der Werktag schlicht</l>
+            <l>und wie ein heiliges Gesicht</l>
+            <l>zu meinen dunklen Händen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß ich nicht war vor einer Weile,</l>
+            <l>weißt du davon? Und du sagst nein.</l>
+            <l>Da fühl ich, wenn ich nur nicht eile,</l>
+            <l>so kann ich nie vergangen sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ja mehr als Traum im Traume.</l>
+            <l>Nur was sich sehnt nach einem Saume,</l>
+            <l>ist wie ein Tag und wie ein Ton;</l>
+            <l>es drängt sich fremd durch deine Hände,</l>
+            <l>daß es die viele Freiheit fände,</l>
+            <l>und traurig lassen sie davon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So blieb das Dunkel dir allein,</l>
+            <l>und, wachsend in die leere Lichte,</l>
+            <l>erhob sich eine Weltgeschichte</l>
+            <l>aus immer blinderem Gestein.</l>
+            <l>Die Massen wollen wieder Massen,</l>
+            <l>die Steine sind wie losgelassen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>und keiner ist von dir behauen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es lärmt das Licht im Wipfel deines Baumes</l>
+            <l>und macht dir alle Dinge bunt und eitel,</l>
+            <l>sie finden dich erst wenn der Tag verglomm.</l>
+            <l>Die Dämmerung, die Zärtlichkeit des Raumes,</l>
+            <l>legt tausend Hände über tausend Scheitel,</l>
+            <l>und unter ihnen wird das Fremde fromm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du willst die Welt nicht anders an dich halten</l>
+            <l>als so, mit dieser sanftesten Gebärde.</l>
+            <l>Aus ihren Himmeln greifst du dir die Erde</l>
+            <l>und fühlst sie unter deines Mantels Falten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast so eine leise Art zu sein.</l>
+            <l>Und jene, die dir laute Namen weihn,</l>
+            <l>sind schon vergessen deiner Nachbarschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von deinen Händen, die sich bergig heben,</l>
+            <l>steigt, unsern Sinnen das Gesetz zu geben,</l>
+            <l>mit dunkler Stirne deine stumme Kraft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Williger, und deine Gnade kam</l>
+            <l>immer in alle ältesten Gebärden.</l>
+            <l>Wenn einer die Hände zusammenflicht,</l>
+            <l>so daß sie zahm</l>
+            <l>und um ein kleines Dunkel sind –:</l>
+            <l>auf einmal fühlt er dich in ihnen werden,</l>
+            <l>und wie im Winde</l>
+            <l>senkt sich sein Gesicht</l>
+            <l>in Scham.</l>
+            <l>Und da versucht er, auf dem Stein zu liegen</l>
+            <l>und aufzustehn, wie er bei andern sieht,</l>
+            <l>und seine Mühe ist, dich einzuwiegen,</l>
+            <l>aus Angst, daß er dein Wachsein schon verriet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn wer dich fühlt, kann sich mit dir nicht brüsten;</l>
+            <l>er ist erschrocken, bang um dich und flieht</l>
+            <l>vor allen Fremden, die dich merken müßten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist das Wunder in den Wüsten,</l>
+            <l>das Ausgewanderten geschieht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Stunde vom Rande des Tages,</l>
+            <l>und das Land ist zu allem bereit.</l>
+            <l>Was du sehnst, meine Seele, sag es:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sei Heide und, Heide, sei weit.</l>
+            <l>Habe alte, alte Kurgane,</l>
+            <l>wachsend und kaumerkannt,</l>
+            <l>wenn es Mond wird über das plane</l>
+            <l>langvergangene Land.</l>
+            <l>Gestalte dich, Stille. Gestalte</l>
+            <l>die Dinge (es ist ihre Kindheit,</l>
+            <l>sie werden dir willig sein).</l>
+            <l>Sei Heide, sei Heide, sei Heide,</l>
+            <l>dann kommt vielleicht auch der Alte,</l>
+            <l>den ich kaum von der Nacht unterscheide,</l>
+            <l>und bringt seine riesige Blindheit</l>
+            <l>in mein horchendes Haus herein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich seh ihn sitzen und sinnen,</l>
+            <l>nicht über mich hinaus;</l>
+            <l>für ihn ist alles innen,</l>
+            <l>Himmel und Heide und Haus.</l>
+            <l>Nur die Lieder sind ihm verloren,</l>
+            <l>die er nie mehr beginnt;</l>
+            <l>aus vielen tausend Ohren</l>
+            <l>trank sie die Zeit und der Wind;</l>
+            <l>aus den Ohren der Toren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dennoch: mir geschieht,</l>
+            <l>als ob ich ein jedes Lied</l>
+            <l>tief in mir ihm ersparte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er schweigt hinterm bebenden Barte,</l>
+            <l>er möchte sich wiedergewinnen</l>
+            <l>aus seinen Melodien.</l>
+            <l>Da komm ich zu seinen Knien:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>und seine Lieder rinnen</l>
+            <l>rauschend zurück in ihn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

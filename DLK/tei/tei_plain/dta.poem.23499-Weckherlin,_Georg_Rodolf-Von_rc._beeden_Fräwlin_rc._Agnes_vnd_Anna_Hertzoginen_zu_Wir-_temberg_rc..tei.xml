@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von rc. beeden  
+ Fräwlin rc. Agnes vnd  
+ Anna Hertzoginen zu Wir-  
+ temberg rc.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">67</measure>
+        <measure type="tokens">47</measure>
+        <measure type="characters">284</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1619</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20627-4"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von rc. beeden  
+ Fräwlin rc. Agnes vnd  
+ Anna Hertzoginen zu Wir-  
+ temberg rc.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Solt Venus selbs mit höchstem fleiß/</l>
+            <l>Der höchsten schönheit höchstẽ preiß</l>
+            <l>Zuerwerben/ sich selbs beschönen/</l>
+            <l>Sich mit der Schönheit cron selbs crönen/</l>
+            <l>Vnd alsdan den sig also frey</l>
+            <l>Wollen/ Anna/ von Euch erlangen;</l>
+            <l>Würd Sie (zwar nicht ohnlaid vnd rew)</l>
+            <l>Für den sig schimpf vnd scham empfangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

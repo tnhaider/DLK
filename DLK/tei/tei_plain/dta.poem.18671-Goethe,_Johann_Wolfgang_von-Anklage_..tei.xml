@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Anklage .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-5 2-2 3-8 4-5 5-3</measure>
+        <measure type="syllables">221</measure>
+        <measure type="tokens">139</measure>
+        <measure type="characters">836</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Anklage .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wisst ihr denn auf wen die Teufel lauern,</l>
+            <l>In der Wüste, zwischen Fels und Mauern?</l>
+            <l>Und, wie sie den Augenblick erpassen,</l>
+            <l>Nach der Hölle sie entführend fassen?</l>
+            <l>Lügner sind es und der Bösewicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Poete warum scheut er nicht</l>
+            <l>Sich mit solchen Leuten einzulassen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weiss denn der mit wem er geht und wandelt?</l>
+            <l>Er der immer nur im Wahnsinn handelt.</l>
+            <l>Gränzenlos, von eigensinn’gem Lieben,</l>
+            <l>Wird er in die Oede fortgetrieben,</l>
+            <l>Seiner Klagen Reim, in Sand geschrieben,</l>
+            <l>Sind vom Winde gleich verjagt;</l>
+            <l>Er versteht nicht was er sagt,</l>
+            <l>Was er sagt wird er nicht halten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch sein Lied man lässt es immer walten,</l>
+            <l>Da es doch dem Coran widerspricht.</l>
+            <l>Lehret nun, ihr des Gesetzes Kenner,</l>
+            <l>Weisheit-fromme, hochgelahrte Männer,</l>
+            <l>Treuer Mosleminen feste Pflicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hafis, in’s besondre, schaffet Aergernisse,</l>
+            <l>Mirza sprengt den Geist ins Ungewisse,</l>
+            <l>Saget, was man thun und lassen müsse?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

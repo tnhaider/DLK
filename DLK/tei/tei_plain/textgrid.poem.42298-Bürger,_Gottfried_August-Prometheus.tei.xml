@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Prometheus</title>
+        <author>
+          <persName>
+            <surname>Bürger</surname>
+            <forename>Gottfried August</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-12 2-3 3-12 4-3</measure>
+        <measure type="syllables">278</measure>
+        <measure type="tokens">150</measure>
+        <measure type="characters">1024</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1784</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Prometheus</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Prometheus hatte kaum herab in Erdennacht</l>
+            <l>Den Quell des Lichts, der Wärm' und alles Lebens,</l>
+            <l>Das Feuer, von Olymp gebracht;</l>
+            <l>Sieh, da verbrannte sich – denn Warnen war vergebens –</l>
+            <l>Manch dummes Jüngelchen die Faust aus Unbedacht.</l>
+            <l>Mein Gott! Was für Geschrei erhuben</l>
+            <l>Nicht da so manches dummen Buben</l>
+            <l>Erzdummer Papa,</l>
+            <l>Erzdumme Mama,</l>
+            <l>Erzdumme Leibs- und Seelenamme!</l>
+            <l>Welch Gänsegeschnatter die Klerisei,</l>
+            <l>Welch Truthahnsgekoller die Polizei! –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist's weise, daß man dich verdamme,</l>
+            <l>Gebenedeite Gottesflamme,</l>
+            <l>Allfreie Denk- und Druckerei?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Prometheus hatte kaum herab in Erdennacht</l>
+            <l>Den Quell des Lichts, der Wärm' und alles Lebens,</l>
+            <l>Das Feuer, von Olymp gebracht;</l>
+            <l>Sieh, da verbrannte sich – denn Warnen war vergebens –</l>
+            <l>Manch dummes Jüngelchen die Faust aus Unbedacht.</l>
+            <l>Mein Gott! Was für Geschrei erhuben</l>
+            <l>Nicht da so manches dummen Buben</l>
+            <l>Erzdummer Papa,</l>
+            <l>Erzdumme Mama,</l>
+            <l>Erzdumme Leibs- und Seelenamme!</l>
+            <l>Welch Gänsegeschnatter die Klerisei,</l>
+            <l>Welch Truthahnsgekoller die Polizei! –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist's weise, daß man dich verdamme,</l>
+            <l>Gebenedeite Gottesflamme,</l>
+            <l>Allfreie Denk- und Druckerei?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

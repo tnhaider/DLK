@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Deutscher Sinn</title>
+        <author>
+          <persName>
+            <surname>Schlegel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-16 2-16</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">926</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1800</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Deutscher Sinn</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Froh mit Freunden rasch gelebt,</l>
+            <l>Herz zu Herzen hingestrebt,</l>
+            <l>Von des Frühlings Lust getränkt,</l>
+            <l>Geistes Aug' in Geist versenkt,</l>
+            <l>Ist des Deutschen Sitt' und Art,</l>
+            <l>Die noch nie gewandelt ward.</l>
+            <l>Was in Kunst und Wissenschaft</l>
+            <l>Fremder Himmel Hohes schafft,</l>
+            <l>Ward von ihm alsbald erkannt,</l>
+            <l>Wuchs so mächt'ger seiner Hand.</l>
+            <l>Eines ihm Verderben bringt:</l>
+            <l>Wenn ihn fremde Sitte zwingt;</l>
+            <l>Eins empöret sein Gefühl:</l>
+            <l>Fremder Rechte loses Spiel;</l>
+            <l>Ewig bleiben die uns fern,</l>
+            <l>Ehr' und Freiheit unser Stern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Froh mit Freunden rasch gelebt,</l>
+            <l>Herz zu Herzen hingestrebt,</l>
+            <l>Von des Frühlings Lust getränkt,</l>
+            <l>Geistes Aug' in Geist versenkt,</l>
+            <l>Ist des Deutschen Sitt' und Art,</l>
+            <l>Die noch nie gewandelt ward.</l>
+            <l>Was in Kunst und Wissenschaft</l>
+            <l>Fremder Himmel Hohes schafft,</l>
+            <l>Ward von ihm alsbald erkannt,</l>
+            <l>Wuchs so mächt'ger seiner Hand.</l>
+            <l>Eines ihm Verderben bringt:</l>
+            <l>Wenn ihn fremde Sitte zwingt;</l>
+            <l>Eins empöret sein Gefühl:</l>
+            <l>Fremder Rechte loses Spiel;</l>
+            <l>Ewig bleiben die uns fern,</l>
+            <l>Ehr' und Freiheit unser Stern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">751</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drei Fräulein sahn vom Schlosse</l>
+            <l>Hinab in’s tiefe Thal.</l>
+            <l>Ihr Vater kam zu Rosse,</l>
+            <l>Er trug ein Kleid von Stahl.</l>
+            <l>„willkomm, Herr Vater, Gottwillkomm!</l>
+            <l>Was bringst du deinen Kindern?</l>
+            <l>Wir waren alle fromm.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„mein Kind im gelben Kleide!</l>
+            <l>Heut hab’ ich dein gedacht.</l>
+            <l>Der Schmuck ist deine Freude,</l>
+            <l>Dein Liebstes ist die Pracht.</l>
+            <l>Von rothem Gold die Kette hier</l>
+            <l>Nahm ich dem stolzen Ritter,</l>
+            <l>Gab ihm den Tod dafür.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Fräulein schnell die Kette</l>
+            <l>Um ihren Nacken band.</l>
+            <l>Sie ging hinab zur Stätte,</l>
+            <l>Da sie den Todten fand.</l>
+            <l>„du liegst am Wege, wie ein Dieb,</l>
+            <l>Und bist ein edler Ritter,</l>
+            <l>Und bist mein seines Lieb.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie trug ihn auf den Armen</l>
+            <l>Zum Gotteshaus hinab;</l>
+            <l>Sie legt’ ihn mit Erbarmen</l>
+            <l>In seiner Väter Grab.</l>
+            <l>Die Kett’, die ihr am Halse schien,</l>
+            <l>Die zog sie fest zusammen,</l>
+            <l>Und sank zum Lieb dahin.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

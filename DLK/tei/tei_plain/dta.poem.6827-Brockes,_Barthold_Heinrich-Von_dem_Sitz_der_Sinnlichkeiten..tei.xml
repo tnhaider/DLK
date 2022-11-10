@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Sitz der Sinnlichkeiten.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">114</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">430</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Sitz der Sinnlichkeiten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lasst unsern Geist mit Ernst von neuen überlegen,</l>
+            <l>Wie wunderbar des Cörpers Bau formirt!</l>
+            <l>Viel Nerven, um ihn zu bewegen,</l>
+            <l>Sind allenthalben hingeführt.</l>
+            <l>Bis zu dem äusersten von seinen Theilen,</l>
+            <l>Sieht man dieselbigen gleich kleinen Seilen.</l>
+            <l>Die Haut, von welcher wir umgeben seyn,</l>
+            <l>Ist gantz davon gewebt, die Röhren, die so klein,</l>
+            <l>Zusammt den Mäuselein,</l>
+            <l>In welchen sich ein flüssend Feuer reget,</l>
+            <l>Sind Federchen, wodurch der Cörper sich beweget.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

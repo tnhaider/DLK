@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">137.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">516</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>137.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du siehst, es wankt dein Kind, und, statt ihm beizuspringen,</l>
+            <l>Siehst du mit Angst ihm zu, wie es ihm wird gelingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wird es im Gleichgewicht sich halten, wird es fallen?</l>
+            <l>Darüber lässest du die Zeit der Hülf' entwallen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Roll' ist ungeschickt, die du dabei gespielt;</l>
+            <l>Gefallen wär' es, wenn es nicht sein Engel hielt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch tröste dich, wer weiß du hättest, wohlbeflissen</l>
+            <l>Eingreifend, es villeicht erst hin zum Sturz gerissen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es fiel nicht, danke Gott. Fiel es, so machtest du</l>
+            <l>Vorwürfe dir mit Recht; nun ist kein Grund dazu.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

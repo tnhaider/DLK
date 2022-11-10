@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Herbst.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">525</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Herbst.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die, in dem großen Wunderzirkel, das Jahr, und</l>
+            <l>dadurch, unsre Welt,</l>
+            <l>Auf eine, nicht verneinliche, vernünftigmächtge Weis’</l>
+            <l>erhalt!</l>
+            <l>Sey inniglich dafür gepriesen, daß du Geschöpfe werden</l>
+            <l>lassen,</l>
+            <l>Die, daß hierinn von deinem Wesen ein Stral verbor-</l>
+            <l>gen, können fassen.</l>
+            <l>Gieb, daß, mit froher Dankbarkeit, sie dich, in diesem</l>
+            <l>deinen Segen,</l>
+            <l>Erkennen, dich bewundernd loben, bekennen und ver-</l>
+            <l>ehren mögen!</l>
+            <l>Laß ihr, in dieser frohen Zeit durch Dank und Lust erreg-</l>
+            <l>tes, Lallen,</l>
+            <l>Der Ton durch dich vergnügter Kinder, dir, ew’gem</l>
+            <l>Vater, doch gefallen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

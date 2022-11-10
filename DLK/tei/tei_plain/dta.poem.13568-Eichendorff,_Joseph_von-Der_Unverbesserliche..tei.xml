@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Unverbesserliche.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">250</measure>
+        <measure type="tokens">165</measure>
+        <measure type="characters">952</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Unverbesserliche.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr habt den Vogel gefangen,</l>
+            <l>Der war so frank und frei,</l>
+            <l>Nun ist ihm's Fliegen vergangen,</l>
+            <l>Der Sommer ist lange vorbei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es liegen wohl Federn neben</l>
+            <l>Und unter und über mir,</l>
+            <l>Sie können mich alle nicht heben</l>
+            <l>Aus diesem Meer von Papier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Papier! wie hör' ich Dich schreien,</l>
+            <l>Da alles die Federn schwenkt</l>
+            <l>In langen emsigen Reihen —</l>
+            <l>So wird der Staat nun gelenkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Fenster am Pulte steht offen,</l>
+            <l>Der Sonnenschein schweift über's Dach,</l>
+            <l>Da wird so uraltes Hoffen</l>
+            <l>Und Wünschen im Herzen wach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die lustigen Kameraden,</l>
+            <l>Lerchen, Quellen und Wald,</l>
+            <l>Sie rauschen schon wieder und laden:</l>
+            <l>Geselle, kommst du nicht bald?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie ich durch die Gardinen</l>
+            <l>Hinaussah in keckem Muth,</l>
+            <l>Da hört' ich lachen im Grünen,</l>
+            <l>Ich kannte das Stimmlein recht gut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie ich hinaustrat zur Schwelle,</l>
+            <l>Da blühten die Bäume schon all'</l>
+            <l>Und Liebchen so frühlingshelle</l>
+            <l>Saß drunter beim Vogelschall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und eh wir uns beide besannen,</l>
+            <l>Da wiehert' das Flügelroß —</l>
+            <l>Wir flogen selbander von dannen,</l>
+            <l>Daß es unten die Schreiber verdroß.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

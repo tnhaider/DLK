@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Blitzableiter.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">90</measure>
+        <measure type="tokens">57</measure>
+        <measure type="characters">348</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Blitzableiter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wilder Geist, wie Wetterwolke</l>
+            <l>Ueber uns zusammenzieht:</l>
+            <l>Ach, wie hilft man unserm Volke,</l>
+            <l>Daß ihm nicht ein Leid geschieht?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wetterschäden zu verhüten,</l>
+            <l>Giebt es ja ein Mittel jetzt;</l>
+            <l>Für des wilden Geistes Wüthen</l>
+            <l>Giebt's ein Mittel auch zuletzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hänget an die Blitzableiter</l>
+            <l>Titel, Würden, Orden, Geld,</l>
+            <l>Und das Wetter wird gleich heiter,</l>
+            <l>Und beruhigt ist die Welt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

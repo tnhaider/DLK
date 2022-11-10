@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi.   Neu-Jahrs-Gedancken. Zu Pariß.</title>
+        <author>
+          <persName>
+            <surname>Zinzendorf</surname>
+            <forename>Nicolaus Ludwig von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">110</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">400</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20688-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi.   Neu-Jahrs-Gedancken. Zu Pariß.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Owachsamer Geist,</l>
+            <l>Der Wunder beweist,</l>
+            <l>Erscheine der Seele,</l>
+            <l>Dein göttliches Oele</l>
+            <l>Durchströme den Sinn!</l>
+            <l>Es müß ihm gelingen</l>
+            <l>Dein Reich zu erringen,</l>
+            <l>Er sehnt sich dahin;</l>
+            <l>Der dornigte Steg</l>
+            <l>Kan Helden erschrecken,</l>
+            <l>Und Tapffere strecken;</l>
+            <l>Der sandigte Weg</l>
+            <l>Macht müde und matt;</l>
+            <l>Wer aber dich hat,</l>
+            <l>Den machen die Beulen</l>
+            <l>Nur hurtiger eilen,</l>
+            <l>Zur bleibenden Stadt.</l>
+            <l>Drum Streiter Hertz auf!</l>
+            <l>Auf! ohne Verweilen,</l>
+            <l>Vollführe den Lauff!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

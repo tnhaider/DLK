@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sängerneid</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">738</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1824</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sängerneid</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sänger frönen gern dem Neide!</l>
+            <l>Lauschet nur dem Vögelchor!</l>
+            <l>Will die Lerche singen vor,</l>
+            <l>Pfeift der Fink ihr drein zum Leide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und im Walde – welch Gemische!</l>
+            <l>Klinget oft wie Schimpf und Streit,</l>
+            <l>Nachtigall nur schweigt im Leid,</l>
+            <l>Bis sie schlafen im Gebüsche.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann ihr Lied vom schönsten Schalle</l>
+            <l>Singet sie in später Nacht,</l>
+            <l>Wo kein andrer Vogel wacht,</l>
+            <l>Hörten sie's – sie schimpften alle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sänger frönen gern dem Neide!</l>
+            <l>Lauschet nur dem Vögelchor!</l>
+            <l>Will die Lerche singen vor,</l>
+            <l>Pfeift der Fink ihr drein zum Leide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und im Walde – welch Gemische!</l>
+            <l>Klinget oft wie Schimpf und Streit,</l>
+            <l>Nachtigall nur schweigt im Leid,</l>
+            <l>Bis sie schlafen im Gebüsche.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann ihr Lied vom schönsten Schalle</l>
+            <l>Singet sie in später Nacht,</l>
+            <l>Wo kein andrer Vogel wacht,</l>
+            <l>Hörten sie's – sie schimpften alle.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

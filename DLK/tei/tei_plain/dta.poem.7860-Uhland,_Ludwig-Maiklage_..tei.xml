@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Maiklage .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">299</measure>
+        <measure type="tokens">191</measure>
+        <measure type="characters">1145</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Maiklage .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leuchtet schon die Frühlingssonne</l>
+            <l>Ueber See und Aue hin?</l>
+            <l>Hat zur Stätte stiller Wonne</l>
+            <l>Sich gewölbt der Zweige Grün?</l>
+            <l>Ach! die Gute, die ich meine,</l>
+            <l>Schenkt mir keinen Maienstral,</l>
+            <l>Wandelt nicht im Blüthenhaine,</l>
+            <l>Ruhet nicht im Quellenthal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja! es waren schönre Zeiten,</l>
+            <l>Als in buntbekränzten Reihn</l>
+            <l>Hirten mit den süßen Bräuten</l>
+            <l>Walleten zum Opferhain;</l>
+            <l>Als die Jungfrau, Krüge tragend,</l>
+            <l>Oft zum kühlen Brunnen trat,</l>
+            <l>Und der Wandrer, sehnlich fragend,</l>
+            <l>Sie um Trunk und Liebe bat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! das Toben roher Stürme</l>
+            <l>Riß den goldnen Frühling fort.</l>
+            <l>Schlösser stiegen auf und Thürme,</l>
+            <l>Traurig saß die Jungfrau dort;</l>
+            <l>Lauschte nächtlichem Gesange,</l>
+            <l>Sah hinab in’s Schlachtgewühl,</l>
+            <l>Sah es, wie im Waffendrange</l>
+            <l>Ihr getreuer Streiter fiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein Alter, dumpf und trübe,</l>
+            <l>Lagerte sich auf die Welt,</l>
+            <l>Das die schöne Jugendliebe</l>
+            <l>Wie ein Traum befangen hält.</l>
+            <l>Im Vorübereilen grüßen</l>
+            <l>Sich mit Blicken, voll von Schmerz,</l>
+            <l>Die sich fest und ewig schließen</l>
+            <l>Möchten an das treue Herz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welkt, ihr Blumen und ihr Bäume,</l>
+            <l>Höhnet nicht der Liebe Schmerz!</l>
+            <l>Sterbet auch, ihr Jugendkeime!</l>
+            <l>Schmachte hin, du volles Herz!</l>
+            <l>In die öde Nacht der Grüfte</l>
+            <l>Sinkt, ihr Jünglinge, hinab!</l>
+            <l>Flieder wallen in die Lüfte,</l>
+            <l>Rosen blühn um euer Grab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

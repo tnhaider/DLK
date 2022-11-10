@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über das Gesicht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">708</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über das Gesicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist es nicht ausgemacht, daß, wenn der Menschen Fleiß</l>
+            <l>Den Göttern Tempel baut, und den Monarchen weiß</l>
+            <l>Palläste zu erhöhn; im Blick nicht, bloß im Geist</l>
+            <l>Die Gleichmaß, der Entwurff, die Symmetrie sich weisst?</l>
+            <l>Die Himmlischen Geschenck, das auserlesne Licht,</l>
+            <l>Wornach das Schöne sich zusammt dem Guten richt,</l>
+            <l>Die niemand lernen kan,</l>
+            <l>Durch welche Phidias die Wunder ansgeübet,</l>
+            <l>Die er zum ewgen Ruhm ersann,</l>
+            <l>Die heitre Ur-Jdee, ein ewigs Muster-Bild,</l>
+            <l>So wircket, daß man gleich was schön ist, schätzt und liebet,</l>
+            <l>Die bloß nur des Gemüthes-Gaben,</l>
+            <l>So wir in der Gebuhrt empfangen haben;</l>
+            <l>Worinn ein edler Geist sich nie kan satt studiren,</l>
+            <l>Und welchen er, jemehr ihn Licht und Schönheit rühren,</l>
+            <l>Um desto eifriger sucht nachzuspüren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

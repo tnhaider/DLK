@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Glückliche</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">534</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1761</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Glückliche</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glücklich ist, wer nimmer liebet,</l>
+            <l>Wer der Liebe lacht;</l>
+            <l>Denn wer sich der Lieb' ergiebet,</l>
+            <l>Seufzet, sehnt sich, ist betrübet,</l>
+            <l>Winselt Tag und Nacht;</l>
+            <l>Sein Gewinsel, sein Gesehne,</l>
+            <l>Was er denkt, und thut, und spricht,</l>
+            <l>Wirkt ein einziges Gesicht!</l>
+            <l>Alles andre Schöne</l>
+            <l>Rührt ihn nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glücklich ist, wer nimmer liebet,</l>
+            <l>Wer der Liebe lacht;</l>
+            <l>Denn wer sich der Lieb' ergiebet,</l>
+            <l>Seufzet, sehnt sich, ist betrübet,</l>
+            <l>Winselt Tag und Nacht;</l>
+            <l>Sein Gewinsel, sein Gesehne,</l>
+            <l>Was er denkt, und thut, und spricht,</l>
+            <l>Wirkt ein einziges Gesicht!</l>
+            <l>Alles andre Schöne</l>
+            <l>Rührt ihn nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

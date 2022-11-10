@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vom Geist und Cörper</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">167</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">665</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vom Geist und Cörper</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zuerst hat man die Welt nicht anders anzusehn,</l>
+            <l>Als Lettern, wovon wir den Inhalt nicht verstehn.</l>
+            <l>Ein jeder Vorwurff ist mit Zahlen überdeckt,</l>
+            <l>Worinnen was geheimes steckt,</l>
+            <l>Das man ergrübeln soll, das man durchdringen muß.</l>
+            <l>Es lässt sich auch sobald kein Urtheil-Schluß,</l>
+            <l>In unbekannten Sachen</l>
+            <l>Unwiedersprechlich machen,</l>
+            <l>Man such’ in unserm Witz zuerst den Schein der Wahrheit.</l>
+            <l>Nur einfach sey die Lehr und voller Klarheit.</l>
+            <l>Es müsse nichts darinn sich widersprechen;</l>
+            <l>Es muß befestigt seyn und recht verbunden,</l>
+            <l>So durch Erfahrung, als Verstand:</l>
+            <l>Was man gemuhtmasst hat, wird denn zur Festigkeit.</l>
+            <l>Der Geist der’s also macht, ist dann mit recht erfreut,</l>
+            <l>Daß er die Wahrheit ausgefunden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Traum .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5 6-5 7-5</measure>
+        <measure type="syllables">236</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">917</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Traum .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hat mir jüngst geträumet,</l>
+            <l>Ich läg’ auf steiler Höh’;</l>
+            <l>Es war am Meeresstrande,</l>
+            <l>Ich sah wohl in die Lande</l>
+            <l>Und über die weite See.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es lag am Ufer drunten</l>
+            <l>Ein schmuckes Schiff bereit,</l>
+            <l>Mit bunten Wimpeln wehend,</l>
+            <l>Der Ferg’ am Ufer stehend,</l>
+            <l>Als wär’ ihm lang die Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da kam von fernen Bergen</l>
+            <l>Ein lust’ger Zug daher.</l>
+            <l>Wie Engel thäten sie glänzen,</l>
+            <l>Geschmückt mit Blumenkränzen,</l>
+            <l>Und zogen nach dem Meer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Voran dem Zuge schwärmten</l>
+            <l>Der muntern Kinder viel.</l>
+            <l>Die Andern Becher schwangen,</l>
+            <l>Musizirten, sangen,</l>
+            <l>Schwebten in Tanz und Spiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sprachen zu dem Schiffer:</l>
+            <l>„willt du uns führen gern?</l>
+            <l>Wir sind die Wonnen und Freuden,</l>
+            <l>Wollen von der Erde scheiden,</l>
+            <l>All von der Erde fern.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hieß in’s Schiff sie treten,</l>
+            <l>Die Freuden allzumal,</l>
+            <l>Er sprach: „Sagt an, ihr Lieben!</l>
+            <l>Ist Keins zurückgeblieben</l>
+            <l>Auf Bergen, noch im Thal?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie riefen: „Wir sind Alle!</l>
+            <l>Fahr zu, wir haben Eil’!“</l>
+            <l>Sie fuhren mit frischen Winden,</l>
+            <l>Fern, ferne sah ich schwinden</l>
+            <l>Der Erde Lust und Heil.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

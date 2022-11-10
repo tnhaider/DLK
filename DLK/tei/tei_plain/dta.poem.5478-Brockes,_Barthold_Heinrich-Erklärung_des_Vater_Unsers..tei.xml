@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erklärung des Vater Unsers.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-4 2-15 3-6</measure>
+        <measure type="syllables">213</measure>
+        <measure type="tokens">153</measure>
+        <measure type="characters">871</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1736</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198582"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erklärung des Vater Unsers.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wol der Anfang, als der Schluß</l>
+            <l>Des </l>
+            <l>Daß, auch im Beten, jedermann</l>
+            <l>Auf die Verherrlichung des Schöpfers gehen muß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es giebet Christus selbst den deutlichsten Bericht,</l>
+            <l>Der je davon zu unsrer Kundschaft kame,</l>
+            <l>Wenn er zu Anfang: </l>
+            <l>Wie kann nun GOttes Nahm’ auf Erden</l>
+            <l>Von uns doch mehr geheiligt werden,</l>
+            <l>Als wenn wir, wie sein Werck so schön,</l>
+            <l>In frölicher Betrachtung, sehn?</l>
+            <l>Wenn wir, in seinem Werck, mit Lust, sein Lob erhöhn.</l>
+            <l>Auch </l>
+            <l>Und wird, aus weiser Huld, von ihm hervorgebracht.</l>
+            <l>Wenn Christus das Gebeth nun endlich schleußt;</l>
+            <l>So finden wir noch mehr: indem es heißt:</l>
+            <l>Der HErr noch weiter fort,</l>
+            <l>Und heißt in Lilien, da sie so schön,</l>
+            <l>An Vögeln und am Gras’ uns GOttes Allmacht sehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, warum nehmen wir denn nicht</l>
+            <l>Die, durch Natur und Schrift uns eingeprägte, Pflicht</l>
+            <l>Mit mehrerm Ernst in acht?</l>
+            <l>Auf, laßt uns überall in GOttes Wercken,</l>
+            <l>Mit Andacht, Lust und Ehrfurcht, mercken</l>
+            <l>Des Schöpfers </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

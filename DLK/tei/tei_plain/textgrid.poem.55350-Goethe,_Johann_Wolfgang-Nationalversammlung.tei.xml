@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nationalversammlung</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">468</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1820</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nationalversammlung</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf der recht und linken Seite,</l>
+            <l>Auf dem Berg und in der Mitten</l>
+            <l>Sitzen, stehen sie zum Streite,</l>
+            <l>All einander ungelitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du dich ans Ganze wendest</l>
+            <l>Und votierest, wie du sinnest,</l>
+            <l>Merke, welchen du entfremdest,</l>
+            <l>Fühle, wen du dir gewinnest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf der recht und linken Seite,</l>
+            <l>Auf dem Berg und in der Mitten</l>
+            <l>Sitzen, stehen sie zum Streite,</l>
+            <l>All einander ungelitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du dich ans Ganze wendest</l>
+            <l>Und votierest, wie du sinnest,</l>
+            <l>Merke, welchen du entfremdest,</l>
+            <l>Fühle, wen du dir gewinnest.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

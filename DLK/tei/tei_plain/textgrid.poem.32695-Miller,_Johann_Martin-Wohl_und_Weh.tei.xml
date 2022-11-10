@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wohl und Weh</title>
+        <author>
+          <persName>
+            <surname>Miller</surname>
+            <forename>Johann Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">688</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1772</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wohl und Weh</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl, und immer wohl dem Mann,</l>
+            <l>Der sein Liebes sehen kann!</l>
+            <l>Der, mit wonniglichen Küssen,</l>
+            <l>Darf in seinen Arm es schließen!</l>
+            <l>Wohl, und immer wohl dem Mann,</l>
+            <l>Der sein Liebes sehen kann!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber weh dem armen Mann,</l>
+            <l>Der nichts Liebes sehen kann!</l>
+            <l>Der, wie ich, in Minnebanden,</l>
+            <l>Trauern muß in fremden Landen!</l>
+            <l>Weh, und immer weh dem Mann,</l>
+            <l>Der nichts Liebes sehen kann!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl, und immer wohl dem Mann,</l>
+            <l>Der sein Liebes sehen kann!</l>
+            <l>Der, mit wonniglichen Küssen,</l>
+            <l>Darf in seinen Arm es schließen!</l>
+            <l>Wohl, und immer wohl dem Mann,</l>
+            <l>Der sein Liebes sehen kann!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber weh dem armen Mann,</l>
+            <l>Der nichts Liebes sehen kann!</l>
+            <l>Der, wie ich, in Minnebanden,</l>
+            <l>Trauern muß in fremden Landen!</l>
+            <l>Weh, und immer weh dem Mann,</l>
+            <l>Der nichts Liebes sehen kann!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

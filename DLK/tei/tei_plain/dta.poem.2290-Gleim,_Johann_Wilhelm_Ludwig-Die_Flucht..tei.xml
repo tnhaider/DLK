@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Flucht.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">606</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Flucht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brüder! seht doch durch die Gläser.</l>
+            <l>Seht doch, welche Menschenköpfe!</l>
+            <l>Stehn doch Köpfe von den Thieren</l>
+            <l>Auf den Hälsen dieser Männer!</l>
+            <l>Jener da, weist uns die Zähne.</l>
+            <l>Welcher Hund kan wol so bellen?</l>
+            <l>Welcher Hund ist ihm wol ähnlich?</l>
+            <l>Dort im Winkel grunzt sein Bruder.</l>
+            <l>Hört! nun fängt er an zu lästern;</l>
+            <l>Denn er lästert auch im Beten.</l>
+            <l>Welche schwarze Lästerworte</l>
+            <l>Fliegen von den frommen Lippen!</l>
+            <l>Brüder seht! die frommen Lippen</l>
+            <l>Sind so schwarz, wie Priesterrökke.</l>
+            <l>Brüder komt, wir wollen laufen;</l>
+            <l>Denn sie speien Haß und Geifer,</l>
+            <l>Und er trift schon ihre Brüder.</l>
+            <l>Komt, und laßt die Narren lästern,</l>
+            <l>Komt, wir wollen hier nicht trinken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">86. Grabschrifft Lælii, welcher sich selbst erschossen</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">426</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1640</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>86. Grabschrifft Lælii, welcher sich selbst erschossen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hir ligt in einer Grufft/ der Kläger/ der beklagte/</l>
+            <l>Der Recht sprach/ der gezeugt/ und der die Zeugen fragte/</l>
+            <l>Und der das Recht außführt/ und der so must erbleichen:</l>
+            <l>Du zehlest siben zwar und findst nur eine Leichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hir ligt in einer Grufft/ der Kläger/ der beklagte/</l>
+            <l>Der Recht sprach/ der gezeugt/ und der die Zeugen fragte/</l>
+            <l>Und der das Recht außführt/ und der so must erbleichen:</l>
+            <l>Du zehlest siben zwar und findst nur eine Leichen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

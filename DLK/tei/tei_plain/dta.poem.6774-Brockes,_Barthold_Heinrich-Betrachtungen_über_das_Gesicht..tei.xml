@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über das Gesicht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">181</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">744</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über das Gesicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und, eh’ er durch ein übereilt Bewegen</l>
+            <l>Sich selbst entführen lässt, erst selber überlegen,</l>
+            <l>Auf welche Weis er siehet, was er sieht,</l>
+            <l>Und was sein Werckzeug sey: wo er sich nicht bemüht</l>
+            <l>Dergleichen wol zu unterscheiden;</l>
+            <l>So ist die Folge schlimm. So, wann uns, nach dem Schein</l>
+            <l>Ein Thurm, der viereckt ist, von fern scheint rund zu seyn.</l>
+            <l>Wenn ein gerader Stock, den wir ins Wasser sencken,</l>
+            <l>Gekrümmt scheint, ohn daß man durchs Aug’ kan anders</l>
+            <l>dencken:</l>
+            <l>So spricht man zwar, es muß ein Sinn den andern lehren,</l>
+            <l>Die Füsse dürffen uns zum Thurm nur näher führen,</l>
+            <l>Man darf ja nur den Stock berühren:</l>
+            <l>Allein,</l>
+            <l>Wo soll denn endlich doch der Wahrheit Richtschnur seyn?</l>
+            <l>Ist es nicht bloß der Geist, der sich bemüht und lernet</l>
+            <l>Die Ursach, wodurch er vom Wahren sich entfernet?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

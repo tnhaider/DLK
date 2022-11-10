@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">681</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du frischer Musenheld/ dem Pallaß hat gegeben</l>
+            <l>Von Jhrer theüren Wahr’ ein nicht geringes Theil/</l>
+            <l>Daß dein geschikter Geist trägt alle Stunden feil/</l>
+            <l>Wer wird dein würdigs Lob zur Gnüge doch erheben?</l>
+            <l>Drei Weiber machen Dich durch alle Welt schier leben/</l>
+            <l> die Fryne/ mein' Ich/ und der Sofonis ben Pfeil</l>
+            <l>Als auch Kleopatre/ die manches Hertz in eil’</l>
+            <l>Erbärmlich angestekt. Sie machen überstreben</l>
+            <l>Dich Neümark/ dieser Welt/ Neid/ List/ ja gahr den Tod.</l>
+            <l>Den̄ Kunst entfreiet Dich und mich auß mancher Noht.</l>
+            <l>Nun hast du diesen Wald gepflantzet und gezieret</l>
+            <l>Mit Liedern/ die voll Lust und keuscher Liebe Brunst/</l>
+            <l>O Singer und Poet/ wir rühmen deine Kunst/</l>
+            <l>Ja wehrtes Musenkind/ daß heisset wol studieret!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

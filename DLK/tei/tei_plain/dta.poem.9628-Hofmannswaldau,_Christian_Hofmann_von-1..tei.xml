@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">303</measure>
+        <measure type="tokens">196</measure>
+        <measure type="characters">1200</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du blume Schlestens/ du sonne dieser welt/</l>
+            <l>Die die annehmligkeit auff purpur-blättern träget/</l>
+            <l>Auf welche Venus selbst ihr ebenbild gepräget/</l>
+            <l>Als/ irrdsche göttin/ sie dich kaum ans licht gestellt.</l>
+            <l>Du bist der schönheit preiß/ ein auszug aller zierden;</l>
+            <l>Doch auch ein marmolstein an fühlen und begierden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wirff itzt von deinem blitz auch einen schlechten blick</l>
+            <l>Auff deinen armen knecht/ und laß ihn einmahl wissen/</l>
+            <l>Daß deine hohe gunst will auff die knechtschafft flüssen/</l>
+            <l>So lebet er in ruh/ so lebet er in glück.</l>
+            <l>Es wird die hohe gunst ihn ewig dir verbinden/</l>
+            <l>Wenn dein erhärter sinn aus seel und leib wird schwinden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch alles ist umsonst/ es ist um mich geschehn/</l>
+            <l>Die scharlach-lippen sind entgeisterte corallen/</l>
+            <l>Der kugeln schönes paar/ nur alabaster-ballen/</l>
+            <l>Auff welchen man noch nie die regung hat gesehn.</l>
+            <l>Sol der granaten schmuck auf deinen amber-lippen</l>
+            <l>Fast mehr entseelet seyn/ als berge/ felß und klippen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bedencke schönes kind/ wilstu ein bild ja seyn/</l>
+            <l>Daß todte bilder auch annehmligkeiten geben/</l>
+            <l>Dein eigen conterfait sah ich nechst um mich schweben/</l>
+            <l>Als sich ein süsser schlaff bey mir gestellet ein.</l>
+            <l>Es wolt die liebligkeit sich dar auch lassen finden/</l>
+            <l>Und mit der schönheit sich verschwestern und verbinden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

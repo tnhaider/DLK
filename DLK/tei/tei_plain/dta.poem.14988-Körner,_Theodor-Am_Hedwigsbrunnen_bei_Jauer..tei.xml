@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Am Hedwigsbrunnen bei Jauer.</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">557</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Am Hedwigsbrunnen bei Jauer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Freude wie der Wehmuth Schwingen tragen</l>
+            <l>Das milde Herz zu liebefrohen Tagen,</l>
+            <l>Von keinem Thränengifte mehr verbittert. —</l>
+            <l>Wer hat mein freies Paradies umgittert? —</l>
+            <l>Wer durfte mich in diese Fesseln schlagen,</l>
+            <l>Den Lieder Sohn ins Kriegsgetümmel jagen?</l>
+            <l>Wer hat mir meinen Freudenbaum zersplittert?</l>
+            <l>Wie? griff' ich nicht mit freier Hand zum Schwerdte,</l>
+            <l>Daß blutversöhnend aus der deutschen Erde</l>
+            <l>Ein heilig Wort jung und lebendig werde? —</l>
+            <l>Es sprichts ein Gott im Rauschen dieser Wellen:</l>
+            <l>„am Klippenherzen muß die Kraft zerschellen,</l>
+            <l>„und aus dem Tode soll das Leben quellen.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

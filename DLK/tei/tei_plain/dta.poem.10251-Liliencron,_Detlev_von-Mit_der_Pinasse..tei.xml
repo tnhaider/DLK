@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mit der Pinasse.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">537</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mit der Pinasse.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>M&amp;#228;dchen, reich' mir deine H&amp;#228;nde,             </l>
+            <l>Spring ins Boot, nicht zu behende,</l>
+            <l>Lös das Tau vom Bohlenring.</l>
+            <l>Über kleine Wellenhügel</l>
+            <l>Tanzen unsre Segelflügel</l>
+            <l>Wie der weiße Schmetterling.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lustig Liebesabenteuer,</l>
+            <l>Ich und du allein am Steuer,</l>
+            <l>Weite Wassereinsamkeit.</l>
+            <l>Letztes Ufer im Verblassen,</l>
+            <l>Hoch am Maste der Pinassen</l>
+            <l>Wimpelt die Verschwiegenheit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn die Bretter plötzlich krachen,</l>
+            <l>In die Tiefe taucht der Nachen,</l>
+            <l>Sah es nur der wilde Schwan.</l>
+            <l>Klopft dein Herzchen? Laß uns wenden</l>
+            <l>Und die stille Fahrt beenden,</l>
+            <l>Bald am Herde sprüht dein Span.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

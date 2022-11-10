@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das wackre Maidlein .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5 6-5 7-5</measure>
+        <measure type="syllables">254</measure>
+        <measure type="tokens">179</measure>
+        <measure type="characters">984</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das wackre Maidlein .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es war ein wacker Maidlein wohlgethan,               </l>
+            <l>Sie ging an ihres Vaters Zinne stahn,</l>
+            <l>Sie sah daraus,</l>
+            <l>Sie sah dahere reiten</l>
+            <l>Ihrem Herzen einen Trost.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach Maidelein voll der Wonne,</l>
+            <l>Falbet euch die Sonne,</l>
+            <l>Daß ihr seyd worden bleich,</l>
+            <l>Hat euch ein andrer lieber dann ich,</l>
+            <l>Das reuet mich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum sollt ich nicht werden bleich,</l>
+            <l>Ich trag alle Tag groß Herzeleid,</l>
+            <l>Allein schöns Lieb um dich,</l>
+            <l>Daß du mich verkiefen willt,</l>
+            <l>Das reuet mich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum sollt ich dich verkiefen,</l>
+            <l>Ich hab dich noch viel lieber</l>
+            <l>Als alle Freunde mein,</l>
+            <l>Ach Maidelein laß dein Sorgen</l>
+            <l>Und folge du mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Worin ging sie ihm entgegen?</l>
+            <l>In eim seiden Hemdlein war wohl genäht,</l>
+            <l>Das war so fein,</l>
+            <l>Darin ging sie geschnüret</l>
+            <l>Das wacker Maidelein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er nahm sie bey ihrer schneeweißen Hand,</l>
+            <l>Er führt sie durch den grünen Wald,</l>
+            <l>Da brach er ihr einen Zweig,</l>
+            <l>Sie küsset ihn auf seinen rothen Mund,</l>
+            <l>Das wackre Maidelein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und da es kam zur halben Mitternacht</l>
+            <l>Der gute Held nahm Urlaub von der Magd,</l>
+            <l>Derselbig gute Held</l>
+            <l>Die Treu, die er ihr gelobet hat,</l>
+            <l>Die hielt er nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

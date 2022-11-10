@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Als sie sich in einem brunnen  
+ spiegelte.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">72</measure>
+        <measure type="tokens">53</measure>
+        <measure type="characters">295</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Als sie sich in einem brunnen  
+ spiegelte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Climene wirfft den blick nur einem brunnen zu,</l>
+            <l>Und lässet mich in guter ruh.</l>
+            <l>Ach aber, werthes Licht!</l>
+            <l>Denckst du denn an Narcissen nicht?</l>
+            <l>Laß seinen fall dir doch die grufft verriegeln,</l>
+            <l>Und schau nicht mehr hinein:</l>
+            <l>Willst du dich aber sicher spiegeln;</l>
+            <l>So laß mein nasses aug’ an statt des brunnen seyn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

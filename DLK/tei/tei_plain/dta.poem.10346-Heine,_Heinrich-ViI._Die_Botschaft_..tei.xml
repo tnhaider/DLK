@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViI.  
+  Die Botschaft .</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">113</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">518</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViI.  
+  Die Botschaft .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Knecht! steh auf und sattle schnell,</l>
+            <l>Und wirf dich auf dein Roß,</l>
+            <l>Und jage rasch, durch Wald und Feld,</l>
+            <l>Nach König Dunkans Schloß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort schleiche in den Stall, und wart',</l>
+            <l>Bis dich der Stallbub schaut.</l>
+            <l>Den forsch' mir aus: Sprich, welche ist</l>
+            <l>Von Dunkans Töchtern Braut?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und spricht der Bub: „Die Braune ist's“,</l>
+            <l>So bring mir schnell die Mähr.</l>
+            <l>Doch spricht der Bub: „Die Blonde ist's“,</l>
+            <l>So eile nicht so sehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann geh' zum Meister Seiler hin,</l>
+            <l>Und kauf' mir einen Strick,</l>
+            <l>Und reite langsam, sprich kein Wort,</l>
+            <l>Und bring mir den zurück.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

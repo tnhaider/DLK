@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Im Frühling ,  wenn die Maiglöckchen  
+ läuten .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">67</measure>
+        <measure type="tokens">48</measure>
+        <measure type="characters">309</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Im Frühling ,  wenn die Maiglöckchen  
+ läuten .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kling, kling Glöckchen,               </l>
+            <l>Im Haus steht ein Döckchen,</l>
+            <l>Im Garten steht ein Hünernest,</l>
+            <l>Stehn drei seidne Döckchen drin,</l>
+            <l>Eins spinnt Seiden,</l>
+            <l>Eins flicht Weiden,</l>
+            <l>Eins schließt den Himmel auf,</l>
+            <l>Läßt ein bischen Sonn heraus,</l>
+            <l>Läßt ein bischen drinn,</l>
+            <l>Daraus die Liebfrau Maria spinn,</l>
+            <l>Ein Röcklein für ihr Kindelein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

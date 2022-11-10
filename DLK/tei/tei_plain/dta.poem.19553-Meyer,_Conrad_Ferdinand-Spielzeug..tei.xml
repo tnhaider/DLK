@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Spielzeug.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">125</measure>
+        <measure type="characters">799</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Spielzeug.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebchen fand ich spielend. Einen Kasten</l>
+            <l>Hatte sie entdeckt voll längst vergeßnen</l>
+            <l>Staub'gen Kinderspielzeugs: Mauern, Thore,</l>
+            <l>Rathhaus, Häuser, Häuserchen und Kirche ...</l>
+            <l>Sie erbaut' das Städtchen mit gelenken</l>
+            <l>Händen, stellt' den Kirchthurm in die Mitte.</l>
+            <l>Doch ein Häuschen hatt' sie vorbehalten,</l>
+            <l>Vorbehalten sieben grüne Pappeln</l>
+            <l>Für ein allerliebstes kleines Landgut.</l>
+            <l>Nicht zu nah! Im Städtchen klatscht man sündlich.</l>
+            <l>Nicht zu ferne! Man bedarf der Menschen.</l>
+            <l>„eben sind wir eingezogen!“ jubelt'</l>
+            <l>Sie und klatscht' in ihre kleinen Hände.</l>
+            <l>In der Wonne des erworbnen Heimes</l>
+            <l>Riß ich Liebchen an mich so gewaltsam,</l>
+            <l>Daß den Arm sie streckte wie ertrinkend ...</l>
+            <l>Was erwischte sie mit schnellen Fingern,</l>
+            <l>Eng an meine Brust gepreßt? Die Kirche,</l>
+            <l>Ja, die Kirche mit dem rothen Dach war's</l>
+            <l>Und sie stellt' sie dicht vor unser Landhaus.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Wettersee.</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">309</measure>
+        <measure type="tokens">213</measure>
+        <measure type="characters">1245</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Wettersee.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sonne sinkt in den Wettersee;</l>
+            <l>Da steigt — mit dem Neck und der Wasserfee —</l>
+            <l>Von Gold und Rubin, aus des Seees Gruft,</l>
+            <l>Ein Schloß an die abendgeröthete Luft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mond geht auf; da blassen Rubin</l>
+            <l>und Gold zu Silber und Aquamarin;</l>
+            <l>Und hervor aus dem Schloß, hinaus zum Tanz,</l>
+            <l>Lockt die Nixen der Mondesglanz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Teichrosen flechten sie, draußen im Saal,</l>
+            <l>Um Stirn und Nacken sich allzumal,</l>
+            <l>Als bangte jede, des Mondes Licht</l>
+            <l>Selbst könne bräunen ihr Angesicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann schlingen sie Tänze, dann tönt ihr Gesang</l>
+            <l>Zu Necken’s melodischem Saitenklang,</l>
+            <l>Bis blasser das scheidende Mondlicht blinkt,</l>
+            <l>Und Schloß und Neck und Nixe versinkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon baut ihren finstern Palast die Nacht,</l>
+            <l>Da heult es im Walde, da knickt es und kracht, —</l>
+            <l>Ihren Renner, zottig und grau,</l>
+            <l>Reitet zur Tränke die Haidefrau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Roß ist ein Wolf, schnell wie der Wind,</l>
+            <l>Blindschleichen die Zügel des Renners sind,</l>
+            <l>Eine Natter ist Peitsche, ein Igel ist Sporn,</l>
+            <l>So jagt sie herbei durch Dickicht und Dorn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wetteifernd funkelt das Katzengrau</l>
+            <l>Der Augen von Wolf und Haidefrau,</l>
+            <l>Man sieht, bei solchem Blitzen und Sprühn,</l>
+            <l>Die lechzende Zunge des Wolfes glühn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er trinkt aus dem See, dann lenkt er den Schritt,</l>
+            <l>Und am Ufer entlang geht der nächtliche Ritt,</l>
+            <l>Bis früh am Morgen statt Neck und Fee,</l>
+            <l>Fischer durchfurchen den Wettersee.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

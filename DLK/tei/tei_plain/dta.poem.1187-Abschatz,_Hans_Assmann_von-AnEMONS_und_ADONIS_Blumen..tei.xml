@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">AnEMONS  
+ und  
+  ADONIS  
+ Blumen.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">82</measure>
+        <measure type="tokens">57</measure>
+        <measure type="characters">315</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>AnEMONS  
+ und  
+  ADONIS  
+ Blumen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach aller meiner Pein/ nach aller meiner Noth/</l>
+            <l>Dadurch ich nur verbittert deine Sinnen/</l>
+            <l>Hab ich gelernt die Kunst dich zu gewinnen/</l>
+            <l>Fillis/ ich geh’ in Tod.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fillis/ thu ich zuviel/ wenn ich mich untersteh/</l>
+            <l>Daß ich dir recht gethan/ für aller Welt zu sagen:</l>
+            <l>Ein Augenblick kan mich und dich vertragen:</l>
+            <l>Ich geh in Tod: Ade!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

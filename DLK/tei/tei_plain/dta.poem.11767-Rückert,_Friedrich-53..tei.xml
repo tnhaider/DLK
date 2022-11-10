@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">53.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">801</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>53.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von menschlichem Geschlecht verlassen stand ein Haus,</l>
+            <l>Vertrieben waren sie daraus von Ratt' und Maus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da richteten sich ein die Mäuse und die Ratten,</l>
+            <l>Und machten Alles fein, wie sie's am liebsten hatten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie saßen lange Zeit und fühlten stark ihr Recht,</l>
+            <l>Da drängte sich herein ein anderes Geschlecht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Sparrwerk nistete sich ein Volk von Eulen;</l>
+            <l>Mit Pfeifen klagts die Maus dem Schicksal, wie sie heulen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Heulen war ein Vorspiel nur zum Trauerspiel,</l>
+            <l>Bald fraß der Eulenchor die Maus mit Stumpf und Stiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Behaglich hausten nun im alten Schloß die Eulen,</l>
+            <l>Da kamen Menschen her und setzten neu die Säulen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Eulen sahen sich aus dem Besitz gesetzt,</l>
+            <l>Und klagen jämmerlich, es sei ihr Recht verletzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mensch macht sich nichts draus, und wohnt in seinem Haus,</l>
+            <l>Bis wieder ihn daraus wird treiben Ratt' und Maus.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

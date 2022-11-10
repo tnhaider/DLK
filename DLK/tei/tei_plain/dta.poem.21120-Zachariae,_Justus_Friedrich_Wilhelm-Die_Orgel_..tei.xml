@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Orgel .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">288</measure>
+        <measure type="tokens">174</measure>
+        <measure type="characters">1056</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Orgel .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Höre den rauschenden Wind in der stillerwartenden
+Orgel,</l>
+            <l>Die er bereitet zum hohen Gesang!</l>
+            <l>Folge mir, werthester Freund, bis unter die schauern-</l>
+            <l>Heilige ganz dich der frommen Musik!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Himmel! ihr Jubel hebt an. Die hohen harmonischen</l>
+            <l>Brausen zu unserm erstaunenden Ohr.</l>
+            <l>Kraft von dem Himmel hebt mich! So klangen die Hal-</l>
+            <l>Von der Trommeten festlichem Schall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter mir drönet der Grund, und einsame Gräber er-</l>
+            <l>Von dem belebenden Schalle begrüßt.</l>
+            <l>Also, doch mächtiger noch, wird sie der Engel begrüßen,</l>
+            <l>Mit der Posaune des letzten Gerichts.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn nun der Richter erscheint auf einer verblendenden</l>
+            <l>Und in dem Felde der Todten es rauscht;</l>
+            <l>Wenn das belebte Gebein nun, seinem Erwecker gehor-</l>
+            <l>Stimmen der starken Posaune vernimmt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dann der Richter der Welt die Heiligen um sich</l>
+            <l>Oder Verworfne zum Feuer verstößt;</l>
+            <l>Und auf ihr Antlitz alsdann die Thronen und Cherubim</l>
+            <l>Vor dem Allmächtgen in Ehrfurcht gebeugt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eben so tönet der Schall durch jubilirende Röhren,</l>
+            <l>Seele, was hebt dich zum Himmel empor?</l>
+            <l>Bist du nicht durch die Gewalt der hohen harmoni-</l>
+            <l>Unter die Chöre der Engel verzückt?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

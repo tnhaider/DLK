@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Morgen.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">265</measure>
+        <measure type="tokens">172</measure>
+        <measure type="characters">1077</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Morgen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf! auf! weil schon Aurora lacht;</l>
+            <l>Jhr Gatten junger Schönen!</l>
+            <l>Jhr müßt nunmehr, nach fauler Nacht,</l>
+            <l>Dem Gott der Ehe fröhnen.</l>
+            <l>Erneuert den verliebten Zwist,</l>
+            <l>Der süsser, als die Eintracht ist,</l>
+            <l>Nach der sich Alte sehnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ists möglich, daß, geweckt von Lust,</l>
+            <l>Ein Gatte nicht erwache?</l>
+            <l>Daß eine nahe Liljen-Brust</l>
+            <l>Jhn nicht geschäftig mache?</l>
+            <l>Indeß schwebt um der Gattinn Haupt</l>
+            <l>Der Morgentraum, mit Mohn umlaubt;</l>
+            <l>Jhr träumt von eitel Rache.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort, wo Cytherens waches Kind</l>
+            <l>Den Schlaf vom Bette scheuchet;</l>
+            <l>Dort rauschts, wie wann ein Morgenwind</l>
+            <l>Bethautes Laub durchstreichet.</l>
+            <l>Dort lauscht auch meine Muse nun,</l>
+            <l>Die, wie die Mädchen alle thun,</l>
+            <l>Verliebte gern beschleichet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Vorhang weicht: welch reizend Weib!</l>
+            <l>Ich sehe Venus liegen,</l>
+            <l>Und leichten Flohr den Marmorleib</l>
+            <l>Verrätherisch umfliegen.</l>
+            <l>Wie sucht ihr Blick, der kriegrisch glüht,</l>
+            <l>Wie sucht er, wenn der Streit verzieht,</l>
+            <l>Streit, Gegner und Vergnügen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du itzo noch verliebtes Paar,</l>
+            <l>Was mangelt deinem Glücke?</l>
+            <l>Ich werde selbst entzückt, gewahr,</l>
+            <l>Daß Hymen auch entzücke.</l>
+            <l>Die Muse sieht hinweg und weicht:</l>
+            <l>Doch manchmal und verstohlen schleicht</l>
+            <l>Ein halber Blick zurücke.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

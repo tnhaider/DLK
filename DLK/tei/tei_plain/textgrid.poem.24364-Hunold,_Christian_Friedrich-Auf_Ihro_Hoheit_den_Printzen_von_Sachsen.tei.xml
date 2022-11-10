@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf Ihro Hoheit den Printzen von Sachsen</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">778</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf Ihro Hoheit den Printzen von Sachsen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm Friederich August/ du junger Held der Sachsen/</l>
+            <l>Des Vaters Tapferkeit wird dir in deiner Brust/</l>
+            <l>Ein weiser Friederich in deinem Haupte wachsen/</l>
+            <l>Augusti Gottesfurcht ist dir bereits bewust.</l>
+            <l>Denn jener Friederich hat Cronen ausgeschlagen;</l>
+            <l>Es schützt Augusti Geist das reine Lutherthum.</l>
+            <l>Du bist geschickt/ o Printz/ ein gleiches Heil zu wagen:</l>
+            <l>Der Himmel wohnt in dir/ und auch der Sachsen Ruhm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm Friederich August/ du junger Held der Sachsen/</l>
+            <l>Des Vaters Tapferkeit wird dir in deiner Brust/</l>
+            <l>Ein weiser Friederich in deinem Haupte wachsen/</l>
+            <l>Augusti Gottesfurcht ist dir bereits bewust.</l>
+            <l>Denn jener Friederich hat Cronen ausgeschlagen;</l>
+            <l>Es schützt Augusti Geist das reine Lutherthum.</l>
+            <l>Du bist geschickt/ o Printz/ ein gleiches Heil zu wagen:</l>
+            <l>Der Himmel wohnt in dir/ und auch der Sachsen Ruhm.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

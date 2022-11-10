@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vermischte  
+ Gedichte.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">532</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vermischte  
+ Gedichte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ogroße Nährerin berühmter Helden/ </l>
+            <l>Ich seh entzückt und mit Verwundern an/</l>
+            <l>Was man von deiner Pracht noch weisen kan/</l>
+            <l>Und was uns mehr von dir die Schrifften melden:</l>
+            <l>Ich ehre deinen Grauß/ dein Grab/ den Todten-Schaten/</l>
+            <l>Doch noch vielmehr als diß den Ruhm der hohen Thaten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Betracht ich aber wie dein Glantz erblichen/</l>
+            <l>Wie man die Tapfferkeit erloschen sieht/</l>
+            <l>Wie deiner Kinder Ruhm mit dir verblüht/</l>
+            <l>Wie Ehr und alte Treu von dir entwichen/</l>
+            <l>So sag ich thränende: Was will man Ewigs finden/</l>
+            <l>Wenn mit den Städten auch die Tugenden verschwinden?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

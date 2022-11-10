@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Cron.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1619</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20627-4"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Cron.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wje Er gantz gleich an müh/ fleiß vnd</l>
+            <l>verstand/</l>
+            <l>Seine Freygäbigkeit erkläret/</l>
+            <l>Durch die Er nicht seinen pracht/ ruhm</l>
+            <l>vnd stand/</l>
+            <l>Sondern des Höchsten lob vermehret:</l>
+            <l>Indem niemand zu großen überfluß</l>
+            <l>(der gemeinglich einen spahten verdruß</l>
+            <l>Vnd widerwillen verursachet)</l>
+            <l>Bey Jhm falsch-lobet noch verlachet:</l>
+            <l>Vnd zu—freyhe Freygäbigkeit</l>
+            <l>Bey Jhm niemand zuverlierẽ erschröcket;</l>
+            <l>Sondern sich seine Miltigkeit</l>
+            <l>Auf den verdienst vnd die nohtdurft erströcket.</l>
+            <l>Dan ja sein hertz vnd hand recht frey/</l>
+            <l>Die wissen wol des bodens zuverschonen/</l>
+            <l>Vnd auch nach gebühr wol-zu-lohnen/</l>
+            <l>Auf das Sein lob würdig vnd wehrhaft</l>
+            <l>sey.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

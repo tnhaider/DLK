@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">103.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">103</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>103.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Bruchstück immer ist des einzlen Mannes Wissen,</l>
+            <l>Das er als Ganzes darzustellen ist beflissen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu loben, wenn er es von innen will ergänzen,</l>
+            <l>Zu tadeln, wenn mit Schein der Ganzheit überglänzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In diesem Fall ist doch, wer lehren will und soll,</l>
+            <l>Eh alle Fächer noch des Wissens er weiß voll.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er darf dem Lernenden nicht zeigen seine Lücken,</l>
+            <l>Mit mehr und minder Kunst muß er denn schlagen Brücken,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß alles scheine nur zusammen fein zu hangen,</l>
+            <l>Vom einen End der Welt zum andern zu gelangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der arme Mann muß sich mit fremden Federn schmücken,</l>
+            <l>Weil er kein Lehrgedicht darf geben in Bruchstücken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

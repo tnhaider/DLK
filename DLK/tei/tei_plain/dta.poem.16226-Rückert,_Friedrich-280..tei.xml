@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">280.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">508</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>280.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gar manche Schale muß von deinem Ich sich lösen,</l>
+            <l>Zufällig Irdisches, und mancher Rost des Bösen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch während immermehr dein Ich sich also reinigt,</l>
+            <l>Wird immer mehr mit ihm des Neuen auch vereinigt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du strebest Tag für Tag durch Lernen wie durch Lehren,</l>
+            <l>Durch Denken wie durch Thun, den Kern des Ichs zu mehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Edelstein bedarf viel Mittel, sich zu schleifen;</l>
+            <l>Viel Nahrungsmittel braucht der Saamen, um zu reifen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer kann zuletzt mit Lust im fert'gen Ich beruhn?</l>
+            <l>Wer nichts hinzuthut, was er wieder weg muß thun.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

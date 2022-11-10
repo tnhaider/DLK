@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kurzweil .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">33</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">278</measure>
+        <measure type="tokens">205</measure>
+        <measure type="characters">1129</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Kurzweil .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, was ich meinem Schätzchen               </l>
+            <l>verhieß,</l>
+            <l>Das sie den Riegel wohl hinter sich stieß;</l>
+            <l>Wohl hinter sich in die Ecke,</l>
+            <l>Dann schlich ich zu ihr ins Bettchen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die zwei, die liegen die halbe Nacht,</l>
+            <l>Bis daß das Glöcklein zwölfe schlagt:</l>
+            <l>Steh auf Braunes Mädchen zum Laden,</l>
+            <l>Schau ob es noch nicht will tagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie gab dem Laden einen Stoß,</l>
+            <l>Da scheint ihr der helle Mond in den Schoos:</l>
+            <l>Bleibt liegen gut Ritterlein stille,</l>
+            <l>Es taget nach unserm Willen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die zwei, die liegen die ganze Nacht,</l>
+            <l>Bis das das Glöcklein Sechse schlagt;</l>
+            <l>Steh auf braunes Mädchen zum Laden,</l>
+            <l>Schau ob es noch nicht will tagen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie gab dem Laden einen Stoß,</l>
+            <l>Da scheint ihr die helle Sonn in den Schoos;</l>
+            <l>Steh auf gut Ritterlein balde,</l>
+            <l>Die Sonn steht überm Walde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ei scheint die Sonn, und ich bin noch hier,</l>
+            <l>O Gott! wie wirds ergehen mir;</l>
+            <l>Ich hab mich gestern Abend vermessen,</l>
+            <l>Bin's leztemal bei dir gewesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Mädchen war so hurtig und eil,</l>
+            <l>Ließ den Knaben herunter am Seil,</l>
+            <l>Sie meint, er wäre schon drunnen,</l>
+            <l>Da lag er im kühlen Brunnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es stand wohl an drei viertel Jahr,</l>
+            <l>Da Braußinde ein Kind gebahr;</l>
+            <l>Wir wollen tauffen Hänschen den Jungen,</l>
+            <l>Sein Vater ertrunken im Brunnen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

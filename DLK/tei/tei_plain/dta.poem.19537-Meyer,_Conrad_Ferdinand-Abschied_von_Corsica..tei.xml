@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abschied von Corsica.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5 6-5</measure>
+        <measure type="syllables">299</measure>
+        <measure type="tokens">171</measure>
+        <measure type="characters">1130</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abschied von Corsica.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oelbaumsilber, Myrte, Lorbeer, Pinie,</l>
+            <l>Bald im Schnee der Heimath denk' ich euer —</l>
+            <l>Sanfte Buchten, blaue Meereslinie,</l>
+            <l>Auf dem Abend dunkelnd Burggemäuer!</l>
+            <l>Aus der Schlucht erstrahlend Hirtenfeuer!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lebet, Corsen, wohl, mir lieb geworden!</l>
+            <l>Vor den Kirchen lüpft ihr leicht die Hüte!</l>
+            <l>Gerne knallt ihr und ein bischen Morden</l>
+            <l>Steckt seit alter Zeit euch im Geblüte —</l>
+            <l>Daß die heil'ge Jungfrau euch behüte!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Klimmend am Gestein des Insellandes</l>
+            <l>Lebet wohl, ihr hitz'gen, kleinen Pferde!</l>
+            <l>Wallend um die Krümmungen des Strandes,</l>
+            <l>Lebet, Schafe, wohl! Gedrängte Heerde</l>
+            <l>Mit den weichsten Vließen auf der Erde!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lebet wohl, ihr grellen Hirtenflöten,</l>
+            <l>Um die Gunst der jungen Corsin werbend!</l>
+            <l>Lebet wohl, ihr warmen Abendröten,</l>
+            <l>In den weiten Himmeln selig sterbend,</l>
+            <l>Erst die Wolken, dann die Fluten färbend!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Märchen, aus dem Tageslicht verschollen,</l>
+            <l>An Ajaccio's nächt'ger Hafenstiege</l>
+            <l>Lebe wohl im dumpfen Wogenrollen!</l>
+            <l>Ehernes Gedröhn der hundert Siege</l>
+            <l>Um des todten Welterob'rers Wiege!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwer entsagt das Aug der offnen Ferne,</l>
+            <l>Schwer das Ohr dem Meereswellenschlage —</l>
+            <l>Unter kält're Sonnen, blass're Sterne</l>
+            <l>Folget mir, ihr Inselwandertage,</l>
+            <l>Und umklingt mich dort, wie eine Sage ...</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

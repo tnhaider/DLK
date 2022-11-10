@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">8.  Entschuldigung.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4</measure>
+        <measure type="syllables">115</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">493</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>8.  Entschuldigung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Recht wie Bursch' in Saus und Braus,</l>
+            <l>Schauen Augen, blau' und graue,</l>
+            <l>Schwarz' und braun' aus manchem Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ich lass' die Blicke schweifen</l>
+            <l>Durch die Fenster hin und her,</l>
+            <l>Fast als wollt' ich Eine suchen,</l>
+            <l>Die mir die Allerliebste wär'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und doch weiß ich, daß die Eine</l>
+            <l>Wohnt viel Meilen weit von mir,</l>
+            <l>Und doch kann ich's Schaun nicht lassen</l>
+            <l>Nach den schmucken Jungfern hier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebchen, woll' dich nicht betrüben,</l>
+            <l>Wenn dir Eins die Kunde bringt,</l>
+            <l>Und daß dich's nicht überrasche,</l>
+            <l>Dieses Lied der Wandrer singt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

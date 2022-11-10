@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An einen unzeitigen Gekker.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">613</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An einen unzeitigen Gekker.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du fragst mich Koridon wie du dich solst befreyen/</l>
+            <l>Damit es dich nicht möcht’ ins künfftige gercuen/</l>
+            <l>Dieß ist mein Raht: Schau zu daß du kanst etwa sehn/</l>
+            <l>Die Jung/ die Keusch/ die Reich/ die ädel/ die auch schön</l>
+            <l>Jung soll sie seyn/ datz Sie dir Freud’ und Luft erwekke/</l>
+            <l>Keusch darüm/ daß sie nicht dein Ehrenbett beflekke/</l>
+            <l>Reich/ daß du allzeit wol auß vollem Beutel lebst/</l>
+            <l>Vom Adel/ daß du auch mit ihr in Ehren schwebst/</l>
+            <l>Schon/ daß Sie dir gefällt. Dieß sind die besten Gaben</l>
+            <l>Wie mich bedünkt. Wolan! Kanstu nun solche haben</l>
+            <l>So frey Sie immer weg. Doch frag auch ob Sie wil/</l>
+            <l>Bekömstu einen Korb/ so geh und schweige still.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

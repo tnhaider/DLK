@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Elementen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">544</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Elementen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und gnug erwiesen bleibt; so muß von Kügelein</l>
+            <l>Der Zwischen-Raum, in Eile,</l>
+            <l>Beständig angefüllet seyn</l>
+            <l>Durch die beweglichen und kleine Theile</l>
+            <l>Des Cubus, welcher sich geründet,</l>
+            <l>Als dessen zarte Kleinigkeit,</l>
+            <l>Ohn’ alle Hindrung, allezeit</l>
+            <l>Leicht einen Eingang findet.</l>
+            <l>Die Theilchen nun, die völlig nicht so klein,</l>
+            <l>Und etwas gröber seyn,</l>
+            <l>Sind nicht so starck bewegt, und bleiben</l>
+            <l>In ihrer Theilung nicht so gleich und glatt,</l>
+            <l>Sie haben Falten, Krümmen, Ecken,</l>
+            <l>Die eine stets sich in die andre stecken,</l>
+            <l>Die sich zusammen häckeln, fassen,</l>
+            <l>Und in einander treiben lassen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">132.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">501</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>132.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du thust, beglückter Freund, ein Büchlein leichter ab,</l>
+            <l>Sobald sich dir der Gründ' Unhaltbarkeit ergab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe länger mich damit herumzuschlagen,</l>
+            <l>Weil mich die Meinungen mehr als die Gründe plagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Meinungen, ob auf ob ohne Grund sie stehn,</l>
+            <l>Ziehn oder stoßen mich, dem kann ich nicht entgehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich frage nicht, warum, nur was und wie man's meint,</l>
+            <l>Und wie dis Meinen dann mit meinem sich vereint.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dieser Meinungstreit ist schwerer mir zu schlichten,</l>
+            <l>Als siegreich dir ein Heer von Gründen zu vernichten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

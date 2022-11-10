@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ii.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">534</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ii.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus Wogen taucht ein blasser Strand,</l>
+            <l>Es schimmert fern durch meine Thränen</l>
+            <l>Des Vaterlandes Küstenrand,</l>
+            <l>Erschöpft muß ich am Maste lehnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Flieder blüht, die Schwalbe zieht,</l>
+            <l>Und auf den Dächern schwatzen Staare,</l>
+            <l>Der Orgeldreher dreht sein Lied,</l>
+            <l>Ein linder Wind küßt mir die Haare.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Mädchen lachen Arm in Arm,</l>
+            <l>Soldaten stehen vor der Wache,</l>
+            <l>Und aus der Schule bricht ein Schwarm,</l>
+            <l>Der lustig lärmt in </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schreit mein Herz, es jauchzt und bebt</l>
+            <l>Der alten Heimat heiß entgegen.</l>
+            <l>Und was als Kind ich je durchlebt,</l>
+            <l>Klingt wieder mir auf allen Wegen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

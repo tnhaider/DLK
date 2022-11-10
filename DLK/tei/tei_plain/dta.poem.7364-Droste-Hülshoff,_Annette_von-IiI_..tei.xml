@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">IiI .</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7</measure>
+        <measure type="syllables">177</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">702</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>IiI .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu Cöln am Rheine kniet ein Weib</l>
+            <l>Am Rabensteine unter'm Rade,</l>
+            <l>Und über'm Rade liegt ein Leib,</l>
+            <l>An dem sich weiden Kräh' und Made;</l>
+            <l>Zerbrochen ist sein Wappenschild,</l>
+            <l>Mit Trümmern seine Burg gefüllt,</l>
+            <l>Die Seele steht bei Gottes Gnade.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Leib des Fürsten hüllt der Rauch</l>
+            <l>Von Ampeln und von Weihrauchschwehlen —</l>
+            <l>Um seinen qualmt der Moderhauch</l>
+            <l>Und Hagel peitscht der Rippen Höhlen;</l>
+            <l>Im Dome steigt ein Trauerchor,</l>
+            <l>Und ein Tedeum stieg empor</l>
+            <l>Bei seiner Qual aus tausend Kehlen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn das Rad der Bürger sieht,</l>
+            <l>Dann läßt er rasch sein Rößlein traben,</l>
+            <l>Doch eine bleiche Frau die kniet,</l>
+            <l>Und scheucht mit ihrem Tuch die Raben:</l>
+            <l>Um sie mied er die Schlinge nicht,</l>
+            <l>Er war ihr Held, er war ihr Licht —</l>
+            <l>Und ach, der Vater ihrer Knaben!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

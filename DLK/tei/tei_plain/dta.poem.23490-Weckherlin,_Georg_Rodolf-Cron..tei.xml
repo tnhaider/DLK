@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Cron.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">574</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1619</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20627-4"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Cron.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Musen trost/ vnd der Tugenten</l>
+            <l>wohn/</l>
+            <l>Vnd der Potentaten Exempel;</l>
+            <l>Ja wie zu Rom der tempel Pantheon</l>
+            <l>War einmahl aller Götter tempel:</l>
+            <l>Also ist jetz bey vns </l>
+            <l>Der hat allein die Tugenten bey sich.</l>
+            <l>Er ist Weiß sich wol für-zu-sehen/</l>
+            <l>Starck glück vnd vnglück auß-zu-stehen/</l>
+            <l>Mäßig/ Nüchtern/ Embsig zugleich/</l>
+            <l>Milt wol-zu-thun/ vnd recht vnd wol zu-</l>
+            <l>geben/</l>
+            <l>An Gnad/ Gotsforcht vñ From̃keit reich/</l>
+            <l>Gerecht für Sich vnd für andre zu leben/</l>
+            <l>Von Sitten die je mehr vnd mehr</l>
+            <l>Der Menschen Hertz mit lieb vnd lob durch-</l>
+            <l>dringen:</l>
+            <l>Darumb Wir billich zumahl singen/</l>
+            <l>Georg-Friderich ist der sterblichen ehr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

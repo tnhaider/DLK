@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorrede.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-6</measure>
+        <measure type="syllables">75</measure>
+        <measure type="tokens">51</measure>
+        <measure type="characters">290</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorrede.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der mord-geist der stadt Rom stieg in den pful der höllen/</l>
+            <l>Und nahm die Furien ihm zu gehülffen an:</l>
+            <l>Kommt/ sagt er/ helffet mir einst den Augustus fällen;</l>
+            <l>Weil arglist/ gifft und stahl ihn nicht verletzen kan.</l>
+            <l>Sie aber wolten nicht sich dessen unterfangen;</l>
+            <l>Was Furien zu arg/ hat Livia begangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

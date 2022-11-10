@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[siehst Du nicht die grünen Matten]</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">470</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[siehst Du nicht die grünen Matten]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehst Du nicht die grünen Matten</l>
+            <l>Und das blaue Himmelszelt?</l>
+            <l>Und der Bäume lange Schatten</l>
+            <l>Und die ganze Frühlingswelt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>All die Bäche und die Quellen</l>
+            <l>Und die Wiesen gelb und grün,</l>
+            <l>All die Knospen, die da schwellen,</l>
+            <l>Und die Düfte, die da ziehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehst Du nicht die grünen Matten</l>
+            <l>Und das blaue Himmelszelt?</l>
+            <l>Und der Bäume lange Schatten</l>
+            <l>Und die ganze Frühlingswelt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>All die Bäche und die Quellen</l>
+            <l>Und die Wiesen gelb und grün,</l>
+            <l>All die Knospen, die da schwellen,</l>
+            <l>Und die Düfte, die da ziehn?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

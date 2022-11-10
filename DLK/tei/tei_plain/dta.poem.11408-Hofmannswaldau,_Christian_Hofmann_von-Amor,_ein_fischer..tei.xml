@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Amor, ein fischer.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">498</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1709</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20283-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Amor, ein fischer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die liebe, so allhier die flügel weggelegt,</l>
+            <l>Stellt sich, als einen fischer ein:</l>
+            <l>Die trübe bach beperlter zähren</l>
+            <l>Soll mit gewalt ihm einen fang gewähren.</l>
+            <l>Deßwegen muß ein haar, so meine Phyllis trägt,</l>
+            <l>Und ein blick, der in den seelen eine kühne lust erregt,</l>
+            <l>Der köder und das garn, ihr aber fische, seyn.</l>
+            <l>Doch, hertzen! last euch nicht nach dieser kost verlangen!</l>
+            <l>Ich kenn’ ihn schon, den kleinen bösewicht,</l>
+            <l>Er locket euch nur an, und kommt wahrhafftig nicht,</l>
+            <l>Um euch zu sättigen, er kommt nur euch zu fangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

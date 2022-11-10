@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">5</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">534</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1824</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>5</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Musenschwestern fiel es ein,</l>
+            <l>Auch Psychen in der Kunst zu dichten</l>
+            <l>Methodice zu unterrichten;</l>
+            <l>Das Seelchen blieb prosaisch rein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht sonderlich erklang die Leier,</l>
+            <l>Selbst in der schönsten Sommernacht;</l>
+            <l>Doch Amor kommt mit Blick und Feuer,</l>
+            <l>Der ganze Kursus war vollbracht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Musenschwestern fiel es ein,</l>
+            <l>Auch Psychen in der Kunst zu dichten</l>
+            <l>Methodice zu unterrichten;</l>
+            <l>Das Seelchen blieb prosaisch rein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht sonderlich erklang die Leier,</l>
+            <l>Selbst in der schönsten Sommernacht;</l>
+            <l>Doch Amor kommt mit Blick und Feuer,</l>
+            <l>Der ganze Kursus war vollbracht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

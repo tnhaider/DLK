@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Harz .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">324</measure>
+        <measure type="tokens">209</measure>
+        <measure type="characters">1251</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Harz .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Gegend, schrecklich und rauh, wo melancholische
+Berge</l>
+            <l>Mit starrem Haupt die Gewitter durchschaun;</l>
+            <l>Wo um den drohenden Fels die werdenden Donner sich</l>
+            <l>Und jede Wolke zum Regenguß wird;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo bald im rauschenden Bach die Kutsche des Reisen-</l>
+            <l>Bald durch die engsten Felsen sich zwingt;</l>
+            <l>Bald auf der Spitze des Bergs die Wolken um sich</l>
+            <l>Und bald in Thälern, gleich Abgründen, irrt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo nur der knarrende Karn von flimmernden Erzten</l>
+            <l>Das Thal vom rasenden Puchwerke schallt;</l>
+            <l>Und wo im ewigen Rauch, gleich einem dampfenden</l>
+            <l>Manch Hüttenwerk weite Gehölze verschlingt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo nur mit blassem Gesicht bey Hammerwerken und</l>
+            <l>Ein Bergmann etwa die Wege durchkreuzt;</l>
+            <l>Verschwindet, wenn man ihn sieht, fährt in die Tiefen</l>
+            <l>Und läßt den Wald so öd, als er war;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Harz, wofern auch in dir der lächelnde Morgen sich</l>
+            <l>Und Abends Purpur die Felsen bekrönt;</l>
+            <l>So laß auch den heutigen Tag mit aller der Anmuth</l>
+            <l>Die einen Harztag zu schmücken vermag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Donner, rolle du nicht von ungeselligen Bergen;</l>
+            <l>Und du, o Sturmwind, stürme du nicht.</l>
+            <l>Der Westwind flattre durch euch, ihr tausendjährigen</l>
+            <l>Die Tanne rausche Vergnügen und Ruh;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß ihr Serenen nicht schreckt, wenn sie mit ängstli-</l>
+            <l>Die unabsehlichen Wälder erblickt.</l>
+            <l>Der tödtende Hüttenrauch flieh, von sanften Westen</l>
+            <l>Und fröhlich ruf ihr der Bergmann: Glück auf!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

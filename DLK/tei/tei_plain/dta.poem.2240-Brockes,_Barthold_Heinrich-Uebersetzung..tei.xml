@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Uebersetzung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">526</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Uebersetzung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>A. Nachdem ich lange nachgesonnen, ist mein Ver-</l>
+            <l>langen ungemein,</l>
+            <l>Ich möchte gerne von dir wissen, was eigentlich Ge-</l>
+            <l>danken seyn?</l>
+            <l>B. Wenn man, was Farben eigentlich, von einem Blin-</l>
+            <l>den wollt erfragen,</l>
+            <l>Hätt er gleich viel davon gehört, sollt er wohl was</l>
+            <l>Begreiflichs sagen?</l>
+            <l>So geht es mir mit meiner Antwort auf deine Fra-</l>
+            <l>gen eben auch.</l>
+            <l>Weil es jedoch bey den Gelehrten, dieß zu gestehen,</l>
+            <l>nicht der Brauch;</l>
+            <l>So dienet dieses dir zur Antwort, worüber du dich</l>
+            <l>nicht wirst zanken:</l>
+            <l>Die Erd’ ist Erde, Feuer Feur, und die Gedanken</l>
+            <l>sind Gedanken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

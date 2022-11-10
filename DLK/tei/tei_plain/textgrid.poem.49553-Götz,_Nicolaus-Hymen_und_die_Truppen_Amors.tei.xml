@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hymen und die Truppen Amors</title>
+        <author>
+          <persName>
+            <surname>Götz</surname>
+            <forename>Nicolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">650</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1751</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hymen und die Truppen Amors</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hymen stand im Hinterhalte:</l>
+            <l>Als ein Heer von Amuretten</l>
+            <l>Seines Reiches Grenzen nahte!</l>
+            <l>Wer da! rief er halberschrocken,</l>
+            <l>Wer da! – oder soll ich schiesen?</l>
+            <l>Holder Bruder, sprach ihr Führer,</l>
+            <l>Fürchte nichts von Amors Truppen.</l>
+            <l>Unser Endzweck ist nicht dieser,</l>
+            <l>Deine Lande zu verheeren</l>
+            <l>Oder in Besitz zu halten:</l>
+            <l>Wir verlangen nur den Durchzug!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hymen stand im Hinterhalte:</l>
+            <l>Als ein Heer von Amuretten</l>
+            <l>Seines Reiches Grenzen nahte!</l>
+            <l>Wer da! rief er halberschrocken,</l>
+            <l>Wer da! – oder soll ich schiesen?</l>
+            <l>Holder Bruder, sprach ihr Führer,</l>
+            <l>Fürchte nichts von Amors Truppen.</l>
+            <l>Unser Endzweck ist nicht dieser,</l>
+            <l>Deine Lande zu verheeren</l>
+            <l>Oder in Besitz zu halten:</l>
+            <l>Wir verlangen nur den Durchzug!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

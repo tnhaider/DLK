@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gruss in die Ferne.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">255</measure>
+        <measure type="tokens">163</measure>
+        <measure type="characters">1011</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gruss in die Ferne.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Woher, o laues Wehen,</l>
+            <l>Das schmeichelnd um mich kost?</l>
+            <l>Streifst du von Jasmunds Höhen</l>
+            <l>Daher aus fernem Ost?</l>
+            <l>Verschönt das Land der Hünen</l>
+            <l>Nicht itzt Elwinens Fuss?</l>
+            <l>Ach bringst du von Elwinen</l>
+            <l>Mir etwa süssen Gruss?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flog sie vielleicht den Hügel</l>
+            <l>Der </l>
+            <l>Und staunt den Lasurspiegel</l>
+            <l>Des Meers anbetend an?</l>
+            <l>Sieht sie im Abendschimmer</l>
+            <l>Ihr heimisch Wittow glühn,</l>
+            <l>Und fern im Spatrothschimmer</l>
+            <l>Arkona Funken spr&amp;#252;hn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich seh', ich seh' die Holde</l>
+            <l>In ihrer Schönheit Licht.</l>
+            <l>In Hespers mattem Golde</l>
+            <l>Wie glänzt ihr Angesicht!</l>
+            <l>Schwer rollen ihre Locken.</l>
+            <l>Wild schwirrt des Huthes Band.</l>
+            <l>Gleich frischgefallnen Flocken</l>
+            <l>Fliesst blendend ihr Gewand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Hauch der Abendkühle,</l>
+            <l>Im sanften Abendlicht,</l>
+            <l>Verklärt vom Hochgefühle,</l>
+            <l>Wie strahlt ihr Angesicht.</l>
+            <l>In ihren Wimpern zittert</l>
+            <l>Der Rührung heil'ger Thau,</l>
+            <l>Und eine Thrän' umflittert</l>
+            <l>Der Augen heitres Blau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zurück, o schmeichelnd Wehen,</l>
+            <l>Das freundlich um mich kost!</l>
+            <l>Zurück zu Jasmunds Höhen,</l>
+            <l>Zum sanftgefärbten Ost!</l>
+            <l>Berühr' Elwinens Wange</l>
+            <l>Mit leichtem Zephyrkuss,</l>
+            <l>Und flüstr' ihr leis' und bange:</l>
+            <l>Es ist des Dichters Gruss!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

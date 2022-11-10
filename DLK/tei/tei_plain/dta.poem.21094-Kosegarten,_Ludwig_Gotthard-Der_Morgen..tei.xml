@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Morgen.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-4 4-5 5-5 6-4 7-5</measure>
+        <measure type="syllables">275</measure>
+        <measure type="tokens">169</measure>
+        <measure type="characters">1099</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193300"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Morgen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>J&amp;#252;ngling, sey mir gegr&amp;#252;sst! &amp;#220;ber die Schöpfungen               </l>
+            <l>Schwebst du tönenden Schwungs freudig und stolz</l>
+            <l>daher!</l>
+            <l>Deine Wange, wie glüht sie</l>
+            <l>In den Gluthen des Morgenroths!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein gelbringelndes Haar, deinen weitwallenden</l>
+            <l>Safranmantel, ihn schwellt, siehe! der Morgenwind,</l>
+            <l>Und entblättert die Rosen,</l>
+            <l>Die dir kränzen den hellen Schlaf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir, Unsterblicher, dir feyert die junge Welt,</l>
+            <l>Dir der spiegelnde See, dir der entbrannte Wald,</l>
+            <l>Dir der sonnige Hügel,</l>
+            <l>Dir die perlenbesä'te Flur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir, Unsterblicher, dir jubelt mein Saitenspiel.</l>
+            <l>Innig liebt dich mein Herz. Weckt nicht dein leiser</l>
+            <l>Kuss</l>
+            <l>Mich aus lähmendem Schlummer</l>
+            <l>In des Daseyns Entzückungen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heil dir, Strahlender, Heil! Gürte, so oft du</l>
+            <l>kehrst,</l>
+            <l>Meine Hüfte mit Kraft. Stähle zu festem Trotz</l>
+            <l>Meine Schenkel. Erfülle</l>
+            <l>Meine Röhren mit Löwenmark.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deine Jugend verwelkt nimmer. Die meinige</l>
+            <l>Welkt in Kurzem. Nicht lang, siehe, so suchest du</l>
+            <l>Mich vergebens im Felde,</l>
+            <l>Rufst vergebens dem Schlummerer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tief im Staub' ist mein Schlaf, niedrig mein grünend</l>
+            <l>Haus.</l>
+            <l>Thaue Thränen darauf, Holder, und röth' es sanft,</l>
+            <l>Bis dein himmlischer Bruder</l>
+            <l>Mich zum ewigen Tage weckt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">163.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">131</measure>
+        <measure type="characters">711</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>163.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist Verneinung wol im Denken und im Wort?</l>
+            <l>Bejahung nur, die rückt von dem zu jenem fort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies Weiterrücken selbst erscheinet dreierlei,</l>
+            <l>Doch leicht erkennest du: im Grund ist eins das drei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Gehn wird zum Vergehn, das Schlagen zum Erschlagen;</l>
+            <l>Aufhebt sich jede Kraft, zu ihrem Ziel getragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von dem du jetzo sagst: es ist, sagst du: es war,</l>
+            <l>Im nächsten Nu; das Seyn stellt sich als Nichtseyn dar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Worauf du denkend siehst, das wird von dir empfunden</l>
+            <l>Als etwas; siehst du weg, zum Nichts ist es geschwunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Rücken also durch die Zeit und durch den Ort,</l>
+            <l>Und durch Gedanken, rückt zum Tod das Leben fort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dieser Rücksicht nur wird dir zum Nein das Ja</l>
+            <l>Nicht für sich selbst ists nicht, für dich nur ists nicht da.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

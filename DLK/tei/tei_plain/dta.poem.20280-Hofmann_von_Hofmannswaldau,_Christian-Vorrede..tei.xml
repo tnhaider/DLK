@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorrede.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">676</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorrede.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heb Rom Lucretien biß an das stern-gerüste!</l>
+            <l>Weil sie in adern-brunn den kalten stahl gesteckt/</l>
+            <l>Nachdem sie vom Tarqvin durch ehbruch war befleckt/</l>
+            <l>Hier dringt ein reiner dolch durch unbefleckte brüste.</l>
+            <l>Lucretia ließ zu vorher die schnöden lüste.</l>
+            <l>Olympia hat nichts von geiler brunst geschmeckt/</l>
+            <l>Die ihren helden-arm zu strenger rach ausstreckt/</l>
+            <l>Ch/ als zum ersten mahl sie Artabazes küßte.</l>
+            <l>Lucretia verschrenckt dem schänder nur den thron;</l>
+            <l>Hier büßt der fürsatz ein lust/ ehre/ leben/ kron.</l>
+            <l>Die nachwelt wird gestehn/ die beyder bild wird sehen;</l>
+            <l>Gold/ ertzt und marmol sey Olympien zu schlecht/</l>
+            <l>Lucretzen holtz zu gut; Lucretzen sey nur recht/</l>
+            <l>Olympien zu viel durch ihren stich geschehen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

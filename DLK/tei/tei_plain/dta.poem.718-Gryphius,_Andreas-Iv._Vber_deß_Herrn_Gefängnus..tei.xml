@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Iv.  Vber deß Herrn Gefängnus.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">722</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Iv.  Vber deß Herrn Gefängnus.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wje in dem Garten sind dem Teufel eingegangen </l>
+            <l>In seine Jägergarn’ vnd harter Ketten macht/</l>
+            <l>Die jhre missethat erbeigen auff vns bracht;</l>
+            <l>So wird die vnschuld selbst im Garten auffgefangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die freyheit fält in strick/ durch list der grimmen Schlangen.</l>
+            <l>Die hand durch welcher krafft/ dz werck der welt erkracht/ </l>
+            <l>Der hellen Gottheit glantz wird in der schwartzen nacht </l>
+            <l>In fessell eingelegt vns Freyheit zu erlangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König wird ein Knecht/ der tollen Knechte schar</l>
+            <l>Schlegt auff den Erben zu. Er gibt sich selber dar/</l>
+            <l>Damit er was nicht frey auß band’ vnd Kärcker reisse.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hilff! der du durch den dinst das Dinsthauß vmbgekehrt/</l>
+            <l>Der du in danden hast dem starcken auch gewehrt: </l>
+            <l>Das ich von Sünden frey/ mich deines dinst’s befleisse.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

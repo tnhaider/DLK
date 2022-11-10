@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der stolze Mensch.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">114</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">476</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der stolze Mensch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du solltest dich wahrhaftig schämen,</l>
+            <l>Den Mittelplatz vom Vieh und Engeln einzu-</l>
+            <l>nehmen:</l>
+            <l>Dein aufgeblasner Stolz, womit du ganz erfüllt,</l>
+            <l>Stellt dich dir selbst hier vor als deines Schöpfers Bild.</l>
+            <l>Verächtlich stolzer Staub, der zanket, zweifelt, gläubet,</l>
+            <l>Der kriecht, der sich erhebt, der fällt und doch verneint,</l>
+            <l>Daß er gefallen sey;</l>
+            <l>Der seine Ketten zeigt, und doch spricht, ich bin frey;</l>
+            <l>Deß dunkles trübes Aug, was man auf Erden treibet,</l>
+            <l>Ja alles, was darauf, wohl einzusehn vermeynt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

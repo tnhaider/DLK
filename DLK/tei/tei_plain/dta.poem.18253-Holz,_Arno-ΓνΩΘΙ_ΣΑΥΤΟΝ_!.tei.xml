@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ΓνΩΘΙ ΣΑΥΤΟΝ !</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">165</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">638</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ΓνΩΘΙ ΣΑΥΤΟΝ !</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf den glitschrigen Asphalt</l>
+            <l>Plätscherte der Novemberregen</l>
+            <l>Und, windgepeitscht, flackerte rothgelb</l>
+            <l>Durch den Nebeldunst das Licht der Laternen.</l>
+            <l>Nur hie und da noch humpelte schwerfällig</l>
+            <l>Durch die dunklen Gassen der träumenden Weltstadt</l>
+            <l>Ein schläfriger Droschkengaul</l>
+            <l>Und vor der Hausthür, hart unter meinem Fenster,</l>
+            <l>Stand, wie immer um diese Stunde,</l>
+            <l>So auch heute, mein Stubennachbar,</l>
+            <l>Der neugebackene Referendar,</l>
+            <l>Und deklamirte höchst gefühlvoll,</l>
+            <l>Mit seinem Stöckchen die Luft durchfuchtelnd</l>
+            <l>Und das Schlüsselloch immer vergeblich suchend,</l>
+            <l>Den Monolog der Schillerschen Jungfrau.</l>
+            <l>Von drüben über die Straße her</l>
+            <l>Blitzten die Spiegelscheiben des Wiener Caf</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

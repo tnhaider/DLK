@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">98.  Von den Lilgen.</title>
+        <author>
+          <persName>
+            <surname>Silesius</surname>
+            <forename>Angelus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-6</measure>
+        <measure type="syllables">72</measure>
+        <measure type="tokens">53</measure>
+        <measure type="characters">283</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1675</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20008-3"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>98.  Von den Lilgen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So offt ich Lilgen seh/ so offt empfind’ ich Pein/</l>
+            <l>Und muß auch bald zugleich so offt voll Freuden seyn.</l>
+            <l>Die Pein enstehet mir/ weil ich die Ziehr verlohrn/</l>
+            <l>Die ich im Paradiß von anbegin gehabt.</l>
+            <l>Die Frewde kombt daher/ weil JEsus ist gebohrn</l>
+            <l>Der mich nu widerumb mit jhr aufs neu begabt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

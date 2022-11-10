@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">128.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">56</measure>
+        <measure type="characters">298</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>128.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gar viele Wege gehn zu Gott, auch deiner geht</l>
+            <l>Zu Gott, geh ihn getrost mit Preisen und Gebet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und laß dich nicht darin von denen irre machen,</l>
+            <l>Die andre Wege gehn, und mach nicht irr die Schwachen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer mit auf meinem Weg will gehn, der sei willkommen;</l>
+            <l>Und geh' ich auch allein, doch geh' ich unbeklommen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

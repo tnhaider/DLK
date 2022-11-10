@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Marienwürmchen .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">554</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Marienwürmchen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Marienwürmchen setze dich,               </l>
+            <l>Auf meine Hand, auf meine Hand,</l>
+            <l>Ich thu dir nichts zu Leide.</l>
+            <l>Es soll dir nichts zu Leid geschehn,</l>
+            <l>Will nur deine bunte Flügel sehn,</l>
+            <l>Bunte Flügel, meine Freude.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Marienwürmchen fliege weg,</l>
+            <l>Dein Häuschen brennt, die Kinder schrein</l>
+            <l>So sehre, wie so sehre.</l>
+            <l>Die böse Spinne spinnt sie ein,</l>
+            <l>Marienwürmchen flieg hinein,</l>
+            <l>Deine Kinder schreien sehre.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Marienwürmchen fliege hin</l>
+            <l>Zu Nachbars Kind, zu Nachbars Kind,</l>
+            <l>Sie thun dir nichts zu Leide;</l>
+            <l>Es soll dir da kein Leid geschehn,</l>
+            <l>Sie wollen deine bunte Flügel sehn,</l>
+            <l>Und grüß sie alle beyde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

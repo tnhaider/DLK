@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1. An Vlaemsch– Belgien.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">116</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">443</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1. An Vlaemsch– Belgien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Suche nicht das Heil im Westen!</l>
+            <l>In der Fremde wohnt kein Glück —</l>
+            <l>Suchst du deines Gückes Besten,</l>
+            <l>Kehre in dich selbst zurück!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus der Tugend deiner Ahnen</l>
+            <l>Musst du deine Burgen baun,</l>
+            <l>Und der Löw' auf deinen Fahnen</l>
+            <l>Lehre dich dir selbst vertraun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Treu bewahr in deiner Mitte</l>
+            <l>Vor dem wälschen Uebermuth</l>
+            <l>Deine Sprach' und deine Sitte,</l>
+            <l>Deiner Väter Gut und Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann erst kannst du r&amp;#252;hmend sagen,</l>
+            <l>Daß du </l>
+            <l>Daß erblüht in unsern Tagen</l>
+            <l>Deine alte Herrlichkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

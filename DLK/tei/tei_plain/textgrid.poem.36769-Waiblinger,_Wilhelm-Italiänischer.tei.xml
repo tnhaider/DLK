@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Italiänischer</title>
+        <author>
+          <persName>
+            <surname>Waiblinger</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">638</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1817</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Italiänischer</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hurtig, Postillon! Cospetto die Bacco! Die Pferde</l>
+            <l>Laufen wie Mähren und ich habe nicht länger Geduld.</l>
+            <l>Das will Eile! Der Hügel in Rom sind sieben, und alle</l>
+            <l>Muß ich haben, und noch jeden von hinten und vorn.</l>
+            <l>Hab' ich die Extrapost doch bezahlt! Drum hurtig, Herr Schwager,</l>
+            <l>So in Flug und Galopp nehm' ich das Ding mir hinweg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hurtig, Postillon! Cospetto die Bacco! Die Pferde</l>
+            <l>Laufen wie Mähren und ich habe nicht länger Geduld.</l>
+            <l>Das will Eile! Der Hügel in Rom sind sieben, und alle</l>
+            <l>Muß ich haben, und noch jeden von hinten und vorn.</l>
+            <l>Hab' ich die Extrapost doch bezahlt! Drum hurtig, Herr Schwager,</l>
+            <l>So in Flug und Galopp nehm' ich das Ding mir hinweg.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

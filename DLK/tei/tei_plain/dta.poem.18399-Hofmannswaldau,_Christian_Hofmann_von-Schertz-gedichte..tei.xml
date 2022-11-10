@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schertz-gedichte.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">203</measure>
+        <measure type="tokens">141</measure>
+        <measure type="characters">809</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1703</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199360"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schertz-gedichte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber stehst und lächelst nu/</l>
+            <l>Und weist den leib gewaltig wohl zu biegen/</l>
+            <l>Laß mich nur auch einmal ein liebes liebchin kriegen/</l>
+            <l>Ich wil wohl schöner thun/ als du/</l>
+            <l>Ich will den einen fuß ausstreichen biß zur wand/</l>
+            <l>Und mit der rechten hand</l>
+            <l>Der wehrten Rosil schuh anrühren;</l>
+            <l>Du werthster schuch/ so will ich sprechen:</l>
+            <l>Es pflegt dich Rosilis mit kreyden einzuschmieren/</l>
+            <l>Mit einem band zu zieren/</l>
+            <l>Mir aber will es stets an artzeney gebrechen/</l>
+            <l>Du wehrtster schuch/ es ruht auf dir</l>
+            <l>Die halbe wohlfarth des Dameten/</l>
+            <l>Die Rosil braucht dich für und für/</l>
+            <l>Mein aber/ sagt sie/ hab sie nicht von nöthen.</l>
+            <l>Du tausend zucker-süsse gute nacht;</l>
+            <l>Dein liebreitz hat mich ja so gantz verliebt gemacht/</l>
+            <l>Mich/ der sich deiner pflicht ergiebt/</l>
+            <l>Der dich/ eh du noch warst gebohren/</l>
+            <l>Zu seiner liebsten außerkohren/</l>
+            <l>Und schon im mutterleibe dich geliebt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

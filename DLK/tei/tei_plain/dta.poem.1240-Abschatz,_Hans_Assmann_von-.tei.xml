@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"></title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">430</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head></head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein einig Kuß soll meiner Pein/</l>
+            <l>Soll meiner Treue Zahlung seyn?</l>
+            <l>Du weist ja/ daß der Kuß besiegelt das Versprechen</l>
+            <l>Der zugesagten Gunst/ daß Liebe durch diß Pfand</l>
+            <l>Ein stilles Jawort auff die Lippen drückt.</l>
+            <l>Bist du gesinnt dein Wort/ der Freundschafft Recht/ zu bre-</l>
+            <l>chen?</l>
+            <l>Ein Kuß und tausend noch thun schlechten Widerstand:</l>
+            <l>Wo nicht? wie aus den treuen Augen blickt/</l>
+            <l>Was schadet dirs/ wenn mir zu gutt</l>
+            <l>Dein Mund noch mehr Versichrung thut?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

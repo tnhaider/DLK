@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Herbst-Blätter.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">211</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">842</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1736</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198582"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Herbst-Blätter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es scheint so gar der Wind anjetzt sich zu bemühn,</l>
+            <l>Und, zu dem Endzweck blos, die Blätter zu bewegen,</l>
+            <l>Um, durch derselben öfters regen,</l>
+            <l>Den Blick nun desto mehr auf sie zu ziehn.</l>
+            <l>Man siehet, sieht man recht, der Farben bunte Klarheit,</l>
+            <l>In einer Harmonie, so angenehm sich mischen;</l>
+            <l>Man höret, hört man recht, in ihrem sanften Zischen</l>
+            <l>Und lispelndem Gethös’ und Wispern, diese Wahrheit:</l>
+            <l>„jhr sehet uns vielleicht zum letzten mahl,</l>
+            <l>„beseht uns heute noch, denn da wir schon gereift,</l>
+            <l>„sind Morgen schon vielleicht der Bäume Wipfel kahl,</l>
+            <l>„und wir vermuthlich abgestreift.</l>
+            <l>„noch könnt ihr euren Blick an uns vergnügen,</l>
+            <l>„noch könnt ihr dessen Ehr’,</l>
+            <l>„der euch und uns gemacht, zu eurer Freude fügen,</l>
+            <l>„und opfern eure Lust dem Wesen mehr und mehr,</l>
+            <l>„das euch zu gut, indem wir sterben,</l>
+            <l>„uns ehe noch, als wir verderben,</l>
+            <l>„zu eurer Lust so schön, so lieblich wollen färben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

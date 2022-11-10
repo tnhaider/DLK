@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Allleben .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">225</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">842</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Allleben .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Staub ist eins der Elemente</l>
+            <l>Das du gar geschickt bezwingest</l>
+            <l>Hafis, wenn zu Liebchens Ehren,</l>
+            <l>Du ein zierlich Liedchen singest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn der Staub auf ihrer Schwelle</l>
+            <l>Ist dem Teppich vorzuziehen,</l>
+            <l>Dessen goldgewirkte Blumen</l>
+            <l>Mahmuds Günstlinge beknieen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Treibt der Wind von ihrer Pforte</l>
+            <l>Wolken Staubs behend vorüber,</l>
+            <l>Mehr als Moschus sind die Düfte</l>
+            <l>Und als Rosenöl dir lieber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Staub den hab’ ich längst entbehret</l>
+            <l>In dem stets umhüllten Norden,</l>
+            <l>Aber in dem heissen Süden</l>
+            <l>Ist er mir genugsam worden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch schon längst das liebe Pforten</l>
+            <l>Mir auf ihren Angeln schwiegen!</l>
+            <l>Heile mich Gewitterregen,</l>
+            <l>Lass mich dass es grunelt riechen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn jetzt alle Donner rollen</l>
+            <l>Und der ganze Himmel leuchtet,</l>
+            <l>Wird der wilde Staub des Windes</l>
+            <l>Nach dem Boden hingefeuchtet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sogleich entspringt ein Leben,</l>
+            <l>Schwillt ein heilig, heimlich Wirken,</l>
+            <l>Und es grunelt und es grünet</l>
+            <l>In den irdischen Bezirken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">37.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">600</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>37.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Schlange fühlte lang ein innerliches Quälen,</l>
+            <l>Daß ihre alte Haut nicht ab sich wollte schälen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie wußte keinen Rath noch Mittel zu ergreifen,</l>
+            <l>Die unbequeme Hüll' auf einmal abzustreifen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So rathlos wie sie gieng, unachtsam fiel die Schlange</l>
+            <l>In eine Schling' am Weg, gestellt zu ihrem Fange.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geblieben wäre sie sonst in der Schlinge hangen,</l>
+            <l>Nur durch den alten Balg ist sie der Schling' entgangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie ließ den Schlauf darin, und ist hindurch geschlüpft,</l>
+            <l>Und hat die läst'ge Haut zugleich nun abgestrüpft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ist der innre Mensch durch den Verlust entronnen</l>
+            <l>Des äußeren, und hat dadurch sich selbst gewonnen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

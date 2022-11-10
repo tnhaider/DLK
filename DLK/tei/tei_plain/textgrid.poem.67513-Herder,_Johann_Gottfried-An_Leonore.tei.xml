@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Leonore</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">232</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">884</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1773</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Leonore</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, dort schwebt sie hernieder, die Hora des kommenden Jahres,</l>
+            <l>Im verschwisterten Chor; Grazien führen den Reihn.</l>
+            <l>Jeglichem lächelt sie Freude, der sie mit Liebe begrüßet,</l>
+            <l>Schenket Jedem so gern, was er bescheiden begehrt.</l>
+            <l>Liebend nahet sie Dir, sie bekränzt mit ätherischen Blumen,</l>
+            <l>Die in Elysiums Flur sproßten, Dein lockiges Haar,</l>
+            <l>Schlinget den Arm um Dich und bringt Dir süße Geschenke,</l>
+            <l>Sanfte Freuden und Scherz mit dem verschwisternden Kuß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, dort schwebt sie hernieder, die Hora des kommenden Jahres,</l>
+            <l>Im verschwisterten Chor; Grazien führen den Reihn.</l>
+            <l>Jeglichem lächelt sie Freude, der sie mit Liebe begrüßet,</l>
+            <l>Schenket Jedem so gern, was er bescheiden begehrt.</l>
+            <l>Liebend nahet sie Dir, sie bekränzt mit ätherischen Blumen,</l>
+            <l>Die in Elysiums Flur sproßten, Dein lockiges Haar,</l>
+            <l>Schlinget den Arm um Dich und bringt Dir süße Geschenke,</l>
+            <l>Sanfte Freuden und Scherz mit dem verschwisternden Kuß.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

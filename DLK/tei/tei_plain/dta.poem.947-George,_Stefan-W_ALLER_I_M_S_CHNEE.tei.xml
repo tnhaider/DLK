@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">W ALLER   I M   S CHNEE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">134</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">709</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>W ALLER   I M   S CHNEE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die blume die ich mir am fenster hege               </l>
+            <l>Verwahrt vorm froste in der grauen scherbe               </l>
+            <l>Betr&amp;#252;bt mich nur trotz meiner guten pflege               </l>
+            <l>Und h&amp;#228;ngt das haupt als ob sie langsam sterbe             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um ihrer fr&amp;#252;hern bl&amp;#252;henden geschicke               </l>
+            <l>Erinnerung aus meinem sinn zu merzen               </l>
+            <l>Erw&amp;#228;hl ich scharfe waffen und ich knicke               </l>
+            <l>Die blasse blume mit dem kranken herzen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was soll sie nur zur bitternis mir taugen?               </l>
+            <l>Ich w&amp;#252;nschte dass vom fenster sie verschw&amp;#228;nde &amp;#183; &amp;#183;               </l>
+            <l>Nun heb ich wieder meine leeren augen               </l>
+            <l>Und in die leere nacht die leeren h&amp;#228;nde.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

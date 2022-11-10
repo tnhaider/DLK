@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Stoßseufzer</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">722</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1852</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Stoßseufzer</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unbequemer neuer Glauben!</l>
+            <l>Wenn sie uns den Herrgott rauben,</l>
+            <l>Hat das Fluchen auch ein End' –</l>
+            <l>Himmel-Herrgott-Sakrament!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir entbehren leicht das Beten,</l>
+            <l>Doch das Fluchen ist vonnöten,</l>
+            <l>Wenn man gegen Feinde rennt –</l>
+            <l>Himmel-Herrgott-Sakrament!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht zum Lieben, nein, zum Hassen</l>
+            <l>Sollt ihr uns den Herrgott lassen,</l>
+            <l>Weil man sonst nicht fluchen könnt –</l>
+            <l>Himmel-Herrgott-Sakrament!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unbequemer neuer Glauben!</l>
+            <l>Wenn sie uns den Herrgott rauben,</l>
+            <l>Hat das Fluchen auch ein End' –</l>
+            <l>Himmel-Herrgott-Sakrament!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir entbehren leicht das Beten,</l>
+            <l>Doch das Fluchen ist vonnöten,</l>
+            <l>Wenn man gegen Feinde rennt –</l>
+            <l>Himmel-Herrgott-Sakrament!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht zum Lieben, nein, zum Hassen</l>
+            <l>Sollt ihr uns den Herrgott lassen,</l>
+            <l>Weil man sonst nicht fluchen könnt –</l>
+            <l>Himmel-Herrgott-Sakrament!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

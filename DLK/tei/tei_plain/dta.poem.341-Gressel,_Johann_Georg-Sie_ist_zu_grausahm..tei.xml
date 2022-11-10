@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sie ist zu grausahm.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-7</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">599</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sie ist zu grausahm.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Felsen brechen/ Steine springen/</l>
+            <l>Aber du bleibst immer hart/</l>
+            <l>Meine Seuffzer/ meine Zähren/</l>
+            <l>Will dein Ohr niemahls erhören;</l>
+            <l>Du bist eine Tyger Art</l>
+            <l>Sonsten würde man dich zwingen.</l>
+            <l>Felsen brechen/ Steine springen</l>
+            <l>Aber du bleibst immer hart.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll ich sterben?</l>
+            <l>Ey wohlan!</l>
+            <l>Ich will mich dazu bereiten/</l>
+            <l>Weil ich doch nicht leben soll.</l>
+            <l>Mag ein Seuffzer mich begleiten</l>
+            <l>Ist mir auch im Grabe wohl.</l>
+            <l>Mein Verderben</l>
+            <l>Heisset jeder wohlgethan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Plage/ quähle/ ich erdulde</l>
+            <l>Aller Marter Centner-Last/</l>
+            <l>Denn wenn ich also gestorben</l>
+            <l>Hab ich diesen Trost erworben/</l>
+            <l>Daß ein Märterer erblaßt.</l>
+            <l>Plage/ quähle ich erdulde</l>
+            <l>Aller Marter Centner-Last.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

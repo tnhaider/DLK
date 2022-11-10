@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kornmuhme.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">899</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Kornmuhme.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwül und schweigend glüht der Mittag,</l>
+            <l>Schlummert tief im Sonnenzauber.</l>
+            <l>Flimmernd bebt der blaue Aether,</l>
+            <l>Müde neigt das Korn die Aehre.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie in tiefe Nacht versunken</l>
+            <l>Strömt der stille Glanz des Tages;</l>
+            <l>Bang verhalten geht ein Athem</l>
+            <l>Und ein Summen durch die Weite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieh! da schreitet riesenmächtig</l>
+            <l>Schwarz wie Nacht zum Himmel ragend,</l>
+            <l>Schwarz vom dunklen Hemd umflossen</l>
+            <l>Ein gespenstisch Weib im Korne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Niederfallen rings die Aehren</l>
+            <l>Wie vom Schnitter hingebreitet,</l>
+            <l>Und die blauen Blumen welken,</l>
+            <l>Werden weiß wie blaue Lippen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thränentropfen weint die Mutter,</l>
+            <l>Brandig stirbt beträuft die Aehre,</l>
+            <l>In den Himmel ragend schreitet</l>
+            <l>Ernst die Nacht im Tag von dannen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stumm und schweigend in die Bläue</l>
+            <l>Webt sie sich des heißen Himmels</l>
+            <l>Und im schwülen Glanz der Sonne</l>
+            <l>Ist sie endlich ganz verschwunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwül und schweigend glüht der Mittag,</l>
+            <l>Schlummert tief im Sonnenzauber,</l>
+            <l>Flimmernd bebt der blaue Aether,</l>
+            <l>Müde neigt das Korn die Aehre.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

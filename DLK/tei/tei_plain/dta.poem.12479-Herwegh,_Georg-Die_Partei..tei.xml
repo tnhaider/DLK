@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Partei.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">5</measure>
+        <measure type="verses_per_stanza">1-5</measure>
+        <measure type="syllables">52</measure>
+        <measure type="tokens">34</measure>
+        <measure type="characters">202</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1843</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192440"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Partei.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die ihr gehört — frei hab' ich sie verkündigt;</l>
+            <l>Ob jedem recht: — schiert ein Poet sich drum?</l>
+            <l>Seit Priam's Tagen, weiß er, wird gesündigt</l>
+            <l>In Ilium und außer Ilium.</l>
+            <l>Und hört mit Zürnen d'Enghiens Todesschrei:</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

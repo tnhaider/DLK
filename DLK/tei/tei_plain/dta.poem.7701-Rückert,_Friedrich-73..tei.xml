@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">73.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">490</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>73.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich nahm ein frostig Buch und legt' es auf die Flammen:</l>
+            <l>Auch dir im Tode soll noch Lebensglut entstammen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Blätter krümmten sich, vom Finger angerührt</l>
+            <l>So heißer Hand, wie sie nicht leicht ein Leser führt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Umschlug die Flamme voll Begierde Blatt für Blatt,</l>
+            <l>Und las an meiner Statt daran sich satt und matt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann meditirend ist sie drüber eingesunken,</l>
+            <l>Und so verloschen schnell bis auf den letzten Funken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Buch hat ihr gedient zu kurzer Unterhaltung,</l>
+            <l>Und seiner Art gemäß geendet mit Erkaltung.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

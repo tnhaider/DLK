@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Junge Liebe.</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">27</measure>
+        <measure type="verses_per_stanza">1-2 2-3 3-4 4-4 5-5 6-5 7-4</measure>
+        <measure type="syllables">257</measure>
+        <measure type="tokens">179</measure>
+        <measure type="characters">1105</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1852</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196098"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Junge Liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus eigenem Herzen geboren,</l>
+            <l>Nie besessen, dennoch verloren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Schelmenmund, wie jemals einer war,</l>
+            <l>Ein launisch Kind; doch all' ihr Widerstreben</l>
+            <l>Bezwingt ihr Herz, das mir so ganz ergeben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon lange sitzt sie vor mir, träumerisch</l>
+            <l>Mit ihren Beinchen baumelnd, auf dem Tisch;</l>
+            <l>Nun springt sie auf; an meines Stuhles Lehne</l>
+            <l>Hängt sie sich, schmollend ob der stummen Scene.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich liebe dich!“ — „Du bist sehr interessant.“</l>
+            <l>„ich liebe dich!“ — „Ach das ist längst bekannt!</l>
+            <l>Ich lieb' Geschichten, neu und nicht erfunden —</l>
+            <l>Erzählst du nicht, ich bin im Nu verschwunden.“ —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„so hör'! Jüngst träumte mir“ — — „Das ist</l>
+            <l>nicht wahr!“ —</l>
+            <l>„wahr ist's! Mir träumt', ich sähe auf ein Haar</l>
+            <l>Dich selbst Straß auf und ab in Prachtgewändern</l>
+            <l>An eines Mannes Arm gemächlich schlendern;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dieser Mann“ — — „der war?“ — „der war</l>
+            <l>nicht ich!“ —</l>
+            <l>„du lügst!“ — „Mein Herz, ich sah dich sicherlich —</l>
+            <l>Ihr senktet Aug' in Auge voll Entzücken,</l>
+            <l>Ich stand seitab, gleichgültig deinen Blicken.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„der Mutter sag ich's!“ ruft das tolle Kind,</l>
+            <l>„was für ein Traum!“ Da hasch' ich sie geschwind,</l>
+            <l>Und diese frevelhaften Lippen müssen,</l>
+            <l>Was sie verbrochen, ohne Gnade büßen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

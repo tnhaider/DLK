@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der  
+ Sterbende  
+  Socrates.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">797</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1679</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20289-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa; Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der  
+ Sterbende  
+  Socrates.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann uns Gemüth und Hertz in Rach und Eifer glimmen/</l>
+            <l>Wann des Verliebten Geist auf einen Korb gedenckt/</l>
+            <l>Und wann der Schiffer soll auf einen Balcken schwimmen/</l>
+            <l>So wird die Seele nicht auf gleicher Bahn gelenckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist ein Uberfluß/ wann man die Ege treibet/</l>
+            <l>Daß man bered und wol zu Pferd und Ochsen spricht/</l>
+            <l>Und daß ein Kriegesmann/ wann er die Schlacht beschreibet/</l>
+            <l>Nach Redners Maß und Art ihm Wort und Sylbe richt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Cytherons Begrieff/ wo Bachus Weiber lachen/</l>
+            <l>Wann ihr berühmter Gott die nasse Taffel deckt/</l>
+            <l>Da hört kein Ohre nicht viel kluge Wörter machen/</l>
+            <l>Indem ein voller Galm uns das Gehöre schreckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der aber/ dessen Geist nicht aus der Wage lencket/</l>
+            <l>Dem keine Regung hat die süsse Ruh verstört/</l>
+            <l>Der trachte/ wil er nicht/ daß man was falsches dencket/</l>
+            <l>Damit kein einig Mensch was ungereimtes hört.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

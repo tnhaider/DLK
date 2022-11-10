@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">2. Zusatz.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">94</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">371</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>2. Zusatz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wündtsche frey zu seyn/ nur daß ich meine zeit </l>
+            <l>In deinem dienste möge schlissen</l>
+            <l>HeRR wenn du dis mein netz zurissen! </l>
+            <l>Wil ich dein hohes lob vermehren weit vnd breit.</l>
+            <l>Dein Nahme soll in meinem munde/</l>
+            <l>Dein ruhm in meinen Lippen blühn/ </l>
+            <l>Vnd wenn ich mus von hinnen zihn;</l>
+            <l>Sey dis das werck der letzten stunde.</l>
+            <l>Vnd wenn ich werd’ auffs newe leben:</l>
+            <l>Wil ich von deinem lob anheben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

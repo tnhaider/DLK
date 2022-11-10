@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vom Geist und Cörper</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">645</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vom Geist und Cörper</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn auch ein Jupiter, durch Morpheus, Phantasey'n,</l>
+            <l>Mich zu betrügen, hätt’ aus nichts hervorgezogen;</l>
+            <l>Bin ich jedennoch nicht betrogen,</l>
+            <l>Wann ich nur </l>
+            <l>Ja ihr Pyrrhonier, verstockte Sceptiei,</l>
+            <l>Und ihr gleichgültigen Academisten!</l>
+            <l>Die Wahrheit findet sich. der Geist beweget sie.</l>
+            <l>Lasst Phantaseyen! Lasst Chymeren!</l>
+            <l>Sich zeigen unserm Geist bey gantzen Heeren</l>
+            <l>In solcher ungeformt-und wüsten Seltsamkeit,</l>
+            <l>In solcher grilligen Beschaffenheit,</l>
+            <l>Als nie gewesen sind und nimmer kommen können,</l>
+            <l>Man kan mich doch davor nicht unempfindlich nennen.</l>
+            <l>Mein Zweifel geht so weit: ich zweifele daran,</l>
+            <l>Ob etwas ausser mir. Ich zweifle gar dabey,</l>
+            <l>Ob auch mein Cörper würcklich sey.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">50.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">687</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>50.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von Strömen täglich trägt und stündlich welch ein Heer</l>
+            <l>Dem Meer süß Wasser zu, doch bitter bleibt das Meer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So täglich, stündlich bringt von Weisheit auch genug</l>
+            <l>Zur Welt der Weisen Zunft, doch wird die Welt nicht klug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ließen dieses sich die Weisen wol verdrießen,</l>
+            <l>Da unverdrossen stets ins Meer die Ströme fließen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da nie in ihrem Lauf die Ströme sich verbittern,</l>
+            <l>Wie sollten Weise sich im ihrigen erbittern?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ströme süßen nie das Meer, doch ziehen sie</l>
+            <l>Aus ihm ihr Süßes selbst, und wissen selbst nicht wie,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob unterirdisch aufgedampft und ausgebraut,</l>
+            <l>Ob überirdisch abgeklärt und angethaut;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Meeres bittre Flut wird süße Quelle wieder,</l>
+            <l>Und billig strömt der Quell darum zum Meere nieder.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

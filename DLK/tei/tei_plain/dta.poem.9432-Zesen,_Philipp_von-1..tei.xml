@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">690</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich suchte des nachtes im bette mein Leben/</l>
+            <l>Den Liebsten ich suchte doch fand ich Jhn nicht;</l>
+            <l>Ich konte mich nirgend zu frieden ergeben/</l>
+            <l>Ich weinte von hertzen und suchte mein Licht.</l>
+            <l>Die Liebes-brunst zwang mich das bette zulaßen</l>
+            <l>Ich eylte mit macht</l>
+            <l>Durch schatten und nacht/</l>
+            <l>Lief traurig ernieder und fehlte der straßen/</l>
+            <l>Ich fragte die wacht</l>
+            <l>Objemand den Liebsten genommen in acht?</l>
+            <l>Doch fand ich jhn nicht</l>
+            <l>Mein Leben und Licht/</l>
+            <l>Ich ginge fort/ sihe! da kam Er gegangen/</l>
+            <l>Da fand ich mein Licht./</l>
+            <l>O Liebster mein Leben mein bestes Verlangen/</l>
+            <l>Ich halte Mich an Dich und laße dich nicht.</l>
+            <l>Ich führe dich Liebster/ bin immer bemühet/</l>
+            <l>Daß meine geliebete Mutter dich sihet/</l>
+            <l>Nun folge mein Licht/</l>
+            <l>Ich laße dich nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

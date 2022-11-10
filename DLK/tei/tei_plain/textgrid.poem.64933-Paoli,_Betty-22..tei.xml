@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">22.</title>
+        <author>
+          <persName>
+            <surname>Paoli</surname>
+            <forename>Betty</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">430</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1854</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>22.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Born, d'raus Reiz und Tod in gleichem Schwalle quillt,</l>
+            <l>Womit vergleich ich dich? was gibt von dir ein Bild?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein wahrstes Bild seh ich in einem Dolch sich malen,</l>
+            <l>An dessen Griff Demant und Perlen leuchtend strahlen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Born, d'raus Reiz und Tod in gleichem Schwalle quillt,</l>
+            <l>Womit vergleich ich dich? was gibt von dir ein Bild?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein wahrstes Bild seh ich in einem Dolch sich malen,</l>
+            <l>An dessen Griff Demant und Perlen leuchtend strahlen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

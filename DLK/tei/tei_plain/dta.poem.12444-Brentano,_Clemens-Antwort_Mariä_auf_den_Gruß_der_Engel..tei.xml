@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Antwort Mariä auf den Gruß der Engel.</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">179</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">684</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Antwort Mariä auf den Gruß der Engel.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwey Nachtigallen in einem Thal               </l>
+            <l>Oftmals zusammen stimmen,</l>
+            <l>Sie singen mit so süßem Schall,</l>
+            <l>Daß es recht Wunder nimmet:</l>
+            <l>Sie modulieren in die Welt,</l>
+            <l>Keine der andern weichet,</l>
+            <l>Den Tod sie lieber leiden thät,</l>
+            <l>Eh sie der andern schweiget.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwey Nachtigallen ich singen hör,</l>
+            <l>Ein Engel kommt vom Himmel,</l>
+            <l>Nach Nazareth, nicht ungefähr,</l>
+            <l>Ins jungfräuliche Zimmer,</l>
+            <l>O wie so lieblich singt er an,</l>
+            <l>Das Jungfräulein Maria:</l>
+            <l>Kein menschlich Zung beschreiben kann</l>
+            <l>Die süße Harmonie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was war nicht für ein Echo da,</l>
+            <l>Wie stimmten sie zusammen,</l>
+            <l>O wär ich doch gewesen nah,</l>
+            <l>Es würde mich entflammen.</l>
+            <l>Kein süßres Lied im Himmelreich,</l>
+            <l>Wird nimmermehr gehöret,</l>
+            <l>Als wenn die Selgen allzugleich</l>
+            <l>Wollen, was Gott begehret.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

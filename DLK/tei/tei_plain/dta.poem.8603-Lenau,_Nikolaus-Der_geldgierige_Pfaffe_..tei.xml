@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der geldgierige Pfaffe .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">88</measure>
+        <measure type="tokens">52</measure>
+        <measure type="characters">337</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der geldgierige Pfaffe .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Pfaffe weiß mit Dampf‚ Gesang und Glocken‚</l>
+            <l>Mit Mummerei, Geberd' und schlauem Segen</l>
+            <l>Den Pöbel zum Guckkasten hinzulocken,</l>
+            <l>Worin sich Höll' und Himmel bunt bewegen.</l>
+            <l>Derweil, entzückt, der Pöbel, und erschrocken</l>
+            <l>Ans Wunderloch nun thut das Auge legen,</l>
+            <l>Umschleichet ihn der Pfaffe, aus den Taschen</l>
+            <l>Die schweißgetränkten Kreuzer ihm zu haschen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

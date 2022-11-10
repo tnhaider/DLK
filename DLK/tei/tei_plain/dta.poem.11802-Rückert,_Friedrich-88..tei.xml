@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">88.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">488</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>88.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die dumme Fabel sagt, des Pfauen stolz Gefieder,</l>
+            <l>Sieht er auf seinen Fuß, sink' ihm vor Scham danieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer aber hat das Rad des Pfauen je gesehn,</l>
+            <l>Und auf den Fuß gemerkt, worauf es mochte stehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn die Bewundrung nun er sieht sein Rad betrachten</l>
+            <l>Und übersehn den Fuß, sollt' er ihn selbst beachten?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sonne, die mit Lust vom Farbenbild betrogen,</l>
+            <l>Sich sieht im Pfauenrad alswie im Regenbogen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Merkt nicht, daß hier im Koth der schöne Vogel geht,</l>
+            <l>Wie dort auf Erdengrund der Himmelsbogen steht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

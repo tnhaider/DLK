@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Nacht</title>
+        <author>
+          <persName>
+            <surname>Lichtenstein</surname>
+            <forename>Alfred</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">206</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">774</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1911</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Nacht</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verträumte Polizisten watscheln bei Laternen.</l>
+            <l>Zerbrochne Bettler meckern, wenn sie Leute ahnen.</l>
+            <l>An manchen Ecken stottern starke Straßenbahnen,</l>
+            <l>Und sanfte Autodroschken fallen zu den Sternen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um harte Häuser humpeln Huren hin und wieder,</l>
+            <l>Die melancholisch ihren reifen Hintern schwingen.</l>
+            <l>Viel Himmel liegt zertrümmert auf den herben Dingen ...</l>
+            <l>Wehleidge Kater schreien schmerzhaft helle Lieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verträumte Polizisten watscheln bei Laternen.</l>
+            <l>Zerbrochne Bettler meckern, wenn sie Leute ahnen.</l>
+            <l>An manchen Ecken stottern starke Straßenbahnen,</l>
+            <l>Und sanfte Autodroschken fallen zu den Sternen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um harte Häuser humpeln Huren hin und wieder,</l>
+            <l>Die melancholisch ihren reifen Hintern schwingen.</l>
+            <l>Viel Himmel liegt zertrümmert auf den herben Dingen ...</l>
+            <l>Wehleidge Kater schreien schmerzhaft helle Lieder.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

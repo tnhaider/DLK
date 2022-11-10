@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Winterritt</title>
+        <author>
+          <persName>
+            <surname>Lingg</surname>
+            <forename>Hermann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">204</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">834</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1862</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Winterritt</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>An meines Rosses Brust und Mähne</l>
+            <l>Gefriert der Hauch zu Duft im Schnee,</l>
+            <l>In meinem Auge quillt die Träne,</l>
+            <l>Ich dacht' an dich heut' mehr als je.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir klang's heut' früh wie Sonntagsläuten</l>
+            <l>Durch Berg und Tal in stiller Nacht;</l>
+            <l>Ich sah dich da mit andern Bräuten,</l>
+            <l>Die Kirchentür' war aufgemacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die andern trugen Myrtenkrönlein,</l>
+            <l>Du trugst ein Schleierlein im Haar;</l>
+            <l>Du hattest auf dem Arm ein Söhnlein,</l>
+            <l>Ein Grabstein war der Traualtar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An meines Rosses Brust und Mähne</l>
+            <l>Gefriert der Hauch zu Duft im Schnee,</l>
+            <l>In meinem Auge quillt die Träne,</l>
+            <l>Ich dacht' an dich heut' mehr als je.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir klang's heut' früh wie Sonntagsläuten</l>
+            <l>Durch Berg und Tal in stiller Nacht;</l>
+            <l>Ich sah dich da mit andern Bräuten,</l>
+            <l>Die Kirchentür' war aufgemacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die andern trugen Myrtenkrönlein,</l>
+            <l>Du trugst ein Schleierlein im Haar;</l>
+            <l>Du hattest auf dem Arm ein Söhnlein,</l>
+            <l>Ein Grabstein war der Traualtar.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

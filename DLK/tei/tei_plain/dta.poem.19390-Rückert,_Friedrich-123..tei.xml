@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">123.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">145</measure>
+        <measure type="characters">809</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>123.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Wandrer im Gebirg verlor die rechten Steige,</l>
+            <l>Und blickt umsonst umher, wer ihm dieselben zeige.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ein Einsiedler sitzt vertieft dort in Gebeten,</l>
+            <l>Und fragend nach dem Weg, kommt er zu ihm getreten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da hebt der fromme Mann, und spricht dazu kein Wort,</l>
+            <l>Den Finger himmelan, und betet schweigend fort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es spricht der Wandersmann: Ich weiß, daß durch Gebet</l>
+            <l>Und Weltentsagung dort der Weg zum Himmel geht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch jetzo möcht' ich den zum nächsten Dorfe wissen;</l>
+            <l>Wenn du die Kunde hast, so laß mich sie nicht missen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da wiegt der fromme Mann, und spricht dazu kein Wort,</l>
+            <l>Das Haupt verneinend ernst. Der Wanderer geht fort,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und denkt: Was könnt' es wol dem frommen Manne schaden,</l>
+            <l>Wenn er bewandert wär' auch in der Erde Pfaden?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Himmel würd' es dort ihm keinen Eintrag thun,</l>
+            <l>Zeigt' er den Weg mir hier; den zeige Gott mir nun!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Ida .</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">751</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193292"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Ida .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwellen nicht Seufzer, meine s&amp;#252;sse Ida,</l>
+            <l>Deinen gewölbten Busen, wann das Frühroth</l>
+            <l>Deines Gemaches weisse Wände röthet,</l>
+            <l>Oder das Spätroth?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weht es nicht dann um dich, wie Geistgeflister?</l>
+            <l>Haucht es nicht warm dich an, wie Kussgelispel?</l>
+            <l>Zittern nicht helle Thränen in des Auges</l>
+            <l>Goldenen Wimpern?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieses Schauern, Geliebte, dieses Zittern,</l>
+            <l>Dieses Wehen und Rauschen lass dich mahnen,</l>
+            <l>Dass dein Treuer dein denkt, dass dein Verlassner</l>
+            <l>Fern um dich trauert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, ich gedenk' an dich, mein süsses Mädchen,</l>
+            <l>Ja, ich trauer' um dich, wann Gottes Frühroth</l>
+            <l>Meine Fenster röthet, und wann die Thauflur</l>
+            <l>Schimmert im Spätroth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ida, wann werd' ich dich wiedersehen,</l>
+            <l>Wann, um den Schwanenhals dir brünstig fallend,</l>
+            <l>Wann, mit des Busens Fluthen steigend, sinkend,</l>
+            <l>Liebe dir wimmern?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

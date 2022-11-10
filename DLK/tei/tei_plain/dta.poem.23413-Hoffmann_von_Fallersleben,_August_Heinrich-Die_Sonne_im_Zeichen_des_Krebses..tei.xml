@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Sonne im Zeichen des Krebses.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">121</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">471</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Sonne im Zeichen des Krebses.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Europa schien voll Wonne</l>
+            <l>Einst der Freiheit lichte Sonne.</l>
+            <l>Ein Planet ward manches Land,</l>
+            <l>Aber, ach! die Sonne schwand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als sie schwand, da schwand für immer</l>
+            <l>Der Planeten lichter Schimmer,</l>
+            <l>Großbritanien allein</l>
+            <l>Blieb der Freiheit Widerschein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn an ihren sprühenden Funken</l>
+            <l>Hatt' es sich so satt getrunken,</l>
+            <l>Daß es jetzt noch hell und hehr</l>
+            <l>Leuchtet übers ferne Meer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freiheitssonne, kehre wieder!</l>
+            <l>Blick auf alle Lande nieder!</l>
+            <l>Bringst du Frühling nicht herab,</l>
+            <l>Wird Europa bald ein Grab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

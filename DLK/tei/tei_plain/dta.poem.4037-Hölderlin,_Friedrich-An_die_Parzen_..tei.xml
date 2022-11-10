@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Parzen .</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">482</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197104"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Parzen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur Einen Sommer gönnt, ihr Gewaltigen!</l>
+            <l>Und Einen Herbst zu reifem Gesange mir,</l>
+            <l>Daß williger mein Herz, vom süssen</l>
+            <l>Spiele gesättiget, dann mir sterbe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Seele, der im Leben ihr göttlich Recht</l>
+            <l>Nicht ward, sie ruht auch drunten im Orkus nicht;</l>
+            <l>Doch ist mir einst das Heil'ge, das am</l>
+            <l>Herzen mir liegt, das Gedicht gelungen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willkommen dann, o Stille der Schattenwelt!</l>
+            <l>Zufrieden bin ich, wenn auch mein Saitenspiel</l>
+            <l>Mich nicht hinabgeleitet; Einmal</l>
+            <l>Lebt' ich, wie Götter, und mehr bedarf's nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

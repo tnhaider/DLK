@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die drei Zeichen.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">214</measure>
+        <measure type="tokens">173</measure>
+        <measure type="characters">901</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1843</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192440"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die drei Zeichen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drei Zeichen hat uns Gott bestellt,</l>
+            <l>Daß wir die Herren dieser Welt:</l>
+            <l>Das ist der goldne Wein,</l>
+            <l>Das ist durch's Land der grüne Strom,</l>
+            <l>Das ist der hohe heil'ge Dom,</l>
+            <l>Der Dom zu Köln am Rhein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Traubenblut, o adlig Blut!</l>
+            <l>Wer schafft wie du so kühnen Muth,</l>
+            <l>So frisch und froh Gedeihn?</l>
+            <l>Der Meister, der den Plan gemacht,</l>
+            <l>Hat sicher ihn beim Wein erdacht,</l>
+            <l>Den Dom zu Köln am Rhein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir, deutscher Strom, den zweiten Gruß!</l>
+            <l>Von freien Alpen kommt der Fluß</l>
+            <l>Um deutsches Land zu </l>
+            <l>Kann ich sein Rauschen recht verstehn,</l>
+            <l>So heißt's: Ich will ihn fertig sehn,</l>
+            <l>Den Dom zu Köln am Rhein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, wie der Meister dich erschaut,</l>
+            <l>Bis zu den Sternen auferbaut</l>
+            <l>Sollst du, o Tempel, sein!</l>
+            <l>Damit man einst am jüngsten Tag</l>
+            <l>Noch singen und noch sagen mag</l>
+            <l>Vom Dom zu Köln am Rhein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was will des Teufels Witz und Spott?</l>
+            <l>Es kehret schon der rechte Gott</l>
+            <l>Auch bei den Deutschen ein;</l>
+            <l>Nur frisch, Gesellen, frisch zur Hand!</l>
+            <l>Macht Platz für's </l>
+            <l>Im Dom zu Köln am Rhein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

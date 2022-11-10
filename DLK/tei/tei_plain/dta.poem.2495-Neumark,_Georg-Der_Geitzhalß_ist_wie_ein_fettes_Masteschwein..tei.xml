@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Geitzhalß ist wie ein fettes  
+ Masteschwein.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">594</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Geitzhalß ist wie ein fettes  
+ Masteschwein.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man kan mit Fug und Recht den auffgeblasnen Reichẽ</l>
+            <l>Der karg und filtzigt ist mit einem Schweine gleichẽ:</l>
+            <l>Der Geitzhals weil er lebt thut keinem Menschen gut.</l>
+            <l>Ja mit genauer Noht kaum seinem Fleisch und Blut.</l>
+            <l>Verläst er aber nur den Reichthum und muß sterben</l>
+            <l>So kommen alsobald die geldbegierig’ Erben</l>
+            <l>Und theilen da sein Gut mit Freuden unter sich/</l>
+            <l>Da wird der Mann gelobt/ daß er so sparsamlich</l>
+            <l>Vor sie gelebet hab’; Ein Schwein wird gleich auch diesen</l>
+            <l>Wenns abgeschlachtet ist üm Würst und Spekk gepriesen/</l>
+            <l>Das vor verachtet war. Derhalben kans wol seyn</l>
+            <l>Daß ieder targer Filtz ein grobes Masteschwein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

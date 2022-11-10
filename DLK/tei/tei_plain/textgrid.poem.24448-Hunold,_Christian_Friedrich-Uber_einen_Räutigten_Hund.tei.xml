@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Uber einen Räutigten Hund</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Uber einen Räutigten Hund</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Raute hat der Hund; die Wollust plaget dich.</l>
+            <l>Von aussen qvält es ihn; dich jückt es innerlich.</l>
+            <l>Aus Schmertzen schreyt der Hund; du aber lachst darzu.</l>
+            <l>Im Schlafe hat der Hund/ du aber niemahls Ruh.</l>
+            <l>Dem ersten ist die Haut/ und dir das Hertze wund.</l>
+            <l>Wer ist nun unter euch der schlimste Rauten Hund?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Raute hat der Hund; die Wollust plaget dich.</l>
+            <l>Von aussen qvält es ihn; dich jückt es innerlich.</l>
+            <l>Aus Schmertzen schreyt der Hund; du aber lachst darzu.</l>
+            <l>Im Schlafe hat der Hund/ du aber niemahls Ruh.</l>
+            <l>Dem ersten ist die Haut/ und dir das Hertze wund.</l>
+            <l>Wer ist nun unter euch der schlimste Rauten Hund?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

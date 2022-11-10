@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ix.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">154</measure>
+        <measure type="characters">855</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ix.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lag und schlief, und schlief recht mild,</l>
+            <l>Verscheucht war Gram und Leid;</l>
+            <l>Da kam zu mir ein Traumgebild,</l>
+            <l>Die allerschönste Maid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie war wie Marmelstein so bleich,</l>
+            <l>Und heimlich wunderbar;</l>
+            <l>Im Auge schwamm es perlengleich,</l>
+            <l>Gar seltsam wallt' ihr Haar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und leise, leise sich bewegt</l>
+            <l>Die marmorblasse Maid,</l>
+            <l>Und an mein Herz sich niederlegt</l>
+            <l>Die marmorblasse Maid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie bebt und pocht vor Weh und Lust,</l>
+            <l>Mein Herz, und brennet heiß!</l>
+            <l>Nicht bebt, nicht pocht der Schönen Brust,</l>
+            <l>Die ist so kalt wie Eis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„nicht bebt, nicht pocht wohl meine Brust,</l>
+            <l>Die ist wie Eis so kalt;</l>
+            <l>Doch kenn' auch ich der Liebe Lust,</l>
+            <l>Der Liebe Allgewalt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir blüht kein Roth auf Mund und Wang,</l>
+            <l>Mein Herz durchströmt kein Blut;</l>
+            <l>Doch sträube dich nicht schauernd bang,</l>
+            <l>Ich bin dir hold und gut.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wilder noch umschlang sie mich,</l>
+            <l>Und that mir bald ein Leid;</l>
+            <l>Da kräht der Hahn — und stumm entwich</l>
+            <l>Die marmorblasse Maid.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

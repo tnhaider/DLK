@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Biber.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">482</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Biber.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daher sie gleichfalls zwey, drey Tag’ an solchen Oertern</l>
+            <l>stille stehn,</l>
+            <l>Des Bibers Wiederkunft erwartend, da sie ihn fällen</l>
+            <l>und erschlagen,</l>
+            <l>Und seinen nütz- und kostbarn Pelz zur Beute mit nach</l>
+            <l>Hause tragen.</l>
+            <l>Der Reichthum ist nicht auszudrücken, den uns ihr Haar</l>
+            <l>und Pelzwerk reicht,</l>
+            <l>So daß in Canada dem Handel von Pelzwerk fast kein</l>
+            <l>andrer gleicht.</l>
+            <l>Wer wollte denn, da diese Thier’ uns solchen großen</l>
+            <l>Vortheil schenken,</l>
+            <l>Wenn man dieselben braucht und nützt, nicht auch an</l>
+            <l>ihren Schöpfer denken?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

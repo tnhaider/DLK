@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Jahrs-Zeiten.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">89</measure>
+        <measure type="tokens">58</measure>
+        <measure type="characters">366</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Jahrs-Zeiten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein gar zu strenger Frost, ein'allzu strenge Hitze,</l>
+            <l>Verheeren beyde Kraut und Blüht’.</l>
+            <l>Empfinden wir zu starcke Sonnen-Blitze;</l>
+            <l>Wie, oder daß der Nord, der weisse Flocken sprüht,</l>
+            <l>Den Morgen-Thau in Reiff verkehrt;</l>
+            <l>Wird Flora buntes Reich, weil sie der Farben-Schein,</l>
+            <l>Durch feuchter Dünste Hülff’ und Zufluß bloß allein</l>
+            <l>In ihrem Glantz erhält, wann’s Feld kein Naß mehr nährt,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

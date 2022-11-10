@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">35.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">606</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>35.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Himmel, wenn er lang nicht hat geregnet mehr,</l>
+            <l>Bis wieder ordentlich er dazu kommt, hälts schwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es scheint ihm rechte Müh'n zu kosten, bis den Wolken</l>
+            <l>Er gleich versiegten Küh'n ein Tröpflein erst entmolken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Tröpfeln folgt die Trauf', und ist es erst im Zug,</l>
+            <l>Gehts immer leichter ab, und mehr oft als genug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wie ein stät'scher Gaul bocksteif ist eine Frist,</l>
+            <l>Und erst gelenk wird, wann er warm geworden ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie ein Dichter, der zulang an sich gehalten,</l>
+            <l>Anstrengung braucht, um neu die Flügel zu entfalten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darum in jedem Werk, bist du einmal im Zug,</l>
+            <l>Treib zu und schaffe fort, doch mehr nicht als genug</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

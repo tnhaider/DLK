@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">KlEINES KONZERT</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">183</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">697</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>KlEINES KONZERT</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Rot, das traumhaft dich erschüttert —</l>
+            <l>Durch deine Hände scheint die Sonne.</l>
+            <l>Du fühlst dein Herz verrückt vor Wonne</l>
+            <l>Sich still zu einer Tat bereiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Mittag strömen gelbe Felder.</l>
+            <l>Kaum hörst du noch der Grillen Singen,</l>
+            <l>Der Mäher hartes Sensenschwingen.</l>
+            <l>Einfältig schweigen goldene Wälder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im grünen Tümpel glüht Verwesung.</l>
+            <l>Die Fische stehen still. Gottes Odem</l>
+            <l>Weckt sacht ein Saitenspiel im Brodem.</l>
+            <l>Aussätzigen winkt die Flut Genesung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geist Dädals schwebt in blauen Schatten,</l>
+            <l>Ein Duft von Milch in Haselzweigen.</l>
+            <l>Man hört noch lang den Lehrer geigen,</l>
+            <l>Im leeren Hof den Schrei der Ratten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Krug an scheußlichen Tapeten</l>
+            <l>Blühn kühlere Violenfarben.</l>
+            <l>Im Hader dunkle Stimmen starben,</l>
+            <l>Narziß im Endakkord von Flöten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

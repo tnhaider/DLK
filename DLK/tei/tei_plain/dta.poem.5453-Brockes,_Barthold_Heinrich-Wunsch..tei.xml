@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wunsch.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">558</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1736</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198582"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wunsch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach GOtt, wie schön ist doch der Himmel? wie wun-</l>
+            <l>derschön die gantze Welt?</l>
+            <l>Die dein Verstand und Will’ erschaffen, die dein Verstand</l>
+            <l>und Will' erhält!</l>
+            <l>Ach laß mich doch an diesen Wundern, zu deiner Ehr’, in</l>
+            <l>tausend Freuden,</l>
+            <l>Durch alle Sinnen meinen Geist in frölicher Betrachtung</l>
+            <l>weiden,</l>
+            <l>Und die dadurch in mir gewirckte Vergnüglichkeit der re-</l>
+            <l>gen Seelen,</l>
+            <l>Die durch die Wirckung deiner Liebe aus aller Wunder</l>
+            <l>Schönheit qvillt,</l>
+            <l>Die, wenn ich sie mit Lust betrachte, mit Lust mein gan-</l>
+            <l>tzes Wesen füllt,</l>
+            <l>Zu deines grossen Nahmens Ruhme, auch andern oft zur</l>
+            <l>Folg', erzehlen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

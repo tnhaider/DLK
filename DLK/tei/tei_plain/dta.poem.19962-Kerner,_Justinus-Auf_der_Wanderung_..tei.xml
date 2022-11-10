@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf der Wanderung .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">476</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf der Wanderung .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Morgen kommt mit lichtem Grusse,</l>
+            <l>Und Natur beginnt ein Fest.</l>
+            <l>Mancher noch mit heißem Kusse</l>
+            <l>An das Herz was Liebes preßt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber irre und verlassen</l>
+            <l>Treibt es mich durch Land und Meer.</l>
+            <l>Was ich innig möcht' umfassen</l>
+            <l>Führt nicht Mond nicht Sonne her.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Blume seh' ichs blühen,</l>
+            <l>Hör's im Nachtigall-Gesang,</l>
+            <l>Mit den Sternen seh' ichs ziehen</l>
+            <l>Still und mild das Thal entlang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch umsonst blickt voll von Thränen</l>
+            <l>Auge nach ihm himmelwärts.</l>
+            <l>Ungestillt in bangem Sehnen</l>
+            <l>Stirbt dahin dieß warme Herz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Tod.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">89</measure>
+        <measure type="tokens">63</measure>
+        <measure type="characters">350</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Tod.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tod, kanst du dich auch verlieben?</l>
+            <l>Warum holst du denn mein Mädchen?</l>
+            <l>Kanst du nicht die Mutter holen?</l>
+            <l>Denn die sieht dir doch noch ähnlich.</l>
+            <l>Frische rosenrote Wangen,</l>
+            <l>Die mein Wunsch so schön gefärbet,</l>
+            <l>Blühen nicht für blasse Knochen,</l>
+            <l>Blühen nicht für deine Lippen.</l>
+            <l>Tod! was wilst du mit dem Mädchen?</l>
+            <l>Mit den Zähnen ohne Lippen</l>
+            <l>Kanst du es ia doch nicht küssen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

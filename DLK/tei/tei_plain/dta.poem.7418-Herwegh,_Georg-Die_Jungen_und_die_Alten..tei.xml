@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Jungen und die Alten.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">217</measure>
+        <measure type="tokens">149</measure>
+        <measure type="characters">887</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Jungen und die Alten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„du bist jung, Du sollst nicht sprechen!</l>
+            <l>Du bist jung, wir sind die Alten!</l>
+            <l>Laß die Wogen erst sich brechen</l>
+            <l>Und die Gluten erst erkalten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist jung, Dein Thun ist eitel!</l>
+            <l>Du bist jung und unerfahren!</l>
+            <l>Du bist jung, kränz' Deinen Scheitel</l>
+            <l>Erst mit unsern weissen Haaren!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lern', mein Lieber, erst entsagen,</l>
+            <l>Laß die Flammen erst verrauchen,</l>
+            <l>Laß Dich erst in Ketten schlagen,</l>
+            <l>Dann vielleicht kann man Dich brauchen!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kluge Herren! Die Gefangnen</l>
+            <l>Möchten ihres Gleichen schauen;</l>
+            <l>Doch, ihr Hüter des Vergangnen,</l>
+            <l>Wer soll denn die Zukunft bauen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sprecht, was sind euch denn verblieben,</l>
+            <l>Außer uns, für wackre Stützen?</l>
+            <l>Wer soll eure Töchter lieben?</l>
+            <l>Wer soll eure Häuser schützen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schmäht mir nicht die blonden Locken,</l>
+            <l>Nicht die stürmische Geberde!</l>
+            <l>Schön sind eure Silberflocken,</l>
+            <l>Doch dem </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schmähet, schmäht mir nicht die Jugend,</l>
+            <l>Wie sie auch sich laut verkündigt!</l>
+            <l>O wie oft hat eure Tugend</l>
+            <l>An der Menschheit still gesündigt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

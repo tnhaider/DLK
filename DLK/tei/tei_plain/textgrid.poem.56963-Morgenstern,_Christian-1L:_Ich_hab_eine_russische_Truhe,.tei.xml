@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Ich hab eine russische Truhe,</title>
+        <author>
+          <persName>
+            <surname>Morgenstern</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">420</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Ich hab eine russische Truhe,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hab eine russische Truhe,</l>
+            <l>bemalt mit Blumen sonderbar,</l>
+            <l>in diese Truhe tue</l>
+            <l>ich meine Werke Jahr um Jahr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liebe die fremde Truhe,</l>
+            <l>mit dem, was meine Kraft ihr gab.</l>
+            <l>Sie mag einst meine Ruhe</l>
+            <l>teilen im grünen Grab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hab eine russische Truhe,</l>
+            <l>bemalt mit Blumen sonderbar,</l>
+            <l>in diese Truhe tue</l>
+            <l>ich meine Werke Jahr um Jahr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liebe die fremde Truhe,</l>
+            <l>mit dem, was meine Kraft ihr gab.</l>
+            <l>Sie mag einst meine Ruhe</l>
+            <l>teilen im grünen Grab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Rosen und Rosenöl</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">694</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1810</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Rosen und Rosenöl</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alle Morgen weht der Wind Rosenblätter von den Zweigen,</l>
+            <l>Und sie schwimmen auf dem See, sich als Lettern dir zu zeigen.</l>
+            <l>Sag', verstehst du ihre Schrift? – Laßt uns unsre Rosen pflücken,</l>
+            <l>Und daraus das Balsamöl reiner Liebeswonne drücken.</l>
+            <l>In der Wacht der strengen Dornen, sieh, wie lange blühen wir?</l>
+            <l>Tauch' in Rosenöl die Locke, und sie duftet ewig dir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alle Morgen weht der Wind Rosenblätter von den Zweigen,</l>
+            <l>Und sie schwimmen auf dem See, sich als Lettern dir zu zeigen.</l>
+            <l>Sag', verstehst du ihre Schrift? – Laßt uns unsre Rosen pflücken,</l>
+            <l>Und daraus das Balsamöl reiner Liebeswonne drücken.</l>
+            <l>In der Wacht der strengen Dornen, sieh, wie lange blühen wir?</l>
+            <l>Tauch' in Rosenöl die Locke, und sie duftet ewig dir.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

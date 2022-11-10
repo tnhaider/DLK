@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Resignation.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">609</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Resignation.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mögen Andre ihrer Seele Blüthen</l>
+            <l>Und des Lebens Ruheglück,</l>
+            <l>Deren Herzen nach dem Lorbeer glühten,</l>
+            <l>Weihen dem Geschick.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Haschen in des Lebens reichen Tagen,</l>
+            <l>Was der Gott als Köder streut,</l>
+            <l>Mögen Andre nach den Kränzen jagen,</l>
+            <l>Die die Mitwelt beut!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schaal und nichtig ist wie nichts die Ehre,</l>
+            <l>Die die Namen heut umschallt:</l>
+            <l>Und gefälschter Lorbeer drückt, der leere,</l>
+            <l>Der die Stirn umwallt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ewig zeuget aus der Erden Schoße</l>
+            <l>Neue Wesen die Natur,</l>
+            <l>Und verweht mit ihrem Todeslose</l>
+            <l>Schaust du kaum die Spur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selig preis’ ich, wer im Leben schaffen,</l>
+            <l>Wirken kann, ein treuer Hirt;</l>
+            <l>Den des Todes Schauer sanft entraffen,</l>
+            <l>Der vergessen wird. —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

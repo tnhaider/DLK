@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">März.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-3 4-3</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">522</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>März.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die kleinen weißen Kelche gern bedecken,</l>
+            <l>Möcht' ich, wie sie, mich deinem Blick verstecken,</l>
+            <l>Weil ich allein so ärmlich vor dir stehe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohin ich auch nach bessern Gaben spähe,</l>
+            <l>Nur Keim und Knospe sind' ich aller Ecken;</l>
+            <l>Wohl möcht' ich Laub und Blüthe dir erwecken,</l>
+            <l>Doch fürcht' ich sehr, mein Hauch thät' ihnen wehe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So nimm denn, was ich bringe, als zum Pfande</l>
+            <l>Der schönen Zeit, die ich nur darf verkünden,</l>
+            <l>Daher sie mich den Mond der </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn der Wonnemond regiert im Lande,</l>
+            <l>Wirst du </l>
+            <l>Und ungelöscht soll dir kein Wunsch verbrennen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

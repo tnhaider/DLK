@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein Kinderlied,  
+  zu singen wider die zween Erzfeinde Christi und  
+ seiner heiligen Kirchen, den Papst und Türken.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">97</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">398</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein Kinderlied,  
+  zu singen wider die zween Erzfeinde Christi und  
+ seiner heiligen Kirchen, den Papst und Türken.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erhalt uns, Herr, bei deinem Wort</l>
+            <l>Und steur des Papsts und Türken Mord,</l>
+            <l>Die Jesum Christum deinen Sohn</l>
+            <l>Wollen stürzen von deinem Thron.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Beweis dein Macht, Herr Jesu Christ,</l>
+            <l>Daß du Herr aller Herren bist!</l>
+            <l>Beschirm dein arme Christenheit,</l>
+            <l>Daß sie dich lob in Ewigkeit!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott heilger Geist, du Tröster werth,</l>
+            <l>Gieb deim Volk einrlei Sinn auf Erd!</l>
+            <l>Steh bei uns in der letzten Noth,</l>
+            <l>G'leit uns ins Leben aus dem Tod!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

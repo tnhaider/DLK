@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Hagel.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">470</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Hagel.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie nun das weite Reich der Luft aus vielen Lagen</l>
+            <l>Luft bestehet,</l>
+            <l>Die alle, nach der Art des Windes, der durch und an die-</l>
+            <l>selben wehet,</l>
+            <l>Auch von verschiedner Eigenschaft, begiebt sich öfters,</l>
+            <l>daß im Sinken</l>
+            <l>Die Tropfen solche kalte Stellen und solche kalte Luft be-</l>
+            <l>rühren,</l>
+            <l>Daß sie, indem sie durch sie fallen, sie in dem Augenblick</l>
+            <l>gefrieren.</l>
+            <l>Dieß ist sodann des Hagels Ursprung, woran wir augen-</l>
+            <l>scheinlich sehn,</l>
+            <l>An aller Schlossen Form und Grösse, daß sie aus Tropfen</l>
+            <l>bloß bestehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

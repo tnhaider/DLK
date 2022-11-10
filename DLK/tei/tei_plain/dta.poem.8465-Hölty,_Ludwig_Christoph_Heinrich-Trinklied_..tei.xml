@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trinklied .</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">280</measure>
+        <measure type="tokens">199</measure>
+        <measure type="characters">1121</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trinklied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Leben, wie im Paradies,</l>
+            <l>Gewährt uns Vater Rhein.</l>
+            <l>Ich geb' es zu, ein Kuss ist süss;</l>
+            <l>Doch süsser ist der Wein.</l>
+            <l>Ich bin so fröhlich, wie ein Reh,</l>
+            <l>Das um die Quelle tanzt,</l>
+            <l>Wenn ich den lieben Schenktisch seh,</l>
+            <l>Und Gläser drauf gepflanzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was kümmert mich die ganze Welt,</l>
+            <l>Wenns liebe Gläslein winkt,</l>
+            <l>Und Traubensaft, der mir gefällt,</l>
+            <l>An meiner Lippe blinkt ?</l>
+            <l>Dann trink' ich, wie ein Götterkind,</l>
+            <l>Die volle Flasche leer,</l>
+            <l>Dass Glut mir durch die Adern rinnt,</l>
+            <l>Und tauml', und fodre mehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Erde wär' ein Jammerthal,</l>
+            <l>Voll Grillenfang und Gicht,</l>
+            <l>Wüchs' uns zur Lindrung unsrer Qual</l>
+            <l>Der edle Rheinwein nicht.</l>
+            <l>Der hebt den Bettler auf den Thron,</l>
+            <l>Schafft Erd' und Himmel um,</l>
+            <l>Und zaubert jeden Erdensohn</l>
+            <l>Stracks in Elisium.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist die wahre Panacee,</l>
+            <l>Verjüngt des Alten Blut,</l>
+            <l>Verscheuchet Hirn- und Magenweh,</l>
+            <l>Und was er weiter thut.</l>
+            <l>Drum lebe das gelobte Land,</l>
+            <l>Das uns den Wein erzog!</l>
+            <l>Der Winzer, der ihn pflanzt' und band,</l>
+            <l>Der Winzer lebe hoch!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und jeder schönen Winzerin,</l>
+            <l>Die uns die Trauben las,</l>
+            <l>Weih' ich als meiner Königin</l>
+            <l>Ein volles Deckelglas!</l>
+            <l>Es lebe jeder deutsche Mann,</l>
+            <l>Der seinen Rheinwein trinkt,</l>
+            <l>So lang' ers Kelchglas halten kann,</l>
+            <l>Und dann zu Boden sinkt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

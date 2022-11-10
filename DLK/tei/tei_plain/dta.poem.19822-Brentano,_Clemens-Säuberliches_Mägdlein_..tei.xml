@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Säuberliches Mägdlein .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">131</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">644</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Säuberliches Mägdlein .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo find ich deines Vaters Haus               </l>
+            <l>Säuberliches Mägdlein?</l>
+            <l>Geh das Gäßlein ab und aus,</l>
+            <l>Schweig still und laß dein Fragen seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo bellet dann das Hündlein dein: Säub. etc.</l>
+            <l>Ruf den Wächter leise ein: Schweig etc.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo knarret dann das Thürlein dein, Säub. etc.</l>
+            <l>Nimm den Haspen in die Hand: Schweig etc.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo schimmert dann das Feuer dein: Säub. etc.</l>
+            <l>Geuß ein wenig Wasser drein: Schweig etc.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo find ich dann das Kämmerlein: Säub. etc.</l>
+            <l>Bey der Küche an der Wand: Schweig etc.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo leg ich hin dein Hemdelein: Säub. etc.</l>
+            <l>Weißt dus nit, so nimms nicht rein: Schweig etc.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie soll ich auf den Morgen thun: Säub. etc.</l>
+            <l>Zieh dich an und geh darvon: Schweig. etc.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

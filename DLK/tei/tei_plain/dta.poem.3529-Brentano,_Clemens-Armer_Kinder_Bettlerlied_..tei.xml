@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Armer Kinder Bettlerlied .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5</measure>
+        <measure type="syllables">227</measure>
+        <measure type="tokens">153</measure>
+        <measure type="characters">858</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Armer Kinder Bettlerlied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es sungen drei Engel einen süßen Gesang,               </l>
+            <l>Mit Freuden es im Himmel klang;</l>
+            <l>Sie jauchzten fröhlich auch dabei,</l>
+            <l>Daß Petrus sey von Sünden frey,</l>
+            <l>Von Sünden frey.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn als der Herr Jesus zu Tische saß,</l>
+            <l>Mit seinen zwölf Jüngern das Abendmahl aß,</l>
+            <l>So sprach der Herr Jesus: Was stehest du hier,</l>
+            <l>Wenn ich dich ansehe, so weinest du mir,</l>
+            <l>So weinest du mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! sollt ich nicht weinen du gütiger Gott!</l>
+            <l>Ich hab übertreten die zehen Gebot;</l>
+            <l>Ich gehe und weine ja bitterlich,</l>
+            <l>Ach komm, erbarme dich über mich,</l>
+            <l>Ach über mich!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du dann übertreten die zehen Gebot,</l>
+            <l>So fall auf die Knie und bete zu Gott,</l>
+            <l>Und bete zu Gott nur allezeit,</l>
+            <l>So wirst du erlangen die himmlische Freud,</l>
+            <l>Die himmlische Freud.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die himmlische Freud ist eine selige Stadt,</l>
+            <l>Die himmlische Freud die kein End mehr hat;</l>
+            <l>Die himmlische Freude war Petro bereit,</l>
+            <l>Durch Jesum und allen zur Seeligkeit,</l>
+            <l>Zur Seeligkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

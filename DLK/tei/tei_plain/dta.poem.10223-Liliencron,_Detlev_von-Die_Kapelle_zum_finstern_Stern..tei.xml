@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Kapelle zum finstern Stern.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">563</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Kapelle zum finstern Stern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„vom Trinken ist dir die Stirne heiß,</l>
+            <l>Mein Segel wiegt unten, scharlach und weiß,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schloßknechte spannen den Baldachin,</l>
+            <l>Der König schläft auf dem Hermelin,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verworren Getön vom Prunkgelag,</l>
+            <l>Da schießt mit gleichem Einfallschlag</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„halt, halt, König Erich!“ … Fackeln im Wind</l>
+            <l>„wo blieb Wieb Sture, gieb Antwort, geschwind,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„bei Sanct Jürgen, ich riß sie dir Hund vom Leib,“</l>
+            <l>„bei Sanct Jürgen, sie war mir Zeitvertreib</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Ritter ringt ihm den Dolch vom Gehenk,</l>
+            <l>Das rote Blut tropft ins wüste Gemeng,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo Lauge durchstach den erlauchten Herrn,</l>
+            <l>Da steht die Kapelle zum finstern Stern,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

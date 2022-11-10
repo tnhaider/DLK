@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Spielmann.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6 6-6</measure>
+        <measure type="syllables">290</measure>
+        <measure type="tokens">181</measure>
+        <measure type="characters">1106</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Spielmann.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lustig, lustig, alte Fiedel!</l>
+            <l>Sing dein neckisch Zauberliedel,</l>
+            <l>Laß erklingen deine Saiten!</l>
+            <l>Ach, mit jedem Strich vom Bogen</l>
+            <l>Kommen Töne angezogen,</l>
+            <l>Die uns All’n die Seele weiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Taumel griff beim Zauberklange,</l>
+            <l>Wenn des Spielers dürre, lange</l>
+            <l>Finger an das Griffbrett packten,</l>
+            <l>All’ die Dirnen, bald sie liegen</l>
+            <l>In den nerv’gen Armen, fliegen</l>
+            <l>Hin nach feur’ger Weise Takten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Scherzen, Lachen, Kichern, Singen</l>
+            <l>Aus der alten Fiedel dringen</l>
+            <l>In den Schwarm den wild bewegten,</l>
+            <l>Und sie dreh’n sich fest umschlungen,</l>
+            <l>All’ die Mädel mit den Jungen</l>
+            <l>Hin im Tanz, dem toll bewegten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Steht der Spielmann da im grauen</l>
+            <l>Bart, dem unter busch’gen Brauen</l>
+            <l>Dunkle Augen schmerzlich flammen,</l>
+            <l>An der Säule, und es gleiten</l>
+            <l>Mark’ge Striche ob den Saiten,</l>
+            <l>Lockt er’s junge Dorf zusammen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laughin fällt sein Haar hernieder,</l>
+            <l>Kahler Mantel hüllt die Glieder,</l>
+            <l>Und sein Hut, der ist nicht glätter;</l>
+            <l>Tiefgezog’ne Furchen haben</l>
+            <l>In die Wangen sich gegraben,</l>
+            <l>Die vergilbt von Sturm und Wetter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, vermodert sind die Jungen,</l>
+            <l>Und wo ist zuletzt erklungen</l>
+            <l>Seiner Dirne munt’res Liedel?</l>
+            <l>Wanderdrang hat sie getrieben,</l>
+            <l>Einsam ist er dann geblieben,</l>
+            <l>Und sein Liebstes ward die Fiedel!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

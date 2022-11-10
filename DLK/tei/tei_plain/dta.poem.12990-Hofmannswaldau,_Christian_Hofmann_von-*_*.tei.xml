@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">* *</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">99</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">384</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>* *</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum bleib, Orbilius! wo du bisher gewesen,</l>
+            <l>Und wage dich ja nicht in die galante welt:</l>
+            <l>Du redest nicht was ihr, sie nicht, was dir gefällt.</l>
+            <l>Was suchest du ihr denn was schönes vorzulesen.</l>
+            <l>Was jener Frantzmann sagt, ist wol ein wahres wort:</l>
+            <l>Gelehrte, welche nie aus ihrer kammer weichen,</l>
+            <l>Sind (füchse! merckt es doch!) gespenstern zu vergleichen.</l>
+            <l>Wo diese spücken gehn, da rennet alles fort.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

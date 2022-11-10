@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eine Nachtigall macht keinen Frühling</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-3 2-2 3-2 4-3 5-2 6-2</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1810</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eine Nachtigall macht keinen Frühling</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hab' mir eine Nachtigall gezogen,</l>
+            <l>Die ließ ich heut' an ihre Scheiben fliegen,</l>
+            <l>Damit sie dächte: Lenz sei vor dem Thore.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Vöglein that, so wie ich's ihm bestellte,</l>
+            <l>Und sah sich um verwundert nach dem Lenze.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als sie mich erblickte auf der Gasse,</l>
+            <l>Da lachte sie und sprach: Mein Lieber, wisse,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hab' mir eine Nachtigall gezogen,</l>
+            <l>Die ließ ich heut' an ihre Scheiben fliegen,</l>
+            <l>Damit sie dächte: Lenz sei vor dem Thore.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Vöglein that, so wie ich's ihm bestellte,</l>
+            <l>Und sah sich um verwundert nach dem Lenze.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als sie mich erblickte auf der Gasse,</l>
+            <l>Da lachte sie und sprach: Mein Lieber, wisse,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Eichhorn.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">89</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">372</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Eichhorn.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem, der darauf achtet, zeigt, so, daß es sich fast nicht</l>
+            <l>regt,</l>
+            <l>Da es nicht durch seine Stellung uns zur Munterkeit be-</l>
+            <l>wegt.</l>
+            <l>Da es, nebst der Zierlichkeit, auch zugleich sehr gut</l>
+            <l>zu essen,</l>
+            <l>Ist es billig, daß wir es auch als ein Geschöpf er-</l>
+            <l>messen</l>
+            <l>Eines wunderbaren Schöpfers, der auch hier sein’ Allmacht</l>
+            <l>zeigt,</l>
+            <l>Und von dessen Lieb und Weisheit nichts, was er geschaffen,</l>
+            <l>schweigt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

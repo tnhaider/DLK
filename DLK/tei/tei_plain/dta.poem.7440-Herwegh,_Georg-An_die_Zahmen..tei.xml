@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Zahmen.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-9 2-8 3-9 4-9</measure>
+        <measure type="syllables">235</measure>
+        <measure type="tokens">161</measure>
+        <measure type="characters">951</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Zahmen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die ihr im Abendsäuseln schon</l>
+            <l>Des Herren Spur gewahrt,</l>
+            <l>Und denen er im Kräuseln schon</l>
+            <l>Der See sich offenbart —</l>
+            <l>O freut euch eurer Loose,</l>
+            <l>Und dankt und laßt mich gehn!</l>
+            <l>Im wilden Sturmgetose,</l>
+            <l>Im Feuer nur, wie Mose,</l>
+            <l>Mag ich den Herren sehn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So Einer glücklich, sonn' er sich</l>
+            <l>In Frieden vor dem Haus;</l>
+            <l>Des Sinai Gebraus.</l>
+            <l>Ich fühl's durch alle Nerven,</l>
+            <l>Durch alle Adern sprühn:</l>
+            <l>Ich möchte Speere werfen,</l>
+            <l>Ich möchte Klingen schärfen,</l>
+            <l>Und thatlos nicht verglühn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht mehr an Blumenhügeln möcht'</l>
+            <l>Ich liegen auf der Wacht,</l>
+            <l>In eines Streithengsts Bügeln möcht'</l>
+            <l>Ich wiegen mich zur Schlacht,</l>
+            <l>Nicht mehr im Mondschein wandeln,</l>
+            <l>Nicht länger schreiben mehr,</l>
+            <l>Ich möcht' nun einmal sandeln,</l>
+            <l>Ich möcht' nun einmal handeln —</l>
+            <l>Auf! bringt mir Fahnen her!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laßt endlich das Geleier sein</l>
+            <l>Und rührt die Trommel nur!</l>
+            <l>Der Deutsche muß erst freier sein,</l>
+            <l>Dann sei er Troubadour.</l>
+            <l>Im Freiheitsfeuertranke</l>
+            <l>Werd' unser Reich erfrischt,</l>
+            <l>Ihr ewiger Gedanke</l>
+            <l>Führ' unser Schwert, das blanke,</l>
+            <l>Wenn's in die Feinde zischt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

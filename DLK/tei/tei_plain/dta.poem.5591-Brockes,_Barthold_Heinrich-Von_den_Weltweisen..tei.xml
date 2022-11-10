@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Weltweisen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">449</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Weltweisen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es scheint, als wenn die Hindernissen</l>
+            <l>Vom Vorurtheil, die unsern Sinn</l>
+            <l>Verführet hatten, weichen müssen.</l>
+            <l>Was die Vernunfft von allen Zeiten her</l>
+            <l>Den Allerweisesten gezeiget; scheinet,</l>
+            <l>So in der Art, als Ordnung seiner Lehr’</l>
+            <l>Beglückt, vereinet.</l>
+            <l>Denn alles folget sich, es hängt zusammen, fliesst,</l>
+            <l>Und legt sich deutlich aus, es überzeugt und schliesst.</l>
+            <l>GoTT selber gibt durch sie von Sich uns was zu lesen:</l>
+            <l>Vom kleinsten Sonnen-Staub geht man zum Höchsten Wesen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">In das Stammbuch der M. H.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">631</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>In das Stammbuch der M. H.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist hell der Himmel, heiter alle Wellen</l>
+            <l>Betritt der Schiffer wieder seine Wogen,</l>
+            <l>Vorüber Wald und Berge schnell geflogen,</l>
+            <l>Er muß, wohin die vollen Segel schwellen.</l>
+            <l>In Duft versinken bald all' liebe Stellen,</l>
+            <l>Cypressen nur noch ragen aus den Wogen,</l>
+            <l>Herüber kommt manch süßer Laut geflogen,</l>
+            <l>Es trinkt das Meer der Klagen sanfte Quellen.</l>
+            <l>Nichts weilt. &amp;#8212; Doch zaubern Treue und Verlangen,</l>
+            <l>Da muß sich blüh'nder alte Zeit erneuern,</l>
+            <l>Oeffnet die Ferne drauf die Wunderlichtung,</l>
+            <l>Ruht Dein Bild drin bekränzt in heil'ger Dichtung. &amp;#8212;</l>
+            <l>Fern laß' den Freund nach Ost und West nur steuern,</l>
+            <l>Frei scheint er wohl &amp;#8212; Du hältst ihn doch gefangen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

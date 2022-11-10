@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">19.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">710</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>19.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum mit Reimen euch, und schweren Reimen, quälen?</l>
+            <l>Wär' es, ihr Dichter, nicht genug die Silben zählen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Griechen wars genug, warum wärs uns nicht auch?</l>
+            <l>Doch Silbenzählung selbst ist zeitlicher Gebrauch:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Psalter Davids rauscht noch ohne Silbenzahl;</l>
+            <l>Und so aus Zeit in Zeit wuchs mit der Kunst die Qual;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wuchs mit der Genuß, dem Hörer nicht allein,</l>
+            <l>Dem Dichter allermeist, der gern geplagt will seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer will nun jeder Zeit bestimmen gleiches Maß,</l>
+            <l>Da jede nach Bedarf ihr eignes stets besaß?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Künstler aber sei gelobt, der fühlt und wägt,</l>
+            <l>Was seine Zeit von Kunst bedarf und was verträgt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der ihr nichts bietet, was sie nicht verträgt, nichts weigert,</l>
+            <l>Was sie bedarf, und nicht ihr falsch Bedürfnis steigert.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

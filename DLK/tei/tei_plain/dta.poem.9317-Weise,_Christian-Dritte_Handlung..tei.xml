@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dritte Handlung.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">182</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">699</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dritte Handlung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du freundliches liebgen vor zwantzig ducaten/</l>
+            <l>Ich weiß/ wo dir die liebe sitzt/</l>
+            <l>Ich habe dich warlich am schönsten berathen/</l>
+            <l>Mein gutes geld hat dich erhitzt/</l>
+            <l>Das hat mir am besten die bahne gebrochen/</l>
+            <l>Und alle stümper abgestochen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. Du qvatschlichtes täubgen/ ich komme mit gelde/</l>
+            <l>Wer wolte mir nicht günstig seyn?</l>
+            <l>Ich bin zwar ein bauer und komme vom felde/</l>
+            <l>Doch schieß ich güldene kugeln drein/</l>
+            <l>Und suche mit meinem erwünschten behagen</l>
+            <l>Die stadt Galäne fort zujagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>3. Ich habe die güldenen kugeln verschossen/</l>
+            <l>Ach scheuß doch wieder her zu mir/</l>
+            <l>Sonst sterb ich gewißlich mir selber zum possen/</l>
+            <l>Und bin ich todt/ wo dien’ ich dir?</l>
+            <l>Ach sage/ mein Vulgus komm hinter die thüre/</l>
+            <l>Damit ich allen schmertz verliehre.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

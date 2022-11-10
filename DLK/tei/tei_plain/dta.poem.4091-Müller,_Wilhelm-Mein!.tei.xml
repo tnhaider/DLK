@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mein!</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">87</measure>
+        <measure type="tokens">55</measure>
+        <measure type="characters">329</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mein!</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Räder, stellt eu'r Brausen ein!</l>
+            <l>All ihr muntern Waldvögelein,</l>
+            <l>Groß und klein,</l>
+            <l>Endet eure Melodein!</l>
+            <l>Durch den Hain</l>
+            <l>Aus und ein</l>
+            <l>Schalle heut' </l>
+            <l>Die geliebte Müllerin ist </l>
+            <l>Frühling, sind das alle deine Blümelein?</l>
+            <l>Sonne, hast du keinen hellern Schein?</l>
+            <l>Ach, so muß ich ganz allein,</l>
+            <l>Mit dem seligen Worte </l>
+            <l>Unverstanden in der weiten Schöpfung sein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mauskätzchen.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5</measure>
+        <measure type="syllables">206</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">736</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mauskätzchen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mauskätzchen gab ein großes Fest</l>
+            <l>Und hatte dazu geladen</l>
+            <l>Bekannt' und Verwandte von Ost und West</l>
+            <l>Und lauter Ihro Gnaden.</l>
+            <l>Miau miau miau</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie trieben vielerlei Possen und Scherz,</l>
+            <l>Und füllten sich weidlich den Ranzen,</l>
+            <l>Und weil es nun eben war im März,</l>
+            <l>So wollten die Kätzerlein tanzen.</l>
+            <l>Miau miau miau</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch alle die gnädigen Kätzerlein,</l>
+            <l>Die gnädigen Kater und Katzen,</l>
+            <l>Die konnten nichts als miauen und schrein</l>
+            <l>Und schluchzen und pfuchzen und pfnatzen.</l>
+            <l>Miau miau miau</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mauskätzchen schickt nach dem Pudel hin,</l>
+            <l>Der konnte das Hackebrett schlagen,</l>
+            <l>Der sollte so was nach ihrem Sinn</l>
+            <l>Auf dem Hackebrett vortragen.</l>
+            <l>Miau miau miau</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Pudel war ein gescheiter Mann,</l>
+            <l>Eine bürgerliche Canaille:</l>
+            <l>„was geht mich Dero Gesellschaft an,</l>
+            <l>Ew. Gnaden Katzengebalge?“</l>
+            <l>Wau wau wau wau.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

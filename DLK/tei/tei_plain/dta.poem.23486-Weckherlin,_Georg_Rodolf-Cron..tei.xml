@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Cron.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">149</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">581</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1619</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20627-4"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Cron.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Avf das sein lob würdig vnd wehrhaft</l>
+            <l>sey</l>
+            <l>Bringt seine Gnad vnd Güt zuwegẽ;</l>
+            <l>Für Sie ist Jhm sein volck hold vñ getrew/</l>
+            <l>Als für seinen reichesten seegen:</l>
+            <l>Durch Sie wirt Er geehret in dem Land/</l>
+            <l>Sie ist allein der rechte Amors-brand/</l>
+            <l>Damit Er die sehlen anzindet/</l>
+            <l>Vnd Sie so gehorsam erfindet/</l>
+            <l>Das Sie Jhn/ nein/ vilmehr für Jhn</l>
+            <l>Förchten/ vnd Jhn mehr dan Sich selbs</l>
+            <l>bewahren;</l>
+            <l>Für Jhn (Jhren besten gewin)</l>
+            <l>Weder arbeit noch leib vnd leben spahren:</l>
+            <l>Er ist Jhr Vatter/ Jhr Patron/</l>
+            <l>Ja Jhr Got selbs von dẽ sie gnad erlangẽ/</l>
+            <l>Vnd durch Gnad soll auch Er empfangẽ</l>
+            <l>Von Gottes hand des Himels Gnadẽ-cron.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

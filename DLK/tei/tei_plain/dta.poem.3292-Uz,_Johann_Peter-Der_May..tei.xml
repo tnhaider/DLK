@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der May.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">165</measure>
+        <measure type="characters">942</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der May.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der holde May hat endlich obgesiegt,</l>
+            <l>Und Boreas muß lauem Weste weichen:</l>
+            <l>Der laue West lockt Floren, wo er fliegt,</l>
+            <l>Jhm brünstig lächelnd nachzuschleichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß uns den Wald, wo itzt manch spielend Reh</l>
+            <l>Durch Büsche rauscht; laß uns die grünen Buchen</l>
+            <l>Und Feld und Bach und den bethauten Klee,</l>
+            <l>O Freund! auch wiederum besuchen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Umwölkt annoch der Unmuth unsern Blick,</l>
+            <l>Da überall Natur und Erde lachen?</l>
+            <l>Sey auch vergnügt und laß das wilde Glück</l>
+            <l>Die Zeiten mehr als eisern machen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es zieh uns aus, was wir von ihm geborgt,</l>
+            <l>Und werf allein dem ihm verkauften Schwarme</l>
+            <l>Die Güter zu, um die ich nie gesorgt!</l>
+            <l>Nackt flieh ich in der Weisheit Arme.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bleibt mir doch der stets zufriedne Sinn</l>
+            <l>Und Muths genug, mein Glück in mir zu suchen,</l>
+            <l>Und edler Stolz, auch wann ich niedrig bin,</l>
+            <l>Unedle Tücke zu verfluchen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bleibt mir auch, vom Zufall unentwandt,</l>
+            <l>Das Saitenspiel der griechischen Camöne,</l>
+            <l>Das, trotz dem Glück, ich mit gedungner Hand</l>
+            <l>Zu feigem Schmeicheln nicht verwöhne.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

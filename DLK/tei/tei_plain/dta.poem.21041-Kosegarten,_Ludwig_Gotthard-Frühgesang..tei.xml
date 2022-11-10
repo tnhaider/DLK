@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frühgesang.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">330</measure>
+        <measure type="tokens">182</measure>
+        <measure type="characters">1316</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193300"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frühgesang.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Aufgang flammt. Der Abend steht d&amp;#252;sterblau.               </l>
+            <l>Im klaren Äther schwimmet erblasst der Mond;</l>
+            <l>Denn schon erblühn Aurorens Wangen,</l>
+            <l>Thauend und frisch, wie die deinen, Rosa!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erwacht, ihr Leben alle! Lobsingt dem Herrn!</l>
+            <l>Lobsing' ihm, Lerche, Drossel und Nachtigall!</l>
+            <l>Brüllt euern Dank ihm, satte Heerden!</l>
+            <l>Wiehert ihm Rosse! frohlockt ihm, Adler!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Neig' ihm die Häupter, wallender Aehrenwald!</l>
+            <l>Hauch' ihm Gerüche, thymianreiche Flur!</l>
+            <l>Erduftet, Wiesen! flistert, Hayne!</l>
+            <l>Rieselt, ihr Quellen, und donnre, Weltmeer!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erwach' in deiner Schöne, Holdselige!</l>
+            <l>In deiner Strahlenfülle, Goldlockige!</l>
+            <l>Erwach' und schüttle, Sonne Gottes,</l>
+            <l>Segnend den Thau aus den goldenen Locken!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schau, sie erwacht! Wie lächelt die Freundliche!</l>
+            <l>Wie glüht ihr Mutterantlitz! Wie liegt die Erd'</l>
+            <l>Anbetend vor ihr, schauert Düfte,</l>
+            <l>Wimmert Entzücken, und jauchzet Freude!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kraft meines Geistes, schwinge dich, Ewige!</l>
+            <l>Schlag meines Herzens, schlage gewaltiger!</l>
+            <l>Rauscht fey'rlich, meine frommen Saiten!</l>
+            <l>Mehret den Jubel der Morgenschöpfung!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wem tönt mein unentheiligter Frühgesang?</l>
+            <l>Wem flammt die Flamme meiner entbrannten Brust?</l>
+            <l>Urschöner dir, und deiner Schönheit</l>
+            <l>Lichtestem, holdestem, hellstem Abglanz!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wem weih' ich diese trauten Vergissmeinnicht?</l>
+            <l>Die erste, Unvergesslicher, weih' ich dir!</l>
+            <l>Die zweyte deines reinen Odems</l>
+            <l>Reinster, unsträflichster, schönster Tochter!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

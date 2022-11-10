@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Rechenschüler.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">502</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Rechenschüler.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Vater lehrt mich rechnen,</l>
+            <l>Er zälet Pfund und Taler;</l>
+            <l>Ich aber zäle Mädchens.</l>
+            <l>Er sagt: Es sollen zwanzig,</l>
+            <l>Sich in zwei tausend teilen,</l>
+            <l>Gib iedem seine Winspel;</l>
+            <l>Ich aber teile Mädchens,</l>
+            <l>Und gebe iedem hundert.</l>
+            <l>Ein Centner gilt zwey Gulden,</l>
+            <l>Er frägt: Was gelten zwanzig?</l>
+            <l>Und meinet immer Centner;</l>
+            <l>Ich aber meine Mädchens.</l>
+            <l>Er frägt mich: Wenn du zwanzig</l>
+            <l>Mit zwanzigen vermehrest,</l>
+            <l>Wie viel beträgt die Summe?</l>
+            <l>Und wenn er mich so fräget,</l>
+            <l>So denk ich ans Vermehren</l>
+            <l>Der Schwestern und der Brüder,</l>
+            <l>Und lache, wenn ich rechne.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Nachtigall .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5 6-5</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">795</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Nachtigall .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Sängerin der Nächte,</l>
+            <l>Du liebe Philomele,</l>
+            <l>Du singest ja so kläglich.</l>
+            <l>Was ist dir wiederfahren?</l>
+            <l>Ich glaube, daß du liebest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! lieber kleiner Vogel,</l>
+            <l>Ich lieb auch, wie du liebest,</l>
+            <l>Und bin der Stadt entflohen,</l>
+            <l>Und bin hieher gekommen,</l>
+            <l>Einmal recht auszuweinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort in den großen Häusern,</l>
+            <l>Da ist man immer lustig;</l>
+            <l>Da will man immer lachen;</l>
+            <l>Da sollt ich auch mit lachen;</l>
+            <l>Da bin ich weggelaufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm, ich will mit dir klagen.</l>
+            <l>Wie zärtlich kanst du klagen!</l>
+            <l>Mich rühren deine Seufzer;</l>
+            <l>Du suchst wohl die Geliebte,</l>
+            <l>Die man von dir getrennet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich hat von meinem Mädchen</l>
+            <l>Das Schicksal auch getrennet.</l>
+            <l>Doch, Vogel, du bist glücklich!</l>
+            <l>Sieh nur, du hast ja Flügel,</l>
+            <l>Du kanst ja zu ihr fliegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wollte hier nicht sitzen,</l>
+            <l>Und um mein armes Mädchen</l>
+            <l>An diesen Linden weinen.</l>
+            <l>Hätt ich nur deine Flügel;</l>
+            <l>Wie wollt ich zu ihr fliegen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

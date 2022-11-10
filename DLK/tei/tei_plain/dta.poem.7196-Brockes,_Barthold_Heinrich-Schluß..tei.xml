@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schluß.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">452</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schluß.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Adam selbst im Paradeise,</l>
+            <l>Hat, auf eben diese Weise,</l>
+            <l>Sich zur Lust und GOTT zum Preise,</l>
+            <l>Jhn als Schöpffer zu erhöhn,</l>
+            <l>Sein Geschöpff offt angesehn:</l>
+            <l>Ja er würde, GOTT zur Ehre,</l>
+            <l>Wenn er nicht gefallen wäre;</l>
+            <l>An des Schöpffers Wunder-Gaben</l>
+            <l>Ewig sich gelabet haben.</l>
+            <l>Darum wende jedermann</l>
+            <l>Seiner Seelen Sinn und Kräffte,</l>
+            <l>Zu so lieblichem Geschäffte,</l>
+            <l>Wiederum mit Freuden an:</l>
+            <l>Sich von neuen zu bereiten,</l>
+            <l>Zum Genuß der Herrlichkeiten,</l>
+            <l>Die in jenem Himmels-Garten</l>
+            <l>Unsrer warten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

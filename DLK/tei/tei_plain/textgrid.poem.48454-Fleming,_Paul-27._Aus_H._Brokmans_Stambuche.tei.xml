@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">27. Aus H. Brokmans Stambuche</title>
+        <author>
+          <persName>
+            <surname>Fleming</surname>
+            <forename>Paul</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">150</measure>
+        <measure type="characters">782</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>27. Aus H. Brokmans Stambuche</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So viel Athen und Rom an Weisheit Schönes hat,</l>
+            <l>so viel hat Beides dir gegeben in der Tat,</l>
+            <l>o du der Musen Zier und Lust der Charitinnen,</l>
+            <l>den jeder lieben muß, der Liebe kan beginnen!</l>
+            <l>Ich ehre deinen Geist und wundre mich der Kunst,</l>
+            <l>doch übertrifft sie zwei der Freundschaft werte Gunst.</l>
+            <l>Ich weiß nicht, was ich vor und nach an dir soll lieben.</l>
+            <l>Diß weiß ich, du bist mir ganz in den Sinn geschrieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So viel Athen und Rom an Weisheit Schönes hat,</l>
+            <l>so viel hat Beides dir gegeben in der Tat,</l>
+            <l>o du der Musen Zier und Lust der Charitinnen,</l>
+            <l>den jeder lieben muß, der Liebe kan beginnen!</l>
+            <l>Ich ehre deinen Geist und wundre mich der Kunst,</l>
+            <l>doch übertrifft sie zwei der Freundschaft werte Gunst.</l>
+            <l>Ich weiß nicht, was ich vor und nach an dir soll lieben.</l>
+            <l>Diß weiß ich, du bist mir ganz in den Sinn geschrieben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

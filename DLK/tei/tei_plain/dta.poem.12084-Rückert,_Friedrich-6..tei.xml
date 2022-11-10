@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">6.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">81</measure>
+        <measure type="characters">491</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>6.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum läßt Volksmundart von Frauenlippen sich</l>
+            <l>So lieblich hören, als von Männern widerlich?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie rein der Reinheit, ist der Schönheit alles schön;</l>
+            <l>Du hörest, auch wenn sie's nicht spräch', ein Wohlgetön,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Anmuth ist es, die, alswie die Landestracht,</l>
+            <l>Auch Landesart und Sprach' am Weib anmuthig macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Weib natürlich mag in der Natur verharren;</l>
+            <l>Der Mann wird, wenn ers will, zum Tölpel oder Narren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein leichter Anflug nur von Mundart steht ihm gut,</l>
+            <l>Alswie ein Erdgeschmack der Reben edlem Blut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

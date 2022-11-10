@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Um Dich .</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">82</measure>
+        <measure type="tokens">58</measure>
+        <measure type="characters">322</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Um Dich .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Storch und Schwalbe sind gekommen,</l>
+            <l>Veilchen auch, die blauen frommen</l>
+            <l>Frühlingsaugen grüßen mich;</l>
+            <l>Aber hin an Lenz und Leben</l>
+            <l>Zieh in Bangen ich und Beben —</l>
+            <l>Um Dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, um Dich! und doch ich fühle,</l>
+            <l>Träte jetzt die Todeskühle</l>
+            <l>An mein Herz, und riefe mich,</l>
+            <l>Wie ein Kind dann, unter Jammern</l>
+            <l>Würd’ ich mich an’s Leben klammern —</l>
+            <l>Um Dich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

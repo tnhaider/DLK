@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">87.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">178</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">712</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>87.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weißt, wie der alte Pfau lehrt fliegen seine Jungen?</l>
+            <l>Wie er dem Vater auch sich selbst einst nachgeschwungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Tage schreitet er mit Lust im grünen Raum,</l>
+            <l>Am Abend wählt er sich zur Rast den höchsten Baum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und weil den Jungen kann so hoher Flug nicht glücken,</l>
+            <l>So trägt er einzeln sie hinauf auf seinem Rücken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ruhn sie nun die Nacht, bis sie der Morgen weckt,</l>
+            <l>Da fliegt der Alte weg, die Jungen sehns erschreckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er wandelt unten froh im Grünen hin und wieder;</l>
+            <l>Er trug sie nur hinauf, und holt sie nicht hernieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er blicket nur hinauf, um sie herab zu locken,</l>
+            <l>Da wagen sie den Flug, und sind vor Lust erschrocken,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu fühlen, daß im Wind von selbst die Federn wallen,</l>
+            <l>Und daß sie halb schon sind geflogen, halb gefallen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

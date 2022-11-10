@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An  Lysetten.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">582</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An  Lysetten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unvergleichliche Lysette</l>
+            <l>Meine Sonne/ meine Lust/</l>
+            <l>Mache mir ein sanfftes Bette</l>
+            <l>Auf den Rosen deiner Brust;</l>
+            <l>Jhre Pracht</l>
+            <l>Hat gemacht</l>
+            <l>Daß mir Geist und Hertze brennen/</l>
+            <l>So dich ihren Zünd-Strick nennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schönste Göttin meiner Seelen/</l>
+            <l>Meines Lebens-Auffenhalt/</l>
+            <l>Die sich deiner Zier vermählen</l>
+            <l>Labt die Englische Gestalt.</l>
+            <l>Und das Hertz/</l>
+            <l>Kan kein Schmertz</l>
+            <l>Durch Betrübniß traurig machen/</l>
+            <l>Welchen deine Augen lachen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese ungemeiue Freude</l>
+            <l>Treff’ ich bey mir selber an/</l>
+            <l>Meine Wohlfahrt geht in Seyde</l>
+            <l>Auf der sanfften Rosen-Bahn.</l>
+            <l>Ich will auch</l>
+            <l>Nach dem Brauch</l>
+            <l>Derer die beständig lieben/</l>
+            <l>Keinen Wanckelmuth verüben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

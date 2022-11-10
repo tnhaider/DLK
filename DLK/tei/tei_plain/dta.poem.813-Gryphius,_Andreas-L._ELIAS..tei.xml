@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">L.  
+  ELIAS.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">177</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">734</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>L.  
+  ELIAS.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Flammen aus der Brust der Mutter hat gesogen; </l>
+            <l>Der von der heilgen Flam des eyvers heiß entbrandt/</l>
+            <l>Deß Fürsten grim verlacht/ vnd dem verführten Land</l>
+            <l>Durch flammen hat entdeckt/ wie Kron vnd Hauß betrogen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mann/ auff dessen wortt die flammen abgeflogen</l>
+            <l>Durch die erhitzte Lufft/ vnd die der König sandt</l>
+            <l>Mit schneller glutt verzehrt; ist als jhn GOTT entbandt</l>
+            <l>Auch in dem Fewr’gen Sturm aus dieser welt gezogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er fehrt/ doch vnversehrt/ kein fewrig Roß vnd Wagen</l>
+            <l>Letzt den/ der Fewr im Mund vnd Hertzen pflag zu tragen</l>
+            <l>Mit dem Er Hertzen/ mehr deñ Marmorhart/ zusprengt</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der gantz von Fewer war/ muß mit dem Fewr hinscheiden:</l>
+            <l>Fragt jhr warumb sein kleidt nichts kan von flammen leidẽ?</l>
+            <l>Mich wundert/ daß es nicht weil er es trug/ verseng’t.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

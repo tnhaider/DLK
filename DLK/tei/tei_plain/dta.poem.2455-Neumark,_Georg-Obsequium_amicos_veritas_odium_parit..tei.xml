@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Obsequium amicos veritas odium  
+ parit.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">86</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">355</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Obsequium amicos veritas odium  
+ parit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heut hält man den sehr wehrt der mit verfälschtem</l>
+            <l>Munde/</l>
+            <l>Frey aufzuschneiden weiß/ wer aber Warheit liebt/</l>
+            <l>Und gehet gleich hindurch wird offtmals hochbetrübt</l>
+            <l>Man hasst und neidet ihn: Man wil ihn iede Stunde/</l>
+            <l>Begraben eh er stirbt/ ja auch mit Haut und Haar.</l>
+            <l>Doch diesem sey also/ Es bleibt doch endlich war:</l>
+            <l>Die Warheit schwimmt empor/ die Lügen</l>
+            <l>geht zu grunde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

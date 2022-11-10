@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XlIII.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">669</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XlIII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn sie auch die Strenge tadelt, hat's die Liebe je</l>
+            <l>Laßt das schelmische Getändel schmeicheln sich in eure</l>
+            <l>Möge der Verstand es schelten, wenn das Herz euch nur</l>
+            <l>Dachtet ihr an weise Lehren, wenn das Liebchen euch</l>
+            <l>Fragtet ihr um Rath die Sitte, wenn ihr an den Rosen</l>
+            <l>Andre Gaben würd' ich pflegen, wenn sie mir das Loos</l>
+            <l>Doch nur Schönes sezt in Flammen meines Lebens</l>
+            <l>Denn mir ward ein Sinn gegeben, den ich selbst mir</l>
+            <l>Stolz und trotzig gegen Alles, doch vom Schönen unter-</l>
+            <l>Das nur ist es, was mich fesselt, ob ich wandle durch</l>
+            <l>Ob mir holde Blicke lächeln, ob der Wein im Becher</l>
+            <l>Das nur ist's, wofür ich athme, das nur, was mich</l>
+            <l>Wenn ich liebender Entsagung ehrenvolle Kämpfe focht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

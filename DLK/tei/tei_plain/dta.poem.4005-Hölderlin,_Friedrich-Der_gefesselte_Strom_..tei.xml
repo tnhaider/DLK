@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der gefesselte Strom .</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-5 4-4 5-4 6-4</measure>
+        <measure type="syllables">245</measure>
+        <measure type="tokens">171</measure>
+        <measure type="characters">972</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197104"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der gefesselte Strom .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was schläfst und träumst Du, Jüngling! gehüllt</l>
+            <l>in Dich,</l>
+            <l>Und säumst am kalten Ufer, Geduldiger,</l>
+            <l>Und achtest nicht des Ursprungs, Du, des</l>
+            <l>Oceans Sohn, des Titanenfreundes?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Liebesboten, welche der Vater schickt,</l>
+            <l>Kennst Du die lebenathmenden Lüfte nicht?</l>
+            <l>Und trifft das Wort Dich nicht, das hell von</l>
+            <l>Oben der wachende Gott Dir sendet? &amp;#8212;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon tönt, schon tönt es ihm in der Brust! es</l>
+            <l>quillt,</l>
+            <l>Wie da er noch im Schoose der Felsen spielt',</l>
+            <l>Ihm auf; und nun gedenkt er seiner</l>
+            <l>Kraft, der Gewaltige, nun, nun eilt er,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Zauderer, er spottet der Fesseln nun,</l>
+            <l>Und nimmt und bricht und wirft die zerbrochenen</l>
+            <l>Im Zorne, spielend, da und dort zum</l>
+            <l>Schallenden Ufer; und von der Stimme</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Göttersohns erwachen die Berge rings,</l>
+            <l>Es regen sich die Wälder, es hört die Kluft</l>
+            <l>Den Herold fern, und schaudernd regt im</l>
+            <l>Busen der Erde sich Freude wieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der neue Frühling dämmert, es blüht um ihn;</l>
+            <l>Er aber wandelt hin zu Unsterblichen;</l>
+            <l>Denn nirgend darf er bleiben, als wo</l>
+            <l>Ihn in die Arme der Vater aufnimmt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

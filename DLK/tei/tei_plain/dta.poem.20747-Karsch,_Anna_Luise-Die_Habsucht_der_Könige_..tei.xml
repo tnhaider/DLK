@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Habsucht der Könige .</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">107</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">449</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Habsucht der Könige .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Vater alles Zanks ist das verhaßte Mein,                 </l>
+            <l>Gepaaret mit dem bittern Dein!</l>
+            <l>An einer halben Welt hat Geizes voll ihr König</l>
+            <l>Noch seiner Erde Raum zu wenig.</l>
+            <l>Er fragt nach Göttern nichts, auch nicht nach Völker-</l>
+            <l>Recht,</l>
+            <l>Aus Ehrgeiz schont er nicht das menschliche Geschlecht.</l>
+            <l>Er siehet hundert tausend Leben</l>
+            <l>In einem Treffen aufgegeben,</l>
+            <l>Und sieht die Mordthat nicht. Der Himmel sieht sie</l>
+            <l>scharf.</l>
+            <l>Heil sey dem König, der nicht mit ihm rechten darf!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

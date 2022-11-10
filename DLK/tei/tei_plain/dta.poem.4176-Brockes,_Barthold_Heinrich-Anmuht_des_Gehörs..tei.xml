@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Anmuht des Gehörs.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">515</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Anmuht des Gehörs.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nachdem ich jüngst zur Frühlings-Zeit</l>
+            <l>An der Geschöpfe Herrlichkeit,</l>
+            <l>Die itzo wunderwürdig, schön,</l>
+            <l>Mich matt, jedoch nicht satt, gesehn;</l>
+            <l>Setzt’ ich mich, inniglich erfreut,</l>
+            <l>Ins Gras, im kühlen Schatten, nieder,</l>
+            <l>Und schloß mit Fleiß die Augenlieder,</l>
+            <l>Damit die Seele durchs Gehör</l>
+            <l>Mehr fähig und geschickter wär’,</l>
+            <l>Zu unsrer Lust, und GOtt zu Ehren,</l>
+            <l>Noch schärfer, was man hört, zu hören.</l>
+            <l>Da denn der Lüfte sanft Bewegen,</l>
+            <l>Wodurch sich Zweig’ und Blätter regen,</l>
+            <l>Da ich des Windes Blasen spürte,</l>
+            <l>Zuerst durchs Ohr den Geist mir rührte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

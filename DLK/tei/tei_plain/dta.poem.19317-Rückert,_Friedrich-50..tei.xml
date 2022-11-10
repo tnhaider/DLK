@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">50.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">49</measure>
+        <measure type="characters">307</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>50.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Arabisch heißet Dien Religion von Dienen,</l>
+            <l>Denn nicht zum Herrschen ist sie auf der Welt erschienen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Religion, solang sie dienstbar ist auf Erden,</l>
+            <l>Der Menschheit dienet sie zum Trost in den Beschwerden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ist sie Gottesdienst ohn' äußern Prunk und Braus;</l>
+            <l>Sobald sie herrschend wird, wird eitler Weltdienst draus.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

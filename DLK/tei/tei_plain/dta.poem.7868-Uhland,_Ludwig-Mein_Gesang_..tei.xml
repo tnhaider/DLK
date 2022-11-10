@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mein Gesang .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">273</measure>
+        <measure type="tokens">176</measure>
+        <measure type="characters">1003</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mein Gesang .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob ich die Freude nie empfunden?</l>
+            <l>Ob stets mein Lied so traurig klang?</l>
+            <l>O nein! ich lebte frohe Stunden,</l>
+            <l>Da war mein Leben Lustgesang.</l>
+            <l>Die milde Gegenwart der Süßen</l>
+            <l>Verklärte mir das Blumenjahr.</l>
+            <l>Was Morgenträume mir verhießen,</l>
+            <l>Das machte stets der Abend wahr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O könnten meiner Wonne zeugen</l>
+            <l>Des Himmels und der Bäche Blau,</l>
+            <l>Die Haine mit den Blüthenzweigen,</l>
+            <l>Der Garten und die lichte Au!</l>
+            <l>Die haben Alles einst gesehen,</l>
+            <l>Und haben Alles einst gehört.</l>
+            <l>Doch ach! sie müssen traurig stehen,</l>
+            <l>Auch ihre Zier ist nun zerstört.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber zeuge, meine Traute!</l>
+            <l>Du Ferne mir, du Nahe doch!</l>
+            <l>Du denkst der kindlich frohen Laute,</l>
+            <l>Du denkst der sel’gen Blicke noch.</l>
+            <l>Wir hatten uns so ganz empfunden,</l>
+            <l>Wir suchten nicht das enge Wort;</l>
+            <l>Uns floß der rasche Strom der Stunden</l>
+            <l>In freien Melodieen fort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du schiedest hin, die Welt ward öde,</l>
+            <l>Ich stieg hinab in meine Brust;</l>
+            <l>Der Lieder sanfte Klagerede</l>
+            <l>Ist all mein Trost und meine Lust.</l>
+            <l>Was bleibt mir, als in Trauertönen</l>
+            <l>Zu singen die Vergangenheit?</l>
+            <l>Und als mich schmerzlich hinzusehnen</l>
+            <l>In neue goldne Liebeszeit?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

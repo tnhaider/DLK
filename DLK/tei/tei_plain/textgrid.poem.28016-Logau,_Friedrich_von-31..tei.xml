@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">31.</title>
+        <author>
+          <persName>
+            <surname>Logau</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">434</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1630</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>31.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann zwischen Menschen Hertz und zwischen Gottes Liebe</l>
+            <l>Der Erde Schatten fällt, so wird es schädlich trübe;</l>
+            <l>Dann Gottes Trost vergeht, der doch allein erfreut,</l>
+            <l>Drum bleibt dem Hertzen nichts, als Welt, das ist: nur Leid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann zwischen Menschen Hertz und zwischen Gottes Liebe</l>
+            <l>Der Erde Schatten fällt, so wird es schädlich trübe;</l>
+            <l>Dann Gottes Trost vergeht, der doch allein erfreut,</l>
+            <l>Drum bleibt dem Hertzen nichts, als Welt, das ist: nur Leid.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

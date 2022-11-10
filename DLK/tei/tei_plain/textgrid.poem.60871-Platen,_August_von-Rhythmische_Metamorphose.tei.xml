@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Rhythmische Metamorphose</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">454</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Rhythmische Metamorphose</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Episch erscheint in italischer Sprache der Ton der Oktave;</l>
+            <l>Doch in der deutschen, o Freund, atmet sie lyrischen Ton.</l>
+            <l>Glaubst du es nicht, so versuch's! Der italische wogende Rhythmus</l>
+            <l>Wird jenseits des Gebürgs klappernde Monotonie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Episch erscheint in italischer Sprache der Ton der Oktave;</l>
+            <l>Doch in der deutschen, o Freund, atmet sie lyrischen Ton.</l>
+            <l>Glaubst du es nicht, so versuch's! Der italische wogende Rhythmus</l>
+            <l>Wird jenseits des Gebürgs klappernde Monotonie.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

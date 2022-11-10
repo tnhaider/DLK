@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Entschluß .</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">199</measure>
+        <measure type="tokens">147</measure>
+        <measure type="characters">892</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Entschluß .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach einem stillen Kloster will ich wandern,</l>
+            <l>Will flieh’n den Menschenlärm und Pulverdampf;</l>
+            <l>Verwundet ward mein Herz, mich schmerzt das Schrein,</l>
+            <l>Ich tauge nicht zu wüth’gem, irrem Kampf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hab’ nicht Schwert, nicht Säbel und Pistole,</l>
+            <l>Ich </l>
+            <l>Hier steh’ ich stille, auf mir selber ruhend,</l>
+            <l>Und Niemand hat zum Schutz sich mir gesellt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In mir auch sprühte auf Prometheusfunke,</l>
+            <l>Erringen wollt’ ich Euch das Ideal —</l>
+            <l>Und an den Felsen ward auch ich geschmiedet,</l>
+            <l>Die Kraft zerbarst, zurück blieb nur die Qual!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seit ich ihn nutzlos weiß, mir graut’s vorm Kriege;</l>
+            <l>Könnt' ich ihn streiten noch, ich wollte nicht:               </l>
+            <l>Schafft er auch Recht — das Unrecht lauert, tilgt es;</l>
+            <l>Der Pesthauch Wunsch löscht aus des Friedens Licht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich streite nicht, muß wandern ohne Waffen —</l>
+            <l>Wohin? — Ich kenn’ kein Ziel. Doch was ich such’,</l>
+            <l>Ein Kloster ist’s. Da harre ich und lese</l>
+            <l>Herzstill, was mir das Schicksal schreibt in’s Buch.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

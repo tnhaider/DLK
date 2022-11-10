@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">EiN HERBSTABEND</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">149</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">554</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>EiN HERBSTABEND</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das braune Dorf. Ein Dunkles zeigt im Schreiten</l>
+            <l>Sich oft an Mauern, die im Herbste stehn,</l>
+            <l>Gestalten: Mann wie Weib, Verstorbene gehn</l>
+            <l>In kühlen Stuben jener Bett bereiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier spielen Knaben. Schwere Schatten breiten</l>
+            <l>Sich über braune Jauche. Mägde gehn</l>
+            <l>Durch feuchte Bläue und bisweilen sehn</l>
+            <l>Aus Augen sie, erfüllt von Nachtgeläuten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Für Einsames ist eine Schenke da;</l>
+            <l>Das säumt geduldig unter dunklen Bogen,</l>
+            <l>Von goldenem Tabaksgewölk umzogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch immer ist das Eigne schwarz und nah.</l>
+            <l>Der Trunkne sinnt im Schatten alter Bogen</l>
+            <l>Den wilden Vögeln nach, die ferngezogen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

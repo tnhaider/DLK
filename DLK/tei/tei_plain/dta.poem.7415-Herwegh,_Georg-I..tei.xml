@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">I.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">828</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>I.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sonne, der wir lang geharrt,</l>
+            <l>Ist endlich aufgegangen;</l>
+            <l>Wir schauen ihre Himmelfahrt</l>
+            <l>Voll Sehnen und Verlangen.</l>
+            <l>Wo ist ein Herz, das ruhig schlägt,</l>
+            <l>Wenn solch ein Tag die Schwingen regt?</l>
+            <l>Ihr Völker wachet auf!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ketten brach der Lenz entzwei</l>
+            <l>Mit seinen Rosendüften,</l>
+            <l>Und unsre Seelen rauschen frei,</l>
+            <l>Wie Adler, in den Lüften.</l>
+            <l>Die Toten drückt der Tod heut' nicht;</l>
+            <l>Horcht! unser Meister lebt und spricht:</l>
+            <l>Ihr Völker, wachet auf!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Völker, wachet auf und seht</l>
+            <l>Den Himmel selbst in Flammen!</l>
+            <l>Ihr Völker, wachet auf und steht</l>
+            <l>Ein einig Heer zusammen!</l>
+            <l>Voran, voran, im Sturm voran!</l>
+            <l>Der Gutenberg trägt uns die Fahn'.</l>
+            <l>Ihr Völker, wachet auf!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verheissend schaut sein selig Haubt</l>
+            <l>Aus Wolken zu der Erden;</l>
+            <l>Ob man die Blüten uns geraubt,</l>
+            <l>Die Frucht soll uns doch werden;</l>
+            <l>Was solch ein guter Geist ersann,</l>
+            <l>Das thut kein Teufel in den Bann.</l>
+            <l>Ihr Völker, wachet auf!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

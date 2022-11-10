@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Andacht durch Blumen erregt.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">81</measure>
+        <measure type="characters">492</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1736</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198582"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Andacht durch Blumen erregt.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du blühest, wunderschöne Blume,</l>
+            <l>In deiner Bildung, Farben-Pracht,</l>
+            <l>Geruch und Schönheit, dem zum Ruhme,</l>
+            <l>Der dich und alle Welt gemacht.</l>
+            <l>Herr! gieb uns Augen, daß wir sehen,</l>
+            <l>Wie grosse Wunder bloß durch dich,</l>
+            <l>So überall, als sonderlich,</l>
+            <l>Jm bunten Blumen-Heer, geschehen!</l>
+            <l>Laß uns, in ihrem Schmuck und Schein,</l>
+            <l>Erwegen, daß von dir allein</l>
+            <l>Sie ihrer Blätter holdes Prangen,</l>
+            <l>Und zwar zu unsrer Lust, empfangen!</l>
+            <l>Laß uns, an ihren bunten Schätzen,</l>
+            <l>In stiller Andacht, uns ergetzen,</l>
+            <l>Und, dir zu Ehren, frölich seyn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

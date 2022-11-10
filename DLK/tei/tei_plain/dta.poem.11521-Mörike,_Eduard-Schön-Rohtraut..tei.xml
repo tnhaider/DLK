@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schön-Rohtraut.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">31</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8 4-8</measure>
+        <measure type="syllables">220</measure>
+        <measure type="tokens">158</measure>
+        <measure type="characters">973</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schön-Rohtraut.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rohtraut, Schön-Rohtraut.</l>
+            <l>Was thut sie denn den ganzen Tag,</l>
+            <l>Da sie wohl nicht spinnen und nähen mag?</l>
+            <l>Thut fischen und jagen.</l>
+            <l>O daß ich doch ihr Jäger wär'!</l>
+            <l>Fischen und jagen freute mich sehr.</l>
+            <l>— Schweig' stille, mein Herze!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und über eine kleine Weil',</l>
+            <l>Rohtraut, Schön-Rohtraut,</l>
+            <l>So dient der Knab' auf Ringangs Schloß</l>
+            <l>In Jägertracht und hat ein Roß,</l>
+            <l>Mit Rohtraut zu jagen.</l>
+            <l>O daß ich doch ein Königssohn wär'!</l>
+            <l>Rohtraut, Schön-Rohtraut lieb' ich so sehr.</l>
+            <l>— Schweig' stille, mein Herze!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einsmals sie ruhten am Eichenbaum,</l>
+            <l>Da lacht Schön-Rohtraut:</l>
+            <l>Was siehst mich an so wunniglich?</l>
+            <l>Wenn du das Herz hast, küsse mich!</l>
+            <l>Ach! erschrak der Knabe!</l>
+            <l>Doch denket er: mir ist's vergunnt,</l>
+            <l>Und küsset Schön-Rohtraut auf den Mund.</l>
+            <l>— Schweig' stille, mein Herze!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darauf sie ritten schweigend heim,</l>
+            <l>Rohtraut, Schön-Rohtraut;</l>
+            <l>Es jauchzt der Knab' in seinem Sinn:</l>
+            <l>Und würd'st du heute Kaiserin,</l>
+            <l>Mich sollt's nicht kränken:</l>
+            <l>Ihr tausend Blätter im Walde wißt,</l>
+            <l>Ich hab' Schön-Rohtrauts Mund geküßt!</l>
+            <l>— Schweig' stille, mein Herze!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

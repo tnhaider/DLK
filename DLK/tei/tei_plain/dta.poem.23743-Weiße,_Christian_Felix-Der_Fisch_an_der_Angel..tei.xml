@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Fisch an der Angel.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">134</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">545</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Fisch an der Angel.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das kleine Fischgen spielet hier</l>
+            <l>In silbernem Bach,</l>
+            <l>Und hängt, voll lüsterner Begier,</l>
+            <l>Bloß seinen Freuden nach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es merket nicht die blutge List,</l>
+            <l>Den freundlichen Feind,</l>
+            <l>Der desto mehr zu fürchten ist,</l>
+            <l>Je gütiger er scheint.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ruthe mit der Angel spielt</l>
+            <l>Schon über ihn hin,</l>
+            <l>Und voller Neubegierde schielt</l>
+            <l>Es bloß nach dem Gewinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es naht sich schon &amp;#8212; itzt schnappt es zu!</l>
+            <l>Was hast du gethan?</l>
+            <l>Du blutest, armes Thierchen du,</l>
+            <l>O bissest du nicht an! —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich reiße nie, was mir gefällt,</l>
+            <l>Unprüfend dahin!</l>
+            <l>Dein Beyspiel lehre mich die Welt</l>
+            <l>Und ihre Reizung fliehn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

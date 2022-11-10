@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">32.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">519</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>32.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht ärgern sollst du dich an Fratzen, die der Glaube</l>
+            <l>Geschaffen hat, daß er die Macht der Schönheit raube.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So schaffet Fratzen auch die ewige Natur;</l>
+            <l>Sieh du von ihnen weg, und auf ihr Schönes nur!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Leben, Welt und Staat ist reich an Fratzenbildern,</l>
+            <l>Daher die Pfuscher auch am liebsten Fratzen schildern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur vom Gebiet der Kunst hinweg, ihr Fratzen, geht!</l>
+            <l>Der Kunst, die über Welt, Natur und Glauben steht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wenn sie jetzt nicht steht, hat sie doch einst gestanden;</l>
+            <l>Und bis sie's wieder thut, ehr ist sie nicht vorhanden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

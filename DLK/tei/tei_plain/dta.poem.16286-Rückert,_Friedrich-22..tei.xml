@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">22.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">679</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>22.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um eine Blum' im Korn, von Knabenaug' erblickt,</l>
+            <l>Um eine Blume wird wie mancher Halm geknickt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Landmann wär' es gut, wenn unter seinem Rocken</l>
+            <l>Gar keine Blume wüchs', um Knaben anzulocken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Landmann wär' es recht, wenn unter seinem Weizen</l>
+            <l>Gar keine Blüte stünd', um Knabenlust zu reizen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Recht wär' es ihm und gut, wenn unter seinen Saaten</l>
+            <l>Nicht wäre, weshalb sie die Knaben ihm zertraten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Blumen nennet er Unkraut mit Recht, sie sind</l>
+            <l>Das allerschädlichste für seiner Pflege Kind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alswie am Töchterchen ein strenger Vater schalt</l>
+            <l>Die Schönheit, die bei ihm nur als Verführung galt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur daß der Vater nicht wie jener auch ausraufen</l>
+            <l>Das Unkraut will noch darf, wonach die Knaben laufen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

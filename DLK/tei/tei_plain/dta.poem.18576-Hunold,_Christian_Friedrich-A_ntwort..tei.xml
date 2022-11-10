@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">A ntwort.</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">555</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1702</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197766"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>A ntwort.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die süsse Stunde bricht nun an/</l>
+            <l>Dein Hoffen zu Vergnügen.</l>
+            <l>Dein Hertze dencke nur daran/</l>
+            <l>Durch Lieb' und Treu zu siegen.</l>
+            <l>Mein Engel komm/ ich bin bereit/</l>
+            <l>Zu krönen die Beständigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach ja geniesse nur der Lust/</l>
+            <l>Die ich dir kan verstatten/</l>
+            <l>Hier öffnet sich die treuste Brust/</l>
+            <l>Und will sich mit dir gatten.</l>
+            <l>Mein Engel komm/ ich bin bereit/</l>
+            <l>Zu krönen die Beständigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin von Wachs und nicht von Stein/</l>
+            <l>Drum sollst du nicht verderben;</l>
+            <l>Dein Wunsch wird bald gewehret seyn/</l>
+            <l>In meinen Arm zu sterben.</l>
+            <l>Drum komm nur/ Amor ist bereit/</l>
+            <l>Und küst dich durch die Sterblichkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

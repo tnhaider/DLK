@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Geistiger Abgott.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">235</measure>
+        <measure type="tokens">137</measure>
+        <measure type="characters">902</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Geistiger Abgott.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Untersaget und verbietet unser Gott durch Mosen nicht,</l>
+            <l>Von der unumschränkten Gottheit, ein verkleinernd Bild</l>
+            <l>Meynst du nun, daß, was der Schöpfer hier zu seinem Diener</l>
+            <l>Bloß allein auf Stein und Holz, bloß auf körperliche Sachen,</l>
+            <l>Und sein ernstliches Geboth und Gesetz sich nicht viel mehr</l>
+            <l>Auf den denkenden Verstand, ebenfalls erstrecken solle?</l>
+            <l>Es erhellt ja Sonnen-klar, wie der wahre Gott nicht wolle,</l>
+            <l>Daß von seinem wahren Wesen, von der unumschränkten Macht,</l>
+            <l>Der allgegenwärtgen Gottheit, Majestät, Vollkommenheit,</l>
+            <l>Ewger Wahrheit, ewger Liebe, Weisheit und Unendlichkeit,</l>
+            <l>So verkleinernde Gedanken, so belachenswürdge Grillen,</l>
+            <l>Ein so kindischer Begriff, unsre Seele soll erfüllen,</l>
+            <l>Als worin allein die Thorheit der Abgötterey besteht,</l>
+            <l>Wenn man nemlich einen Abgott, im Gehirn und Geist, erhöht,</l>
+            <l>Der weit schimpflicher für Gott, als ein Bild von Holz und</l>
+            <l>Da ja diese nur bedeutend, jener, wirklich Gott soll seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

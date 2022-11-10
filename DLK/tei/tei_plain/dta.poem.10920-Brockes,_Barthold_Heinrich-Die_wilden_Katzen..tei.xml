@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die wilden Katzen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">205</measure>
+        <measure type="tokens">134</measure>
+        <measure type="characters">817</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die wilden Katzen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht! wie in des wilden Waldes dunkel - grüner Schatten-
+Nacht,</l>
+            <l>Auf dem dürr - und morschen Baum halb ergrimmt, halb lä-</l>
+            <l>Dort ein bunter wilder Kater einen Katzenbuckel macht!</l>
+            <l>Seht, wie mit entflammten Augen hier ein andrer über sich,</l>
+            <l>Schon im Sprung begriffen, sieht! seht, wie mütterlich die Katze</l>
+            <l>An den närrischen Figuren ihrer Jungen sich vergnügt,</l>
+            <l>Und, indem sich eines welzt, eines mit gestreckter Tatze,</l>
+            <l>Springt, und sich im Sprunge dreht, eine sich poßirlich biegt,</l>
+            <l>Und den regen Rücken krümmt, innig sich zu freuen scheint!</l>
+            <l>Ist dieß Thier nun gleich sehr schädlich, nützt es mehr doch,</l>
+            <l>(welches wir erkennen sollten) denn, so bald sie aufgerieben,</l>
+            <l>Wird, mit ihren bunten Bälgen, große Handelschaft getrieben.</l>
+            <l>Da man sie, nicht nur im Winter gegen strenge Kälte trägt;</l>
+            <l>Sondern er auch gegen Flüsse wunderbare Kräfte hegt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">4.  Die Döffinger Schlacht .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">105</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">426</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>4.  Die Döffinger Schlacht .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Ruheplatz der Todten, da pflegt es still zu seyn,</l>
+            <l>Man hört nur leises Beten bei Kreuz und Leichenstein;</l>
+            <l>Zu Döffingen war’s anders, dort scholl den ganzen Tag</l>
+            <l>Der feste Kirchhof wieder von Kampfruf, Stoß und Schlag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Städter sind gekommen, der Bauer hat sein Gut</l>
+            <l>Zum festen Ort geflüchtet und hält’s in tapfrer Hut;</l>
+            <l>Mit Spieß und Karst und Sense treibt er den Angriff ab,</l>
+            <l>Wer todt zu Boden sinket, hat hier nicht weit in’s Grab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

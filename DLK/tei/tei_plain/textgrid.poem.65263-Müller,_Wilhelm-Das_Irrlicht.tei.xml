@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Irrlicht</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">184</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1810</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Irrlicht</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In die tiefsten Felsengründe</l>
+            <l>Lockte mich ein Irrlicht hin:</l>
+            <l>Wie ich einen Ausgang finde,</l>
+            <l>Liegt nicht schwer mir in dem Sinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bin gewohnt das irre Gehen,</l>
+            <l>'s führt ja jeder Weg zum Ziel:</l>
+            <l>Unsre Freuden, unsre Wehen,</l>
+            <l>Alles eines Irrlichts Spiel!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch des Bergstroms trockne Rinnen</l>
+            <l>Wind' ich ruhig mich hinab –</l>
+            <l>Jeder Strom wird 's Meer gewinnen,</l>
+            <l>Jedes Leiden auch ein Grab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In die tiefsten Felsengründe</l>
+            <l>Lockte mich ein Irrlicht hin:</l>
+            <l>Wie ich einen Ausgang finde,</l>
+            <l>Liegt nicht schwer mir in dem Sinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bin gewohnt das irre Gehen,</l>
+            <l>'s führt ja jeder Weg zum Ziel:</l>
+            <l>Unsre Freuden, unsre Wehen,</l>
+            <l>Alles eines Irrlichts Spiel!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch des Bergstroms trockne Rinnen</l>
+            <l>Wind' ich ruhig mich hinab –</l>
+            <l>Jeder Strom wird 's Meer gewinnen,</l>
+            <l>Jedes Leiden auch ein Grab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

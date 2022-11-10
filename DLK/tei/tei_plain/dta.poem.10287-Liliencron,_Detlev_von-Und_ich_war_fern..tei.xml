@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Und ich war fern.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">256</measure>
+        <measure type="tokens">181</measure>
+        <measure type="characters">998</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Und ich war fern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hat mich ein Traum aus dem Schlafe geweckt,             </l>
+            <l>Und schwarze Blumen ums Bett mir gesteckt.</l>
+            <l>Ich sah dich krank und im Fieber liegen,</l>
+            <l>Und sah deine Lieben sich über dich biegen.</l>
+            <l>Du riefst meinen Namen, und ob ich nicht käme,</l>
+            <l>Und dich wie sonst in die Arme nähme.</l>
+            <l>Im Zimmer suchte dein Auge nach mir,</l>
+            <l>Und suchte voll Liebe: ach, wärest du hier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wieder hat mich ein Traum geweckt,</l>
+            <l>Und schwarze Blumen ums Bett mir gesteckt.</l>
+            <l>Du lagst ohne Sprache, umringt von den Deinen,</l>
+            <l>Ich hörte sie schluchzen, ich hörte sie weinen.</l>
+            <l>Es tastet nach mir deine Hand auf der Decke,</l>
+            <l>Daß ich sie zum Letzten mit Küssen bedecke.</l>
+            <l>O Liebster, O Liebster, zum Abschied die Hand —</l>
+            <l>Auf Halbmast fielen die Fahnen im Land.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wieder hat mich ein Traum erschreckt,</l>
+            <l>Und schwarze Blumen ums Bett mir gesteckt.</l>
+            <l>Im Saale standen erloschene Kerzen:</l>
+            <l>Ach, wär ich gestorben an deinem Herzen.</l>
+            <l>Ich sah deinen Sarg und hörte die Glocken,</l>
+            <l>Ich fühlte wie mir die Pulse stocken.</l>
+            <l>Es folgte im Zuge die ganze Welt,</l>
+            <l>Aus Liebe, aus Liebe zu dir gesellt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

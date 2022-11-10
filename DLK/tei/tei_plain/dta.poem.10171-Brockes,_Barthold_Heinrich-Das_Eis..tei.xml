@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Eis.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-6 2-4 3-6</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">683</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Eis.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach nimm, o Mensch, des Schöpfers Lieb und Macht,</l>
+            <l>Der iede Creatur, mehr als man glaubt, geniesset,</l>
+            <l>Am schroffen Eis’ aufs neu in Acht!</l>
+            <l>Da es, trotz seiner Härtigkeit,</l>
+            <l>Doch von so seltener Beschaffenheit,</l>
+            <l>Daß es gar leicht zerschmeltzt und schnell zerfliesset.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn, da es Felsen-hart, es Felsen-gleich auch</l>
+            <l>Und es die Wärme nicht so leicht zerstöhrte;</l>
+            <l>Welch Elend würde nicht im Wasser, auf der Erden,</l>
+            <l>Von ieder Creatur empfunden werden!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ihr demnach, wie schnell das härtest’ Eis zergehet,</l>
+            <l>Und durch des Zephirs Hauch zu Wasser wird, ersehet,</l>
+            <l>Auch wie die Härte sich so leicht entsteinet;</l>
+            <l>Ach so gedenckt dabey:</l>
+            <l>Daß dieß, mehr als man leider meinet,</l>
+            <l>Ein Wunder-Werck des weisen Schöpfers sey.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

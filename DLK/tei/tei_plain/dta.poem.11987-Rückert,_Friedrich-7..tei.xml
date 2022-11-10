@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">7.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">177</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">673</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>7.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es war ein reicher Mann, der in der Wüste Mitten</l>
+            <l>Ein Labehaus gebaut für die des Weges schritten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein Verwalter war von ihm darein gesetzt,</l>
+            <l>Der jeden Durstigen mit frischem Trunke letzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und von den Wanderern die meisten dankbar priesen</l>
+            <l>Den Schenker, nicht den Herrn, ders eingeschenkt durch diesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum einer dachte, was er jenem schuldig sei,</l>
+            <l>Und dacht' ers, so vergaß er diesen dann dabei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die schlimmsten waren doch, die ihren Trunk empfiengen,</l>
+            <l>Und ohne Dank für den und jenen weiter giengen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch nicht der Reiche noch sein Gutsverwalter ließen</l>
+            <l>Danklose Durstige zu laben sich verdrießen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer ist der reiche Mann? dort Gott der ewige,</l>
+            <l>Und sein Verwalter hier jeder Freigebige.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

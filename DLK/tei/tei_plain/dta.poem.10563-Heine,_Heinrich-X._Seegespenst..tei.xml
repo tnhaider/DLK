@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">X.  
+  Seegespenst.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">497</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>X.  
+  Seegespenst.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich aber lag am Rande des Schiffes,</l>
+            <l>Und schaute, träumenden Auges,</l>
+            <l>Hinab in das spiegelklare Wasser,</l>
+            <l>Und schaute tiefer und tiefer —</l>
+            <l>Bis tief, im Meeresgrunde,</l>
+            <l>Anfangs wie dämmernde Nebel,</l>
+            <l>Jedoch allmählig farbenbestimmter,</l>
+            <l>Kirchenkuppel und Thürme sich zeigten</l>
+            <l>Und endlich, sonnenklar, eine ganze Stadt,</l>
+            <l>Alterthümlich niederländisch,</l>
+            <l>Und menschenbelebt.</l>
+            <l>Bedächtige Männer, schwarzbemäntelt,</l>
+            <l>Mit weißen Halskrausen und Ehrenketten</l>
+            <l>Und langen Degen und langen Gesichtern,</l>
+            <l>Schreiten über den wimmelnden Marktplatz</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

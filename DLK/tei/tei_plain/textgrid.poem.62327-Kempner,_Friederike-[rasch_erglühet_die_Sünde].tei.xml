@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[rasch erglühet die Sünde]</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">418</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[rasch erglühet die Sünde]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rasch erglühet die Sünde,</l>
+            <l>Wie jegliche Leidenschaft,</l>
+            <l>Sicher auf Blumengewinde</l>
+            <l>Wandelt die ruhige Kraft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Würde nur und Ruhe</l>
+            <l>Verleihen uns Macht und Kraft,</l>
+            <l>Was auch die Leidenschaft tue,</l>
+            <l>Das Rechte sie niemals schafft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rasch erglühet die Sünde,</l>
+            <l>Wie jegliche Leidenschaft,</l>
+            <l>Sicher auf Blumengewinde</l>
+            <l>Wandelt die ruhige Kraft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Würde nur und Ruhe</l>
+            <l>Verleihen uns Macht und Kraft,</l>
+            <l>Was auch die Leidenschaft tue,</l>
+            <l>Das Rechte sie niemals schafft.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

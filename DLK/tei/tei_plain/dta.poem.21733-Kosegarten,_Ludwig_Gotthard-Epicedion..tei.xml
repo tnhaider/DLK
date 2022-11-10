@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Epicedion.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">29</measure>
+        <measure type="verses_per_stanza">1-19 2-10</measure>
+        <measure type="syllables">199</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">724</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Epicedion.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Edmund und Ida sind hin. Sie haben des schö-
+neren Lebens</l>
+            <l>Bis auf die Hefen geschlürft. Lasset in Frie-</l>
+            <l>Wenige bittere Hefen nur blieben im güldenen</l>
+            <l>Becher.</l>
+            <l>Dem, der des Weines geschmeckt, widert der</l>
+            <l>schaalere Rest.</l>
+            <l>Lasset hinüber sie ziehn zur Insel der Uranionen,</l>
+            <l>Wo um </l>
+            <l>Wo um </l>
+            <l>verschmachtet,</l>
+            <l>Um </l>
+            <l>Achill.</l>
+            <l>Wo gelöst von den Banden des Stoffs, vom Stachel</l>
+            <l>des Triebes,</l>
+            <l>Höchste Schönheit, an dir sich die Vergötter-</l>
+            <l>Froh des erhöheten Seyns, sich selig fühlend im</l>
+            <l>Anschaun,</l>
+            <l>Ruhig im heitern Genuss, ledig des Sporns der</l>
+            <l>Begier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schönere </l>
+            <l>Insel.</l>
+            <l>Edlere </l>
+            <l>Strom.</l>
+            <l>Jede Erinn'rung verblasst des gemeineren irdischen</l>
+            <l>Lebens.</l>
+            <l>Alles erlischt, was uns mahnt an die Gewalt</l>
+            <l>der Natur.</l>
+            <l>Du nur schimmerst beglaubigt, o Ahnung erhabne-</l>
+            <l>Die uns durchblitzte, wenn uns </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

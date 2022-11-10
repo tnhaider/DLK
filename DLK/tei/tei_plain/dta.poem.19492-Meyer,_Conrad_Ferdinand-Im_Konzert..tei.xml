@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Im Konzert.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">863</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Im Konzert.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heut im Konzerte hielt ich Zwiegespräch</l>
+            <l>Mit einem allerliebsten Mädchenhals,</l>
+            <l>Der aus derselben Bank geschimmert schon</l>
+            <l>Ein früher Mal ... Du hattest, sagt' ich ihm,</l>
+            <l>Ein schmales Kettlein an, besinne dich!</l>
+            <l>Vielteilig, sein gefügt, von blassem Gold,</l>
+            <l>Süß leuchtend aus dem Dunkel des Gewands.</l>
+            <l>Verloren ging's? Vielleicht ist's nur verlegt?</l>
+            <l>Zerbrach es eben erst der Finger Hast?</l>
+            <l>Trug's ein Gespiel davon, ein schmeichelndes?</l>
+            <l>Warf, dich betörend, eine Hand dir's um,</l>
+            <l>Die Treue brach? Du hassest jetzt das Band?</l>
+            <l>Du trauerst, Hälschen? Heute neigst du dich</l>
+            <l>Ein bischen tiefer als das letzte Mal?</l>
+            <l>Der eigenartige Satz: Die Flöte klagt:</l>
+            <l>„das Hälschen neigt sich etwas tiefer heut!“</l>
+            <l>„o dunkles Schicksal!“ dröhnt verhängnisvoll</l>
+            <l>Das melancholische Violoncell ...</l>
+            <l>Ein feines Glöckchen aber spottet hell:</l>
+            <l>„das Kettlein steckt im blauen Sammt des Schreins.</l>
+            <l>Aus einer reinen Laune blieb's zu Haus.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

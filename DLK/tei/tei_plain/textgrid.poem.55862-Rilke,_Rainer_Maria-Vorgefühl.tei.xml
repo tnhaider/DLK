@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorgefühl</title>
+        <author>
+          <persName>
+            <surname>Rilke</surname>
+            <forename>Rainer Maria</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-5 4-4</measure>
+        <measure type="syllables">218</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">842</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1900</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorgefühl</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin wie eine Fahne von Fernen umgeben.</l>
+            <l>Ich ahne die Winde, die kommen, und muß sie leben,</l>
+            <l>während die Dinge unten sich noch nicht rühren:</l>
+            <l>die Türen schließen noch sanft, und in den Kaminen ist Stille;</l>
+            <l>die Fenster zittern noch nicht, und der Staub ist noch schwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da weiß ich die Stürme schon und bin erregt wie das Meer.</l>
+            <l>Und breite mich aus und falle in mich hinein</l>
+            <l>und werfe mich ab und bin ganz allein</l>
+            <l>in dem großen Sturm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin wie eine Fahne von Fernen umgeben.</l>
+            <l>Ich ahne die Winde, die kommen, und muß sie leben,</l>
+            <l>während die Dinge unten sich noch nicht rühren:</l>
+            <l>die Türen schließen noch sanft, und in den Kaminen ist Stille;</l>
+            <l>die Fenster zittern noch nicht, und der Staub ist noch schwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da weiß ich die Stürme schon und bin erregt wie das Meer.</l>
+            <l>Und breite mich aus und falle in mich hinein</l>
+            <l>und werfe mich ab und bin ganz allein</l>
+            <l>in dem großen Sturm.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

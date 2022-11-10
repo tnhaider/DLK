@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">35.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">612</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>35.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du sollst den Stand, auf dem du stehest, nicht verkennen,</l>
+            <l>Vom Ird'schen Ewiges nicht eigenmächtig trennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu beiden bist du da, der Erde Kampf zu streiten,</l>
+            <l>Und dich zum Frieden vor des Himmels zu bereiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer feige Frieden nur sucht für sein eigen Theil,</l>
+            <l>Wird zum Verräther an der Welt gemeinem Heil.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu fördern Menschenglück mit aller Kraft hienieden,</l>
+            <l>Kein Opfer ist zu groß, als nur der Seele Frieden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch laß von keiner Macht, von keinem Ruhm dich zwingen,</l>
+            <l>Von keiner Liebe selbst, dis Opfer ihr zu bringen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist nicht Eigensucht, noch schwerer Pflichten Scheue,</l>
+            <l>Es ist die deinem Ich, dem ew'gen, schuld'ge Treue.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

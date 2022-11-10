@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">über Wittenberg.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-4</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">686</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>über Wittenberg.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist dis für ein Sitz? Was ist dis für ein ort?</l>
+            <l>Ist hier nicht Tullius? nein. Buchner der Beredte/</l>
+            <l>den mann zu rühmen weis/ wo Titan geht zu bette/</l>
+            <l>und wider auffersteht: Was hört man für ein wort?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Götter Ausspruch? nein. Hier ist derselbe port/</l>
+            <l>wo Luther erst mahls harr gestritten ümb die weite</l>
+            <l>und ritterlich zerbrach des Pabstes starcke kette/</l>
+            <l>der uns gefangen hielt: Der Ablas muste fort;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das wort/ das edle wort quoll lauter rein und klar/</l>
+            <l>hier hier erwehlte Gott sein Feuer und Altar;</l>
+            <l>Nun quillt noch weiter fort die himmelische Lehre;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier lehrt der Alten Fürst der große Mann Martin/</l>
+            <l>Herr Röber/ Hülseman/ Scharff/ Sperling viel</l>
+            <l>erzihn/</l>
+            <l>So dann auch werden seyn der Wittenberger Ehre.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Es schlug mein Herz ...</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">674</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1771</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Es schlug mein Herz ...</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schlug mein Herz, geschwind zu Pferd!</l>
+            <l>Und fort! wild, wie ein Held zur Schlacht.</l>
+            <l>Der Abend wiegte schon die Erde,</l>
+            <l>Und an den Bergen hing die Nacht;</l>
+            <l>Schon stund im Nebelkleid die Eiche</l>
+            <l>Wie ein getürmter Riese da,</l>
+            <l>Wo Finsternis aus dem Gesträuche</l>
+            <l>Mit hundert schwarzen Augen sah.</l>
+            <l>Der Mond von einem Wolkenhügel</l>
+            <l>Sah schläfrig aus dem Duft hervor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schlug mein Herz, geschwind zu Pferd!</l>
+            <l>Und fort! wild, wie ein Held zur Schlacht.</l>
+            <l>Der Abend wiegte schon die Erde,</l>
+            <l>Und an den Bergen hing die Nacht;</l>
+            <l>Schon stund im Nebelkleid die Eiche</l>
+            <l>Wie ein getürmter Riese da,</l>
+            <l>Wo Finsternis aus dem Gesträuche</l>
+            <l>Mit hundert schwarzen Augen sah.</l>
+            <l>Der Mond von einem Wolkenhügel</l>
+            <l>Sah schläfrig aus dem Duft hervor.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

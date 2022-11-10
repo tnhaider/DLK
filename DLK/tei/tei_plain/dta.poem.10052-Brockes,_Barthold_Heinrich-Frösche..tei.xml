@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frösche.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">115</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">460</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frösche.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein so groß als muntrer Geist</l>
+            <l>Sahe jüngst auf meinem Garten, wie wir eben ab-</l>
+            <l>gespeis't,</l>
+            <l>Und die Gegend übersahn,</l>
+            <l>Einen kleinen Lust-Altan.</l>
+            <l>Hier (rieff er), von dieser Cantzel, predigt Brocks der Frö-</l>
+            <l>sche Chor</l>
+            <l>Etwas vor.</l>
+            <l>Ich verstand, worauf er zielte, dennoch schwieg ich still,</l>
+            <l>und lachte,</l>
+            <l>Ob ich gleich in meinem Sinn dieß bey seinem Schertz ge-</l>
+            <l>dachte:</l>
+            <l>Ach ich predige nicht ihnen, sondern es ist ümge-</l>
+            <l>kehrt.</l>
+            <l>Ich bin öffters von den Fröschen selbst erbauet und</l>
+            <l>belehrt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

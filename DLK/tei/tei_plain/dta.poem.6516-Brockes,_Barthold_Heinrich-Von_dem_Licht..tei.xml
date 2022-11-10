@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Licht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">454</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Licht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Cörper, so das Licht in unser Auge bringen,</l>
+            <l>Sind überall im gantzen Himmels-Creise,</l>
+            <l>Um sich darinn auf-und von allen Seiten</l>
+            <l>Zu regen und sich auszubreiten.</l>
+            <l>Die Sonne hebt kaum an, dem Schein nach, ihre Reise,</l>
+            <l>So sieht man sie, bewegt, sich allenthalben schwingen.</l>
+            <l>Sie sind an jedem Ort’, auf gleiche Weise</l>
+            <l>Getrieben und gedrückt.</l>
+            <l>In einem Augenblick, im kleinsten Theil der Zeit,</l>
+            <l>Gläntzt alles wunderbar geschmückt,</l>
+            <l>In einem reinen Glantz in klarer Heiterkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

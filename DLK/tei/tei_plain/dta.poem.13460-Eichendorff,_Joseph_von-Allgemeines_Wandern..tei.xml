@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Allgemeines Wandern.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">617</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Allgemeines Wandern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Grund bis zu den Gipfeln,</l>
+            <l>So weit man sehen kann,</l>
+            <l>Jetzt blüht's in allen Wipfeln,</l>
+            <l>Nun geht das Wandern an:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Quellen von den Klüften,</l>
+            <l>Die Ström' auf grünem Plan,</l>
+            <l>Die Lerchen hoch in Lüften,</l>
+            <l>Der Dichter frisch voran.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die im Thal verderben</l>
+            <l>In trüber Sorgen Haft,</l>
+            <l>Er möcht' sie Alle werben</l>
+            <l>Zu dieser Wanderschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und von den Bergen nieder</l>
+            <l>Erschallt sein Lied in's Thal,</l>
+            <l>Und die zerstreuten Brüder</l>
+            <l>Faßt Heimweh allzumal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da wird die Welt so munter</l>
+            <l>Und nimmt die Reiseschuh,</l>
+            <l>Sein Liebchen mitten drunter</l>
+            <l>Die nickt ihm heimlich zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und über Felsenwände</l>
+            <l>Und auf dem grünen Plan</l>
+            <l>Das wirrt und jauchzt ohn' Ende —</l>
+            <l>Nun geht das Wandern an!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

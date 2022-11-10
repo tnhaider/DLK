@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Thierchen ohne Nahmen.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">134</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">531</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Thierchen ohne Nahmen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wolt es schnell erhaschen,</l>
+            <l>Und dann wolt ich es fragen;</l>
+            <l>Wie wohnt es sich bei Schönen?</l>
+            <l>Allein es sprang vom Halse,</l>
+            <l>Und hüpfte nach den Hügeln,</l>
+            <l>Die an dem Halse grenzen.</l>
+            <l>Ich sah es wieder sitzen.</l>
+            <l>Es sah sich um, und lachte,</l>
+            <l>Und, triegen nicht die Minen,</l>
+            <l>So schiens, als wolt es sprechen:</l>
+            <l>Nun solt du mich nicht kriegen,</l>
+            <l>Izt will ich weiter hüpfen.</l>
+            <l>Du darfst mich nicht verfolgen,</l>
+            <l>Wohin ich itzo hüpfe.</l>
+            <l>Du hörtest nicht, Filinde,</l>
+            <l>Als ich zum Thierchen sagte:</l>
+            <l>Adieu du kleiner Springer,</l>
+            <l>Dürft ich dich nur verfolgen,</l>
+            <l>Wie bald wolt ich dich kriegen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

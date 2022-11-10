@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Gesetzen der Bewegung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">201</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">758</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Gesetzen der Bewegung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir aber, die der Sinn verführet,</l>
+            <l>Die wir gewohnt zu sehn, von Jugend auf</l>
+            <l>Daß sich ein Cörper nicht mehr rühret:</l>
+            <l>Wir schliessen: daß er selbst den Lauff</l>
+            <l>Und die Bewegung hemm’ und daß zur Ruh allein</l>
+            <l>Die Kräffte, die er zeigt, von ihm gebrauchet seyn.</l>
+            <l>Wir sollten aber billig dencken,</l>
+            <l>Daß sich der Cörper Lauff nicht selber unterbreche,</l>
+            <l>Daß er sich selber nie verringere noch schwäche,</l>
+            <l>Wofern ihm nichts im Wege stünde</l>
+            <l>Und er nicht seine Krafft dadurch verringert fünde.</l>
+            <l>Man muß hiebey zugleich auch dies erwegen:</l>
+            <l>Es muß ein jedes Ding in seinem Stande bleiben,</l>
+            <l>Wofern ihn andre nicht aus selben treiben.</l>
+            <l>Es kan ja die Natur selbst keinem auferlegen</l>
+            <l>Daß es sich selbst durch sich zerstöhre.</l>
+            <l>Und folgt dahero ganz gewis,</l>
+            <l>Daß eine fremde Hindernis,</l>
+            <l>Die jedes ändere, dazu gehöre.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

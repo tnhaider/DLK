@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der junge Götterbaum</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-4 3-2 4-2 5-4 6-2</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">746</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der junge Götterbaum</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein junger Götterbaum hat heut zum Gruß entboten.</l>
+            <l>Die eben aufgeschlossen Tulpenblüten, die scharlachroten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und liege ich zur heißen Stunde auf dem Bett,</l>
+            <l>Dünkt mich, er hält die Blumen hin aufs Fensterbrett.</l>
+            <l>Der Baum steht flammend auf der Straße</l>
+            <l>Mit seiner großen Blüten Scharlachmasse.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Glückliche, der hell der Liebe Leben zeigt,</l>
+            <l>Das ihm durch das Geäder seiner Äste steigt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein junger Götterbaum hat heut zum Gruß entboten.</l>
+            <l>Die eben aufgeschlossen Tulpenblüten, die scharlachroten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und liege ich zur heißen Stunde auf dem Bett,</l>
+            <l>Dünkt mich, er hält die Blumen hin aufs Fensterbrett.</l>
+            <l>Der Baum steht flammend auf der Straße</l>
+            <l>Mit seiner großen Blüten Scharlachmasse.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Glückliche, der hell der Liebe Leben zeigt,</l>
+            <l>Das ihm durch das Geäder seiner Äste steigt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

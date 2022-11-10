@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ii.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">500</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1666</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20424-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ii.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer einen Garten-Platz beliebet anzulegen/</l>
+            <l>So neben sůsser Lust zugleich auch Nutz sol</l>
+            <l>Der ist auf gut Gewächs’/ und was die</l>
+            <l>Bey Tag und Nacht bedacht/ biß Er Ver-</l>
+            <l>So lest Herr Neumark auch itzt einen Garten</l>
+            <l>Darinnen anders Nichts/ denn schöne Früchte</l>
+            <l>Die von sehr großem Nutz und Ziehrden unter-</l>
+            <l>Die Jhm’ Apollo selbst von seinem Pindus</l>
+            <l>Wer nun Vergnügung sucht vor seine kluge Sin-</l>
+            <l>Der wandle nur hinein/ Er findet Sie darinnen/</l>
+            <l>Er wird/ (ich weiß gewiß) auch wünschen ne-</l>
+            <l>Der Gärtner lebe wol/ und bring’ Uns</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

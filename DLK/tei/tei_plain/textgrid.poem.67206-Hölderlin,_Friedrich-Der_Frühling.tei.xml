@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Frühling</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">684</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Frühling</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mensch vergißt die Sorgen aus dem Geiste,</l>
+            <l>Der Frühling aber blüht, und prächtig ist das meiste,</l>
+            <l>Das grüne Feld ist herrlich ausgebreitet,</l>
+            <l>Da glänzend schön der Bach hinuntergleitet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Berge stehn bedecket mit den Bäumen,</l>
+            <l>Und herrlich ist die Luft in offnen Räumen,</l>
+            <l>Das weite Tal ist in der Welt gedehnet</l>
+            <l>Und Turm und Haus an Hügeln angelehnet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mensch vergißt die Sorgen aus dem Geiste,</l>
+            <l>Der Frühling aber blüht, und prächtig ist das meiste,</l>
+            <l>Das grüne Feld ist herrlich ausgebreitet,</l>
+            <l>Da glänzend schön der Bach hinuntergleitet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Berge stehn bedecket mit den Bäumen,</l>
+            <l>Und herrlich ist die Luft in offnen Räumen,</l>
+            <l>Das weite Tal ist in der Welt gedehnet</l>
+            <l>Und Turm und Haus an Hügeln angelehnet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

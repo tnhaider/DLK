@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Zufriedenen .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">475</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Zufriedenen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich saß bei jener Linde</l>
+            <l>Mit meinem trauten Kinde,</l>
+            <l>Wir saßen Hand in Hand.</l>
+            <l>Kein Blättchen rauscht’ im Winde,</l>
+            <l>Die Sonne schien gelinde</l>
+            <l>Herab auf’s stille Land.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir saßen ganz verschwiegen,</l>
+            <l>Mit innigem Vergnügen,</l>
+            <l>Das Herz kaum merklich schlug.</l>
+            <l>Was sollten wir auch sagen?</l>
+            <l>Was konnten wir uns fragen?</l>
+            <l>Wir wußten ja genug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es mocht’ uns nichts mehr fehlen,</l>
+            <l>Kein Sehnen konnt’ uns quälen,</l>
+            <l>Nichts Liebes war uns fern.</l>
+            <l>Aus liebem Aug’ ein Grüssen,</l>
+            <l>Vom lieben Mund ein Küssen</l>
+            <l>Gab Eins dem Andern gern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

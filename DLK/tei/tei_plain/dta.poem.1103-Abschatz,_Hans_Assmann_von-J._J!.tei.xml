@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">J. J!</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">678</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>J. J!</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach herber Todes-Fall! Abschatz wird uns entrissen/ </l>
+            <l>Das Eh-Gemahl das folgt/ ein Merckmahl das was</l>
+            <l>hat </l>
+            <l>Von Seltenem in sich/ es klaget Land und Stadt/</l>
+            <l>Es fället uns nun weg/ wir müssen nun vermissen/</l>
+            <l>Von dem der Käyser selbst und seine Grossen wissen.</l>
+            <l>Hier fand man Unterricht/ hier fand man klugen Rath:</l>
+            <l>Die Tugend war sein Weg/ die Treue war sein Pfad.</l>
+            <l>Die Teutsche Tichter-Welt kunt’ ihn vor Meister grüssen.</l>
+            <l>Der Edlen Auge schläfft/ es schweigt der Stände Mund:</l>
+            <l>Wer wird uns ferner nun/ was nöthig/ machen kund?</l>
+            <l>Wer wird des Käysers Dienst/ des Landes Heyl erwe-</l>
+            <l>gen? </l>
+            <l>Danckt unsrem </l>
+            <l>So wird des HErren Huld uns wieder blicken an:</l>
+            <l>Bloß Danck und Danckbarkeit kan bringen uns den Se-</l>
+            <l>gen. </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Still, ohne Pracht; doch sicher, daß man's merke:</title>
+        <author>
+          <persName>
+            <surname>Voß</surname>
+            <forename>Johann Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">90</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">372</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1778</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Still, ohne Pracht; doch sicher, daß man's merke:</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Still, ohne Pracht; doch sicher, daß man's merke:</l>
+            <l>So schreiten Prinz und Dogg' einher in ihrer Stärke.</l>
+            <l>In Seid' und Schellen prunkt und bellt und flucht mit Zeter</l>
+            <l>Der Junker und sein Köter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Still, ohne Pracht; doch sicher, daß man's merke:</l>
+            <l>So schreiten Prinz und Dogg' einher in ihrer Stärke.</l>
+            <l>In Seid' und Schellen prunkt und bellt und flucht mit Zeter</l>
+            <l>Der Junker und sein Köter.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

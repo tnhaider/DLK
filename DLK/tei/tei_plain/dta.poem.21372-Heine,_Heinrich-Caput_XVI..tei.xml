@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XVI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">532</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XVI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Guillotiniren – erklärte ich ihm –</l>
+            <l>Ist eine neue Methode,</l>
+            <l>Womit man die Leute jeglichen Stands</l>
+            <l>Vom Leben bringt zu Tode.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bey dieser Methode bedient man sich</l>
+            <l>Auch einer neuen Maschine,</l>
+            <l>Die hat erfunden Herr Guillotin,</l>
+            <l>Drum nennt man sie Guillotine.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst hier an ein Brett geschnallt; –</l>
+            <l>Das senkt sich; – du wirst geschoben</l>
+            <l>Geschwinde zwischen zwey Pfosten; – es hängt</l>
+            <l>Ein dreyeckig Beil ganz oben; –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man zieht eine Schnur, dann schießt herab</l>
+            <l>Das Beil, ganz lustig und munter; –</l>
+            <l>Bey dieser Gelegenheit fällt dein Kopf</l>
+            <l>In einen Sack hinunter.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

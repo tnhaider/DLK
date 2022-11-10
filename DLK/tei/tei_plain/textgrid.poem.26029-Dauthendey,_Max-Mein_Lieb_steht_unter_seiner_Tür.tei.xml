@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mein Lieb steht unter seiner Tür</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">534</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mein Lieb steht unter seiner Tür</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glocken wandern von Haus zu Haus</l>
+            <l>Und teilen Freudenkleider aus.</l>
+            <l>Mein Lieb steht unter seiner Tür,</l>
+            <l>Seligkeit schmückt sie wie Sommerzier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Glocken haben Wege gebaut,</l>
+            <l>Und alle Wege frohlocken laut.</l>
+            <l>Mir läutet das Blut wie ein Glockenschwarm,</l>
+            <l>Alle Wege führen in meinen Arm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glocken wandern von Haus zu Haus</l>
+            <l>Und teilen Freudenkleider aus.</l>
+            <l>Mein Lieb steht unter seiner Tür,</l>
+            <l>Seligkeit schmückt sie wie Sommerzier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Glocken haben Wege gebaut,</l>
+            <l>Und alle Wege frohlocken laut.</l>
+            <l>Mir läutet das Blut wie ein Glockenschwarm,</l>
+            <l>Alle Wege führen in meinen Arm.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

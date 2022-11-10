@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Abtrünnigen.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">159</measure>
+        <measure type="characters">855</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Abtrünnigen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Wasser sprach zum Eise: „Kind,</l>
+            <l>So bleib doch nicht so stehn!</l>
+            <l>Der Weg ist weit, die Zeit verrinnt,</l>
+            <l>Wir müssen weiter gehn.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„„Leb wohl! ich kehre nicht zurück,</l>
+            <l>Leb wohl! ich bleibe hier:</l>
+            <l>Beschert ward mir ein höhres Glück,</l>
+            <l>Jetzt bin ich mehr als ihr.““</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„komm aus dem Himmel doch geschwind!“</l>
+            <l>Sprach's Wasser zu dem Schnee,</l>
+            <l>„der Weg ist weit, die Zeit verrinnt,</l>
+            <l>Wir müssen in die See.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„„Leb wohl und grüß das Vaterland!</l>
+            <l>Ich gehe nicht mit dir:</l>
+            <l>Jetzt hab' ich einen höhern Stand,</l>
+            <l>Jetzt bin ich mehr als ihr.““ —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So bliebt ihr Freund' uns auch zurück,</l>
+            <l>Weil Stillstand euch gefiel;</l>
+            <l>Ihr suchtet nur ein andres Glück,</l>
+            <l>Ein andres Lebensziel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einst gingen wir wohl Hand in Hand,</l>
+            <l>Die Mutter rief so laut —</l>
+            <l>Die Mutter war das Vaterland,</l>
+            <l>Die Freiheit unsre Braut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr die ihr Eis und Schnee jetzt seid</l>
+            <l>Und dünkt euch mehr als wir,</l>
+            <l>O wartet nur, es kommt die Zeit</l>
+            <l>Und — Wasser seid auch ihr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

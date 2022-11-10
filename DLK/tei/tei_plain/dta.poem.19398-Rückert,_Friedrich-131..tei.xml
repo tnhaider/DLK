@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">131.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">619</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>131.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selbliebe liebte gern sich selber ungestört,</l>
+            <l>Und ist von allem, was darin sie stört, empört.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie möchte seyn, um nur recht lieben sich zu können,</l>
+            <l>Recht liebenswürdig, und sich jeden Vorzug gönnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entdecken muß sie da mit Schrecken manchen Flecken;</l>
+            <l>Was bleibt ihr denn, als ihn verdecken und verstecken?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verstecken vor der Welt, daß schön der Welt sie scheine;</l>
+            <l>Verdecken vor sich selbst, daß sie es selber meine.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch meinen kann sie's nie recht ungestört und still,</l>
+            <l>Und meint stets, daß die Welt nicht recht es meinen will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Straft ihr die Heuchlerinn? sie straft die Heuchelei;</l>
+            <l>Sie selbst nur weiß, wie schwer die hole Maske sei.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

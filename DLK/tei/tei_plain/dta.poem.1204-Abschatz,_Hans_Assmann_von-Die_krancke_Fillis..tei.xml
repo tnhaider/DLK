@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die krancke Fillis.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">103</measure>
+        <measure type="characters">586</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die krancke Fillis.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach Amor/ soll ich dir nicht klagen meine Noth!</l>
+            <l>Ich seh die Fillis hier in meinen Armen liegen;</l>
+            <l>Die matte Seele will dem siechen Leib’ entfliegen;</l>
+            <l>Stirbt sie/ so ist dein Ruhm und meine Freude todt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach/ schick ihr kühle Lufft mit deinen Flügeln zu/</l>
+            <l>Laß deine zarte Sehn ihr kranckes Haubt umschlüssen/</l>
+            <l>Gib deinen Köcher her zu legen unters Küssen/</l>
+            <l>Damit ihr Leib erhöht kan nehmen seine Ruh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verwechsle mit Betrug dem Tode seinen Pfeil/</l>
+            <l>Daß sie dein heilsam Gold empfind in ihrem Hertzen/</l>
+            <l>Wenn ihr sein rauher Stahl soll bringen Todes-Schmertzen/</l>
+            <l>So machest du (in ihr und mir) zwey Hertzen heil.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Phillis</title>
+        <author>
+          <persName>
+            <surname>Götz</surname>
+            <forename>Nicolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">948</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1751</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Phillis</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich merke, daß die Flur, die Stadt, die ganze Welt,</l>
+            <l>Mir itzo wiederum, auch ohne dich, gefällt;</l>
+            <l>Ich höre dich nicht mehr, wie sonst, erröthend nennen,</l>
+            <l>Und kann mich überall, gelaßen, von dir trennen.</l>
+            <l>Ich glühe Tags nicht mehr, dir immer nachzuziehn;</l>
+            <l>In Träumen seh ich dich auch Nachts nicht mehr entfliehn.</l>
+            <l>Kein Blick von dir findt mehr den Weg zu meinem Herzen;</l>
+            <l>Dein Lächeln macht mir nicht, wie vormahls, süse Schmerzen.</l>
+            <l>Ich bin kein König mehr, ertheilstu mir Gehör;</l>
+            <l>Und glaube, </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich merke, daß die Flur, die Stadt, die ganze Welt,</l>
+            <l>Mir itzo wiederum, auch ohne dich, gefällt;</l>
+            <l>Ich höre dich nicht mehr, wie sonst, erröthend nennen,</l>
+            <l>Und kann mich überall, gelaßen, von dir trennen.</l>
+            <l>Ich glühe Tags nicht mehr, dir immer nachzuziehn;</l>
+            <l>In Träumen seh ich dich auch Nachts nicht mehr entfliehn.</l>
+            <l>Kein Blick von dir findt mehr den Weg zu meinem Herzen;</l>
+            <l>Dein Lächeln macht mir nicht, wie vormahls, süse Schmerzen.</l>
+            <l>Ich bin kein König mehr, ertheilstu mir Gehör;</l>
+            <l>Und glaube, </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

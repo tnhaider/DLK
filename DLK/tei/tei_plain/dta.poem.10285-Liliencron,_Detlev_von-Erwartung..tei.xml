@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erwartung.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">556</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erwartung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Turm und Thor und Mauerkranz,             </l>
+            <l>Auf rauschende, dunkle Tannen,</l>
+            <l>Fällt Flammenschein und Lichtertanz</l>
+            <l>Von Fackeln und aus Pfannen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Weib steht an des Söllers Rand,</l>
+            <l>Es nimmt der Wind ihre Rede:</l>
+            <l>Mein Trauter zog in’s Niederland,</l>
+            <l>Er zog in die blutige Fehde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und hört sie nicht Zinken und Siegesgeschrei,</l>
+            <l>Und sieht seinen Helm sie nicht blinken?</l>
+            <l>Im Walde nur singt auf der Wiese die Fei,</l>
+            <l>Ein Stern thät niedersinken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Morgen graut, die Welt ist so leer,</l>
+            <l>Die Welt ist voll Herzeleide.</l>
+            <l>Wen tragen auf langen Spießen sie her,</l>
+            <l>Sie fanden ihn tot auf der Heide.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

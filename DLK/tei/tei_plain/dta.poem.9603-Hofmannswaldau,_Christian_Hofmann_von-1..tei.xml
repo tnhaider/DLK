@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">263</measure>
+        <measure type="tokens">183</measure>
+        <measure type="characters">1054</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ljsette hat mein hertz auß meiner brust gerißen/</l>
+            <l>Und läugnet den verübten raub/</l>
+            <l>Sie ist vor meinen bitten taub</l>
+            <l>Und will nicht vom verlust/ noch von erstattung wissen.</l>
+            <l>Mein hertze selbst bekennt/ es leb allein in ihr;</l>
+            <l>Sie aber spricht darzu: sie habe nichts von mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein hertze daurt mich nicht/ Lisette mag es haben/</l>
+            <l>Ich liefr es selbst ihr willig ein/</l>
+            <l>Wo kan wol selbes besser seyn?</l>
+            <l>Nur sie verläugne nicht/ daß es in ihr begraben.</l>
+            <l>Ein sclav erschrickt so sehr vor seinen fesseln nicht/</l>
+            <l>Wenn er nur wissen soll/ wer selbe zugericht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gestehs/ Lisette/ nur/ du hast es doch genommen/</l>
+            <l>Der himmel weiset selbst auff dich/</l>
+            <l>Ich suche auch sonst nirgends mich:</l>
+            <l>Ich weiß ja/ wer da hat mein bestes theil bekommen/</l>
+            <l>Dein atlaß-weiche hand hats ja aus mir gerückt/</l>
+            <l>Als ich sie unverhofft an meine brust gebrückt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Behalts/ Lisette/ denn/ es soll dir zugehören/</l>
+            <l>Nicht schäme dich des schlechten guts:</l>
+            <l>Das kleinste tröpfchen seines bluts</l>
+            <l>Soll mit besondrer art dich/ meine göttin/ ehren.</l>
+            <l>Nur gönne/ daß mir diß zum ruhme werd’ gesetzt:</l>
+            <l>Des schönsten leibes ist mein hertze werth geschätzt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

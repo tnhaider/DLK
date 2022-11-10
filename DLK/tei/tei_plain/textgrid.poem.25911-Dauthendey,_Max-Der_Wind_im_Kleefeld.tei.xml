@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Wind im Kleefeld</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">502</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Wind im Kleefeld</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Steht die Liebste an der Mauer,</l>
+            <l>Sieht zum weichen Kleefeld hin,</l>
+            <l>Sieht den Wind im Acker streichen,</l>
+            <l>Furchen durch die Gräser ziehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denkt: so schneiden die Gedanken</l>
+            <l>Stündlich sehnend in mein Blut;</l>
+            <l>Kann nicht gründlich unterscheiden,</l>
+            <l>Ob es wohl, ob's wehe tut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Steht die Liebste an der Mauer,</l>
+            <l>Sieht zum weichen Kleefeld hin,</l>
+            <l>Sieht den Wind im Acker streichen,</l>
+            <l>Furchen durch die Gräser ziehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denkt: so schneiden die Gedanken</l>
+            <l>Stündlich sehnend in mein Blut;</l>
+            <l>Kann nicht gründlich unterscheiden,</l>
+            <l>Ob es wohl, ob's wehe tut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Geht ein Storch dort in dem Mühlenbach,</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">636</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Geht ein Storch dort in dem Mühlenbach,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht ein Storch dort in dem Mühlenbach,</l>
+            <l>Geht spazieren fein gemach.</l>
+            <l>Kaum bemerkt's ein Frosch und er musicirt,</l>
+            <l>Und da hat der Storch gleich ihn verschnabelirt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als von fern das nun ein andrer sieht,</l>
+            <l>Duckt er still, still sich ins Ried:</l>
+            <l>»hätt'st geschwiegen du doch zu rechter Zeit,</l>
+            <l>Konnt'st du musiciren auch noch anderweit.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht ein Storch dort in dem Mühlenbach,</l>
+            <l>Geht spazieren fein gemach.</l>
+            <l>Kaum bemerkt's ein Frosch und er musicirt,</l>
+            <l>Und da hat der Storch gleich ihn verschnabelirt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als von fern das nun ein andrer sieht,</l>
+            <l>Duckt er still, still sich ins Ried:</l>
+            <l>»hätt'st geschwiegen du doch zu rechter Zeit,</l>
+            <l>Konnt'st du musiciren auch noch anderweit.«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

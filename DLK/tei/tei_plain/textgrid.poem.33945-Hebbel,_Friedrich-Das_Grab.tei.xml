@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Grab</title>
+        <author>
+          <persName>
+            <surname>Hebbel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">158</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">672</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Grab</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir war, als müßt' ich graben</l>
+            <l>Und grub gar tief hinab;</l>
+            <l>Grub in die Läng' und Breite,</l>
+            <l>Am Ende ward's ein Grab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>War, weiß nicht wie, gezwungen,</l>
+            <l>Hab's nimmer gern gethan,</l>
+            <l>Doch sollt' ich, was ich wünschte,</l>
+            <l>Zuletzt als Lohn empfah'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Grab war aufgeworfen,</l>
+            <l>Matt sank mir Arm und Bein,</l>
+            <l>Ich hatte Nichts mehr zu wünschen</l>
+            <l>Und legte mich selbst hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir war, als müßt' ich graben</l>
+            <l>Und grub gar tief hinab;</l>
+            <l>Grub in die Läng' und Breite,</l>
+            <l>Am Ende ward's ein Grab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>War, weiß nicht wie, gezwungen,</l>
+            <l>Hab's nimmer gern gethan,</l>
+            <l>Doch sollt' ich, was ich wünschte,</l>
+            <l>Zuletzt als Lohn empfah'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Grab war aufgeworfen,</l>
+            <l>Matt sank mir Arm und Bein,</l>
+            <l>Ich hatte Nichts mehr zu wünschen</l>
+            <l>Und legte mich selbst hinein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

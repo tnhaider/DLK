@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiI.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">121</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">465</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft auch nehm' ich mich zusammen vor den Leuten, dir</l>
+            <l>Oft in deiner Freunde Zirkel hab' ich angehört geduldig</l>
+            <l>Worte, welche nichts verfangen, nichts bedeuten, dir</l>
+            <l>Und damit des Lenzes Reize sich erhöhn in meinen</l>
+            <l>Denk' ich, daß sich Flur und Garten nur erneuten dir</l>
+            <l>Auf verschiednen Wegen haben sich der Trunkenheit er-</l>
+            <l>Für sich selbst die Stumpfgesinnten, die Gescheuten dir</l>
+            <l>Laß in deinem Schatten endlich schlummern uns, o</l>
+            <l>Da wir nur zu lang' an Schatten uns erfreuten, dir</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

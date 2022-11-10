@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Lieb-erfreute  
+  FJLAMON .</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">93</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">367</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1666</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20424-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Lieb-erfreute  
+  FJLAMON .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwey Ding’ in dieser Welt mit Glantz für andern prahlen/</l>
+            <l>Der Liebsten Angesicht/ und </l>
+            <l>Das schönste Sternen-Heer/ so bey der Sonnen steht/</l>
+            <l>Verleuret seinen Schein/ die Klarheit ihm vergeht;</l>
+            <l>So ist auch Belliflor; die andern müssen weichen/</l>
+            <l>Und wers auch Helena/ sie könte doch nicht gleichen</l>
+            <l>Der Göttlichen Gestalt: Ach möchte sie auch seyn</l>
+            <l>Barmhertzig und gelind’! ‒ ‒ ‒ ‒ ‒</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

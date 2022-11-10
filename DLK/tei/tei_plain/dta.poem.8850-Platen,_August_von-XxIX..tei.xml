@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxIX.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">118</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">461</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxIX.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>D'rum, o Freunde, laßt vergebens nicht verrinnen heut</l>
+            <l>Heut und morgen ist die Summe dieses allzukurzen</l>
+            <l>Und wie schnell, wir wissen's Alle, gehn von hinnen</l>
+            <l>Im topas'nen Kelch der Tulpe schwelgt der Thau als</l>
+            <l>Doch ihn läßt das Gold der Sonne nicht darinnen heut</l>
+            <l>Ein'ge Blätter aus den Rosen hat ein Wind davon ge-</l>
+            <l>Und er wird sie ganz entführen, fürcht' ich, binnen heut</l>
+            <l>Laß den Trank im Becher steigen, denn der Wein des</l>
+            <l>Quillt empor bis an der Berge hohe Zinnen heut und</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

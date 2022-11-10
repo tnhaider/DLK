@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">252</measure>
+        <measure type="tokens">157</measure>
+        <measure type="characters">1000</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tag, schein' herein! Die Kammer steht dir offen!</l>
+            <l>Holdsel'ger Lenzesmorgen, schein' herein!</l>
+            <l>Schon glitzert, von der Sonne Strahl getroffen,</l>
+            <l>Das Tintenfaß, der eichne Bücherschrein.</l>
+            <l>Vogt Winter muß dem Lenze Rechnung geben,</l>
+            <l>Dem schönen Erben über Hof und Haus —</l>
+            <l>Auch mir zu gut geschrieben ist ein Leben —</l>
+            <l>Tag, schein' herein und, Leben, flieh hinaus!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich war von einem schweren Bann gebunden.</l>
+            <l>Ich lebte nicht. Ich lag im Traum erstarrt.</l>
+            <l>Von vielen tausend unverbrauchten Stunden</l>
+            <l>Schwillt ungestüm mir nun die Gegenwart.</l>
+            <l>Aus dunkelm Grunde grüne Saat zu wecken</l>
+            <l>Bedarf es Sonnenstrahles nur und Thaus,</l>
+            <l>Ich fühle wie sich tausend Keime strecken.</l>
+            <l>Tag, schein' herein und, Leben, flieh hinaus!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Segel zieht auf wunderkühlen Pfaden,</l>
+            <l>In Flutendunkel spiegelt sich der Tag.</l>
+            <l>Was hat die Barke dort für mich geladen?</l>
+            <l>Vielleicht ist's etwas das mich freuen mag!</l>
+            <l>Entgegen ihr! Was wird die Barke bringen</l>
+            <l>Durch blauer Wellen freudiges Gebraus?</l>
+            <l>Entgegen ihr! Mit weitgestreckten Schwingen!</l>
+            <l>Tag, schein' herein und, Leben, flieh hinaus!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

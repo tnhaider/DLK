@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Arist .</title>
+        <author>
+          <persName>
+            <surname>Bürger</surname>
+            <forename>Gottfried August</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">82</measure>
+        <measure type="tokens">54</measure>
+        <measure type="characters">317</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1778</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519672"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Arist .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn der gute Himmel mir             </l>
+            <l>Ewig, ewig doch vergönte,</l>
+            <l>Daß ich, braver Man, mit dir</l>
+            <l>Meine Tage leben könte!</l>
+            <l>Nimmer, nimmer wolt’ ich dann,</l>
+            <l>Noch nach andern Freuden jagen.</l>
+            <l>Ja, fürwahr! ich wolte dran</l>
+            <l>Kein gemeines Opfer wagen.</l>
+            <l>Lieb’ und Wein wolt’ ich entsagen,</l>
+            <l>Deren doch ein froher Man</l>
+            <l>Nicht gar leicht entrathen kan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

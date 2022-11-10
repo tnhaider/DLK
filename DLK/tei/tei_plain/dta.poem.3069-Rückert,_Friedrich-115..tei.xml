@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">115.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">591</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>115.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und meinest du daß dich die meisten hören werden,</l>
+            <l>Die ihres Weges gehn im Staube wie die Herden?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Hirte dieser Welt führt sie zu Lust und Leide,</l>
+            <l>Zur Schlachtbank führt er sie, zuvor zur Sinnenweide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß ihrer blinden Lust sie nachgehn, der zu schwach</l>
+            <l>Sie sind zu widerstehn, und geh nicht ihnen nach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach geh du jeder Spur, die nur das Auge spürt</l>
+            <l>Des Geistes, wo der Geist je Geistige geführt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf, ehr am Boden wo die leise Spur erlischt,</l>
+            <l>Sei sie von deinem Tritt nacheifernd angefrischt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das wird zu Statten nicht nur dir, auch jenen kommen,</l>
+            <l>Die nach dir gleichen Wegs mit gleichem Sehnen kommen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

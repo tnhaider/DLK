@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hohe Station.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">663</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hohe Station.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch an der Windung des Passes bewohn' ich ein niedriges</l>
+            <l>Heut ist vorüber die Post, heut bin ich oben allein.</l>
+            <l>Lehnend am Fenster belausch' ich die Stille des dämmernden</l>
+            <l>Rings kein Laut! Nur der Specht hämmert im harzigen Tann.</l>
+            <l>Leicht aus dem Wald in den Wald hüpft über die Matte das</l>
+            <l>Spielend auf offenem Plan; denn es ist Herr im Bezirk.</l>
+            <l>Jammer! Was hör' ich? Ein schrilles Gesurre: „Gemordet ist</l>
+            <l>„bismarck zürnt im Gezelt!“ „Väterlich segnet der Papst!“</l>
+            <l>Schwirrt in der Luft ein Gerücht? Was gewahr' ich? Ein</l>
+            <l>Unter dem Fenstergesims bebt der electrische Draht,</l>
+            <l>Der, wie die Schläge des Pulses beseelend den Körper der</l>
+            <l>Durch das entlegenste Thal trägt die Geberde der Zeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

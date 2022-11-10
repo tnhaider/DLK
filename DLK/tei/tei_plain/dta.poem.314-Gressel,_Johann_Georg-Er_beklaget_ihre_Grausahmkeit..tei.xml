@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er beklaget ihre Grausahmkeit.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">779</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er beklaget ihre Grausahmkeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tyrannin meiner Brust laß ab mich so zu quählen/</l>
+            <l>Hör’ auf mit deinem Grimm’/ und schone meiner Seelen/</l>
+            <l>Es bringt zwar meine Angst dir/ </l>
+            <l>Jedennoch muß ich stets von dir gefoltert seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erbarm dich meiner Noht/ laß ab mich zu versuchen</l>
+            <l>Wie lange soll dein Zorn auf meine Liebe fluchen?</l>
+            <l>Ich kan ohndem nicht mehr ertragen jene Last</l>
+            <l>Womit du mich/ mein Kind/ so sehr beladen hast.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Bähr’ noch Tyger kan so grausahm sich gebährden</l>
+            <l>Als wie du dich verstelst/ ich muß gefoltert werden/</l>
+            <l>Dein Hertze ist ein Stein/ der niemahls mürbe wird</l>
+            <l>Dein Ohr verstopffet sich wenn meine Kähle girrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kan denn mein Jammer-Stand kein Bey-Leyd mir erwerben/</l>
+            <l>Ist alles Flehn umsonst? wohlan! nun will ich sterben/</l>
+            <l>Gib nur drey Thränen her/ so wird die Todes-Pein</l>
+            <l>Mir lieb und angenehm/ und nicht verdrießlich seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

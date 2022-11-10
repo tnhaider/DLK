@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die jungen Dichter .</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-4 2-6</measure>
+        <measure type="syllables">79</measure>
+        <measure type="tokens">58</measure>
+        <measure type="characters">340</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197104"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die jungen Dichter .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lieben Brüder! es reift unsere Kunst vielleicht,</l>
+            <l>Da, dem Jünglinge gleich, lange sie schon gegährt,</l>
+            <l>Bald zur Stille der Schönheit;</l>
+            <l>Seyd nur fromm, wie der Grieche war!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebt die Götter und denkt freundlich der Sterb-</l>
+            <l>lichen!</l>
+            <l>Haßt den Rausch wie den Frost! lehrt und be-</l>
+            <l>schreibet nicht!</l>
+            <l>Wenn der Meister euch ängstigt,</l>
+            <l>Fragt die große Natur um Rath!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

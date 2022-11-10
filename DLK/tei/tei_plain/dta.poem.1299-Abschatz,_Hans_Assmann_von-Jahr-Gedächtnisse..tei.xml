@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Jahr-Gedächtnisse.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">693</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Jahr-Gedächtnisse.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Jahr/ O höchster GOtt/ ist wieder bracht zu Ende/</l>
+            <l>Wiewohl nicht ohne Creutz und untermengte Pein/</l>
+            <l>Doch daß ich kan gesund und unverletzet seyn/</l>
+            <l>Ist ein Genaden-Werck/ O Schöpffer/ deiner Hände/</l>
+            <l>Darvor ich Himmel au der Lippen Opffer sende/</l>
+            <l>Und stelle mich bey dir mit neuem Bitten ein:</l>
+            <l>Gieb/ grosser Himmels-Fürst/ daß dieses Tages Schein/</l>
+            <l>Was nützet/ zu mir her/ was schadet/ von mir wende.</l>
+            <l>Vergieb die schwere Schuld/ vergiß der ernsten Rache/</l>
+            <l>Verleih/ im fall diß Jahr mein Leben schliessen soll/</l>
+            <l>Daß ich auff dein Verdienst/ O JEsu/ sterbe wohl.</l>
+            <l>Im fall mich deine Gnad in treuem Schutz erhält/</l>
+            <l>So leb ich wohl beglückt in der und jener Welt/</l>
+            <l>So schadet mir noch Tod/ noch Welt/ noch Höllen-Drache.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

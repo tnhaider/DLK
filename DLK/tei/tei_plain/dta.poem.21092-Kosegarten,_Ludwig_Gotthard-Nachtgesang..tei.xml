@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nachtgesang.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">81</measure>
+        <measure type="characters">514</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193300"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nachtgesang.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tiefe Feyer               </l>
+            <l>Schauert um die Welt.</l>
+            <l>Braune Schleyer</l>
+            <l>Hüllen Wald und Feld.</l>
+            <l>Trüb und matt und müde</l>
+            <l>Nickt jedes Leben ein,</l>
+            <l>Und namenloser Friede</l>
+            <l>Umsäuselt alles Seyn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wacher Kummer,</l>
+            <l>Verlass ein Weilchen mich!</l>
+            <l>Goldner Schlummer,</l>
+            <l>Komm und umflügle mich!</l>
+            <l>Trockne meine Thränen</l>
+            <l>Mit deines Schleyers Saum,</l>
+            <l>Und täusche, Freund, mein Sehnen</l>
+            <l>Mit deinem schönsten Traum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blaue Ferne,</l>
+            <l>Hoch über mich erhöht!</l>
+            <l>Heilge Sterne</l>
+            <l>In hehrer Majestät!</l>
+            <l>Sagt mir, ist es stiller,</l>
+            <l>Ihr Funkelnden, bey euch,</l>
+            <l>Als in der Eitelkeiten</l>
+            <l>Aufruhrvollem Reich?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lysander</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">840</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1761</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lysander</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Spiel, der Wein, und Phillilette,</l>
+            <l>Beschaefftigten Lysandern um die Wette;</l>
+            <l>Doch, als die Hoell ihm ins Gedaechtniß fiel,</l>
+            <l>Floh er den Wein, das Maedchen, und das Spiel.</l>
+            <l>Er beichtete, der Priester sprach ihn loß</l>
+            <l>Von aller Schuld, und nannte sie: nicht groß.</l>
+            <l>Denn Herr Lysander war kein armer Sünder;</l>
+            <l>Itzt schreckt die Höll ihn minder als vorher,</l>
+            <l>Itzt mischt er schon die Charten viel geschwinder,</l>
+            <l>Und küsst und trinkt noch mehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Spiel, der Wein, und Phillilette,</l>
+            <l>Beschaefftigten Lysandern um die Wette;</l>
+            <l>Doch, als die Hoell ihm ins Gedaechtniß fiel,</l>
+            <l>Floh er den Wein, das Maedchen, und das Spiel.</l>
+            <l>Er beichtete, der Priester sprach ihn loß</l>
+            <l>Von aller Schuld, und nannte sie: nicht groß.</l>
+            <l>Denn Herr Lysander war kein armer Sünder;</l>
+            <l>Itzt schreckt die Höll ihn minder als vorher,</l>
+            <l>Itzt mischt er schon die Charten viel geschwinder,</l>
+            <l>Und küsst und trinkt noch mehr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

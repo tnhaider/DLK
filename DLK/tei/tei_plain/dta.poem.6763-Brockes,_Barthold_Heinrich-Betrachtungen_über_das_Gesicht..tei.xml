@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über das Gesicht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">110</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">418</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über das Gesicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch ein' Erfahrung, die gemein,</l>
+            <l>Heisst uns Anmerckungen und Schlüsse machen.</l>
+            <l>Wir finden, daß wir offt betrogen seyn,</l>
+            <l>Wenn wir auf einen Vorwurf sehn,</l>
+            <l>Und daß sodann verschiedne Sachen</l>
+            <l>Dazwischen stehn;</l>
+            <l>So scheinet es, als ob die Weite</l>
+            <l>Sich noch vergrösserte: hingegen</l>
+            <l>Befindet man, daß wir uns auch zu irren pflegen,</l>
+            <l>Wenn, zwischen uns und den von fern gesehnen Höhen,</l>
+            <l>Sich flache Felder und in Gründen</l>
+            <l>Vertieffte Thäler finden;</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lebensregel</title>
+        <author>
+          <persName>
+            <surname>Wedekind</surname>
+            <forename>Frank</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">706</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1891</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lebensregel</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kannst einzig mit dem Guten</l>
+            <l>Dauernd gut Geschäfte machen.</l>
+            <l>Schlechte schuften und verbluten,</l>
+            <l>Schwindler jubeln und verkrachen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf der ganzen Erde Gottes</l>
+            <l>Wird die Pflicht das Glück beneiden –</l>
+            <l>Doch am schönsten ist ein flottes</l>
+            <l>Todesringen zwischen beiden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur beherzige die Lehre</l>
+            <l>Von der Wiege bis zum Grabe:</l>
+            <l>Der Besiegte hat die Ehre,</l>
+            <l>Den Besieger ehrt die Habe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kannst einzig mit dem Guten</l>
+            <l>Dauernd gut Geschäfte machen.</l>
+            <l>Schlechte schuften und verbluten,</l>
+            <l>Schwindler jubeln und verkrachen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf der ganzen Erde Gottes</l>
+            <l>Wird die Pflicht das Glück beneiden –</l>
+            <l>Doch am schönsten ist ein flottes</l>
+            <l>Todesringen zwischen beiden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur beherzige die Lehre</l>
+            <l>Von der Wiege bis zum Grabe:</l>
+            <l>Der Besiegte hat die Ehre,</l>
+            <l>Den Besieger ehrt die Habe.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

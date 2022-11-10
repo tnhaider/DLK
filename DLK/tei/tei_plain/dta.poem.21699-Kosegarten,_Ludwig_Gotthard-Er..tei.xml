@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-2 4-2 5-4</measure>
+        <measure type="syllables">115</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">496</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, wie des Geisblatts sich</l>
+            <l>Die gewalt'ge Eich' erbarmt;</l>
+            <l>Wie der Epheu brünstiglich</l>
+            <l>Den erhab'nen Ulm umarmt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebchen komm an meine Brust,</l>
+            <l>Bis nicht blöde! Bis nicht scheu!</l>
+            <l>Um uns jubeln Lieb' und Lust;</l>
+            <l>Um uns scherzt je zwey und zwey.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seiner Sie hofirt der Spatz,</l>
+            <l>Und das Täubchen kos't und girrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur das Mägdlein sey Niemands Schatz,</l>
+            <l>Bis es beringt vom Priester wird.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Muthe mir nichts Schnödes an!</l>
+            <l>Niemands Schätzchen will ich seyn,</l>
+            <l>Bis mich trau't ein geweihter Mann.</l>
+            <l>Sprichst du Ja, so sprech ich Nein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

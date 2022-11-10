@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">12. Erziehung durch Ueberzeugung .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">695</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>12. Erziehung durch Ueberzeugung .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl dem, welcher unverwirret               </l>
+            <l>Von der irdischen Unruh</l>
+            <l>Wie ein einsam Täublein girret,</l>
+            <l>Und fleugt holen Felsen zu,</l>
+            <l>Dessen Herz auf Gott gericht,</l>
+            <l>Horchet, was er zu ihm spricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl dem, welcher nimmt die Haue,</l>
+            <l>Grabet, hackt mit Lust und Schmerz,</l>
+            <l>Auf daß er den Acker baue</l>
+            <l>Und noch mehr sein dürres Herz,</l>
+            <l>Der die Welt mit ihrer Pracht</l>
+            <l>Ehr, Gemächlichkeit verlacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl dem, welcher dann alleine</l>
+            <l>Sitzt bei einem klaren Bach,</l>
+            <l>Lebet nur, auf daß er weine,</l>
+            <l>Uebe an sich selber Rach;</l>
+            <l>Daß der keuschen Engel Hauf</l>
+            <l>Fasset seine Thränen auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl dem, dessen Aug und Wangen</l>
+            <l>Wie ein überströmend Fluth</l>
+            <l>Seinen Weg, den er gegangen,</l>
+            <l>Netzet mit dem Herzensblut</l>
+            <l>Wohl der Erde, Holz und Au,</l>
+            <l>Dieses ist ihr Himmelsthau.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

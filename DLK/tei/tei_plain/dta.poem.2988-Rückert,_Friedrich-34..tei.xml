@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">34.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">123</measure>
+        <measure type="tokens">81</measure>
+        <measure type="characters">509</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>34.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Persisch und Sanskrit, in Griechisch und Latein,</l>
+            <l>In Deutsch und Slavisch siehst du Eine Sprach' allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie weit die Gegensätz' auch auseinander wichen,</l>
+            <l>Du hast sie innerlich zur Einheit ausgeglichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum nicht auch, wie in den Sprachen offenbart,</l>
+            <l>Willst du das gleiche sehn in Denk- und Glaubensart?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wieweit die Gegensätz' auch auseinander weichen,</l>
+            <l>Vermagst du nicht auch sie zur Einheit auszugleichen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Wahrheit noch nicht kund ward dir der Menschheit Grund,</l>
+            <l>Und Weisheit führest du und Lieb' umsonst im Mund.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

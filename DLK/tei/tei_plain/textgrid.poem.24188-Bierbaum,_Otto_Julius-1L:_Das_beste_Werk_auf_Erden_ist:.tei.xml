@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Das beste Werk auf Erden ist:</title>
+        <author>
+          <persName>
+            <surname>Bierbaum</surname>
+            <forename>Otto Julius</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">118</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">452</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1887</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Das beste Werk auf Erden ist:</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das beste Werk auf Erden ist:</l>
+            <l>Korn in die Scholle säen,</l>
+            <l>Und aller Freuden vollste ist:</l>
+            <l>die schweren Schwaden mähen.</l>
+            <l>Rund geht der Wurf des Säemanns</l>
+            <l>und rund des Mähders Eisen,</l>
+            <l>Des ganzen Lebens Auf und Ab</l>
+            <l>liegt mitten diesen Kreisen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das beste Werk auf Erden ist:</l>
+            <l>Korn in die Scholle säen,</l>
+            <l>Und aller Freuden vollste ist:</l>
+            <l>die schweren Schwaden mähen.</l>
+            <l>Rund geht der Wurf des Säemanns</l>
+            <l>und rund des Mähders Eisen,</l>
+            <l>Des ganzen Lebens Auf und Ab</l>
+            <l>liegt mitten diesen Kreisen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

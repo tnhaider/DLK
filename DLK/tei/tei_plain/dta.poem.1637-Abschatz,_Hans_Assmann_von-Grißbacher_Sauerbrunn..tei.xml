@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Grißbacher Sauerbrunn.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">773</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Grißbacher Sauerbrunn.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ort/ wo man die Artzney ohn theure Kosten hat/</l>
+            <l>Wo die Natur vertritt des Apothekers Statt/</l>
+            <l>nd uns der Erde Schos den Geist von Stal bereitet/</l>
+            <l>er Tod und Traurigkeit/ den ärgsten Feind bestreitet/</l>
+            <l>o unsren Mund erfrischt der halb-gesäurte Safft/</l>
+            <l>o unsre Leber kühlt der frischen Quelle Krafft/</l>
+            <l>o unser Aug ergözt durch so viel schöne Gänge</l>
+            <l>er grünen Hügel Schaar/ der kühlen Thäler Menge/</l>
+            <l>er Bäche Glaß-Crystall/ der Lüffte Reinigkeit/</l>
+            <l>d was uns mehr zur Lust des Himmels Gunst geweyht.</l>
+            <l>r Nimphen dieses Orts/ ihr freundlichen Najaden/</l>
+            <l>ch will in eurer Flutt mein Eingeweyde baden:</l>
+            <l>Trifft künfftig diese Cur mit meinem Wünschen ein/</l>
+            <l>So soll eur Nahme nie bey mir vergessen seyn;</l>
+            <l>Das Grißbach/ das von mir hat Griß und Sand getrieben/</l>
+            <l>Soll meinem Hertzen stets mit Ruhm seyn eingeschrieben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

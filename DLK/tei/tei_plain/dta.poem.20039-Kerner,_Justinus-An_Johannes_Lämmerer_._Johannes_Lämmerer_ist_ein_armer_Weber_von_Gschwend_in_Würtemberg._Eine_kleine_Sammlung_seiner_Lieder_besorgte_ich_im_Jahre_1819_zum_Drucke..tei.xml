@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Johannes Lämmerer .  Johannes  Lämmerer  ist ein armer  Weber  von Gschwend  
+ in Würtemberg. Eine kleine Sammlung seiner Lieder besorgte  
+ ich im Jahre 1819 zum Drucke.</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">155</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">613</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Johannes Lämmerer .  Johannes  Lämmerer  ist ein armer  Weber  von Gschwend  
+ in Würtemberg. Eine kleine Sammlung seiner Lieder besorgte  
+ ich im Jahre 1819 zum Drucke.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie einst Hans Sachs in seiner frommen Sitte</l>
+            <l>Manch Lied auf armer Schustersbank gesungen,</l>
+            <l>So ist auch Dir manch frommes Lied gelungen</l>
+            <l>Am Weberstuhl, in armer, stiller Hütte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leicht hüpfend ist Dein Schifflein da gesprungen</l>
+            <l>In Melodieen durch der Fäden Mitte.</l>
+            <l>Gleich Harfenlaut, hat's oft nach Deinem Tritte</l>
+            <l>Noch Mitternacht in dem Geweb' erklungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwar außen arm, doch innen reich, geborgen,</l>
+            <l>Sprichst du: „Gott weiß, warum er mein Gewebe</l>
+            <l>Mit Tönen nur, und nicht mit Gold durchwoben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald reißt es ab! dann kommt der goldne Morgen,</l>
+            <l>Wo ich verklärt aus armer Hülle schwebe,</l>
+            <l>Im reichsten Schmuck, der Sylphe gleich, nach oben.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

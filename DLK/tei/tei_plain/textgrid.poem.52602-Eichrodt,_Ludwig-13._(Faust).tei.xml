@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">13. (Faust)</title>
+        <author>
+          <persName>
+            <surname>Eichrodt</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">378</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1859</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>13. (Faust)</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! die vergangenen Freuden</l>
+            <l>Die waren wohl so schön!</l>
+            <l>Jetzt will mir Alles verleiden</l>
+            <l>Verwehen und vergehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bricht mir überm Haupte</l>
+            <l>Die finstre Zeit herein,</l>
+            <l>Und was ich </l>
+            <l>Das trifft allmälig ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! die vergangenen Freuden</l>
+            <l>Die waren wohl so schön!</l>
+            <l>Jetzt will mir Alles verleiden</l>
+            <l>Verwehen und vergehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bricht mir überm Haupte</l>
+            <l>Die finstre Zeit herein,</l>
+            <l>Und was ich </l>
+            <l>Das trifft allmälig ein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

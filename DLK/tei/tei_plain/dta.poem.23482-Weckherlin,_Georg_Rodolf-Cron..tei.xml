@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Cron.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">583</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1619</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20627-4"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Cron.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dvrch meiner stim vnvergänglichen</l>
+            <l>pracht</l>
+            <l>Muß ich seine Mäßigkeit preisen/</l>
+            <l>Die als sein Raht vñ Doctor tag vñ nache</l>
+            <l>Thät seine begird vnderweisen.</l>
+            <l>Sie hält den zaum mit so gewißer hand</l>
+            <l>In seiner sehl/ das in allem zustand</l>
+            <l>Sein gaist/ geberden vnd gedancken</l>
+            <l>Niemahl vnder einander schwancken:</l>
+            <l>Sielasst keine vnordnung zu/</l>
+            <l>Zu-wenig vnd Zu-vil in jhm nicht krieget/</l>
+            <l>Sie macht in Jhm ein solche ruh/</l>
+            <l>Das die Vernunft allen willen vernüeget:</l>
+            <l>Sie macht das seiner thaten grund</l>
+            <l>Nicht auf des Volcks meinung vnd lob be-</l>
+            <l>stehet;</l>
+            <l>Vnd das sein red vnd thun gleich gehet/</l>
+            <l>Damit steif bleib seiner Tugenten bund.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

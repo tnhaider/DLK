@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Fastnacht .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">29</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-8</measure>
+        <measure type="syllables">197</measure>
+        <measure type="tokens">159</measure>
+        <measure type="characters">872</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Fastnacht .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Fastnacht bringt uns Freuden zwar               </l>
+            <l>Vielmehr denn sonst ein ganzes halbes Jahr,</l>
+            <l>Ich mach mich auf und thät spazieren gehen,</l>
+            <l>An einen Tanz,</l>
+            <l>Mir ward ein Kranz</l>
+            <l>Von Blümlein Glanz,</l>
+            <l>Des erfreut ich mich gar sehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bot der Jungfrau meinen Gruß,</l>
+            <l>Ganz freundlich trat sie mir auf meinen Fuß,</l>
+            <l>Sie sprach: „Gut Gesell, wenn ich dir sagen sollt,</l>
+            <l>„wenn du nur wollst,</l>
+            <l>„ich wär dir hold.</l>
+            <l>„kein Silber und Gold</l>
+            <l>„ist meiner Lieb ein Sold.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„hinter meins Vaters Hof steht ein Thür,</l>
+            <l>„da ist weder Schloß noch Riegel dafür,</l>
+            <l>„da geh hinein, daß man dich nicht seh noch spür,</l>
+            <l>„sie ist geschmiert,</l>
+            <l>„daß sie nicht klirrt,</l>
+            <l>„kein Mensch dich irrt,</l>
+            <l>„tritt fröhlich hinein zu mir.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Nachts hob sich ein Wetter groß,</l>
+            <l>Das über Berg und tiefe Thal herfloß,</l>
+            <l>Desselben Wegs mich nie keinmahl verdroß;</l>
+            <l>Ich stahl mich aus,</l>
+            <l>Still wie ein Maus,</l>
+            <l>Und kam ins Haus,</l>
+            <l>Und lebt im Saus,</l>
+            <l>Mit der Lieben die ganze Nacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

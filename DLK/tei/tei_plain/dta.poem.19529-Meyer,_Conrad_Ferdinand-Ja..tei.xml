@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ja.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">461</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ja.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als der Herr mit mächt'ger Schwinge</l>
+            <l>Durch die neue Schöpfung fuhr,</l>
+            <l>Folgten in gedrängtem Ringe</l>
+            <l>Geister seiner Flammenspur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seine schönsten Engel wallten</l>
+            <l>Ihm zu Häupten selig leis,</l>
+            <l>Riesenhafte Nachtgestalten</l>
+            <l>Schlossen unterhalb den Kreis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„eh' ich euern Reigen löse,“</l>
+            <l>Sprach der Allgewalt'ge nun,</l>
+            <l>Schwöret, Gute, schwöret, Böse,</l>
+            <l>Meinen Willen nur zu thun!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freudig jubelten die Lichten:</l>
+            <l>„dir zu dienen, sind wir da!“</l>
+            <l>Die zerstören, die vernichten,</l>
+            <l>Die Dämonen knirschten: „Ja.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

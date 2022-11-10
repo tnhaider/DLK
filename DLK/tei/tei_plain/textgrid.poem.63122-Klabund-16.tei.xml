@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">16</title>
+        <author>
+          <persName>
+            <surname>Klabund</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-6 3-4 4-6</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">500</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1909</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>16</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin von dir so müde,</l>
+            <l>Die Nacht ist ohne Ruh.</l>
+            <l>Ich seh mit hellen Augen</l>
+            <l>Dem Spiel des Dunkels zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du stießest in mein Blut</l>
+            <l>Brennende Füchse – auf der Philister Fährde,</l>
+            <l>Und nun verbrennts.</l>
+            <l>Mein Schrei fällt auf die Erde</l>
+            <l>Wie Samenkorn im Lenz:</l>
+            <l>Simson! Simson!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin von dir so müde,</l>
+            <l>Die Nacht ist ohne Ruh.</l>
+            <l>Ich seh mit hellen Augen</l>
+            <l>Dem Spiel des Dunkels zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du stießest in mein Blut</l>
+            <l>Brennende Füchse – auf der Philister Fährde,</l>
+            <l>Und nun verbrennts.</l>
+            <l>Mein Schrei fällt auf die Erde</l>
+            <l>Wie Samenkorn im Lenz:</l>
+            <l>Simson! Simson!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

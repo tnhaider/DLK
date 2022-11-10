@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Du warst es doch</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">672</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1858</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Du warst es doch</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In buntem Zug zum Walde ging's hinaus;</l>
+            <l>Du bei den Kindern bliebst allein zu Haus.</l>
+            <l>Und draußen haben wir getanzt, gelacht,</l>
+            <l>Und kaum, so war mir, hatt ich dein gedacht. –</l>
+            <l>Nun kommt der Abend, und die Zeit beginnt,</l>
+            <l>Wo auf sich selbst die Seele sich besinnt;</l>
+            <l>Nun weiß ich auch, was mich so froh ließ sein,</l>
+            <l>Du warst es doch, und du nur ganz allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In buntem Zug zum Walde ging's hinaus;</l>
+            <l>Du bei den Kindern bliebst allein zu Haus.</l>
+            <l>Und draußen haben wir getanzt, gelacht,</l>
+            <l>Und kaum, so war mir, hatt ich dein gedacht. –</l>
+            <l>Nun kommt der Abend, und die Zeit beginnt,</l>
+            <l>Wo auf sich selbst die Seele sich besinnt;</l>
+            <l>Nun weiß ich auch, was mich so froh ließ sein,</l>
+            <l>Du warst es doch, und du nur ganz allein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

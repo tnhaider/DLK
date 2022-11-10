@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Anwerbung.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">85</measure>
+        <measure type="tokens">59</measure>
+        <measure type="characters">331</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Anwerbung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo wilst du k&amp;#252;nftig wohnen?</l>
+            <l>Im Garten meines Mädchen.</l>
+            <l>Wo wilst du künftig schlafen?</l>
+            <l>Im Arme meines Mädchen.</l>
+            <l>Wo wilst du künftig spielen?</l>
+            <l>An meinem ganzen Mädchen.</l>
+            <l>Wo wilst du künftig sterben?</l>
+            <l>Auf seinem sanften Schoosse.</l>
+            <l>Wer soll dich denn begraben?</l>
+            <l>Mein Mädchen und sein Enkel.</l>
+            <l>Wo hast du denn das Mädchen?</l>
+            <l>Wo habt ihr denn die Tochter?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

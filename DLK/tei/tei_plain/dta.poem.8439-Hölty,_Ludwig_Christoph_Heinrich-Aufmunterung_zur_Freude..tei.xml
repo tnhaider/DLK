@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aufmunterung zur Freude.</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">134</measure>
+        <measure type="characters">775</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aufmunterung zur Freude.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So lang' uns Lenz und Jugend blühn?</l>
+            <l>Wer wollt' in seinen Blütentagen</l>
+            <l>Die Stirn' in düstre Falten ziehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Freude winkt auf allen Wegen,</l>
+            <l>Die durch dies Pilgerleben gehn;</l>
+            <l>Sie bringt uns selbst den Kranz entgegen,</l>
+            <l>Wann wir am Scheidewege stehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch rinnt und rauscht die Wiesenquelle;</l>
+            <l>Noch ist die Laube kühl und grün;</l>
+            <l>Noch scheint der liebe Mond so helle,</l>
+            <l>Wie er durch Adams Bäume schien!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch macht der Saft der Purpurtraube</l>
+            <l>Des Menscheu krankes Herz gesund;</l>
+            <l>Noch schmecket in der Abendlaube</l>
+            <l>Der Kuss auf einen rothen Mund!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch tönt der Busch voll Nachtigallen</l>
+            <l>Dem Jüngling hohe Wonne zu;</l>
+            <l>Noch strömt, wenn ihre Lieder schallen,</l>
+            <l>Selbst in zerrissne Seelen Ruh!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O wunderschön ist Gottes Erde,</l>
+            <l>Und wehrt darauf vergnügt zu sein!</l>
+            <l>Drum will ich, bis ich Asche werde,</l>
+            <l>Mich dieser schönen Erde freun!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput VII.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">484</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput VII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und jedesmal wenn ich ein Haus</l>
+            <l>Bezeichnet in solcher Weise,</l>
+            <l>Ein Sterbeglöckchen erscholl fernher,</l>
+            <l>Wehmüthig wimmernd und leise.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Himmel aber erblich der Mond,</l>
+            <l>Er wurde immer trüber;</l>
+            <l>Gleich schwarzen Rossen jagten an ihm</l>
+            <l>Die wilden Wolken vorüber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und immer ging hinter mir einher</l>
+            <l>Mit seinem verborgenen Beile</l>
+            <l>Die dunkle Gestalt – so wanderten wir</l>
+            <l>Wohl eine gute Weile.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir gehen und gehen, bis wir zuletzt</l>
+            <l>Wieder zum Domplatz gelangen;</l>
+            <l>Weit offen standen die Pforten dort,</l>
+            <l>Wir sind hineingegangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

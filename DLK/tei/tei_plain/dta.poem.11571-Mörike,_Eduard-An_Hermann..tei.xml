@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Hermann.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-22</measure>
+        <measure type="syllables">280</measure>
+        <measure type="tokens">192</measure>
+        <measure type="characters">1097</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Hermann.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter Thränen rissest du dich von meinem Halse;</l>
+            <l>In die Finsterniß lang' sah ich verworren dir nach;</l>
+            <l>Wie? auf Ewig? sagtest du so? Dann lässet auf Ewig</l>
+            <l>Meine Jugend von mir, lässet mein Genius mich!</l>
+            <l>Und warum? bei Allem, was heilig, weißt du es</l>
+            <l>Wenn es der Uebermuth schwärmender Jugend nicht ist?</l>
+            <l>O verwegenes Spiel! Komm! nimm das Wort, ruf es</l>
+            <l>— Aber du hörtest nicht, ließest mich staunend allein.</l>
+            <l>Monde vergingen und Jahre; die heimliche Sehnsucht im</l>
+            <l>Standen wir fremd, es fand Keiner ein muthiges</l>
+            <l>Um den falschen Bann, den luftgewebten, zu brechen,</l>
+            <l>Und der gemeine Tag löschte bald jeglichen Wunsch.</l>
+            <l>Aber heutige Nacht erschien mir wieder im Traume</l>
+            <l>Deine Knabengestalt — Wehe! wo rett' ich mich hin</l>
+            <l>Vor dem lieblichen Bild! Ich sah dich unter den hohen</l>
+            <l>Maulbeerbäumen im Hof, wo wir zusammen gespielt.</l>
+            <l>Und du wandtest dich ab, wie beschämt, ich strich dir die</l>
+            <l>Aus der Stirne: O du, rief ich, was kannst du dafür!</l>
+            <l>Weinend erwacht' ich zulezt, trüb schien der Mond auf</l>
+            <l>Aufgerichtet im Bett saß ich und dachte dir nach;</l>
+            <l>O wie tobte mein Herz! Du fülltest wieder den</l>
+            <l>Mir, wie kein Bruder vermag, wie die Geliebte nicht</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Weiher.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">101</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">399</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Weiher.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er liegt so still im Morgenlicht,</l>
+            <l>So friedlich, wie ein fromm Gewissen;</l>
+            <l>Wenn Weste seinen Spiegel küssen,</l>
+            <l>Des Ufers Blume fühlt es nicht;</l>
+            <l>Libellen zittern über ihn,</l>
+            <l>Blaugoldne Stäbchen und Karmin,</l>
+            <l>Und auf des Sonnenbildes Glanz</l>
+            <l>Die Wasserspinne führt den Tanz;</l>
+            <l>Schwertlilienkranz am Ufer steht</l>
+            <l>Und horcht des Schilfes Schlummerliede;</l>
+            <l>Ein lindes Säuseln kommt und geht,</l>
+            <l>Als flüstr' es: Friede! Friede! Friede! —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z ehndes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">621</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z ehndes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Frau, die kurz vorher von beyden Prinzen sprach,</l>
+            <l>Gieng keinem andern mehr als dem des Alten nach;</l>
+            <l>Sie sahe theils mit Ernst, theils freundlich die Gebärden,</l>
+            <l>380Besonders wie der Greiß ihn endlich mit Beschwerden</l>
+            <l>Auf seinem Arm erhielt: so nahte sie sich ihm,</l>
+            <l>Verstellte Mien und Aug, auch die sonst helle Stimm,</l>
+            <l>Und redt’ ihn an: „Mein Prinz! seynd dieses Fürsten-Hulden?</l>
+            <l>(sie nahm ihn auf den Arm) wer kann die Bürde dulden?</l>
+            <l>385Den Augenblick ergriff er Eingezogenheit,</l>
+            <l>Geduld in Regungen, im Aug Ernsthaftigkeit;</l>
+            <l>Gleich wußt er seinen Trieb der Jugend einzuhalten;</l>
+            <l>Gleich schien er voll Vernunft; gleich wies er Wiz der Alten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

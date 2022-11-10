@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Epigramma.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">603</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Epigramma.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist dein schöner Leib/ du schnöde blinde Jugendt/</l>
+            <l>Wann er nit ist begabt mit Zier der Zucht vnd Tugendt:</l>
+            <l>Die hellen Aeugelein/ ein finster böser lust/</l>
+            <l>Der Leib ist eine Kist erfüllt mit Koth vnd Wust.</l>
+            <l>Der Mund/ ein Thor/ darauß sich alle Laster finden/</l>
+            <l>Der zarten Brüste quell/ ein Bronn der Schand vnd Sünden:</l>
+            <l>Der Freuden port/ die schoß/ ein Grab der Vppigkeit/</l>
+            <l>Vnd Wahlstatt da die Ehr ist blieben in dem Streit.</l>
+            <l>Wo aber Tugend sich bey der Zierligkeit erzeiget/</l>
+            <l>Ist wie wenn eine Blum durchs Wasser sich ereüget:</l>
+            <l>Da stehet alles wol/ da sich es lustig auß/</l>
+            <l>Da ist ein schöner Wirt/ da ist ein schönes Hauß.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

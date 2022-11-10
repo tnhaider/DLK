@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Lenzgefühl.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">304</measure>
+        <measure type="tokens">194</measure>
+        <measure type="characters">1152</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Lenzgefühl.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Lenz, der Lenz ist erschienen.</l>
+            <l>Es ergrünen die Maale der Hünen,</l>
+            <l>Es belaubt sich der heilige Hain.</l>
+            <l>Es erhellt sich der dunkele Eppich.</l>
+            <l>Ein grüner geschorener Teppich,</l>
+            <l>Gestickt mit güldenen Blumen,</l>
+            <l>So funkelt der Anger, der Rain.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Blumen stehen wie trunken</l>
+            <l>Herab auf die Erde gesunken,</l>
+            <l>Umarmt sie der bräutliche May.</l>
+            <l>Entgegen dem Brünstigen bebet</l>
+            <l>Ihr schwellender Schoos. Es entstrebet</l>
+            <l>Der Kraisenden drängend die Fülle</l>
+            <l>Der Leben jung und neu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf brechen die Brunnen der Tiefen.</l>
+            <l>Es erwachen die Seelen, die schliefen.</l>
+            <l>Es bevölkern sich Matten und Wald.</l>
+            <l>Wie brausen die Käfer! Wie schwirren</l>
+            <l>Die zarten Libellen! Wie girren</l>
+            <l>Die Täubchen, derweil in den Lüften</l>
+            <l>Der Lerche Brautlied schallt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Hauche des Frühlings geschwollen,</l>
+            <l>Vom Athem der Liebe gequollen,</l>
+            <l>Schwelgt jeglicher Busen in Lust.</l>
+            <l>Nur mir will das Herz sich nicht weiten.</l>
+            <l>Nur mir sich der Busen nicht breiten.</l>
+            <l>Wann, ach, wann füllt sich die Leere</l>
+            <l>In dieser verschmachtenden Brust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich späh' in die Näh' und die Ferne,</l>
+            <l>Ich frage die sinkenden Sterne,</l>
+            <l>Ich rufe die Blumen der Flur,</l>
+            <l>Ich belausche die Echo der Haine.</l>
+            <l>Wo wandelt, wo hauset die Eine,</l>
+            <l>Die das schmerzliche Sehnen befriedigt? —</l>
+            <l>Ach zeigt mir der Einzigen Spur!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

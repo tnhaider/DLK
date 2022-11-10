@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">W ALLER   I M   S CHNEE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">898</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>W ALLER   I M   S CHNEE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lehre dich den sanften reiz des zimmers               </l>
+            <l>Empfinden und der trauten winkel raunen               </l>
+            <l>Des feuers und des stummen lampen-flimmers               </l>
+            <l>Du hast daf&amp;#252;r das gleiche m&amp;#252;de staunen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus deiner bl&amp;#228;sse fach ich keinen funken               </l>
+            <l>Ich ziehe mich zur&amp;#252;ck zum beigemache               </l>
+            <l>Und sinne schweigsam in das knie gesunken:               </l>
+            <l>Ob jemals du erwachen wirst? erwache!             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So oft ich zagend mich zum vorhang kehre               </l>
+            <l>Du sitzest noch wie anfangs in gedanken               </l>
+            <l>Dein auge h&amp;#228;ngt noch immer an der leere               </l>
+            <l>Dein schatten kreuzt des teppichs selbe ranken             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was hindert dann noch dass unge&amp;#252;bte               </l>
+            <l>Vertauenslose flehen mir entfliesse:               </l>
+            <l>O gieb dass grosse mutter und betr&amp;#252;bte               </l>
+            <l>In dieser seele wieder trost entspriesse.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

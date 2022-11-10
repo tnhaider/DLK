@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ubersezte Spruch-Reimen.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">252</measure>
+        <measure type="tokens">175</measure>
+        <measure type="characters">1039</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ubersezte Spruch-Reimen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Knabe/ der nun redt und sicher lauffen kan/</l>
+            <l>Liebt stilles Sitzen nicht/ spielt gern mit seines gleichen/</l>
+            <l>Erzürnt sich bald/ und läst den Zorn auch bald verstreichen/</l>
+            <l>Fängt iede Viertelstund ein neues Wesen an.</l>
+            <l>Der Jüngling ohne Bart/ der strengen Zucht entgangen/</l>
+            <l>Hat Pferd und Hunde lieb/ sucht ihm das grüne Feld/</l>
+            <l>Wehlt langsam was ihm gutt/ hält selten lange Geld/</l>
+            <l>Hört kein Erinnern an/ hat Böses bald gefangen/</l>
+            <l>Hochtrabend/ voll Begier/ geschwinde Brunst zu fassen/</l>
+            <l>Und was er werth geacht hinwieder zu verlassen.</l>
+            <l>Bey reiffer Mannbarkeit ist alles umgekehrt/</l>
+            <l>Man nimmt des Beutels wahr/ damit man solchen spicke/</l>
+            <l>Sucht Freundschafft in der Welt/ müht sich um Ehr und</l>
+            <l>Glücke/</l>
+            <l>Und hütet sich zu seyn mit Reu und Schimpff beschwert.</l>
+            <l>Viel Ungelegenheit umgiebt den gutten Alten/</l>
+            <l>Er sucht/ und was er findt deß muß er sich enthalten</l>
+            <l>us Kargheit/ Furcht und Geitz/ greifft alles laulicht an/</l>
+            <l>Schiebt auff/ und hofft noch viel/ lobt was man hat gethan</l>
+            <l>ey seiner jungen Zeit/ klagt über Zeit und Sitten/</l>
+            <l>nd läst der Jugend Thun nicht leichtlich unbestritten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">LxXVI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">64</measure>
+        <measure type="tokens">44</measure>
+        <measure type="characters">250</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>LxXVI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bist du wirklich mir so feindlich,</l>
+            <l>Bist du wirklich ganz verwandelt?</l>
+            <l>Aller Welt will ich es klagen,</l>
+            <l>Daß du mich so schlecht behandelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Ihr undankbaren Lippen,</l>
+            <l>Sagt, wie könnt Ihr Schlimmes sagen</l>
+            <l>Von dem Manne, der so liebend</l>
+            <l>Euch geküßt, in schönen Tagen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

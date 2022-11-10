@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An  Salinden.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">117</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">464</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An  Salinden.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will wie Hercules der Höllen Riegel brechen/</l>
+            <l>Ich will/ wenn </l>
+            <l>Ich will wie </l>
+            <l>Ich will mit </l>
+            <l>Ich will den </l>
+            <l>Durch mich soll Babilon den Thurm gebauet sehn/</l>
+            <l>Des Himmels Stürmung soll von meiner Hand geschehn.</l>
+            <l>Ich will in Wein verkehrn das Wasser in den Bächen.</l>
+            <l>Ich will </l>
+            <l>Ich will den grossen Weg zur blauem Höhe messen.</l>
+            <l>Ich will das weite Meer in einem Eymer füllen/</l>
+            <l>Ich will den heissen Durst mit warmen Ertze stillen.</l>
+            <l>Dis alles/ und noch mehr soll meine Arbeit seyn/</l>
+            <l>Wenn mich </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

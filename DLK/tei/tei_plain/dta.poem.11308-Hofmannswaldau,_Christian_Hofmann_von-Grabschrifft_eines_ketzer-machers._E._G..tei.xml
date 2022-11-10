@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Grabschrifft eines ketzer-machers.  
+  E. G.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">805</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1709</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20283-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Grabschrifft eines ketzer-machers.  
+  E. G.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein flegel, der den schwarm der falschen ketzer schlug,</l>
+            <l>Ein pfeiler, der den bau des himmels auf sich trug,</l>
+            <l>Ein helm der elerisey, der kirchen pallisade,</l>
+            <l>Der pfaffen trommel-spiel, der thorheit retirade,</l>
+            <l>Der schreiber corporal, des papstes stecken-knecht,</l>
+            <l>Ein zelt, wo neid und haß, und aberglauben zecht:</l>
+            <l>Des teufels tummel-platz, der sünder marquetender,</l>
+            <l>Der boßheit freund und feind, ein sacrament-verschwender,</l>
+            <l>Der faulen prediger geliebtes pulver-horn,</l>
+            <l>Der eyfrer general, der müden zäncker sporn,</l>
+            <l>Schweigt itzt und ruht allhier; Zum deutlichen exempel,</l>
+            <l>Daß uns Jrenens schloß, der göldne friedens-tempel,</l>
+            <l>Offt mitten in sich schließt, wenn man am härtsten kämpfft.</l>
+            <l>Er disputirt nicht mehr, die hitz ist gantz gedämpfft;</l>
+            <l>Es hat sein müder geist den frieden angenommen,</l>
+            <l>Nachdem er unverhofft in ketzer-himmel kommen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

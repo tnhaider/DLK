@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Göttermahl.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">530</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Göttermahl.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo die Tannen finst're Schatten werfen</l>
+            <l>Ueber Hänge goldbesonnt,</l>
+            <l>Unverwundet von der Firne Schärfen</l>
+            <l>Blaut der reine Horizont,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo das Spiel den rastlos weh'nden Winden</l>
+            <l>Kein Gebälk und keine Mauer wehrt,</l>
+            <l>Wo, wie einer dunkeln Sorge Schwinden,</l>
+            <l>Jede Wolke sich verzehrt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo das braune Rind wie Juno schauend</l>
+            <l>Weidet und mit heller Glocke tönt,</l>
+            <l>Wo das Zicklein lüstern wiederkauend</l>
+            <l>Den bemoosten Felsen krönt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlürf' ich kühle Luft und wilde Würzen,</l>
+            <l>Mit den sel'gen Göttern kost ich da —</l>
+            <l>Die mich nicht aus ihrem Himmel stürzen —</l>
+            <l>Nectar und Ambrosia!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

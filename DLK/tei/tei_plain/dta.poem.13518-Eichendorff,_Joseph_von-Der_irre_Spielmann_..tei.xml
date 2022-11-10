@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der irre Spielmann .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">231</measure>
+        <measure type="tokens">173</measure>
+        <measure type="characters">962</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der irre Spielmann .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus stiller Kindheit unschuldiger Hut</l>
+            <l>Trieb mich der tolle, frevelnde Muth.</l>
+            <l>Seit ich da draußen so frei nun bin</l>
+            <l>Find' ich nicht wieder nach Hause hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch's Leben jag' ich manch trüg'risch Bild,</l>
+            <l>Wer ist der Jäger da? wer ist das Wild?</l>
+            <l>Es pfeift der Wind mir schneidend durchs Haar,</l>
+            <l>Ach Welt, wie bist Du so kalt und klar!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du frommes Kindlein im stillen Haus,</l>
+            <l>Schau' nicht so lüstern zum Fenster hinaus!</l>
+            <l>Frag mich nicht, Kindlein, woher und wohin?</l>
+            <l>Weiß ich doch selber nicht wo ich bin!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von Sünde und Reue zerrissen die Brust,</l>
+            <l>Wie rasend in verzweifelter Lust,</l>
+            <l>Brech ich im Fluge mir Blumen zum Strauß,</l>
+            <l>Wird doch kein fröhlicher Kranz nicht daraus! —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich möcht' in den tiefsten Wald wohl hinein,</l>
+            <l>Recht aus der Brust den Jammer zu schrei'n,</l>
+            <l>Ich möchte reiten an's Ende der Welt,</l>
+            <l>Wo der Mond und die Sonne hinunter fällt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo schwindelnd beginnt die Ewigkeit,</l>
+            <l>Wie ein Meer, so erschrecklich still und weit,</l>
+            <l>Da sinken all' Ström' und Segel hinein,</l>
+            <l>Da wird es wohl endlich auch ruhig sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

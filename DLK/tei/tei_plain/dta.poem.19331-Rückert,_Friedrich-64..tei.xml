@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">64.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">73</measure>
+        <measure type="characters">419</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>64.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Esel ist bekannt, der hungernd stehen bliebe,</l>
+            <l>Weil zu zwei Bündeln Heu ihn gleicher Hunger triebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bekannt ist auch, daß er nicht wirklich stehn wird bleiben,</l>
+            <l>Weil von zwei Treibenden muß eines stärker treiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und bleibt er gleichwol stehn, so ists aus Eselei;</l>
+            <l>Der Zweifel wohnt ihm selbst, doch nicht der Sache bei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Esel ist wer nicht kommt zum Entschluß deswegen,</l>
+            <l>Weil Für und Wider er nicht kann aufs Loth abwägen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Rosa .</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">767</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193300"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Rosa .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum bist du nicht hier, meine Geliebteste,               </l>
+            <l>Dass mich gürte dein Arm, dass mich dein Händedruck</l>
+            <l>Labe, dass du mich pressest</l>
+            <l>An dein schlagendes Schwesterherz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rosa, bist du mir hold? Rosa, so hold, wie ich,</l>
+            <l>War dir keiner, und wird keiner dir wieder seyn</l>
+            <l>Von den Söhnen der Erde,</l>
+            <l>Von den Söhnen Elisiums.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wärmer, Rosa, fürwahr, wärmer und zärtlicher</l>
+            <l>Könnte nimmer für dich schlagen mein fühlend Herz,</l>
+            <l> hätt' Ein Schooss uns geboren,</l>
+            <l>Hätt' uns einerley Brust gesäugt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Matte labet der Quell, Müde der Abendstern,</l>
+            <l>Irre Wandrer der Mond, Kranke das Morgenroth;</l>
+            <l>Mich erlabet, Geliebte,</l>
+            <l>Dein Umfangen am kräftigsten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum bist du nicht hier, meine Vertrauteste,</l>
+            <l>Dass dich gürte mein Arm, dass ich dir süssen Gruss</l>
+            <l>Lispl' und feurig dich drücke</l>
+            <l>An mein schlagendes Bruderherz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

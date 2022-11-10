@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aus dem frantzösischen des   Pays.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">586</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aus dem frantzösischen des   Pays.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So bald das sonnen-licht die müden augenlieder</l>
+            <l>Nach der genoßnen ruh von ihrem schlaf erweckt,</l>
+            <l>Und das verliebte kind die alabaster-glieder</l>
+            <l>Mit einem linden ach im bette von sich streckt,</l>
+            <l>So gehn viel hundert lüst’ in ihrer brust spatzieren,</l>
+            <l>Die sanffte kützelung durchstreichet geist und sinn,</l>
+            <l>Und die entzückungen, so marck und adern rühren,</l>
+            <l>Zieh’n sie gantz außer sich in den gedancken hin.</l>
+            <l>Die liebe schmeichelt ihr, sie löscht der sehnsucht kohlen,</l>
+            <l>Und baut aus ihrem bett ein schloß der einsamkeit,</l>
+            <l>Da kan sie in der ruh die wohllust wiederholen,</l>
+            <l>Mit der sie sich zuvor in unruh hat erfreut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

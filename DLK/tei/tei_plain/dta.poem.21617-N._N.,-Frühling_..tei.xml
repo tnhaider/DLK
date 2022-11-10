@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frühling .</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">641</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frühling .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun ist die Welt in Rosen erwacht,</l>
+            <l>Gelöst ist die liebliche Fraue.</l>
+            <l>In Stücken zerbrach der Stirnreif der Nacht,</l>
+            <l>Und im Morgen lacht</l>
+            <l>Der blühende Wald und die Aue.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An die Reise nun geht der rieselnde Quell,</l>
+            <l>Es schimmert die Näh’ und die Ferne.</l>
+            <l>O Tag, sei du mein Trautgesell</l>
+            <l>Vielhold und hell,</l>
+            <l>Dir wollt’ ich dienen so gerne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Lerchenschwingen steigt mein Gesang,</l>
+            <l>Sich über den Wolken zu wiegen.</l>
+            <l>Doch was im tiefsten Herzen erklang,</l>
+            <l>Nie laut sich erschwang,</l>
+            <l>Das wahr’ ich getreu und verschwiegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur Eine hörte das heimliche Wort,</l>
+            <l>Das Rufen der Lust und des Leides.</l>
+            <l>Nicht weiß ich den Tag und nicht den Ort</l>
+            <l>Sie küßte mir fort</l>
+            <l>Vergessen und Wissen, beides. —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

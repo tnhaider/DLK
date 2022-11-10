@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Jagt der Liebe.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">125</measure>
+        <measure type="characters">700</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Jagt der Liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Indem du gehest nach durch Feld und Wald den Thieren/</l>
+            <l>Schau ich/ ob ich ein Wild der Venus fangen kan.</l>
+            <l>Du redest offt was stumm/ und ich was taub ist/ an/</l>
+            <l>Du läst die Grausamkeit/ ich kühne Freyheit spüren.</l>
+            <l>Du läst dich einen Hirsch durch Berg und Thäler führen/</l>
+            <l>Mich bringt ein schönes Bild auff unbekannte Bahn.</l>
+            <l>Du setzest Strick und Netz/ ich Wort und Reden dran/</l>
+            <l>Wir müssen beyderseits offt Müh und Zeit verlieren.</l>
+            <l>Wir fragen beyde nichts nach Regen oder Wind/</l>
+            <l>Und wie dich offtermahls die falsche Spur betriegt/</l>
+            <l>So werd’ in eitler Furcht und Hoffnung ich gewiegt.</l>
+            <l>Nur diß ist noch/ in dem wir unterschieden sind:</l>
+            <l>Du hast der Mühe Lohn zuweilen schon empfangen/</l>
+            <l>Mir aber ist bißher kein Wild noch eingegangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Gelübde.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">63</measure>
+        <measure type="characters">331</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Gelübde.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo ich morgen oder heute</l>
+            <l>Meine Doris wieder finde;</l>
+            <l>Wo ich etwa dort am Ufer</l>
+            <l>Ihre Spur und Sie entdekke;</l>
+            <l>Wo ich sie vieleicht im Schatten</l>
+            <l>Unter Rosen schlummern sehe;</l>
+            <l>Wo ich morgen oder heute</l>
+            <l>Ihren zweiten Kuß empfinde;</l>
+            <l>Da will ich zum ersten male</l>
+            <l>Da will ich, vernimms o Liebe!</l>
+            <l>Da will ich, du solt es sehen!</l>
+            <l>Dreist nach ihrem Busen schielen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

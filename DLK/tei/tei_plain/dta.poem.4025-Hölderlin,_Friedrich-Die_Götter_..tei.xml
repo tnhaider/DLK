@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Götter .</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">123</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">458</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197104"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Götter .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du stiller Aether! immer bewahrst du schön</l>
+            <l>Die Seele mir im Schmerz, und es adelt sih</l>
+            <l>Zur Tapferkeit vor deinen Stralen,</l>
+            <l>Helios! oft die empörte Brust mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr guten Götter! arm ist, wer euch nicht kennt,</l>
+            <l>Im rohen Busen ruhet der Zwist ihm nie,</l>
+            <l>Und Nacht ist ihm die Welt, und keine</l>
+            <l>Freude gedeihet und kein Gesang ihm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur ihr, mit euer ewigen Jugend, nährt</l>
+            <l>In Herzen, die euch lieben, den Kindersinn,</l>
+            <l>Und laßt in Sorgen und in Irren</l>
+            <l>Nimmer den Genius sich vertrauern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

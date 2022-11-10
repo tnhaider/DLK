@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trost bei einer schwierigen Unternehmung</title>
+        <author>
+          <persName>
+            <surname>Schlegel</surname>
+            <forename>August Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">532</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trost bei einer schwierigen Unternehmung</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur wenig Englisch weiß ich zwar,</l>
+            <l>Und Shakspeare ist mir gar nicht klar:</l>
+            <l>Doch hilft der treue Eschenburg</l>
+            <l>Wohl bei dem Macbeth mir hindurch.</l>
+            <l>Ohn' alles Griechisch hab' ich ja</l>
+            <l>Verdeutscht die Iphigenia;</l>
+            <l>Lateinisch wußt' ich auch nicht viel,</l>
+            <l>Und zwängt' in Stanzen den Virgil.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur wenig Englisch weiß ich zwar,</l>
+            <l>Und Shakspeare ist mir gar nicht klar:</l>
+            <l>Doch hilft der treue Eschenburg</l>
+            <l>Wohl bei dem Macbeth mir hindurch.</l>
+            <l>Ohn' alles Griechisch hab' ich ja</l>
+            <l>Verdeutscht die Iphigenia;</l>
+            <l>Lateinisch wußt' ich auch nicht viel,</l>
+            <l>Und zwängt' in Stanzen den Virgil.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">6.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">399</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>6.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Mutter, die dem Kind nicht selber Nahrung schenkt,</l>
+            <l>Beneide nur die Brust der Amme, die es tränkt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die für den ersten Quell des Lebens, den sie beut,</l>
+            <l>Vom ersten Lächeln auch des Dankes wird erfreut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So mag dem Vater auch, der selbst sein Kind nicht zieht,</l>
+            <l>Der wecken Eifersucht, durch welchen es geschieht;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der ihm ein geistiges Gepräge drücket ein,</l>
+            <l>Das wichtiger doch ist, als das von Fleisch und Bein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

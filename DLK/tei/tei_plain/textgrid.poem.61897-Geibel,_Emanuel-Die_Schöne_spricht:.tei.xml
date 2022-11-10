@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Schöne spricht:</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">916</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Schöne spricht:</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich ward zur Kerz' im Saale</l>
+            <l>Bestimmt durch Schicksalsschluß</l>
+            <l>Und wenn ich leucht' und strahle,</l>
+            <l>So tu' ich, was ich muß.</l>
+            <l>Wer wagt's und zeiht der Tücke</l>
+            <l>Mein reines Element,</l>
+            <l>Weil sich die trunkne Mücke</l>
+            <l>Die Flügel dran verbrennt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann hieß ich keck dich schweifen</l>
+            <l>Um diese Flammen? Sprich!</l>
+            <l>Drum, wenn sie dich ergreifen,</l>
+            <l>So schilt dich selbst, nicht mich.</l>
+            <l>Wer sich des holden Scheines</l>
+            <l>Nicht wunschlos freun mag, ei,</l>
+            <l>Sein Schicksal trag' er – meines</l>
+            <l>Ist, schön zu sein und frei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich ward zur Kerz' im Saale</l>
+            <l>Bestimmt durch Schicksalsschluß</l>
+            <l>Und wenn ich leucht' und strahle,</l>
+            <l>So tu' ich, was ich muß.</l>
+            <l>Wer wagt's und zeiht der Tücke</l>
+            <l>Mein reines Element,</l>
+            <l>Weil sich die trunkne Mücke</l>
+            <l>Die Flügel dran verbrennt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann hieß ich keck dich schweifen</l>
+            <l>Um diese Flammen? Sprich!</l>
+            <l>Drum, wenn sie dich ergreifen,</l>
+            <l>So schilt dich selbst, nicht mich.</l>
+            <l>Wer sich des holden Scheines</l>
+            <l>Nicht wunschlos freun mag, ei,</l>
+            <l>Sein Schicksal trag' er – meines</l>
+            <l>Ist, schön zu sein und frei.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

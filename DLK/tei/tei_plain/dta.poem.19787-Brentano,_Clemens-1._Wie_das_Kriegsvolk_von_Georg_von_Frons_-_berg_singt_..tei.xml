@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.  Wie das Kriegsvolk von Georg von Frons -  
+  berg singt .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-4</measure>
+        <measure type="syllables">110</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">502</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.  Wie das Kriegsvolk von Georg von Frons -  
+  berg singt .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Georg von Freundsberg, von großer Stärk,                 </l>
+            <l>Ein theurer Held, behielt das Feld,</l>
+            <l>In Streit und Fehd, den Feind besteht,</l>
+            <l>In aller Schlacht er Gott zulegt die Ehr und Macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er überwand mit eigner Hand</l>
+            <l>Venedisch Pracht, der Schweizer Macht,</l>
+            <l>Französisch Schaar legt nieder gar,</l>
+            <l>Mit grosser Schlacht den päbstschen Bund zu Schanden</l>
+            <l>macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Kaiser Ehr, macht er stets mehr,</l>
+            <l>Ihr Land und Leut beschüzt allzeit,</l>
+            <l>Mit großer Gefahr er sieghaft war,</l>
+            <l>Ganz ehrenreich, man findt nicht bald, der ihm sey gleich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

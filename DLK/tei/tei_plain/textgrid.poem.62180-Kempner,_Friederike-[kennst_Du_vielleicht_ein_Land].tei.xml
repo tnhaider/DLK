@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[kennst Du vielleicht ein Land]</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">410</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[kennst Du vielleicht ein Land]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kennst Du vielleicht ein Land,</l>
+            <l>Wo keine Bösen sind?</l>
+            <l>Das wär' mein Lieblingsland,</l>
+            <l>Ich ginge hin geschwind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kennst Du vielleicht ein Land,</l>
+            <l>Wo niemand Böses tut?</l>
+            <l>Das wär' mein Wunderland,</l>
+            <l>Für das gäb' ich mein Blut!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kennst Du vielleicht ein Land,</l>
+            <l>Wo keine Bösen sind?</l>
+            <l>Das wär' mein Lieblingsland,</l>
+            <l>Ich ginge hin geschwind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kennst Du vielleicht ein Land,</l>
+            <l>Wo niemand Böses tut?</l>
+            <l>Das wär' mein Wunderland,</l>
+            <l>Für das gäb' ich mein Blut!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

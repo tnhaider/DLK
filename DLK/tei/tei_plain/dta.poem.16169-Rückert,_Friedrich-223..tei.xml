@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">223.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">178</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">675</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>223.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Weiser, einst gefragt, wozu sei nutz das Leben</l>
+            <l>Auf Erden?, sprach: um sich zum Himmel zu erheben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum Himmel wollen hier sich alle lebenden</l>
+            <l>Erheben, alle wie verschieden strebenden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum Himmel heben will der eine sich durch Ruhm,</l>
+            <l>Der andere durch Macht und höchstes Herscherthum;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein dritter durch Genuß der Güter dieser Erde,</l>
+            <l>Ein vierter durch die Flucht vor Mühsal und Beschwerde;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein andrer wiederum durch Duldmuth und Ertragung,</l>
+            <l>Und endlich einer durch Gebet und Weltentsagung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Weise sieht die buntgetheilten Lebenskreise,</l>
+            <l>Und freut sich, daß soviel mit ihm auf gleicher Reise</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verschiedne Wege gehn, er läßt sie gehn auf ihren,</l>
+            <l>Und sorget im Gedräng nicht seinen zu verlieren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

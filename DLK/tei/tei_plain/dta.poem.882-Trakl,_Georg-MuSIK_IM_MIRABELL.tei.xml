@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">MuSIK IM MIRABELL</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">542</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>MuSIK IM MIRABELL</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Brunnen singt. Die Wolken stehn</l>
+            <l>Im klaren Blau, die weißen, zarten.</l>
+            <l>Bedächtig stille Menschen gehn</l>
+            <l>Am Abend durch den alten Garten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Ahnen Marmor ist ergraut.</l>
+            <l>Ein Vogelzug streift in die Weiten.</l>
+            <l>Ein Faun mit toten Augen schaut</l>
+            <l>Nach Schatten, die ins Dunkel gleiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Laub fällt rot vom alten Baum</l>
+            <l>Und kreist herein durchs offne Fenster.</l>
+            <l>Ein Feuerschein glüht auf im Raum</l>
+            <l>Und malet trübe Angstgespenster.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein weißer Fremdling tritt ins Haus.</l>
+            <l>Ein Hund stürzt durch verfallene Gänge.</l>
+            <l>Die Magd löscht eine Lampe aus,</l>
+            <l>Das Ohr hört nachts Sonatenklänge.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Luft.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-10 2-12</measure>
+        <measure type="syllables">182</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">724</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Luft.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo die Felsenlager stehen,</l>
+            <l>Sich des Schnees Daunen blähen,</l>
+            <l>Auf des Chimborasso Höhen</l>
+            <l>Ist der junge Stral erwacht;</l>
+            <l>Regt und dehnt die ros'gen Glieder,</l>
+            <l>Schüttelt dann sein Goldgefieder,</l>
+            <l>Mit dem Flimmerauge nieder</l>
+            <l>Blinzt er in des Thales Schacht.</l>
+            <l>Dringt zu dir im weichen Duft</l>
+            <l>Nicht der Himmelsodem — Luft?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In's frische Land der Jäger tritt:</l>
+            <l>„gegrüßt du fröhlicher Morgen!</l>
+            <l>Gegrüßt du Sonn', mit dem leichten Schritt</l>
+            <l>Wir Beiden ziehn ohne Sorgen.</l>
+            <l>Und drei Mal gegrüßt mein Geselle Wind,</l>
+            <l>Der stets mir wandelt zur Seite,</l>
+            <l>Im Walde flüstert durch Blätter lind,</l>
+            <l>Zur Höh' gibt springend Geleite.</l>
+            <l>Und hat die Gems, das listige Thier,</l>
+            <l>Mich verlockt in ihr zackiges Felsrevier,</l>
+            <l>Wie sind wir Drei dann so ganz allein,</l>
+            <l>Du, Luft, und ich, und der uralte Stein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

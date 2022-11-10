@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiII.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">109</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">452</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hadern die Partei'n, und jede Waffe klirrt:</l>
+            <l>Wer achtet nun den Lenz, den üpp'gen Gast der Welt,</l>
+            <l>Der taumelnd und berauscht nach allen Seiten irrt?</l>
+            <l>Wer blickt den Himmel an, und saugt die reine Luft,</l>
+            <l>Die brütend über uns mit leisem Flügel schwirrt?</l>
+            <l>D'rum sammle sich umher, wem noch der Lenz behagt,</l>
+            <l>Wer noch des Weins begehrt, wer noch von Liebe girrt!</l>
+            <l>Ihm hat den Schleyer nicht umsonst gestickt die Nacht,</l>
+            <l>Und nicht umsonst der Tag die Zelter angeschirrt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

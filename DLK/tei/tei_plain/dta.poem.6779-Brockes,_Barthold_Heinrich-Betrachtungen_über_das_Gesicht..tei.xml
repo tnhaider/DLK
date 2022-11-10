@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über das Gesicht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">546</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über das Gesicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir können nimmermehr getreure Hülff' erlangen,</l>
+            <l>Als unsrer Augen Hülff, des Firmamentes Prangen,</l>
+            <l>Den wundervollen Lauff der Lichter seiner Höh’n</l>
+            <l>Zu überlegen, zu besehn.</l>
+            <l>Allein kan man der Tieffe Gröss’ erblicken,</l>
+            <l>Und ihrer Kugeln Glantz und Wunderwürdigkeit?</l>
+            <l>Sie werden das Gesicht, so sich verirrt, berücken;</l>
+            <l>Wo uns nicht die Vernunfft getreue Regeln beut.</l>
+            <l>Wann, fern vom Horizont, der Mond sich aufwerts führet,</l>
+            <l>Und in den blauen Lufft-Creis steigt;</l>
+            <l>So scheint er, als ob er den Baum, das Haus berühret,</l>
+            <l>Von welchem er sich gantz nicht abgesondert zeigt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Madrigal</title>
+        <author>
+          <persName>
+            <surname>Zäunemann</surname>
+            <forename>Sidonia Hedwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">672</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1727</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Madrigal</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das glänzende und helle Nacht-Gewürm,</l>
+            <l>Scheint nur zur warmen Sommer-Zeit.</l>
+            <l>So auch die Heuchel-Christen,</l>
+            <l>Sich bey dem Glück mit ihrer Frömmigkeit</l>
+            <l>Und Liebe Gottes brüsten.</l>
+            <l>Die Frommen aber sind nicht so gesinnt:</l>
+            <l>Bey rauher Zeit, bey Trübsal, Sturm und Wind;</l>
+            <l>Bey Jammer, Elend, Weinen</l>
+            <l>Sie nach der Sterne Art bey kalten Nächten funkelnd scheinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das glänzende und helle Nacht-Gewürm,</l>
+            <l>Scheint nur zur warmen Sommer-Zeit.</l>
+            <l>So auch die Heuchel-Christen,</l>
+            <l>Sich bey dem Glück mit ihrer Frömmigkeit</l>
+            <l>Und Liebe Gottes brüsten.</l>
+            <l>Die Frommen aber sind nicht so gesinnt:</l>
+            <l>Bey rauher Zeit, bey Trübsal, Sturm und Wind;</l>
+            <l>Bey Jammer, Elend, Weinen</l>
+            <l>Sie nach der Sterne Art bey kalten Nächten funkelnd scheinen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

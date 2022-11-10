@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schwertspruch</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">538</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1858</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schwertspruch</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter allen Lords in meinem Reich</l>
+            <l>War keiner doch dem Douglas gleich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum trag du, wenn ich gestorben bin,</l>
+            <l>Mein Herz zum heiligen Grabe hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort mag es liegen tief und still,</l>
+            <l>Bis mein Erlöser es wecken will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein besserer Ritter bis diese Stund'</l>
+            <l>An keines Königs Seite stund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter allen Lords in meinem Reich</l>
+            <l>War keiner doch dem Douglas gleich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum trag du, wenn ich gestorben bin,</l>
+            <l>Mein Herz zum heiligen Grabe hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort mag es liegen tief und still,</l>
+            <l>Bis mein Erlöser es wecken will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein besserer Ritter bis diese Stund'</l>
+            <l>An keines Königs Seite stund.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

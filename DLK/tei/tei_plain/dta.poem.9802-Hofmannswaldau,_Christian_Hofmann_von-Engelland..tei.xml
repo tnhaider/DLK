@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Engelland.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">197</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">814</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Engelland.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja freylich sorget man für dein und mein vergnügen/</l>
+            <l>Und diß sicht unsern feind am allermeisten an/</l>
+            <l>Dem des verhängniß spruch/ in fernern krieges-zügen/</l>
+            <l>Den längst beschloß’nen fall bereits hat kund gethan.</l>
+            <l>Auf Teutschland/ laß uns dann macht/ muth und treu verneuẽ.</l>
+            <l>Ein edler friede wird doch nur durch streit gekrönt.</l>
+            <l>Mein König und dein held/ die uns in noth erfreuen/</l>
+            <l>Die werden nur durch diß/ was uns behagt/ versöhnt.</l>
+            <l>Wie aber wird von mir dein theurer Fürst geehret?</l>
+            <l>Den ich den meinen auch mit rechte nennen mag.</l>
+            <l>Sein elter vater hat mir diesen ruhm gewähret/</l>
+            <l>Da er in meiner schoß erblickt den ersten tag.</l>
+            <l>Es liebt sein ohre zwar mehr der carthaunen knallen;</l>
+            <l>Doch seine freundlichkeit verschmäh’t kein schlechtes lied/</l>
+            <l>Das meiner töchter chor zu seinem lob läst schallen/</l>
+            <l>Wo an der Themse man die weisse schwanen sieh’t.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

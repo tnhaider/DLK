@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">* *</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">101</measure>
+        <measure type="tokens">68</measure>
+        <measure type="characters">379</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>* *</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weiß man die danckbarkeit nicht überall zu loben?</l>
+            <l>Indessen läst sie sich an wenig orten sehn.</l>
+            <l>So lange Damons wind’ in deine segel wehn,</l>
+            <l>Und du noch hoffnung hast, wird jener stets erhoben.</l>
+            <l>Hast du die wohlthat weg, so mag er ewig ruhn:</l>
+            <l>So will kein Criton mehr sich, wie vorhin beqvemen.</l>
+            <l>Was du dich nicht geschämt vom Damon anzunehmen,</l>
+            <l>Das schämst du dich hernach ihm wieder anzuthun.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

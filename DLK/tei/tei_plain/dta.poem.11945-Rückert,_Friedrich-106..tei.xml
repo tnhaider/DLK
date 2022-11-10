@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">106.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2</measure>
+        <measure type="syllables">74</measure>
+        <measure type="tokens">60</measure>
+        <measure type="characters">306</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>106.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eh du ein Werk beginnst, sieh zu, ob auch die Krone,</l>
+            <l>Die es verheißt, der Müh, die es erfordert, lohne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bist du erst mitten drinn, und nimmst es dann zu Sinn,</l>
+            <l>Zu spät, was du auch thust, ist dann nur Ungewinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn wenn du abstehst, hast du dich umsonst geplagt;</l>
+            <l>Und setzest du es fort, so ist noch mehr gewagt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

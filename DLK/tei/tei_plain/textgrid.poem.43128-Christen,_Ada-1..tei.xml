@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Christen</surname>
+            <forename>Ada</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">632</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1870</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie sie lodern, wie sie beben,</l>
+            <l>Still verglimmen und verweh'n –</l>
+            <l>Und ein Stück von meinem Leben</l>
+            <l>Seh' in Asche ich vergeh'n.</l>
+            <l>Weiche, goldig-blonde Locken,</l>
+            <l>Manche Blume, die da schlief,</l>
+            <l>Es zerstirbt in Aschenflocken</l>
+            <l>Mancher alte Liebesbrief.</l>
+            <l>Welches Glück die Worte brachten,</l>
+            <l>Diese Phrasen, – Gott erbarm'!</l>
+            <l>Wie sie </l>
+            <l>Heute wird die </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie sie lodern, wie sie beben,</l>
+            <l>Still verglimmen und verweh'n –</l>
+            <l>Und ein Stück von meinem Leben</l>
+            <l>Seh' in Asche ich vergeh'n.</l>
+            <l>Weiche, goldig-blonde Locken,</l>
+            <l>Manche Blume, die da schlief,</l>
+            <l>Es zerstirbt in Aschenflocken</l>
+            <l>Mancher alte Liebesbrief.</l>
+            <l>Welches Glück die Worte brachten,</l>
+            <l>Diese Phrasen, – Gott erbarm'!</l>
+            <l>Wie sie </l>
+            <l>Heute wird die </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

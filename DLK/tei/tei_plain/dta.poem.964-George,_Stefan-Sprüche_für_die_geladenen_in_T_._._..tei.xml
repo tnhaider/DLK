@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sprüche für die geladenen in T . . .</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-6 2-5 3-5 4-6</measure>
+        <measure type="syllables">170</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">1010</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sprüche für die geladenen in T . . .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Indess deine mutter dich stillt                 </l>
+            <l>Soll eine leidige fee                 </l>
+            <l>Von schatten singen und tod                 </l>
+            <l>Sie giebt dir als pathengeschenk                 </l>
+            <l>Augen so tr&amp;#252;b und sonder                 </l>
+            <l>In die sich die musen versenken               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ver&amp;#228;chtlich wirst du blicken                 </l>
+            <l>Auf roher spiele gebahren                 </l>
+            <l>Vor arbeit die niedrig macht                 </l>
+            <l>Die grossen strengen gedanken                 </l>
+            <l>Dich mahnen und wahren               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn deine br&amp;#252;der klagen                 </l>
+            <l>Und sagen: o schmerz! den deinen                 </l>
+            <l>Sag ihn den winden bei nacht                 </l>
+            <l>Und unter der n&amp;#228;gel waffe                 </l>
+            <l>Blute die kindliche brust               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vergiss es nicht: du musst                 </l>
+            <l>Deine frische jugend töten                 </l>
+            <l>Auf ihrem grab allein                 </l>
+            <l>Wenn viele thr&amp;#228;nen es begiessen &amp;#8212; spriessen                 </l>
+            <l>Unter dem einzig wunderbaren gr&amp;#252;n                 </l>
+            <l>Die einzigen schönen rosen.               </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

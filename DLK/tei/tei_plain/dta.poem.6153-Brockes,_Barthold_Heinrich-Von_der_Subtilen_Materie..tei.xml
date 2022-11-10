@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Subtilen Materie.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Subtilen Materie.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sah’ er, so voller Kunst, den schönen Bau der Welt;</l>
+            <l>Hat er sich ihn, als wenn er lebte,</l>
+            <l>Und durch den Himmels-Stoff beseelt sey, vorgestellt.</l>
+            <l>Doch sonder so gar weit zu gehen,</l>
+            <l>Kan man von diesem Stoff so viel gewiß verstehen,</l>
+            <l>Er sey an jedem Ort. Durch die stets rege Gluht</l>
+            <l>Entwickelt er die Pflantzen, senckt ihr Bluht,</l>
+            <l>Den fruchtbarn Nahrungs-Safft, in ihren Schooß;</l>
+            <l>Es wird der Keim durch ihn bloß fruchtbar, reg und groß.</l>
+            <l>Er wirckt in unserm Leib’ den wurtzelichten Safft,</l>
+            <l>Der unsre Geister treibt, wodurch das Bluht</l>
+            <l>So flüßig wird, und nimmer ruht:</l>
+            <l>Die gäntzliche Natur verspühret seine Krafft.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

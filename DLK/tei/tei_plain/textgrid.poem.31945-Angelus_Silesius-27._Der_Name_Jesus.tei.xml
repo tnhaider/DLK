@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">27. Der Name Jesus</title>
+        <author>
+          <persName>
+            <surname>Angelus Silesius</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">4</measure>
+        <measure type="verses_per_stanza">1-2 2-2</measure>
+        <measure type="syllables">48</measure>
+        <measure type="tokens">32</measure>
+        <measure type="characters">184</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>27. Der Name Jesus</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der süße Jesus-Nam ist Honig auf der Zung,</l>
+            <l>Im Ohr ein Brautgesang, im Herz ein Freudensprung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der süße Jesus-Nam ist Honig auf der Zung,</l>
+            <l>Im Ohr ein Brautgesang, im Herz ein Freudensprung.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

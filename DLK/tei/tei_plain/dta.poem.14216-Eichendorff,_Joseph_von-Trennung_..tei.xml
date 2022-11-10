@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trennung .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">666</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trennung .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie oft, wenn wir im Garten ruhig waren,</l>
+            <l>Sagte mein Bruder mir vor vielen Jahren:</l>
+            <l>„dem schönen Lenz gleicht recht die erste Liebe.</l>
+            <l>Wann draußen neu geschmückt die Frühlingsbühne,</l>
+            <l>Die Reiter blitzend unten zieh'n durch's Grüne,</l>
+            <l>In blauer Luft die Lerchen lustig schwirren,</l>
+            <l>Läßt sie sich weit in's Land hinaus verführen.</l>
+            <l>Fragt nicht wohin, und mag sich gern verirren,</l>
+            <l>Den Stimmen folgend, die sie wirrend führen.</l>
+            <l>Da wendet auf den Feldern sich der Wind,</l>
+            <l>Die Vögel hoch durch Nebel zieh'n nach Haus;</l>
+            <l>Es wird so still, das schöne Fest ist aus.</l>
+            <l>Gar weit die Heimath liegt, das schöne Kind</l>
+            <l>Find't nicht nach Hause mehr, nicht weiter fort —</l>
+            <l>Hüt' dich, such' früh dir einen sichern Port!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

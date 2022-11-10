@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Splitter-Richter.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">99</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">407</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Splitter-Richter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr/ die ihr alles wolt nach euren Urtheil richten/</l>
+            <l>Und alles fort verwersst/ was euch nicht Probe hält/</l>
+            <l>Gedencket richten ist vielleichter als was dichten/</l>
+            <l>Und daß des Him̃els Thun nicht allen gleich gefält.</l>
+            <l>Gedenckt wer allzu kühn den Richter-Stuhl besteiget/</l>
+            <l>Der richtet sich selbst mit/ und zeiget klährlich an/</l>
+            <l>Wie weit er es versteht/ wozu sein Hertz geneiget/</l>
+            <l>So wie man an dem Knall ein Stück erkennen kan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

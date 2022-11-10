@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Villa reale a Napoli</title>
+        <author>
+          <persName>
+            <surname>Hebbel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">234</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">902</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Villa reale a Napoli</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter duftigen Bäumen, vom Hauch des Abends durchsäuselt,</l>
+            <l>Sammelt von reizenden Frau'n still sich ein glänzender Flor;</l>
+            <l>Leise ergießt sich der Strom melodischer Klänge und schaukelt</l>
+            <l>Zwischen Wonne und Weh jedes empfängliche Herz;</l>
+            <l>Aber die Wogen des Meers, am nahen Gestade sich brechend</l>
+            <l>Und vom Winde geschwellt, donnern verhalten darein,</l>
+            <l>An die gewalt'gen Accorde der rollenden Sphären uns mahnend,</l>
+            <l>Welche für's menschliche Ohr sanft zur Musik sich gedämpft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter duftigen Bäumen, vom Hauch des Abends durchsäuselt,</l>
+            <l>Sammelt von reizenden Frau'n still sich ein glänzender Flor;</l>
+            <l>Leise ergießt sich der Strom melodischer Klänge und schaukelt</l>
+            <l>Zwischen Wonne und Weh jedes empfängliche Herz;</l>
+            <l>Aber die Wogen des Meers, am nahen Gestade sich brechend</l>
+            <l>Und vom Winde geschwellt, donnern verhalten darein,</l>
+            <l>An die gewalt'gen Accorde der rollenden Sphären uns mahnend,</l>
+            <l>Welche für's menschliche Ohr sanft zur Musik sich gedämpft.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

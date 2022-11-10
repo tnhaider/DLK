@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gedankenflüge .</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">257</measure>
+        <measure type="tokens">165</measure>
+        <measure type="characters">993</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gedankenflüge .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts kann in dieser Welt in Nichts verschwinden,</l>
+            <l>Ein Etwas bleibt stets was ein Etwas war,</l>
+            <l>In andrer Form nur muß sich’s wiederfinden,</l>
+            <l>Aus Raum und Zeit stellt sich der Wechsel dar:</l>
+            <l>Die Blätter keimen, grünen und verwehen,</l>
+            <l>Geschlechter kommen und Geschlechter gehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eins nur beharrt in der Verändrung Wogen</l>
+            <l>Und baut sich fort, wenn alles steigt und fällt.</l>
+            <l>Es überwölbt mit hoch erhab’nem Bogen</l>
+            <l>Den Zeitenstrom der körperlichen Welt:</l>
+            <l>Das ist die Brücke, die der Geist geschlagen,</l>
+            <l>Um uns vom Irdischen zu Gott zu tragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Volk des Perikles hat ausgerungen</l>
+            <l>Und längst erblindete sein Ehrenschild,</l>
+            <l>Homers und Pindars Leier ist verklungen</l>
+            <l>Und ach, zermalmt des Phidias Götterbild:</l>
+            <l>Doch ob auch die Akropolis zerfallen,</l>
+            <l>Der Geist von Hellas lebt noch in uns Allen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn er allein hat mit Titanenkräften</l>
+            <l>In alter Zeit den festen Grund gelegt,</l>
+            <l>Der über sich auf prächt’gen Säulenschäften</l>
+            <l>Der Ewigkeit gewalt’gen Tempel trägt.</l>
+            <l>Wohl sieht man Volk auf Volk dran weiter bauen,</l>
+            <l>Doch wird ihn je die Welt vollendet schauen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

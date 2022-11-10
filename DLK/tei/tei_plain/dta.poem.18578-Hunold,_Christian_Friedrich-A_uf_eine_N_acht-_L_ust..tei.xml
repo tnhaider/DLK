@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">A uf eine  N acht- L ust.</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">131</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">533</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1702</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197766"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>A uf eine  N acht- L ust.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sonne laß den heissen Strahl</l>
+            <l>Sich doch mit der See vermählen/</l>
+            <l>Denn so kan ich abermahl</l>
+            <l>Tausend süsse Stunden zehlen/</l>
+            <l>Weil allein in schwartzer Nacht/</l>
+            <l>Meine Freuden Sonne lacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Pranget heunt ihr Sternen nicht/</l>
+            <l>Hüllet euch in dunckle Schatten/</l>
+            <l>Denn es soll ein schöner Licht/</l>
+            <l>Sich mit meiner Liebe Gatten.</l>
+            <l>Nur allein dich seh' ich gern/</l>
+            <l>Du gewünschter Venus-Stern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles was mich sonst ergötzt/</l>
+            <l>Muß numehro von mir weichen/</l>
+            <l>Und was sterblich wird geschätzt/</l>
+            <l>Soll anitzt die Seegel streichen;</l>
+            <l>Weil ein Engel gleicher Geist/</l>
+            <l>Heunte mein Vergnügen heist.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

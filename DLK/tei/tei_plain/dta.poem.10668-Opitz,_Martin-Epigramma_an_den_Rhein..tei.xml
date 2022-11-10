@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Epigramma   an den Rhein.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">97</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">386</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Epigramma   an den Rhein.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob wol/ du grosser Rhein/ dir alle Flüsse weichen/</l>
+            <l>Vnd deine Fruchtbarkeit die schönste Trauben bringt/</l>
+            <l>So muß ich dennoch dir diß kleine Wasser gleichen/</l>
+            <l>Weil Delia hier offt von jhrer Liebe singt/</l>
+            <l>Doch sprichstu/ diese Bach ist kotig/ dick/ vnd trübe/</l>
+            <l>Auch wegen Feistigkeit nicht wol zuschawen an/</l>
+            <l>Diß ist es/ edler Rein/ warumb ich sie mehr Liebe/</l>
+            <l>Weil Delia in jhr sich nicht besehen kan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

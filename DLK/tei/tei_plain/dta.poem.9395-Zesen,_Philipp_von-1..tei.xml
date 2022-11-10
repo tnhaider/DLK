@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">637</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die güldene Sonne</l>
+            <l>bringt leben und wonne/</l>
+            <l>die finsternüs weicht/</l>
+            <l>der Morgen sich zeiget/</l>
+            <l>die Röthin aufsteiget/</l>
+            <l>der Monde verbleicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun sollen wier loben</l>
+            <l>den Höchsten dort oben</l>
+            <l>daß Er uns die Nacht</l>
+            <l>hatt wollen behüten</l>
+            <l>vor schrecken und wüten</l>
+            <l>der Höllischen macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt laßet uns singen/</l>
+            <l>die stimmen erschwingen/</l>
+            <l>zu dancken dem HErrn/</l>
+            <l>Ey bittet und flehet/</l>
+            <l>daß Er uns beystehet</l>
+            <l>und weiche nicht fern..</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es sey Jhm ergeben</l>
+            <l>mein Leben und schweben/</l>
+            <l>mein gehen und siehn/</l>
+            <l>Er gebe mier gaben</l>
+            <l>zu meinem vorhaben/</l>
+            <l>laß richtig mich gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In meinem Studieren</l>
+            <l>wird Er mich wohl führen/</l>
+            <l>und bleiben bey mier/</l>
+            <l>wird schärffen die Sinnen</l>
+            <l>zu meinem Beginnen/</l>
+            <l>und öffnen die Thür.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

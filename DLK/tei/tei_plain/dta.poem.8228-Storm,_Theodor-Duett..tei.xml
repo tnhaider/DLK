@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Duett.</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">574</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1852</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196098"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Duett.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Neigt sich die Seele dir;</l>
+            <l>Höher schlagen die Wellen,</l>
+            <l>Fluthen die Pulse mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fliehen und Wiederfinden,</l>
+            <l>Wechselnde Melodie!</l>
+            <l>Laß du die Seele schwinden,</l>
+            <l>Sterben in Harmonie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hörst du den Ruf erklingen,</l>
+            <l>Rühren dein träumend Ohr?</l>
+            <l>Weiße blendende Schwingen</l>
+            <l>Tragen dich wehend empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selig, im Lichte zu schweben</l>
+            <l>Ueber den Wolken hoch!</l>
+            <l>Ließt du das süße Leben,</l>
+            <l>Kennst du die Erde noch?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber zum stillen Grunde</l>
+            <l>Zieht es hernieder schon;</l>
+            <l>Heimlich von Mund zu Munde</l>
+            <l>Wechselt ein leiser Ton.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fernhin rauschen die Wogen,</l>
+            <l>Schütze mein pochend Herz!</l>
+            <l>Schon kommt die Nacht gezogen —</l>
+            <l>Fühlst du den süßen Schmerz?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

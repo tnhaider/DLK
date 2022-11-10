@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">La Röse.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">242</measure>
+        <measure type="tokens">147</measure>
+        <measure type="characters">879</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>La Röse.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als der Bernina Felsenthor</l>
+            <l>Durchdonnerte der Wagen</l>
+            <l>Und wir im Süden sahn empor</l>
+            <l>Die Muschelberge ragen,</l>
+            <l>Blies schmetternd auf dem Rößlein vorn</l>
+            <l>Der in der Lederhose.</l>
+            <l>„wen grüßest du mit deinem Horn?“</l>
+            <l>„die Rose, Herr, die Rose!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit flachem Dach ein Säulenhaus,</l>
+            <l>Das erste welsche Bildniß,</l>
+            <l>Schaut Röse weinumwunden aus</l>
+            <l>Verworr'ner Gartenwildniß —</l>
+            <l>Es ist, als ob des Baches Flut</l>
+            <l>Melod'scher schon ertose,</l>
+            <l>Hell brennt in Abendsonnenglut</l>
+            <l>Die Rose, ja, die Rose.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun, Herz, beginnt die Wonnezeit</l>
+            <l>Auf Wegen und auf Stegen,</l>
+            <l>Mir strömt ein Hauch von Ueppigkeit</l>
+            <l>Und ew'gem Lenz entgegen —</l>
+            <l>Mir gaukelt um die helle Stirn</l>
+            <l>Ein Falter mit Gekose —</l>
+            <l>Den Wein bringt eine junge Dirn,</l>
+            <l>Die Rose, ja, die Rose.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch einmal darf in südlich Land</l>
+            <l>Ich Nordgeborner wallen,</l>
+            <l>Vertauschen meine Felsenwand</l>
+            <l>Mit weißen Marmorhallen.</l>
+            <l>Gegrüßt, Italien, Licht und Lust!</l>
+            <l>Ich preise meine Loose!</l>
+            <l>Du bist an unsrer Erde Brust</l>
+            <l>Die Rose, ja die Rose!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

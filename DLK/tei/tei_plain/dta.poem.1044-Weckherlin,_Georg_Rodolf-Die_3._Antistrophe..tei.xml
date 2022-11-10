@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die 3. Antistrophe.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">516</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1618</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20628-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die 3. Antistrophe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hjezwischen gienge mit verlangen</l>
+            <l>Die gantze Churfürstliche stat/</l>
+            <l>Da der Neckar den anfluß hat</l>
+            <l>Jhr liebe Fürstin zuempfangen;</l>
+            <l>Welche mit grossem pomp vnd pracht</l>
+            <l>Vnder vilen Fräwlin gefahren</l>
+            <l>Leuchtet/ wie in Nymphischen scharen</l>
+            <l>Diana in der hellen macht:</l>
+            <l>Von perlen vnd edelgesteinen</l>
+            <l>Jhr haubt vnd jhre klaider scheinen/</l>
+            <l>Doch gläntzet jhre schönheit mehr/</l>
+            <l>Vnd ist sie selbs jhr gröste ehr.</l>
+            <l>Gleich wie auch jhr liebliche Jugent</l>
+            <l>Schimmert in einem guldin stuck:</l>
+            <l>Also Ehr/ Gotsforcht/ Zucht vnd Tugent</l>
+            <l>Seind jhrer sehlen wahrer schmuck.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

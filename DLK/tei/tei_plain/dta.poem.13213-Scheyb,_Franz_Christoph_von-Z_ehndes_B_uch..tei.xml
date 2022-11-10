@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z ehndes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">127</measure>
+        <measure type="characters">804</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z ehndes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thalia fragte mich, ob ich die Lebens-Zeit</l>
+            <l>Dergleichen Lust gesehn, und solche Zärtlichkeit?</l>
+            <l>Man hört’ und sahe nichts als Schmeicheln, Spielen, Herzen,</l>
+            <l>Der ganze Saal empfand die Reizung mit zu scherzen.</l>
+            <l>365Welch ungemeines Glück erfüllte nicht den Saal</l>
+            <l>Bey diesem Kinder-Chor, bey diesem Freuden-Mahl!</l>
+            <l>War irgendswo ein Kind hier oder dort umrungen,</l>
+            <l>So merckten wir daß sich dahin die meisten drungen;</l>
+            <l>Biß endlich eine dieß, die andre jenes hielt;</l>
+            <l>370Das machte, daß der Streit sich allgemach gestillt.</l>
+            <l>Nur bey dem guten Rath gab es noch Artigkeiten,</l>
+            <l>Die seines Prinzens Aug’ und Herz und Hand erfreuten.</l>
+            <l>Sein ganzes Leben war in solcher Freud’ und Lust,</l>
+            <l>Daß ihn der treue Greiß fast nicht zu halten wußt.</l>
+            <l>375So lebhaft und erweckt, so geistreich sein Geblüthe;</l>
+            <l>So Kummer-voll und schwach schien dieses Manns Gemüthe.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

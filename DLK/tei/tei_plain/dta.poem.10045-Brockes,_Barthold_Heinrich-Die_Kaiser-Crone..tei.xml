@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Kaiser-Crone.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-6</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">697</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Kaiser-Crone.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>B. Wer setzte deinen hohen Throu,</l>
+            <l>O prächtig-schöne Kaiser-Cron’,</l>
+            <l>Allhier so nah am Rosen-Strauch?</l>
+            <l>Da ja der Dornen starre Spitzen,</l>
+            <l>An stat denselbigen zu stützen,</l>
+            <l>An stat die Blätter zu beschützen,</l>
+            <l>Dir deine Blätter gantz zerritzen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>K. So wie du denckest, denck ich auch.</l>
+            <l>Ich meint’, in stetigem Vergnügen.</l>
+            <l>Auf frischen Rosen sanft zu liegen:</l>
+            <l>So aber reibet Eurus Hauch</l>
+            <l>Mich an die Dornen, ehe noch</l>
+            <l>Die Rosen aus den Knospen brechen;</l>
+            <l>Wodurch sie denn so manches Loch</l>
+            <l>In mich und meinen Purpur stechen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Herrscher, die ihr Cronen tragt,</l>
+            <l>Lasst, was der Bluhmen Crone sagt,</l>
+            <l>Auch euch zur Lehr’ ans Hertze gehen,</l>
+            <l>Indem der allermeisten Cronen</l>
+            <l>Auch noch so fest gegründte Thronen</l>
+            <l>Beym Rosen-Strauch gepflantzet stehen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

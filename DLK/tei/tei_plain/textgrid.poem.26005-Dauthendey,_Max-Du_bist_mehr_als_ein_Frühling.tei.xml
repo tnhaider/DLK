@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Du bist mehr als ein Frühling</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-3 3-2 4-2 5-3 6-2</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">868</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Du bist mehr als ein Frühling</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der süße Flieder steht nur einmal im Jahr auf dem Baum,</l>
+            <l>Deine Brüste blühen mir jahraus, jahrein, du bist mehr als ein Frühling.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Wünsche glänzten wie die Sprossen der Kastanie,</l>
+            <l>Du zogst sie alle an die Sonne, wir sitzen in einem Laubdach</l>
+            <l>Und lachen uns zu im satten Schatten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie einen Baum, den der Blitz überfiel, hatte mich die Sehnsucht gezeichnet,</l>
+            <l>Jetzt wohnen deine Bienen bei mir, und meine Augen fließen über von deinem Honig.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der süße Flieder steht nur einmal im Jahr auf dem Baum,</l>
+            <l>Deine Brüste blühen mir jahraus, jahrein, du bist mehr als ein Frühling.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Wünsche glänzten wie die Sprossen der Kastanie,</l>
+            <l>Du zogst sie alle an die Sonne, wir sitzen in einem Laubdach</l>
+            <l>Und lachen uns zu im satten Schatten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie einen Baum, den der Blitz überfiel, hatte mich die Sehnsucht gezeichnet,</l>
+            <l>Jetzt wohnen deine Bienen bei mir, und meine Augen fließen über von deinem Honig.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

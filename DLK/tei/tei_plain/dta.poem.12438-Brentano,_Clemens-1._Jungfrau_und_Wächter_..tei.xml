@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.  Jungfrau und Wächter .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">186</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">773</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.  Jungfrau und Wächter .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von hoher Art ein Fräulein zart,                 </l>
+            <l>Hört ich dem Wächter klagen,</l>
+            <l>Aus Herzens-Qual, zum erstenmal</l>
+            <l>Wollt sie die Liebe wagen,</l>
+            <l>Sie sprach: „Geselle mein Ungefälle</l>
+            <l>„ist nah und bringt mir Schmerzen,</l>
+            <l>„ach Wächter gut, ein argen Muth</l>
+            <l>„trag ich in meinem Herzen.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„einem werthen Mann, dem wünsch ich an,</l>
+            <l>„viel Glück und Heil mit Treuen,</l>
+            <l>„sein Tugend groß findt niemand blos,</l>
+            <l>„auf ihn ist wohl zu bauen,</l>
+            <l>„daß er wohl sey alles Wandels frey,</l>
+            <l>„ein Mann von hohen Ehren.“</l>
+            <l>„o Wächter mein, mag es wohl seyn,</l>
+            <l>„so hilf mir Freude mehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„gut, Wächter! ich kann ihn ohne dich,</l>
+            <l>„in mein Gemach nicht bringen,</l>
+            <l>„o wolle mir nach meiner Begier,</l>
+            <l>„mein Leid nun helfen wenden,</l>
+            <l>„ich sag fürwahr, daß immerdar</l>
+            <l>„mit Gab ich dir's vergelte,</l>
+            <l>„kömmt er herbey, gut Wächter frey,</l>
+            <l>„den Gast gen niemand melde.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

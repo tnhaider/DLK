@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Weisser gesang</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">1001</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Weisser gesang</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dass ich f&amp;#252;r sie den weissen traum ers&amp;#228;nne &amp;#183; &amp;#183;                 </l>
+            <l>Mir schien im schloss das herbe strahlen tr&amp;#228;nken                 </l>
+            <l>Und blasse bl&amp;#252;ten-b&amp;#228;ume nur umschr&amp;#228;nken                 </l>
+            <l>Dass er mit zweier kinder fr&amp;#252;htag r&amp;#228;nne               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein jedes einen schlanken strauss umschl&amp;#228;nge                 </l>
+            <l>Hell-flitternd wie von leichtgeregter espe                 </l>
+            <l>Daraus als wimpel eine silber-trespe                 </l>
+            <l>Hoch &amp;#252;ber ihre schwachen stirnen schw&amp;#228;nge               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und beide langsam k&amp;#228;men nach dem weiher                 </l>
+            <l>Auf breitem marmelstiege manchmal wankend                 </l>
+            <l>Bis bei dem fl&amp;#252;gelschlag der nahen reiher                 </l>
+            <l>Der arme sanfte b&amp;#252;rde heftig schwankend               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Duft-nebel wirbelte von k&amp;#252;hlen narden                 </l>
+            <l>Mit denen die Vereinten höherem raume                 </l>
+            <l>Entgegen schwebend immer lichter warden                 </l>
+            <l>Bald eines mit dem reinen &amp;#228;ther-flaume.               </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

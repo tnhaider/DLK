@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Iv.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">98</measure>
+        <measure type="tokens">63</measure>
+        <measure type="characters">388</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Iv.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch Jugend, leider! blüht nicht allzulange!</l>
+            <l>Dein wolkenfreyes Angesicht verkläret</l>
+            <l>Ein leichter Sinn, an dem ich zärtlich hange;</l>
+            <l>Wie freundlich lacht das Aug' aus blonder Wimper,</l>
+            <l>Wie schmückt der Bart so schön die Tulpenwange!</l>
+            <l>Den Becher fülle mir! Der Wein beschwichtigt</l>
+            <l>Die kranke Brust mit ihrem wilden Drange:</l>
+            <l>Du zwingst zu lieben dich die Welt, wie </l>
+            <l>Euch Beyde d'rum verkünd' ich im Gesange.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

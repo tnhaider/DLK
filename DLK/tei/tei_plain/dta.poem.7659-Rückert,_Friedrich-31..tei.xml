@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">31.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">395</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>31.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hatte von der Zeit mich nebenaus gerettet,</l>
+            <l>Vor ihren Stürmen in ein Ruhthal mich gebettet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da richtet' ich mich ein, bequem für mich zu hausen,</l>
+            <l>Und ließ die tolle Zeit indessen weiter brausen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich dacht' ich sei zurück, und weit sei mir die Zeit</l>
+            <l>Voraus, da sah ich daß sie selbst zurück sei weit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist das hinter ihr, vor dem sie nimmt die Flucht;</l>
+            <l>Und was das außer ihr, nach dem sie ewig sucht?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

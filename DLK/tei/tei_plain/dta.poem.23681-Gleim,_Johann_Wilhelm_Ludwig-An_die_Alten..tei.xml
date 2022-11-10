@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Alten.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-22</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">696</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Alten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>V&amp;#228;ter, stört uns nicht im Tanze!</l>
+            <l>Kommt, und mischt euch in die Reihen,</l>
+            <l>Wenn ihr gleich mit Krükken tanzet!</l>
+            <l>Tanzt, ihr Väter, mit den Töchtern,</l>
+            <l>Geht, ihr Söhne, holt die Mütter,</l>
+            <l>Tragt sie tanzend auf den Armen,</l>
+            <l>Oder laßt die alten Rükken</l>
+            <l>Auf den iungeu Rükken tanzen!</l>
+            <l>Schüttelt Väter, schüttelt Mütter,</l>
+            <l>Daß das kalte Blut erwärme,</l>
+            <l>Daß das Feuer in den Adern,</l>
+            <l>Noch einmal für Wollust brenne,</l>
+            <l>Wie es in der Jugend brannte,</l>
+            <l>Damals, als ihr Söhne wurdet!</l>
+            <l>Väter, fühlt die Freude wieder,</l>
+            <l>Die ihr in der Jugend fühltet,</l>
+            <l>Nehmt die Mütter bei den Hälsen’,</l>
+            <l>Herzt und küßt sie, bis sie lachen!</l>
+            <l>Wälzt die Falten von der Stirne,</l>
+            <l>Laßt die Jugend wieder blühen!</l>
+            <l>Was ist besser, als die Jugend?</l>
+            <l>Was ist schöner, als der Früling?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

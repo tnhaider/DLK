@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">64.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">516</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>64.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu welchem willst du dich von beiden Chören wenden?</l>
+            <l>Du hast die freie Wahl dich so und so zu blenden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du den einen glaubst, so geht die Zeit bergunter;</l>
+            <l>Wenn du den andern traust, so klimmt sie aufwerts munter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist sie villeicht das Rad, von dem sich niederneigt</l>
+            <l>Das Vordere, derweil das Hintre wieder steigt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Vordern klagen, daß zum Untergang sichs lenke,</l>
+            <l>Die Hintern jubeln, daß es sich zum Aufgang schwenke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es steigt und fällt zugleich; ob es im Ganzen falle,</l>
+            <l>Ob steige, weiß die Kraft, durch deren Stoß es walle!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

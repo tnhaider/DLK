@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Selinen .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">239</measure>
+        <measure type="tokens">150</measure>
+        <measure type="characters">934</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Selinen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum zweyten mal, o meine theure Seline,</l>
+            <l>Reißt dich die schwarze Welle hin?</l>
+            <l>Zum zweyten mal schwimmst du auf tobendem Meere</l>
+            <l>Den grimmigsten Gefahren zu?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit banger Nacht schwärzt sich der stürmende Himmel,</l>
+            <l>Der Donner donnert vom Olymp;</l>
+            <l>Der wilde Blitz erleuchtet schrecklich den Abgrund,</l>
+            <l>Der oft dein zagend Schif verschluckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verfolge nicht ein unglückseliges Mädchen,</l>
+            <l>Natur, mit so viel Grausamkeit!</l>
+            <l>Gebeut doch ietzt dem niederrollenden Donner,</l>
+            <l>Gebeut doch ietzt der frechen Fluth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hörst mich nicht? nicht das bewegliche Weinen</l>
+            <l>Des ärmsren Kindes, das verzagt?</l>
+            <l>Auss neu wälzt sich auf dunkeln wütenden Wellen</l>
+            <l>Die blasse Todesangst ins Schif.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohin, wohin reißt dich die brausende Woge</l>
+            <l>Seline, hörst du mich nicht mehr?</l>
+            <l>Ich ruf am Strand, mit aufgehabnen Händen:</l>
+            <l>Seline, hörst du mich nicht mehr?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was hoff ich noch am unglücksvollen Gestade —</l>
+            <l>Empfange mich, grausames Meer!</l>
+            <l>Kan ich sie nicht auf diesem Trümmer erretten,</l>
+            <l>So sterb ich wenigstens mit ihr!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

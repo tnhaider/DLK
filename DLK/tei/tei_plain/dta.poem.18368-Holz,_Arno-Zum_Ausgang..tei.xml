@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zum Ausgang.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">481</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zum Ausgang.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O bleicher Tod, o wolle mir nicht nahn,</l>
+            <l>Eh ich für mein Geschlecht etwas gethan,</l>
+            <l>Ich bete auf zu meinem Gott und Herrn:</l>
+            <l>Für eine schöne Sache stürb ich gern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fürs Recht der Menschheit und der neuen Zeit,</l>
+            <l>Wie wär es schön, zu fallen in dem Streit;</l>
+            <l>Bei dem gebrochnen Erz der Tyrannei,</l>
+            <l>Wie stürb es sich im Felde froh und frei!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, läg ich dann wie heut in selger Pein</l>
+            <l>Auf einem grünen Bühl im Abendschein</l>
+            <l>Und dürfte sprechen, auf der Brust die Hand:</l>
+            <l>Du kennst dein Kind, mein schönes Vaterland!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

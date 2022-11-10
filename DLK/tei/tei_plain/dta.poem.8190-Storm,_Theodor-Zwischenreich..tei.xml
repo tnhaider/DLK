@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zwischenreich.</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">661</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1852</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196098"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zwischenreich.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, ich kenne sie nicht mehr;</l>
+            <l>Nur mit Tanten und Pastoren</l>
+            <l>Hat das liebe Herz Verkehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jene süße Himmelsdemuth,</l>
+            <l>Die der Sünder Hoffart schilt,</l>
+            <l>Hat das ganze Schelmenantlitz</l>
+            <l>Wie mit grauem Flor verhüllt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, die brennend rothen Lippen</l>
+            <l>Predigen Entsagung euch;</l>
+            <l>Diese gar zu schwarzen Augen</l>
+            <l>Schmachten nach dem Himmelreich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf die Titiansche Venus</l>
+            <l>Ist ein Heilgenbild gemalt;</l>
+            <l>Ach, ich kenne sie nicht wieder,</l>
+            <l>Die so schön mit uns gedahlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nirgends mehr für blaue Märchen</l>
+            <l>Ist ein einzig' Plätzchen leer;</l>
+            <l>Nur Tractätlein und Asceten</l>
+            <l>Liegen haufenweis umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wahrlich, zum Verzweifeln wär' es —</l>
+            <l>Aber, Schatz, wir wissen schon,</l>
+            <l>Deinen ganzen Götzenplunder</l>
+            <l>Wirft ein einzger Mann vom Thron.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

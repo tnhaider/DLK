@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Abgeschiedenen .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">523</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Abgeschiedenen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So hab’ ich endlich dich gerettet</l>
+            <l>Mir aus der Menge wilden Reihn!</l>
+            <l>Du bist in meinen Arm gekettet,</l>
+            <l>Du bist nun mein, nun einzig mein.</l>
+            <l>Es schlummert Alles diese Stunde,</l>
+            <l>Nur wir noch leben auf der Welt;</l>
+            <l>Wie in der Wasser stillem Grunde</l>
+            <l>Der Meergott seine Göttin hält.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verrauscht ist all das rohe Tosen,</l>
+            <l>Das deine Worte mir verschlang;</l>
+            <l>Dein leises, liebevolles Kosen</l>
+            <l>Ist nun mein einz’ger, süßer Klang.</l>
+            <l>Die Erde liegt in Nacht gehüllet,</l>
+            <l>Kein Licht erglänzt auf Flur und Teich;</l>
+            <l>Nur dieser Lampe Schimmer füllet</l>
+            <l>Noch unsrer Liebe kleines Reich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

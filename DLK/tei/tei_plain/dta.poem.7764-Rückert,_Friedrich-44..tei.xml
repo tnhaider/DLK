@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">44.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">509</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>44.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Rosenzweig benagt ein Lämmchen auf der Weide,</l>
+            <l>Es thuts nur sich zur Luft, es thuts nicht ihm zu Leide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dafür hat Rosendorn dem Lämmchen abgezwackt</l>
+            <l>Ein Flöckchen Wolle nur, es ward davon nicht nackt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Flöckchen hielt der Dorn in scharfen Fingern fest;</l>
+            <l>Da kam die Nachtigall und wollte baun ihr Nest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sprach: Thu auf die Hand, und gib das Flöckchen mir,</l>
+            <l>Und ist mein Nest gebaut, sing' ich zum Danke dir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er gab, sie nahm und baut', und als sie nun gesungen,</l>
+            <l>Da ist am Rosendorn vor Luft die Ros' entsprungen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

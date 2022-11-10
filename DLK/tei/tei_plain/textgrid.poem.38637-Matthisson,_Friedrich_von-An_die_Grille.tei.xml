@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Grille</title>
+        <author>
+          <persName>
+            <surname>Matthisson</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">228</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">860</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1790</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Grille</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter des Seethals Ulmen wandl' ich einsam.</l>
+            <l>Feiernd schweigt die Natur, kein Lüftchen athmet;</l>
+            <l>Nur dein leiser Abendgesang, o Grille,</l>
+            <l>Tönt in den Blüthen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als ich ein Knabe war, horcht' ich mit Wonne</l>
+            <l>Deinem ländlichen Liede! Jahre schwanden,</l>
+            <l>Meine Freunde sanken ins Grab, die Schöpfung</l>
+            <l>Wurde mir öde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann ich gestorben bin, tön' aus der Moosgruft</l>
+            <l>Rosen, opfert am hohen Waldgestade</l>
+            <l>Salis meinem Schatten bethränte Kränze,</l>
+            <l>Wonne der Wehmuth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter des Seethals Ulmen wandl' ich einsam.</l>
+            <l>Feiernd schweigt die Natur, kein Lüftchen athmet;</l>
+            <l>Nur dein leiser Abendgesang, o Grille,</l>
+            <l>Tönt in den Blüthen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als ich ein Knabe war, horcht' ich mit Wonne</l>
+            <l>Deinem ländlichen Liede! Jahre schwanden,</l>
+            <l>Meine Freunde sanken ins Grab, die Schöpfung</l>
+            <l>Wurde mir öde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann ich gestorben bin, tön' aus der Moosgruft</l>
+            <l>Rosen, opfert am hohen Waldgestade</l>
+            <l>Salis meinem Schatten bethränte Kränze,</l>
+            <l>Wonne der Wehmuth.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

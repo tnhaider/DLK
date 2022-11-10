@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">67.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">155</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">591</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>67.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe nichts erdacht, nur manches ausgedeutet,</l>
+            <l>Gegraben keinen Schacht, nur manchen ausgebeutet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kann ich, wo ich gelernt, auch nicht den Lehrer nennen</l>
+            <l>Ich lernte doch, und muß als Schüler mich bekennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und der es mich gelehrt, der wird gelernt es haben</l>
+            <l>Von seinem Lehrer, dem es andre Lehrer gaben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ueberliefrung ist, wenn auch die Namen schwanden</l>
+            <l>Der Ueberliefernden, vom Anfang her vorhanden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer sagt mir nun, woher der erste selbst es nahm,</l>
+            <l>Von dem aus Hand zu Hand zu mir herab es kam?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So kommt der durst'ge Geist auf Wegen der Erfahrung</l>
+            <l>Durch Ueberliefrungswald um Quell der Offenbarung.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sühne.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">596</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sühne.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebe ist Thorheit; viel hab’ ich erfahren,</l>
+            <l>Es giebt kein Weib, das minnend ich ersehne . . . .</l>
+            <l>Da kommst du auf den Wangen Thrän’ um Thräne,</l>
+            <l>Ein reuig Weib zurück zu meinen Laren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kehrst zurück — so kam vor tausend Jahren</l>
+            <l>Zu Menelaus wohl die reuige Helene —</l>
+            <l>Und sinkest gleich der Büß’rin Magdalene</l>
+            <l>Zu Füßen mir mit losgelösten Haaren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Weib steh’ auf, soviel du auch verschuldet,</l>
+            <l>Soviel dies arme Hirn um dich geduldet,</l>
+            <l>Daß ich auf’s Neu’ dir süße Liebe künde,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Steh’ auf! Laß liebend dich auf’s Neu’ umfassen,</l>
+            <l>Vor deinem Blick zerschmilzt mein Zorn, mein Hassen,</l>
+            <l>Und deine Schönheit sühnet deine Sünde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

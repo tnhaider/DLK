@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Geruch.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">699</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Geruch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Sabeer Feld, auf dem mit reichen Schätzen</l>
+            <l>Die Pflantzen unsern Sinn bezaubern und ergetzen</l>
+            <l>Durch lieblichen Geruch, wo gleichsam allemahl</l>
+            <l>Die Weyrauch-Bäume sich bemühn,</l>
+            <l>Des Himmels Gunst auf uns herab zu ziehn,</l>
+            <l>Was thut daselbst der hellen Sonnen Strahl?</l>
+            <l>Er hemmet da, und hält den Lauff</l>
+            <l>Auf den geliebten Bäumen auf.</l>
+            <l>Noch schöner gläntzt daselbst sein wunderschöner Schein,</l>
+            <l>Er ändert, bessert, nimmt, verdünnet, machet rein,</l>
+            <l>Was an demselbigen zu grob und feucht.</l>
+            <l>Man erndtet dann von ihnen ein,</l>
+            <l>Die so geschätzte Frucht, die sich so leicht</l>
+            <l>In kleine Theilchen theilt. Zur heilgen Pfanne Gluht,</l>
+            <l>Durch welche wir den Himmel ehren,</l>
+            <l>Wie man in unsern Kirchen thut,</l>
+            <l>Muß uns Arabien sein süß Geschenck gewähren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

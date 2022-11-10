@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Muse bey den Hirten.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-6 2-11 3-4</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">536</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Muse bey den Hirten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O artigste der Musen,</l>
+            <l>Um deren vollen Busen</l>
+            <l>Die frischen Rosen düften!</l>
+            <l>Willst du auf unsern Triften</l>
+            <l>Mit armen Hirten weiden,</l>
+            <l>Und aus den Städten scheiden?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin der Stadt entgangen:</l>
+            <l>Da war ich wie gefangen.</l>
+            <l>Da will man Musen dingen:</l>
+            <l>Sie sollen iedem singen,</l>
+            <l>Bey ieder Hochzeit leyern,</l>
+            <l>Und Nahmenstage feyern.</l>
+            <l>Bey euch lacht meinen Saiten</l>
+            <l>Die Freyheit güldner Zeiten:</l>
+            <l>Ich mag die güldnen Saiten</l>
+            <l>Dem Pöbel nicht verdingen:</l>
+            <l>Ich mag nicht iedem singen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Muse, sey gegrüsset!</l>
+            <l>Hier, wo man lacht und küsset,</l>
+            <l>Laß unter Nachtigallen</l>
+            <l>Dein süsses Lied erschallen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

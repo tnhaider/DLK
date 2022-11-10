@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">IiI.  Vber die Geburt Jesu.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">167</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">717</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>IiI.  Vber die Geburt Jesu.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nacht mehr denn lichte Nacht! Nacht lichter als der Tag/ </l>
+            <l>Nacht heller als die </l>
+            <l>Das Gott/ der licht/ in licht wohnhafftig/ jhm erkohren:</l>
+            <l>O Nacht/ die alle Nächt’ vnd Täge trotzen mag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O frewdenreiche Nacht/ in welcher ach vnd klag/</l>
+            <l>Vnd finsterniß vnd was sich auff die welt verschworen</l>
+            <l>Vnd furcht vnd höllen angst vnd schrecken ward verlohren</l>
+            <l>Der Himmel bricht! doch fält nuhmehr kein donnerschlag. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der zeit vnd nächte schuff ist diese Nacht ankommen!</l>
+            <l>Vnd hat das recht der zeit/ vnd fleisch an sich genommen!</l>
+            <l>Vnd vnser fleisch vnd zeit der ewigkeit vermacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Jammer trübe nacht die schwartze nacht der Sünden</l>
+            <l>Des Grabes dunckelheit/ muß durch die nacht verschwinden. </l>
+            <l>Nacht lichter als der Tag; Nacht mehr denn lichte Nacht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

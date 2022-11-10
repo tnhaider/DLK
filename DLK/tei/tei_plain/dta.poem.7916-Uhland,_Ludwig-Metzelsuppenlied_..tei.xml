@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Metzelsuppenlied .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">253</measure>
+        <measure type="tokens">176</measure>
+        <measure type="characters">1019</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Metzelsuppenlied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir haben heut nach altem Brauch</l>
+            <l>Ein Schweinchen abgeschlachtet;</l>
+            <l>Der ist ein jüdisch eckler Gauch,</l>
+            <l>Wer solch ein Fleisch verachtet.</l>
+            <l>Es lebe zahm und wildes Schwein!</l>
+            <l>Sie leben alle, groß und klein,</l>
+            <l>Die blonden und die braunen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So säumet denn, ihr Freunde, nicht,</l>
+            <l>Die Würste zu verspeisen,</l>
+            <l>Und laßt zum würzigen Gericht</l>
+            <l>Die Becher fleißig kreisen!</l>
+            <l>Es reimt sich trefflich: </l>
+            <l>Und paßt sich köstlich: </l>
+            <l>Bei </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch unser edles Sauerkraut,</l>
+            <l>Wir sollen’s nicht vergessen;</l>
+            <l>Ein Deutscher hat’s zuerst gebaut,</l>
+            <l>Drum ist’s ein deutsches Essen.</l>
+            <l>Wenn solch ein Fleischchen, weiß und mild,</l>
+            <l>Im Kraute liegt, das ist ein Bild</l>
+            <l>Wie Venus in den Rosen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wird von schönen Händen dann</l>
+            <l>Das schöne Fleisch zerleget,</l>
+            <l>Das ist, was einem deutschen Mann</l>
+            <l>Gar süß das Herz beweget.</l>
+            <l>Gott Amor naht und lächelt still,</l>
+            <l>Und denkt: nur daß, wer küssen will,</l>
+            <l>Zuvor den Mund sich wische!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Freunde, tadle Keiner mich,</l>
+            <l>Daß ich von Schweinen singe!</l>
+            <l>Es knüpfen Kraftgedanken sich</l>
+            <l>Oft an geringe Dinge.</l>
+            <l>Ihr kennet jenes alte Wort,</l>
+            <l>Ihr wißt: es findet hier und dort</l>
+            <l>Ein Schwein auch eine Perle.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

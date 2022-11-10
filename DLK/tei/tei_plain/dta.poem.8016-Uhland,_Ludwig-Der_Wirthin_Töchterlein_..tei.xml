@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Wirthin Töchterlein .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">10</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2 9-2 10-2</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">142</measure>
+        <measure type="characters">780</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Wirthin Töchterlein .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es zogen drei Bursche wohl über den Rhein,</l>
+            <l>Bei einer Frau Wirthin, da kehrten sie ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„frau Wirthin! hat sie gut Bier und Wein?</l>
+            <l>Wo hat sie ihr schönes Töchterlein?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„mein Bier und Wein ist frisch und klar,</l>
+            <l>Mein Töchterlein liegt auf der Todtenbahr.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als sie traten zur Kammer hinein,</l>
+            <l>Da lag sie in einem schwarzen Schrein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der erste, der schlug den Schleier zurück</l>
+            <l>Und schaute sie an mit traurigem Blick:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ach lebtest du noch, du schöne Maid!</l>
+            <l>Ich würde dich lieben von dieser Zeit.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der zweite deckte den Schleier zu,</l>
+            <l>Und kehrte sich ab, und weinte dazu:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ach! daß du liegst auf der Todtenbahr!</l>
+            <l>Ich hab’ dich geliebet so manches Jahr.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der dritte hub ihn wieder sogleich,</l>
+            <l>Und küßte sie an den Mund so bleich:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„dich liebt’ ich immer, dich lieb’ ich noch heut,</l>
+            <l>Und werde dich lieben in Ewigkeit.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

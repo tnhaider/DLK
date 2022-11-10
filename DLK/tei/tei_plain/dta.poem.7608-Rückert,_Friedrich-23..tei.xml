@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">23.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">697</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>23.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Edler auf Besuch kam zu dem Thor des Andern,</l>
+            <l>Und zur Anmeldung ließ hinein dis Blatt er wandern:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist Eintritt mir gewährt? Ich komme wie die Feder,</l>
+            <l>Die herführt jeder Wind, und weiter führet jeder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und jener schrieb heraus: Zum Eintritt nicht gereicht</l>
+            <l>Wird die Erlaubnis dir, du machtest dich zu leicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und jener schrieb hinein: Ich komme wie der Stein,</l>
+            <l>Wo der ins Wasser fällt, da bleibt er liegen fein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und jener schrieb hinaus: Erlaubnis nimmermehr</l>
+            <l>Wird dir zum Eintritt hier, du machtest dich zu schwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und jener schrieb hinein: Ich komme wie der Reiter,</l>
+            <l>Der, wo er sein Geschäft gethan hat, reitet weiter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und jener rief hinaus: Das ist ein wahres Wort;</l>
+            <l>Thürhüter, laß mir ein den edlen Gast sofort!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

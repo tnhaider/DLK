@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das neue Jerusalem .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-4</measure>
+        <measure type="syllables">213</measure>
+        <measure type="tokens">141</measure>
+        <measure type="characters">796</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das neue Jerusalem .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer hat Lust mit mir zu ziehen               </l>
+            <l>Nach der Stadt Jerusalem,</l>
+            <l>Denn darinnen kann man sehen</l>
+            <l>Was der weise Salomon</l>
+            <l>Hat gebauet Schlösser, Kirchen,</l>
+            <l>Alles ist von Stein und Holz,</l>
+            <l>Alles überzogen worden</l>
+            <l>Mit dem Silber und rothen Gold.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Glanz ist nicht auszusprechen</l>
+            <l>Von der Stadt Jerusalem,</l>
+            <l>David spielet auf der Harfe,</l>
+            <l>Benjamin spielt Flöttrawär,</l>
+            <l>Isaak tanzet mit Rebekka,</l>
+            <l>Jakob mit der schönen Rahel.</l>
+            <l>Zu der grossen Freudenwonne,</l>
+            <l>Auf dem Schloß Jerusalem.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Jerusalem du schöne,</l>
+            <l>O wie schöne glänzest du,</l>
+            <l>Ey wärst du nur in der Nähe,</l>
+            <l>So wär ich schon längst bey dir.</l>
+            <l>Ach wenn ich ein Engel wäre,</l>
+            <l>Daß ich heut noch fliegen könnt,</l>
+            <l>In die Höh wollt ich mich schwingen,</l>
+            <l>Und fliegen nach Jerusalem.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So lang sich mein Herz beweget,</l>
+            <l>Und ein warmes Tröpflein Blut,</l>
+            <l>In den blauen Adern reget,</l>
+            <l>Bleib ich dir mein Engel gut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

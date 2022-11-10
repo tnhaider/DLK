@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ii.  An Gott den heiligen Geist.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-1 3-3 4-3 5-3</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">558</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ii.  An Gott den heiligen Geist.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bjsher hab ich die alte kalte Welt/ </l>
+            <l>Bisher hab </l>
+            <l>Bisher hat mich der harte sturm betrübet.</l>
+            <l>Mich der ich falschem gutte nachgestelt. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kom reiner Geist/ entzünde meine kält.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zureis das band das meine Seel’ vmbgiebet</l>
+            <l>Vergib was ich für missethat verübet/</l>
+            <l>Vnd tröste wenn mein Hertz in schmertz verfelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Helles licht/ erleuchte meine Nacht</l>
+            <l>Die Nacht voll angst/ vol wehmut/ ach vnd zagen</l>
+            <l>Erquicke mich eh' als mein Geist verschmacht. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O wahre lust wie daß ich trawrig bin?</l>
+            <l>Weil du nicht hier/ muß ich so hefftig klagen. </l>
+            <l>Dein beysein nimm't all' angst v&amp;#241; trawren hin. </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Geheimschrift .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">127</measure>
+        <measure type="characters">776</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Geheimschrift .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lasst euch, o Diplomaten!</l>
+            <l>Recht angelegen seyn,</l>
+            <l>Und eure Potentaten</l>
+            <l>Berathet rein und fein.</l>
+            <l>Geheimer Chiffern Sendung</l>
+            <l>Beschäftige die Welt,</l>
+            <l>Bis endlich jede Wendung</l>
+            <l>Sich selbst in’s Gleiche stellt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir von der Herrinn süsse</l>
+            <l>Die Chiffer ist zur Hand,</l>
+            <l>Woran ich schon geniesse,</l>
+            <l>Weil sie die Kunst erfand.</l>
+            <l>Es ist die Liebesfülle</l>
+            <l>Im lieblichsten Revier,</l>
+            <l>Der holde, treue Wille</l>
+            <l>Wie zwischen mir und ihr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von abertausend Blüten</l>
+            <l>Ist es ein bunter Strauss,</l>
+            <l>Von englischen Gemüthen</l>
+            <l>Ein vollbewohntes Haus;</l>
+            <l>Von buntesten Gefiedern</l>
+            <l>Der Himmel übersä’t,</l>
+            <l>Ein klingend Meer von Liedern</l>
+            <l>Geruchvoll überweht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist unbedingten Strebens</l>
+            <l>Geheime Doppelschrift,</l>
+            <l>Die in das Mark des Lebens</l>
+            <l>Wie Pfeil um Pfeile trifft.</l>
+            <l>Was ich euch offenbaret</l>
+            <l>War längst ein frommer Brauch,</l>
+            <l>Und wenn ihr es gewahret,</l>
+            <l>So schweigt und nutzt es auch.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

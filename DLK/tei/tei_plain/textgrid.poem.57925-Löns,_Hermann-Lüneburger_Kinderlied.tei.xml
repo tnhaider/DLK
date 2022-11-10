@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lüneburger Kinderlied</title>
+        <author>
+          <persName>
+            <surname>Löns</surname>
+            <forename>Hermann</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">42</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-6 5-5 6-5 7-5 8-6</measure>
+        <measure type="syllables">294</measure>
+        <measure type="tokens">180</measure>
+        <measure type="characters">1066</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1890</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lüneburger Kinderlied</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ringel Ringel Rosendorn,</l>
+            <l>Den pflanzen wir am Sand,</l>
+            <l>Wir pflanzen dort Akazien an,</l>
+            <l>Ki-ka-kazien an,</l>
+            <l>Man lacht uns aus im Land.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Land, das geht uns gar nichts an,</l>
+            <l>Mag auf dem Kopfe stehn.</l>
+            <l>Wir pflanzen doch Akazien an,</l>
+            <l>Ki-ka-kazien an,</l>
+            <l>Wir finden das sehr schön.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wer das nicht für stilvoll hält,</l>
+            <l>Der hat nicht viel Verstand;</l>
+            <l>Denn Rotdorn und Akazienbaum,</l>
+            <l>Ki-ka-kazienbaum,</l>
+            <l>Paßt fein zu unserm Sand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Akazien, die sind priepelig,</l>
+            <l>Der Sand monumental;</l>
+            <l>Drum pflanzen wir Akazien an,</l>
+            <l>Ki-ka-kazien an,</l>
+            <l>Und singen dann noch mal:</l>
+            <l>Ringel Ringel Rosendorn usw.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ringel Ringel Rosendorn,</l>
+            <l>Den pflanzen wir am Sand,</l>
+            <l>Wir pflanzen dort Akazien an,</l>
+            <l>Ki-ka-kazien an,</l>
+            <l>Man lacht uns aus im Land.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Land, das geht uns gar nichts an,</l>
+            <l>Mag auf dem Kopfe stehn.</l>
+            <l>Wir pflanzen doch Akazien an,</l>
+            <l>Ki-ka-kazien an,</l>
+            <l>Wir finden das sehr schön.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wer das nicht für stilvoll hält,</l>
+            <l>Der hat nicht viel Verstand;</l>
+            <l>Denn Rotdorn und Akazienbaum,</l>
+            <l>Ki-ka-kazienbaum,</l>
+            <l>Paßt fein zu unserm Sand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Akazien, die sind priepelig,</l>
+            <l>Der Sand monumental;</l>
+            <l>Drum pflanzen wir Akazien an,</l>
+            <l>Ki-ka-kazien an,</l>
+            <l>Und singen dann noch mal:</l>
+            <l>Ringel Ringel Rosendorn usw.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

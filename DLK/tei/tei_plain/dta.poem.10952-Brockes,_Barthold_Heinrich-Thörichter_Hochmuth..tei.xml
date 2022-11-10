@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Thörichter Hochmuth.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">7</measure>
+        <measure type="verses_per_stanza">1-7</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">412</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Thörichter Hochmuth.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich aufs Ufer-lose Meer, und seiner Fluthen Last
+gedenke;</l>
+            <l>Wenn ich mich in die hohle Tiefe der ausgespannten Lust</l>
+            <l>Ja, wenn ich aller Sternen Heer, ins unumschränkten Him-</l>
+            <l>Erstaunet schau, und denn zugleich auf mich und meine Klein-</l>
+            <l>Erschreck ich, und begreife nicht, wie ein so kleines Wesen sich,</l>
+            <l>Da es sich kaum des Nichts erwehrt, so thöricht als ver-</l>
+            <l>Den Schöpfer aller Welt zu fassen, und zu beschreiben, un-</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

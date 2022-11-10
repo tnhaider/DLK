@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein Kranz</title>
+        <author>
+          <persName>
+            <surname>Schwab</surname>
+            <forename>Gustav</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">724</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein Kranz</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus des Ufers Maiengrün</l>
+            <l>Pflückt das Kind Vergißmeinnicht.</l>
+            <l>Fröhlich sieht der Bach es blühn,</l>
+            <l>Wie's die Frühlingskrone flicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt die Krankheit, färbt es bleich,</l>
+            <l>Legt es auf die Todtenbahr,</l>
+            <l>Führt die Seel' ins Schattenreich,</l>
+            <l>Die voll Blumentraumes war.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Vergißmeinnicht' im Kranz</l>
+            <l>Hatten Zeit nicht zu verblühn,</l>
+            <l>Thauen auf dem Sarg in Glanz,</l>
+            <l>Den man senkt ins Maiengrün.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus des Ufers Maiengrün</l>
+            <l>Pflückt das Kind Vergißmeinnicht.</l>
+            <l>Fröhlich sieht der Bach es blühn,</l>
+            <l>Wie's die Frühlingskrone flicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt die Krankheit, färbt es bleich,</l>
+            <l>Legt es auf die Todtenbahr,</l>
+            <l>Führt die Seel' ins Schattenreich,</l>
+            <l>Die voll Blumentraumes war.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Vergißmeinnicht' im Kranz</l>
+            <l>Hatten Zeit nicht zu verblühn,</l>
+            <l>Thauen auf dem Sarg in Glanz,</l>
+            <l>Den man senkt ins Maiengrün.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

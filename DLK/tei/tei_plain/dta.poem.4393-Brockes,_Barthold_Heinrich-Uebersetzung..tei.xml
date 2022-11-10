@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Uebersetzung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">205</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">792</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Uebersetzung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie klein ist doch das kleine Theil von unsrer Welt,</l>
+            <l>aus Fluht und Land,</l>
+            <l>Wovon der Mensch der Lehns-Herr ist! Der Rest ist nichts,</l>
+            <l>als Wüsteneyen,</l>
+            <l>Als Klippen, schroffe Gegenden, gefrorne Meere, brennend</l>
+            <l>Sand,</l>
+            <l>Von Wunder-Thieren, Gift und Stacheln, von Todt und</l>
+            <l>Mord ein Aufenthalt.</l>
+            <l>Dieß ist von unsrer Erden-Charte die melancholische Ge-</l>
+            <l>stalt,</l>
+            <l>Noch finsterer die Würklichkeit. Derselben Erden wilde</l>
+            <l>Wüste</l>
+            <l>Ist von uns eine Chart’, ein Abriß. So nah benachbart</l>
+            <l>sind die Lüste</l>
+            <l>Des übermüht’gen Erden-Herrn mit dem so weiten Reich</l>
+            <l>der Pein,</l>
+            <l>Wo tiefe Plagen uns erschütternd, uns gleichsam drohen</l>
+            <l>zu zerreissen,</l>
+            <l>In welchem laute Sorgen heulen, wo gift’ge Leidenschaf-</l>
+            <l>ten beissen,</l>
+            <l>Ein räuberisches Heer von Elend beständig dreut uns um-</l>
+            <l>zubringen,</l>
+            <l>Und ein verrähtrisches Geschick sich öffnet, um uns zu ver-</l>
+            <l>schlingen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

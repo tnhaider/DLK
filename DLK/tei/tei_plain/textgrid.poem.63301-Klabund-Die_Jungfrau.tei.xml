@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Jungfrau</title>
+        <author>
+          <persName>
+            <surname>Klabund</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">226</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">836</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1909</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Jungfrau</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ruht die Jungfrau Emma Puck aus Hinterstallupeinen,</l>
+            <l>Eine Mutter hatte sie eine, einen Vater hatte sie keinen.</l>
+            <l>In Unschuld erwuchs sie auf dem Land wie eine Lilie.</l>
+            <l>Da kam sie in die Stadt zu einer Rechnungsratsfamilie.</l>
+            <l>Hier hat sich erst ihr wahres Herz gezeigt,</l>
+            <l>Indem sie gar nicht mehr zur Jungfrau hingeneigt.</l>
+            <l>Bald kam das erste Kind. Was half da alles Greinen!</l>
+            <l>Männer hatte sie viel, aber einen Mann hatte sie keinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ruht die Jungfrau Emma Puck aus Hinterstallupeinen,</l>
+            <l>Eine Mutter hatte sie eine, einen Vater hatte sie keinen.</l>
+            <l>In Unschuld erwuchs sie auf dem Land wie eine Lilie.</l>
+            <l>Da kam sie in die Stadt zu einer Rechnungsratsfamilie.</l>
+            <l>Hier hat sich erst ihr wahres Herz gezeigt,</l>
+            <l>Indem sie gar nicht mehr zur Jungfrau hingeneigt.</l>
+            <l>Bald kam das erste Kind. Was half da alles Greinen!</l>
+            <l>Männer hatte sie viel, aber einen Mann hatte sie keinen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

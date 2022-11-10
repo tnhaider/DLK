@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An einen Blumenstrauß</title>
+        <author>
+          <persName>
+            <surname>Miller</surname>
+            <forename>Johann Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5 6-5</measure>
+        <measure type="syllables">222</measure>
+        <measure type="tokens">154</measure>
+        <measure type="characters">914</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1775</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An einen Blumenstrauß</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blumen, die mit lieber Hand</l>
+            <l>Mir ein holdes Mädchen band,</l>
+            <l>Düftet Freud' und Frühlingssegen</l>
+            <l>Mir im trüben Herbst entgegen,</l>
+            <l>Blumen, die die Holde band!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Draußen tobt der Winter schon;</l>
+            <l>Sturm und Schneegestöber drohn;</l>
+            <l>Sturm und Winter ließt ihr wüten,</l>
+            <l>Öffnetet ihr eure Blüten,</l>
+            <l>Sturm und Winter ließt ihr drohn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freud' und Frühling hab' ich hier;</l>
+            <l>Denn die Holde gab euch mir.</l>
+            <l>Freud' umgaukelt mich und Wonne;</l>
+            <l>Wo sie lacht, ist Frühlingssonne;</l>
+            <l>Freud' und Frühling hab' ich hier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blumen, die mit lieber Hand</l>
+            <l>Mir ein holdes Mädchen band,</l>
+            <l>Düftet Freud' und Frühlingssegen</l>
+            <l>Mir im trüben Herbst entgegen,</l>
+            <l>Blumen, die die Holde band!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Draußen tobt der Winter schon;</l>
+            <l>Sturm und Schneegestöber drohn;</l>
+            <l>Sturm und Winter ließt ihr wüten,</l>
+            <l>Öffnetet ihr eure Blüten,</l>
+            <l>Sturm und Winter ließt ihr drohn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freud' und Frühling hab' ich hier;</l>
+            <l>Denn die Holde gab euch mir.</l>
+            <l>Freud' umgaukelt mich und Wonne;</l>
+            <l>Wo sie lacht, ist Frühlingssonne;</l>
+            <l>Freud' und Frühling hab' ich hier.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

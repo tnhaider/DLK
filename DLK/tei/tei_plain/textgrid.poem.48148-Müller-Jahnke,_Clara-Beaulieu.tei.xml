@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Beaulieu</title>
+        <author>
+          <persName>
+            <surname>Müller-Jahnke</surname>
+            <forename>Clara</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">216</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">774</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Beaulieu</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter Oliven und Pinien,</l>
+            <l>wie leuchtet das Meer so nah!</l>
+            <l>In starken, reinen Linien</l>
+            <l>grüßt Cap Ferrat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die marmornen Villen funkeln</l>
+            <l>rot auf im letzten Licht, –</l>
+            <l>silberne Schatten dunkeln</l>
+            <l>über dein Gesicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter Oliven und Pinien</l>
+            <l>fühle, was du mir bist!</l>
+            <l>In großen, klaren Linien</l>
+            <l>läuft unsres Lebens Frist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rot auf lodern die Gluten</l>
+            <l>uns einmal noch durchs Herz, –</l>
+            <l>silberne Schatten fluten</l>
+            <l>lautlos erdenwärts.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter Oliven und Pinien,</l>
+            <l>wie leuchtet das Meer so nah!</l>
+            <l>In starken, reinen Linien</l>
+            <l>grüßt Cap Ferrat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die marmornen Villen funkeln</l>
+            <l>rot auf im letzten Licht, –</l>
+            <l>silberne Schatten dunkeln</l>
+            <l>über dein Gesicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter Oliven und Pinien</l>
+            <l>fühle, was du mir bist!</l>
+            <l>In großen, klaren Linien</l>
+            <l>läuft unsres Lebens Frist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rot auf lodern die Gluten</l>
+            <l>uns einmal noch durchs Herz, –</l>
+            <l>silberne Schatten fluten</l>
+            <l>lautlos erdenwärts.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">3.</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">578</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>3.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stille wird's im Walde, die lieben, kleinen</l>
+            <l>Sänger prüfen schaukelnd den Ast, der durch die</l>
+            <l>Nacht dem neuen Fluge sie trägt, den neuen</l>
+            <l>Liedern entgegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald versinkt die Sonne; des Waldes Riesen</l>
+            <l>Heben höher sich in die Lüfte, um noch</l>
+            <l>Mit des Abends flüchtigen Rosen sich ihr</l>
+            <l>Haupt zu bekränzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon verstummt die Matte, den satten Rindern</l>
+            <l>Selten nur enthallt das Geglock am Halse,</l>
+            <l>Und es pflückt der wählende Zahn nur läßig</l>
+            <l>Dunklere Gräser.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dort blickt der schuldlose Hirt der Sonne</l>
+            <l>Sinnend nach, dem Sinnenden jezt entfallen</l>
+            <l>Flöt' und Stab, es falten die Hände sich zum</l>
+            <l>Stillen Gebete.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

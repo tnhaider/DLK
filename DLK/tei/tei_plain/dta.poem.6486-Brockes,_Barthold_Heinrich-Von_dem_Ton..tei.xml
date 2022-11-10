@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Ton.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">609</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Ton.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Werckzeugs Bau, so Ursach, daß in Ohren</l>
+            <l>Bey einem jeglichen, durch das Bewegen,</l>
+            <l>Ein andre Art von Tönen wird gebohren;</l>
+            <l>Kan auch in der Musie Veränderung erregen.</l>
+            <l>Die Töne, wodurch wir gerühret seyn,</l>
+            <l>Die stimmen, auf verborgne Weise,</l>
+            <l>Mit unserm Puls-Schlag überein.</l>
+            <l>Wenn Völcker in der Ordnung stehen,</l>
+            <l>Um auf gegebenes Signal:</l>
+            <l>Zur Schlacht zu gehen,</l>
+            <l>So würckt bey ihnen überall</l>
+            <l>Der Kriegrischen Trompeten-Schall</l>
+            <l>Ein neu und ungewohnt Bewegen.</l>
+            <l>Es fördern und erregen</l>
+            <l>Die Stösse, die sodann in Lüfften wallen,</l>
+            <l>In Adern des Geblütes Lauff.</l>
+            <l>Das Lermen, Schreyen und das Schallen</l>
+            <l>Erregt und weckt den Geist in kalten Nerven auf.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

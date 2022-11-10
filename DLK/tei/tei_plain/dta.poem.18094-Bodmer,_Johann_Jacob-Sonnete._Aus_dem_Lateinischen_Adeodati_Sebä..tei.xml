@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnete.  
+ Aus dem Lateinischen Adeodati Sebä.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">708</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198432"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnete.  
+ Aus dem Lateinischen Adeodati Sebä.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heint als der Monde war in seinen Kreiß gezogen,</l>
+            <l>Und mich der süsse Schlaf umfangen durch die Nacht,</l>
+            <l>Ward mir mein Augentrost im Traume fürgebracht,</l>
+            <l>Als läge sie bey mir an meine Brust gebogen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Hertze war in mich, mein Hertz in sie geflogen;</l>
+            <l>Fand aber gäntzlich nichts, wie ich des Morgens wacht,</l>
+            <l>Und hielt die Lacken in den Armen, drum ich lacht,</l>
+            <l>Als ich recht innen ward, daß ich so sehr betrogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verräther, loser Traum, warum denn fleuchst du bald?</l>
+            <l>Laß mich doch länger sehn die liebliche Gestalt,</l>
+            <l>Laß sich doch mehr bey mir diß schöne Vorbild säumen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Betrieger, krieg ich nichts als Hohn und Spott von ihr,</l>
+            <l>Und ihrer Schönheit Ros’, ach bitt ich, laß doch mir</l>
+            <l>Drey tausend Jahr so süß, ohn alles Wachen, träumen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

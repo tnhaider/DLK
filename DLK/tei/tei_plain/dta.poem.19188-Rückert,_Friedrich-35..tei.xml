@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">35.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>35.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Stromesufer steht erschwungen eine Palme</l>
+            <l>Hoch ob der Dünste Kreis und erdenahem Qualme,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So hoch, daß Menschenwitz nicht ihre Kron' entblättert,</l>
+            <l>So glatt, daß Affenkunst nicht ihren Stamm erklettert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die reifen Früchte wirft sie aus der Luft hinab</l>
+            <l>Ins Wasser, welches ihr dazu die Nahrung gab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Früchte, wann sie sind den Strom hinab geschwommen,</l>
+            <l>Schwimmen dort an ein Land, wo Palmen nicht bekommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willkommen sind sie dort, die Gaben aus der Ferne,</l>
+            <l>Die Menschen essen sie und sammeln ihre Kerne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie zögen aus dem Kern selbst eine Palme gern,</l>
+            <l>Doch Erd' und Himmel ist dagegen, Sonn' und Stern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

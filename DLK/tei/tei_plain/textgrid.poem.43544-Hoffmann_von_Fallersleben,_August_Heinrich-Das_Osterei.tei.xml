@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Osterei</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-16 2-16</measure>
+        <measure type="syllables">198</measure>
+        <measure type="tokens">150</measure>
+        <measure type="characters">820</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Osterei</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hei, juchhei! Kommt herbei!</l>
+            <l>Suchen wir das Osterei!</l>
+            <l>Immerfort, hier und dort</l>
+            <l>Und an jedem Ort!</l>
+            <l>Ist es noch so gut versteckt,</l>
+            <l>Endlich wird es doch entdeckt.</l>
+            <l>Hier ein Ei! dort ein Ei!</l>
+            <l>Bald sind's zwei und drei.</l>
+            <l>Wer nicht blind, der gewinnt</l>
+            <l>Einen schönen Fund geschwind.</l>
+            <l>Eier blau, roth und grau</l>
+            <l>Kommen bald zur Schau.</l>
+            <l>Und ich sag's, es bleibt dabei,</l>
+            <l>Gern such' ich ein Osterei:</l>
+            <l>Zu gering ist kein Ding,</l>
+            <l>Selbst kein Pfifferling.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hei, juchhei! Kommt herbei!</l>
+            <l>Suchen wir das Osterei!</l>
+            <l>Immerfort, hier und dort</l>
+            <l>Und an jedem Ort!</l>
+            <l>Ist es noch so gut versteckt,</l>
+            <l>Endlich wird es doch entdeckt.</l>
+            <l>Hier ein Ei! dort ein Ei!</l>
+            <l>Bald sind's zwei und drei.</l>
+            <l>Wer nicht blind, der gewinnt</l>
+            <l>Einen schönen Fund geschwind.</l>
+            <l>Eier blau, roth und grau</l>
+            <l>Kommen bald zur Schau.</l>
+            <l>Und ich sag's, es bleibt dabei,</l>
+            <l>Gern such' ich ein Osterei:</l>
+            <l>Zu gering ist kein Ding,</l>
+            <l>Selbst kein Pfifferling.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

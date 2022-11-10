@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Gesetzen der Bewegung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">491</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Gesetzen der Bewegung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie es unstreitig wahr</l>
+            <l>Daß alle Cörper stets, so viel sie können,</l>
+            <l>In einer Linie gerade rennen;</l>
+            <l>So ist es ebenfalls nicht minder klar,</l>
+            <l>Daß die, so wir im Kreyse drehen,</l>
+            <l>Und die da in der Ründe gehen,</l>
+            <l>In ihren Fliehen, ohn Verweilen,</l>
+            <l>Von ihrem Mittelpunet beständig abwärts eilen.</l>
+            <l>Wenn sie gerade vor sich fliegen</l>
+            <l>Sieht man all Augenblick die Linien sich biegen</l>
+            <l>Und daß ihr Lauff sich lenckt. Daher ist gantz gewiß,</l>
+            <l>Daß eine Hinderniß</l>
+            <l>Sie stösset, aus dem Wege dringet,</l>
+            <l>Und sie zu dieser Aendrung zwinget.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

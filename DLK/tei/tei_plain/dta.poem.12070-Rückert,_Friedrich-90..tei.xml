@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">90.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">567</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>90.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lust an Vergänglichem kann nur vergänglich seyn,</l>
+            <l>Und ewig ist die Lust am Ewigen allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du sagst dir das, und kannst dennoch der Lust nicht wehren,</l>
+            <l>Was unbegehrenswerth du siehest, zu begehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum? weil in dir selbst ist ein Vergängliches,</l>
+            <l>Der Unvergänglichkeit ganz unempfängliches.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch fühlest du in dir ein Andres unvergänglich,</l>
+            <l>Dem, was vergänglich ist, erscheinet unzulänglich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In solchem Kampfe bleibt der Sieg nicht zweifelhaft,</l>
+            <l>Sobald das Edlere gebrauchet seine Kraft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir wird für ew'ge Lust jemehr Empfänglichkeit,</l>
+            <l>Jemehr in deiner Brust reift Unvergänglichkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

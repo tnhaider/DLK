@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Sehnsucht.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">563</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Sehnsucht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>J&amp;#252;ngst ging ich in den Garten,</l>
+            <l>Wohin mich oft die Liebe,</l>
+            <l>In sichre Schatten lokket;</l>
+            <l>Wohin mich oft der Früling</l>
+            <l>Zu meiner Doris führet;</l>
+            <l>Wohin mich meine Doris,</l>
+            <l>Wann sie allein spatziret,</l>
+            <l>Selbst oft durch Hekken winket.</l>
+            <l>Itzt sah ich keine Doris.</l>
+            <l>Ich wünschte sie zu sehen.</l>
+            <l>Ich schlich in alle Gänge,</l>
+            <l>Und wünschte sie zu sehen.</l>
+            <l>Ich lauscht an allen Büschen,</l>
+            <l>Und wünschte sie zu sehen.</l>
+            <l>Ich strekkte mich im Schatten,</l>
+            <l>Auf ein beblümtes Lager,</l>
+            <l>Und wünschte sie zu sehen.</l>
+            <l>Ermüdet von den Wünschen,</l>
+            <l>War ich hier eingeschlafen.</l>
+            <l>Ich schlief, und fing im Schlafe,</l>
+            <l>Von neuem an zu wünschen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

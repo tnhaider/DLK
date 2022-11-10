@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Traumbesitz.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">187</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">715</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Traumbesitz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„fremdling, unter diesem Schutte</l>
+            <l>Wölbt sich eine weite Halle,</l>
+            <l>Blüht des Inka goldner Garten,</l>
+            <l>Prangt der Sessel meines Ahns!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles Laub und alle Früchte</l>
+            <l>Und die Vögel auf den Aesten</l>
+            <l>Und die Fischlein in den Teichen</l>
+            <l>Sind vom allerfeinsten Gold.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>— „Knabe, du bist zart und dürftig,</l>
+            <l>Deine greisen Eltern darben —</l>
+            <l>Warum gräbst du nicht die nahen</l>
+            <l>Schätze, die dein Erbe sind?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„solches, Fremdling, wäre sündlich!</l>
+            <l>Nein, ich lasse mir genügen</l>
+            <l>An dem kleinen Waizenfelde,</l>
+            <l>Das mir oben übrig blieb.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Geheimniß meines Herzens,</l>
+            <l>Mit den Augen meines Geistes</l>
+            <l>Schwelg' ich in den lichten Wundern,</l>
+            <l>In dem unermessnen Hort:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O des Glanzes! O der Fülle!</l>
+            <l>Siehst du dort die Büschel Maises</l>
+            <l>Mit den schön geformten Kolben?</l>
+            <l>Siehst du dort den goldnen Thron?“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

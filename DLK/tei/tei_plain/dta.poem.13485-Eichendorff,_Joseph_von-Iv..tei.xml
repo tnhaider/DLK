@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Iv.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">716</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Iv.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach Liebchen, dich ließ ich zurücke,</l>
+            <l>Mein liebes, herziges Kind,</l>
+            <l>Da lauern viel Menschen voll Tücke,</l>
+            <l>Die sind dir so feindlich gesinnt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die möchten so gerne zerstören</l>
+            <l>Auf Erden das schöne Fest,</l>
+            <l>Ach könnte das Lieben aufhören,</l>
+            <l>So mögen sie nehmen den Rest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und alle die grünen Orte,</l>
+            <l>Wo wir gegangen im Wald,</l>
+            <l>Die sind nun wohl anders geworden,</l>
+            <l>Da ist's nun so still und kalt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sind nun am kalten Himmel</l>
+            <l>Viel tausend Sterne gestellt,</l>
+            <l>Es scheint ihr goldnes Gewimmel</l>
+            <l>Weit übers beschneite Feld.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein' Seele ist so beklommen,</l>
+            <l>Die Gassen sind leer und todt,</l>
+            <l>Da hab' ich die Laute genommen</l>
+            <l>Und singe in meiner Noth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach wär' ich im stillen Hafen!</l>
+            <l>Kalte Winde am Fenster gehn,</l>
+            <l>Schlaf ruhig, mein Liebchen, schlafe,</l>
+            <l>Treu' Liebe wird ewig bestehn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

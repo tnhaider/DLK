@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mignon</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">244</measure>
+        <measure type="tokens">172</measure>
+        <measure type="characters">1004</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1782</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mignon</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heiß mich nicht reden, heiß mich schweigen,</l>
+            <l>Denn mein Geheimnis ist mir Pflicht;</l>
+            <l>Ich möchte dir mein ganzes Innre zeigen,</l>
+            <l>Allein das Schicksal will es nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zur rechten Zeit vertreibt der Sonne Lauf</l>
+            <l>Die finstre Nacht, und sie muß sich erhellen;</l>
+            <l>Der harte Fels schließt seinen Busen auf,</l>
+            <l>Mißgönnt der Erde nicht die tiefverborgnen Quellen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein jeder sucht im Arm des Freundes Ruh,</l>
+            <l>Dort kann die Brust in Klagen sich ergießen;</l>
+            <l>Allein ein Schwur drückt mir die Lippen zu,</l>
+            <l>Und nur ein Gott vermag sie aufzuschließen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heiß mich nicht reden, heiß mich schweigen,</l>
+            <l>Denn mein Geheimnis ist mir Pflicht;</l>
+            <l>Ich möchte dir mein ganzes Innre zeigen,</l>
+            <l>Allein das Schicksal will es nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zur rechten Zeit vertreibt der Sonne Lauf</l>
+            <l>Die finstre Nacht, und sie muß sich erhellen;</l>
+            <l>Der harte Fels schließt seinen Busen auf,</l>
+            <l>Mißgönnt der Erde nicht die tiefverborgnen Quellen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein jeder sucht im Arm des Freundes Ruh,</l>
+            <l>Dort kann die Brust in Klagen sich ergießen;</l>
+            <l>Allein ein Schwur drückt mir die Lippen zu,</l>
+            <l>Und nur ein Gott vermag sie aufzuschließen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

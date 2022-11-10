@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der 1. Epod.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">103</measure>
+        <measure type="tokens">63</measure>
+        <measure type="characters">381</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1618</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20628-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der 1. Epod.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>D Och ließ Er seine forcht fallen/</l>
+            <l>Da Er manche Nymfelein</l>
+            <l>Mit den Oreadelein</l>
+            <l>Hörte jhre stim erschallen.</l>
+            <l>Die Najaden gleicher weiß</l>
+            <l>(welche mit künstlichem fleiß</l>
+            <l>Jhre krause haar beschönet/</l>
+            <l>Vnd mit kleinoten gekrönet)</l>
+            <l>Schwomen in hertzlichem wohn</l>
+            <l>Mit dem Neckar/ so sie führte/</l>
+            <l>Vnd den auch ein grüne Cron</l>
+            <l>Vnd ein köstliches klaid zierte/</l>
+            <l>Welcher mit klarem gesicht</l>
+            <l>Seinen freund also bespricht:</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

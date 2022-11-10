@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Winter-Gedanken.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">31</measure>
+        <measure type="verses_per_stanza">1-17 2-8 3-6</measure>
+        <measure type="syllables">229</measure>
+        <measure type="tokens">167</measure>
+        <measure type="characters">953</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Winter-Gedanken.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht, wie auch zur Winter-Zeit,</l>
+            <l>Selbst wenns frieret, reift und schneit,</l>
+            <l>Auf der hell-bestrahlten Welt</l>
+            <l>Manche Lust und Lieblichkeit</l>
+            <l>Unsern Blicken vorgestellt!</l>
+            <l>Ja es kann der Schmuck der Erden,</l>
+            <l>Wenn man mit Vernunft ihn spührt,</l>
+            <l>Und er Blick und Herze rührt,</l>
+            <l>Unsrer Andacht Vorwurf werden.</l>
+            <l>Auch vom Schnee die kleinsten Blitze,</l>
+            <l>Wenn auf sie die Sonne strahlt,</l>
+            <l>Und mit Glanz und Gluht sie mahlt,</l>
+            <l>Sind uns zur Erbauung nütze.</l>
+            <l>Denn da von der Sonnen Schein</l>
+            <l>Sie nur kleine Spiegel seyn;</l>
+            <l>Deucht mich, daß ihr reines Licht</l>
+            <l>Durch sein Glänzen gleichsam spricht:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ich dir die Sonne zeige;</l>
+            <l>So ergetz dich. Aber steige,</l>
+            <l>Mit dadurch gerührtem Sinn,</l>
+            <l>Von mir zu dem Urbild hin,</l>
+            <l>Und laß seinen Strahl dich rühren.</l>
+            <l>Dann wird dich desselben Zier,</l>
+            <l>So wie dich zu ihm von mir,</l>
+            <l>Auch von ihm, zum Schöpfer führen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dir ihren Ursprung weisen,</l>
+            <l>Um Jhn Ehrfurchts-voll zu preisen.</l>
+            <l>Da ja aller Sonnen Schein</l>
+            <l>(wie der Schnee, durch eine, flammet)</l>
+            <l>Nur von einer Sonn’ allein,</l>
+            <l>Als der Sonnen Sonne, stammet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

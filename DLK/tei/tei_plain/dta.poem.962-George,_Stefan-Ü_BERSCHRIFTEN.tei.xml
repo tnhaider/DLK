@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ü BERSCHRIFTEN</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">220</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">1131</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ü BERSCHRIFTEN</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des sehers wort ist wenigen gemeinsam               </l>
+            <l>Schon als die ersten k&amp;#252;hnen w&amp;#252;nsche kamen               </l>
+            <l>In einem seltnen reiche ernst und einsam               </l>
+            <l>Erfand er f&amp;#252;r die dinge eigne namen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die hier erdonnerten von ungeheuern               </l>
+            <l>Befehlen oder lispelten wie bitten               </l>
+            <l>Die wie Paktolen in rubinenfeuern               </l>
+            <l>Und bald wie linde fr&amp;#252;hlingsb&amp;#228;che glitten             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An deren kraft und klang er sich ergezte               </l>
+            <l>Sie waren wenn er sich im höchsten schwunge               </l>
+            <l>Der welt entfliehend unter tr&amp;#228;ume sezte               </l>
+            <l>Des tempels saitenspiel und heilge zunge             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur sie &amp;#8212; und nicht der sanften lehre lallen               </l>
+            <l>Das m&amp;#252;tterliche &amp;#8212; hat er sich erlesen               </l>
+            <l>Als er im rausch von mai und nachtigallen               </l>
+            <l>Sann &amp;#252;ber erster sehnsucht fabelwesen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als er zum lenker seiner lebensfr&amp;#252;he               </l>
+            <l>Im beten rief ob die verheissung löge &amp;#183; &amp;#183;               </l>
+            <l>Erflehend dass aus zagen busens m&amp;#252;he               </l>
+            <l>Das denkbild sich zur sonne heben möge.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

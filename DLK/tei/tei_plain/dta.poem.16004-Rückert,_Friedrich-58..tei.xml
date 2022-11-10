@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">58.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">64</measure>
+        <measure type="characters">383</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>58.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Wasser strebt hinab, das Feuer strebt hinauf,</l>
+            <l>Und zwischen beiden hat die Luft den stäten Lauf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Erde aber ruht, geht weder auf noch nieder.</l>
+            <l>Das sind des Weltgebäus nothwendige vier Glieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieselben sind in dir; dein Wasser kommt von oben,</l>
+            <l>Und zu der Höhe hat dein Feuer sich erhoben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frei schwebet deine Luft, der Weltvermittlung Odem,</l>
+            <l>Und unerschütterlich ruht deiner Erde Bodem.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

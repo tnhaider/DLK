@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Churmainzer Kriegslied,</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">274</measure>
+        <measure type="tokens">176</measure>
+        <measure type="characters">1082</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Churmainzer Kriegslied,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf einem schönen grünen Rasen,               </l>
+            <l>Da ließ Albin zur Mahlzeit blasen,</l>
+            <l>Als ein General und Feldmarschall;</l>
+            <l>Sie rühren die Trommeln und schlagen den Lärmen,</l>
+            <l>Und lassen die feurigen Bomben schon schwärmen,</l>
+            <l>Die blutige Mahlzeit geht schon an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß Pauken und Trompeten schallen,</l>
+            <l>Laß alle Kanonen auf einmal knallen,</l>
+            <l>Auf daß sich empört die ganze Welt.</l>
+            <l>Laß Bomben und Haubizen blitzen,</l>
+            <l>Die Festung Mainz, die muß schon schwitzen,</l>
+            <l>Bis das Feuer das Kostheim verzehrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gerechter Gott! sechs Jahr verflossen,</l>
+            <l>Haben wir Churmainzer viel Blut vergossen,</l>
+            <l>Und ist zu hoffen noch keine Ruh.</l>
+            <l>Herr Albini hat Grimmen und Zorn,</l>
+            <l>Er saß zu Pferd mit Stieflen und Sporn:</l>
+            <l>Schießt und haut und stecht nun todt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O ihr Grenadiere! zum Aufmarschieren,</l>
+            <l>Mit blutigen Fahnen zum Abmarschieren,</l>
+            <l>Auf diesen stolzen Franken los!</l>
+            <l>Frisch gewagt, ist halb gewonnen,</l>
+            <l>Nicht verzagt, es wird schon kommen,</l>
+            <l>Wenn's Churmainz gehören soll.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O ihr Churmainzer all zusammen,</l>
+            <l>Zu Pferd, zu Fuß in Gottes Namen,</l>
+            <l>Ergreift den Feind nur herzhaft an,</l>
+            <l>Gott der Herr wird uns beschützen,</l>
+            <l>Seinen Schutz und Seegen schicken,</l>
+            <l>General Albini führt uns an.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

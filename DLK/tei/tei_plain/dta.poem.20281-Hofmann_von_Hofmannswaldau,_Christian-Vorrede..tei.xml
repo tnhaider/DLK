@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorrede.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">699</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorrede.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der helden geist ist stahl/ ihr hertz aus diamant/</l>
+            <l>Wenn es mit männern kämpfft; Alleine wachs bey frauen.</l>
+            <l>Denn adler lieben zwar nur adler/ pfaue pfauen;</l>
+            <l>Doch Alexandern zwingt der geilen Thais brand.</l>
+            <l>Die spindel Omphalens entweyht Alcidens hand.</l>
+            <l>Achilles/ wenn er liebt/ kriegt für den krieg ein grauen.</l>
+            <l>Anton stirbt als ein weib in einer Mohrin klauen/</l>
+            <l>Ja auch der götter lieb’ ist wahnwitz anverwandt.</l>
+            <l>Fürst Herrmann aber liebt mit grosser tapfferkeit.</l>
+            <l>Denn er vermählet ihm Minerven mit Thusnelden/</l>
+            <l>Sie ihr den Hercules mit Deutschlands grossen helden.</l>
+            <l>Und zwischen beyden ist kaum einig unterscheid.</l>
+            <l>Man weiß nicht/ wer sey Mars/ wenn sie die waffen üben/</l>
+            <l>Nicht/ wer die liebe sey/ wenn sie einander lieben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

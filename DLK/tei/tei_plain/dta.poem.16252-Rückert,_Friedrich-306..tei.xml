@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">306.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">507</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>306.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aufmerksamkeit, mein Sohn, ist was ich dir empfehle:</l>
+            <l>Bei dem, wobei du bist, zu seyn mit ganzer Seele.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du an andres denkst, als was dein Lehrer spricht,</l>
+            <l>So hörst du dis nur halb, und in dir haftets nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber brauchst zum Glück an andres nicht zu denken,</l>
+            <l>Und kanst Aufmerksamkeit mir ungetheilte schenken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist der Vorzug, den der Knabe hat vorm Mann,</l>
+            <l>Der eignen Denkens sich nicht mehr entschlagen kann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hat bei allem, was er hört, soviel zu denken,</l>
+            <l>Daß er kein voll Gehör kann dem Gehörten schenken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

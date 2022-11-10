@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XvIII.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">669</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XvIII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als fielen alle Sterne vom Himmel, mich zu decken:</l>
+            <l>Es reizt die Welt mein Auge durch tausend prächt'ge</l>
+            <l>Wo soll vor diesem Drange, wie Saul, ich mich ver-</l>
+            <l>Des Forschens Labyrinthe! Der Kunst Gestaltenzauber!</l>
+            <l>Der Völker That und Sage! Der Länder schöne Strecken!</l>
+            <l>Auf meinem Busen lastet unendliche Begierde</l>
+            <l>Nach jenen Schätzen allen, die Lieb' und Lust erwecken!</l>
+            <l>So wär' ich längst erlegen; doch meine Blicke sollten</l>
+            <l>In Einen Punkt verdichtet des Schönen All entdecken:</l>
+            <l>Seitdem du mir erschienen, entsagt' ich diesem Schweifen</l>
+            <l>Nach allen Himmelswinkeln, nach allen Erdenecken.</l>
+            <l>Es dampft der Quell der Jugend vom Fels im Wirbel-</l>
+            <l>Bis friedlich ihn und silbern umfängt der Liebe Becken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

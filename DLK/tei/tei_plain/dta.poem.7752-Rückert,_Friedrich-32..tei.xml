@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">32.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">569</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>32.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nordöstlich im Gebirg liegt eine feste Stadt,</l>
+            <l>Worin ein eignes Volk sich angesiedelt hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die glauben, daß ein Heil zukünftig sei den Frommen,</l>
+            <l>Und hoffen jeden Tag, der Heiland werde kommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Beim ersten Morgenstral besteigen sie das Roß,</l>
+            <l>In vollem Waffenschmuck, und reiten aus dem Schloß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entgegen reiten sie dem Kommenden mit Prangen,</l>
+            <l>Alsob sie seines Nahns Eilboten schon empfangen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alsob auf heute sei die Ankunft angesagt.</l>
+            <l>Und wenn nun, ohne daß er kommt, die Sonne tagt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So reiten sie zurück, mit Trauer in den Mienen,</l>
+            <l>Und Klag' im Mund: Er ist heut wieder nicht erschienen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

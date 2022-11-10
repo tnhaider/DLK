@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Rose .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">675</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Rose .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Rose blüht, ich bin die fromme Biene,               </l>
+            <l>Und rühre zwar die keuschen Blätter an,</l>
+            <l>Daher ich Thau und Honig schöpfen kann,</l>
+            <l>Doch lebt ihr Glanz und bleibet immer grüne,</l>
+            <l>Und also bin ich wohlgemüth,</l>
+            <l>Weil meine Rose blüht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Rose blüht, Gott laß den Schein verziehen,</l>
+            <l>Damit die Zeit des Sommers langsam geht,</l>
+            <l>Und weder Frost noch andere Noth entsteht,</l>
+            <l>So wird mein Glück in dieser Rose blühen,</l>
+            <l>So klingt mein süßes Freuden-Lied:</l>
+            <l>Ach, meine Rose blüht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Rose blüht, und lacht vor andern Rosen</l>
+            <l>Mit solcher Zier und Herzempfindlichkeit,</l>
+            <l>Daß auch mein Sinn sich zu der Pflicht erbeut,</l>
+            <l>Mit keiner Blum im Garten liebzukosen,</l>
+            <l>Weil Alles, was man sonsten sieht,</l>
+            <l>In dieser Rose blüht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

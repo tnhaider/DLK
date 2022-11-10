@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf den Tod eines Landgeistlichen .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">421</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf den Tod eines Landgeistlichen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bleibt abgeschiednen Geistern die Gewalt,</l>
+            <l>Zu kehren nach dem ird’schen Aufenthalt,</l>
+            <l>So kehrest du nicht in der Mondennacht,</l>
+            <l>Wann nur die Sehnsucht und die Schwermuth wacht.</l>
+            <l>Nein! wann ein Sommermorgen niedersteigt,</l>
+            <l>Wo sich im weiten Blau kein Wölkchen zeigt,</l>
+            <l>Wo hoch und golden sich die Ernte hebt,</l>
+            <l>Mit rothen, blauen Blumen hell durchwebt,</l>
+            <l>Dann wandelst du, wie einst, durch das Gefild</l>
+            <l>Und grüßest jeden Schnitter freundlich mild.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

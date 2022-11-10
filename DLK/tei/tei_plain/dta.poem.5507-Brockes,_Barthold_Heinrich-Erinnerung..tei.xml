@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erinnerung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-6 2-3 3-6</measure>
+        <measure type="syllables">121</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">467</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1736</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198582"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erinnerung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verlange nicht zugleich auf Erden,</l>
+            <l>Bewundert und geliebt zu werden.</l>
+            <l>Es irret wer darauf besteht,</l>
+            <l>Die Ursach, warum es so geht,</l>
+            <l>Ist diese: </l>
+            <l>Bewundern; jeder will gefallen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja bey den meisten gehts noch schlimmer</l>
+            <l>Und hat dieß seine Richtigkeit:</l>
+            <l>Ein Fehler, den man nicht verzeiht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hiergegen kann ein grosser Geist</l>
+            <l>Weil sonst der häm’sche Neid von weiten</l>
+            <l>Mit Steinen immer auf ihn schmeist,</l>
+            <l>Kein ander Mittel sich bereiten,</l>
+            <l>Als wenn er sanfte Sittsamkeit</l>
+            <l>In allen seinen Thaten weist.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

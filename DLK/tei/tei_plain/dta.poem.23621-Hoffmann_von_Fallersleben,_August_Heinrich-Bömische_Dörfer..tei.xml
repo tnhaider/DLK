@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Bömische Dörfer.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">179</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">662</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Bömische Dörfer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Pegasus der alte Schimmel</l>
+            <l>Und Apollo fehlet nie,</l>
+            <l>Ja der ganze Götterhimmel</l>
+            <l>Prunkt in eurer Poesie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit dem Wörterbuche lesen</l>
+            <l>Muß man jedes Maigedicht;</l>
+            <l>Wer die Cypris ist gewesen</l>
+            <l>Weiß ich armer Deutscher nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch Pandora, Flora, Iris,</l>
+            <l>Zeus, Aurora, Rhadamanth,</l>
+            <l>Midas, Isis und Osiris</l>
+            <l>Sind mir gänzlich unbekannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sagt, für wen doch wollt ihr dichten?</l>
+            <l>Für's gelehrte Häufelein?</l>
+            <l>Nun, so müsst ihr drauf verzichten,</l>
+            <l>Deutschlands Dichter je zu sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwar das deutsche Volk hat immer</l>
+            <l>Seinen hochgelehrten Stand;</l>
+            <l>Dieser aber hatte nimmer</l>
+            <l>In der Welt ein Vaterland.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Besser drum, ihr singt und pfeifet</l>
+            <l>Wie's gemäß dem deutschen Mund:</l>
+            <l>Castor! Pollux! das begreifet</l>
+            <l>Auch sogar ein dummer Hund.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

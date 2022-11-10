@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Wein .</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">58</measure>
+        <measure type="tokens">44</measure>
+        <measure type="characters">260</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Wein .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wein! ich möchte dich bald haßen,               </l>
+            <l>Ich bin deiner Allmacht feind,</l>
+            <l>Denn du willst mir meinen Freund</l>
+            <l>Immer nicht vom Becher lassen.</l>
+            <l>Du bist meiner Freuden Dieb,</l>
+            <l>Könnt ich dich doch ganz verachten.</l>
+            <l>Milon hat dich gar zu lieb,</l>
+            <l>Und mich läßt er schmachten. —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

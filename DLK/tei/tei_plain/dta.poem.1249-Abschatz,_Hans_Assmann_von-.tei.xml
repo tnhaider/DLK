@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"></title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">42</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6 6-6 7-6</measure>
+        <measure type="syllables">350</measure>
+        <measure type="tokens">231</measure>
+        <measure type="characters">1355</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head></head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dieser tunckel-braunen Nacht/</l>
+            <l>Wo Furcht und Schrecken um mich wacht/</l>
+            <l>Wo Leyd und Trauren mich umfangen/</l>
+            <l>Frag’ ich Dianen/ wie vielmahl</l>
+            <l>Sie seit dem Anfang meiner Qual</l>
+            <l>Ihr gläntzend Silber ausgehangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich frage sie/ wie offt ihr Rad/</l>
+            <l>Celinde/ deine schöne Stadt</l>
+            <l>Seit meinem Scheiden hat beschienen.</l>
+            <l>Wie offt der müden Augen Licht</l>
+            <l>Hat ihr erblaßtes Angesicht</l>
+            <l>Bißher zur Fackel müssen dienen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich frage sie/ ob sie nicht weiß/</l>
+            <l>Wie offt der heissen Thränen Schweiß</l>
+            <l>Hat meine Wangen übergossen.</l>
+            <l>Ich frage sie/ wo ist die Zeit/</l>
+            <l>Da ich Celindens Höfligkeit</l>
+            <l>In süsser Gegenwart genossen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo sind die schönen Stunden hin/</l>
+            <l>Da ihre Freundschafft meinen Sinn</l>
+            <l>Mit klugen Reden hat vergnüget/</l>
+            <l>Da wir/ doch sonder Feind zu seyn/</l>
+            <l>O süsse Quelle meiner Pein!</l>
+            <l>Mit Wort und Karten offt gekrieget.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie bin ich izt so übel auff/</l>
+            <l>Nun meiner Reise strenger Lauff</l>
+            <l>Von meinem Arzte mich vertrieben.</l>
+            <l>Der blosse Schatten findt sich hier/</l>
+            <l>Der Geist/ das beste Theil von mir</l>
+            <l>Ist unvermerckt zurücke blieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Izt fühl ich erst/ was Scheiden sey/</l>
+            <l>Mit was für Plag und Tiranney</l>
+            <l>Sich muß ein Hertz von Hertze trennen/</l>
+            <l>Wo wahre Freundschafft fasset Grund/</l>
+            <l>Und selbst die Seelen/ nicht der Mund</l>
+            <l>Allein/ von reinen Flammen brennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach Monden dupple deinen Gang/</l>
+            <l>Mach uns die Monat nicht so lang/</l>
+            <l>Biß das bestimmte Ziel erschienen/</l>
+            <l>Und mich geneigter Sternen Schluß/</l>
+            <l>Dem ich mich unterwerffen muß/</l>
+            <l>Celinden wieder läst bedienen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

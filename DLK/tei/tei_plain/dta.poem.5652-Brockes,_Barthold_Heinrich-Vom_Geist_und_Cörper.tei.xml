@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vom Geist und Cörper</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">149</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">577</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vom Geist und Cörper</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So lass't uns denn von cörperlichen Sachen,</l>
+            <l>Und was den Geist angeht, nie eine Mischung machen.</l>
+            <l>Man muß der Cörper Eigenschafft</l>
+            <l>Absonderlich erwegen und betrachten.</l>
+            <l>Wer wird sich doch dazu vermögend achten</l>
+            <l>Zu messen eine Seel, zu theilen ihre Krafft?</l>
+            <l>Wie will man, daß, von der Materie,</l>
+            <l>Man mag sie, wie man will, verändern und versetzen:</l>
+            <l>Man mag sie noch so viel Bewegungs-fähig schätzen;</l>
+            <l>Ein Geist, der dencken kan, entsteh’?</l>
+            <l>Wie könnten diese Theil’ und wenn sie noch so klein,</l>
+            <l>Getheilet und geordnet seyn,</l>
+            <l>Doch der Gedancken Wesen kriegen?</l>
+            <l>Wollt unser Geist sich selbst wol so betrügen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

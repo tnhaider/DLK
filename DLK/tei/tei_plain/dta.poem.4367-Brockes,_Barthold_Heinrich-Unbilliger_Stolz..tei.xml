@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Unbilliger Stolz.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">95</measure>
+        <measure type="tokens">61</measure>
+        <measure type="characters">376</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Unbilliger Stolz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du willt ein göttlich Wesen leugnen, weil, wie in</l>
+            <l>Seinem Regimente</l>
+            <l>Das Böse doch bestehen könnte,</l>
+            <l>Dein Geist nicht zu begreifen fähig. Heißt dieses schliessen?</l>
+            <l>Geht dieß an?</l>
+            <l>“die Sache kann unmöglich seyn, dieweil ich sie nicht</l>
+            <l>sehen kann.</l>
+            <l>Auf welchem Schluß sich jedennoch (sprich selbst, ob sichs</l>
+            <l>nicht so befindet?)</l>
+            <l>Dein ganzer Zweifel, alles Zanken, und all dein Disputiren</l>
+            <l>gründet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

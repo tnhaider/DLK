@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zu spät.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">272</measure>
+        <measure type="tokens">183</measure>
+        <measure type="characters">1020</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zu spät.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie, arme kleine Knospe, wird</l>
+            <l>Dein Kelch der Sonne sich erschließen,</l>
+            <l>Du hast dich in die Welt verirrt</l>
+            <l>Zur Zeit, da Blumen nicht mehr sprießen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum hast du so lang verweilt?</l>
+            <l>Der Sommer war ja längst gekommen.</l>
+            <l>Wenn dich der Winter nun ereilt,</l>
+            <l>Gleich ist dir jede Lust genommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, ich beneide deinen Traum,</l>
+            <l>Den du im Erdenschoß geträumet.</l>
+            <l>Dich weckte all der Jubel kaum</l>
+            <l>Und immer hast du noch gesäumet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieh um dich her die Schwestern weich</l>
+            <l>Vom Strahl des Tages schnell getroffen,</l>
+            <l>Sie neigten sich der Liebe gleich;</l>
+            <l>Bald waren ihre Kelche offen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie hauchten ihre Düfte aus,</l>
+            <l>Von Lieb und Demuth hold bezwungen,</l>
+            <l>Dir haben in der Mutter Haus</l>
+            <l>Umsonst die Vögelein gesungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie gaben ihre Blüthen hin —</l>
+            <l>Der Wind entführte ihre Blüthen;</l>
+            <l>Du thatest wohl in herbem Sinn</l>
+            <l>Der eignen Blüthe neidisch hüten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun stehen sie entblättert da,</l>
+            <l>Getödtet durch zu heißes Lieben,</l>
+            <l>Nur dir kam nie die Liebe nah,</l>
+            <l>Nur du bist ungeküßt geblieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sieh! es lockte dich im Hag</l>
+            <l>Doch alle Tage gleiche Wonne,</l>
+            <l>Die Vöglein sangen jeden Tag</l>
+            <l>Und jeden Tag ging auf die Sonne.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

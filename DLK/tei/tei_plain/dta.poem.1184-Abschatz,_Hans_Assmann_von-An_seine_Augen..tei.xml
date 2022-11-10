@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An seine Augen.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">494</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An seine Augen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Augen/ deren Licht mit diesem Lichte spielt/</l>
+            <l>Das eure Stralen dunckel macht/</l>
+            <l>Gebt wohl auff eure Sachen acht/</l>
+            <l>Seht/ wie mein Feind bereits auff unser Unglück zielet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kan den Angelstern in mein Gemütte schlüssen</l>
+            <l>Der in gewünschten Hafen führt;</l>
+            <l>Ihr aber/ Augen/ ihr verliert</l>
+            <l>Das Licht/ ohn das ihr irrt in trüben Finsternissen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht/ weil ihr sehen könt/ eh Nacht und Regen kommen/</l>
+            <l>Schöpfft kurtzen Trost vor lange Pein</l>
+            <l>Von diesen süssen Augen ein/</l>
+            <l>Eh euch Gelegenheit durchs Scheiden wird benommen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

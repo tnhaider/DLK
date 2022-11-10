@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Erbbegräbniß .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5</measure>
+        <measure type="syllables">191</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">841</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Erbbegräbniß .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Schneiderlein sah am Wege stehn               </l>
+            <l>Eine alte verzottelte Geiß,</l>
+            <l>Da sprach dieselbige; Zick, Zick, Zick,</l>
+            <l>Bock, Bock, Bock, Meck, Meck, Meck,</l>
+            <l>Da wards dem Schneiderlein heiß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Schneiderlein fing zu laufen an,</l>
+            <l>Lauft in das Wirthshaus hinein,</l>
+            <l>Da sprach derselbige: Zick, Zick, Zick,</l>
+            <l>Bock, Bock, Bock, Meck, Meck, Meck,</l>
+            <l>Schenkt mir ein halb Maas ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Schneiderlein fing zu saufen an,</l>
+            <l>Sauft aus den Fingerhut,</l>
+            <l>Da sprach derselbige: Zick, Zick, Zick,</l>
+            <l>Bock, Bock, Bock, Meck, Meck, Meck,</l>
+            <l>Wie schmeckt der Wein so gut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Schneiderlein fing zu tanzen an,</l>
+            <l>Tanzt in der Stuben herum,</l>
+            <l>Da fiel derselbige Zick, Zick, Zick,</l>
+            <l>Bock, Bock, Bock, Meck, Meck, Meck,</l>
+            <l>Vor Ohnmacht gar bald um.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Schneiderlein wurde begraben dann</l>
+            <l>In ein hohle verzottelte Geiß,</l>
+            <l>Da sprach derselbige Zick, Zick, Zick,</l>
+            <l>Bock, Bock, Bock, Meck, Meck, Meck,</l>
+            <l>Wie ist die Hölle so heiß.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

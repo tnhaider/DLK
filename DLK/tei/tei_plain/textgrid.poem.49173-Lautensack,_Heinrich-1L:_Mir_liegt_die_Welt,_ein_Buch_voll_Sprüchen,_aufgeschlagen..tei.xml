@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Mir liegt die Welt, ein Buch voll Sprüchen, aufgeschlagen.</title>
+        <author>
+          <persName>
+            <surname>Lautensack</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">664</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1900</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Mir liegt die Welt, ein Buch voll Sprüchen, aufgeschlagen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir liegt die Welt, ein Buch voll Sprüchen, aufgeschlagen.</l>
+            <l>Ihr, ihr könnt Verse sagen, wo mir ein Weisheitsspruch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ist das Weib ein Bild, ein ungestilltes Sehnen,</l>
+            <l>wo euch mit ein paar Tränen das Höchste sich erfüllt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ist der Gott ein Traum. Ich bin des Traums Verkünder ...</l>
+            <l>Ihr, ihr seid Gottes Sünder und eßt von seinem Baum ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir liegt die Welt, ein Buch voll Sprüchen, aufgeschlagen.</l>
+            <l>Ihr, ihr könnt Verse sagen, wo mir ein Weisheitsspruch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ist das Weib ein Bild, ein ungestilltes Sehnen,</l>
+            <l>wo euch mit ein paar Tränen das Höchste sich erfüllt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ist der Gott ein Traum. Ich bin des Traums Verkünder ...</l>
+            <l>Ihr, ihr seid Gottes Sünder und eßt von seinem Baum ...</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

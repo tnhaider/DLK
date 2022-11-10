@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über das Gehör.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">501</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über das Gehör.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was dis noch mehr bewähret,</l>
+            <l>Daß uns’re Seel allein</l>
+            <l>In sich die Würckung bloß empfindet und erfähret,</l>
+            <l>Die nach dem Augen-Schein</l>
+            <l>Sich in die Sinne drückt: Ist, daß von allen Tönen</l>
+            <l>Die Stimme der Person, die jemand liebt,</l>
+            <l>Jhm das empfindlichste Vergnügen giebt,</l>
+            <l>Da einer, der vom Reitz derselben Schönen</l>
+            <l>Nicht angeflammet, nicht gerührt,</l>
+            <l>Dergleichen Anmuth nicht verspürt.</l>
+            <l>Man wird vom Schall der Wörter bloß entzücket.</l>
+            <l>Der Stimme, die man liebt, muß alles weichen,</l>
+            <l>Die herlichste Musie ist ihr nicht zu vergleichen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

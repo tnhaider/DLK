@@ -1,0 +1,2176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sprichwörtlich</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">422</measure>
+        <measure type="verses">1270</measure>
+        <measure type="verses_per_stanza">1-4 2-2 3-4 4-4 5-6 6-4 7-2 8-2 9-4 10-4 11-2 12-4 13-4 14-4 15-2 16-2 17-2 18-2 19-2 20-2 21-4 22-2 23-2 24-2 25-2 26-4 27-2 28-2 29-2 30-2 31-2 32-2 33-2 34-2 35-4 36-2 37-2 38-2 39-2 40-2 41-4 42-2 43-2 44-2 45-2 46-2 47-4 48-2 49-2 50-2 51-2 52-4 53-2 54-4 55-2 56-2 57-2 58-2 59-2 60-4 61-4 62-4 63-4 64-4 65-2 66-4 67-4 68-2 69-4 70-2 71-4 72-2 73-4 74-2 75-2 76-2 77-2 78-2 79-2 80-4 81-4 82-2 83-4 84-4 85-4 86-2 87-4 88-4 89-4 90-2 91-4 92-2 93-2 94-4 95-2 96-4 97-2 98-4 99-2 100-2 101-2 102-2 103-4 104-4 105-4 106-4 107-4 108-4 109-4 110-4 111-4 112-2 113-2 114-2 115-4 116-4 117-4 118-4 119-4 120-2 121-2 122-2 123-2 124-2 125-2 126-2 127-2 128-6 129-4 130-3 131-4 132-4 133-2 134-2 135-4 136-4 137-4 138-4 139-4 140-4 141-4 142-4 143-2 144-4 145-4 146-4 147-4 148-2 149-2 150-2 151-2 152-2 153-2 154-2 155-2 156-2 157-2 158-2 159-4 160-4 161-6 162-6 163-2 164-4 165-2 166-4 167-4 168-4 169-4 170-2 171-2 172-2 173-2 174-4 175-2 176-4 177-2 178-4 179-4 180-4 181-4 182-4 183-4 184-2 185-2 186-2 187-2 188-4 189-2 190-2 191-2 192-4 193-4 194-4 195-4 196-2 197-2 198-4 199-4 200-4 201-4 202-2 203-4 204-4 205-4 206-2 207-2 208-4 209-4 210-4 211-4 212-4 213-2 214-4 215-4 216-6 217-4 218-2 219-2 220-4 221-4 222-2 223-4 224-4 225-4 226-2 227-2 228-2 229-2 230-2 231-2 232-4 233-2 234-2 235-2 236-2 237-4 238-2 239-2 240-2 241-2 242-2 243-2 244-2 245-2 246-4 247-2 248-2 249-2 250-2 251-2 252-4 253-2 254-2 255-2 256-2 257-2 258-4 259-2 260-2 261-2 262-2 263-4 264-2 265-4 266-2 267-2 268-2 269-2 270-2 271-4 272-4 273-4 274-4 275-4 276-2 277-4 278-4 279-2 280-4 281-2 282-4 283-2 284-4 285-2 286-2 287-2 288-2 289-2 290-2 291-4 292-4 293-2 294-4 295-4 296-4 297-2 298-4 299-4 300-4 301-2 302-4 303-2 304-2 305-4 306-2 307-4 308-2 309-4 310-2 311-2 312-2 313-2 314-4 315-4 316-4 317-4 318-4 319-4 320-4 321-4 322-4 323-2 324-2 325-2 326-4 327-4 328-4 329-4 330-4 331-2 332-2 333-2 334-2 335-2 336-2 337-2 338-2 339-6 340-4 341-3 342-4 343-4 344-2 345-2 346-4 347-4 348-4 349-4 350-4 351-4 352-4 353-4 354-2 355-4 356-4 357-4 358-4 359-2 360-2 361-2 362-2 363-2 364-2 365-2 366-2 367-2 368-2 369-2 370-4 371-4 372-6 373-6 374-2 375-4 376-2 377-4 378-4 379-4 380-4 381-2 382-2 383-2 384-2 385-4 386-2 387-4 388-2 389-4 390-4 391-4 392-4 393-4 394-4 395-2 396-2 397-2 398-2 399-4 400-2 401-2 402-2 403-4 404-4 405-4 406-4 407-2 408-2 409-4 410-4 411-4 412-4 413-2 414-4 415-4 416-4 417-2 418-2 419-4 420-4 421-4 422-4</measure>
+        <measure type="syllables">10924</measure>
+        <measure type="tokens">7320</measure>
+        <measure type="characters">42414</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1813</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sprichwörtlich</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich den Scherz will ernsthaft nehmen,</l>
+            <l>So soll mich niemand drum beschämen;</l>
+            <l>Und wenn ich den Ernst will scherzhaft treiben,</l>
+            <l>So werd ich immer derselbe bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Lust zu reden kommt zu rechter Stunde,</l>
+            <l>Und wahrhaft fließt das Wort aus Herz und Munde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sah mich um an vielen Orten</l>
+            <l>Nach lustigen, gescheiten Worten;</l>
+            <l>An bösen Tagen mußt ich mich freuen,</l>
+            <l>Daß diese die besten Worte verleihen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im neuen Jahre Glück und Heil;</l>
+            <l>Auf Weh und Wunden gute Salbe!</l>
+            <l>Auf groben Klotz ein grober Keil!</l>
+            <l>Auf </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst lustig leben,</l>
+            <l>Geh mit zwei Säcken,</l>
+            <l>Einen zum Geben,</l>
+            <l>Einen, um einzustecken.</l>
+            <l>Da gleichst du Prinzen,</l>
+            <l>Plünderst und beglückst Provinzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was in der Zeiten Bildersaal</l>
+            <l>Jemals ist trefflich gewesen,</l>
+            <l>Das wird immer einer einmal</l>
+            <l>Wieder auffrischen und lesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht jeder wandelt nur gemeine Stege:</l>
+            <l>Du siehst, die Spinnen bauen luft'ge Wege.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Kranz ist gar viel leichter binden,</l>
+            <l>Als ihm ein würdig Haupt zu finden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie die Pflanzen zu wachsen belieben,</l>
+            <l>Darin wird jeder Gärtner sich üben;</l>
+            <l>Wo aber des Menschen Wachstum ruht,</l>
+            <l>Dazu jeder selbst das Beste tut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du dir aber das Beste tun,</l>
+            <l>So bleib nicht auf dir selber ruhn,</l>
+            <l>Sondern folg eines Meisters Sinn;</l>
+            <l>Mit ihm zu irren ist dir Gewinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Benutze redlich deine Zeit!</l>
+            <l>Willst was begreifen, such's nicht weit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwischen heut und morgen</l>
+            <l>Liegt eine lange Frist;</l>
+            <l>Lerne schnell besorgen,</l>
+            <l>Da du noch munter bist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Dinte macht uns wohl gelehrt,</l>
+            <l>Doch ärgert sie, wo sie nicht hingehört.</l>
+            <l>Geschrieben Wort ist Perlen gleich;</l>
+            <l>Ein Dintenklecks ein böser Streich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn man fürs Künftige was erbaut,</l>
+            <l>Schief wird's von vielen angeschaut.</l>
+            <l>Tust du was für den Augenblick,</l>
+            <l>Vor allem opfre du dem Glück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit einem Herren steht es gut,</l>
+            <l>Der, was er befohlen, selber tut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tu nur das Rechte in deinen Sachen;</l>
+            <l>Das andre wird sich von selber machen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn jemand sich wohl im Kleinen deucht,</l>
+            <l>So denke: der hat ein Großes erreicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaube nur, du hast viel getan,</l>
+            <l>Wenn dir Geduld gewöhnest an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer sich nicht nach der Decke streckt,</l>
+            <l>Dem bleiben die Füße unbedeckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Vogel ist froh in der Luft gemütet,</l>
+            <l>Wenn es da unten im Neste brütet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ein kluger Mann der Frau befiehlt,</l>
+            <l>Dann sei es um ein Großes gespielt;</l>
+            <l>Will die Frau dem Mann befehlen,</l>
+            <l>So muß sie das Große im Kleinen wählen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welche Frau hat einen guten Mann,</l>
+            <l>Der sieht man's am Gesicht wohl an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Frau macht oft ein bös Gesicht;</l>
+            <l>Der gute Mann verdient's wohl nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein braver Mann! ich kenn ihn ganz genau:</l>
+            <l>Erst prügelt er, dann kämmt er seine Frau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein schönes Ja, ein schönes Nein,</l>
+            <l>Nur geschwind! soll mir willkommen sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Januar, Februar, März,</l>
+            <l>Du bist mein liebes Herz.</l>
+            <l>Mai, Juni, Juli, August,</l>
+            <l>Mir ist nichts mehr bewußt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Neumond und geküßter Mund</l>
+            <l>Sind gleich wieder hell und frisch und gesund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir gäb es keine größre Pein,</l>
+            <l>Wär ich im Paradies allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ließe sich alles trefflich schlichten,</l>
+            <l>Könnte man die Sachen zweimal verrichten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur heute, heute nur laß dich nicht fangen,</l>
+            <l>So bist du hundertmal entgangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht's in der Welt dir endlich schlecht,</l>
+            <l>Tu, was du willst, nur habe nicht recht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zücht'ge den Hund, den Wolf magst du peitschen;</l>
+            <l>Graue Haare sollst du nicht reizen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Flusse kannst du stemmen und häkeln;</l>
+            <l>Überschwemmung läßt sich nicht mäkeln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tausend Fliegen hatt ich am Abend erschlagen,</l>
+            <l>Doch werkte mich </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wärst du auch zum fernsten Ort,</l>
+            <l>Zur kleinsten Hütte durchgedrungen,</l>
+            <l>Was hilft es dir, du findest dort</l>
+            <l>Tabak und böse Zungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wüßte nicht, was sie Bessers erfinden könnten,</l>
+            <l>Als wenn die Lichter ohne Putzen brennten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lief' das Brot, wie die Hasen laufen,</l>
+            <l>Es kostete viel Schweiß, es zu kaufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Will Vogelfang dir nicht geraten,</l>
+            <l>So magst du deinen Schuhu braten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das wär dir ein schönes Gartengelände,</l>
+            <l>Wo man den Weinstock mit Würsten bände.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du mußt dich niemals mit Schwur vermessen:</l>
+            <l>Von dieser Speise will ich nicht essen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer aber recht bequem ist und faul,</l>
+            <l>Flög dem eine gebratne Taube ins Maul,</l>
+            <l>Er würde höchlich sich's verbitten,</l>
+            <l>Wär sie nicht auch geschickt zerschnitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freigebig ist der mit seinen Schritten,</l>
+            <l>Der kommt, von der Katze Speck zu erbitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast deine Kastanien zu lange gebraten;</l>
+            <l>Sie sind dir alle zu Kohlen geraten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das sind mir allzu böse Bissen,</l>
+            <l>An denen die Gäste erwürgen müssen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist eine von den großen Taten,</l>
+            <l>Sich in seinem eignen Fett zu braten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gesotten oder gebraten!</l>
+            <l>Er ist ans Feuer geraten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gebraten oder gesotten!</l>
+            <l>Ihr sollt nicht meiner spotten.</l>
+            <l>Was ihr euch heute getröstet,</l>
+            <l>Ihr seid doch morgen geröstet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer Ohren hat, soll hören;</l>
+            <l>Wer Geld hat, soll's verzehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mutter schenk ich,</l>
+            <l>Die Tochter denk ich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kleid' eine Säule,</l>
+            <l>Sie sieht wie eine Fräule.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlaf ich, so schlaf ich mir bequem.</l>
+            <l>Arbeit ich, ja, ich weiß nicht wem.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ganz und gar</l>
+            <l>Bin ich ein armer Wicht.</l>
+            <l>Meine Träume sind nicht wahr,</l>
+            <l>Und meine Gedanken geraten nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit meinem Willen mag's geschehn! –</l>
+            <l>Die Träne wird mir in dem Auge stehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl unglückselig ist der Mann,</l>
+            <l>Der unterläßt das, was er kann,</l>
+            <l>Und unterfängt sich, was er nicht versteht;</l>
+            <l>Kein Wunder, daß er zugrunde geht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du trägst sehr leicht, wenn du nichts hast;</l>
+            <l>Aber Reichtum ist eine leichtere Last.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles in der Welt läßt sich ertragen,</l>
+            <l>Nur nicht eine Reihe von schönen Tagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was räucherst du nun deinem Toten?</l>
+            <l>Hättst du's ihm so im Leben geboten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja! wer eure Verehrung nicht kennte:</l>
+            <l>Euch, nicht ihm baut ihr Monumente.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du dich deines Wertes freuen,</l>
+            <l>So mußt der Welt du Wert verleihen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Will einer in die Wüste pred'gen,</l>
+            <l>Der mag sich von sich selbst erled'gen;</l>
+            <l>Spricht aber einer zu seinen Brüdern,</l>
+            <l>Werden sie's oft schlecht erwidern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß Neid und Mißgunst sich verzehren,</l>
+            <l>Das Gute werden sie nicht wehren.</l>
+            <l>Denn, Gott sei Dank! es ist ein alter Brauch:</l>
+            <l>So weit die Sonne scheint, so weit erwärmt sie auch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Interim</l>
+            <l>Hat den Schalk hinter ihm.</l>
+            <l>Wieviel Schälke muß es geben,</l>
+            <l>Da wir alle ad interim leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was fragst du viel: Wo will's hinaus,</l>
+            <l>Wo oder wie kann's enden?</l>
+            <l>Ich dächte, Freund, du bliebst zu Haus</l>
+            <l>Und sprächst mit deinen Wänden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viele Köche versalzen den Brei;</l>
+            <l>Bewahr uns Gott vor vielen Dienern!</l>
+            <l>Wir aber sind, gesteht es frei,</l>
+            <l>Ein Lazarett von Medizinern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr meint, ich hätt mich gewaltig betrogen;</l>
+            <l>Hab's aber nicht aus den Fingern gesogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch spukt der Babylon'sche Turm,</l>
+            <l>Sie sind nicht zu vereinen!</l>
+            <l>Ein jeder Mann hat seinen Wurm,</l>
+            <l>Kopernikus den seinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn bei den alten, lieben Toten</l>
+            <l>Braucht man Erklärung, will man Noten.</l>
+            <l>Die Neuen glaubt man blank zu verstehn;</l>
+            <l>Doch ohne Dolmetsch wird's auch nicht gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sagen: Das mutet mich nicht an!</l>
+            <l>Und meinen, sie hätten's abgetan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In meinem Revier</l>
+            <l>Sind Gelehrte gewesen,</l>
+            <l>Außer ihrem eignen Brevier</l>
+            <l>Konnten sie keines lesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel Rettungsmittel bietest du! was heißt's?</l>
+            <l>Die beste Rettung: Gegenwart des Geists!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß nur die Sorge sein,</l>
+            <l>Das gibt sich alles schon;</l>
+            <l>Und fällt der Himmel ein,</l>
+            <l>Kommt doch eine Lerche davon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann ist einer durchaus verarmt,</l>
+            <l>Wenn die Scham den Schaden umarmt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du treibst mir's gar zu toll.</l>
+            <l>Ich fürcht, es breche!</l>
+            <l>Nicht jeden Wochenschluß</l>
+            <l>Macht Gott die Zeche.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist sehr eilig, meiner Treu!</l>
+            <l>Du suchst die Tür und läufst vorbei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie glauben, miteinander zu streiten,</l>
+            <l>Und fühlen das Unrecht von beiden Seiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Haben's gekauft, es freut sie baß;</l>
+            <l>Eh man's denkt, so betrübt sie das.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du nichts Unnützes kaufen,</l>
+            <l>Mußt du nicht auf den Jahrmarkt laufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Langeweile ist ein böses Kraut,</l>
+            <l>Aber auch eine Würze, die viel verdaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wird uns eine rechte Qual zuteil,</l>
+            <l>Dann wünschen wir uns Langeweil.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß sie die Kinder erziehen könnten,</l>
+            <l>Müßten die Mütter sein wie Enten:</l>
+            <l>Sie schwämmen mit ihrer Brut in Ruh;</l>
+            <l>Da gehört aber freilich Wasser dazu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das junge Volk, es bildet sich ein,</l>
+            <l>Sein Tauftag sollte der Schöpfungstag sein.</l>
+            <l>Möchten sie doch zugleich bedenken,</l>
+            <l>Was wir ihnen als Eingebinde schenken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»nein! heut ist mir das Glück erbost!«</l>
+            <l>Du, sattle gut und reite getrost!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Über ein Ding wird viel geplaudert,</l>
+            <l>Viel beraten und lange gezaudert,</l>
+            <l>Und endlich gibt ein böses Muß</l>
+            <l>Der Sache widrig den Beschluß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Bresche ist jeder Tag,</l>
+            <l>Die viele Menschen erstürmen.</l>
+            <l>Wer auch in die Lücke fallen mag,</l>
+            <l>Die Toten sich niemals türmen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn einer schiffet und reiset,</l>
+            <l>Sammelt er nach und nach immer ein,</l>
+            <l>Was sich am Leben mit mancher Pein</l>
+            <l>Wieder ausschälet und weiset.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mensch erfährt, er sei auch, wer er mag,</l>
+            <l>Ein letztes Glück und einen letzten Tag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Glück deiner Tage</l>
+            <l>Wäge nicht mit der Goldwaage.</l>
+            <l>Wirst du die Krämerwaage nehmen,</l>
+            <l>So wirst du dich schämen und dich bequemen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du einmal das Rechte getan</l>
+            <l>Und sieht ein Feind nur Scheeles daran,</l>
+            <l>So wird er gelegentlich, spät oder früh,</l>
+            <l>Dasselbe tun, er weiß nicht wie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du das Gute tun, mein Sohn,</l>
+            <l>So lebe nur lange, da gibt sich's schon;</l>
+            <l>Solltest du aber zu früh ersterben,</l>
+            <l>Wirst du von Künftigen Dank erwerben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was gibt uns wohl den schönsten Frieden,</l>
+            <l>Als frei am eignen Glück zu schmieden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laßt mir die jungen Leute nur,</l>
+            <l>Und ergetzt euch an ihren Gaben!</l>
+            <l>Es will doch Großmama Natur</l>
+            <l>Manchmal einen närrischen Einfall haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ungebildet waren wir unangenehm;</l>
+            <l>Jetzt sind uns die Neuen sehr unbequem.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo Anmaßung mir wohlgefällt?</l>
+            <l>An Kindern: denen gehört die Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr zählt mich immer unter die Frohen,</l>
+            <l>Erst lebt ich roh, jetzt unter den Rohen.</l>
+            <l>Den Fehler, den man selbst geübt,</l>
+            <l>Man auch wohl an dem andern liebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du mit mir hausen,</l>
+            <l>So laß die Bestie draußen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wollen die Menschen Bestien sein,</l>
+            <l>So bringt nur Tiere zur Stube herein,</l>
+            <l>Das Widerwärtige wird sich mindern.</l>
+            <l>Wir sind eben alle von Adams Kindern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit Narren leben wird dir gar nicht schwer,</l>
+            <l>Erhalte nur ein Tollhaus um dich her.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sag mir, was ein Hypochondrist</l>
+            <l>Für ein wunderlicher Kunstfreund ist.</l>
+            <l>In Bildergalerien geht er spazieren</l>
+            <l>Vor lauter Gemälden, die ihn vexieren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Hypochonder ist bald kuriert,</l>
+            <l>Wenn euch das Leben recht kujoniert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du sollst mit dem Tode zufrieden sein,</l>
+            <l>Warum machst du dir das Leben zur Pein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein tolleres Versehn kann sein,</l>
+            <l>Gibst einem ein Fest und lädst ihn nicht ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da siehst du nun, wie's einem geht,</l>
+            <l>Weil sich der Beste von selbst versteht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ein Edler gegen dich fehlt,</l>
+            <l>So tu, als hättest du's nicht gezählt:</l>
+            <l>Er wird es in sein Schuldbuch schreiben</l>
+            <l>Und dir nicht lange im Debet bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Suche nicht vergebne Heilung!</l>
+            <l>Unsrer Krankheit schwer Geheimnis</l>
+            <l>Schwankt zwischen Übereilung</l>
+            <l>Und zwischen Versäumnis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, schelte nur und fluche fort,</l>
+            <l>Es wird sich Beßres nie ergeben.</l>
+            <l>Denn Trost ist ein absurdes Wort:</l>
+            <l>Wer nicht verzweiflen kann, der muß nicht leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich soll nicht auf den Meister schwören</l>
+            <l>Und immerfort den Meister hören!</l>
+            <l>Nein, ich weiß, er kann nicht lügen,</l>
+            <l>Will mich gern mit ihm betriegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich freuen die vielen Guten und Tücht'gen,</l>
+            <l>Obgleich so viele dazwischenbelfen.</l>
+            <l>Die Deutschen wissen zu bericht'gen,</l>
+            <l>Aber sie verstehen nicht nachzuhelfen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»du kommst nicht ins Ideenland!«</l>
+            <l>So bin ich doch am Ufer bekannt.</l>
+            <l>Wer die Inseln nicht zu erobern glaubt,</l>
+            <l>Dem ist Ankerwerfen doch wohl erlaubt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Dichterglut war sehr gering,</l>
+            <l>Solang ich dem Guten entgegenging;</l>
+            <l>Dagegen brannte sie lichterloh,</l>
+            <l>Wenn ich vor drohendem Übel floh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zart Gedicht, wie Regenbogen,</l>
+            <l>Wird nur auf dunklen Grund gezogen;</l>
+            <l>Darum behagt dem Dichtergenie</l>
+            <l>Das Element der Melancholie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum hatt ich mich in die Welt gespielt</l>
+            <l>Und fing an aufzutauchen,</l>
+            <l>Als man mich schon so vornehm hielt,</l>
+            <l>Mich zu mißbrauchen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer dem Publikum dient, ist ein armes Tier;</l>
+            <l>Er quält sich ab, niemand bedankt sich dafür.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleich zu sein unter Gleichen,</l>
+            <l>Das läßt sich schwer erreichen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du müßtest ohne Verdrießen</l>
+            <l>Wie der Schlechteste zu sein dich entschließen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man kann nicht immer zusammen stehn,</l>
+            <l>Am wenigsten mit großen Haufen.</l>
+            <l>Seine Freunde, die läßt man gehn,</l>
+            <l>Die Menge läßt man laufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du magst an dir das Falsche nähren,</l>
+            <l>Allein wir lassen uns nicht stören;</l>
+            <l>Du kannst uns loben, kannst uns schelten,</l>
+            <l>Wir lassen es nicht für das Rechte gelten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man soll sich nicht mit Spöttern befassen;</l>
+            <l>Wer will sich für 'nen Narren halten lassen!</l>
+            <l>Darüber muß man sich aber zerreißen,</l>
+            <l>Daß man Narren nicht darf Narren heißen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Christkindlein trägt die Sünden der Welt,</l>
+            <l>Sankt Christoph das Kind über Wasser hält,</l>
+            <l>Sie haben es beid' uns angetan,</l>
+            <l>Es geht mit uns von vornen an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Efeu und ein zärtlich Gemüt</l>
+            <l>Heftet sich an und grünt und blüht.</l>
+            <l>Kann es weder Stamm noch Mauer finden,</l>
+            <l>Es muß verdorren, es muß verschwinden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zierlich Denken und süß Erinnern</l>
+            <l>Ist das Leben im tiefsten Innern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich träumt und liebte sonnenklar;</l>
+            <l>Daß ich lebte, ward ich gewahr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer recht will tun, immer und mit Lust,</l>
+            <l>Der hege wahre Lieb in Sinn und Brust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wann magst du dich am liebsten bücken?«</l>
+            <l>Dem Liebchen Frühlingsblume zu pflücken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch das ist gar kein groß Verdienst,</l>
+            <l>Denn Liebe bleibt der höchste Gewinst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zeit, sie mäht so Rosen als Dornen,</l>
+            <l>Aber das treibt immer wieder von vornen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Genieße, was der Schmerz dir hinterließ!</l>
+            <l>Ist Not vorüber, sind die Nöte süß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glückselig ist, wer Liebe rein genießt,</l>
+            <l>Weil doch zuletzt das Grab so Lieb als Haß verschließt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viele Lieb hab ich erlebet,</l>
+            <l>Wenn ich liebelos gestrebet;</l>
+            <l>Und Verdrießliches erworben,</l>
+            <l>Wenn ich fast für Lieb gestorben.</l>
+            <l>So du es zusammengezogen,</l>
+            <l>Bleibet Saldo dir gewogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tut dir jemand was zulieb,</l>
+            <l>Nur geschwinde, gib nur, gib.</l>
+            <l>Wenige getrost erwarten</l>
+            <l>Dankesblume aus stillem Garten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doppelt gibt, wer gleich gibt,</l>
+            <l>Hundertfach, der gleich gibt,</l>
+            <l>Was man wünscht und liebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»warum zauderst du so mit deinen Schritten?«</l>
+            <l>Nur ungern mag ich ruhn,</l>
+            <l>Will ich aber was Gutes tun,</l>
+            <l>Muß ich erst um Erlaubnis bitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was willst du lange vigilieren,</l>
+            <l>Dich mit der Welt herumvexieren?</l>
+            <l>Nur Heiterkeit und grader Sinn</l>
+            <l>Verschafft dir endlichen Gewinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wem wohl das Glück die schönste Palme beut?</l>
+            <l>Wer freudig tut, sich des Getanen freut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleich ist alles versöhnt,</l>
+            <l>Wer redlich ficht, wird gekrönt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirkest nicht, alles bleibt so stumpf.</l>
+            <l>Sei guter Dinge!</l>
+            <l>Der Stein im Sumpf</l>
+            <l>Macht keine Ringe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In des Weinstocks herrliche Gaben</l>
+            <l>Gießt ihr mir schlechtes Gewässer!</l>
+            <l>Ich soll immer unrecht haben</l>
+            <l>Und weiß es besser.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich mir gefallen lasse?</l>
+            <l>Zuschlagen muß die Masse,</l>
+            <l>Dann ist sie respektabel,</l>
+            <l>Urteilen gelingt ihr miserabel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist sehr schwer oft zu ergründen,</l>
+            <l>Warum wir das angefangen;</l>
+            <l>Wir müssen oft Belohnung finden,</l>
+            <l>Daß es uns schlecht ergangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seh ich an andern große Eigenschaften</l>
+            <l>Und wollen die an mir auch haften,</l>
+            <l>So werd ich sie in Liebe pflegen;</l>
+            <l>Geht's nicht, so tu ich was anders dagegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich, Egoist! – Wenn ich's nicht besser wüßte!</l>
+            <l>Der Neid, das ist der Egoiste;</l>
+            <l>Und was ich auch für Wege geloffen,</l>
+            <l>Auf 'm Neidpfad habt ihr mich nie betroffen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht über Zeit- noch Landgenossen</l>
+            <l>Mußt du dich beklagen;</l>
+            <l>Nachbarn werden ganz andere Possen,</l>
+            <l>Und auch Künftige, über dich sagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Vaterlande</l>
+            <l>Schreibe, was dir gefällt:</l>
+            <l>Da sind Liebesbande,</l>
+            <l>Da ist deine Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Draußen zu wenig oder zu viel,</l>
+            <l>Zu Hause nur ist Maß und Ziel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum werden die Dichter beneidet?</l>
+            <l>Weil Unart sie zuweilen kleidet,</l>
+            <l>Und in der Welt ist's große Pein,</l>
+            <l>Daß wir nicht dürfen unartig sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So kommt denn auch das Dichtergenie</l>
+            <l>Durch die Welt und weiß nicht wie.</l>
+            <l>Guten Vorteil bringt ein heitrer Sinn;</l>
+            <l>Andern zerstört Verlust den Gewinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»immer denk ich: mein Wunsch ist erreicht,</l>
+            <l>Und gleich geht's wieder anders her!«</l>
+            <l>Zerstückle das Leben, du machst dir's leicht;</l>
+            <l>Vereinige es, und du machst dir's schwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»bist du denn nicht auch zugrunde gerichtet?</l>
+            <l>Von deinen Hoffnungen trifft nichts ein!«</l>
+            <l>Die Hoffnung ist's, die sinnet und dichtet,</l>
+            <l>Und da kann ich noch immer lustig sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht alles ist an eins gebunden,</l>
+            <l>Seid nur nicht mit euch selbst im Streit!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit Liebe endigt man, was man erfunden;</l>
+            <l>Was man gelernt, mit Sicherheit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer uns am strengsten kritisiert?</l>
+            <l>Ein Dilettant, der sich resigniert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch Vernünfteln wird Poesie vertrieben,</l>
+            <l>Aber sie mag das Vernünftige lieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wo ist der Lehrer, dem man glaubt?«</l>
+            <l>Tu, was dir dein kleines Gemüt erlaubt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaubst dich zu kennen, wirst Gott nicht erkennen,</l>
+            <l>Auch wohl das Schlechte göttlich nennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer Gott ahnet, ist hochzuhalten,</l>
+            <l>Denn er wird nie im Schlechten walten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Macht's einander nur nicht sauer,</l>
+            <l>Hier sind wir gleich, Baron und Bauer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum uns Gott so wohl gefällt?</l>
+            <l>Weil er sich uns nie in den Weg stellt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie wollten die Fischer sich nähren und retten,</l>
+            <l>Wenn die Frösche sämtlich Zähne hätten?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Kirschen und Beeren behagen,</l>
+            <l>Mußt du Kinder und Sperlinge fragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»warum hat dich das schöne Kind verlassen?«</l>
+            <l>Ich kann sie darum doch nicht hassen:</l>
+            <l>Sie schien zu fürchten und zu fühlen,</l>
+            <l>Ich werde das Prävenire spielen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaube mir gar und ganz,</l>
+            <l>Mädchen, laß deine Bein' in Ruh,</l>
+            <l>Es gehört mehr zum Tanz</l>
+            <l>Als rote Schuh'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich nicht weiß,</l>
+            <l>Macht mich nicht heiß.</l>
+            <l>Und was ich weiß,</l>
+            <l>Machte mich heiß,</l>
+            <l>Wenn ich nicht wüßte'</l>
+            <l>Wie's werden müßte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft, wenn dir jeder Trost entflieht,</l>
+            <l>Mußt du im stillen dich bequemen.</l>
+            <l>Nur dann, wenn dir Gewalt geschieht,</l>
+            <l>Wird die Menge an dir Anteil nehmen;</l>
+            <l>Ums Unrecht, das dir widerfährt,</l>
+            <l>Kein Mensch den Blick zur Seite kehrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ärgerst du dich über fälschlich Erhobne!</l>
+            <l>Wo gäb es denn nicht Eingeschobne?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Worauf alles ankommt? Das ist sehr simpel!</l>
+            <l>Vater, verfüge, eh's dein Gesind spürt!</l>
+            <l>Dahin oder dorthin flattert ein Wimpel,</l>
+            <l>Steuermann weiß, wohin euch der Wind führt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eigenheiten, die werden schon haften;</l>
+            <l>Kultiviere deine Eigenschaften.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel Gewohnheiten darfst du haben,</l>
+            <l>Aber keine Gewohnheit!</l>
+            <l>Dies Wort unter des Dichters Gaben</l>
+            <l>Halte nicht für Torheit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Rechte, das ich viel getan,</l>
+            <l>Das ficht mich nun nicht weiter an,</l>
+            <l>Aber das Falsche, das mir entschlüpft,</l>
+            <l>Wie ein Gespenst mir vor Augen hüpft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gebt mir zu tun,</l>
+            <l>Das sind reiche Gaben!</l>
+            <l>Das Herz kann nicht ruhn,</l>
+            <l>Will zu schaffen haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihrer viele wissen viel,</l>
+            <l>Von der Weisheit sind sie weit entfernt.</l>
+            <l>Andre Leute sind euch ein Spiel;</l>
+            <l>Sich selbst hat niemand ausgelernt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»man hat ein Schimpflied auf dich gemacht;</l>
+            <l>Es hat's ein böser Feind erdacht.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß sie's nur immer singen,</l>
+            <l>Denn es wird bald verklingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dauert nicht so lang in den Landen</l>
+            <l>Als das: Christ ist erstanden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das dauert schon achtzehnhundert Jahr'</l>
+            <l>Und ein paar drüber, das ist wohl wahr!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer ist denn der souveräne Mann?</l>
+            <l>Das ist bald gesagt:</l>
+            <l>Der, den man nicht hindern kann,</l>
+            <l>Ob er nach Gutem oder Bösem jagt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entzwei' und gebiete! Tüchtig Wort;</l>
+            <l>Verein' und leite! Beßrer Hort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Magst du einmal mich hintergehen,</l>
+            <l>Merk ich's, so laß ich's wohl geschehen;</l>
+            <l>Gestehst du mir's aber ins Gesicht,</l>
+            <l>In meinem Leben verzeih ich's nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht größern Vorteil wüßt ich zu nennen,</l>
+            <l>Als des Feindes Verdienst erkennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»hat man das Gute dir erwidert?«</l>
+            <l>Mein Pfeil flog ab, sehr schön befiedert,</l>
+            <l>Der ganze Himmel stand ihm offen,</l>
+            <l>Er hat wohl irgendwo getroffen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»was schnitt dein Freund für ein Gesicht?«</l>
+            <l>Guter Geselle, das versteh ich nicht.</l>
+            <l>Ihm ist wohl sein Süß Gesicht verleidet,</l>
+            <l>Daß er heut saure Gesichter schneidet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr sucht die Menschen zu benennen</l>
+            <l>Und glaubt am Namen sie zu kennen.</l>
+            <l>Wer tiefer sieht, gesteht sich frei,</l>
+            <l>Es ist was Anonymes dabei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»mancherlei hast du versäumet:</l>
+            <l>Statt zu handeln, hast geträumet,</l>
+            <l>Statt zu danken, hast geschwiegen,</l>
+            <l>Solltest wandern, bliebest liegen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nein, ich habe nichts versäumet!</l>
+            <l>Wißt ihr denn, was ich geträumet?</l>
+            <l>Nun will ich zum Danke fliegen,</l>
+            <l>Nur mein Bündel bleibe liegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heute geh ich. Komm ich wieder,</l>
+            <l>Singen wir ganz andre Lieder.</l>
+            <l>Wo so viel sich hoffen läßt,</l>
+            <l>Ist der Abschied ja ein Fest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was soll ich viel lieben, was soll ich viel hassen;</l>
+            <l>Man lebt nur vom Lebenlassen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts leichter, als dem Dürftigen schmeicheln;</l>
+            <l>Wer mag aber ohne Vorteil heucheln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie konnte der </l>
+            <l>Er ist auf Fingerchen gegangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sprichwort bezeichnet Nationen;</l>
+            <l>Mußt aber erst unter ihnen wohnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erkenne dich! – Was soll das heißen?</l>
+            <l>Es heißt: Sei nur! und sei auch nicht!</l>
+            <l>Es ist eben ein Spruch der lieben Weisen,</l>
+            <l>Der sich in der Kürze widerspricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erkenne dich! – Was hab ich da für Lohn?</l>
+            <l>Erkenn ich mich, so muß ich gleich davon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als wenn ich auf den Maskenball käme</l>
+            <l>Und gleich die Larve vom Angesicht nähme.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Andre zu kennen, das mußt du probieren,</l>
+            <l>Ihnen zu schmeicheln oder sie zu vexieren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»warum magst du gewisse Schriften nicht lesen?«</l>
+            <l>Das ist auch sonst meine Speise gewesen;</l>
+            <l>Eilt aber die Raupe, sich einzuspinnen,</l>
+            <l>Nicht kann sie mehr Blättern Geschmack abgewinnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was dem Enkel so wie dem Ahn frommt,</l>
+            <l>Darüber hat man viel geträumet;</l>
+            <l>Aber worauf eben alles ankommt,</l>
+            <l>Das wird vom Lehrer gewöhnlich versäumet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verweile nicht, und sei dir selbst ein Traum,</l>
+            <l>Und wie du reisest, danke jedem Raum,</l>
+            <l>Bequeme dich dem Heißen wie dem Kalten;</l>
+            <l>Dir wird die Welt, du wirst ihr nie veralten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ohne Umschweife</l>
+            <l>Begreife,</l>
+            <l>Was dich mit der Welt entzweit;</l>
+            <l>Nicht will sie Gemüt, will Höflichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gemüt muß verschleifen,</l>
+            <l>Höflichkeit läßt sich mit Händen greifen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was eben wahr ist allerorten,</l>
+            <l>Das sag ich mit ungescheuten Worten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts taugt Ungeduld,</l>
+            <l>Noch weniger Reue;</l>
+            <l>Jene vermehrt die Schuld,</l>
+            <l>Diese schafft neue.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß von diesem wilden Sehnen,</l>
+            <l>Dieser reichen Saat von Tränen</l>
+            <l>Götterlust zu hoffen sei,</l>
+            <l>Mache deine Seele frei!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der entschließt sich doch gleich,</l>
+            <l>Den heiß ich brav und kühn!</l>
+            <l>Er springt in den Teich,</l>
+            <l>Dem Regen zu entfliehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß Glück ihm günstig sei,</l>
+            <l>Was hilft's dem Stöffel?</l>
+            <l>Denn regnet's Brei,</l>
+            <l>Fehlt ihm der Löffel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dichter gleichen Bären,</l>
+            <l>Die immer an eignen Pfoten zehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Welt ist nicht aus Brei und Mus geschaffen,</l>
+            <l>Deswegen haltet euch nicht wie Schlaraffen;</l>
+            <l>Harte Bissen gibt es zu kauen:</l>
+            <l>Wir müssen erwürgen oder sie verdauen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein kluges Volk wohnt nah dabei,</l>
+            <l>Das immerfort sein Bestes wollte;</l>
+            <l>Es gab dem niedrigen Kirchturm Brei,</l>
+            <l>Damit er größer werden sollte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sechsundzwanzig Groschen gilt mein Taler!</l>
+            <l>Was heißt ihr mich denn einen Prahler?</l>
+            <l>Habt ihr doch andre nicht gescholten,</l>
+            <l>Deren Groschen einen Taler gegolten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Niederträchtigers wird nichts gereicht,</l>
+            <l>Als wenn der Tag den Tag erzeugt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was hat dir das arme Glas getan?</l>
+            <l>Sieh deinen Spiegel nicht so häßlich an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebesbücher und Jahrgedichte</l>
+            <l>Machen bleich und hager;</l>
+            <l>Frösche plagten, sagt die Geschichte,</l>
+            <l>Pharaonem auf seinem Lager.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So schließen wir, daß in die Läng</l>
+            <l>Euch nicht die Ohren gellen,</l>
+            <l>Vernunft ist hoch, Verstand ist streng,</l>
+            <l>Wir rasseln drein mit Schellen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese Worte sind nicht alle in Sachsen</l>
+            <l>Noch auf meinem eignen Mist gewachsen,</l>
+            <l>Doch was für Samen die Fremde bringt,</l>
+            <l>Erzog ich im Lande gut gedüngt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und selbst den Leuten du bon ton</l>
+            <l>Ist dieses Büchlein lustig erschienen:</l>
+            <l>Es ist kein Globe de compression,</l>
+            <l>Sind lauter Flatterminen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich den Scherz will ernsthaft nehmen,</l>
+            <l>So soll mich niemand drum beschämen;</l>
+            <l>Und wenn ich den Ernst will scherzhaft treiben,</l>
+            <l>So werd ich immer derselbe bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Lust zu reden kommt zu rechter Stunde,</l>
+            <l>Und wahrhaft fließt das Wort aus Herz und Munde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sah mich um an vielen Orten</l>
+            <l>Nach lustigen, gescheiten Worten;</l>
+            <l>An bösen Tagen mußt ich mich freuen,</l>
+            <l>Daß diese die besten Worte verleihen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im neuen Jahre Glück und Heil;</l>
+            <l>Auf Weh und Wunden gute Salbe!</l>
+            <l>Auf groben Klotz ein grober Keil!</l>
+            <l>Auf </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst lustig leben,</l>
+            <l>Geh mit zwei Säcken,</l>
+            <l>Einen zum Geben,</l>
+            <l>Einen, um einzustecken.</l>
+            <l>Da gleichst du Prinzen,</l>
+            <l>Plünderst und beglückst Provinzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was in der Zeiten Bildersaal</l>
+            <l>Jemals ist trefflich gewesen,</l>
+            <l>Das wird immer einer einmal</l>
+            <l>Wieder auffrischen und lesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht jeder wandelt nur gemeine Stege:</l>
+            <l>Du siehst, die Spinnen bauen luft'ge Wege.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Kranz ist gar viel leichter binden,</l>
+            <l>Als ihm ein würdig Haupt zu finden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie die Pflanzen zu wachsen belieben,</l>
+            <l>Darin wird jeder Gärtner sich üben;</l>
+            <l>Wo aber des Menschen Wachstum ruht,</l>
+            <l>Dazu jeder selbst das Beste tut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du dir aber das Beste tun,</l>
+            <l>So bleib nicht auf dir selber ruhn,</l>
+            <l>Sondern folg eines Meisters Sinn;</l>
+            <l>Mit ihm zu irren ist dir Gewinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Benutze redlich deine Zeit!</l>
+            <l>Willst was begreifen, such's nicht weit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwischen heut und morgen</l>
+            <l>Liegt eine lange Frist;</l>
+            <l>Lerne schnell besorgen,</l>
+            <l>Da du noch munter bist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Dinte macht uns wohl gelehrt,</l>
+            <l>Doch ärgert sie, wo sie nicht hingehört.</l>
+            <l>Geschrieben Wort ist Perlen gleich;</l>
+            <l>Ein Dintenklecks ein böser Streich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn man fürs Künftige was erbaut,</l>
+            <l>Schief wird's von vielen angeschaut.</l>
+            <l>Tust du was für den Augenblick,</l>
+            <l>Vor allem opfre du dem Glück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit einem Herren steht es gut,</l>
+            <l>Der, was er befohlen, selber tut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tu nur das Rechte in deinen Sachen;</l>
+            <l>Das andre wird sich von selber machen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn jemand sich wohl im Kleinen deucht,</l>
+            <l>So denke: der hat ein Großes erreicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaube nur, du hast viel getan,</l>
+            <l>Wenn dir Geduld gewöhnest an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer sich nicht nach der Decke streckt,</l>
+            <l>Dem bleiben die Füße unbedeckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Vogel ist froh in der Luft gemütet,</l>
+            <l>Wenn es da unten im Neste brütet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ein kluger Mann der Frau befiehlt,</l>
+            <l>Dann sei es um ein Großes gespielt;</l>
+            <l>Will die Frau dem Mann befehlen,</l>
+            <l>So muß sie das Große im Kleinen wählen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welche Frau hat einen guten Mann,</l>
+            <l>Der sieht man's am Gesicht wohl an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Frau macht oft ein bös Gesicht;</l>
+            <l>Der gute Mann verdient's wohl nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein braver Mann! ich kenn ihn ganz genau:</l>
+            <l>Erst prügelt er, dann kämmt er seine Frau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein schönes Ja, ein schönes Nein,</l>
+            <l>Nur geschwind! soll mir willkommen sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Januar, Februar, März,</l>
+            <l>Du bist mein liebes Herz.</l>
+            <l>Mai, Juni, Juli, August,</l>
+            <l>Mir ist nichts mehr bewußt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Neumond und geküßter Mund</l>
+            <l>Sind gleich wieder hell und frisch und gesund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir gäb es keine größre Pein,</l>
+            <l>Wär ich im Paradies allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ließe sich alles trefflich schlichten,</l>
+            <l>Könnte man die Sachen zweimal verrichten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur heute, heute nur laß dich nicht fangen,</l>
+            <l>So bist du hundertmal entgangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht's in der Welt dir endlich schlecht,</l>
+            <l>Tu, was du willst, nur habe nicht recht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zücht'ge den Hund, den Wolf magst du peitschen;</l>
+            <l>Graue Haare sollst du nicht reizen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Flusse kannst du stemmen und häkeln;</l>
+            <l>Überschwemmung läßt sich nicht mäkeln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tausend Fliegen hatt ich am Abend erschlagen,</l>
+            <l>Doch werkte mich </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wärst du auch zum fernsten Ort,</l>
+            <l>Zur kleinsten Hütte durchgedrungen,</l>
+            <l>Was hilft es dir, du findest dort</l>
+            <l>Tabak und böse Zungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wüßte nicht, was sie Bessers erfinden könnten,</l>
+            <l>Als wenn die Lichter ohne Putzen brennten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lief' das Brot, wie die Hasen laufen,</l>
+            <l>Es kostete viel Schweiß, es zu kaufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Will Vogelfang dir nicht geraten,</l>
+            <l>So magst du deinen Schuhu braten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das wär dir ein schönes Gartengelände,</l>
+            <l>Wo man den Weinstock mit Würsten bände.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du mußt dich niemals mit Schwur vermessen:</l>
+            <l>Von dieser Speise will ich nicht essen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer aber recht bequem ist und faul,</l>
+            <l>Flög dem eine gebratne Taube ins Maul,</l>
+            <l>Er würde höchlich sich's verbitten,</l>
+            <l>Wär sie nicht auch geschickt zerschnitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freigebig ist der mit seinen Schritten,</l>
+            <l>Der kommt, von der Katze Speck zu erbitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast deine Kastanien zu lange gebraten;</l>
+            <l>Sie sind dir alle zu Kohlen geraten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das sind mir allzu böse Bissen,</l>
+            <l>An denen die Gäste erwürgen müssen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist eine von den großen Taten,</l>
+            <l>Sich in seinem eignen Fett zu braten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gesotten oder gebraten!</l>
+            <l>Er ist ans Feuer geraten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gebraten oder gesotten!</l>
+            <l>Ihr sollt nicht meiner spotten.</l>
+            <l>Was ihr euch heute getröstet,</l>
+            <l>Ihr seid doch morgen geröstet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer Ohren hat, soll hören;</l>
+            <l>Wer Geld hat, soll's verzehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mutter schenk ich,</l>
+            <l>Die Tochter denk ich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kleid' eine Säule,</l>
+            <l>Sie sieht wie eine Fräule.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlaf ich, so schlaf ich mir bequem.</l>
+            <l>Arbeit ich, ja, ich weiß nicht wem.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ganz und gar</l>
+            <l>Bin ich ein armer Wicht.</l>
+            <l>Meine Träume sind nicht wahr,</l>
+            <l>Und meine Gedanken geraten nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit meinem Willen mag's geschehn! –</l>
+            <l>Die Träne wird mir in dem Auge stehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl unglückselig ist der Mann,</l>
+            <l>Der unterläßt das, was er kann,</l>
+            <l>Und unterfängt sich, was er nicht versteht;</l>
+            <l>Kein Wunder, daß er zugrunde geht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du trägst sehr leicht, wenn du nichts hast;</l>
+            <l>Aber Reichtum ist eine leichtere Last.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles in der Welt läßt sich ertragen,</l>
+            <l>Nur nicht eine Reihe von schönen Tagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was räucherst du nun deinem Toten?</l>
+            <l>Hättst du's ihm so im Leben geboten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja! wer eure Verehrung nicht kennte:</l>
+            <l>Euch, nicht ihm baut ihr Monumente.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du dich deines Wertes freuen,</l>
+            <l>So mußt der Welt du Wert verleihen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Will einer in die Wüste pred'gen,</l>
+            <l>Der mag sich von sich selbst erled'gen;</l>
+            <l>Spricht aber einer zu seinen Brüdern,</l>
+            <l>Werden sie's oft schlecht erwidern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß Neid und Mißgunst sich verzehren,</l>
+            <l>Das Gute werden sie nicht wehren.</l>
+            <l>Denn, Gott sei Dank! es ist ein alter Brauch:</l>
+            <l>So weit die Sonne scheint, so weit erwärmt sie auch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Interim</l>
+            <l>Hat den Schalk hinter ihm.</l>
+            <l>Wieviel Schälke muß es geben,</l>
+            <l>Da wir alle ad interim leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was fragst du viel: Wo will's hinaus,</l>
+            <l>Wo oder wie kann's enden?</l>
+            <l>Ich dächte, Freund, du bliebst zu Haus</l>
+            <l>Und sprächst mit deinen Wänden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viele Köche versalzen den Brei;</l>
+            <l>Bewahr uns Gott vor vielen Dienern!</l>
+            <l>Wir aber sind, gesteht es frei,</l>
+            <l>Ein Lazarett von Medizinern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr meint, ich hätt mich gewaltig betrogen;</l>
+            <l>Hab's aber nicht aus den Fingern gesogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch spukt der Babylon'sche Turm,</l>
+            <l>Sie sind nicht zu vereinen!</l>
+            <l>Ein jeder Mann hat seinen Wurm,</l>
+            <l>Kopernikus den seinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn bei den alten, lieben Toten</l>
+            <l>Braucht man Erklärung, will man Noten.</l>
+            <l>Die Neuen glaubt man blank zu verstehn;</l>
+            <l>Doch ohne Dolmetsch wird's auch nicht gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sagen: Das mutet mich nicht an!</l>
+            <l>Und meinen, sie hätten's abgetan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In meinem Revier</l>
+            <l>Sind Gelehrte gewesen,</l>
+            <l>Außer ihrem eignen Brevier</l>
+            <l>Konnten sie keines lesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel Rettungsmittel bietest du! was heißt's?</l>
+            <l>Die beste Rettung: Gegenwart des Geists!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß nur die Sorge sein,</l>
+            <l>Das gibt sich alles schon;</l>
+            <l>Und fällt der Himmel ein,</l>
+            <l>Kommt doch eine Lerche davon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann ist einer durchaus verarmt,</l>
+            <l>Wenn die Scham den Schaden umarmt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du treibst mir's gar zu toll.</l>
+            <l>Ich fürcht, es breche!</l>
+            <l>Nicht jeden Wochenschluß</l>
+            <l>Macht Gott die Zeche.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist sehr eilig, meiner Treu!</l>
+            <l>Du suchst die Tür und läufst vorbei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie glauben, miteinander zu streiten,</l>
+            <l>Und fühlen das Unrecht von beiden Seiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Haben's gekauft, es freut sie baß;</l>
+            <l>Eh man's denkt, so betrübt sie das.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du nichts Unnützes kaufen,</l>
+            <l>Mußt du nicht auf den Jahrmarkt laufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Langeweile ist ein böses Kraut,</l>
+            <l>Aber auch eine Würze, die viel verdaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wird uns eine rechte Qual zuteil,</l>
+            <l>Dann wünschen wir uns Langeweil.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß sie die Kinder erziehen könnten,</l>
+            <l>Müßten die Mütter sein wie Enten:</l>
+            <l>Sie schwämmen mit ihrer Brut in Ruh;</l>
+            <l>Da gehört aber freilich Wasser dazu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das junge Volk, es bildet sich ein,</l>
+            <l>Sein Tauftag sollte der Schöpfungstag sein.</l>
+            <l>Möchten sie doch zugleich bedenken,</l>
+            <l>Was wir ihnen als Eingebinde schenken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»nein! heut ist mir das Glück erbost!«</l>
+            <l>Du, sattle gut und reite getrost!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Über ein Ding wird viel geplaudert,</l>
+            <l>Viel beraten und lange gezaudert,</l>
+            <l>Und endlich gibt ein böses Muß</l>
+            <l>Der Sache widrig den Beschluß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Bresche ist jeder Tag,</l>
+            <l>Die viele Menschen erstürmen.</l>
+            <l>Wer auch in die Lücke fallen mag,</l>
+            <l>Die Toten sich niemals türmen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn einer schiffet und reiset,</l>
+            <l>Sammelt er nach und nach immer ein,</l>
+            <l>Was sich am Leben mit mancher Pein</l>
+            <l>Wieder ausschälet und weiset.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mensch erfährt, er sei auch, wer er mag,</l>
+            <l>Ein letztes Glück und einen letzten Tag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Glück deiner Tage</l>
+            <l>Wäge nicht mit der Goldwaage.</l>
+            <l>Wirst du die Krämerwaage nehmen,</l>
+            <l>So wirst du dich schämen und dich bequemen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du einmal das Rechte getan</l>
+            <l>Und sieht ein Feind nur Scheeles daran,</l>
+            <l>So wird er gelegentlich, spät oder früh,</l>
+            <l>Dasselbe tun, er weiß nicht wie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du das Gute tun, mein Sohn,</l>
+            <l>So lebe nur lange, da gibt sich's schon;</l>
+            <l>Solltest du aber zu früh ersterben,</l>
+            <l>Wirst du von Künftigen Dank erwerben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was gibt uns wohl den schönsten Frieden,</l>
+            <l>Als frei am eignen Glück zu schmieden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laßt mir die jungen Leute nur,</l>
+            <l>Und ergetzt euch an ihren Gaben!</l>
+            <l>Es will doch Großmama Natur</l>
+            <l>Manchmal einen närrischen Einfall haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ungebildet waren wir unangenehm;</l>
+            <l>Jetzt sind uns die Neuen sehr unbequem.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo Anmaßung mir wohlgefällt?</l>
+            <l>An Kindern: denen gehört die Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr zählt mich immer unter die Frohen,</l>
+            <l>Erst lebt ich roh, jetzt unter den Rohen.</l>
+            <l>Den Fehler, den man selbst geübt,</l>
+            <l>Man auch wohl an dem andern liebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du mit mir hausen,</l>
+            <l>So laß die Bestie draußen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wollen die Menschen Bestien sein,</l>
+            <l>So bringt nur Tiere zur Stube herein,</l>
+            <l>Das Widerwärtige wird sich mindern.</l>
+            <l>Wir sind eben alle von Adams Kindern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit Narren leben wird dir gar nicht schwer,</l>
+            <l>Erhalte nur ein Tollhaus um dich her.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sag mir, was ein Hypochondrist</l>
+            <l>Für ein wunderlicher Kunstfreund ist.</l>
+            <l>In Bildergalerien geht er spazieren</l>
+            <l>Vor lauter Gemälden, die ihn vexieren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Hypochonder ist bald kuriert,</l>
+            <l>Wenn euch das Leben recht kujoniert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du sollst mit dem Tode zufrieden sein,</l>
+            <l>Warum machst du dir das Leben zur Pein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein tolleres Versehn kann sein,</l>
+            <l>Gibst einem ein Fest und lädst ihn nicht ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da siehst du nun, wie's einem geht,</l>
+            <l>Weil sich der Beste von selbst versteht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ein Edler gegen dich fehlt,</l>
+            <l>So tu, als hättest du's nicht gezählt:</l>
+            <l>Er wird es in sein Schuldbuch schreiben</l>
+            <l>Und dir nicht lange im Debet bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Suche nicht vergebne Heilung!</l>
+            <l>Unsrer Krankheit schwer Geheimnis</l>
+            <l>Schwankt zwischen Übereilung</l>
+            <l>Und zwischen Versäumnis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, schelte nur und fluche fort,</l>
+            <l>Es wird sich Beßres nie ergeben.</l>
+            <l>Denn Trost ist ein absurdes Wort:</l>
+            <l>Wer nicht verzweiflen kann, der muß nicht leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich soll nicht auf den Meister schwören</l>
+            <l>Und immerfort den Meister hören!</l>
+            <l>Nein, ich weiß, er kann nicht lügen,</l>
+            <l>Will mich gern mit ihm betriegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich freuen die vielen Guten und Tücht'gen,</l>
+            <l>Obgleich so viele dazwischenbelfen.</l>
+            <l>Die Deutschen wissen zu bericht'gen,</l>
+            <l>Aber sie verstehen nicht nachzuhelfen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»du kommst nicht ins Ideenland!«</l>
+            <l>So bin ich doch am Ufer bekannt.</l>
+            <l>Wer die Inseln nicht zu erobern glaubt,</l>
+            <l>Dem ist Ankerwerfen doch wohl erlaubt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Dichterglut war sehr gering,</l>
+            <l>Solang ich dem Guten entgegenging;</l>
+            <l>Dagegen brannte sie lichterloh,</l>
+            <l>Wenn ich vor drohendem Übel floh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zart Gedicht, wie Regenbogen,</l>
+            <l>Wird nur auf dunklen Grund gezogen;</l>
+            <l>Darum behagt dem Dichtergenie</l>
+            <l>Das Element der Melancholie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum hatt ich mich in die Welt gespielt</l>
+            <l>Und fing an aufzutauchen,</l>
+            <l>Als man mich schon so vornehm hielt,</l>
+            <l>Mich zu mißbrauchen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer dem Publikum dient, ist ein armes Tier;</l>
+            <l>Er quält sich ab, niemand bedankt sich dafür.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleich zu sein unter Gleichen,</l>
+            <l>Das läßt sich schwer erreichen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du müßtest ohne Verdrießen</l>
+            <l>Wie der Schlechteste zu sein dich entschließen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man kann nicht immer zusammen stehn,</l>
+            <l>Am wenigsten mit großen Haufen.</l>
+            <l>Seine Freunde, die läßt man gehn,</l>
+            <l>Die Menge läßt man laufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du magst an dir das Falsche nähren,</l>
+            <l>Allein wir lassen uns nicht stören;</l>
+            <l>Du kannst uns loben, kannst uns schelten,</l>
+            <l>Wir lassen es nicht für das Rechte gelten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man soll sich nicht mit Spöttern befassen;</l>
+            <l>Wer will sich für 'nen Narren halten lassen!</l>
+            <l>Darüber muß man sich aber zerreißen,</l>
+            <l>Daß man Narren nicht darf Narren heißen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Christkindlein trägt die Sünden der Welt,</l>
+            <l>Sankt Christoph das Kind über Wasser hält,</l>
+            <l>Sie haben es beid' uns angetan,</l>
+            <l>Es geht mit uns von vornen an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Efeu und ein zärtlich Gemüt</l>
+            <l>Heftet sich an und grünt und blüht.</l>
+            <l>Kann es weder Stamm noch Mauer finden,</l>
+            <l>Es muß verdorren, es muß verschwinden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zierlich Denken und süß Erinnern</l>
+            <l>Ist das Leben im tiefsten Innern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich träumt und liebte sonnenklar;</l>
+            <l>Daß ich lebte, ward ich gewahr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer recht will tun, immer und mit Lust,</l>
+            <l>Der hege wahre Lieb in Sinn und Brust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wann magst du dich am liebsten bücken?«</l>
+            <l>Dem Liebchen Frühlingsblume zu pflücken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch das ist gar kein groß Verdienst,</l>
+            <l>Denn Liebe bleibt der höchste Gewinst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zeit, sie mäht so Rosen als Dornen,</l>
+            <l>Aber das treibt immer wieder von vornen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Genieße, was der Schmerz dir hinterließ!</l>
+            <l>Ist Not vorüber, sind die Nöte süß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glückselig ist, wer Liebe rein genießt,</l>
+            <l>Weil doch zuletzt das Grab so Lieb als Haß verschließt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viele Lieb hab ich erlebet,</l>
+            <l>Wenn ich liebelos gestrebet;</l>
+            <l>Und Verdrießliches erworben,</l>
+            <l>Wenn ich fast für Lieb gestorben.</l>
+            <l>So du es zusammengezogen,</l>
+            <l>Bleibet Saldo dir gewogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tut dir jemand was zulieb,</l>
+            <l>Nur geschwinde, gib nur, gib.</l>
+            <l>Wenige getrost erwarten</l>
+            <l>Dankesblume aus stillem Garten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doppelt gibt, wer gleich gibt,</l>
+            <l>Hundertfach, der gleich gibt,</l>
+            <l>Was man wünscht und liebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»warum zauderst du so mit deinen Schritten?«</l>
+            <l>Nur ungern mag ich ruhn,</l>
+            <l>Will ich aber was Gutes tun,</l>
+            <l>Muß ich erst um Erlaubnis bitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was willst du lange vigilieren,</l>
+            <l>Dich mit der Welt herumvexieren?</l>
+            <l>Nur Heiterkeit und grader Sinn</l>
+            <l>Verschafft dir endlichen Gewinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wem wohl das Glück die schönste Palme beut?</l>
+            <l>Wer freudig tut, sich des Getanen freut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleich ist alles versöhnt,</l>
+            <l>Wer redlich ficht, wird gekrönt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirkest nicht, alles bleibt so stumpf.</l>
+            <l>Sei guter Dinge!</l>
+            <l>Der Stein im Sumpf</l>
+            <l>Macht keine Ringe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In des Weinstocks herrliche Gaben</l>
+            <l>Gießt ihr mir schlechtes Gewässer!</l>
+            <l>Ich soll immer unrecht haben</l>
+            <l>Und weiß es besser.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich mir gefallen lasse?</l>
+            <l>Zuschlagen muß die Masse,</l>
+            <l>Dann ist sie respektabel,</l>
+            <l>Urteilen gelingt ihr miserabel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist sehr schwer oft zu ergründen,</l>
+            <l>Warum wir das angefangen;</l>
+            <l>Wir müssen oft Belohnung finden,</l>
+            <l>Daß es uns schlecht ergangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seh ich an andern große Eigenschaften</l>
+            <l>Und wollen die an mir auch haften,</l>
+            <l>So werd ich sie in Liebe pflegen;</l>
+            <l>Geht's nicht, so tu ich was anders dagegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich, Egoist! – Wenn ich's nicht besser wüßte!</l>
+            <l>Der Neid, das ist der Egoiste;</l>
+            <l>Und was ich auch für Wege geloffen,</l>
+            <l>Auf 'm Neidpfad habt ihr mich nie betroffen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht über Zeit- noch Landgenossen</l>
+            <l>Mußt du dich beklagen;</l>
+            <l>Nachbarn werden ganz andere Possen,</l>
+            <l>Und auch Künftige, über dich sagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Vaterlande</l>
+            <l>Schreibe, was dir gefällt:</l>
+            <l>Da sind Liebesbande,</l>
+            <l>Da ist deine Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Draußen zu wenig oder zu viel,</l>
+            <l>Zu Hause nur ist Maß und Ziel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum werden die Dichter beneidet?</l>
+            <l>Weil Unart sie zuweilen kleidet,</l>
+            <l>Und in der Welt ist's große Pein,</l>
+            <l>Daß wir nicht dürfen unartig sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So kommt denn auch das Dichtergenie</l>
+            <l>Durch die Welt und weiß nicht wie.</l>
+            <l>Guten Vorteil bringt ein heitrer Sinn;</l>
+            <l>Andern zerstört Verlust den Gewinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»immer denk ich: mein Wunsch ist erreicht,</l>
+            <l>Und gleich geht's wieder anders her!«</l>
+            <l>Zerstückle das Leben, du machst dir's leicht;</l>
+            <l>Vereinige es, und du machst dir's schwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»bist du denn nicht auch zugrunde gerichtet?</l>
+            <l>Von deinen Hoffnungen trifft nichts ein!«</l>
+            <l>Die Hoffnung ist's, die sinnet und dichtet,</l>
+            <l>Und da kann ich noch immer lustig sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht alles ist an eins gebunden,</l>
+            <l>Seid nur nicht mit euch selbst im Streit!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit Liebe endigt man, was man erfunden;</l>
+            <l>Was man gelernt, mit Sicherheit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer uns am strengsten kritisiert?</l>
+            <l>Ein Dilettant, der sich resigniert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch Vernünfteln wird Poesie vertrieben,</l>
+            <l>Aber sie mag das Vernünftige lieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wo ist der Lehrer, dem man glaubt?«</l>
+            <l>Tu, was dir dein kleines Gemüt erlaubt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaubst dich zu kennen, wirst Gott nicht erkennen,</l>
+            <l>Auch wohl das Schlechte göttlich nennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer Gott ahnet, ist hochzuhalten,</l>
+            <l>Denn er wird nie im Schlechten walten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Macht's einander nur nicht sauer,</l>
+            <l>Hier sind wir gleich, Baron und Bauer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum uns Gott so wohl gefällt?</l>
+            <l>Weil er sich uns nie in den Weg stellt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie wollten die Fischer sich nähren und retten,</l>
+            <l>Wenn die Frösche sämtlich Zähne hätten?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Kirschen und Beeren behagen,</l>
+            <l>Mußt du Kinder und Sperlinge fragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»warum hat dich das schöne Kind verlassen?«</l>
+            <l>Ich kann sie darum doch nicht hassen:</l>
+            <l>Sie schien zu fürchten und zu fühlen,</l>
+            <l>Ich werde das Prävenire spielen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaube mir gar und ganz,</l>
+            <l>Mädchen, laß deine Bein' in Ruh,</l>
+            <l>Es gehört mehr zum Tanz</l>
+            <l>Als rote Schuh'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich nicht weiß,</l>
+            <l>Macht mich nicht heiß.</l>
+            <l>Und was ich weiß,</l>
+            <l>Machte mich heiß,</l>
+            <l>Wenn ich nicht wüßte'</l>
+            <l>Wie's werden müßte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft, wenn dir jeder Trost entflieht,</l>
+            <l>Mußt du im stillen dich bequemen.</l>
+            <l>Nur dann, wenn dir Gewalt geschieht,</l>
+            <l>Wird die Menge an dir Anteil nehmen;</l>
+            <l>Ums Unrecht, das dir widerfährt,</l>
+            <l>Kein Mensch den Blick zur Seite kehrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ärgerst du dich über fälschlich Erhobne!</l>
+            <l>Wo gäb es denn nicht Eingeschobne?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Worauf alles ankommt? Das ist sehr simpel!</l>
+            <l>Vater, verfüge, eh's dein Gesind spürt!</l>
+            <l>Dahin oder dorthin flattert ein Wimpel,</l>
+            <l>Steuermann weiß, wohin euch der Wind führt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eigenheiten, die werden schon haften;</l>
+            <l>Kultiviere deine Eigenschaften.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel Gewohnheiten darfst du haben,</l>
+            <l>Aber keine Gewohnheit!</l>
+            <l>Dies Wort unter des Dichters Gaben</l>
+            <l>Halte nicht für Torheit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Rechte, das ich viel getan,</l>
+            <l>Das ficht mich nun nicht weiter an,</l>
+            <l>Aber das Falsche, das mir entschlüpft,</l>
+            <l>Wie ein Gespenst mir vor Augen hüpft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gebt mir zu tun,</l>
+            <l>Das sind reiche Gaben!</l>
+            <l>Das Herz kann nicht ruhn,</l>
+            <l>Will zu schaffen haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihrer viele wissen viel,</l>
+            <l>Von der Weisheit sind sie weit entfernt.</l>
+            <l>Andre Leute sind euch ein Spiel;</l>
+            <l>Sich selbst hat niemand ausgelernt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»man hat ein Schimpflied auf dich gemacht;</l>
+            <l>Es hat's ein böser Feind erdacht.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß sie's nur immer singen,</l>
+            <l>Denn es wird bald verklingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dauert nicht so lang in den Landen</l>
+            <l>Als das: Christ ist erstanden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das dauert schon achtzehnhundert Jahr'</l>
+            <l>Und ein paar drüber, das ist wohl wahr!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer ist denn der souveräne Mann?</l>
+            <l>Das ist bald gesagt:</l>
+            <l>Der, den man nicht hindern kann,</l>
+            <l>Ob er nach Gutem oder Bösem jagt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entzwei' und gebiete! Tüchtig Wort;</l>
+            <l>Verein' und leite! Beßrer Hort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Magst du einmal mich hintergehen,</l>
+            <l>Merk ich's, so laß ich's wohl geschehen;</l>
+            <l>Gestehst du mir's aber ins Gesicht,</l>
+            <l>In meinem Leben verzeih ich's nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht größern Vorteil wüßt ich zu nennen,</l>
+            <l>Als des Feindes Verdienst erkennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»hat man das Gute dir erwidert?«</l>
+            <l>Mein Pfeil flog ab, sehr schön befiedert,</l>
+            <l>Der ganze Himmel stand ihm offen,</l>
+            <l>Er hat wohl irgendwo getroffen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»was schnitt dein Freund für ein Gesicht?«</l>
+            <l>Guter Geselle, das versteh ich nicht.</l>
+            <l>Ihm ist wohl sein Süß Gesicht verleidet,</l>
+            <l>Daß er heut saure Gesichter schneidet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr sucht die Menschen zu benennen</l>
+            <l>Und glaubt am Namen sie zu kennen.</l>
+            <l>Wer tiefer sieht, gesteht sich frei,</l>
+            <l>Es ist was Anonymes dabei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»mancherlei hast du versäumet:</l>
+            <l>Statt zu handeln, hast geträumet,</l>
+            <l>Statt zu danken, hast geschwiegen,</l>
+            <l>Solltest wandern, bliebest liegen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nein, ich habe nichts versäumet!</l>
+            <l>Wißt ihr denn, was ich geträumet?</l>
+            <l>Nun will ich zum Danke fliegen,</l>
+            <l>Nur mein Bündel bleibe liegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heute geh ich. Komm ich wieder,</l>
+            <l>Singen wir ganz andre Lieder.</l>
+            <l>Wo so viel sich hoffen läßt,</l>
+            <l>Ist der Abschied ja ein Fest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was soll ich viel lieben, was soll ich viel hassen;</l>
+            <l>Man lebt nur vom Lebenlassen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts leichter, als dem Dürftigen schmeicheln;</l>
+            <l>Wer mag aber ohne Vorteil heucheln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie konnte der </l>
+            <l>Er ist auf Fingerchen gegangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sprichwort bezeichnet Nationen;</l>
+            <l>Mußt aber erst unter ihnen wohnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erkenne dich! – Was soll das heißen?</l>
+            <l>Es heißt: Sei nur! und sei auch nicht!</l>
+            <l>Es ist eben ein Spruch der lieben Weisen,</l>
+            <l>Der sich in der Kürze widerspricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erkenne dich! – Was hab ich da für Lohn?</l>
+            <l>Erkenn ich mich, so muß ich gleich davon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als wenn ich auf den Maskenball käme</l>
+            <l>Und gleich die Larve vom Angesicht nähme.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Andre zu kennen, das mußt du probieren,</l>
+            <l>Ihnen zu schmeicheln oder sie zu vexieren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»warum magst du gewisse Schriften nicht lesen?«</l>
+            <l>Das ist auch sonst meine Speise gewesen;</l>
+            <l>Eilt aber die Raupe, sich einzuspinnen,</l>
+            <l>Nicht kann sie mehr Blättern Geschmack abgewinnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was dem Enkel so wie dem Ahn frommt,</l>
+            <l>Darüber hat man viel geträumet;</l>
+            <l>Aber worauf eben alles ankommt,</l>
+            <l>Das wird vom Lehrer gewöhnlich versäumet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verweile nicht, und sei dir selbst ein Traum,</l>
+            <l>Und wie du reisest, danke jedem Raum,</l>
+            <l>Bequeme dich dem Heißen wie dem Kalten;</l>
+            <l>Dir wird die Welt, du wirst ihr nie veralten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ohne Umschweife</l>
+            <l>Begreife,</l>
+            <l>Was dich mit der Welt entzweit;</l>
+            <l>Nicht will sie Gemüt, will Höflichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gemüt muß verschleifen,</l>
+            <l>Höflichkeit läßt sich mit Händen greifen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was eben wahr ist allerorten,</l>
+            <l>Das sag ich mit ungescheuten Worten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts taugt Ungeduld,</l>
+            <l>Noch weniger Reue;</l>
+            <l>Jene vermehrt die Schuld,</l>
+            <l>Diese schafft neue.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß von diesem wilden Sehnen,</l>
+            <l>Dieser reichen Saat von Tränen</l>
+            <l>Götterlust zu hoffen sei,</l>
+            <l>Mache deine Seele frei!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der entschließt sich doch gleich,</l>
+            <l>Den heiß ich brav und kühn!</l>
+            <l>Er springt in den Teich,</l>
+            <l>Dem Regen zu entfliehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß Glück ihm günstig sei,</l>
+            <l>Was hilft's dem Stöffel?</l>
+            <l>Denn regnet's Brei,</l>
+            <l>Fehlt ihm der Löffel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dichter gleichen Bären,</l>
+            <l>Die immer an eignen Pfoten zehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Welt ist nicht aus Brei und Mus geschaffen,</l>
+            <l>Deswegen haltet euch nicht wie Schlaraffen;</l>
+            <l>Harte Bissen gibt es zu kauen:</l>
+            <l>Wir müssen erwürgen oder sie verdauen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein kluges Volk wohnt nah dabei,</l>
+            <l>Das immerfort sein Bestes wollte;</l>
+            <l>Es gab dem niedrigen Kirchturm Brei,</l>
+            <l>Damit er größer werden sollte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sechsundzwanzig Groschen gilt mein Taler!</l>
+            <l>Was heißt ihr mich denn einen Prahler?</l>
+            <l>Habt ihr doch andre nicht gescholten,</l>
+            <l>Deren Groschen einen Taler gegolten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Niederträchtigers wird nichts gereicht,</l>
+            <l>Als wenn der Tag den Tag erzeugt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was hat dir das arme Glas getan?</l>
+            <l>Sieh deinen Spiegel nicht so häßlich an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebesbücher und Jahrgedichte</l>
+            <l>Machen bleich und hager;</l>
+            <l>Frösche plagten, sagt die Geschichte,</l>
+            <l>Pharaonem auf seinem Lager.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So schließen wir, daß in die Läng</l>
+            <l>Euch nicht die Ohren gellen,</l>
+            <l>Vernunft ist hoch, Verstand ist streng,</l>
+            <l>Wir rasseln drein mit Schellen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese Worte sind nicht alle in Sachsen</l>
+            <l>Noch auf meinem eignen Mist gewachsen,</l>
+            <l>Doch was für Samen die Fremde bringt,</l>
+            <l>Erzog ich im Lande gut gedüngt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und selbst den Leuten du bon ton</l>
+            <l>Ist dieses Büchlein lustig erschienen:</l>
+            <l>Es ist kein Globe de compression,</l>
+            <l>Sind lauter Flatterminen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

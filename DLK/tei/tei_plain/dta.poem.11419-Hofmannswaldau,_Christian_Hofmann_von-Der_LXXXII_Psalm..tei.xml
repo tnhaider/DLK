@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der  LXXXII  Psalm.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">301</measure>
+        <measure type="tokens">210</measure>
+        <measure type="characters">1233</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1709</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20283-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der  LXXXII  Psalm.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott stehet allezeit, und sieht auf die gemeine:</l>
+            <l>Wißt, götter! daß der HErr der götter richter heist.</l>
+            <l>Wie kommt es, daß ihr euch des rechtes nicht befleist?</l>
+            <l>Ein jeder nimmt geschenck, und siehet auf das seine.</l>
+            <l>Wie lange richtet ihr aus gunst und heucheley?</l>
+            <l>Schafft einst den armen recht, und springt den waisen bey!</l>
+            <l>Helfft dem, der dürfftig ist, und straft die falscheu tücken,</l>
+            <l>Damit die mächtigen nicht den geringen drücken!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wiewohl! ihr bleibet taub, und lasset euch nichts sagen:</l>
+            <l>Jhr haßt das reine licht, und wolt im finstern seyn.</l>
+            <l>Drum geht der feste grund des landes wohlfarth ein:</l>
+            <l>Drum höret man das volck auf allen gassen klagen.</l>
+            <l>Der HErr hat wohl gesagt: Daß ihr die obrigkeit,</l>
+            <l>Daß ihr des Höchsten söhn’, und daß ihr götter seyd;</l>
+            <l>Jhr werdet aber doch, wie schlechte menschen sterben,</l>
+            <l>Und als tyrannen einst in tieffer angst verderben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum mache dich selbst auf, und höre das gewinsel,</l>
+            <l>O GOtt! weil niemand hört, der nicht geschencke kriegt,</l>
+            <l>Du siehest, wie das land fast in dem tode liegt.</l>
+            <l>Das elend, das hier herrscht, entwirfft kein zarter pinsel;</l>
+            <l>Der reichen herrschens-sucht und ungerechtigkeit</l>
+            <l>Ist deinen heiligen ein unaussprechlich leyd.</l>
+            <l>Damit es nun vor sie nicht unerträglich werde,</l>
+            <l>So komm, o HErr der welt! und richte selbst die erde!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

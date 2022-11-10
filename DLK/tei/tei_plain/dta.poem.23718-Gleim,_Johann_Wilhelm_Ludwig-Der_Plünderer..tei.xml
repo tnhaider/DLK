@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Plünderer.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-22</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">576</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Plünderer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sahe mit Erbarmen,</l>
+            <l>Das Rauben und das Plündern</l>
+            <l>Der wilden Kriegesleute.</l>
+            <l>Sie nahmen Gold und Silber,</l>
+            <l>Sie nahmen Wein und Weitzen,</l>
+            <l>Und säumten nicht im Nehmen,</l>
+            <l>Obgleich ein freundlich Mädchen,</l>
+            <l>Ein liebes schwarzes Mädchen,</l>
+            <l>Um Gnade bat, und weinte.</l>
+            <l>Wie gern hätt ich, ich Blöder,</l>
+            <l>Die Plünderer getödtet!</l>
+            <l>Allein, sie waren tapfer.</l>
+            <l>Sie wüteten mit Augen,</l>
+            <l>Sie wüteten mit Schwerdtern,</l>
+            <l>Sie trotzten mit den Panzern.</l>
+            <l>Ich konte nicht beschützen,</l>
+            <l>Ich konte nur das Mädchen</l>
+            <l>Und seine Mutter trösten.</l>
+            <l>Ich tröstete die Mutter,</l>
+            <l>Ich tröstete die Tochter,</l>
+            <l>Und als die arme Mutter</l>
+            <l>Sich für den Trost bedankte,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

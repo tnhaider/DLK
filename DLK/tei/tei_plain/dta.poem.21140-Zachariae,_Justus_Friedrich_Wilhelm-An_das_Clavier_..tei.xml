@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An das Clavier .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">237</measure>
+        <measure type="tokens">149</measure>
+        <measure type="characters">940</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An das Clavier .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du triumphirende Macht über den traurigen Gram,</l>
+            <l>Du Meisterstück der hohen Harmonie,</l>
+            <l>Du, mein getreues Clavier, o! singe die Tage hinweg,</l>
+            <l>Die, Nächten gleich, mit schwarzen Flügeln fliehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sonst rauscht’ ein fröhlicher Ton, wie er in Opern ent-</l>
+            <l>Die Saiten durch, und jauchzte Symphonien;</l>
+            <l>Auch klang ein gaukelnder Tanz, von pantomimischen</l>
+            <l>Dem schwarzen Gott der Hölle vorgetanzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sonst sang ein lachender Lied siegender Augen Triumph,</l>
+            <l>Die himmelblau, als wie im Lenz die Luft,</l>
+            <l>In mein empfindendes Herz die sanfte Liebe geflößt,</l>
+            <l>Für die allein mein Herz geschaffen war.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ietzt, verlaßnes Clavier, schweiget das schmei-</l>
+            <l>Das Hagedorn der Freud und Jugend spielt.</l>
+            <l>In Dissonanzen gehüllt, schaf ich mir einsam den Ton,</l>
+            <l>Der meinen Schmerz in finstern Noten sagt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn der erheiternde Stral besserer Hofnung mir lacht,</l>
+            <l>Und nicht mein Flehn der leichte Wind verweht;</l>
+            <l>Dann soll ein scherzendes Lied, dir, o Seline, geweiht,</l>
+            <l>Durch deine Macht den Liebesgott erhöhn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Des Knaben Berglied .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">157</measure>
+        <measure type="characters">816</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Des Knaben Berglied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin vom Berg der Hirtenknab,</l>
+            <l>Seh’ auf die Schlösser all herab.</l>
+            <l>Die Sonne stralt am ersten hier,</l>
+            <l>Am längsten weilet sie bei mir.</l>
+            <l>Ich bin der Knab vom Berge!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ist des Stromes Mutterhaus,</l>
+            <l>Ich trink’ ihn frisch vom Stein heraus;</l>
+            <l>Er braust vom Fels in wildem Lauf,</l>
+            <l>Ich fang’ ihn mit den Armen auf.</l>
+            <l>Ich bin der Knab vom Berge!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Berg, der ist mein Eigenthum,</l>
+            <l>Da ziehn die Stürme rings herum,</l>
+            <l>Und heulen sie von Nord und Süd,</l>
+            <l>So überschallt sie doch mein Lied:</l>
+            <l>Ich bin der Knab vom Berge!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sind Blitz und Donner unter mir,</l>
+            <l>So steh’ ich hoch im Blauen hier;</l>
+            <l>Ich kenne sie und rufe zu:</l>
+            <l>Laßt meines Vaters Haus in Ruh!</l>
+            <l>Ich bin der Knab vom Berge!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wann die Sturmglock’ einst erschallt,</l>
+            <l>Manch Feuer auf den Bergen wallt,</l>
+            <l>Dann steig’ ich nieder, tret’ in’s Glied,</l>
+            <l>Und schwing’ mein Schwerdt, und sing’ mein Lied:</l>
+            <l>Ich bin der Knab vom Berge!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die erzürnte   Victore.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">170</measure>
+        <measure type="tokens">117</measure>
+        <measure type="characters">658</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die erzürnte   Victore.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welch Laster ist von mir Victore denn begangen?</l>
+            <l>Daß kein beliebter Strahl aus deinen Augen zieht/</l>
+            <l>Und daß nur Flamm und Blitz auf meine Scheitel glüht/</l>
+            <l>Warum verstellet sich die Schönheit deiner Wangen?</l>
+            <l>Soll sie nicht wie zuvor mit holder Anmuth prangen?</l>
+            <l>Und warum ist dein Grimm auf meinen Fall bemüht?</l>
+            <l>Da mir vordem bey dir das schönste Glück geblüht/</l>
+            <l>Und ich auf Erden schon mit </l>
+            <l>Erzürnet dich der Kuß/ den ich dir weggenommen/</l>
+            <l>Ist dieses meine Schuld/ darauf du böse bist?</l>
+            <l>So soll mein Mund davor satsahm in Straffe kommen/</l>
+            <l>Und lieffern dir den Kuß/ der dir geraubet ist.</l>
+            <l>Ist einer nicht genug/ und wilt du Zinse heben?</l>
+            <l>So soll er hundert dir/ vor einen/ wiedergeben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">W ALLER   I M   S CHNEE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">131</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">761</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>W ALLER   I M   S CHNEE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo die strahlen schnell verschleissen               </l>
+            <l>Leichentuch der kahlen auen               </l>
+            <l>Wasser sich in furchen stauen               </l>
+            <l>In den s&amp;#252;mpfen schmelzend gleissen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und zum strom vereinigt laufen               </l>
+            <l>T&amp;#252;rm ich f&amp;#252;r erinnerungen               </l>
+            <l>Spröder freuden die zersprungen               </l>
+            <l>Und f&amp;#252;r dich den scheiterhaufen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weg den schritt vom brande lenkend               </l>
+            <l>Greif ich in dem boot die ruder               </l>
+            <l>Dr&amp;#252;ben an dem strand ein bruder               </l>
+            <l>Winkt das frohe banner schwenkend             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tauwind f&amp;#228;hrt in ungest&amp;#252;men               </l>
+            <l>Stössen &amp;#252;ber brache schollen               </l>
+            <l>Mit den welken seelen sollen               </l>
+            <l>Sich die pfade neu bebl&amp;#252;men.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

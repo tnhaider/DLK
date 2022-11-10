@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf die Fahne .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">105</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">430</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf die Fahne .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fetch Ali Schah der Türk ist Dschemschid gleich,</l>
+            <l>Weltlicht, und Irans Herr, der Erden Sonne.</l>
+            <l>Sein Schirm wirft auf die Weltflur weiten Schatten,</l>
+            <l>Sein Gurt haucht Muskus in Saturns Gehirn.</l>
+            <l>Iran ist Löwenschlucht, sein Fürst die Sonne;</l>
+            <l>Drum prangen Leu und Sonn’ in Daras Banner.</l>
+            <l>Das Haupt des Boten Abul Hassan Chan</l>
+            <l>Erhebt zum Himmelsdom das seidne Banner.</l>
+            <l>Aus Liebe ward nach London er gesandt</l>
+            <l>Und brachte Glück und Heil dem Christenherrn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

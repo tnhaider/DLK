@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Madrigal.  
+ Einer verwundert sich über  ‒ ‒  
+ E. N.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">504</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Madrigal.  
+ Einer verwundert sich über  ‒ ‒  
+ E. N.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wundre mich/ daß hier die universität</l>
+            <l>In solchem flore steht.</l>
+            <l>Ich wundre mich/ daß hier in allen ständen</l>
+            <l>Ein ieglich ding recht ordentlich bestellt.</l>
+            <l>Und will ich mich nach schönen sachen wenden/</l>
+            <l>So sind ich hier die schönsten von der welt.</l>
+            <l>Ich will itzt nicht von schönen häusern sagen/</l>
+            <l>Man sehe nur das frauenzimmer an/</l>
+            <l>So will ich ieden fragen/</l>
+            <l>Ob er sich wol genug verwundern kan?</l>
+            <l>Kurtz: alles ist zu ‒ ‒ wunderns werth.</l>
+            <l>Doch gibt mir diß den grösten wunder ein/</l>
+            <l>Daß gleichwohl hier die schinder ehrlich seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxXI.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">579</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxXI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wünscht' ich, daß die Liebesleiter keine höh're Sprossen</l>
+            <l>Denn was müßte Der empfinden, der an deinen Lippen</l>
+            <l>Diese schönen, keuschen Formen jugendlich umschlossen</l>
+            <l>Freudetrunken dir am Busen würd' ich brünstig weinen</l>
+            <l>Wenn ich nicht, doch nicht aus Freude, Thränen schon</l>
+            <l>Wenn ich nun erkühnt mich hätte, leise dir die Hand</l>
+            <l>Gar zu gerne möcht' ich wissen, ob es dich verdrossen</l>
+            <l>Wünschen nicht, wir sollen wagen; denn wie leicht ist's,</l>
+            <l>Fliegen würd' ich, wenn ich Flügel, schwimmen, wenn</l>
+            <l>Sittenzwang und Formelwesen hätten längst die Welt</l>
+            <l>Wenn sich nicht Gesang zuweilen durch die Welt ergossen</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

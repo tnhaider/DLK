@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">134.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">47</measure>
+        <measure type="characters">299</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>134.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du dich lebenslang beschäftigest mit Wörtern,</l>
+            <l>Verachten dich mit Recht, die lieber Ding' erörtern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du dich wenigstens beschäftigest mit Worten,</l>
+            <l>Aus welchen aufgebaut sind der Begriffe Pforten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wenn du wirklich dich beschäftigst mit dem Wort;</l>
+            <l>Es ist nichts höheres zu finden hier noch dort.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wohl rief ich sanft dich an mein Herz.</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">607</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1852</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196098"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wohl rief ich sanft dich an mein Herz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch blieben meine Arme leer;</l>
+            <l>Der Stimme Zauber, der du sonst</l>
+            <l>Nie widerstandest, galt nicht mehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was jetzt dein Leben füllen wird,</l>
+            <l>Wohin du gehst, wohin du irrst,</l>
+            <l>Ich weiß es nicht; ich weiß allein,</l>
+            <l>Daß du mir nie mehr lächeln wirst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch kommt erst jene stille Zeit,</l>
+            <l>Wo uns das Leben läßt allein,</l>
+            <l>Dann wird, wie in der Jugend einst,</l>
+            <l>Nur meine Liebe bei dir sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann wird, was jetzt geschehen mag,</l>
+            <l>Wie Schatten dir vorübergehn,</l>
+            <l>Und nur die Zeit, die nun dahin,</l>
+            <l>Die uns gehörte, wird bestehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn dein letztes Kissen einst</l>
+            <l>Beglänzt ein Abendsonnenstrahl,</l>
+            <l>Es ist die Sonne jenes Tages,</l>
+            <l>Da ich dich küßte zum ersten Mal.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

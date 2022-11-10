@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ins Stammbuch der Fürstin Radzivil</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ins Stammbuch der Fürstin Radzivil</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein schlechter Richter ist das Aug,</l>
+            <l>Weil mans so leicht besticht,</l>
+            <l>Der beste, freilich, wär das Herz,</l>
+            <l>Doch das erreicht dich nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein strenger, aber allzumal</l>
+            <l>Ein bittrer, ist das Ohr,</l>
+            <l>Und wär ein Fehler noch so klein,</l>
+            <l>Die Scheelsucht führt ihn vor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur Wen'ge, die er schuldlos heißt,</l>
+            <l>Und die, in edler Ruh,</l>
+            <l>Des Neides Zunge selber preist,</l>
+            <l>Die sind dann gut – wie du.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein schlechter Richter ist das Aug,</l>
+            <l>Weil mans so leicht besticht,</l>
+            <l>Der beste, freilich, wär das Herz,</l>
+            <l>Doch das erreicht dich nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein strenger, aber allzumal</l>
+            <l>Ein bittrer, ist das Ohr,</l>
+            <l>Und wär ein Fehler noch so klein,</l>
+            <l>Die Scheelsucht führt ihn vor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur Wen'ge, die er schuldlos heißt,</l>
+            <l>Und die, in edler Ruh,</l>
+            <l>Des Neides Zunge selber preist,</l>
+            <l>Die sind dann gut – wie du.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

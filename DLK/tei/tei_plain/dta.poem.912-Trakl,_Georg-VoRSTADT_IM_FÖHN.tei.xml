@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">VoRSTADT IM FÖHN</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">254</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">986</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>VoRSTADT IM FÖHN</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Abend liegt die Stätte öd und braun,</l>
+            <l>Die Luft von gräulichem Gestank durchzogen.</l>
+            <l>Das Donnern eines Zugs vom Brückenbogen —</l>
+            <l>Und Spatzen flattern über Busch und Zaun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geduckte Hütten, Pfade wirr verstreut,</l>
+            <l>In Gärten Durcheinander und Bewegung,</l>
+            <l>Bisweilen schwillt Geheul aus dumpfer Regung,</l>
+            <l>In einer Kinderschar fliegt rot ein Kleid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Kehricht pfeift verliebt ein Rattenchor.</l>
+            <l>In Körben tragen Frauen Eingeweide,</l>
+            <l>Ein ekelhafter Zug voll Schmutz und Räude,</l>
+            <l>Kommen sie aus der Dämmerung hervor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein Kanal speit plötzlich feistes Blut</l>
+            <l>Vom Schlachthaus in den stillen Fluß hinunter.</l>
+            <l>Die Föhne färben karge Stauden bunter</l>
+            <l>Und langsam kriecht die Röte durch die Flut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Flüstern, das in trübem Schlaf ertrinkt.</l>
+            <l>Gebilde gaukeln auf aus Wassergräben,</l>
+            <l>Vielleicht Erinnerung an ein früheres Leben,</l>
+            <l>Die mit den warmen Winden steigt und sinkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus Wolken tauchen schimmernde Alleen,</l>
+            <l>Erfüllt von schönen Wägen, kühnen Reitern.</l>
+            <l>Dann sieht man auch ein Schiff auf Klippen scheitern</l>
+            <l>Und manchmal rosenfarbene Moscheen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

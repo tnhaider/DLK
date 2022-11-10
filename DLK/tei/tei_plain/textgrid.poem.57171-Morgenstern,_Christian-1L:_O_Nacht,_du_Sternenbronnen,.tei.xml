@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: O Nacht, du Sternenbronnen,</title>
+        <author>
+          <persName>
+            <surname>Morgenstern</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-3 2-3 3-1 4-3 5-3 6-1</measure>
+        <measure type="syllables">92</measure>
+        <measure type="tokens">60</measure>
+        <measure type="characters">358</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: O Nacht, du Sternenbronnen,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Nacht, du Sternenbronnen,</l>
+            <l>ich bade Leib und Geist</l>
+            <l>in deinen tausend Sonnen –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Nacht, die mich umfleußt</l>
+            <l>mit Offenbarungswonnen,</l>
+            <l>ergib mir, was du weißt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Nacht, du tiefer Bronnen ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Nacht, du Sternenbronnen,</l>
+            <l>ich bade Leib und Geist</l>
+            <l>in deinen tausend Sonnen –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Nacht, die mich umfleußt</l>
+            <l>mit Offenbarungswonnen,</l>
+            <l>ergib mir, was du weißt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Nacht, du tiefer Bronnen ...</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

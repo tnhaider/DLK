@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Mahlerey.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">29</measure>
+        <measure type="verses_per_stanza">1-10 2-12 3-7</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">151</measure>
+        <measure type="characters">869</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Mahlerey.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich recht die Tieffe, Höhe,</l>
+            <l>Die Natur der Mahlerey,</l>
+            <l>Und wie groß ihr Umkreis sey,</l>
+            <l>Mit der Seelen Augen sehe;</l>
+            <l>Stutz’ ich: denn ein helles Licht</l>
+            <l>Strahlet mir in mein Gesicht.</l>
+            <l>Selbst von unsrer Seelen-Wesen,</l>
+            <l>Deucht mich in ihr was zu lesen,</l>
+            <l>Welches man</l>
+            <l>Sonst nicht leicht erblicken kann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann, mit etwas schwartzer Kreide,</l>
+            <l>Was sie schönes in sich hält,</l>
+            <l>Uns so klar vor Augen stellt,</l>
+            <l>Und, aus nichts fast, etwas ziehet,</l>
+            <l>So, daß man, nicht sonder Freude,</l>
+            <l>In der Pracht der Creatur,</l>
+            <l>Von dem Schöpfer selbst die Spur</l>
+            <l>In den klugen Zügen siehet;</l>
+            <l>Deucht mich, daß die Mahlerey</l>
+            <l>Fast ein Bild der Schöpfung sey;</l>
+            <l>Da du aus der schwartzen Erden</l>
+            <l>Thier’ und Pflantzen lässest werden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! rieff ich, von Andacht heiß:</l>
+            <l>Da wir in der Menschen Seelen</l>
+            <l>Solche Wunder-Kräfft’ entdecken,</l>
+            <l>Die man nicht vermag zu zehlen;</l>
+            <l>Wie so gar unendlich weit</l>
+            <l>Müssen sich, voll Herrlichkeit,</l>
+            <l>Unsers Schöpfers Kräfft’ erstrecken!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

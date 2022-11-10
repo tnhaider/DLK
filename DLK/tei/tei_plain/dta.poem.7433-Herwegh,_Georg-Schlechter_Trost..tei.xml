@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schlechter Trost.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">644</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schlechter Trost.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst ein schöner Leben schauen,</l>
+            <l>Und ewig, ewig bleibt es Dein;</l>
+            <l>Man wird Dir goldne Schlösser bauen,</l>
+            <l>Nur — mußt Du erst gestorben sein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst bis zu den Sternen dringen,</l>
+            <l>Und stellen Dich in ihre Reihn,</l>
+            <l>Von Welten Dich zu Welten schwingen,</l>
+            <l>Nur — mußt Du erst gestorben sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst, ein freier Brutus, wallen</l>
+            <l>Mit Brutussen noch im Verein,</l>
+            <l>All' Deine Ketten werden fallen,</l>
+            <l>Nur — mußt Du erst gestorben sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn Sünder in der Hölle braten,</l>
+            <l>So gehest Du zum Himmel ein;</l>
+            <l>Du wirst geküßt und nicht verrathen,</l>
+            <l>Nur — mußt Du erst gestorben sein. — —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob ihm der Ost die Segel blähe,</l>
+            <l>Was hilft's dem morschen, lecken Kahn?</l>
+            <l>Was hilft dem Vogel die Sonnennähe,</l>
+            <l>Den </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

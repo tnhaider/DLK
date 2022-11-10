@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Sorge</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">564</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Sorge</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur die Sorge mir übrig blieb.</l>
+            <l>Nun habe ich bald die Sorge lieb.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sorge redet ernst und schlicht,</l>
+            <l>Die Sorge wie eine Mutter spricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bist du mit der Sorge auf du und du,</l>
+            <l>Dann siehst du der Wahrheit des Lebens zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebst du mich, Gott, dann Sorge gib.</l>
+            <l>Die Sorge macht uns das Leben lieb.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur die Sorge mir übrig blieb.</l>
+            <l>Nun habe ich bald die Sorge lieb.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sorge redet ernst und schlicht,</l>
+            <l>Die Sorge wie eine Mutter spricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bist du mit der Sorge auf du und du,</l>
+            <l>Dann siehst du der Wahrheit des Lebens zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebst du mich, Gott, dann Sorge gib.</l>
+            <l>Die Sorge macht uns das Leben lieb.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

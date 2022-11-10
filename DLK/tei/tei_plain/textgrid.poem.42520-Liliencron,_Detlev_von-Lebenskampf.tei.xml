@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lebenskampf</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">674</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1876</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lebenskampf</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie kann das Leben anders sich verknoten,</l>
+            <l>Als eine Welt des Kampfes und der Schmerzen.</l>
+            <l>Wenn Frühlingsschein und Sommerfarben lohten,</l>
+            <l>Es wird sich bald der blaue Himmel schwärzen.</l>
+            <l>Und ob von Rittern oder von Heloten:</l>
+            <l>Ringsum der Feind, dein Dasein auszumerzen.</l>
+            <l>Getrost! Spartaner, nur dreihundert, boten</l>
+            <l>Viel tausend Pfeilen ihre Griechenherzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie kann das Leben anders sich verknoten,</l>
+            <l>Als eine Welt des Kampfes und der Schmerzen.</l>
+            <l>Wenn Frühlingsschein und Sommerfarben lohten,</l>
+            <l>Es wird sich bald der blaue Himmel schwärzen.</l>
+            <l>Und ob von Rittern oder von Heloten:</l>
+            <l>Ringsum der Feind, dein Dasein auszumerzen.</l>
+            <l>Getrost! Spartaner, nur dreihundert, boten</l>
+            <l>Viel tausend Pfeilen ihre Griechenherzen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

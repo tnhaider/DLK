@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Herbstfeier.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">153</measure>
+        <measure type="characters">922</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Herbstfeier.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf! im traubenschwersten Thale</l>
+            <l>Stellt ein Fest des Bacchus an!</l>
+            <l>Becher her und Opferschale!</l>
+            <l>Und des Gottes Bild voran!</l>
+            <l>Flöte mit Gesang verkünde</l>
+            <l>Gleich des Tages letzten Rest,</l>
+            <l>Mit dem Abendstern entzünde</l>
+            <l>Sich auch unser Freudenfest!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Braune Männer, schöne Frauen</l>
+            <l>Soll man hier versammelt seh'n,</l>
+            <l>Greise auch, die ehrengrauen,</l>
+            <l>Dürfen nicht von ferne steh'n;</l>
+            <l>Knaben, so die Krüge füllen,</l>
+            <l>Und, daß er vollkommen sey,</l>
+            <l>Treten zögernd auch die stillen</l>
+            <l>Mädchen unserm Kranze bei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch ist vor der nahen Feier</l>
+            <l>Süß beklommen manche Brust,</l>
+            <l>Aber weiter bald und freier</l>
+            <l>Uebergibt sie sich der Lust.</l>
+            <l>Thaut euch nicht wie Frühlingsregen</l>
+            <l>Lieblicher Gedankenschwarm?</l>
+            <l>Erdenleben, laß dich hegen,</l>
+            <l>Uns ist wohl in deinem Arm!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wahrlich und schon mit Entzücken</l>
+            <l>Ist der Gott in vollem Lauf,</l>
+            <l>Schließt vor den erwärmten Blicken</l>
+            <l>Seine goldnen Himmel auf.</l>
+            <l>Amor auch hat nichts dawider,</l>
+            <l>Wenn sich Wang' an Wange neigt,</l>
+            <l>Und der Mund, im Takt der Lieder,</l>
+            <l>Sich dem Mund entgegen beugt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

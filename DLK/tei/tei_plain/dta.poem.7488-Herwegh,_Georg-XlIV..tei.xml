@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XlIV.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">563</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XlIV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erreichbar nur dem Sturm und Sonnenbrand,</l>
+            <l>Von keines Wandrers Fuße umgebogen,</l>
+            <l>In scheuen Kreisen nur vom Aar umflogen,</l>
+            <l>Wie ein Johannes in der Wüste, stand</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Blümchen einst auf kahler Alpenwand;</l>
+            <l>Der Himmel hatte, doppelt ihm gewogen,</l>
+            <l>Es seinem Herzen näher auferzogen,</l>
+            <l>Doch nur mit Klagen schaut' es in das Land.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„warum, o Gott, in eines Felsen Schoos?</l>
+            <l>Warum, o Gott, mir solch ein einsam Loos?</l>
+            <l>Was sterb' ich nicht in holder Schwestern Mitten?”</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Still, meine Blume, still! Was klagst Du noch?</l>
+            <l>Wohl bist Du einsam, aber sicher doch</l>
+            <l>Vor Menschenhänden und vor Menschentritten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

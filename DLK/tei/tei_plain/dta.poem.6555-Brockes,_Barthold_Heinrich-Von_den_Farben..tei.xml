@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Farben.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">163</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">620</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Farben.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch würcken Vorwürff' offt von einer Art</l>
+            <l>Auf unterschiedne Weis’ in unterschiednen Augen.</l>
+            <l>Es düncken Farben dem unangenehm und hart,</l>
+            <l>Die jenen zu vergnügen taugen.</l>
+            <l>Der Farben Gegenwart würckt stets mit Unterscheid</l>
+            <l>Auf einen jeglichen insonderheit,</l>
+            <l>Und man betrüget sich zu aller Zeit,</l>
+            <l>Wenn man die Farben stets nach seiner Meinung richt.</l>
+            <l>Man spüret beym gelb-süchtigen Gesicht,</l>
+            <l>Das überall sein Elend mit sich träget,</l>
+            <l>Wie er das gelb’, so er im Augen heget,</l>
+            <l>Auf äusserliche Ding’ unbillig leget.</l>
+            <l>Er theilet andern mit die Gall’ in seinen Blicken,</l>
+            <l>Und sein beklebend Gifft</l>
+            <l>Macht gelb, das Blau und Grün, so Lufft und Wiesen schmücken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

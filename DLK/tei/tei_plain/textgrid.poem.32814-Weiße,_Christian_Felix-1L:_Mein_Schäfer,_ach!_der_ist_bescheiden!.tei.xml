@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Mein Schäfer, ach! der ist bescheiden!</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">704</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1765</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Mein Schäfer, ach! der ist bescheiden!</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Schäfer, ach! der ist bescheiden!</l>
+            <l>Er liebt mich, zärtlich liebt er mich!</l>
+            <l>Der Innbegriff von seinen Freuden,</l>
+            <l>Sagt er mir öfters, sey nur ich:</l>
+            <l>Doch bleibt er allezeit bescheiden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jüngst ließ die Mutter uns alleine;</l>
+            <l>Was denkst du, ist alsdenn geschehn?</l>
+            <l>Da stand er starr, gleich einem Steine,</l>
+            <l>Guckt in den Hut, und wolte gehn,</l>
+            <l>Und ach! wir waren ganz alleine!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Schäfer, ach! der ist bescheiden!</l>
+            <l>Er liebt mich, zärtlich liebt er mich!</l>
+            <l>Der Innbegriff von seinen Freuden,</l>
+            <l>Sagt er mir öfters, sey nur ich:</l>
+            <l>Doch bleibt er allezeit bescheiden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jüngst ließ die Mutter uns alleine;</l>
+            <l>Was denkst du, ist alsdenn geschehn?</l>
+            <l>Da stand er starr, gleich einem Steine,</l>
+            <l>Guckt in den Hut, und wolte gehn,</l>
+            <l>Und ach! wir waren ganz alleine!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

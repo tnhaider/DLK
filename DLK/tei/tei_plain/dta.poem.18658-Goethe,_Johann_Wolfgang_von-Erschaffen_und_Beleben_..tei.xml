@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erschaffen und Beleben .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erschaffen und Beleben .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hans Adam war ein Erdenklos,</l>
+            <l>Den Gott zum Menschen machte,</l>
+            <l>Doch bracht’ er aus der Mutter Schooss</l>
+            <l>Noch vieles Ungeschlachte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Elohim zur Nas’ hinein</l>
+            <l>Den besten Geist ihm bliesen,</l>
+            <l>Nun schien er schon was mehr zu seyn,</l>
+            <l>Denn er fing an zu niesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch mit Gebein und Glied und Kopf</l>
+            <l>Blieb er ein halber Klumpen,</l>
+            <l>Bis endlich Noah für den Tropf</l>
+            <l>Das Wahre fand, den Humpen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Klumpe fühlt sogleich den Schwung,</l>
+            <l>Sobald er sich benetzet,</l>
+            <l>So wie der Teig durch Säuerung</l>
+            <l>Sich in Bewegung setzet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So, Hafis, mag dein holder Sang,</l>
+            <l>Dein heiliges Exempel</l>
+            <l>Uns führen, bey der Gläser Klang,</l>
+            <l>Zu unsres Schöpfers Tempel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

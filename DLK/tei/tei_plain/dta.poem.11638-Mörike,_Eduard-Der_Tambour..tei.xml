@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Tambour.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">617</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Tambour.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da müßt' sie mit dem Regiment</l>
+            <l>Nach Frankreich, überall mit hin,</l>
+            <l>Und wär' die Markedenterin.</l>
+            <l>Im Lager, wohl um Mitternacht,</l>
+            <l>Wenn Niemand auf ist als die Wacht,</l>
+            <l>Und Alles schnarchet, Roß und Mann,</l>
+            <l>Vor meiner Trommel säß' ich dann:</l>
+            <l>Die Trommel müßt' eine Schüssel seyn,</l>
+            <l>Ein warmes Sauerkraut darein,</l>
+            <l>Die Schlegel Messer und Gabel,</l>
+            <l>Eine lange Wurst mein Sabel,</l>
+            <l>Mein Tschako wär' ein Humpen gut,</l>
+            <l>Gefüllet mit Burgunderblut,</l>
+            <l>Und weil es mir an Lichte fehlt,</l>
+            <l>Da scheint der Mond in mein Gezelt,</l>
+            <l>Scheint er auch auf Franzö'sch herein,</l>
+            <l>Mir fällt doch meine Liebste ein:</l>
+            <l>Ach weh! jezt hat der Spaß ein End'!</l>
+            <l>— Wenn nur meine Mutter hexen könnt'!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

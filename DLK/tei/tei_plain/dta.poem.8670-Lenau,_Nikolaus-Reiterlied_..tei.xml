@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Reiterlied .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">238</measure>
+        <measure type="tokens">166</measure>
+        <measure type="characters">972</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Reiterlied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir streifen durchs Leben im schnellen Zug,</l>
+            <l>Ohne Rast wie die stürmische Welle,</l>
+            <l>Wir haschen die Frucht im Vorüberflug,</l>
+            <l>Und schlummern nicht ein an der Quelle;</l>
+            <l>Wir pflücken die Rose, wir saugen den Duft,</l>
+            <l>Und streuen sie dann in die flatternde Luft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Friedliche sitzet und lauert bang,</l>
+            <l>Bis das Glück ihm poch' an die Thüre,</l>
+            <l>Noch späht er beim Sterbeglöckleinklang,</l>
+            <l>Ob das Glück an der Klinke nicht rühre;</l>
+            <l>Wohl rührt sich die Klink', und es tritt herein,</l>
+            <l>Erschrick nicht, du Armer, — es ist Freund Hein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Reiter verfolgt das entlaufende Glück,</l>
+            <l>Er faßt's an den fliegenden Locken,</l>
+            <l>Und zwingt es zu sich auf den Sattel zurück,</l>
+            <l>Und umschlingt es mit wildem Frohlocken:</l>
+            <l>„mußt reiten mit mir durch Nacht und Graus,</l>
+            <l>„durch Strom und Geklüft zum blutigen Strauß!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir reiten hinein in die laute Schlacht,</l>
+            <l>Es tanzen die wiehernden Rosse</l>
+            <l>Dahin, wo der Donner am stärksten kracht,</l>
+            <l>Weit voran dem trippelnden Trosse;</l>
+            <l>Dem Reiter kredenzt auf sein stürmisch Gebot</l>
+            <l>Den ersten, den feurigsten Trunk der Tod!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

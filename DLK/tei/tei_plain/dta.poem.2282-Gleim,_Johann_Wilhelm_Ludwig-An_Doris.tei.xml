@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Doris</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">88</measure>
+        <measure type="tokens">52</measure>
+        <measure type="characters">325</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Doris</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Könt ich Holz, wie Menschen schnitzen,</l>
+            <l>Lauter Nimfen wolt ich schnitzen;</l>
+            <l>Könt ich Marmorseulen hauen,</l>
+            <l>Lauter Nimfen wolt ich hauen;</l>
+            <l>Könt ich nur Tapeten wirken,</l>
+            <l>O! so wirkt ich lauter Nimfen;</l>
+            <l>Lauter zärtliche Blondinen,</l>
+            <l>Lauter willige Brunetten,</l>
+            <l>Und die zukkersüsse Schöne,</l>
+            <l>Die mich itzt so zärtlich küßte,</l>
+            <l>Solte mir zum Muster dienen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

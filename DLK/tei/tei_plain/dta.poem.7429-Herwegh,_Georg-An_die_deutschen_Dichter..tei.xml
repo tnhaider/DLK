@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die deutschen Dichter.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">48</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8 6-8</measure>
+        <measure type="syllables">361</measure>
+        <measure type="tokens">267</measure>
+        <measure type="characters">1477</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die deutschen Dichter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seid stolz! es klingt kein Gold der Welt,</l>
+            <l>Wie Eurer Saiten Gold;</l>
+            <l>Es ist kein Fürst so hoch gestellt,</l>
+            <l>Daß Ihr ihm dienen sollt!</l>
+            <l>Trotz Erz und Marmor stürb' er doch,</l>
+            <l>Wenn Ihr ihn sterben ließet;</l>
+            <l>Der schönste Purpur ist annoch</l>
+            <l>Das Blut, das Ihr als Lied vergießet!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Ruhm der Herrscher wird verweht —</l>
+            <l>Lobpreis' ihn, wer da will!</l>
+            <l>Man jagt und spornt ihn, doch er steht</l>
+            <l>Mit ihrem Herzen still.</l>
+            <l>O laßt sie donnern fort und fort!</l>
+            <l>An ihrem Grab verhallt es.</l>
+            <l>Ihr Dichter, sprecht Ein grollend Wort,</l>
+            <l>Und zu dem ew'gen Gotte schallt es!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hat dem Vogel in dem Nest</l>
+            <l>Der Himmel nie gewankt;</l>
+            <l>Den Mächtigen dünkt er nur fest,</l>
+            <l>So lang' der Thron nicht schwankt!</l>
+            <l>Palast und Purpur hin und her,</l>
+            <l>Ob Glanz sie überschütte —</l>
+            <l>Seid stolz, seid stolz, Ihr seid ja mehr;</l>
+            <l>Seid Ihr nicht Könige der Hütte?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blitzt ewig nicht der Thau im Feld,</l>
+            <l>Gleich wie der Diamant?</l>
+            <l>Ist nicht ob dieser ganzen Welt</l>
+            <l>Ein Baldachin gespannt?</l>
+            <l>Wiegt nicht die Rebe, die hinauf</l>
+            <l>An einem Strohdach gleitet,</l>
+            <l>Den unfruchtbaren Epheu auf,</l>
+            <l>Der sich um Zwingherrnburgen breitet?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch, Sänger, schlage Euer Herz,</l>
+            <l>Wie Lerchen in der Luft!</l>
+            <l>Es ruht sich besser allerwärts,</l>
+            <l>Als in der Fürstengruft.</l>
+            <l>Ein Liebchen, das die Treue bricht,</l>
+            <l>Ist überall zu finden;</l>
+            <l>Verschmähet mir die Ringe nicht,</l>
+            <l>Doch laßt Euch nie an Ketten binden!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Volke nur seid zugethan,</l>
+            <l>Jauchzt ihm voran zur Schlacht,</l>
+            <l>Und liegt's verwundet auf dem Plan,</l>
+            <l>So pfleget sein und wacht!</l>
+            <l>Und so man ihm den letzten Rest</l>
+            <l>Der Freiheit will verkümmern,</l>
+            <l>So haltet nur am Schwerte fest,</l>
+            <l>Und laßt die Harfen uns zertrümmern!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorwärts !</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">10</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-3 2-3 3-3 4-3 5-3 6-3 7-3 8-3 9-3 10-3</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">696</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorwärts !</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vorwärts! Fort und immerfort!</l>
+            <l>Rußland rief das stolze Wort:</l>
+            <l>Vorwärts!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Preußen hört das stolze Wort,</l>
+            <l>Hört es gern und hallt es fort:</l>
+            <l>Vorwärts!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf, gewalt’ges Oesterreich!</l>
+            <l>Vorwärts! thu’s den andern gleich!</l>
+            <l>Vorwärts!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf, du altes Sachsenland!</l>
+            <l>Immer vorwärts, Hand in Hand!</l>
+            <l>Vorwärts!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Baiern, Hessen, schlaget ein!</l>
+            <l>Schwaben, Franken, vor zum Rhein!</l>
+            <l>Vorwärts!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vorwärts, Holland, Niederland!</l>
+            <l>Hoch das Schwerdt in freier Hand,</l>
+            <l>Vorwärts!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Grüß euch Gott, du Schweizerbund,</l>
+            <l>Elsaß, Lothringen, Burgund!</l>
+            <l>Vorwärts!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vorwärts, Spanien, Engelland!</l>
+            <l>Reicht den Brüdern bald die Hand!</l>
+            <l>Vorwärts!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vorwärts, fort und immer fort!</l>
+            <l>Guter Wind und naher Port!</l>
+            <l>Vorwärts!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vorw&amp;#228;rts heißt ein Feldmarschall.</l>
+            <l>Vorwärts, tapfre Streiter all!</l>
+            <l>Vorwärts!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

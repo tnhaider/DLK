@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Regenbogen.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">570</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Regenbogen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blöder Schönen blasse Wangen</l>
+            <l>Werden schnell vor Scham erröthet,</l>
+            <l>Wenn sich bei der lieben Mutter</l>
+            <l>Ein erwünschter Bräut’gam meldet;</l>
+            <l>Wenn sie, auf Befehl der Mutter,</l>
+            <l>Seinen ersten Kuß empfinden,</l>
+            <l>Wird das holde Roth erhöhet,</l>
+            <l>Und dann gleicht es iungen Rosen.</l>
+            <l>Aber wenn sie, ohne Mutter,</l>
+            <l>Küssen und sich küssen lassen,</l>
+            <l>Dann beschämt das Roth der Wangen</l>
+            <l>Alle Rosen, allen Purpur.</l>
+            <l>Laßt mir tausend solche Wangen</l>
+            <l>Um den halben Himmel setzen;</l>
+            <l>Setzt sie mir in runder Ordnung</l>
+            <l>Unter diesen Regenbogen:</l>
+            <l>Plötzlich soll er sich verliehren,</l>
+            <l>Denn er soll dem Wangenbogen,</l>
+            <l>Wie der Mond der Sonnen weichen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

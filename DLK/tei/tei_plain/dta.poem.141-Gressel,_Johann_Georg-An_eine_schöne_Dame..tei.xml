@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An eine schöne  Dame.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">609</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An eine schöne  Dame.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vollkommne Silvia! wo find' ich ihres gleichen?</l>
+            <l>Jhr hoher Tugend-Ruhm erfüllt die gantze Welt/</l>
+            <l>Jhr Geist/ der wohnet schon im hohen Stern-Gezelt/</l>
+            <l>Minerva muß davor die güldnen Seegel streichen.</l>
+            <l>Die </l>
+            <l>Was </l>
+            <l>Die Schönheit hat den Schmuck ihr doppelt zugestelt/</l>
+            <l>Jhr schöner Geist belebt durch einen Blick die Leichen.</l>
+            <l>Hier fällt der Laster-Schluß durch die Gerechtigkeit/</l>
+            <l>Die Keuschheit ist ihr Schmuck/ und Mildigkeit ihr Kleid.</l>
+            <l>Recht Göttlich das Gesicht in Liljen-Wolcken spielet/</l>
+            <l>Jm Haaren hat das Gold ein Berg-Werck angelegt/</l>
+            <l>Diana keinen Glantz und keine Tugend hegt/</l>
+            <l>Weil sie gesehn/ daß sie den besten Preiß erziehlet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

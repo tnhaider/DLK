@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">881</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als wenn das auf Namen ruhte!</l>
+            <l>Was sich schweigend nur entfaltet.</l>
+            <l>Lieb’ ich doch das schöne Gute</l>
+            <l>Wie es sich aus Gott gestaltet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jemand lieb’ ich, das ist nöthig,</l>
+            <l>Niemand hass’ ich; soll ich hassen;</l>
+            <l>Auch dazu bin ich erbötig,</l>
+            <l>Hasse gleich in ganzen Massen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst sie aber näher kennen,</l>
+            <l>Sich auf’s Rechte, sich auf’s Schlechte,</l>
+            <l>Was sie ganz fürtrefflich nennen</l>
+            <l>Ist wahrscheinlich nicht das Rechte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn das Rechte zu ergreifen</l>
+            <l>Muss man aus dem Grunde leben,</l>
+            <l>Und saalbadrisch auszuschweifen</l>
+            <l>Dünket mich ein seicht Bestreben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl! Herr Knitterer er kann sich</l>
+            <l>Mit Zersplitterer vereinen,</l>
+            <l>Und Verwitterer alsdann sich</l>
+            <l>Allenfalls der beste scheinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dass nur immer in Erneuung</l>
+            <l>Jeder täglich neues höre,</l>
+            <l>Und zugleich auch die Zerstreuung</l>
+            <l>Jeden in sich selbst zerstöre.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies der Landsmann wünscht und liebet,</l>
+            <l>Mag er Deutsch mag Teutsch sich schreiben,</l>
+            <l>Und das Lied nur heimlich piepet:</l>
+            <l>Also war es und wird bleiben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Delicta Juventutis meæ’, &amp; ignoranti-  
+ as meas ne memineris. &amp;c.  Psal. 25.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">7</measure>
+        <measure type="verses_per_stanza">1-7</measure>
+        <measure type="syllables">74</measure>
+        <measure type="tokens">51</measure>
+        <measure type="characters">284</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Delicta Juventutis meæ’, &amp; ignoranti-  
+ as meas ne memineris. &amp;c.  Psal. 25.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du grosser Gnadengott gedänk doch nicht der Sünden</l>
+            <l>Die ich hab’ armer Mensch/ von meiner Jugend</l>
+            <l>an</l>
+            <l>Des Rechten unbewust offt wider dich gethan;</l>
+            <l>Dekk sie mit Gnaden zu und laß dich gütig finden.</l>
+            <l>Ich werde quit und loß von aller Sündenschuld/</l>
+            <l>Wenn du mein Gott nur dänkkst an deine Vaterhuld.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

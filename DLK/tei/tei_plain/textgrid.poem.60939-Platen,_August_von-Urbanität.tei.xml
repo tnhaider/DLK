@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Urbanität</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">288</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">1070</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Urbanität</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht mehr länger beschützt der geflügelte Löwe Venedig,</l>
+            <l>Auch Sankt Markus entwich samt dem geweihten Panier.</l>
+            <l>Aber es blieb doch eine der Schutzgöttinnen, und Tempel,</l>
+            <l>Aus der verwilderten Welt flüchtend, erbaute sie hier:</l>
+            <l>Wißt, Urbanitas heißt die Beseligerin der Gemüter,</l>
+            <l>Die sich hier im Gefolg ewiger Grazien zeigt.</l>
+            <l>Fremdling! Selten vermagst du dem magischen Netz zu entziehn dich,</l>
+            <l>Welches um dich huldreich jene Gefällige spinnt.</l>
+            <l>Sie auch bildete selbst die bezaubernden Klänge der Mundart:</l>
+            <l>Süßeres Wort hat nie menschliche Lippen beseelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht mehr länger beschützt der geflügelte Löwe Venedig,</l>
+            <l>Auch Sankt Markus entwich samt dem geweihten Panier.</l>
+            <l>Aber es blieb doch eine der Schutzgöttinnen, und Tempel,</l>
+            <l>Aus der verwilderten Welt flüchtend, erbaute sie hier:</l>
+            <l>Wißt, Urbanitas heißt die Beseligerin der Gemüter,</l>
+            <l>Die sich hier im Gefolg ewiger Grazien zeigt.</l>
+            <l>Fremdling! Selten vermagst du dem magischen Netz zu entziehn dich,</l>
+            <l>Welches um dich huldreich jene Gefällige spinnt.</l>
+            <l>Sie auch bildete selbst die bezaubernden Klänge der Mundart:</l>
+            <l>Süßeres Wort hat nie menschliche Lippen beseelt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Napoleon im Kreml.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">539</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Napoleon im Kreml.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er nickt mit seinem großen Haupt</l>
+            <l>Am Feuer eines fremden Herds:</l>
+            <l>Im Traum erblickt er einen Geist,</l>
+            <l>Der seines Purpurs Spange löst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Dämon schreit mit wilder Gier:</l>
+            <l>„mich lüstet nach dem rothen Kleid!</l>
+            <l>In ungezählter Menschen Blut</l>
+            <l>Getaucht, verfärbt der Purpur nicht!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Beiden rangen Leib an Leib.</l>
+            <l>„gieb her!“ „Gieb her!“ Der Dämon fleucht</l>
+            <l>Mit spitzen Flügeln durch die Nacht</l>
+            <l>Und schleift den Purpur hinter sich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wo der Purpur flatternd fliegt,</l>
+            <l>Sprühn Funken, lodern Flammen auf!</l>
+            <l>Der Corse fährt aus seinem Traum</l>
+            <l>Und starrt in Moskau's weiten Brand.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

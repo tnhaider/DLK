@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XXIV.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">519</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XXIV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„dort auf der Commode steht noch jetzt</l>
+            <l>Die Büste von meinem Klopstock,</l>
+            <l>Jedoch seit Jahren dient sie mir</l>
+            <l>Nur noch als Haubenkopfstock.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„du bist mein Liebling jetzt, es hängt</l>
+            <l>Dein Bildniß zu Häupten des Bettes;</l>
+            <l>Und siehst du, ein frischer Lorbeer umkränzt</l>
+            <l>Den Rahmen des holden Portraites.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„nur daß du meine Söhne so oft</l>
+            <l>Genergelt, ich muß es gestehen,</l>
+            <l>Hat mich zuweilen tief verletzt;</l>
+            <l>Das darf nicht mehr geschehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„es hat die Zeit dich hoffentlich</l>
+            <l>Von solcher Unart geheilet,</l>
+            <l>Und dir eine größere Toleranz</l>
+            <l>Sogar für Narren ertheilet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

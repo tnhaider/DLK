@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z ehndes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">620</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z ehndes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„sie wandt sich hin und sprach: „der Himmel gab sie mir;</l>
+            <l>„durch ihn gebar sie mich; ich sag’ ihm Danck dafür,</l>
+            <l>„und ihr um jene Sorg in der sie mich erzoge,</l>
+            <l>„um alles, was ihr Herz zu meinem Wohlseyn pfloge.</l>
+            <l>185”Von dir Großmächtigste! ward mir die Kunst gelehrt,</l>
+            <l>„die man in meiner Kron und Majestät verehrt.</l>
+            <l>„mein Dir-Gehorsam-seyn, und dein Befehl-ertheilen,</l>
+            <l>„seynd meiner Würde Grund, des Thrones stärckste Säulen.</l>
+            <l>„gOtt ists, der mir den Schmuck der Königs-Würde gab,</l>
+            <l>190”Wär es nicht sein Befehl, so trät ich ihn dir ab.</l>
+            <l>„mithin nimm, was mein Herz zu der Bekänntnis treibet:</l>
+            <l>„daß es dem deinigen sich selber schuldig bleibet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

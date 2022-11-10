@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein Lied Chastelard's.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">511</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein Lied Chastelard's.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sehnsucht ist Qual!</l>
+            <l>Der Herrin wag ich's nicht zu sagen,</l>
+            <l>Ich will's den dunkeln Eichen klagen</l>
+            <l>Im grünen Thal:</l>
+            <l>Sehnsucht ist Qual.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Leib vergeht</l>
+            <l>Wie schmelzend Eis in bleichen Farben,</l>
+            <l>Sie sieht mich dursten, lechzen, darben,</l>
+            <l>Bleibt unerfleht —</l>
+            <l>Mein Leib vergeht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch mag es sein,</l>
+            <l>Daß sie an ihrer Macht sich weide!</l>
+            <l>Ergetzt sie grausam sich an meinem Leide;</l>
+            <l>So denkt sie mein —</l>
+            <l>Drum mag es sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sehnsucht ist Qual!</l>
+            <l>Dem Kühnsten macht die Folter bange,</l>
+            <l>Ein Grab, darin ich nichts verlange,</l>
+            <l>Gieb mir, o Thal!</l>
+            <l>Sehnsucht ist Qual.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

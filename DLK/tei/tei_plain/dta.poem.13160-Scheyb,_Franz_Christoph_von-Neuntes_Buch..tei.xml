@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neuntes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">154</measure>
+        <measure type="characters">903</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neuntes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thalia fuhr nun fort: „Verzeiht mir das Beginnen,</l>
+            <l>„das nur erdichte Werck, Kunstreiche Meisterinnen</l>
+            <l>„und hört mich ferner an! ich schreite zu der Sach:</l>
+            <l>„ich gehe, wie man hört, der Dicht-Kunst Lehre nach.</l>
+            <l>„gar wohl: es ist ein Herz, was ich beschreiben wollte;</l>
+            <l>260”Ich hoffte, daß der Bau den Rath vergnügen sollte.</l>
+            <l>„darinnen sehet ihr den Geist, den Muth, den Sinn,</l>
+            <l>„die Stärcke, das Gemüth, die Macht der Königinn.</l>
+            <l>„so hoch, so lang, so weit als ich ihn aufgeführet,</l>
+            <l>„ist jener Raum der Welt, der dieser Frau gebühret.</l>
+            <l>265”So viel er Glanz begreifft, so viel ist auch in ihr;</l>
+            <l>„der Strahlen Majestät ist ihre Pracht und Zier.</l>
+            <l>„fragt ihr was dieses Paar der Sonnen soll bedeuten?</l>
+            <l>„die seynd des ganzen Wercks vornehmste Trefflichkeiten:</l>
+            <l>„wer kennet diese nicht? ist jemand in dem Saal?</l>
+            <l>270”Es ist Theresia mit ihrem Ehgemahl.</l>
+            <l>„hat nicht der gute Rath erkläret und erwogen:</l>
+            <l>„wie beyder Herzen sich in Eins zusammen zogen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

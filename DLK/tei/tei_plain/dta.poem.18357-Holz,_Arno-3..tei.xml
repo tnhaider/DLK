@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">3.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-8 2-9 3-9 4-9</measure>
+        <measure type="syllables">299</measure>
+        <measure type="tokens">203</measure>
+        <measure type="characters">1191</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>3.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Hof her poltert die Fabrik</l>
+            <l>Und walkt und stampft und pocht und hämmert,</l>
+            <l>Ein hirnzermarterndes Gequik!</l>
+            <l>Die Nacht verrinnt, der Traumgott ruht nun,</l>
+            <l>Die Welt geht wieder ihren Lauf,</l>
+            <l>Zum Himmel spritzt der Tag sein Blut nun,</l>
+            <l>Die Nacht verrinnt und seufzend thut nun</l>
+            <l>Das Elend seine Augen auf!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Schläfen zittern mir und zucken,</l>
+            <l>Denk ich, o Volk, an deine Noth,</l>
+            <l>Wie du dich winden mußt und ducken,</l>
+            <l>Dich ducken um ein Stückchen Brod!</l>
+            <l>Du wälzst verthiert dich in der Gosse</l>
+            <l>Und baust dir selbst dein Blutgerüst,</l>
+            <l>Indeß in goldener Karosse</l>
+            <l>Vor seinem sandsteingelben Schlosse</l>
+            <l>Der Dandy seine Dirne küßt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ritter von der engen Taille,</l>
+            <l>Das sind die schlimmsten aus dem Chor,</l>
+            <l>Sie schimpfen hündisch dich „Kanaille“!</l>
+            <l>Und haun dich schamlos übers Ohr.</l>
+            <l>Was kümmert sie's, wenn Millionen</l>
+            <l>Verreckt sind hinterm Hungerzaun?</l>
+            <l>Noch giebt's ja lachende Dublonen,</l>
+            <l>Kasernen, Kirchen und Kanonen</l>
+            <l>Und .... köstlich mundet ein Kapaun!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, sprich, wie lang noch soll es dauern,</l>
+            <l>Das alte Reich der Barbarei!</l>
+            <l>Noch stützen tausend dunkle Mauern</l>
+            <l>Die feste Burg der Tyrannei.</l>
+            <l>Doch ach, dein Herz ward zur Ruine,</l>
+            <l>Du lächelst nur und nickst dazu!</l>
+            <l>Denn auch der Mensch wird zur Maschine,</l>
+            <l>Wenn er mit hungerbleicher Miene</l>
+            <l>Das alte Tretrad schwingt wie du!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

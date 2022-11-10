@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wiegenlied .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">80</measure>
+        <measure type="tokens">53</measure>
+        <measure type="characters">340</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wiegenlied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Buko von Halberstadt,               </l>
+            <l>Bring doch meinem Kinde was,</l>
+            <l>Was soll ich ihm bringen?</l>
+            <l>Rothe Schuh mit Ringen,</l>
+            <l>Schöne Schuh mit Gold beschlagen,</l>
+            <l>Die soll unser Kindchen tragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hurraso, Burra fort,</l>
+            <l>Wagen und schön Schuh sind fort,</l>
+            <l>Stecken tief im Sumpfe,</l>
+            <l>Pferde sind ertrunken,</l>
+            <l>Hurra, schrei nicht Reitersknecht,</l>
+            <l>Warum fährst du auch so schlecht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

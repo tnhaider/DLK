@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der König auf dem Thurme .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">186</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der König auf dem Thurme .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da liegen sie alle, die grauen Höhn,</l>
+            <l>Die dunkeln Thäler, in milder Ruh;</l>
+            <l>Der Schlummer waltet, die Lüfte wehn</l>
+            <l>Keinen Laut der Klage mir zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Für Alle hab’ ich gesorgt und gestrebt,</l>
+            <l>Mit Sorgen trank ich den funkelnden Wein;</l>
+            <l>Die Nacht ist gekommen, der Himmel belebt,</l>
+            <l>Meine Seele will ich erfreun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O du goldne Schrift durch den Sterneraum!</l>
+            <l>Zu dir ja schau’ ich liebend empor.</l>
+            <l>Ihr Wunderklänge, vernommen kaum,</l>
+            <l>Wie besäuselt ihr sehnlich mein Ohr!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Haar ist ergraut, mein Auge getrübt,</l>
+            <l>Die Siegeswaffen hängen im Saal,</l>
+            <l>Habe Recht gesprochen und Recht geübt,</l>
+            <l>Wann darf ich rasten einmal?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O selige Rast, wie verlang’ ich dein!</l>
+            <l>O herrliche Nacht, wie säumst du so lang,</l>
+            <l>Da ich schaue der Sterne lichteren Schein,</l>
+            <l>Und höre volleren Klang!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

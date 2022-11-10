@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eine Kastanie .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-8 2-5 3-2</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">594</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eine Kastanie .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jockel. Guck, Bastel, waß ich funden han,               </l>
+            <l>Es hat ein Igels Pelzlein an,</l>
+            <l>Ein braunes ledern Koller drunter,</l>
+            <l>Mit Woll gefüttert, guck! lug! Wunder!</l>
+            <l>Wie glatt liegt ihm an Hos' und Hemd.</l>
+            <l>Au, Au! mich dünkt, s' schmeckt unverschämt,</l>
+            <l>Doch lug! indem ich schäl' den Kern,</l>
+            <l>So schmeckt es süß, das eß ich gern!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bastel. Mein Jockel, dieses heißt ein Kästen,               </l>
+            <l>Wir Schwaben wissens doch am besten.</l>
+            <l>Drum nennen wir dies Iglein fein,</l>
+            <l>Wenns geschählt ist aus dem Pelzlein sein,</l>
+            <l>Ein Nüßlein in eim Lederlein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jockel. Ei das war mir ein Schneiderlein,               </l>
+            <l>Ders nähen konnte also fein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

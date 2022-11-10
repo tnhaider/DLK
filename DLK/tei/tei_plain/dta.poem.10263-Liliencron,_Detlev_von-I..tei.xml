@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">I.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">783</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>I.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir standen unter alten Riesenulmen,               </l>
+            <l>An unsers Gartens Rand. Mein Arm umschlang</l>
+            <l>Die schlanke Hüfte dir. Es lag dein Haupt,</l>
+            <l>Das schöne, blasse, still an meiner Schulter.</l>
+            <l>Ein kalter Hauch drang uns entgegen; fröstelnd</l>
+            <l>Zogst fester du das Tuch um deinen Hals.</l>
+            <l>In grauer Luft, unübersehbar, lag</l>
+            <l>Der Wiesen grünes Flachland ausgebreitet.</l>
+            <l>Wie deutlich hörten wir den Jungen schelten</l>
+            <l>Auf seine Kühe, deutlich hör’ ich noch</l>
+            <l>Dein fröhlich Lachen, als uns die gesunden,</l>
+            <l>Vom Winde hergetragnen Worte trafen.</l>
+            <l>Und eine Oede, nordisch unbehaglich,</l>
+            <l>Durchfror die Landschaft. Krähen stolperten,</l>
+            <l>Laut krächzend, über’n Garten. Schläfrig zog</l>
+            <l>Am Horizont die Mühle ihre Kreise.</l>
+            <l>Und doch! Es lag auf Wegen fern und nah</l>
+            <l>Der Sonnenschein, der Sonnenschein des Glücks.</l>
+            <l>Und langsam kehrten wir zurück ins Haus.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

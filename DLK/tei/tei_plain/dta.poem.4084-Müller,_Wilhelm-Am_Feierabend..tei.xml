@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Am Feierabend.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-9 2-10</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">462</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Am Feierabend.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Arme zu rühren!</l>
+            <l>Könnt' ich brausend</l>
+            <l>Die Räder führen!</l>
+            <l>Könnt' ich wehen</l>
+            <l>Durch alle Haine,</l>
+            <l>Könnt' ich drehen</l>
+            <l>Alle Steine!</l>
+            <l>Daß die schöne Müllerin</l>
+            <l>Merkte meinen treuen Sinn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, wie ist mein Arm so schwach!</l>
+            <l>Was ich hebe, was ich trage,</l>
+            <l>Was ich schneide, was ich schlage,</l>
+            <l>Jeder Knappe thut es nach.</l>
+            <l>Und da sitz' ich in der großen Runde,</l>
+            <l>In der stillen kühlen Feierstunde,</l>
+            <l>Und der Meister spricht zu Allen:</l>
+            <l>Euer Werk hat mir gefallen;</l>
+            <l>Und das liebe Mädchen sagt</l>
+            <l>Allen eine gute Nacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

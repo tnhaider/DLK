@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schließe mir die Augen beide.</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">7</measure>
+        <measure type="verses_per_stanza">1-7</measure>
+        <measure type="syllables">52</measure>
+        <measure type="tokens">38</measure>
+        <measure type="characters">204</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1852</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196098"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schließe mir die Augen beide.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit den lieben Händen zu!</l>
+            <l>Geht doch Alles, was ich leide,</l>
+            <l>Unter deiner Hand zur Ruh'.</l>
+            <l>Und wie leise sich der Schmerz</l>
+            <l>Well' um Welle schlafen leget,</l>
+            <l>Wie der letzte Schlag sich reget,</l>
+            <l>Füllest du mein ganzes Herz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

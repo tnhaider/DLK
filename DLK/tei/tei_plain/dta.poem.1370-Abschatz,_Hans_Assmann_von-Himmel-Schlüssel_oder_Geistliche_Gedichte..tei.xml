@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Himmel-Schlüssel  
+ oder  
+ Geistliche Gedichte.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">850</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Himmel-Schlüssel  
+ oder  
+ Geistliche Gedichte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>GoTT liebt/ drum straffet er; Wir würden/ uns gelassen/</l>
+            <l>Die Eitelkeit der Welt zu sehr ins Hertze fassen/</l>
+            <l>Und als ein wildes Roß/ wenn keine Straffe wär/</l>
+            <l>Ohn Zaum und Zügel irrn: GOtt liebt/ drum straffet er.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott strafft/ drum liebet er: Damit wir uns erkennen/</l>
+            <l>Wie wir/ zur Straffe reiff/ in Glutt der Sünden brennen/</l>
+            <l>Kömmt seine Züchtigung; doch kömmt sie nie so schwer/</l>
+            <l>Als unsre Schuld verdient: GOtt strafft/ drum liebet er.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott liebt/ drum straffet er: Auff daß wir zu ihm fliehen/</l>
+            <l>So muß uns seine Hand offt lind/ offt harte ziehen;</l>
+            <l>Bald lockt/ bald dringt er uns zur Buß und Wiederkehr/</l>
+            <l>Will uns doch nicht verderbt: GOtt liebt/ drum straffet er.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott/ dessen Vater-Hand uns will in Wehmutt sencken/</l>
+            <l>Woll uns in Unmutt Mutt/ nach Regen Sonne schencken;</l>
+            <l>Er wende grösser Leyd/ und geb uns den Verstand/</l>
+            <l>Daß wir mit Lieb und Furcht ihm küssen Rutt und Hand.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Als der alte Saghi die Verdienstmedaille erhielt</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">510</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1823</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Als der alte Saghi die Verdienstmedaille erhielt</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gnade wird mit Recht gepriesen,</l>
+            <l>Stellt sie sich wo immer dar,</l>
+            <l>Wird sie gar dem Freund erwiesen,</l>
+            <l>Freut sich drob der Freunde Schar;</l>
+            <l>Doch kann Lohn den Wert erreichen,</l>
+            <l>Gibt sich jedes Herz der Lust,</l>
+            <l>Schön steht auf der Brust das Zeichen,</l>
+            <l>Wo die Sache in der Brust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gnade wird mit Recht gepriesen,</l>
+            <l>Stellt sie sich wo immer dar,</l>
+            <l>Wird sie gar dem Freund erwiesen,</l>
+            <l>Freut sich drob der Freunde Schar;</l>
+            <l>Doch kann Lohn den Wert erreichen,</l>
+            <l>Gibt sich jedes Herz der Lust,</l>
+            <l>Schön steht auf der Brust das Zeichen,</l>
+            <l>Wo die Sache in der Brust.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Geständnis</title>
+        <author>
+          <persName>
+            <surname>Dehmel</surname>
+            <forename>Richard Fedor Leopold</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5 6-5</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">156</measure>
+        <measure type="characters">860</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1891</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Geständnis</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß deiner ich so ganz vergessen</l>
+            <l>in einem wilden Augenblick,</l>
+            <l>in wüster Laune mich vermessen</l>
+            <l>zu </l>
+            <l>kannst du's verzeihn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Sinn so trüb! die Nacht so dunkel!</l>
+            <l>heiß schoß ins Auge mir das Blut!</l>
+            <l>im Strome unten welch Gefunkel!</l>
+            <l>ein weher Schrei, ein Sprung zur Flut!</l>
+            <l>Kannst du's verzeihn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kannst du dem Freunde mit mir </l>
+            <l>daß Du noch mein, daß Ich noch Dein?</l>
+            <l>Du Reinste, kannst du ohne Wanken</l>
+            <l>dem Frevler noch dein Leben weihn? –</l>
+            <l>Kannst Du verzeihn?!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß deiner ich so ganz vergessen</l>
+            <l>in einem wilden Augenblick,</l>
+            <l>in wüster Laune mich vermessen</l>
+            <l>zu </l>
+            <l>kannst du's verzeihn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Sinn so trüb! die Nacht so dunkel!</l>
+            <l>heiß schoß ins Auge mir das Blut!</l>
+            <l>im Strome unten welch Gefunkel!</l>
+            <l>ein weher Schrei, ein Sprung zur Flut!</l>
+            <l>Kannst du's verzeihn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kannst du dem Freunde mit mir </l>
+            <l>daß Du noch mein, daß Ich noch Dein?</l>
+            <l>Du Reinste, kannst du ohne Wanken</l>
+            <l>dem Frevler noch dein Leben weihn? –</l>
+            <l>Kannst Du verzeihn?!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

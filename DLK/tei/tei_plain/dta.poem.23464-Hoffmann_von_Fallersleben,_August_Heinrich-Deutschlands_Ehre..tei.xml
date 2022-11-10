@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Deutschlands Ehre.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">748</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Deutschlands Ehre.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lande hab' ich viel gesehen,</l>
+            <l>Nach den Besten blickt' ich allerwärts:</l>
+            <l>Uebel möge mir geschehn,</l>
+            <l>Wenn sich je bereden ließ mein Herz,</l>
+            <l>Daß ihm wohlgefalle</l>
+            <l>Fremder Lande Brauch:</l>
+            <l>Wenn ich lügen wollte, lohnte mir es auch?</l>
+            <l>Deutsche Zucht geht über Alle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von der Elbe bis zum Rhein</l>
+            <l>Und zurück bis an der Ungern Land,</l>
+            <l>Da mögen wohl die Besten sein,</l>
+            <l>Die ich irgend auf der Erden fand.</l>
+            <l>Weiß ich recht zu schauen</l>
+            <l>Schönheit, Huld und Zier,</l>
+            <l>Hilf mir Gott, so schwör' ich, sie sind besser hier</l>
+            <l>Als der andern Länder Frauen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Züchtig ist der deutsche Mann,</l>
+            <l>Deutsche Frau'n sind engelschön und rein;</l>
+            <l>Thöricht, wer sie schelten kann,</l>
+            <l>Anders wahrlich mag es nimmer sein:</l>
+            <l>Zucht und reine Minne,</l>
+            <l>Wer die sucht und liebt,</l>
+            <l>Komm in unser Land, wo es noch beide giebt;</l>
+            <l>Lebt' ich lange nur darinne!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

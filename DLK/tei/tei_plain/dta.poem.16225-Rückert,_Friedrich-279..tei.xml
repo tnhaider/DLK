@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">279.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">535</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>279.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gekommen in die Nacht der Welt ist Gottes Licht;</l>
+            <l>Wir sind daran erwacht, und schlummern fürder nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir schlummern fürder nicht den Weltbetäubungschlummer,</l>
+            <l>Wir blicken, wach im Licht, aufs Nachtgraun ohne Kummer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo ist der Nächte Graun? es ist vom Licht bezwungen;</l>
+            <l>Wir blicken mit Vertraun ins Licht, vom Licht durchdrungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß wir durchdrungen sind vom Lichte, dem wir dienen,</l>
+            <l>Wir zeigens dem Gesind der Nacht in unsern Mienen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In hellen Mienen macht sich kund die Kraft des Herrn,</l>
+            <l>Und wer nicht in der Nacht kann leuchten, ist kein Stern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

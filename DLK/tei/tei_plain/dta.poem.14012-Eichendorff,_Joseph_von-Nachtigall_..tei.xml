@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nachtigall .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">116</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">433</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nachtigall .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach den schönen Frühlingstagen,</l>
+            <l>Wenn die blauen Lüfte wehen,</l>
+            <l>Wünsche mit dem Flügel schlagen</l>
+            <l>Und im Grünen Amor zielt,</l>
+            <l>Bleibt ein Jauchzen auf den Höhen;</l>
+            <l>Und ein Wetterleuchten spielt</l>
+            <l>Aus der Ferne durch die Bäume</l>
+            <l>Wunderbar die ganze Nacht,</l>
+            <l>Daß die Nachtigall erwacht</l>
+            <l>Von den irren Widerscheinen,</l>
+            <l>Und durch alle seel'ge Gründe</l>
+            <l>In der Einsamkeit verkünde,</l>
+            <l>Was sie alle, alle meinen;</l>
+            <l>Dieses Rauschen in den Bäumen</l>
+            <l>Und der Mensch in dunkeln Träumen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

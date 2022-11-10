@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kriegslied.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">72</measure>
+        <measure type="tokens">46</measure>
+        <measure type="characters">292</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Kriegslied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Gott! wofür? wofür?</l>
+            <l>Für Fürsten-Willkür, Ruhm und Macht</l>
+            <l>Zur Schlacht?</l>
+            <l>Für Hofgeschmeiß und Junker hinaus</l>
+            <l>Zum Strauß?</l>
+            <l>Für unsers Volks Unmündigkeit</l>
+            <l>Zum Streit?</l>
+            <l>Für Most-, Schlacht-, Mahl- und Klassensteuer</l>
+            <l>Ins Feuer?</l>
+            <l>Und für Regal und für Censur</l>
+            <l>Nur</l>
+            <l>Ganz unterthänigst zum Gefechte?</l>
+            <l>Ich dächte, dächte —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

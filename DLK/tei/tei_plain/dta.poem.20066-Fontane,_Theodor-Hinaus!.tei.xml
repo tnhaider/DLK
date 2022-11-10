@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hinaus!</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-5 2-7 3-5</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">641</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hinaus!</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin es satt auf Polstern mich zu dehnen,</l>
+            <l>Es ekelt mich dies weibergleiche Thun,</l>
+            <l>Ich möcht im Kampf anspannen alle Sehnen,</l>
+            <l>Mich müd und matt an die Lafette lehnen,</l>
+            <l>Und käm der Schlaf auf bloßer Erde ruhn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich möcht hinaus! umbrüllt von Sturm und</l>
+            <l>Wettern</l>
+            <l>Möcht ich zu Schiff auf hohem Meere sein;</l>
+            <l>Vom Blitz umflammt möcht ich den Mast er-</l>
+            <l>klettern,</l>
+            <l>Und wenn die Wellen unser Schiff zerschmettern,</l>
+            <l>Ein kühner Schwimmer um das Leben frein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich möcht hinaus! mag schleudern mich die Reise</l>
+            <l>Wohin sie will, mir gilt es gleich fürwahr;</l>
+            <l>Heraus nur endlich aus dem alten Gleise,</l>
+            <l>Das Leben steigt mit der Gefahr im Preise, —</l>
+            <l>Auf denn, hinaus! zu Thaten und Gefahr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

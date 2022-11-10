@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Mägdelein</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">818</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Mägdelein</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich traf einmal im fremden Land,</l>
+            <l>Ein Mägdlein zierlich und gewandt;</l>
+            <l>»wo kommst Du her, wo weilest Du?</l>
+            <l>Ich finde im fremden Land nicht Ruh'!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»bist Du ein deutsches Mägdelein?</l>
+            <l>Geboren an dem deutschen Rhein? –«</l>
+            <l>»mein Vater war ein Kriegersmann,</l>
+            <l>Die Mutter keine Seide spann! –«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie kamst Du in das fremde Land?«</l>
+            <l>»an eines Fremden falscher Hand.«</l>
+            <l>»die Treue wohnt in Deutschland nur;</l>
+            <l>Von ihr ist hier, ach, keine Spur! –«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich traf einmal im fremden Land,</l>
+            <l>Ein Mägdlein zierlich und gewandt;</l>
+            <l>»wo kommst Du her, wo weilest Du?</l>
+            <l>Ich finde im fremden Land nicht Ruh'!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»bist Du ein deutsches Mägdelein?</l>
+            <l>Geboren an dem deutschen Rhein? –«</l>
+            <l>»mein Vater war ein Kriegersmann,</l>
+            <l>Die Mutter keine Seide spann! –«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie kamst Du in das fremde Land?«</l>
+            <l>»an eines Fremden falscher Hand.«</l>
+            <l>»die Treue wohnt in Deutschland nur;</l>
+            <l>Von ihr ist hier, ach, keine Spur! –«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

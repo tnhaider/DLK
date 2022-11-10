@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der kranke Aar.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">194</measure>
+        <measure type="tokens">131</measure>
+        <measure type="characters">795</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der kranke Aar.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am dürren Baum, im fetten Wiesengras</l>
+            <l>Ein Stier behaglich wiederkäut' den Fraß;</l>
+            <l>Auf niederm Ast ein wunder Adler saß,</l>
+            <l>Ein kranker Aar mit gebrochnen Schwingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„steig' auf, mein Vogel, in die blaue Luft,</l>
+            <l>Ich schau dir nach aus meinem Kräuterduft.“ —</l>
+            <l>„weh, weh, umsonst die Sonne ruft</l>
+            <l>Den kranken Aar mit gebrochnen Schwingen!“ —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„o Vogel, warst so stolz und freventlich</l>
+            <l>Und wolltest keine Fessel ewiglich!“ —</l>
+            <l>„weh, weh, zu Viele über mich,</l>
+            <l>Und Adler all, — brachen mir die Schwingen!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„so flattre in dein Nest, vom Aste fort,</l>
+            <l>Dein Aechzen schier die Kräuter mir verdorrt.“</l>
+            <l>„weh, weh, kein Nest hab' ich hinfort,</l>
+            <l>Verbannter Aar mit gebrochnen Schwingen!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„o Vogel, wärst du eine Henne doch,</l>
+            <l>Dein Nestchen hättest du, im Ofenloch.“</l>
+            <l>„weh, weh, viel lieber ein Adler noch,</l>
+            <l>Viel lieber ein Aar mit gebrochnen Schwingen!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

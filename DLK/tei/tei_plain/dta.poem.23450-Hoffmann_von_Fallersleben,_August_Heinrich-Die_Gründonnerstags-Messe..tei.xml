@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Gründonnerstags-Messe.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">523</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Gründonnerstags-Messe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Fürsten, die von Ketzern stammen,</l>
+            <l>Ihr wollt nicht hören, wollt nicht sehn —</l>
+            <l>Ihr laßt euch von </l>
+            <l>Mit dem ihr wollt in Freundschaft stehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und kennt ihr die verfluchten Worte</l>
+            <l>Vom grünen Donnerstage nicht,</l>
+            <l>So stellt euch an St. Peters Pforte,</l>
+            <l>Hört, was der heil'ge Vater spricht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„wir thun nach altem Kirchenamte</l>
+            <l>In Bann die Ketzer aller Welt,</l>
+            <l>Und Luthers Lehre die verdammte,</l>
+            <l>Und Alles was sich zu ihr hält.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So bannt euch an St. Peters Pforte</l>
+            <l>Der Papst in seiner Heiligkeit,</l>
+            <l>Ihr aber gebt ihm gute Worte,</l>
+            <l>Daß er gemischte Eh'n verzeiht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

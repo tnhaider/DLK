@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hochbild .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">206</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">797</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hochbild .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sonne, Helios der Griechen,</l>
+            <l>Fährt prächtig auf der Himmelsbahn,</l>
+            <l>Gewiss das Weltall zu besiegen</l>
+            <l>Blickt er umher, hinab, hinan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er sieht die schönste Göttinn weinen,</l>
+            <l>Die Wolkentochter, Himmelskind,</l>
+            <l>Ihr scheint er nur allein zu scheinen,</l>
+            <l>Für alle heitre Räume blind</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Versenkt er sich in Schmerz und Schauer</l>
+            <l>Und häufiger quillt ihr Thränenguss;</l>
+            <l>Er sendet Lust in ihre Trauer</l>
+            <l>Und jeder Perle Kuss auf Kuss.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun fühlt sie tief des Blicks Gewalten,</l>
+            <l>Und unverwandt schaut sie hinauf,</l>
+            <l>Die Perlen wollen sich gestalten:</l>
+            <l>Denn jede nahm sein Bildniss auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und so, umkränzt von Farb’ und Bogen,</l>
+            <l>Erheitert leuchtet ihr Gesicht,</l>
+            <l>Entgegen kommt er ihr gezogen,</l>
+            <l>Doch er! doch ach! erreicht sie nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So, nach des Schicksals hartem Loose,</l>
+            <l>Weichst du mir Lieblichste davon,</l>
+            <l>Und wär’ ich Helios der grosse</l>
+            <l>Was nützte mir der Wagenthron?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

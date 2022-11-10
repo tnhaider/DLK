@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das hohe Lied.</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">522</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1852</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196098"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das hohe Lied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Winde weht der bunte Trödelkram;</l>
+            <l>Und drinnen sitzt im Wirbelstaub der Gassen</l>
+            <l>Das schlanke Kind des Juden Abraham.</l>
+            <l>Sie stützt das Haupt in ihre weiße Hand,</l>
+            <l>Im Sturm des Busens bebt die leichte Hülle;</l>
+            <l>Man sieht's, an dieser Augen Sonnenbrand</l>
+            <l>Gedieh der Mund zu seiner Purpurfülle.</l>
+            <l>Die Lippe schweigt, die schwarzen Locken ranken</l>
+            <l>Sich um die Stirn wie schmachtende Gedanken.</l>
+            <l>Sie liest vertieft in einem alten Buch</l>
+            <l>Von einem König, der die Harfe schlug,</l>
+            <l>Und liebefordernd in den goldnen Klang</l>
+            <l>Manch zärtlich Lied an Zions Mädchen sang.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

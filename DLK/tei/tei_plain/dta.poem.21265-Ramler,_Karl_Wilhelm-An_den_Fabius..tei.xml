@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Fabius.</title>
+        <author>
+          <persName>
+            <surname>Ramler</surname>
+            <forename>Karl Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">221</measure>
+        <measure type="tokens">148</measure>
+        <measure type="characters">853</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20476-3"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Fabius.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Fabius! gereut dich nach drey
+Iahren</l>
+            <l>Dein glückliches Verziehn?</l>
+            <l>Wo waren deine Felsen? Waren</l>
+            <l>Die Felsen nicht mehr steil für ihn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vergissest du, wie man bey Nacht dem</l>
+            <l>Ins müde Lager streift?</l>
+            <l>Und wie man eine Hand voll Krieger</l>
+            <l>Mit einem Ocean ersäuft?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie man bundsverwandte Na-</l>
+            <l>Bequem zur Schlachtbank schickt,</l>
+            <l>Indessen man, sein Heer zu schonen,</l>
+            <l>Von sichrer Höh weit um sich blickt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer nimmt sich nun der Diener armer</l>
+            <l>Der hohen Bassen an,</l>
+            <l>Und straft den stolzen Potentaten,</l>
+            <l>Der selbst regieren will, und kann?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer rächt die Feldherrn, die nach</l>
+            <l>Nach Beute lüstern sind,</l>
+            <l>An diesem wunderbaren Fürsten,</l>
+            <l>Der seine Schlachten selbst gewinnt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ach! wer rächt die Zunft der</l>
+            <l>Nun du geschlagen bist,</l>
+            <l>An einem Könige, der Meister</l>
+            <l>In allen ihren Künsten ist?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weh deinem Pontifex, der stets die</l>
+            <l>Mit Wundern hintergeht!</l>
+            <l>Er kann ja keinen Degen weihen,</l>
+            <l>Der wider Pallas Helm besteht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

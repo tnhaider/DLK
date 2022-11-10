@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Freyherrn von G ‒ ‒</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">698</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Freyherrn von G ‒ ‒</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der du in Acten versenkt, verwirrte Processe durch-
+wühlest,</l>
+            <l>Und deine Leyer vergessen hast;</l>
+            <l>G —, opfre nicht stets auf dem Altare der Themis,</l>
+            <l>Und flieh die staubichte Canzeley.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Musen vertragen sich nicht mit Advokaten und</l>
+            <l>Sie fliehn Archive voll Actenstaub.</l>
+            <l>Nicht oft dringt sich der Geschmack bis zu dem rechten-</l>
+            <l>Das von der Zanksucht der Menschen lebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und du, du suchtest vielleicht den hohen Trieb zu er-</l>
+            <l>Der dich zum Tempel der Zukunft führt?</l>
+            <l>Nein, dazu bist du zu groß! Auf! stimme von neuem</l>
+            <l>Der oft der Leinenstrand zugehört.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schnell geht dies Leben dahin, und man vergißt nach</l>
+            <l>Selbst Helden ohne des Dichters Kunst.</l>
+            <l>Viel Millionen sind Staub; längst sind die Namen</l>
+            <l>Doch lebt Homerus und Flaccus noch.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

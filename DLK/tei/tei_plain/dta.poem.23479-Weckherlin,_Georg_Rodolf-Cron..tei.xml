@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Cron.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">575</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1619</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20627-4"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Cron.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Georg-Friderich ist der sterb-</l>
+            <l>lichen ehr/</l>
+            <l>Vnd von den Göttern selbs geehret/</l>
+            <l>Welche die Welt durch seines lebens lehr</l>
+            <l>Aller jhrer reichtumb gewehret.</l>
+            <l>Dan Er ist ja an Tugenten so reich/</l>
+            <l>Das wan sein Land seinem verdienst wär</l>
+            <l>gleich/</l>
+            <l>So würd man Mich darin aufgehen/</l>
+            <l>Vnd wider—nider—gehen sehen.</l>
+            <l>Aber der Götter aigne hand/</l>
+            <l>Die seine Sehl also götlich bereichet/</l>
+            <l>Beraitet Jhm in Jhrem Land</l>
+            <l>Ein solche Cron/ deren der Vmbkraiß wei-</l>
+            <l>chet:</l>
+            <l>Doch soll seine stirn wehrt vnd weiß</l>
+            <l>Noch so bald nicht damit geerönet werden/</l>
+            <l>Auf das Erlänger bleib auf erden</l>
+            <l>Diser Welt lieb/ hofnung/ wollust vnd preiß.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

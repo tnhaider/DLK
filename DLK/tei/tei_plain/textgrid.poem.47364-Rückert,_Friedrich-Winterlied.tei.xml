@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Winterlied</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">884</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Winterlied</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die schöne Sommerzeit ist hin,</l>
+            <l>Der Winter ist nun da;</l>
+            <l>Wir müssen aus dem Garten fliehn,</l>
+            <l>Der uns so fröhlich sah.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Busch ist kahl und abgelaubt,</l>
+            <l>Der uns im Schatten barg;</l>
+            <l>Der alte kalte Nordwind schnaubt</l>
+            <l>Und macht es gar zu arg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Mädchen, komm, so weichen wir</l>
+            <l>Und räumen ihm das Feld;</l>
+            <l>Ist nicht, o süßes Mägdlein, dir</l>
+            <l>Ein Hüttelein bestellt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und bleibt mir fortan immer nur</l>
+            <l>Das Hüttlein aufgethan;</l>
+            <l>So klag' ich nicht die öde Flur</l>
+            <l>Und nicht den Winter an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die schöne Sommerzeit ist hin,</l>
+            <l>Der Winter ist nun da;</l>
+            <l>Wir müssen aus dem Garten fliehn,</l>
+            <l>Der uns so fröhlich sah.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Busch ist kahl und abgelaubt,</l>
+            <l>Der uns im Schatten barg;</l>
+            <l>Der alte kalte Nordwind schnaubt</l>
+            <l>Und macht es gar zu arg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Mädchen, komm, so weichen wir</l>
+            <l>Und räumen ihm das Feld;</l>
+            <l>Ist nicht, o süßes Mägdlein, dir</l>
+            <l>Ein Hüttelein bestellt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und bleibt mir fortan immer nur</l>
+            <l>Das Hüttlein aufgethan;</l>
+            <l>So klag' ich nicht die öde Flur</l>
+            <l>Und nicht den Winter an.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

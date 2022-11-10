@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z wölfftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">639</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z wölfftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„was hält der Erde Rund? der Sterne Kreiß? die Welt?</l>
+            <l>360”Des Wercks Zusammenhang, in den es GOtt gestellt.</l>
+            <l>„wie hörtet ihr, was ich hier zum erwegen bringe,</l>
+            <l>„wann nicht der Kreiß der Luft durch mein Gespräch erklünge?</l>
+            <l>„befände sich des Meers Umgrenzung loßgedämmt,</l>
+            <l>„so wär das Vaterland und wir mit ihm verschwemmt;</l>
+            <l>365”Was würde den Bezirck des Felds mit Thau befeuchten,</l>
+            <l>„wann nur der Sonne Schein sollt unabwechselnd leuchten?</l>
+            <l>„hätt GOtt die Körper leicht und keinen schwer verschafft,</l>
+            <l>„was wär der Erde Ball? des Undings Eigenschaft.</l>
+            <l>„gesezt, wir wüßten nichts von Kleinheit oder Grösse;</l>
+            <l>370”Was wär das, so den Werth der Tugend in sich schlösse?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

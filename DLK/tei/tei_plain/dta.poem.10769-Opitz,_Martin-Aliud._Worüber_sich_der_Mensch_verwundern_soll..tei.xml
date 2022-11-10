@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aliud.  
+  Worüber sich der Mensch verwundern soll.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">97</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">394</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aliud.  
+  Worüber sich der Mensch verwundern soll.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was bistu doch/ o Mensch/ gegen der größ der Erden?</l>
+            <l>Was ist der Erden größ gegen deß Himmels pracht?</l>
+            <l>Was ist deß Himmels pracht gegen deß Schöpffers Macht:</l>
+            <l>Durch welche du vnd sie vnd er regieret werden?</l>
+            <l>Darumb soltu/ o Mensch/ dich vber dich selbst schwingen/</l>
+            <l>Dir lassen an dich selbst kein wunder wunder sein/</l>
+            <l>Verwundern soltu dich vber die ding allein</l>
+            <l>In Gott vnd vber. Gott allein in allen dingen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

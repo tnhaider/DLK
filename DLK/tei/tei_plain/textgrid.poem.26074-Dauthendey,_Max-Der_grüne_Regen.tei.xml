@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der grüne Regen</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">728</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der grüne Regen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Frühlingswolken wandernde Herde</l>
+            <l>Schleift wie mit Haaren die Erde;</l>
+            <l>Zieht einen grünen Regen durchs Grau,</l>
+            <l>Jeder Tropfen wird heute ein Blatt auf der Au.</l>
+            <l>Wohin der grüne Regen dann trat,</l>
+            <l>Grünt ein Liebesgedanke, und grünt ein Blatt.</l>
+            <l>Gedanken und Blätter, die verwunschen waren,</l>
+            <l>Kommen wieder zur Erde in grünen Scharen.</l>
+            <l>Die blaue Leere auf allen Wegen füllt grüner Regen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Frühlingswolken wandernde Herde</l>
+            <l>Schleift wie mit Haaren die Erde;</l>
+            <l>Zieht einen grünen Regen durchs Grau,</l>
+            <l>Jeder Tropfen wird heute ein Blatt auf der Au.</l>
+            <l>Wohin der grüne Regen dann trat,</l>
+            <l>Grünt ein Liebesgedanke, und grünt ein Blatt.</l>
+            <l>Gedanken und Blätter, die verwunschen waren,</l>
+            <l>Kommen wieder zur Erde in grünen Scharen.</l>
+            <l>Die blaue Leere auf allen Wegen füllt grüner Regen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

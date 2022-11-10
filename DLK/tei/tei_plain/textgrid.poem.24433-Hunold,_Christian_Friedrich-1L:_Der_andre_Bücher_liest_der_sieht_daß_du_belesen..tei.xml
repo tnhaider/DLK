@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Der andre Bücher liest/ der sieht/ daß du belesen.</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">812</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Der andre Bücher liest/ der sieht/ daß du belesen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der andre Bücher liest/ der sieht/ daß du belesen.</l>
+            <l>Zwar durch die Dunckelheit verbirgst du andrer Gut.</l>
+            <l>Doch das verbeelen zeigt/ daß du ein Dieb gewesen.</l>
+            <l>Klug muß ein Richter seyn/ der da Haußsuchung thut.</l>
+            <l>Der Wissenschafften Licht führt ihn durch alle Pforten.</l>
+            <l>Er dencket/ wenn ihm was in seine Nase fliegt/</l>
+            <l>Das Geist und Feuer hat/ daß in den schlechten Worten/</l>
+            <l>In deinem Mause-Dreck viel fremder Pfeffer liegt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der andre Bücher liest/ der sieht/ daß du belesen.</l>
+            <l>Zwar durch die Dunckelheit verbirgst du andrer Gut.</l>
+            <l>Doch das verbeelen zeigt/ daß du ein Dieb gewesen.</l>
+            <l>Klug muß ein Richter seyn/ der da Haußsuchung thut.</l>
+            <l>Der Wissenschafften Licht führt ihn durch alle Pforten.</l>
+            <l>Er dencket/ wenn ihm was in seine Nase fliegt/</l>
+            <l>Das Geist und Feuer hat/ daß in den schlechten Worten/</l>
+            <l>In deinem Mause-Dreck viel fremder Pfeffer liegt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

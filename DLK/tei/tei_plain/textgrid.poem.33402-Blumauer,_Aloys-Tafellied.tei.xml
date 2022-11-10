@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Tafellied</title>
+        <author>
+          <persName>
+            <surname>Blumauer</surname>
+            <forename>Aloys</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">184</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">726</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1776</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Tafellied</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brüder, freuet euch zur Wette,</l>
+            <l>Schlingt die grosse Bruderkette</l>
+            <l>Um die Freude, eh' sie flieht;</l>
+            <l>Eingebannt nach Zaub'rerweise,</l>
+            <l>Schwebt sie dann in unserm Kreise</l>
+            <l>Rund herum von Glied zu Glied.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus der Kette, die wir knüpfen,</l>
+            <l>Soll die Lose nicht entschlüpfen,</l>
+            <l>Bis die Mitternacht anbricht;</l>
+            <l>Denn um d'raus sich loszuwinden,</l>
+            <l>Müßte sie das Ende finden,</l>
+            <l>Und das hat die Kette nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brüder, freuet euch zur Wette,</l>
+            <l>Schlingt die grosse Bruderkette</l>
+            <l>Um die Freude, eh' sie flieht;</l>
+            <l>Eingebannt nach Zaub'rerweise,</l>
+            <l>Schwebt sie dann in unserm Kreise</l>
+            <l>Rund herum von Glied zu Glied.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus der Kette, die wir knüpfen,</l>
+            <l>Soll die Lose nicht entschlüpfen,</l>
+            <l>Bis die Mitternacht anbricht;</l>
+            <l>Denn um d'raus sich loszuwinden,</l>
+            <l>Müßte sie das Ende finden,</l>
+            <l>Und das hat die Kette nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

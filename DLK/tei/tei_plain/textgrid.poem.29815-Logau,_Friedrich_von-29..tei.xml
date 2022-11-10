@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">29.</title>
+        <author>
+          <persName>
+            <surname>Logau</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">184</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">680</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1630</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>29.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Egla war von blöden Augen; Phyllis war von stumpffen Ohren;</l>
+            <l>Nisa war von schwerer Zunge; iede war also geboren.</l>
+            <l>Sonsten hatte Zier und Zucht unter ihnen gleichen Krieg;</l>
+            <l>Sonsten hatte Zier und Zucht unter ihnen gleichen Sieg.</l>
+            <l>Mopsus solt ein Urthel fällen über ihre drey Gebrächen,</l>
+            <l>Sprach: Das fühlen ist bey allen, und das andre nicht zu rechen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Egla war von blöden Augen; Phyllis war von stumpffen Ohren;</l>
+            <l>Nisa war von schwerer Zunge; iede war also geboren.</l>
+            <l>Sonsten hatte Zier und Zucht unter ihnen gleichen Krieg;</l>
+            <l>Sonsten hatte Zier und Zucht unter ihnen gleichen Sieg.</l>
+            <l>Mopsus solt ein Urthel fällen über ihre drey Gebrächen,</l>
+            <l>Sprach: Das fühlen ist bey allen, und das andre nicht zu rechen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">174</measure>
+        <measure type="characters">1016</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1900</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus braunen Mauern tritt ein Dorf, ein Feld.</l>
+            <l>Ein Hirt verwest auf einem alten Stein.</l>
+            <l>Der Saum des Walds schließt blaue Tiere ein,</l>
+            <l>Das sanfte Laub, das in die Stille fällt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Bauern braune Stirnen. Lange tönt</l>
+            <l>Die Abendglocke; schön ist frommer Brauch,</l>
+            <l>Des Heilands schwarzes Haupt im Dornenstrauch,</l>
+            <l>Die kühle Stube, die der Tod versöhnt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie bleich die Mütter sind. Die Bläue sinkt</l>
+            <l>Auf Glas und Truh, die stolz ihr Sinn bewahrt;</l>
+            <l>Auch neigt ein weißes Haupt sich hochbejahrt</l>
+            <l>Aufs Enkelkind, das Milch und Sterne trinkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus braunen Mauern tritt ein Dorf, ein Feld.</l>
+            <l>Ein Hirt verwest auf einem alten Stein.</l>
+            <l>Der Saum des Walds schließt blaue Tiere ein,</l>
+            <l>Das sanfte Laub, das in die Stille fällt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Bauern braune Stirnen. Lange tönt</l>
+            <l>Die Abendglocke; schön ist frommer Brauch,</l>
+            <l>Des Heilands schwarzes Haupt im Dornenstrauch,</l>
+            <l>Die kühle Stube, die der Tod versöhnt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie bleich die Mütter sind. Die Bläue sinkt</l>
+            <l>Auf Glas und Truh, die stolz ihr Sinn bewahrt;</l>
+            <l>Auch neigt ein weißes Haupt sich hochbejahrt</l>
+            <l>Aufs Enkelkind, das Milch und Sterne trinkt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">51.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">559</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>51.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe doch genug des Schönen aller Art</l>
+            <l>Auf dieser eiligen Vorüberfahrt gewahrt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf dieser eiligen Vorüberfahrt durchs Leben,</l>
+            <l>Genug, den Menschengeist über die Welt zu heben;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Genug des Göttlichen im Menschenangesicht,</l>
+            <l>Im Spiegel der Natur und Dichtung Zauberlicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn es mehr nicht war, so war es meine Schuld;</l>
+            <l>Und daß es soviel war, ist Gottes große Huld;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Stralen jener Huld, die selbst das Aug' erschließen,</l>
+            <l>Das eigensinnig sich dem Lichte will verschließen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Augendeckel rührt der Himmelskuß gelind:</l>
+            <l>Sieh, das ist Gottes Welt, und du bist Gottes Kind.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

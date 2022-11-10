@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein Frühlingsabend</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">242</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">1020</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1900</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein Frühlingsabend</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Strauch voll Larven; Abendföhn im März;</l>
+            <l>Ein toller Hund läuft durch ein ödes Feld</l>
+            <l>Durchs braune Dorf des Priesters Glocke schellt;</l>
+            <l>Ein kahler Baum krümmt sich in schwarzem Schmerz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Schatten alter Dächer blutet Mais;</l>
+            <l>O Süße, die der Spatzen Hunger stillt.</l>
+            <l>Durch das vergilbte Rohr bricht scheu ein Wild.</l>
+            <l>O Einsamstehn vor Wassern still und weiß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unsäglich ragt des Nußbaums Traumgestalt.</l>
+            <l>Den Freund erfreut der Knaben bäurisch Spiel.</l>
+            <l>Verfallene Hütten, abgelebt' Gefühl;</l>
+            <l>Die Wolken wandern tief und schwarz geballt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Strauch voll Larven; Abendföhn im März;</l>
+            <l>Ein toller Hund läuft durch ein ödes Feld</l>
+            <l>Durchs braune Dorf des Priesters Glocke schellt;</l>
+            <l>Ein kahler Baum krümmt sich in schwarzem Schmerz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Schatten alter Dächer blutet Mais;</l>
+            <l>O Süße, die der Spatzen Hunger stillt.</l>
+            <l>Durch das vergilbte Rohr bricht scheu ein Wild.</l>
+            <l>O Einsamstehn vor Wassern still und weiß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unsäglich ragt des Nußbaums Traumgestalt.</l>
+            <l>Den Freund erfreut der Knaben bäurisch Spiel.</l>
+            <l>Verfallene Hütten, abgelebt' Gefühl;</l>
+            <l>Die Wolken wandern tief und schwarz geballt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

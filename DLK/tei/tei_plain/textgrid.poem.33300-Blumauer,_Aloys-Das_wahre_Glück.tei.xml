@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das wahre Glück</title>
+        <author>
+          <persName>
+            <surname>Blumauer</surname>
+            <forename>Aloys</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1776</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das wahre Glück</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man rühmt hienieden, wie ich sehe,</l>
+            <l>Bald Freundschaft, und bald Lieb' und bald die Ehe</l>
+            <l>Uns Menschen als beglückend an,</l>
+            <l>Obgleich uns keine von den dreien</l>
+            <l>Allein ganz glücklich machen kann:</l>
+            <l>Nur der darf sich des wahren Glückes freuen,</l>
+            <l>Bei welchem sich Geliebte, Frau und Freund</l>
+            <l>In einerlei Person vereint.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man rühmt hienieden, wie ich sehe,</l>
+            <l>Bald Freundschaft, und bald Lieb' und bald die Ehe</l>
+            <l>Uns Menschen als beglückend an,</l>
+            <l>Obgleich uns keine von den dreien</l>
+            <l>Allein ganz glücklich machen kann:</l>
+            <l>Nur der darf sich des wahren Glückes freuen,</l>
+            <l>Bei welchem sich Geliebte, Frau und Freund</l>
+            <l>In einerlei Person vereint.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

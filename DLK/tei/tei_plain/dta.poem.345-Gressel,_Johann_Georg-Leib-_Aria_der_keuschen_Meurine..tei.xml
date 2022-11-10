@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Leib- Aria  der keuschen  Meurine.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">468</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Leib- Aria  der keuschen  Meurine.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Wollust Rosen weicht</l>
+            <l>Vor meinen Keuschheits-Liljen.</l>
+            <l>Jhr könnt sie nicht vertilgen/</l>
+            <l>Eur Wesen das erbleicht</l>
+            <l>Davor/ wo diese stehn/</l>
+            <l>Da müsset ihr vergehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob schon die Perl gesteckt</l>
+            <l>In schwartzen Muschel-Schalen/</l>
+            <l>So kan sie dennoch prahlen</l>
+            <l>Wenn selbige entdeckt.</l>
+            <l>Des Demants helle Pracht</l>
+            <l>Aus rauhen Schlacken lacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und bin ich gleich nicht schön</l>
+            <l>Prang ich mit keinen Brüsten/</l>
+            <l>Die jedermann gelüsten</l>
+            <l>So wird es doch geschehn/</l>
+            <l>Daß man der Keuschheit hold</l>
+            <l>Und nicht der Schönheit-Gold.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

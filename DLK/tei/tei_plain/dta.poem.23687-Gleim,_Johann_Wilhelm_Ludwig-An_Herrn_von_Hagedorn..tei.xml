@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Herrn von Hagedorn.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-23</measure>
+        <measure type="syllables">185</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Herrn von Hagedorn.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dichter, du bist Amors Liebling!</l>
+            <l>Wenn du Liebeslieder singest,</l>
+            <l>Nimmt er schnell den Pfeil vom Bogen</l>
+            <l>Lehnt sich müßig an die Mutter,</l>
+            <l>Und wenn ihn die Mutter fräget:</l>
+            <l>Sohn, bewegst du nicht zur Liebe?</l>
+            <l>Spricht er: Liebste Mutter, horche!</l>
+            <l>Hagedorn bewegt zur Liebe!</l>
+            <l>Hilf mir nur die Spröden zälen,</l>
+            <l>Zäle nur die Neuverliebten,</l>
+            <l>Die er schon dazu bewogen!</l>
+            <l>Dichter, du bist Amors Liebling!</l>
+            <l>Wenn du mit den Schönen scherzest,</l>
+            <l>Schimpft er auf die Possenreisser.</l>
+            <l>O wie hat er dich gepriesen,</l>
+            <l>Als dich iüngst der Weingott lobte!</l>
+            <l>Voll von Eifer dich zu loben,</l>
+            <l>Zankten sich die frohen Götter.</l>
+            <l>Amor sang mit zarten Trillern,</l>
+            <l>Eins von deinen Liebesliedern;</l>
+            <l>Plötzlich liebten alle Schönen.</l>
+            <l>Bacchus ließ ein Trinklied hören;</l>
+            <l>Plötzlich wolten alle trinken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

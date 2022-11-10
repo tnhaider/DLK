@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Irene</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">710</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Irene</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist so schön an Seel' und Leib,</l>
+            <l>Wohin du wandelst, hohes Weib,</l>
+            <l>Da muß an deinen Blicken</l>
+            <l>Sich jedes Herz erquicken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und solche Reinheit wohnt in dir,</l>
+            <l>Du weckst nicht Sehnsucht noch Begier;</l>
+            <l>Ein Glanz des Friedens leise</l>
+            <l>Weht um dich her im Kreise.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wandelt still durchs Grün der Au</l>
+            <l>Die goldgelockte Sonnenfrau</l>
+            <l>Und bringt den Blumen allen</l>
+            <l>Ein neidlos Wohlgefallen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist so schön an Seel' und Leib,</l>
+            <l>Wohin du wandelst, hohes Weib,</l>
+            <l>Da muß an deinen Blicken</l>
+            <l>Sich jedes Herz erquicken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und solche Reinheit wohnt in dir,</l>
+            <l>Du weckst nicht Sehnsucht noch Begier;</l>
+            <l>Ein Glanz des Friedens leise</l>
+            <l>Weht um dich her im Kreise.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wandelt still durchs Grün der Au</l>
+            <l>Die goldgelockte Sonnenfrau</l>
+            <l>Und bringt den Blumen allen</l>
+            <l>Ein neidlos Wohlgefallen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

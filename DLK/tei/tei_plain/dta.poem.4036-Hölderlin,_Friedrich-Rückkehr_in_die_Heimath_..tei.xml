@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Rückkehr in die Heimath .</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">634</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197104"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Rückkehr in die Heimath .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr milden Lüfte, Boten Italiens!</l>
+            <l>Und du mit deinen Pappeln, geliebter Strom!</l>
+            <l>Ihr wogenden Gebirg'! o all' ihr</l>
+            <l>Sonnigen Gipfel! so seyd ihr's wieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du stiller Ort! in Träumen erschienst du fern,</l>
+            <l>Nach hoffnungslosem Tage dem Sehnenden,</l>
+            <l>Und du, mein Haus, und ihr Gespielen,</l>
+            <l>Bäume des Hügels, ihr wohlbekannten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie lang' ist's, o wie lange! des Kindes Ruh'</l>
+            <l>Ist hin, und hin ist Jugend und Lieb' und Glück,</l>
+            <l>Doch du, mein Vaterland, du Heilig-</l>
+            <l>Duldendes, siehe, du bist geblieben!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und darum, daß sie dulden mit dir, mit dir</l>
+            <l>Sich freu'n, erziehst du, Theures! die Deinen auch,</l>
+            <l>Und mahnst in Träumen, wenn sie ferne</l>
+            <l>Schweifen und irren, die Ungetreuen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

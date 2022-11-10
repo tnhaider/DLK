@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kinderzucht.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5</measure>
+        <measure type="syllables">99</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">398</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Kinderzucht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Feinde kannst du tödten,</l>
+            <l>Wie meine Mutter spricht;</l>
+            <l>Doch hör' ich sie auch sagen</l>
+            <l>Gar ernst an manchen Tagen:</l>
+            <l>Maikäfer tödte nicht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann frag' ich meine Mutter:</l>
+            <l>Wer denn die Feinde sind?</l>
+            <l>Dann sagt sie mir geschwind sie,</l>
+            <l>Die deutschen Feinde sind die —</l>
+            <l>Franzosen, liebes Kind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast Recht wohl, liebe Mutter,</l>
+            <l>Gut daß ich's endlich weiß:</l>
+            <l>Französische Vocabeln</l>
+            <l>Und Lafontaine's Fabeln,</l>
+            <l>Die kosten mir viel Schweiß.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

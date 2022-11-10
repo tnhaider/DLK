@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das todte Kind.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">113</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">478</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das todte Kind.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hat den Garten sich zum Freund gemacht,</l>
+            <l>Dann welkten es und er im Herbste sacht,</l>
+            <l>Die Sonne ging und es und er entschlief,</l>
+            <l>Gehüllt in </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt ist der Garten unversehns erwacht,</l>
+            <l>Die Kleine schlummert fest in ihrer Nacht.</l>
+            <l>Wo steckst du? summt es dort und summt es hier.</l>
+            <l>Der ganze Garten frägt nach ihr, nach ihr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die blaue Winde klettert schlank empor</l>
+            <l>Und blickt ins Haus: Komm hinterm Schrank hervor!</l>
+            <l>Wo birgst du dich? Du thust dir's selbst zu leid!</l>
+            <l>Was hast du für ein neues Sommerkleid?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

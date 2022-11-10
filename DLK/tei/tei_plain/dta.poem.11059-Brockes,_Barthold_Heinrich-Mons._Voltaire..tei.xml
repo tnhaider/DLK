@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mons. Voltaire.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">98</measure>
+        <measure type="tokens">58</measure>
+        <measure type="characters">373</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mons. Voltaire.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die unermeßliche Barmherzigkeit</l>
+            <l>Des Schöpfers, welcher uns befahl zu werden,</l>
+            <l>Damit er mäßigte die Unvollkommenheit</l>
+            <l>Des eitlen Lebens hier auf Erden;</l>
+            <l>Hat zween Bewohner dieser Welt,</l>
+            <l>Zwey holde Wesen uns hierzu gesellt,</l>
+            <l>Die </l>
+            <l>Die wir, auch selbst im Schooß der Armuth, haben.</l>
+            <l>Der holde Schlaf begräbt im Schlummer unsre Schmerzen,</l>
+            <l>Die Hoffnung stützt die Lust, begeistert unsre Herzen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

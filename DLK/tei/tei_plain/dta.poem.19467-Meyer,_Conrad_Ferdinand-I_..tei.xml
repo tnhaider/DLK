@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">I .</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">482</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>I .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lag an einem Raine</l>
+            <l>Mit meinem dürren Stab.</l>
+            <l>Was lauf' ich? Meine Beine</l>
+            <l>Erlaufen nur das Grab ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Wandrer zog derenden,</l>
+            <l>War noch ein Knabe fast,</l>
+            <l>Der hielt als Stab in Händen</l>
+            <l>Den blüthenreichsten Ast.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„grüß Gott dich, schöner Wandrer!</l>
+            <l>Bist du es, Knabe Lenz?“</l>
+            <l>Er rief: „Ich bin kein Andrer</l>
+            <l>Und komme von Florenz!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das mußte mich erwecken.</l>
+            <l>„kind Lenz, ich wandre mit!“</l>
+            <l>Wir hoben unsre Stecken</l>
+            <l>In </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die beiden Stäbe hoben</l>
+            <l>Kind Lenz und ich zugleich;</l>
+            <l>Auch meiner ward von oben</l>
+            <l>Bis unten blüthenreich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

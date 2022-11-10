@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die wunderliche Prinzessin.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-28</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">840</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die wunderliche Prinzessin.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weit in einem Walde droben</l>
+            <l>Zwischen hoher Felsen Zinnen,</l>
+            <l>Steht ein altes Schloß erhoben,</l>
+            <l>Wohnet eine Zaub'rin drinne.</l>
+            <l>Von dem Schloß, der Zaub'rin Schöne</l>
+            <l>Gehen wunderbare Sagen,</l>
+            <l>Lockend schweifen fremde Töne</l>
+            <l>Plötzlich her oft aus dem Walde.</l>
+            <l>Wem sie recht das Herz getroffen,</l>
+            <l>Der muß nach dem Walde gehen,</l>
+            <l>Ewig diesen Klängen folgend,</l>
+            <l>Und wird nimmer mehr gesehen.</l>
+            <l>Tief in wundersamer Grüne</l>
+            <l>Steht das Schloß, schon halb verfallen,</l>
+            <l>Hell die gold'nen Zinnen glühen,</l>
+            <l>Einsam sind die weiten Hallen.</l>
+            <l>Auf des Hofes stein'gem Rasen</l>
+            <l>Sitzen von der Tafelrunde</l>
+            <l>All' die Helden dort gelagert,</l>
+            <l>Ueberdeckt mit Staub und Wunden.</l>
+            <l>Heinrich liegt auf seinem Löwen,</l>
+            <l>Gottfried auch, Siegfried der Scharfe,</l>
+            <l>König Alfred, eingeschlafen</l>
+            <l>Ueber seiner gold'nen Harfe.</l>
+            <l>Don Quixot' hoch auf der Mauer</l>
+            <l>Sinnend tief in nächt'ger Stunde,</l>
+            <l>Steht gerüstet auf der Lauer</l>
+            <l>Und bewacht die heil'ge Runde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

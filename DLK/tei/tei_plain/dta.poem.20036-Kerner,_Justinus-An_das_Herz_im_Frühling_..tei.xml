@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An das Herz im Frühling .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">565</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An das Herz im Frühling .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es wollen Vögel wieder singen,</l>
+            <l>Es wollen Blumen wieder blüh'n,</l>
+            <l>Mein Herz! kannst du dich nicht bezwingen,</l>
+            <l>Nur einmal noch der Lust erglühn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was nimmer Leben durfte hoffen,</l>
+            <l>O sieh! das blickt jetzt frisch hinauf,</l>
+            <l>Hat dich so sehr ein Frost getroffen,</l>
+            <l>Daß du dich nimmer richtest auf?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schafft, es klopft, es möcht sich heben,</l>
+            <l>Doch kann es nicht, es ist zu krank!</l>
+            <l>So schafft, so klopft, man hört's mit Beben,</l>
+            <l>Im Sarge der Scheintodte bang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann kommen eilend seine Lieben,</l>
+            <l>Befrei'n ihn aus des Grabes Graus.</l>
+            <l>Du Herz aus dieser Brust, der trüben,</l>
+            <l>Kommst du ach! nimmermehr heraus!!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

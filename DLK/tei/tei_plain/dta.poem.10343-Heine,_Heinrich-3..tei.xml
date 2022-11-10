@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">3.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">396</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>3.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der arme Peter wankt vorbei,</l>
+            <l>Gar langsam, leichenblaß und scheu.</l>
+            <l>Es bleiben fast, wenn sie ihn sehn,</l>
+            <l>Die Leute auf der Straße stehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Mädchen flüstern sich in's Ohr:</l>
+            <l>„der stieg wohl aus dem Grab' hervor.“</l>
+            <l>Ach nein, Ihr lieben Jungfräulein,</l>
+            <l>Der legt sich erst in's Grab hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hat verloren seinen Schatz,</l>
+            <l>Drum ist das Grab der beste Platz</l>
+            <l>Wo er am besten liegen mag,</l>
+            <l>Und schlafen bis zum jüngsten Tag.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

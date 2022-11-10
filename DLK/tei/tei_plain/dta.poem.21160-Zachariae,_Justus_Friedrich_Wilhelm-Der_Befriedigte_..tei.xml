@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Befriedigte .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">183</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">765</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Befriedigte .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt, da die Erde sich verjüngt,</l>
+            <l>Und jeder Vogel Freude singt;</l>
+            <l>Jetzt sollt’ ich Brunnenflaschen leeren?</l>
+            <l>Das plaudert mir kein Doktor ein.</l>
+            <l>Gebt mir die Flaschen voller Wein!</l>
+            <l>Das läßt sich hören!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was Bav in einem Abend schreibt,</l>
+            <l>Wenn Pflicht und Amt dazu ihn treibt,</l>
+            <l>Das lasse, wer da will, sich lehren.</l>
+            <l>Ich lobe, was, ohn Amt und Pflicht,</l>
+            <l>Mein Damon beym Burgunder spricht.</l>
+            <l>Das läßt sich hören!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Speront reimt, doch er reimt für sich.</l>
+            <l>Was thut das? Jhr seyd wunderlich;</l>
+            <l>Das kan ihm ja kein Mensch verwehren.</l>
+            <l>Daß ihr euch, ihn zu lesen, scheut.</l>
+            <l>Daß ihr nicht seine Freunde seyd —</l>
+            <l>Das läßt sich hören!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man ladet mich in Gärten ein.</l>
+            <l>Sie werden uns willkommen seyn —</l>
+            <l>Allein, ich fürchte sie zu stören.</l>
+            <l>Es ist wohl viel Gesellschaft da? —</l>
+            <l>Es geht noch. Daphne — Daphne? Ja!</l>
+            <l>Das läßt sich hören!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

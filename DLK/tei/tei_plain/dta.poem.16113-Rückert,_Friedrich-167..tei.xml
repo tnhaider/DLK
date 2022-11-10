@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">167.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">510</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>167.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geh, suche Menschen auf, um dich als Mensch zu fühlen</l>
+            <l>In andern, ohne trüb' im Busen dir zu wühlen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Such einen Glücklichen, wenn du es selbst nicht bist;</l>
+            <l>Sei glücklich daß du siehst, daß es ein andrer ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Such auf Unglückliche, wenn du es wähnst zu seyn,</l>
+            <l>Und es dich trösten mag, daß du's nicht bist allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Such einen auf, den du verstehst, der dich versteht;</l>
+            <l>Wo nicht, wenn's nur zum Ohr, wenn nicht zum Herzen, geht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verstören wird ihn um so minder, was du klagst,</l>
+            <l>Und dich erleichterts wenn du dein Anliegen sagst.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gespräch mit sich selbst</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">606</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1761</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gespräch mit sich selbst</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Chloe will mit ihren Blicken</l>
+            <l>Mich bestricken,</l>
+            <l>Aber sie bestrickt mich nicht!</l>
+            <l>Ihr will ich, gleich schlauen Fischen,</l>
+            <l>Wohl entwischen,</l>
+            <l>Aus den Netzen im Gesicht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Länger soll sie mich nicht sehen,</l>
+            <l>Ich will gehen,</l>
+            <l>Hundert Meilen weit von hier!</l>
+            <l>Kann sie da mit ihren Blicken</l>
+            <l>Mich bestricken;</l>
+            <l>Nun, so sei es aus mit mir!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Chloe will mit ihren Blicken</l>
+            <l>Mich bestricken,</l>
+            <l>Aber sie bestrickt mich nicht!</l>
+            <l>Ihr will ich, gleich schlauen Fischen,</l>
+            <l>Wohl entwischen,</l>
+            <l>Aus den Netzen im Gesicht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Länger soll sie mich nicht sehen,</l>
+            <l>Ich will gehen,</l>
+            <l>Hundert Meilen weit von hier!</l>
+            <l>Kann sie da mit ihren Blicken</l>
+            <l>Mich bestricken;</l>
+            <l>Nun, so sei es aus mit mir!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

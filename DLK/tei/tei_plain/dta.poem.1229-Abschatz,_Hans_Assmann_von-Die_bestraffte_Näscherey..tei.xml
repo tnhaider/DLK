@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die bestraffte Näscherey.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-5</measure>
+        <measure type="syllables">185</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">727</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die bestraffte Näscherey.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl dem/ der nicht vonnöthen hat</l>
+            <l>Gesunde Kost zu nehmen ein/</l>
+            <l>Dem an der herben Pillen statt</l>
+            <l>Gelinde Zucker-Körner seyn/</l>
+            <l>Dem der beliebte Reben-Safft</l>
+            <l>Vor süssen Julep giebet Krafft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schmeckte nächst Clorellens Mund</l>
+            <l>Aus ohngefähr geschöpffter Lust/</l>
+            <l>Was krancke Leute macht gesund.</l>
+            <l>Wie schlecht bekam ihr diese Kost.</l>
+            <l>Was andern Krafft und Stärcke bracht/</l>
+            <l>Das hatte sie bald schwach gemacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch geht es dir nicht so allein/</l>
+            <l>Clorelle/ meine süsse Zier:</l>
+            <l>Ich muß auch so gestraffet seyn/</l>
+            <l>Und leide gleiche Pein mit dir:</l>
+            <l>Dein Blick/ der andre laben kan/</l>
+            <l>Hat meinem Hertzen weh gethan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der süsse Vorschmack deiner Gunst</l>
+            <l>Erreget mir den kalten Brand;</l>
+            <l>Hier hilfft mir keines Arztes Kunst/</l>
+            <l>Mein Wohlseyn steht in deiner Hand/</l>
+            <l>Eh ich kan deinen Zucker-Mund</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Prinzenraub .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5 6-5</measure>
+        <measure type="syllables">248</measure>
+        <measure type="tokens">172</measure>
+        <measure type="characters">998</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Prinzenraub .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir wolln ein Liedel heben an,               </l>
+            <l>Was sich hat angespunnen,</l>
+            <l>Wie's im Pleißnerland gar schlecht war bestallt,</l>
+            <l>Als den jungen Fürst'n geschah Gewalt,</l>
+            <l>Durch Kuntzen von Kauffungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Adler hat auf'm Fels gebaut</l>
+            <l>Ein schönes Nest mit Jungen,</l>
+            <l>Und wie er einst geflogen aus,</l>
+            <l>Holt ein Geyer die Jungen heraus,</l>
+            <l>Drauf ward's Nest leer gefunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo der Geyer auf'm Dache sitzt,</l>
+            <l>Gedeihen die Küchlein selten,</l>
+            <l>Es war da ein seltsam Narrenspiel,</l>
+            <l>Welcher Fürst seinen Räthen traut zu viel,</l>
+            <l>Muß oft es selber entgelten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Altenburg, du feine Stadt,</l>
+            <l>Dich thät er mit Untreu meinen,</l>
+            <l>Da in dir war'n all' Hofleut voll,</l>
+            <l>Kam Kunz mit Leitern und Buben toll,</l>
+            <l>Und holt die Fürsten so kleine.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was blast dich, Kunz, für Unlust an,</l>
+            <l>Daß du ins Schloß einsteigest?</l>
+            <l>Und stiehlst die zarten Herren heraus,</l>
+            <l>Als der Kurfürst eben nit war zu Haus,</l>
+            <l>Die zarten Fürsten-Zweige.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es war wohl als ein Wunderding,</l>
+            <l>Wie sich das Land beweget,</l>
+            <l>Was da auf'n Straßen war'n für Leut',</l>
+            <l>Die den Räubern folgten nach in Zeit,</l>
+            <l>All's wibbelt, kribbelt, sich beweget.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

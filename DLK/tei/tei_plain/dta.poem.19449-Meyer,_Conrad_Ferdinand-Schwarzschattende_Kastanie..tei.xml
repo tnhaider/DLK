@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schwarzschattende Kastanie.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">555</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schwarzschattende Kastanie.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwarzschattende Kastanie,</l>
+            <l>Mein windgeregtes Sommerzelt,</l>
+            <l>Du senkst zur Flut dein weit Geäst,</l>
+            <l>Dein Laub, es durstet und es trinkt,</l>
+            <l>Schwarzschattende Kastanie!</l>
+            <l>Im Porte badet junge Brut</l>
+            <l>Mit Hader oder Lustgeschrei,</l>
+            <l>Und Kinder schwimmen leuchtend weiß</l>
+            <l>Im Gitter deines Blätterwerks,</l>
+            <l>Schwarzschattende Kastanie!</l>
+            <l>Und dämmern See und Ufer ein</l>
+            <l>Und rauscht vorbei das Abendboot,</l>
+            <l>So zuckt aus rother Schiffslatern</l>
+            <l>Ein Blitz und wandert auf dem Schwung</l>
+            <l>Der Flut, gebrochnen Lettern gleich,</l>
+            <l>Bis unter deinem Laub erlischt</l>
+            <l>Die räthselhafte Flammenschrift,</l>
+            <l>Schwarzschattende Kastanie!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

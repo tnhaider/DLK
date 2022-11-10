@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Erste Gespräch.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6 6-6</measure>
+        <measure type="syllables">263</measure>
+        <measure type="tokens">182</measure>
+        <measure type="characters">1073</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Erste Gespräch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allerliebstes Marilißgen</l>
+            <l>Gieb mir was ich wünschen kan/</l>
+            <l>Und nim ein gehorsam grüßgen</l>
+            <l>Von demselben diener an/</l>
+            <l>Welcher nichts auf dieser welt</l>
+            <l>Uber deine freundschafft hält.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. Zwar ich solte wohl bedencken</l>
+            <l>Wer ich bin und wer du bist/</l>
+            <l>Und mein hertz nach einer lencken/</l>
+            <l>Welche meines gleichen ist:</l>
+            <l>Doch dein schöner tugend-schein</l>
+            <l>Heist mich ohne sorgen seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>3. Denn wer sich verliebt will machen/</l>
+            <l>Muß auf seines gleichen sehn;</l>
+            <l>Doch in blossen freundschaffts sachen</l>
+            <l>Kan es auch also geschehn/</l>
+            <l>Daß ein schlecht und vornehm kind</l>
+            <l>Sich zu gleicher gunst verbindt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>4. Mach es wie die sonnenstrahlen/</l>
+            <l>Wenn sie auf der blumen bahn</l>
+            <l>Lilgen und narcissen mahlen/</l>
+            <l>Schaun sie auch ein kleeblat an:</l>
+            <l>Drum laß mich/ mein sonnenschein/</l>
+            <l>Dein geringes kleeblat seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>5. Wilstu mich also erfreuen/</l>
+            <l>Gönstu mir die füsse rast/</l>
+            <l>Ach so wird dichs nicht gereuen</l>
+            <l>Daß du mich zum diener hast;</l>
+            <l>Mir beliebt der tugend licht/</l>
+            <l>Und die falschheit acht ich nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>6. Nun wolan soll ich erkennen/</l>
+            <l>Daß ich mich ohn unterlaß</l>
+            <l>Dürffte deinen diener nennen/</l>
+            <l>Seelgen so befiehl mir was/</l>
+            <l>Denn ich schwere dir allein</l>
+            <l>Daß ich fromm und treu will seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

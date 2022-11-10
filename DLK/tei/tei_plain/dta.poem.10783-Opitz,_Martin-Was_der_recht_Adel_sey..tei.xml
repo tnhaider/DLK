@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Was der recht Adel sey.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">578</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Was der recht Adel sey.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein vnzeitige Frucht/ bewart in Mutter Leibe/</l>
+            <l>Lebt halber nur biß sie zum gantzen Menschen wirdt:</l>
+            <l>So auch ein Kindt erzeugt von einem Edeln Weibe;</l>
+            <l>Mit halbem Adel nur von der Natur geziert.</l>
+            <l>Der ist ein halber Mensch/ der sein vnarth verblümet</l>
+            <l>Mit seiner Eltern Rhum/ den er zur schande lebt/</l>
+            <l>Der ist ein rechter Mensch den eigne Tugendt rühmet/</l>
+            <l>Den sein selbst Raht vndt that zu Ehren hoch erhebt.</l>
+            <l>Die aber so zugleich von Edlem stamm geboren/</l>
+            <l>Durch Tugendt noch darzu vollkommen sein gemacht/</l>
+            <l>Die sein/ die sein allein die Edlen außerkoren/</l>
+            <l>Die man vor Götter hie vnder den Menschen acht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

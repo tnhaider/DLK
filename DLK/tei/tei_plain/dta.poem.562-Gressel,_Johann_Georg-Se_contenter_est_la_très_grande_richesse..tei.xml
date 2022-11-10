@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Se contenter est la très grande richesse.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">165</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">683</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Se contenter est la très grande richesse.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin vergnügt; ob gleich die holden Blicke</l>
+            <l>Des Schicksahls nur ein falsches Blend-Werck seyn/</l>
+            <l>Ich kenne schon desselben schlaue Tücke/</l>
+            <l>Drum acht’ ich nichtes nicht den blossen Schein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den blossen Schein/ und sonsten nichts zu lieben/</l>
+            <l>Heist Aepffel ihm von </l>
+            <l>Ein Mast der Wind und grimmer Wellen Treiben</l>
+            <l>Folgt/ muß gewiß ohn Steur bald unter gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald untergehn/ und in der Noht versincken</l>
+            <l>Kommt weibischen und bangen Hertzen zu.</l>
+            <l>Wer auch nicht kan die herben Myrrhen trincken</l>
+            <l>Erlangt niemahls die stets gewünschte Ruh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gewünschte Ruh/ und süsse Lust geniessen/</l>
+            <l>Ist nur für den/ der niemahls nnterliegt/</l>
+            <l>Darum laß ich mir keinen Sturm verdriessen/</l>
+            <l>Mein Denck-Spruch ist: Ich bin dennoch vergnügt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">3.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">155</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">633</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>3.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Poeten, lasset uns treulich zusammen halten!</l>
+            <l>Erkälten dürf' uns nicht die Welt, noch selbst erkalten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Haucht aus euch nur die Glut, die Gott in euch gehaucht,</l>
+            <l>Und bleibet wohlgemuth, wenn draußen sie verraucht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer größer, kleiner sei, das lasset uns nicht streiten;</l>
+            <l>Uns richtet diese Zeit, sie richten künft'ge Zeiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gar viel was heute glimmt, wird über Nacht verglimmen;</l>
+            <l>Und was nun oben schwimmt, wird fort im Strome schwimmen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was dem das meiste gilt, wird der am meisten schelten,</l>
+            <l>Und drum, was dieser schilt, wird jenem doppelt gelten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gut Werk ist Dichterei, die feine wie die plumpe,</l>
+            <l>Und nur Kunstrichterei ist ein Geschäft für Lumpe.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

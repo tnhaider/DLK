@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Unschuld</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">238</measure>
+        <measure type="tokens">158</measure>
+        <measure type="characters">948</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Unschuld</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schönste Tugend einer Seele,</l>
+            <l>Reinster Quell der Zärtlichkeit!</l>
+            <l>Mehr als Biron, als Pamele</l>
+            <l>Ideal und Seltenheit!</l>
+            <l>Wenn ein andres Feuer brennet,</l>
+            <l>Flieht dein zärtlich schwaches Licht;</l>
+            <l>Dich fühlt nur, wer dich nicht kennet,</l>
+            <l>Wer dich kennt, der fühlt dich nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Göttin, in dem Paradiese</l>
+            <l>Lebtest du mit uns vereint;</l>
+            <l>Noch erscheinst du mancher Wiese</l>
+            <l>Morgens, eh die Sonne scheint.</l>
+            <l>Nur der sanfte Dichter siehet</l>
+            <l>Dich im Nebelkleide ziehn;</l>
+            <l>Phöbus kommt, der Nebel fliehet,</l>
+            <l>Und im Nebel bist du hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schönste Tugend einer Seele,</l>
+            <l>Reinster Quell der Zärtlichkeit!</l>
+            <l>Mehr als Biron, als Pamele</l>
+            <l>Ideal und Seltenheit!</l>
+            <l>Wenn ein andres Feuer brennet,</l>
+            <l>Flieht dein zärtlich schwaches Licht;</l>
+            <l>Dich fühlt nur, wer dich nicht kennet,</l>
+            <l>Wer dich kennt, der fühlt dich nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Göttin, in dem Paradiese</l>
+            <l>Lebtest du mit uns vereint;</l>
+            <l>Noch erscheinst du mancher Wiese</l>
+            <l>Morgens, eh die Sonne scheint.</l>
+            <l>Nur der sanfte Dichter siehet</l>
+            <l>Dich im Nebelkleide ziehn;</l>
+            <l>Phöbus kommt, der Nebel fliehet,</l>
+            <l>Und im Nebel bist du hin.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

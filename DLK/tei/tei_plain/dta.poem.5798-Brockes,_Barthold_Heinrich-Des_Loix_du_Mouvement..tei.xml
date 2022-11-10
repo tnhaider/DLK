@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Des Loix du Mouvement.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">591</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Des Loix du Mouvement.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was auf einander folgt, hat so des Anfangs Zeit</l>
+            <l>Und gleichgeformten Unterscheid.</l>
+            <l>Um eine Welt zu fügen, zu bewegen;</l>
+            <l>Ist es geuug, wenn kleine Cörperlein</l>
+            <l>Vorhanden seyn,</l>
+            <l>Die leicht bald und bald schwer, sich immer regen,</l>
+            <l>Sich weichen, sich verbinden,</l>
+            <l>Die stets beweglich, stets verschiedentlich,</l>
+            <l>Mit recht geheimen Knoten sich</l>
+            <l>Vereinen, ordnen, fügen:</l>
+            <l>Die, ob sie kommen, oder gehn,</l>
+            <l>Ob sie sich hin und herwerts drehn,</l>
+            <l>Stets andere Figuren kriegen.</l>
+            <l>Sie werden solch ein Ganz hervor zu bringen taugen,</l>
+            <l>So am Zusammenklang und Lieblichkeiten reich,</l>
+            <l>Und welcher unsern Augen</l>
+            <l>Zwar immer, doch auch nimmer gleich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

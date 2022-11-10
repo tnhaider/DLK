@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Maushund .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">596</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Maushund .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Maußhund kam gegangen,               </l>
+            <l>Von einem hohen Dach;</l>
+            <l>Der Kürschner wollt ihn fangen,</l>
+            <l>Zog ihn bald hinten nach.</l>
+            <l>That ihn beim Schwanz ergreifen,</l>
+            <l>Die Katz fing an zu pfeifen,</l>
+            <l>Pfuch, pfuch, pfuch, miau, mau mau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sagt er zu der Katzen: Miau,</l>
+            <l>Mach kein Geschreien,</l>
+            <l>Magst mich erfreuen;</l>
+            <l>Allein dein Balg</l>
+            <l>Mir wohl gefallt,</l>
+            <l>Den wird es dich jetzt kosten,</l>
+            <l>Denn er ist ziemlich alt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In ihren großen Nöthen</l>
+            <l>Sprach die Katz: Mau,</l>
+            <l>Der Kirschner will mich tödten,</l>
+            <l>Mau mau, er nahm mir einmal ein Kind,</l>
+            <l>Darzu ein langes Messer, damit er schindt;</l>
+            <l>Und wenn der Kirschner will tanzen,</l>
+            <l>So nimmt er die Katz beim Schwanze.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

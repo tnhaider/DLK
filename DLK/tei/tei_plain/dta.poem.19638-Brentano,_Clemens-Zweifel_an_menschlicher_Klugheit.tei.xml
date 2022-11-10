@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zweifel an menschlicher Klugheit</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-7</measure>
+        <measure type="syllables">88</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">403</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zweifel an menschlicher Klugheit</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Vater vom Himmelreich spricht,               </l>
+            <l>Mensch steh still und fürcht mich,</l>
+            <l>Gehst du für dich,</l>
+            <l>So thust du thöricht,</l>
+            <l>Mein rechte Hand die schlägt dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So spricht Gott der Sohn: Mensch!</l>
+            <l>Kehr dich um und merk mich,</l>
+            <l>Du gehst unweißlich,</l>
+            <l>Ich warn dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So spricht Gott der heilige Geist: Mensch</l>
+            <l>Laß deinen Willen fleischlich</l>
+            <l>In meinen Willen geistlich,</l>
+            <l>So thust du seliglich,</l>
+            <l>Das rath ich!</l>
+            <l>In Gottes Namen,</l>
+            <l>Amen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

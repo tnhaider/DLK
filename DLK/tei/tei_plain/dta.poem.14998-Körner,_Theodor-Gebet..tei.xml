@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gebet.</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">472</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gebet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hör' uns, Allgütiger!</l>
+            <l>Himmlischer Führer der Schlachten.</l>
+            <l>Vater, dich preisen wir!</l>
+            <l>Vater, wir danken dir,</l>
+            <l>Daß wir zur Freiheit erwachten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie auch die Hölle braußt,</l>
+            <l>Gott, deine starke Faust</l>
+            <l>Stürzt das Gebäude der Lüge.</l>
+            <l>Führ' uns, Herr Zebaoth,</l>
+            <l>Führ' uns, dreiein'ger Gott,</l>
+            <l>Führ' uns zur Schlacht und zum Siege!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Führ uns! — fall' unser Loos</l>
+            <l>Auch tief in Grabes Schooß,</l>
+            <l>Lob doch, und Preis deinem Nahmen! —</l>
+            <l>Reich, Kraft und Herrlichkeit</l>
+            <l>Sind dein in Ewigkeit!</l>
+            <l>Führ uns, Allmächtiger! — Amen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

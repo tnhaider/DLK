@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Sieger .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">498</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Sieger .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Anzuschauen das Turnei,</l>
+            <l>Saßen hundert Frauen droben;</l>
+            <l>Diese waren nur das Laub,</l>
+            <l>Meine Fürstin war die Rose.</l>
+            <l>Aufwärts blickt’ ich keck zu ihr,</l>
+            <l>Wie der Adler blickt zur Sonne.</l>
+            <l>Wie da meiner Wangen Glut</l>
+            <l>Das Visier durchbrennen wollte!</l>
+            <l>Wie des Herzens kühner Schlag</l>
+            <l>Schier den Panzer durchgebrochen!</l>
+            <l>Ihrer Blicke sanfter Schein</l>
+            <l>War in mir zu wildem Lodern,</l>
+            <l>Ihrer Rede mildes Wehn</l>
+            <l>War in mir zu Sturmestoben,</l>
+            <l>Sie, der schöne Maientag,</l>
+            <l>In mir zum Gewitter worden.</l>
+            <l>Unaufhaltbar brach ich los,</l>
+            <l>Sieghaft Alles niederdonnernd.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

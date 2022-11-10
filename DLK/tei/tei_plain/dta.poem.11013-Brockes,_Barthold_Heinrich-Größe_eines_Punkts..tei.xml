@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Größe eines Punkts.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">243</measure>
+        <measure type="tokens">154</measure>
+        <measure type="characters">931</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Größe eines Punkts.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie viel an einem einzgen Punkt, wär er auch noch so
+klein, gelegen:</l>
+            <l>Giebt die Geometrie uns deutlich, wenn man drauf achtet, zu</l>
+            <l>Da nemlich, wenn zwo Linien aus ihm gezogen sind und fliessen,</l>
+            <l>Wie oder (wie mans rechnet) sich, nach ihm gezogen., in ihm</l>
+            <l>Die Winkel, die der Punkt regiert, den Inhalt ungeheurer</l>
+            <l>Die alle Zahlen übersteigen, durch einen Theil vom Zirkel,</l>
+            <l>Ich habe dieses oft bewundert; und kam ein solches Cen-</l>
+            <l>Als wie ein Schattenbild der Gottheit, aus welchem alle Din-</l>
+            <l>In welchem alle Dinge wieder, wie hier, die Linien zusammen,</l>
+            <l>Als ihrem ersten Ursprung laufen, auch wieder sich vereinen, für,</l>
+            <l>Nur mit dem Unterscheid allein,</l>
+            <l>Daß so, wie dieser Mittelpunkt, ein Punkt im Zirkel, der so</l>
+            <l>Der Gottheit Wesen solch ein Cirkel, wovon in allen Abgrund</l>
+            <l>Der unerforschten Ewigkeit, die Grenz-und Schranken nicht</l>
+            <l>Den Stralen, die unendlich, füllen, den kein erschaffner Geist</l>
+            <l>Wovon das Centrum allenthalben, der Umkreis aber nirgend ist.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

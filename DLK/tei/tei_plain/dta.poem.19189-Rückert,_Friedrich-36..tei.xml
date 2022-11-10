@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">36.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">581</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>36.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geschichte und Natur, zwei Räume sind sie nur,</l>
+            <l>Wo überall der Tod geht auf des Lebens Spur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du siehst, wohin du siehst, Zerstückelung, Bruchstücke;</l>
+            <l>Das eine ist dahin, das andre noch zurücke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du siehst Verbindungen und fühlest eine Lücke,</l>
+            <l>Suchest Zusammenhang und findest keine Brücke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blick' in die Sternwelt auf, damit dein Geist gesundet!</l>
+            <l>Dort ist der ewige Kreis, der in sich selb sich rundet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ordnung droben ist, wo aufgehoben ist</l>
+            <l>Die Wirrung, wo sich fügt, was hier verschoben ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freu dich in jeder Nacht, daß Sterne niederglänzen</l>
+            <l>Mit höhrer Hofnung Stral dein Daseyn zu ergänzen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiX.  
+  Desz Reiches Befestigung.</title>
+        <author>
+          <persName>
+            <surname>Czepko</surname>
+            <forename>Daniel von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">408</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20871-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiX.  
+  Desz Reiches Befestigung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Deutschland/ nicht der Rein/ noch deiner Tonaw Feld/</l>
+            <l>Vnd andrer Flüsse Volck mit jhren starcken Wercken/</l>
+            <l>Beschützen deinen Thron; Das was Jhn kan verstercken/</l>
+            <l>Ist was deß </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Crone von Madritt/ Sie lassen es geschehn/</l>
+            <l>Das Zimmer mach ich auff/ </l>
+            <l>Wo solche </l>
+            <l>Die Welt steht mit mir da/ vnd wil </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Kanser vnd O Herr/ Sie sind auch vnsre Krafft;</l>
+            <l>Auch hie von </l>
+            <l>Solln </l>
+            <l>Der auch durch Seinen Sohn den Menschen Frieden
+schafft.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

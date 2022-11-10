@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Antistrophe.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">391</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1618</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20628-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Antistrophe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Montmartin/ der halb-götter zier/</l>
+            <l>Vñ võ dẽ Musen selbs geschmücket/</l>
+            <l>Das lob/ so ich von dir formier</l>
+            <l>Ist nicht auß fremb dem schmuck gestücket:</l>
+            <l>Ich nem dazu auch nicht das lob</l>
+            <l>Deines Vatters so hochgeprisen/</l>
+            <l>Welcher/ Marschalck/ mit khüner prob</l>
+            <l>Seinem könig vil dienst erwisen:</l>
+            <l>In dir find ich ein ärnd reich gnug/</l>
+            <l>Davon ich dan mit gutem fug</l>
+            <l>Zusamen samle dise früchten/</l>
+            <l>Dir dises opfer zuzurichten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

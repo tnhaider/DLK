@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein Weltgericht.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">149</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">559</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein Weltgericht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Weltgeschichte ist das Weltgericht,</l>
+            <l>Doch kein Gericht für jeden Magen,</l>
+            <l>Denn solche derbe Speise würde nicht</l>
+            <l>Ein jeder Herr und Knecht vertragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum hat man viele Männer angestellt,</l>
+            <l>Die müssen's klopfen, kochen, braten,</l>
+            <l>Daß dies Gericht der ganzen Welt gefällt,</l>
+            <l>Zumal den hohen Potentaten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu haben ist es dann an jedem Ort,</l>
+            <l>Für Geld bekommt es leicht ein Jeder;</l>
+            <l>Mit einer Brühe giebt man's </l>
+            <l>Sogar auch wohl noch vom Katheder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist bereitet dann so excellent,</l>
+            <l>Daß man die Finger danach lecket;</l>
+            <l>Gesättigt rufen wir: potz Element!</l>
+            <l>Wie gut doch die Geschichte schmecket!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

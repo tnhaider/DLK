@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Johann Kepler.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">246</measure>
+        <measure type="tokens">147</measure>
+        <measure type="characters">907</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Johann Kepler.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gestern, als ich vom nächtlichen Lager den Stern mir</l>
+            <l>Lang' betrachtete, den dort mit dem röthlichen Licht,</l>
+            <l>Und des Mannes gedachte, der seine Bahnen zu messen,</l>
+            <l>Von dem Gotte gereizt, himmlischer Pflicht sich ergab,</l>
+            <l>Durch beharrlichen Fleiß der Armuth grimmigen Stachel</l>
+            <l>Zu versöhnen, umsonst, und zu verachten bemüht:</l>
+            <l>Mir entbrannte mein Herz von inniger Wehmuth; ach!</l>
+            <l>Wußten die Himmlischen dir, Meister, kein besseres</l>
+            <l>Wie ein Dichter den Helden sich wählt, wie Homer von</l>
+            <l>Göttlichem Adel gerührt, schön im Gesang ihn erhob.</l>
+            <l>Also wandtest du ganz die Kräfte nach jenem Gestirne,</l>
+            <l>Sein gewaltiger Gang war dir ein ewiges Lied.</l>
+            <l>Doch so bewegt sich kein Gott von seinem goldenen Sitze,</l>
+            <l>Holdem Gesange geneigt, den zu erretten, herab,</l>
+            <l>Dem die höhere Macht die dunkeln Tage bestimmt hat,</l>
+            <l>Und euch Sterne berührt nimmer ein Menschengeschick;</l>
+            <l>Ihr geht über dem Haupte des Weisen oder des Thoren</l>
+            <l>Euern seligen Weg ewig gelassen dahin!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

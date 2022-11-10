@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">38.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">510</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>38.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum ist Pfaffengeist so eng und dumpf und klein?</l>
+            <l>Weil geistlich vorzugsweis' er will ausschließlich seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lebendig ist der Geist, wo er im Leib verharrt;</l>
+            <l>Doch, wird er selbst ein Leib, ist er zum Tod erstarrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Sauerteiges kannst du nicht im Brot entbehren,</l>
+            <l>Doch magst du nicht allein von Sauerteig dich nähren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ist am Kohlgericht auch wol das Salz ersprießlich,</l>
+            <l>Doch ohne Kohl ein Salzgemüs' ist ungenießlich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ihr das Salz der Welt und Sauerteig wollt seyn,</l>
+            <l>So geht bescheiden als Bestandtheil in sie ein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

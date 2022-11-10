@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">3.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">645</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>3.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kann man sich auch ohn Gefahr zu den wilden Hauern wagen,</l>
+            <l>Die hier recht lebendig scheinen, und so scharfe Waffen tragen?</l>
+            <l>Ja, der eine schläft, der andre reibt sich grunzend; wag es nur,</l>
+            <l>Tritt nur näher, und beschaue die natürliche Figur</l>
+            <l>Dieser Thier, auch in den Bäumen, die leibhaftige Natur.</l>
+            <l>Schau den Stamm, der Riesen - förmig! scheint nicht seiner</l>
+            <l>Wie ihr Urbild, sich zu regen? Lust und Furcht scheint sich zu</l>
+            <l>In dem dick verwachsnen Busch. Wenn uns nun die Creatur</l>
+            <l>Eine Spur zum Schöpfer zeiget; zeigt die Kunst hier eine Spur,</l>
+            <l>Zu der Creaturen Heer. Folglich kann, zu Gott zu steigen,</l>
+            <l>Jedem, der sie recht gebraucht, sie die erste Sprosse zeigen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

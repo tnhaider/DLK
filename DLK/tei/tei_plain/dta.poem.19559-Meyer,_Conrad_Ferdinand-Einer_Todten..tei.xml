@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Einer Todten.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">117</measure>
+        <measure type="characters">681</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Einer Todten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie fühl' ich heute deine Macht,</l>
+            <l>Als ob sich deine Wimper schatte</l>
+            <l>Vor mir auf diesem ampelhellen Blatte</l>
+            <l>Um Mitternacht!</l>
+            <l>Dein Auge sieht</l>
+            <l>Begierig mein entstehend Lied.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Wesen neigt sich meinem zu,</l>
+            <l>Du bist's! Doch deine Lippen schweigen,</l>
+            <l>Und liesest du ein Wort, das zart und eigen,</l>
+            <l>Bist's wieder du,</l>
+            <l>Dein Herzensblut,</l>
+            <l>Indeß dein Staub im Grabe ruht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ist, wann mich dein Athem streift,</l>
+            <l>Der ich erstarkt an Kampf und Wunden,</l>
+            <l>Als seist in deinen stillen Grabestunden</l>
+            <l>Auch du gereift</l>
+            <l>An Liebeskraft,</l>
+            <l>An Willen und an Leidenschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Marmorurne setzten dir</l>
+            <l>Die Deinen — um dich zu vergessen,</l>
+            <l>Sie erbten, bauten, freiten unterdessen,</l>
+            <l>Du lebst in mir!</l>
+            <l>Wozu beweint?</l>
+            <l>Du lebst und fühlst mit mir vereint!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

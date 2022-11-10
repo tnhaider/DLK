@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Fragment</title>
+        <author>
+          <persName>
+            <surname>Götz</surname>
+            <forename>Nicolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1751</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Fragment</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Trägt ein Gefäß, in dem manch blasse Lilge steht,</l>
+            <l>In ihrer rechten Hand, geußt aus mit ihrer Linken,</l>
+            <l>Den Krug, von Zähren voll, die Gras und Blumen trinken.</l>
+            <l>Der West, der ihren Schlei'r, aus grauem Duft gewebt,</l>
+            <l>Vorwitzig, über halb, von ihrer Stirne hebt,</l>
+            <l>Zeigt ihr sonst lächelnd Aug', und rosenreiche Wangen,</l>
+            <l>Uns mit Verzweiflung itzt, und Traurigkeit umfangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Trägt ein Gefäß, in dem manch blasse Lilge steht,</l>
+            <l>In ihrer rechten Hand, geußt aus mit ihrer Linken,</l>
+            <l>Den Krug, von Zähren voll, die Gras und Blumen trinken.</l>
+            <l>Der West, der ihren Schlei'r, aus grauem Duft gewebt,</l>
+            <l>Vorwitzig, über halb, von ihrer Stirne hebt,</l>
+            <l>Zeigt ihr sonst lächelnd Aug', und rosenreiche Wangen,</l>
+            <l>Uns mit Verzweiflung itzt, und Traurigkeit umfangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

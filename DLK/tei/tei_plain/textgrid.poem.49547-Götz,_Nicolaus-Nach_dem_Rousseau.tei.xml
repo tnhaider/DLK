@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nach dem Rousseau</title>
+        <author>
+          <persName>
+            <surname>Götz</surname>
+            <forename>Nicolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">202</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">738</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1751</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nach dem Rousseau</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es setzt' in ihren alten Tagen</l>
+            <l>Cythere dich und mich zu gleichen Erben ein</l>
+            <l>Und gieng in ein Convent hinein.</l>
+            <l>Dem Amor aber ward die Theilung aufgetragen;</l>
+            <l>Doch er besorgte sie nicht fein:</l>
+            <l>Denn durch dein Augenpaar besiegt, das immer sieget,</l>
+            <l>Beschied er dir allein,</l>
+            <l>Was in der Gratien berühmten Gürtel lieget,</l>
+            <l>Reizt, überredet und vergnüget;</l>
+            <l>Und mir allein</l>
+            <l>Die Thränen und die Pein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es setzt' in ihren alten Tagen</l>
+            <l>Cythere dich und mich zu gleichen Erben ein</l>
+            <l>Und gieng in ein Convent hinein.</l>
+            <l>Dem Amor aber ward die Theilung aufgetragen;</l>
+            <l>Doch er besorgte sie nicht fein:</l>
+            <l>Denn durch dein Augenpaar besiegt, das immer sieget,</l>
+            <l>Beschied er dir allein,</l>
+            <l>Was in der Gratien berühmten Gürtel lieget,</l>
+            <l>Reizt, überredet und vergnüget;</l>
+            <l>Und mir allein</l>
+            <l>Die Thränen und die Pein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

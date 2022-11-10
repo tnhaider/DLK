@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ArISTARCHUS,  
+ SIVE DE CONTEMPTU LIN-  
+ GUÆ TEUTONIC Æ .</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">4</measure>
+        <measure type="verses_per_stanza">1-4</measure>
+        <measure type="syllables">42</measure>
+        <measure type="tokens">30</measure>
+        <measure type="characters">174</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ArISTARCHUS,  
+ SIVE DE CONTEMPTU LIN-  
+ GUÆ TEUTONIC Æ .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dieser Zeit nur der sterbliche dichtet/</l>
+            <l>Wie daß sein schatz sey heufftig zugerichtet/</l>
+            <l>Die Gottes furcht in dessen (ach der Noth!)</l>
+            <l>Entschlaffen ist/ so sie nicht gar ist Todt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

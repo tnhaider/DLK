@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z ehndes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">630</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z ehndes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„dir ist mein Sinn bewußt, du kennest mein Gemüth</l>
+            <l>„o GOtt! vor dem die Welt in Furcht und Demuth kniet.</l>
+            <l>255”Du zeigst es offenbar, daß du mein Haus beschüztest;</l>
+            <l>„den so gestürmten Thron durch Wunderwercke stüztest.</l>
+            <l>„du weißt es, wie beherzt wir nur auf dich gebaut,</l>
+            <l>„wie zuversichtlich wir uns deinem Arm vertraut.</l>
+            <l>„hat es an Menschen Hand, Verstand und Wiz gebrochen,</l>
+            <l>260”So ward ich an dem Stolz des Feinds durch dich gerochen.</l>
+            <l>„ich dancke dir darum, und zeig’ es offentlich</l>
+            <l>„so sehr, als deine Werck’ an mir verwunderlich.</l>
+            <l>„ich will auch nimmermehr von deinem Bund mich trennen,</l>
+            <l>„mach und verschaff, daß ich mich kann so standhaft nennen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

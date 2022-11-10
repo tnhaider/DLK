@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Herrn Hofrath C*</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Herrn Hofrath C*</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Liebling, unerquickt vom güldnen Sonnenlichte</l>
+            <l>Stund mit erstauntem Angesichte,</l>
+            <l>Dem Hoheit eines Gotts aus vielen Zügen sah,</l>
+            <l>Voll feuriger Entzückung, da:</l>
+            <l>Und Engel, Teufel, Himmel, Hölle</l>
+            <l>Vermischten, unverwirrt, sich an dem Fußgestelle.</l>
+            <l>Für ihn, den Deutschland halb vergöttert, halb ver-</l>
+            <l>dammt,</l>
+            <l>Für ihn und andre junge Britten,</l>
+            <l>Aus derer Augen selbst, wie oft aus ihren Sitten,</l>
+            <l>Was kühnes und fast wildes flammt;</l>
+            <l>Steigt soviel Weihrauch auf aus hundert Opferschaalen,</l>
+            <l>Daß dicker Wolken Dampf die alten Dichter deckt,</l>
+            <l>Verdunkelt, aber nicht befleckt:</l>
+            <l>Sie werden ewig schön mit reinem Glanze strahlen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

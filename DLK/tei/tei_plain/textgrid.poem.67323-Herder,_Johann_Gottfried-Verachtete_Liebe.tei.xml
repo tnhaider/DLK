@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verachtete Liebe</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">692</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1773</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verachtete Liebe</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Damon liebte Chloris; Chloris widerstand;</l>
+            <l>Doch da sie, je länger, ihn je treuer fand,</l>
+            <l>Gab sie kalt und prächtig sich in seinen Arm;</l>
+            <l>Damon's erste Liebe war so süß, so warm! –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Damon's erste Liebe ward allmählig alt;</l>
+            <l>Am eiskalten Herzen ward sein Herz ihm kalt.</l>
+            <l>Jetzt will Chloris buhlen. Zu grausamer Scherz!</l>
+            <l>Läßt es sich erbuhlen, ein verschmähtes Herz?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Damon liebte Chloris; Chloris widerstand;</l>
+            <l>Doch da sie, je länger, ihn je treuer fand,</l>
+            <l>Gab sie kalt und prächtig sich in seinen Arm;</l>
+            <l>Damon's erste Liebe war so süß, so warm! –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Damon's erste Liebe ward allmählig alt;</l>
+            <l>Am eiskalten Herzen ward sein Herz ihm kalt.</l>
+            <l>Jetzt will Chloris buhlen. Zu grausamer Scherz!</l>
+            <l>Läßt es sich erbuhlen, ein verschmähtes Herz?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

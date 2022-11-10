@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Weihnachtsbaum</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-7 4-8</measure>
+        <measure type="syllables">272</measure>
+        <measure type="tokens">192</measure>
+        <measure type="characters">1116</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Weihnachtsbaum</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von allen den Bäumen jung und alt,</l>
+            <l>Von allen den Bäumen groß und klein,</l>
+            <l>Von allen in unserm ganzen Wald,</l>
+            <l>Was mag doch der allerschönste sein?</l>
+            <l>Der schönste von allen weit und breit</l>
+            <l>Das ist doch allein, wer zweifelt dran?</l>
+            <l>Den heute mir bringt der Weihnachtsmann. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn Alles schon schläft in stiller Nacht,</l>
+            <l>Dann holet er ihn bei Sternenschein</l>
+            <l>Und schlüpfet, eh' einer sich's gedacht,</l>
+            <l>Gar heimlich damit ins Haus hinein.</l>
+            <l>Dann schmückt er mit Lichtern jeden Zweig,</l>
+            <l>Hängt Kuchen und Nüss' und Aepfel dran:</l>
+            <l>So macht er uns Alle freudenreich,</l>
+            <l>Der liebe, der gute Weihnachtsmann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von allen den Bäumen jung und alt,</l>
+            <l>Von allen den Bäumen groß und klein,</l>
+            <l>Von allen in unserm ganzen Wald,</l>
+            <l>Was mag doch der allerschönste sein?</l>
+            <l>Der schönste von allen weit und breit</l>
+            <l>Das ist doch allein, wer zweifelt dran?</l>
+            <l>Den heute mir bringt der Weihnachtsmann. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn Alles schon schläft in stiller Nacht,</l>
+            <l>Dann holet er ihn bei Sternenschein</l>
+            <l>Und schlüpfet, eh' einer sich's gedacht,</l>
+            <l>Gar heimlich damit ins Haus hinein.</l>
+            <l>Dann schmückt er mit Lichtern jeden Zweig,</l>
+            <l>Hängt Kuchen und Nüss' und Aepfel dran:</l>
+            <l>So macht er uns Alle freudenreich,</l>
+            <l>Der liebe, der gute Weihnachtsmann.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

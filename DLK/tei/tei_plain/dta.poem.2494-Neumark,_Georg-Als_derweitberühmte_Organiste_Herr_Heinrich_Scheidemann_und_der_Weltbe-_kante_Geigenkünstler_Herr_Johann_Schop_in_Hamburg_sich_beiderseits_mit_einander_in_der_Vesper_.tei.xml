@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Als derweitberühmte Organiste Herr  
+ Heinrich Scheidemann und der Weltbe-  
+ kante Geigenkünstler Herr Johann Schop in  
+ Hamburg sich beiderseits mit einander in  
+ der Vesper hören liessen.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">82</measure>
+        <measure type="tokens">53</measure>
+        <measure type="characters">326</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Als derweitberühmte Organiste Herr  
+ Heinrich Scheidemann und der Weltbe-  
+ kante Geigenkünstler Herr Johann Schop in  
+ Hamburg sich beiderseits mit einander in  
+ der Vesper hören liessen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bin ich denn im Geist' entzükk? welcher kan mein Hertz</l>
+            <l>so beugen</l>
+            <l>Durch so süsses Pfeiffenwerk? wessen ist der schöne Thon/</l>
+            <l>Der durch alle Sinnen dringt? bist du es Hipparchion</l>
+            <l>Und dein Mitgesell Rufin/ der mit einer sanffren Geigen</l>
+            <l>Das gekünstelt’ Orgelspiel noch beliebter machen kan?</l>
+            <l>Nein. Jhr seit zu schlecht darzu. </l>
+            <l>Scheidemann.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

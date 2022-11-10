@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von Melindens munde.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">685</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von Melindens munde.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allzugeringe faust! unwürdiges papier!</l>
+            <l>Ich weiß Melindens mund nicht lebhafft abzuschildern:</l>
+            <l>Es schickt mein pinsel sich nicht zu dergleichen bildern,</l>
+            <l>Und ein nur blasses blat faßt keine solche zier.</l>
+            <l>Es starrt, o schönster mund! so mund als hand vor dir,</l>
+            <l>Denn meine poesie will allbereits verwildern;</l>
+            <l>Doch dein gelinder kuß kan alle härte mildern:</l>
+            <l>Und wen dein othem rührt, der tritt getrost herfür.</l>
+            <l>Wohlan! so sey es denn: Die farbe deiner lippen</l>
+            <l>Steigt höher, als die pracht von den corallen-klippen,</l>
+            <l>Und wer im tode liegt, den macht ihr feuer frisch.</l>
+            <l>Zwar andern schlägt die brust weit eine süßre wunde;</l>
+            <l>Allein ich bin vergnügt, hab ich auf deinem munde,</l>
+            <l>Du andre Helena! nur einen freyen tisch.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

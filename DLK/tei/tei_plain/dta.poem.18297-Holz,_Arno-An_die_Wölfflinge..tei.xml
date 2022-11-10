@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Wölfflinge.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4</measure>
+        <measure type="syllables">117</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">449</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Wölfflinge.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allwöchentlich ein Buch von zwanzig Bogen!</l>
+            <l>Wir aber thun stets unsre alte Frage:</l>
+            <l>Habt ihr euch immer noch nicht ausgelogen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht, eure Herzen wickelt ihr in Watte</l>
+            <l>Und malt drauf zierlich: Vorsicht! Porzellan!</l>
+            <l>Und ist auch manches „Vater, Mensch und Gatte“,</l>
+            <l>Sein Lumpenpack ist jedenfalls im Thran.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, werft ins Feuer euer Flickenkleid,</l>
+            <l>Am nächsten Stein zertrümmert euern Psalter,</l>
+            <l>Denn uns „Modernen“ liegt die Bronzezeit</l>
+            <l>Wahrhaftig näher als das Mittelalter!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

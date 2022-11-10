@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Amor und sein Bruder.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">233</measure>
+        <measure type="tokens">155</measure>
+        <measure type="characters">923</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Amor und sein Bruder.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um die stille Mitternacht,</l>
+            <l>Wenn allein die Liebe wacht;</l>
+            <l>Wenn die schattenvolle Welt</l>
+            <l>Nur der hohe Mond erhellt:</l>
+            <l>Schlief die Nachbarinn Elmire;</l>
+            <l>Wenigstens ihr Alter schlief:</l>
+            <l>Als vor ihres Hauses Thüre</l>
+            <l>Cyperns Gottheit pocht’, und rief.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer ist hier? wer lärmt noch so?</l>
+            <l>Ach! mein güldner Traum entfloh!</l>
+            <l>Rief die Magd halbschlafend aus,</l>
+            <l>Gähnt’ und taumelte vors Haus.</l>
+            <l>Amor fleht’ in ihren Armen;</l>
+            <l>Und, wie alle Welt gesteht,</l>
+            <l>Muß ein Mädchen sich erbarmen,</l>
+            <l>Wann ein milder Amor fleht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhm wird willig aufgethan;</l>
+            <l>Und sein Bruder hängt sich an:</l>
+            <l>Halb bedeckt ein Epheü-Kranz</l>
+            <l>Seines güldnen Hornes Glanz.</l>
+            <l>Seine schlauen Blicke brennen;</l>
+            <l>Jede Sehne schwillt von Kraft:</l>
+            <l>Die ihn kennen wollen, nennen</l>
+            <l>Jhn den Gott der Hahnreyschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amor thut sogleich bekannt,</l>
+            <l>Lehnet an die nächste Wand</l>
+            <l>Seinen Bogen lachend hin,</l>
+            <l>Hüpft und ruft mit frohem Sinn:</l>
+            <l>Troz der fest verschlossnen Thüre,</l>
+            <l>Bruder! half ich dir herein.</l>
+            <l>Jung und feurig ist Elmire:</l>
+            <l>O sie wird nicht grausam seyn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

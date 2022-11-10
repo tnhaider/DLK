@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das freie Wort.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">241</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">913</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das freie Wort.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sollen Alle singen</l>
+            <l>Nach ihres Herzens Lust;</l>
+            <l>Doch </l>
+            <l>Ein Lied nur aus der Brust:</l>
+            <l>Ein Lied, um Dich zu preisen,</l>
+            <l>Du Nibelungenhort,</l>
+            <l>Du Brot und Stein der Weisen,</l>
+            <l>Du freies Wort!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Habt Ihr es nicht gelesen:</l>
+            <l>Das Wort war </l>
+            <l>Im Anfang ist's gewesen,</l>
+            <l>Und soll drum ewig sein.</l>
+            <l>Und eh' Ihr Einen Schläger</l>
+            <l>Erhebt zum Völkermord,</l>
+            <l>Sucht unsern Pannerträger,</l>
+            <l>Das freie Wort!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr habet zugeschworen</l>
+            <l>So treu dem Vaterland,</l>
+            <l>Doch seid Ihr All' verloren</l>
+            <l>Und haltet nimmer Stand,</l>
+            <l>So lang in West und Osten,</l>
+            <l>So lang in Süd und Nord</l>
+            <l>Das beste Schwert muß rosten,</l>
+            <l>Das freie Wort!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! es will finster werden,</l>
+            <l>Wohl finster überall,</l>
+            <l>Doch ist die Nacht auf Erden</l>
+            <l>Ja für die Nachtigall.</l>
+            <l>Heraus denn aus der Wolke,</l>
+            <l>Die, Sänger, Euch umflort;</l>
+            <l>Erst predigt Eurem Volke</l>
+            <l>Das freie Wort!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laßt Eure Adler fliegen,</l>
+            <l>Ihr Fürsten, in die Welt,</l>
+            <l>Und sie nicht müssig liegen</l>
+            <l>Auf Eurem Wappenfeld!</l>
+            <l>O jagt einmal die Raben</l>
+            <l>Aus unsern Landen fort,</l>
+            <l>Und sprecht: Ihr sollt es haben,</l>
+            <l>Das freie Wort!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

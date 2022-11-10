@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Schule.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">580</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Schule.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kinder! habt nur Lust zu lernen;</l>
+            <l>Seht! es fehlt euch nicht an Lehrern.</l>
+            <l>Feuer, Wasser, Luft und Erde,</l>
+            <l>Was ihr seht, und hört, und fühlet,</l>
+            <l>Alles kan euch unterrichten.</l>
+            <l>Halt nur erst den schönen Willen</l>
+            <l>Allem etwas abzulernen.</l>
+            <l>Lernet dann, und werdet klüger,</l>
+            <l>Lernt vom Löwen tapfer streiten;</l>
+            <l>Lernt vom Adler mutig fliegen;</l>
+            <l>Lernt vom Nautul künstlich schiffen;</l>
+            <l>Lernt vom Biber sicher bauen;</l>
+            <l>Lernt von Bienen Süßigkeiten,</l>
+            <l>Und von Spinnen feine Faden.</l>
+            <l>Lernt auch etwas vom Kaninchen!</l>
+            <l>Aber eh ihr etwas lernet,</l>
+            <l>Lernt von mir und meiner Schöne</l>
+            <l>Gut zu spielen, gut zu küssen:</l>
+            <l>Seht nur her! wir halten Schule.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

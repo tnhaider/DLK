@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vor ihrem Fenster.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4 6-5</measure>
+        <measure type="syllables">241</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">954</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vor ihrem Fenster.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vor deinem hellen Fenster still zu stehn!</l>
+            <l>Den Vorhang find' ich hoch hinaufgewunden,</l>
+            <l>Frei darf mein Blick in seinen Himmel sehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Blumen, die sich an die Rahmen schmiegen,</l>
+            <l>Umschlingen mir dein Bild mit ihrem Kranz,</l>
+            <l>Und meines Odems Hauche überfliegen</l>
+            <l>Mit trübem Nebelduft der Scheiben Glanz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sitzest du, so still und unbefangen,</l>
+            <l>Das schöne Haupt gestützt auf deinen Arm,</l>
+            <l>Und ich bin dir so nah mit Lust und Bangen,</l>
+            <l>Mit meiner Wünsche ungestümem Schwarm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du schauest her: es wissen deine Augen</l>
+            <l>Vom süßen Zauber ihrer Blicke nicht,</l>
+            <l>Wie meine sich aus ihnen trunken saugen,</l>
+            <l>Und hell erglühen nur von ihrem Licht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du ahnest nicht, wie sich mein ganzes Leben</l>
+            <l>Gleich einem Mond um deine Sonne dreht,</l>
+            <l>Der bald sich will auf stolzen Strahlen heben,</l>
+            <l>Bald tief gebeugt in Thränen untergeht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Still, still, mein Herz! Was meint dein wildes</l>
+            <l>Schlagen?</l>
+            <l>Schau über dich, der Himmel ist nicht fern;</l>
+            <l>Und Flammen, die aus Sternen fallen, tragen</l>
+            <l>Der Menschen Seufzer vor den Thron des Herrn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

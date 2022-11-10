@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">31</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8 4-8</measure>
+        <measure type="syllables">324</measure>
+        <measure type="tokens">219</measure>
+        <measure type="characters">1276</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und singen dich noch immer an, o Lenz,</l>
+            <l>Doch da dein Zauber nun auch mich bezwungen,</l>
+            <l>Meld ich mich auch zur großen Concurrenz.</l>
+            <l>Doch fürcht ich fast, ich bin dir zu prosaisch,</l>
+            <l>Aus meinen Versen sprüht kein Fünkchen Geist;</l>
+            <l>Und denk ich gar an deinen Dichter Kleist,</l>
+            <l>Klingt meine Sprache mir fast wie Havaïsch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Veilchenduft versetzt mich in Extase</l>
+            <l>Denn ach, ich bin ein Epigone nur;</l>
+            <l>Nie trank ich Wein aus einem Wasserglase</l>
+            <l>Und nüchtern bin ich bis zur Unnatur.</l>
+            <l>Der Tonfall meiner lyrischen Collegen</l>
+            <l>Ist mir ein unverstandner Dialect,</l>
+            <l>Denn meinen Reim hat die Kultur beleckt</l>
+            <l>Und meine Muse wallt auf andern Wegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ins Waldversteck verirrt sie sich nur selten,</l>
+            <l>Die blaue Blume ist ihr längst verblüht;</l>
+            <l>Doch zieht die Ahnung neugeborner Welten</l>
+            <l>Ihr süßer als ein Märchen durchs Gemüth.</l>
+            <l>Zur Armuth tritt sie hin und zählt die Groschen,</l>
+            <l>Ihr rothes Banner pflanzt sie in den Streit,</l>
+            <l>An ihr Herz schlägt das große Herz der Zeit</l>
+            <l>Und aller Weltschmerz scheint ihr abgedroschen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch heute singt sie, was ihr längst verboten,</l>
+            <l>Mir scheint, dein Lächeln hat sie mir behext,</l>
+            <l>Und unter deine altbekannten Noten</l>
+            <l>Schreibt sie begeistert einen neuen Text.</l>
+            <l>Die Flur ergrünt und bläulich blüht der Flieder,</l>
+            <l>Ich aber leire meine Lenzmusik</l>
+            <l>Und lachend schon vernehm ich die Kritik:</l>
+            <l>Das denkt und singt ja wie ein Seifensieder!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

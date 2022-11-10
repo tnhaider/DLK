@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mein Stern.</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">238</measure>
+        <measure type="tokens">158</measure>
+        <measure type="characters">908</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mein Stern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um meine wunde Brust geschlagen</l>
+            <l>Den Mantel der Melancholei,</l>
+            <l>Flog ich, vom Lebenssturm getragen,</l>
+            <l>An dir, du Herrliche, vorbei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Himmel deiner Augen stiegen</l>
+            <l>Wie Engel Thränen niederwärts</l>
+            <l>An deinen holdgerührten Zügen,</l>
+            <l>Und priesen mir dein gutes Herz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und alle Welten um mich schwanden,</l>
+            <l>Mein Leben starrt' in seinem Lauf,</l>
+            <l>Im süßempörten Busen standen</l>
+            <l>Die alten Götter wieder auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da riß der Sturm von dir mich wieder</l>
+            <l>Hinaus in seine wüste Nacht,</l>
+            <l>Doch strahlt nun Frieden auf mich nieder</l>
+            <l>Ein Stern mit ewig heller Pracht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn wie, vom Tode schon umfangen,</l>
+            <l>Der Jüngling nach der holden Braut</l>
+            <l>Die Arme streckt mit Glutverlangen,</l>
+            <l>Und sterbend ihr ins Auge schaut:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So griff nach deinem holden Bilde</l>
+            <l>Die Seele, schaut es ewig an,</l>
+            <l>Sieht nichts vom trüben Erdgefilde,</l>
+            <l>Fühlt nicht die Dornen ihrer Bahn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entriss' auch einst der Tod mir strenge,</l>
+            <l>Was mir das Leben Liebes gab;</l>
+            <l>Er nehm' es hin! doch Eines ränge —</l>
+            <l>Ich ränge kühn dein Bild ihm ab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

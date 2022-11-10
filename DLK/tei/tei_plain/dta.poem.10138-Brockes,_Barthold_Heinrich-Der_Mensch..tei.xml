@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Mensch.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">546</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Mensch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann willst du, armer Mensch, von dieser Sucht ge-</l>
+            <l>nesen,</l>
+            <l>Von dem Gewohnheits-Staar, von diesem Seelen-Gift?</l>
+            <l>Jm Buch der Welt verlangt fast gar kein Mensch zu lesen,</l>
+            <l>Wie schön der Inhalt gleich, wie herrlich seine Schrift.</l>
+            <l>Durch Gold-Staub, womit hier und dort die Schrift be</l>
+            <l>streuet,</l>
+            <l>Wird er, der eitle Thor, nicht durch die Schrift, erfreuet.</l>
+            <l>Dieß, wie ein thöricht Kind, sucht er nur abzuschaben,</l>
+            <l>Nur hiervon will er viel in seinem Beutel haben:</l>
+            <l>Und GOTTES Herrlichkeit, Licht, Liebe, Weisheit,</l>
+            <l>Macht,</l>
+            <l>Wovon das Welt-Buch zeugt, das lässt er aus der Acht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

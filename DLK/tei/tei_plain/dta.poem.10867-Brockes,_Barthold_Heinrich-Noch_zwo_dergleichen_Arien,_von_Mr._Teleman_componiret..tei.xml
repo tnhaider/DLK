@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Noch zwo dergleichen  Arien,  
+ von Mr. Teleman componiret.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">7</measure>
+        <measure type="verses_per_stanza">1-7</measure>
+        <measure type="syllables">53</measure>
+        <measure type="tokens">31</measure>
+        <measure type="characters">210</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Noch zwo dergleichen  Arien,  
+ von Mr. Teleman componiret.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In den bunt beblühmten Feldern,</l>
+            <l>In den schattenreichen Wäldern,</l>
+            <l>Herrscht, in stiller Einsamkeit,</l>
+            <l>Unschuld und Zufriedenheit.</l>
+            <l>Fern vom städtischen Getümmel,</l>
+            <l>Als in einem irdschen Himmel,</l>
+            <l>Find ich hier die güldne Zeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

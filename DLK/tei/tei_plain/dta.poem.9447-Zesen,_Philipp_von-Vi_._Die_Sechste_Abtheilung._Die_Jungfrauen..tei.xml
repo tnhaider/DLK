@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi .  
+ Die Sechste Abtheilung.  
+ Die Jungfrauen.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">86</measure>
+        <measure type="tokens">53</measure>
+        <measure type="characters">305</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi .  
+ Die Sechste Abtheilung.  
+ Die Jungfrauen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich eylte zum Garten und wolte mich letzen/</l>
+            <l>Ich schaute die Nüsse/ die liebliche Bach/</l>
+            <l>Ich wolte mein Hertze mit Reben ergötzen/</l>
+            <l>Mit lieblichen äpfeln/ ich eylte gemach;</l>
+            <l>Kont aber nicht wissen/</l>
+            <l>Wie daß ich gerissen</l>
+            <l>Zuricke von dar/</l>
+            <l>Es hatt mich getragen</l>
+            <l>Amminadabs wagen;</l>
+            <l>Nun seh’ ich die Pferde/ das hurtige paar.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

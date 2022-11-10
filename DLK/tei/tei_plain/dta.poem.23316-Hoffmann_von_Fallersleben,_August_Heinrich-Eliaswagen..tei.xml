@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eliaswagen.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">460</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eliaswagen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll es erst die Nachwelt sagen,</l>
+            <l>Was die Mitwelt hat gedacht?</l>
+            <l>Soll kein Herz zu sagen wagen</l>
+            <l>Was ihm Leid und Freude macht?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nein, ihr wagt nicht mal zu sagen</l>
+            <l>Und ihr habt's doch oft gedacht:</l>
+            <l>Daß das fünfte Rad am Wagen</l>
+            <l>Ist Europas fünfte Macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fünftes Rad, fürwahr, du solltest</l>
+            <l>Ein Eliaswagen sein!</l>
+            <l>Fünfte Macht, wenn du es wolltest —</l>
+            <l>Und Europa wäre dein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich weiter könnte sagen,</l>
+            <l>Darauf laß ich mich nicht ein;</l>
+            <l>Läßt man doch in unsern Tagen</l>
+            <l>Nur zu gern fünf grade sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

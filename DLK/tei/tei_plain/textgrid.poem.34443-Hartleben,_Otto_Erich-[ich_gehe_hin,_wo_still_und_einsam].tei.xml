@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[ich gehe hin, wo still und einsam]</title>
+        <author>
+          <persName>
+            <surname>Hartleben</surname>
+            <forename>Otto Erich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">510</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[ich gehe hin, wo still und einsam]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich gehe hin, wo still und einsam</l>
+            <l>ich deiner nur gedenken kann,</l>
+            <l>bis deiner Augen, deiner Worte,</l>
+            <l>bis ich mich deiner ganz entsann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Blick hängt an den fernen Bergen</l>
+            <l>und wandert mit der Wolken Heer,</l>
+            <l>bis ich vergesse dieses Leben,</l>
+            <l>vergesse, dass es öd und leer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich gehe hin, wo still und einsam</l>
+            <l>ich deiner nur gedenken kann,</l>
+            <l>bis deiner Augen, deiner Worte,</l>
+            <l>bis ich mich deiner ganz entsann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Blick hängt an den fernen Bergen</l>
+            <l>und wandert mit der Wolken Heer,</l>
+            <l>bis ich vergesse dieses Leben,</l>
+            <l>vergesse, dass es öd und leer.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">E ilftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">141</measure>
+        <measure type="characters">836</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>E ilftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„oft hat der Feinde Wiz der Freunde Sinn entzweyt,</l>
+            <l>„so daß sie lieber sich dem Feind, als uns geweiht;</l>
+            <l>„ja gar das Krieges-Schwert mit Freundes Blut beflecket,</l>
+            <l>80”Mit eignen Leichen selbst das Vaterland bedecket.</l>
+            <l>„die List verblendte sie; sie führten manchen Streich,</l>
+            <l>„und wurden nicht gewahr, daß sie das eigne Reich</l>
+            <l>„mehr als des Feindes Land durch solche That getroffen;</l>
+            <l>„daß ihnen nichts dafür, als eigner Fall zu hoffen.</l>
+            <l>85”Sie sahen nicht daß es der Feinde Vortheil sey,</l>
+            <l>„wann die Vereinigung des Vaterlands entzwey;</l>
+            <l>„viel weniger, wie sie Ruhm, Ehr und Kräfte schwächen,</l>
+            <l>„und zum Behuf des Feinds der Lanze Spize brechen,</l>
+            <l>„wann zwischen ihnen nichts als Zwist und Trennung glim̃t:</l>
+            <l>90”Der mit des Feindes Rath, der mit den Freunden stimmt.</l>
+            <l>„ja daß sie mit Gewalt nur nach den Ketten streben,</l>
+            <l>„die manchem schon so lang an Händ und Füssen kleben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

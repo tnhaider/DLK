@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Lida</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">748</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1781</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Lida</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Einzigen, Lida, welchen du lieben kannst,</l>
+            <l>Forderst du ganz für dich, und mit Recht.</l>
+            <l>Auch ist er einzig dein.</l>
+            <l>Denn seit ich von dir bin,</l>
+            <l>Scheint mir des schnellsten Lebens</l>
+            <l>Lärmende Bewegung</l>
+            <l>Nur ein leichter Flor, durch den ich deine Gestalt</l>
+            <l>Immerfort wie in Wolken erblicke:</l>
+            <l>Sie leuchtet mir freundlich und treu,</l>
+            <l>Wie durch des Nordlichts bewegliche Strahlen</l>
+            <l>Ewige Sterne schimmern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Einzigen, Lida, welchen du lieben kannst,</l>
+            <l>Forderst du ganz für dich, und mit Recht.</l>
+            <l>Auch ist er einzig dein.</l>
+            <l>Denn seit ich von dir bin,</l>
+            <l>Scheint mir des schnellsten Lebens</l>
+            <l>Lärmende Bewegung</l>
+            <l>Nur ein leichter Flor, durch den ich deine Gestalt</l>
+            <l>Immerfort wie in Wolken erblicke:</l>
+            <l>Sie leuchtet mir freundlich und treu,</l>
+            <l>Wie durch des Nordlichts bewegliche Strahlen</l>
+            <l>Ewige Sterne schimmern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Allgemeines .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">603</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Allgemeines .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herr Jesus, der die Welt durchwandert,</l>
+            <l>Ging einst an einem Markt vorbey,</l>
+            <l>Ein todter Hund lag auf dem Wege,</l>
+            <l>Geschleppet vor des Hauses Thor,</l>
+            <l>Ein Haufe stand ums Aas umher</l>
+            <l>Wie Geyer sich um Aeser sammlen.</l>
+            <l>Der Eine sprach: mir wird das Hirn</l>
+            <l>Von dem Gestank ganz ausgelöscht.</l>
+            <l>Der Andere sprach: was braucht es viel</l>
+            <l>Der Gräber Auswurf bringt nur Unglück.</l>
+            <l>So sang ein Jeder seine Weise,</l>
+            <l>Des todten Hundes Leib zu schmähen.</l>
+            <l>Als nun an Jesus kam die Reih’,</l>
+            <l>Sprach, ohne Schmäh’n, er guten Sinns,</l>
+            <l>Er sprach aus gütiger Natur:</l>
+            <l>Die Zähne sind wie Perlen weiss.</l>
+            <l>Dies Wort macht den Umstehenden,</l>
+            <l>Durchglühten Muscheln ähnlich, heiss.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

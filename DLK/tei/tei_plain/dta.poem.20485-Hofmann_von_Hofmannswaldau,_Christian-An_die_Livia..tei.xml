@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Livia.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">218</measure>
+        <measure type="tokens">149</measure>
+        <measure type="characters">872</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Livia.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Macht kein funcke meiner flammen/</l>
+            <l>Livia/ dir einen brand?</l>
+            <l>Tausend schlagen offt zusammen/</l>
+            <l>Keiner nimmt doch überhand.</l>
+            <l>Du must kälter mir zur pein</l>
+            <l>Als ein Salamander seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich gedachte/ daß das plitzen/</l>
+            <l>So aus deinen augen steigt/</l>
+            <l>Auch im hertzen müste sitzen/</l>
+            <l>Und aus hitze wär erzeugt;</l>
+            <l>So ist es cometen-licht/</l>
+            <l>Dessen strahl nur frost verspricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn mein brand denn nicht gewinnet/</l>
+            <l>Muß der nasse zunder dran/</l>
+            <l>Der aus meinen augen rinnet/</l>
+            <l>Und versuchen/ was er kan.</l>
+            <l>Wird doch glut durch flut erweckt/</l>
+            <l>Wenn das wasser kalck ansteckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! so werde durch mein weinen/</l>
+            <l>Livia/ von flammen reich;</l>
+            <l>Doch du must auch lieblich scheinen/</l>
+            <l>Sey der reinen sonne gleich/</l>
+            <l>Die den thau/ den sie gebracht/</l>
+            <l>Augenblicks zu asche macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir sey meine qvaal befohlen/</l>
+            <l>Lesche die entbrannte pein!</l>
+            <l>Deine glut soll meinen kohlen</l>
+            <l>Ein schnee-kaltes wasser seyn.</l>
+            <l>Wo dein eiß noch länger währt/</l>
+            <l>Bin ich bald in staub verkehrt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

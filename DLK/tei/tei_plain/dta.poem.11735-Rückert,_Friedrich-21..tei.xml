@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">21.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">191</measure>
+        <measure type="tokens">148</measure>
+        <measure type="characters">833</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>21.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr närr'schen Dichter, die ihr scheltet die Natur,</l>
+            <l>Und sie zu schelten nehmt aus ihr die Bilder nur!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn Musen sonst aus Lärm die Einsamkeit gesucht,</l>
+            <l>Nehmt ihr vom Land zur Stadt die umgekehrte Flucht;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hängt um die Poesie des Staates Flitterstaat,</l>
+            <l>Statt jener Unschuld, die im Paradies auftrat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht dort nur hin, wo längst schon steht das Ideal,</l>
+            <l>Das ihr hier bauen wollt; sprecht: wo ist Lust? wo Qual?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist hier die Wiese kahl? ist hier der Bach nur schmal?</l>
+            <l>Sie glänzen doch, sei's nun von Früh- von Abendstral.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenns hier ist kahl und schmal, so ists dort schal und fahl,</l>
+            <l>Dort wo ihr jetzt noch seht nur höchstes Ideal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht hin zur Stadt im Sumpf, zur Stadt im Kohlendampf,</l>
+            <l>Und kämpft für Erdenheil, für Erdlicht euern Kampf!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier laßt die heitre Lust für Weltheil, Gottlicht kämpfen;</l>
+            <l>Die Heiterkeit sollt ihr mit Koth und Dampf nicht dämpfen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

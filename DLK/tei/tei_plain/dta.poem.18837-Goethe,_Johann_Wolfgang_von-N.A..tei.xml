@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">504</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Kaiser hatte zwey Cassire,</l>
+            <l>Einen zum Nehmen, einen zum Spenden;</l>
+            <l>Diesem fiel’s nur so aus den Händen,</l>
+            <l>Jener wusste nicht woher zu nehmen.</l>
+            <l>Der Spendende starb, der Herrscher wusste nicht</l>
+            <l>gleich,</l>
+            <l>Wem das Geber-Amt sey anzuvertrauen,</l>
+            <l>Und wie man kaum thät um sich schauen,</l>
+            <l>So war der Nehmer unendlich reich,</l>
+            <l>Man wusste kaum vor Gold zu leben,</l>
+            <l>Weil man Einen Tag nichts ausgegeben.</l>
+            <l>Da ward nun erst dem Kaiser klar</l>
+            <l>Was Schuld an allem Unheil war.</l>
+            <l>Den Zufall wusst’ er wohl zu schätzen</l>
+            <l>Nie wieder die Stelle zu besetzen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

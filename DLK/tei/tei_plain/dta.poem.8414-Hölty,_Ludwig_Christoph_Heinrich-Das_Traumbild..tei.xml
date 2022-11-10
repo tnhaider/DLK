@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Traumbild.</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">31</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8 4-8</measure>
+        <measure type="syllables">233</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">893</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Traumbild.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als ich im Garten träumte,</l>
+            <l>Ins Haar den Rosmarin mir wand,</l>
+            <l>Der um mein Lager keimte?</l>
+            <l>Wo bist du, Bild, das vor mir stand,</l>
+            <l>Mir in die Seele blickte,</l>
+            <l>Und eine warme Mädchenhand</l>
+            <l>Mir an die Wangen drückte?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun such' ich dich, mit Harm erfüllt,</l>
+            <l>Bald bei des Dorfes Linden,</l>
+            <l>Bald in der Stadt, geliebtes Bild,</l>
+            <l>Und kann dich nirgends finden.</l>
+            <l>Nach jedem Fenster blick' ich hin,</l>
+            <l>Wo nur ein Schleier wehet,</l>
+            <l>Und habe meine Lieblingin</l>
+            <l>Noch nirgends ausgespähet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm selber, süsses Bild der Nacht,</l>
+            <l>Komm mit den Engelminen,</l>
+            <l>Und in der leichten Schäfertracht,</l>
+            <l>Worin du mir erschienen!</l>
+            <l>Bring mit die schwanenweisse Hand,</l>
+            <l>Die mir das Herz gestolen,</l>
+            <l>Das purpurrothe Busenband,</l>
+            <l>Das Sträusschen von Violen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein grosses blaues Augenpaar,</l>
+            <l>Woraus ein Engel blickte;</l>
+            <l>Die Stirne, die so freundlich war,</l>
+            <l>Und guten Abend nickte;</l>
+            <l>Den Mund, der Liebe Paradies,</l>
+            <l>Die kleinen Wangengrübchen,</l>
+            <l>Wo sich der Himmel offen wies,</l>
+            <l>Bring alles mit, mein Liebchen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

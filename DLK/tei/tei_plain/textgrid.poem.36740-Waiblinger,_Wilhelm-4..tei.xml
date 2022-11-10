@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">4.</title>
+        <author>
+          <persName>
+            <surname>Waiblinger</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">116</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">446</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1817</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>4.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Traurige Zeit, es ist wahr, die griechische Kunst war dem Leben</l>
+            <l>Nah', und es borgte der Gott sich von dem Menschen die Form.</l>
+            <l>Aber vorüber ist's nun, Canova's Götter, sie lernten</l>
+            <l>Nur die Tanzkunst der Zeit, die Toilette nur ab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Traurige Zeit, es ist wahr, die griechische Kunst war dem Leben</l>
+            <l>Nah', und es borgte der Gott sich von dem Menschen die Form.</l>
+            <l>Aber vorüber ist's nun, Canova's Götter, sie lernten</l>
+            <l>Nur die Tanzkunst der Zeit, die Toilette nur ab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

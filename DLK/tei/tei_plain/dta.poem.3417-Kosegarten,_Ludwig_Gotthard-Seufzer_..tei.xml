@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Seufzer .</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-5</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">485</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193292"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Seufzer .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sey mir gegr&amp;#252;sst in meinem stillen Grame,</l>
+            <l>Mein mondversilbertes Gemach!</l>
+            <l>In dir belauschet mich kein Ohr, wenn Idens Name</l>
+            <l>Der blöden Lipp' entquillt, und niemand höhnt</l>
+            <l>mein Ach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von deinen weissen mondbestrahlten Mauern</l>
+            <l>Der Welt und dem Gewühl verhehlt,</l>
+            <l>Will ich in Einsamkeit die öde Zeit vertrauern,</l>
+            <l>Wo Ida meinem Herzen fehlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dir will ich allein mit meinem Sehnen,</l>
+            <l>Allein mit meinem Kummer seyn;</l>
+            <l>Und Iden, Iden soll mein Träumen und mein</l>
+            <l>Wähnen,</l>
+            <l>Mein Denken und mein Dichten heilig seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

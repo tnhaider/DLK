@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das dritte Buch.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-22</measure>
+        <measure type="syllables">274</measure>
+        <measure type="tokens">185</measure>
+        <measure type="characters">1069</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198429"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das dritte Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie ein verschloßner Wind, wann er gewinnet Luft,</l>
+            <l>Bricht loß mit Ungestüm aus der verschloßnen Kluft;</l>
+            <l>So gieng es auch allhie. Des Königs Trauerwesen,</l>
+            <l>Das da in dieser Zeit war wie versperrt gewesen,</l>
+            <l>In eingebildter Ruh, in fürgemalter Ehr,</l>
+            <l>Brach plötzlich wieder aus und tobete daher.</l>
+            <l>Ja wie ein trüb Gewülck den Himmel schnell beziehet,</l>
+            <l>So daß die helle Sonn im Augenblick entfliehet,</l>
+            <l>So trieben diese Wort auf einmahl hin die Lust.</l>
+            <l>Ein trüber dunckler Schein erwiese, wie entrust</l>
+            <l>Des Königs Hertze war; das hube an zu springen,</l>
+            <l>Ein Eiferfeur erhitzt die Augen daß sie dringen</l>
+            <l>Mit Grimm auf Michal zu: die nimmt es nicht in Acht,</l>
+            <l>Sie ist in Unschuld nur auf Davids Lob bedacht.</l>
+            <l>Das Lied wird wiederholt, es geht in beyden Choren</l>
+            <l>Zwar lieblich, aber doch in Sauls gespitzten Ohren</l>
+            <l>Schallt es erschrecklich hin; der schaut mit Unmuth an</l>
+            <l>Die Ehr die David wird erzeigt von jedermann.</l>
+            <l>Jedoch daß keiner nicht mög diese Schwachheit mercken,</l>
+            <l>Erholet er sich bald; sein Fürsatz kan ihn stärcken,</l>
+            <l>Wie er sich rächen woll; drauf grüst er alle Schaar</l>
+            <l>So Haufenweiß am Thor der Stadt versammelt war.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

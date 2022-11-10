@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Eigenschafften der  
+ Materie.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">467</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Eigenschafften der  
+ Materie.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man theile sie darauf in tausend Theil aufs neu.</l>
+            <l>Der allerkleinste Theil, den man erdencken kan,</l>
+            <l>Ist eben den Gesetzen unterthan;</l>
+            <l>Man merckt, daß der auch fast unendlich theilbar sey.</l>
+            <l>Von allen diesen Theilen nun</l>
+            <l>Entsteht ein Schluß,</l>
+            <l>Den jederman gestehen muß,</l>
+            <l>Daß auch darinn so viel Figuren ruhn.</l>
+            <l>Und ob man gleich nicht deutlich zeigen kan,</l>
+            <l>Wie die Particuln die so klein,</l>
+            <l>In sich selbst unterschieden seyn;</l>
+            <l>So trifft jedennoch jedermann</l>
+            <l>Unleugbar die Figur in einer jeden an.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

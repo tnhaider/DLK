@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf ihr Angesichte.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">97</measure>
+        <measure type="tokens">56</measure>
+        <measure type="characters">391</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf ihr Angesichte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Angesicht dem lichten Himmel gleichet</l>
+            <l>Das Augen-Paar mit sanfften Strahlen blitzt!</l>
+            <l>Und </l>
+            <l>Das Wolcken-Feld den glatten Wangen weichet;</l>
+            <l>Es übertrifft/ des Himmels klahres Licht/</l>
+            <l>Dein Angesicht.</l>
+            <l>Der Purpur-Schein der ungeschminckten Wangen</l>
+            <l>Der sticht hinweg </l>
+            <l>Das Abend-Roth verliehret Pracht und Glantz</l>
+            <l>Vor den Rubin/ damit die Lippen prangen.</l>
+            <l>Den Himmel läst nicht Obermeister seyn</l>
+            <l>Der Purpur-Schein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

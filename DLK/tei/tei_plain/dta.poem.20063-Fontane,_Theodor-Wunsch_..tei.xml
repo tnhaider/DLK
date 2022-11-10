@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wunsch .</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">143</measure>
+        <measure type="characters">774</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wunsch .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wollte, daß in Sturmesnacht</l>
+            <l>Die Mutter mich zur Welt gebracht,</l>
+            <l>Daß auf das Blitzen rings umher</l>
+            <l>Mein erster Blick gefallen wär’.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wollte, daß sie nackt und bloß</l>
+            <l>Gebettet mich in Laub und Moos,</l>
+            <l>Daß Sturm und Donner um die Wett’</l>
+            <l>Mein Wiegenlied gesungen hätt’.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wollte, daß der Hirsch im Tann</l>
+            <l>Mein Spielgenoß als Knabe dann,</l>
+            <l>Daß, über mir, der Sterne Heer</l>
+            <l>Die Bibel mein gewesen wär’.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Auge hell, im Arme Mark,</l>
+            <l>Frisch wie der Quell, wie Eichen stark,</l>
+            <l>So wär’ ich in das Leben dann</l>
+            <l>Getreten als ein ganzer Mann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Busen lebte mir die Kraft,</l>
+            <l>Die Thaten statt der Lieder schafft,</l>
+            <l>Nicht länger säß der gute Will’</l>
+            <l>Im Winkel drinnen, fromm und still.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O wär’ ich stark! nah ist der Streit,</l>
+            <l>Und ganze Männer heischt die Zeit; —</l>
+            <l>Ich wollte, daß in Sturmesnacht</l>
+            <l>Die Mutter mich zur Welt gebracht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

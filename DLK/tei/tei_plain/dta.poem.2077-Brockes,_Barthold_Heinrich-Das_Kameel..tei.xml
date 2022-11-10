@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Kameel.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">533</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Kameel.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gegen Pferde trefflich nützt; Ueberdas durch schnelles</l>
+            <l>Laufen,</l>
+            <l>Wozu sichs gewehnen läßt, ungemeinen Vortheil</l>
+            <l>schafft,</l>
+            <l>Weil es durch den starken Knocher und der zähen Ner-</l>
+            <l>ven Kraft</l>
+            <l>Fast nicht zu ermüden ist, welches nützlich auf der</l>
+            <l>Reise.</l>
+            <l>Seine süße Milch ist trinkbar, gleichfalls dient sein Fleisch</l>
+            <l>zur Speise.</l>
+            <l>Auch verspürt man, daß von ihm manches Theil zur Ar-</l>
+            <l>zeney,</l>
+            <l>Aeußerlich und innerlich, heilsam zu gebrauchen sey.</l>
+            <l>Daß denn nun für dieses, Thier auch das menschliche</l>
+            <l>Geschlechte</l>
+            <l>Dem, der es für ihn erschaffen, ehrerbietig danken</l>
+            <l>möchte!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

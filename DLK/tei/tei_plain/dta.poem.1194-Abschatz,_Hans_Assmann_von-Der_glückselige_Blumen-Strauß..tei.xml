@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der glückselige Blumen-Strauß.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">181</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">688</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der glückselige Blumen-Strauß.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amor selbst brach diese Blumen/ wo Aurora sammlet ein</l>
+            <l>Ihre Näglein/ ihre Rosen/ die bey frühem Tages-Schein</l>
+            <l>An dem blauen Himmel gläntzen/</l>
+            <l>Und ihr schönes Haubt bekräntzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schöne Blumen/ Preiß der Gärten/ welche Florens Hand ge-</l>
+            <l>Daß sie von so schönen Händen solten werden angerührt/</l>
+            <l>Wie beglückt seyd ihr für allen</l>
+            <l>Amaranthen zu gefallen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwar eur Glantz wird müssen sterben in der Rimphe schönen</l>
+            <l>Aber tausend Hertzen wünschten ihnen derogleichen Stand/</l>
+            <l>Würden willig Geist und Leben</l>
+            <l>Ihr zum treuen Opffer geben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>War nicht diß ein schöner Garten/ der euch erst das Leben gab?</l>
+            <l>Werden nicht die schönsten Finger dieser Welt euch Bahr und</l>
+            <l>Wer will nicht/ wie ihr/ verderben/</l>
+            <l>Und so schönen Todes sterben!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

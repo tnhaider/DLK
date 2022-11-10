@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An meine Mutter.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">129</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">493</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1860</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191007"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An meine Mutter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So gern h&amp;#228;tt' ich ein schönes Lied gemacht,</l>
+            <l>Von deiner Liebe, deiner treuen Weise,</l>
+            <l>Die Gabe, die für Andre immer wacht,</l>
+            <l>Hätt’ ich so gern geweckt zu deinem Preise.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wie ich auch gesonnen mehr und mehr,</l>
+            <l>Und wie ich auch die Reime mochte stellen,</l>
+            <l>Des Herzens Fluthen wallten drüber her,</l>
+            <l>Zerstörten mir des Liedes zarte Wellen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So nimm die einfach schlichte Gabe hin,</l>
+            <l>Von einfach ungeschmücktem Wort getragen,</l>
+            <l>Und meine ganze Seele nimm darin;</l>
+            <l>Wo man am meisten fühlt, weiß man nicht viel zu sagen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

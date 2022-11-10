@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sommer-Gedicht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">27</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-4 5-6</measure>
+        <measure type="syllables">235</measure>
+        <measure type="tokens">153</measure>
+        <measure type="characters">908</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sommer-Gedicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Segen-schwangeren Alleen</l>
+            <l>Der häufig aufgethürmten Hocken,</l>
+            <l>Von Gersten, Haber, Weizen, Rocken,</l>
+            <l>Sind itzt, wie sie so zierlich stehen,</l>
+            <l>In langen Linien zu sehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn wir darinn spatzieren gehen,</l>
+            <l>So laßt uns, mit gerührter Brust,</l>
+            <l>Doch Dessen Macht und Lieb’ erhöhen,</l>
+            <l>Der, uns zum Nutzen und zur Lust,</l>
+            <l>Um Seine Lieb’ und Macht zu fassen,</l>
+            <l>So schön Getrayde wachsen lassen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach GOtt! hier seh’ ich, Dir zum Preise,</l>
+            <l>Wie, aus der Erden, unsre Speise</l>
+            <l>Durch Deine Macht und Liebe quillt!</l>
+            <l>Ach GOtt! wie ist von Deinem Segen,</l>
+            <l>Durch Saamen, Sonnen-Schein und Regen,</l>
+            <l>Der Erden obre Fläch’ erfüllt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohin wir unsre Blicke kehren,</l>
+            <l>Ist alles voller schwehren Aehren,</l>
+            <l>Die, bloß allein um uns zu nähren,</l>
+            <l>Von Fleisch-formiernden Körnern voll.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach wär, für so viel Gnad’ und Güte,</l>
+            <l>Doch unser fröhliches Gemühte</l>
+            <l>Auch voll Erkenntlichkeit und Dank!</l>
+            <l>Ach, süngen wir, für so viel Gaben,</l>
+            <l>Die wir, allein von Dir, nur haben,</l>
+            <l>Dir manchen schönen Lob-Gesang!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

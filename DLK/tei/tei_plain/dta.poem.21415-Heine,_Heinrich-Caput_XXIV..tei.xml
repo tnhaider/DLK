@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XXIV.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">515</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XXIV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sehnte mich nach dem blauen Rauch,</l>
+            <l>Der aufsteigt aus deutschen Schornsteinen,</l>
+            <l>Nach niedersächsischen Nachtigall’n,</l>
+            <l>Nach stillen Buchenhainen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sehnte mich nach den Plätzen sogar,</l>
+            <l>Nach jenen Leidensstazionen,</l>
+            <l>Wo ich geschleppt das Jugendkreuz</l>
+            <l>Und meine Dornenkronen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wollte weinen wo ich einst</l>
+            <l>Geweint die bittersten Thränen –</l>
+            <l>Ich glaube Vaterlandsliebe nennt</l>
+            <l>Man dieses thörigte Sehnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich spreche nicht gern davon; es ist</l>
+            <l>Nur eine Krankheit im Grunde.</l>
+            <l>Verschämten Gemüthes, verberge ich stets</l>
+            <l>Dem Publiko meine Wunde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abschied.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-10 2-13</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">153</measure>
+        <measure type="characters">847</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abschied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich habe die Ehr', Ihr Recensent zu seyn.“</l>
+            <l>Sofort nimmt er das Licht in die Hand,</l>
+            <l>Besieht lang meinen Schatten an der Wand,</l>
+            <l>Rückt nah und fern: „Nun, lieber junger Mann,</l>
+            <l>Sehn Sie doch gefälligst 'mal Ihre Nas' so von der Seite an!</l>
+            <l>Sie geben zu, daß das ein Auswuchs is.“</l>
+            <l>— Das? Alle Wetter — gewiß!</l>
+            <l>Ei Hasen! ich dachte nicht,</l>
+            <l>All mein Lebtage nicht,</l>
+            <l>Daß ich so eine Welts-Nase führt' im Gesicht!!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mann sprach noch Zerschiednes hin und her,</l>
+            <l>Ich weiß, auf meine Ehre, nicht mehr;</l>
+            <l>Meinte vielleicht, ich sollt' ihm beichten.</l>
+            <l>Zulezt stand er auf; ich that ihm leuchten.</l>
+            <l>Wie wir nun an der Treppe sind,</l>
+            <l>Da geb' ich ihm, ganz froh gesinnt,</l>
+            <l>Einen kleinen Tritt</l>
+            <l>Nur so von hinten auf's Gesäße mit —</l>
+            <l>Alle Hagel! ward das ein Gerumpel,</l>
+            <l>Ein Gepurzel, ein Gehumpel!</l>
+            <l>Dergleichen hab' ich nie gesehn,</l>
+            <l>All mein Lebtage nicht gesehn</l>
+            <l>Einen Menschen so rasch die Trepp' hinab gehn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

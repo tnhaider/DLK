@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er liebt eine harte Schöne.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">601</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er liebt eine harte Schöne.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Vergnügen heist nur Schauen/</l>
+            <l>Mir ist weiter nichts vergönnt/</l>
+            <l>Ich darf nicht auf Hoffnung bauen/</l>
+            <l>Mein Hertz ohne Hülffe brennt.</l>
+            <l>Ich darff nichts von Lieben sagen</l>
+            <l>Die Pein nicht klagen/</l>
+            <l>Welche kein Auffhören kennt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Schöne lacht der Flammen/</l>
+            <l>Sie verwirfft die reine Gluht/</l>
+            <l>Und wil meine Brust verdammen/</l>
+            <l>Ob sie gleich die Wirckung thut/</l>
+            <l>Jhr Gesichte-Flammen blitzet</l>
+            <l>Und mehr erhitzet</l>
+            <l>Daß ohnedem entflammte Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch gedult! wer kan das wenden</l>
+            <l>Was das Schicksahl haben will?</l>
+            <l>Man muß ihm an allen Enden</l>
+            <l>Unverweigert halten still.</l>
+            <l>Endlich wird es sich bedencken</l>
+            <l>Und meinen Kräncken</l>
+            <l>Setzen gleichfals Maaß und Ziel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

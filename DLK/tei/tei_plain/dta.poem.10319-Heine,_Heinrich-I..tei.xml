@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">I.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">523</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>I.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir tr&amp;#228;umte einst von wildem Liebesgl&amp;#252;hen,</l>
+            <l>Von hübschen Locken, Myrthen und Resede,</l>
+            <l>Von süßen Lippen und von bittrer Rede,</l>
+            <l>Von düstrer Lieder düstern Melodien.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verblichen und verweht sind längst die Träume,</l>
+            <l>Verweht ist gar mein liebstes Traumgebild!</l>
+            <l>Geblieben ist mir nur, was glutherfüllt</l>
+            <l>Ich einst gegossen hab' in weiche Reime.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bleibst, verwaistes Lied! Verweh' jetzt auch,</l>
+            <l>Und such' das Traumbild, das mir längst entschwunden,</l>
+            <l>Und grüß' es mir, wenn du es aufgefunden —</l>
+            <l>Dem luft'gen Schatten send' ich luft'gen Hauch.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

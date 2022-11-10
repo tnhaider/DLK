@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Colossen des Phidias und Praxiteles</title>
+        <author>
+          <persName>
+            <surname>Waiblinger</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">682</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1817</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Colossen des Phidias und Praxiteles</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Quirinalischer Stolz, Colossen des Monte Cavallo,</l>
+            <l>Wie ihr mir täglich ersteigt, seid mir im Liede gegrüßt!</l>
+            <l>Ewiger Jugend Bilder, der Kraft erhabne Gestalten,</l>
+            <l>Blieb euch die Jugend, und blieb's mitten im alterndem Rom.</l>
+            <l>Ja, ich glaub's, eure Väter sind nicht die griechischen Bildner,</l>
+            <l>Sterbliche nicht, doch der Gott hat euch, der Donnrer, gezeugt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Quirinalischer Stolz, Colossen des Monte Cavallo,</l>
+            <l>Wie ihr mir täglich ersteigt, seid mir im Liede gegrüßt!</l>
+            <l>Ewiger Jugend Bilder, der Kraft erhabne Gestalten,</l>
+            <l>Blieb euch die Jugend, und blieb's mitten im alterndem Rom.</l>
+            <l>Ja, ich glaub's, eure Väter sind nicht die griechischen Bildner,</l>
+            <l>Sterbliche nicht, doch der Gott hat euch, der Donnrer, gezeugt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

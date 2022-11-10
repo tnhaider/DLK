@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Gefangene.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">564</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Gefangene.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der uns die Freiheit einst so kühn gelehret,</l>
+            <l>Hört ihr ihn hinter jenem Gitter wohl,</l>
+            <l>Dran spottend noch des Glaubens rauh Symbol,</l>
+            <l>Manch eisern Kreuz, das ihm die Flucht verwehret?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das also ist der Lohn, der ihm bescheeret</l>
+            <l>Ward von dem angebeteten Idol?</l>
+            <l>Die Wangen blaß, die Augen trüb und hohl,</l>
+            <l>Die Augen, die er — </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seit Jahren sah er keine Wolke schweben,</l>
+            <l>Seit Jahren kein Gestirn in blauer Ferne</l>
+            <l>Die goldne, thaubeglänzte Schwinge heben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Erde — ach! er ließ' sie Euch so gerne;</l>
+            <l>Doch sprecht, ihr Herrn, wer hat Euch Macht gegeben,</l>
+            <l>Die Hand zu legen auf des Himmels Sterne?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

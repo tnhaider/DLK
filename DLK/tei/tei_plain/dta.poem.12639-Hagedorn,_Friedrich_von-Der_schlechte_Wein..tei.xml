@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der schlechte Wein.</title>
+        <author>
+          <persName>
+            <surname>Hagedorn</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7</measure>
+        <measure type="syllables">189</measure>
+        <measure type="tokens">129</measure>
+        <measure type="characters">774</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199128"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der schlechte Wein.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wein, den die Bosheit ausgedächt,</l>
+            <l>Des Wassers Ruhm empor zu bringen,</l>
+            <l>Der aus Verzweiflung trunken macht,</l>
+            <l>In dem wir Gift und Tod verschlingen:</l>
+            <l>In dem des Hefens Aufruhr tobt,</l>
+            <l>Den niemand als der Wirth belobt,</l>
+            <l>Den Wirth und Wirthin spart! von dir will ich ietzt singen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein harter Fluch beschwert das Land,</l>
+            <l>Wo dieser Weinstock aufgeschossen;</l>
+            <l>Es hat in dem bestraften Sand</l>
+            <l>Ein Sohn des Vaters Blut vergossen,</l>
+            <l>Und, falls mich kein Gedicht berückt,</l>
+            <l>So ist der Winzer gleich erstickt,</l>
+            <l>Der seiner Beeren Kost zum erstenmahl genossen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf, auf, ihr Keile! zeigt euch bald!</l>
+            <l>Auf, auf, entzündet euch, ihr Blitze!</l>
+            <l>Vereint die rächende Gewalt!</l>
+            <l>Doch trefft nur dieses Weinbergs Spitze,</l>
+            <l>Und macht, daß dieser Theil der Welt,</l>
+            <l>Den diese Pflanze recht verstellt,</l>
+            <l>Nicht ferner Härlinge so schlimmer Art besitze!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

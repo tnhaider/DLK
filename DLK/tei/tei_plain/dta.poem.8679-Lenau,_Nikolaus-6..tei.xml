@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">6.</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">544</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>6.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon seh' ich Hirt' und Herde nimmer</l>
+            <l>Die Zirbel nur ist mein Geleit;</l>
+            <l>Der steile Pfad wird steiler immer,</l>
+            <l>Es wächst die wilde Einsamkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort stürzt aus dunkler Felsenpforte</l>
+            <l>Der Quell mit einem bangen Schrei,</l>
+            <l>Enteilt dem grauenvollen Orte,</l>
+            <l>Hinab zum freundlich grünen Mai.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verschwunden ist das lezte Leben,</l>
+            <l>Hier grünt kein Blatt, kein Vogel ruft,</l>
+            <l>Und selbst der Pfad scheint hier zu beben,</l>
+            <l>So zwischen Wand und Todeskluft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm, Gottesläugner, Gott zu fühlen,</l>
+            <l>Dein Frevel wird auf diesem Rand</l>
+            <l>Den Todesabgrund tiefer wühlen,</l>
+            <l>Dir steiler thürmen diese Wand! —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Hitze und von der Kälte.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">189</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">716</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Hitze und von der Kälte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bewundert man nun dieses sehr,</l>
+            <l>Auf welche Weise doch zwo Feuchtigkeiten</l>
+            <l>Die, wenn sie einzeln kalt, als wenn es feurig wär,</l>
+            <l>Sich von sich selbst erhitzen, brudeln, streiten</l>
+            <l>In einem Augenblick, wo kommt das Feuer her,</l>
+            <l>Worüber man sich so verwundern muß?</l>
+            <l>Daher, dieweil der rundeu Cörper Fluß,</l>
+            <l>Die sich begegnen, ihre Gänge</l>
+            <l>Verstopffen, hindern, und sie enge</l>
+            <l>Und schwierig machen: Da sie dann,</l>
+            <l>So viel ein jeder immer kan,</l>
+            <l>Was sie umgiebet, von sich drängen.</l>
+            <l>Nichts kan so dann sich durch dieselbe zwängen,</l>
+            <l>Als blos das erste Element,</l>
+            <l>Wodurch die kleine Cörperlein</l>
+            <l>Beweget seyn:</l>
+            <l>Und durch die Stösse, die sie sich</l>
+            <l>Einander so gar hefftiglich</l>
+            <l>Und mit so strengem Triebe geben,</l>
+            <l>Erregen sie in dieser kalten Fluth</l>
+            <l>Solch eine schnelle Gluht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

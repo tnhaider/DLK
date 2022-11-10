@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Jäger Wohlgemuth .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">638</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Jäger Wohlgemuth .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es jagt ein Jäger wohlgemuth,               </l>
+            <l>Er jagt aus frischem freien Muth</l>
+            <l>Wohl unter grünen Linden,</l>
+            <l>Er jagt derselben Thierlein viel,</l>
+            <l>Mit seinen schnellen Winden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er jagt über Berg und tiefe Thal,</l>
+            <l>Unter den Stauden überall.</l>
+            <l>Sein Hörnlein thät er blasen,</l>
+            <l>Sein Lieb wohl auf den Jäger harrt,</l>
+            <l>Dort auf der grünen Straßen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er spreit den Mantel in das Gras,</l>
+            <l>Bat, daß sie zu ihm nieder saß,</l>
+            <l>Mit weissem Arm umfangen:</l>
+            <l>„gehab dich wohl mein Trösterin,</l>
+            <l>„nach dir steht mein Verlangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„uns nezt kein Reif, uns kühlt kein Schnee,</l>
+            <l>„es brennen noch im grünen Klee,</l>
+            <l>„zwei Röslein auf der Heiden,</l>
+            <l>„in Liebesschein, in Sonnenschein,</l>
+            <l>„die zwei soll man nicht scheiden.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von Liebe etwas.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">538</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von Liebe etwas.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viele tausend Male sei du mir gesegnet,</l>
+            <l>Rosenblüthenmund,</l>
+            <l>Dem noch nicht der letzte Tropfen ist begegnet</l>
+            <l>Auf des Bechers Grund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dich auch will ich segnen, dich auch selig preisen,</l>
+            <l>Ohrenmuschelpaar,</l>
+            <l>Das noch kindlich staunend höret auf den leisen</l>
+            <l>Sang der Sternenschaar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rosenblüthenlippen, Ohrenmuschelpärchen</l>
+            <l>Werden arg befehden</l>
+            <l>Deine Veilchenaugen; wirst nach einem Jährchen</l>
+            <l>Schon von Liebe reden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach von jener Liebe, die nur in Gedichten</l>
+            <l>Noch so reizvoll glüht,</l>
+            <l>Die wie leis verscholl’ne Mährchentraumgeschichten</l>
+            <l>Längst schon ist verblüht, verblüht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

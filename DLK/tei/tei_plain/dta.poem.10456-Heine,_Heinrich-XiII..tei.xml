@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiII.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">113</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">471</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich an deinem Hause</l>
+            <l>Des Morgens vorüber geh',</l>
+            <l>So freut's mich, du liebe Kleine,</l>
+            <l>Wenn ich dich am Fenster seh'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit deinen schwarzbraunen Augen</l>
+            <l>Siehst du mich forschend an:</l>
+            <l>Wer bist du, und was fehlt dir,</l>
+            <l>Du fremder, kranker Mann?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich bin ein deutscher Dichter,</l>
+            <l>Bekannt im deutschen Land;</l>
+            <l>Nennt man die besten Namen,</l>
+            <l>So wird auch der meine genannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und was mir fehlt, du Kleine,</l>
+            <l>Fehlt Manchem im deutschen Land;</l>
+            <l>Nennt man die schlimmsten Schmerzen,</l>
+            <l>So wird auch der meine genannt.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

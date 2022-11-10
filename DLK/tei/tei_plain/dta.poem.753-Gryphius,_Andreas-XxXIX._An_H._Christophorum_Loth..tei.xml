@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxXIX.  An  H. Christophorum Loth.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">158</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">671</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxXIX.  An  H. Christophorum Loth.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nembt wieder wehrter Freundt/ dem ich mein Hertz gelih&amp;#7869; </l>
+            <l>Was jhr mir newlich liht/ das jahrbuch vnser zeit/</l>
+            <l>Die anzahl scheller tag’ in deu vns ach vnd leidt</l>
+            <l>So lange kränckt biß sie/ vnd wir mit jhn entfliehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir armen schawn die Sonn’ jtzt von/ jtzt zu vns zihen:</l>
+            <l>Vnd gehn den Sternen nach/ wir lernen welche seit</l>
+            <l>Der Himmel </l>
+            <l>Vnd sehn nicht daß wir hier den </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir rechnen Monat aus/ vnd spilen mit dem Jahr</l>
+            <l>Vnd ordnen tag auff tag/ vnd wenn die räitung klar:</l>
+            <l>Bleibt vns doch vnser tag vnd vntergang verholen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts ist das zeit vnd todt nicht an das joch gebracht</l>
+            <l>Ohn freundtschafft/ welche zeit vnd sterben keck verlacht</l>
+            <l>Herr Loth/ der haben wir zwey einen Geist befohlen. </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

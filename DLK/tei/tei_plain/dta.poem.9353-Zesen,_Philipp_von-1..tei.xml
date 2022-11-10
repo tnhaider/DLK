@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">153</measure>
+        <measure type="characters">900</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hatt nun mehr das güldne Licht</l>
+            <l>des Himmels seinen Lauff verricht/</l>
+            <l>der tag hatt sich geneiget:</l>
+            <l>Der blasse Mond steht auf der wacht/</l>
+            <l>die Sternen lenchten durch die nacht/</l>
+            <l>der süße schlaff sich zeiget.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ey nun will ich in stoltzer ruh/</l>
+            <l>die Nacht mit schlaffen bringen zu/</l>
+            <l>ermüdet von studieren/</l>
+            <l>das durch den langen tag ich trieb/</l>
+            <l>biß mier die nacht den paß verhieb</l>
+            <l>die feder fort zuführen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Indessen sey mein glantz und Licht</l>
+            <l>dein freudenreiches Angesicht/</l>
+            <l>du Sonne meiner Seelen/</l>
+            <l>daß nicht der Nächte schatten mich</l>
+            <l>mit furcht und schrecken inniglich</l>
+            <l>im hertzen möge quelen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nim weg den schweren sünden-schwall/</l>
+            <l>so sich ereiget überall/</l>
+            <l>aus meines Hertzens-schrancken/</l>
+            <l>daß ich fein sanfte ruhen mag</l>
+            <l>und wann nun kömpt der frühe-tag</l>
+            <l>dier Höchster freudig dancken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hiermit will ich nun schlaffen ein</l>
+            <l>und Dier/ </l>
+            <l>du wirst mich wohl erretten;</l>
+            <l>Behüte mich für schnellen todt/</l>
+            <l>für aller angst und krieges-noth</l>
+            <l>und für des Teufels ketten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

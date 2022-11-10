@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Klage um Hoël.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-4 2-6 3-16</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">125</measure>
+        <measure type="characters">798</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Klage um Hoël.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>H&amp;#228;tt ich nur des Waldstroms Kraft</l>
+            <l>Mit grimmiger wüthiger Leidenschaft</l>
+            <l>Zu stürzen auf </l>
+            <l>Und aus der Welt sie wegzuspotten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Freund, mein </l>
+            <l>Gestemmt auf seinen tapfern Sinn.</l>
+            <l>Von </l>
+            <l>Kein schnödes Gold er heischt. Geschmückt</l>
+            <l>Mit seiner Jugend Herrlichkeit</l>
+            <l>Erwarb er sich die schönste Maid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rüstig zum Kampf, geschürzt zum Siegen</l>
+            <l>Vierhundert wackre Krieger stiegen</l>
+            <l>Hinab in </l>
+            <l>Wie blitzten die Reihen im Sonnenstrahl!</l>
+            <l>Gluthroth brannten der Jünglinge Backen.</l>
+            <l>Es schmückte jedes Kriegers Nacken</l>
+            <l>Ein Kettlein schön aus Gold geschlungen.</l>
+            <l>Zu rasch ach! tranken die braven Jungen</l>
+            <l>Des Nektars, den die Biene braut,</l>
+            <l>Des Rauschsafts, den das Ausland baut.</l>
+            <l>Sie jauchzen, sie taumeln, sie sinken nieder.</l>
+            <l>Aus Cattrack's Thal kehrt keiner wieder.</l>
+            <l>Keiner als </l>
+            <l>Hindurch uns hauend wüthiglich</l>
+            <l>Leben wir </l>
+            <l>Und singen, wie die Helden gefallen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

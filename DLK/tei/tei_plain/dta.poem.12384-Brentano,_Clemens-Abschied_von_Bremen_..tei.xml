@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abschied von Bremen .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">217</measure>
+        <measure type="tokens">145</measure>
+        <measure type="characters">866</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abschied von Bremen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Bremen, ich muß dich nun lassen,               </l>
+            <l>O du wunderschöne Stadt,</l>
+            <l>Und darinnen muß ich lassen</l>
+            <l>Meinen allerschönsten Schatz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir haben oft beisamm gesessen,</l>
+            <l>Manche schöne Monden-Nacht,</l>
+            <l>Manchen Schlaf zusamm vergessen,</l>
+            <l>Und die Zeit so zugebracht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Koffer rollt, der Morgen kühlet,</l>
+            <l>Ach, die Straßen sind so still,</l>
+            <l>Und was da mein Herze fühlet,</l>
+            <l>Nimmermehr ich sagen will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Weg mich schmerzlich wieder lenket</l>
+            <l>Hin, wo Liebchen sah herab,</l>
+            <l>Daß sie ja noch mein gedenket,</l>
+            <l>Drück ich zwei Pistolen ab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald jagt vor dir in diesen Gassen,</l>
+            <l>Manches Windlein dürren Staub,</l>
+            <l>Meine Seufzer sinds, sie lassen</l>
+            <l>Vor dir nieder trocknes Laub.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So steh ich wirklich nun im Schiffe,</l>
+            <l>Meinen Koffer seh ich drauf,</l>
+            <l>Wie der Schiffer herzhaft pfiffe,</l>
+            <l>Zogen wir wohl Anker auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich seh den Sturmwind rauschend gehen,</l>
+            <l>O mein Schiff hat schnellen Lauf,</l>
+            <l>Wird es wohl zu Grunde gehen,</l>
+            <l>Wanket nicht Gedanken drauf.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

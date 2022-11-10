@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Abschied.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">127</measure>
+        <measure type="characters">774</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Abschied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr gottgeweihten Mauern,</l>
+            <l>Ihr, deren ernster Ring,</l>
+            <l>Durchweht von heil'gen Schauern,</l>
+            <l>Eilf Sommer mich umfing;</l>
+            <l>Ihr klösterlichen Klausen,</l>
+            <l>Wo Ruh und Andacht hausen,</l>
+            <l>Die ich jetzt lassen soll —</l>
+            <l>Gehabt euch wohl!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr immer grünen Bäume,</l>
+            <l>Die ihr mir freundlich lauscht</l>
+            <l>Und oft in süsse Träume</l>
+            <l>Die Schwärmende gerauscht;</l>
+            <l>Ihr duftenden Gebüsche</l>
+            <l>Voll Kühlung und voll Frische,</l>
+            <l>Voll Lispeln und Gesang,</l>
+            <l>Habt Dank! Habt Dank!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Blumen und ihr Quellen,</l>
+            <l>Ihr Rasen, seideweich,</l>
+            <l>Ihr kleinen Murmelwellen,</l>
+            <l>Nie, nie vergess ich euch.</l>
+            <l>Wohl aus dem Weltgedränge,</l>
+            <l>Dem lästigen Gepränge</l>
+            <l>Schaut sehnend einst der Blick</l>
+            <l>Nach euch zurück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr heiligen Jungfrauen,</l>
+            <l>Die selig Tag und Nacht</l>
+            <l>Das Antlitz Gottes schauen,</l>
+            <l>Habt mich in guter Acht!</l>
+            <l>Urbild der Huld und Güte,</l>
+            <l>Madonna, ach behüte</l>
+            <l>Vor eitelm Wahn den Sinn</l>
+            <l>Der Sünderinn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

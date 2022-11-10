@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Einleitung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">500</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Einleitung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dwehrtes Land, geliebtes Feld,</l>
+            <l>Das so viel Lieblichkeit enthält,</l>
+            <l>Wo die Natur gedoppelt schön,</l>
+            <l>Jm Land, und auf dem Meer, zu sehn!</l>
+            <l>Nun wird es mir vergönnet werden,</l>
+            <l>Zu ruhn in deinem Schooß, auf bunt beblühmter Erden!</l>
+            <l>Nun werd’ ich dieses Glück erhalten,</l>
+            <l>Daß, nach, mit allem Fleiß und Kräften,</l>
+            <l>Von mir vollführten Amts-Geschäften,</l>
+            <l>Bald mit den Schriften kluger Alten,</l>
+            <l>Bald einem sanften Schlaf, ich meine stille Zeit,</l>
+            <l>In unbesorgter Ruh, in stolzer Sicherheit,</l>
+            <l>Und edlem Müßiggang, entfernt von Neid und Streit,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

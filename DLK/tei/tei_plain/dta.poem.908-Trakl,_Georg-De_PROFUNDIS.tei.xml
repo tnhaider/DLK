@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">De PROFUNDIS</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3 5-3 6-4</measure>
+        <measure type="syllables">193</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">737</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>De PROFUNDIS</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist ein Stoppelfeld, in das ein schwarzer Regen fällt.</l>
+            <l>Es ist ein brauner Baum, der einsam dasteht.</l>
+            <l>Es ist ein Zischelwind, der leere Hütten umkreist</l>
+            <l>Wie traurig dieser Abend.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Weiler vorbei</l>
+            <l>Sammelt die sanfte Waise noch spärliche Ähren ein.</l>
+            <l>Ihre Augen weiden rund und goldig in der Dämmerung</l>
+            <l>Und ihr Schoß harrt des himmlischen Bräutigams.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bei der Heimkehr</l>
+            <l>Fanden die Hirten den süßen Leib</l>
+            <l>Verwest im Dornenbusch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Schatten bin ich ferne finsteren Dörfern.</l>
+            <l>Gottes Schweigen</l>
+            <l>Trank ich aus dem Brunnen des Hains.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf meine Stirne tritt kaltes Metall</l>
+            <l>Spinnen suchen mein Herz.</l>
+            <l>Es ist ein Licht, das in meinem Mund erlöscht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nachts fand ich mich auf einer Heide,</l>
+            <l>Starrend von Unrat und Staub der Sterne.</l>
+            <l>Im Haselgebüsch</l>
+            <l>Klangen wieder kristallne Engel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

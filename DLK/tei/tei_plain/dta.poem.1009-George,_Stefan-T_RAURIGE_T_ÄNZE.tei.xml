@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">T RAURIGE   T ÄNZE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">82</measure>
+        <measure type="tokens">53</measure>
+        <measure type="characters">525</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>T RAURIGE   T ÄNZE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entflieht auf leichten k&amp;#228;hnen               </l>
+            <l>Berauschten sonnenwelten               </l>
+            <l>Dass immer mildre thr&amp;#228;nen               </l>
+            <l>Euch eure flucht entgelten             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht diesen taumel blonder               </l>
+            <l>Lichtblauer traumgewalten               </l>
+            <l>Und trunkner wonnen sonder               </l>
+            <l>Verz&amp;#252;ckung sich entfalten             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dass nicht der s&amp;#252;sse schauer               </l>
+            <l>In neues leid euch h&amp;#252;lle &amp;#8212;               </l>
+            <l>Es sei die stille trauer               </l>
+            <l>Die diesen fr&amp;#252;hling f&amp;#252;lle.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

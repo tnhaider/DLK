@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">V.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">710</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>V.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schöne Wiege meiner Leiden,</l>
+            <l>Schönes Grabmal meiner Ruh,</l>
+            <l>Schöne Stadt, wir müssen scheiden, —</l>
+            <l>Lebe wohl! ruf' ich dir zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lebe wohl, du heilge Schwelle,</l>
+            <l>Wo da wandelt Liebchen traut:</l>
+            <l>Lebe wohl! du heilge Stelle,</l>
+            <l>Wo ich sie zuerst geschaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hätt' ich dich doch nie gesehen,</l>
+            <l>Schöne Herzenskönigin!</l>
+            <l>Nimmer wär es dann geschehen,</l>
+            <l>Daß ich jetzt so elend bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie wollt' ich dein Herze rühren,</l>
+            <l>Liebe hab' ich nie erfleht;</l>
+            <l>Nur ein stilles Leben führen</l>
+            <l>Wollt' ich, wo dein Odem weht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch du drängst mich selbst von hinnen,</l>
+            <l>Bittre Worte spricht dein Mund;</l>
+            <l>Wahnsinn wühlt in meinen Sinnen,</l>
+            <l>Und mein Herz ist krank und wund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Glieder matt und träge</l>
+            <l>Schlepp' ich fort am Wanderstab,</l>
+            <l>Bis mein müdes Haupt ich lege</l>
+            <l>Ferne in ein kühles Grab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

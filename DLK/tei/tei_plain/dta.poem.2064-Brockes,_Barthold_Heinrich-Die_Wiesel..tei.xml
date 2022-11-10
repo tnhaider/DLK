@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Wiesel.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">157</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">598</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Wiesel.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Scheint gleich dieses kleine Thier uns zum Schaden</l>
+            <l>mehr gegeben,</l>
+            <l>Als uns Nutzen zu verschaffen, da es junge Hüner, Tau-</l>
+            <l>ben</l>
+            <l>Und noch ander Hausgeflügel pflegt zu würgen und zu</l>
+            <l>rauben,</l>
+            <l>Auch so vieler Vögel Bruten, die in Wald und Feldern</l>
+            <l>leben,</l>
+            <l>Frißt, und ihre Eyer säuft: dienen sie doch, wie die</l>
+            <l>Katzen,</l>
+            <l>Uns zu nicht geringem Nutzen öfters gegen Mäus’ und</l>
+            <l>Ratzen:</l>
+            <l>Sie sind auch der Schlangen Feinde, als womit sie stetig</l>
+            <l>kämpfen:</l>
+            <l>Jhre Bälge nützen uns, nicht nur Schmerz und Gift zu</l>
+            <l>dämpfen,</l>
+            <l>Und uns, für den Frost zu schützen; sondern auch in Arze-</l>
+            <l>neyen</l>
+            <l>Hat man dieser Thiere Glieder sich auf manche Art zu</l>
+            <l>freuen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

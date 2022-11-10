@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Schöne in der Einbildung.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">92</measure>
+        <measure type="tokens">68</measure>
+        <measure type="characters">372</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Schöne in der Einbildung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gewiß wird Lethens Trunck bey dir die Ursach seyn/</l>
+            <l>Daß deiner Jahre Zahl dir schon entfallen ist;</l>
+            <l>Denn wenn ich dreyßig zähl’ so sagest du/ ach Nein!</l>
+            <l>Da muß erst achtzehn stehn/ wo er schon dreyßig liest/</l>
+            <l>Seht doch an die Rosen-Wangen</l>
+            <l>Wie sie prangen/</l>
+            <l>Kan wol ein garstig Bild von so viel dreyßig Jahren</l>
+            <l>Sich mit der Anmuth paaren/</l>
+            <l>So mein Gesichte zeigt?</l>
+            <l>Nein eure Meynung treugt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

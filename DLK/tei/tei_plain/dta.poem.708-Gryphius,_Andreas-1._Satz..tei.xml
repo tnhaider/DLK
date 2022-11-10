@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1. Satz.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">103</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">435</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1. Satz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wje die Erden schmacht vnd brennet </l>
+            <l>Wie die Blume sinckt vnd fällt/</l>
+            <l>Wie der Garten sich verstellt/</l>
+            <l>Wie die Wiese sich verkennet/</l>
+            <l>Wenn die erhitzte Sonn mit jhrem Mittags flammen</l>
+            <l>Den Kreyß der welt ansteckt.</l>
+            <l>So/ wenn deß Höchsten zorn wil tödten vnd verdammen. </l>
+            <l>Wenn vnß die Angst erschreckt:</l>
+            <l>Wenn vnß die heisse Noth verzehret </l>
+            <l>Wenn vnß die bange Furcht beschweret:</l>
+            <l>Denn wil vnß krafft vnd Muth verschwinden:</l>
+            <l>Denn ist kein Hertz in vnß zu finden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Andreas an Anna .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-4 2-3 3-4 4-4 5-4 6-4 7-3</measure>
+        <measure type="syllables">261</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">1005</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Andreas an Anna .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebes Mädchen! sahst du nicht wie gestern</l>
+            <l>Ich auf hohem Berge lang gelegen,</l>
+            <l>Blickend auf das weiße Kreutz im Thale,</l>
+            <l>Das die Flügel deines Fensters bilden?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glaubt' ich schon, du kämst durch's Thal gewandelt,</l>
+            <l>Sprang ich auf, da war's ein weißes Blümlein,</l>
+            <l>Das sich täuschend mir vor's Auge stellte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lange harrt' ich, aber endlich breiten</l>
+            <l>Auseinander sich des Fensters Flügel,</l>
+            <l>Und an seinem weißen Kreutze stehst du,</l>
+            <l>Berg und Thal ein stiller Friedensengel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vöglein ziehen nah' an dir vorüber,</l>
+            <l>Täublein sitzen auf dem nahen Dache,</l>
+            <l>Kommt der Mond, und kommen alle Sterne,</l>
+            <l>Blicken all' dir keck in's blaue Auge.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Steh' ich einsam, einsam in der Ferne,</l>
+            <l>Habe keine Flügel hinzufliegen,</l>
+            <l>Habe keine Strahlen hinzusenden,</l>
+            <l>Steh' ich einsam, einsam in der Ferne!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gehst du, sprech' ich mit verhaltnen Thränen:</l>
+            <l>Ruhet süß, ihr lieben, lieben Augen!</l>
+            <l>Ruhet süß, ihr weißen, weißen Lilgen!</l>
+            <l>Ruhet süß, ihr lieben, lieben Hände!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sprachen's nach die Sterne an dem Himmel,</l>
+            <l>Sprachen's nach die Blumen in dem Thale.</l>
+            <l>Weh! o weh! du hast es nicht vernommen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

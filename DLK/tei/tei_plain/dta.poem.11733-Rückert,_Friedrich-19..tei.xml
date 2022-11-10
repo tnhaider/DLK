@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">19.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">198</measure>
+        <measure type="tokens">147</measure>
+        <measure type="characters">791</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>19.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Feuer war in Furcht, daß es das Wasser hasche,</l>
+            <l>Und heimlich glimmend barg es sich im Haufen Asche.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Wasser kam und goß den Aschenhaufen aus,</l>
+            <l>Und suchen mußte sich das Feur ein andres Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Feuer barg im Wald sich in das grüne Holz,</l>
+            <l>Das Wasser merkt' es nicht, da ward das Feuer stolz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als der Sommerwind die Ranken schlug zusammen,</l>
+            <l>Das Feuer kam hervor, da stand der Wald in Flammen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da kam der Wolkenbruch und goß den Waldbrand aus,</l>
+            <l>Und wieder suchen muß das Feur ein andres Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Feuer flüchtete sich in den Kieselstein,</l>
+            <l>Und warf sich in den Bach, ins Wasser selbst hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Wasser sucht' es rings und merkte nicht die List,</l>
+            <l>Wie sicher oft der Feind im Haus des Feindes ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ruht am Mittag einst das Wasser schlummertrunken,</l>
+            <l>Dann aus dem Kiesel springt das Feuer als ein Funken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

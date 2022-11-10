@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxVI.  An  Lucinden.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-4</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">630</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxVI.  An  Lucinden.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist der zarte Mund? ein Köcher voller Pfeile </l>
+            <l>Durch die manch weiches </l>
+            <l>Der Augen heller glantz wird flammen gleich geschätzt/ </l>
+            <l>An welchen jeder sich verbrennt in kurtzer weile.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die wunderschönen Haar sind feste liebes seile/ </l>
+            <l>Wer durch der Stirnen glantz nicht wird in euch verhetzt;</l>
+            <l>Wer sich den Lilien der </l>
+            <l>Muß doch gewertig seyn daß jhn die Hand ereile.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So sprecht jhr/ vnd ist war/ wer vol von zunder steckt </l>
+            <l>Wird leicht zu böser lust/ vnd ewrer lieb erweckt/ </l>
+            <l>Man kan zu </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer aber bey sich selbst/ was jhr für löblich acht</l>
+            <l>Ew’r mehr denn falsches hertz’ vnd schwartz gemüt be-</l>
+            <l>tracht.</l>
+            <l>Denglaubt mir/ werdet jhr Lucinde nicht entzünden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

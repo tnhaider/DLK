@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.  
+ Mit Laura's Bilde.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">599</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.  
+ Mit Laura's Bilde.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um einen Myrthenzweig sich zu ersingen</l>
+            <l>Schickt seinen Schwan Petrarka Laure'n nach,</l>
+            <l>Mit Lorbeerreisern füllt er das Gemach,</l>
+            <l>Doch kann er in den Myrthenhain nicht dringen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da zieht er durch die Welt mit hellem Klingen,</l>
+            <l>Schlägt mit den Flügeln an das theure Haus,</l>
+            <l>Man reicht ihm den Cypressenkranz hinaus,</l>
+            <l>Allein die Myrthe kann er nicht erringen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Freund, wohl ist der Lorbeer uns versagt,</l>
+            <l>Doch laß uns um den schnöden Preis nicht klagen,</l>
+            <l>Von Dornen und Cypressen rings umragt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Will es in einer Laura Blick mir tagen,</l>
+            <l>Dann hab' ich gern dem schweren Kranz entsagt,</l>
+            <l>Die kleine Myrthe läßt sich leichter tragen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Geht fleißig hin ins Auditorium,</title>
+        <author>
+          <persName>
+            <surname>Kästner</surname>
+            <forename>Abraham Gotthelf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">608</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1759</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Geht fleißig hin ins Auditorium,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht fleißig hin ins Auditorium,</l>
+            <l>Da seht ihr manches Stück, wo Männer nur agiren.</l>
+            <l>Gelehrt heißt man es disputiren,</l>
+            <l>Und gar ein Specimen ediren;</l>
+            <l>Die Rollen lesen sie, doch nein, sie buchstabiren,</l>
+            <l>Die Hauptperson ist immer stumm;</l>
+            <l>Der Autor sollte nur souffliren,</l>
+            <l>Doch spricht er lauter als die Helden rings herum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht fleißig hin ins Auditorium,</l>
+            <l>Da seht ihr manches Stück, wo Männer nur agiren.</l>
+            <l>Gelehrt heißt man es disputiren,</l>
+            <l>Und gar ein Specimen ediren;</l>
+            <l>Die Rollen lesen sie, doch nein, sie buchstabiren,</l>
+            <l>Die Hauptperson ist immer stumm;</l>
+            <l>Der Autor sollte nur souffliren,</l>
+            <l>Doch spricht er lauter als die Helden rings herum.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

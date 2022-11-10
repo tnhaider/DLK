@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Schmiede.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">241</measure>
+        <measure type="tokens">159</measure>
+        <measure type="characters">921</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Schmiede.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie kann der alte Aepfelbaum</l>
+            <l>So lockre Früchte tragen,</l>
+            <l>Wo Mistelbüsch' und Mooses Flaum</l>
+            <l>Aus jeder Ritze ragen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Halb todt, halb lebend, wie ein Prinz</l>
+            <l>In einem Ammenmährchen,</l>
+            <l>Die eine Seite voll Gespinns,</l>
+            <l>Wurmfraß und Flockenhäärchen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Langt mit der andern, üppig roth,</l>
+            <l>Er in die Funkenreigen,</l>
+            <l>Die knatternd aus der Schmiede Schlot</l>
+            <l>Wie Sternraketen steigen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein zweiter Scävola hält Jahr</l>
+            <l>Auf Jahr er seine Rechte</l>
+            <l>Der Glut entgegen, die kein Haar</l>
+            <l>Zu sengen sich erfrechte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und drunten geht es Pink und Pank,</l>
+            <l>Man hört die Flamme pfeifen,</l>
+            <l>Es keucht der Balg aus hohler Flank'</l>
+            <l>Und bildet Aschenstreifen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Kohle knallt und drüber dicht,</l>
+            <l>Mit Augen wie Pyropen,</l>
+            <l>Beugt sich das grimmige Gesicht</l>
+            <l>Des rußigen Cyklopen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hält das Eisen in die Glut</l>
+            <l>Wie eine arme Seele,</l>
+            <l>Es knackt und spritzet Funkenblut</l>
+            <l>Und dunstet blaue Schwehle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann auf dem Ambos, Schlag an Schlag,</l>
+            <l>Läßt es sein Weh erklingen,</l>
+            <l>Bis nun gekrümmt in Zorn und Schmach</l>
+            <l>Es kreucht zu Hufes Ringen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z ehndes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">226</measure>
+        <measure type="tokens">155</measure>
+        <measure type="characters">933</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z ehndes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„war deiner Völcker Heer zum Fechten angeleitet;</l>
+            <l>„so glaubtest du, daß GOtt den Weeg zum Sieg bereitet.</l>
+            <l>125”Lag es in Festungen; so ward von dir betracht:</l>
+            <l>„daß Wall und Schloß umsonst, wo GOtt nicht selber wacht.</l>
+            <l>„stund es im freyen Feld, zu schwach den Kampf zu wagen;</l>
+            <l>„so sagtest du, daß GOtt ihm werde Schanzen schlagen.</l>
+            <l>„befande sich dein Heer im blutigsten Gefecht;</l>
+            <l>130”So wußtest du, daß GOtt die Krieger stärckt und schwächt.</l>
+            <l>„war deiner Feinde Macht gezwungen durchzugehen;</l>
+            <l>„so glaubtest du den Sieg von GOtt gekrönt zu sehen.</l>
+            <l>„gelassen in dem Sieg und herzhaft in Gefahr,</l>
+            <l>„bescheiden in dem Glück, ist was dir eigen war.</l>
+            <l>135”Klug, standhaft, unerschreckt, wo man von Unglück hörte;</l>
+            <l>„gleichmüthig und beherzt, was immer sich empörte.</l>
+            <l>„ein jeder Umstand wies, daß du auf GOtt gebaut,</l>
+            <l>„je mehr der Feinde Muth der eignen Macht vertraut.</l>
+            <l>„so vieler Tugenden Werth und Vortrefflichkeiten</l>
+            <l>140”Seynd Ursach, daß sie nun um Ehr und Vorrang streiten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

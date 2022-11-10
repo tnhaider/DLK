@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ausgesetzte Besserung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">107</measure>
+        <measure type="tokens">64</measure>
+        <measure type="characters">392</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ausgesetzte Besserung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Ehr-und Reichthum-füchtige sich bis an ihren
+Tod bestreben,</l>
+            <l>Und immer sich beschäfftigen, um dann, den Rest von ihrem</l>
+            <l>Des Fleisses Früchte zu geniessen, und, nach getragner Last,</l>
+            <l>So sieht man, daß auch dieß nicht minder von den Gelehrten</l>
+            <l>Sie sind </l>
+            <l>Und, im beständgen Untersuchen, ihr Wissen immer anzuhäufen,</l>
+            <l>Um denn von ihrer Theorie den </l>
+            <l>Zu ihrer eignen Besserung, der Praxi sich zu übergeben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

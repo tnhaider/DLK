@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Barde</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">692</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Barde</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Für eine Dame, schön und hold,</l>
+            <l>Für Minnetreu und Minnesold,</l>
+            <l>Des Barden höchstes Gut,</l>
+            <l>Verspritzen wir das Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Barde liebet Ehr' und Recht,</l>
+            <l>Er ist der Erste im Gefecht,</l>
+            <l>Für Mortimer von Lewellyn</l>
+            <l>Bis in den Tod die Barden zieh'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Für Wales, unser Vaterland,</l>
+            <l>Gesegnet schön von Gottes Hand,</l>
+            <l>Für seine Berge und grüne Seen</l>
+            <l>Die Barden Alle für Einen steh'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Für eine Dame, schön und hold,</l>
+            <l>Für Minnetreu und Minnesold,</l>
+            <l>Des Barden höchstes Gut,</l>
+            <l>Verspritzen wir das Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Barde liebet Ehr' und Recht,</l>
+            <l>Er ist der Erste im Gefecht,</l>
+            <l>Für Mortimer von Lewellyn</l>
+            <l>Bis in den Tod die Barden zieh'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Für Wales, unser Vaterland,</l>
+            <l>Gesegnet schön von Gottes Hand,</l>
+            <l>Für seine Berge und grüne Seen</l>
+            <l>Die Barden Alle für Einen steh'n.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z wölfftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">665</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z wölfftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„jhr wißt die Schifffart noch?„ so sprachen sie zusam̃en,</l>
+            <l>„von welcher dieses Throns Glückseeligkeiten stammen?</l>
+            <l>Die Reise nacher Franckfurt
+war den 15. Septembr. 1745. ange-
+tretten.</l>
+            <l>Jhro Königl. Maj. Zuruckkunft
+von Prag und Linz/ welche den 4 Julij
+1743. Nachmittag um 5. Uhr geschahe.</l>
+            <l>„wie fröhlich hatte nicht das Land damahls erthönt?</l>
+            <l>„hat sich nicht Alt und Jung nach unserm Schiff gesähnt?</l>
+            <l>175”Wir schwammen ja daher, als müßten Flutt und Wellen</l>
+            <l>„auf unsers Haupts Befehl sich zum Gehorsam stellen.</l>
+            <l>„sie rollt- und schwelleten und welzten sich so schön,</l>
+            <l>„als freuten sie sich selbst die Last des Schiffs zu sehn.</l>
+            <l>„sie trugen uns so sanft, als hätt der Fluß auch Hände.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

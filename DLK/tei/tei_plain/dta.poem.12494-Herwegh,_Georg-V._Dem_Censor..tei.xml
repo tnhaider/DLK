@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">V.  
+  Dem Censor.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">394</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1843</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192440"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>V.  
+  Dem Censor.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unseliger Eunuche, du,</l>
+            <l>Der unsres Geistes Hauch bewacht</l>
+            <l>Und sich für seines Sultans Ruh'</l>
+            <l>Zum gottverfluchten Knechte macht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast mein bloßes Wort verdammt,</l>
+            <l>Weil's nicht in Eure Küche paßt: —</l>
+            <l>Hat minder drum dieß Herz geflammt</l>
+            <l>Und minder Dich und Ihn gehaßt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O glaub' den Geist nicht unterjocht,</l>
+            <l>Wenn du vom Leib ein Glied getrennt!</l>
+            <l>Du, Sklave, putzest nur den Docht,</l>
+            <l>Damit das Licht noch heller brennt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

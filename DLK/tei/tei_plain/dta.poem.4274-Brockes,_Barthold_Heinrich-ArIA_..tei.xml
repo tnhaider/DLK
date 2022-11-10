@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ArIA .</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-2 2-4 3-15 4-11</measure>
+        <measure type="syllables">267</measure>
+        <measure type="tokens">183</measure>
+        <measure type="characters">1063</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ArIA .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Erde bebt, der Boden schüttert,</l>
+            <l>Der Acker untern Füssen zittert</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vor des Getraydes Segens-Last.</l>
+            <l>Uns sey, bey diesen frohen Zeiten,</l>
+            <l>Undankbarkeit und Gram verhaßt;</l>
+            <l>Man spühre nichts, als Fröhlichkeiten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der frohe Fuhrmann jauchzt und singt,</l>
+            <l>Der kurze Knall der Geissel klingt,</l>
+            <l>Bis er das Korn zum Scheun-Thor bringt,</l>
+            <l>Wodurch es sich, mit Mühe, dringt.</l>
+            <l>Es müssen sich die Garben beugen,</l>
+            <l>Dieweil das Thor für sie zu klein,</l>
+            <l>Und sie so hoch geladen seyn,</l>
+            <l>Drum müssen sie sich zischend neigen.</l>
+            <l>Dann schwärzet sich des Tages Schein,</l>
+            <l>Es nimmt ein angenehmer Schatten</l>
+            <l>Das ganze Vorwerk plötzlich ein,</l>
+            <l>Die Pferde zieh’n, und stehen kaum,</l>
+            <l>Als man den angezwängten Baum,</l>
+            <l>Den sie ganz krumm gezogen hatten,</l>
+            <l>Erlöset und die Freyheit schenkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Worauf sodenn ein muntrer Knecht mit Händen an das</l>
+            <l>Seil sich henket,</l>
+            <l>Und oben auf den Wagen schwenket,</l>
+            <l>Mit einer Gabel, die sich krümmt,</l>
+            <l>Die Garben in die Höhe hebt,</l>
+            <l>Wodurch er sich herunter gräbt,</l>
+            <l>Und sie dahin zu reichen strebet,</l>
+            <l>Wo man sie von der Gabel nimmt,</l>
+            <l>Sie da, woselbst sie hin bestimmt,</l>
+            <l>Auf den erhabnen Balken trägt,</l>
+            <l>Und sie daselbst in Ordnung legt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

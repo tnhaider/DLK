@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Nach des Ulysses Koch und Räthen</title>
+        <author>
+          <persName>
+            <surname>Pfeffel</surname>
+            <forename>Gottlieb Konrad</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">490</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1772</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Nach des Ulysses Koch und Räthen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach des Ulysses Koch und Räthen</l>
+            <l>Berührte Circens Wunderstab</l>
+            <l>Zuletzt auch seinen Hofpoeten,</l>
+            <l>Dem er die freye Tafel gab.</l>
+            <l>Er fleht; allein da half kein Flehen:</l>
+            <l>Werd eine Gans, rief sie. Doch er</l>
+            <l>Blieb unverwandelt vor ihr stehen</l>
+            <l>Und sagte seine Verse her.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach des Ulysses Koch und Räthen</l>
+            <l>Berührte Circens Wunderstab</l>
+            <l>Zuletzt auch seinen Hofpoeten,</l>
+            <l>Dem er die freye Tafel gab.</l>
+            <l>Er fleht; allein da half kein Flehen:</l>
+            <l>Werd eine Gans, rief sie. Doch er</l>
+            <l>Blieb unverwandelt vor ihr stehen</l>
+            <l>Und sagte seine Verse her.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

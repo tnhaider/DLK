@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Seitenwunde.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">201</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">759</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Seitenwunde.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ueber ihre Thore statt der Muse</l>
+            <l>Meißeln die Baglioni die Meduse</l>
+            <l>Und an ihren grausen Hochzeitsfesten</l>
+            <l>Kämpft der Bräutigam mit seinen Gästen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heute liegen wieder sie wie Garben:</l>
+            <l>Blutsgenossen, die sich würgend starben!</l>
+            <l>Wo des Bruderhasses Fackel brannte,</l>
+            <l>Sucht das Kind und findet's Atalante.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Niederstarrend, auf das Knie gesunken,</l>
+            <l>Hebt des Sohnes Haupt sie jammertrunken,</l>
+            <l>Drüber hebt sie die geballte Rechte,</l>
+            <l>Daß sie fluche diesem Mordgeschlechte ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihrem Knaben steht die Seite offen,</l>
+            <l>Wo der Speer Longin's den Herrn getroffen,</l>
+            <l>Ihres Knaben Haupt, ein blondes ist es,</l>
+            <l>Wie das dorngekrönte Haupt des Christes ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie des Christes Haupt ist's ein erbleichtes,</l>
+            <l>Auf die Schulter friedevoll geneigtes,</l>
+            <l>Haß und Fluch erlischt auf ihrem Munde,</l>
+            <l>Sie verehrt die heil'ge Seitenwunde ...</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

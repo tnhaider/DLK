@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Heerde Kühe.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">95</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">357</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1727</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198599"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Heerde Kühe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebstes Vieh, da ich hier stehe,</l>
+            <l>Und, wie man dich melket, sehe;</l>
+            <l>Fällt mir bey,</l>
+            <l>Auf was Weis’ es möglich sey,</l>
+            <l>Daß in dir das Gras für mich</l>
+            <l>Auf so wundersame Weise</l>
+            <l>So zum Trank als auch zur Speise</l>
+            <l>Zubereitet werd’, und sich,</l>
+            <l>Als in lebendigen Oefen, gleichsam selber distillire.</l>
+            <l>Sprich nun, Mensch, ob in der That</l>
+            <l>Dem, Der es geordnet hat,</l>
+            <l>Nicht unendlich Lob gebühre!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

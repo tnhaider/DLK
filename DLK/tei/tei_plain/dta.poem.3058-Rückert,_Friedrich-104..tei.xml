@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">104.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">508</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>104.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So oft du wieder treibst, was du einmal getrieben,</l>
+            <l>So oft du wieder schreibst, was du einmal geschrieben;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Scheint ein Verständnis erst der Sache dir erstanden,</l>
+            <l>Als hättest du sie gar vom Anfang nicht verstanden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verstehst du wirklich sie nun erst, und damals nicht?</l>
+            <l>Ich denke sie erscheint dir nur im neuen Licht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thu denn nicht Unrecht dem, was du gewesen bist,</l>
+            <l>Noch zuviel Ehre dem, was draus geworden ist!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und mache dann von dir auf andre die Anwendung:</l>
+            <l>Steh auch das Licht, in dem sie sehn, nicht an für Blendung!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

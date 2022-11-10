@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Iv.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4</measure>
+        <measure type="syllables">93</measure>
+        <measure type="tokens">65</measure>
+        <measure type="characters">375</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Iv.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dieses ist das lezte Wort?</l>
+            <l>Dich lockt ein ferner Himmelsbogen,</l>
+            <l>Es treibt dich in die Fremde fort?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wird geliebt, wer liebt und bleibet,</l>
+            <l>Wer flieht, verkannt; und glaube mir,</l>
+            <l>Wenn dich die Sehnsucht fürder treibet,</l>
+            <l>So bleibt die Liebe hinter dir!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und mag umwuchern dich das schöne</l>
+            <l>Hesperien voll milder Au'n,</l>
+            <l>Wo findest du die deutschen Töne?</l>
+            <l>Wo findest du die deutschen Frau'n?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

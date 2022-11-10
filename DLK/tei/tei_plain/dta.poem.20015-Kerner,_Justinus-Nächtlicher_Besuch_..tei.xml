@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nächtlicher Besuch .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-8 4-8</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">530</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nächtlicher Besuch .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Tag ist gegangen,</l>
+            <l>Hier irr' ich allein,</l>
+            <l>Wie graut mir hier außen!</l>
+            <l>O laß mich hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier innen ists dunkel,</l>
+            <l>Die Hütte ist klein,</l>
+            <l>Der Mond steht da draußen,</l>
+            <l>Du bist nicht allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und willst du nicht öffnen,</l>
+            <l>So geh' ich in Wald</l>
+            <l>Und blase mein Hörnlein</l>
+            <l>Das rüstig erschallt,</l>
+            <l>Und jage die Wolken</l>
+            <l>Vom Himmel wohl all',</l>
+            <l>Dann tanzen die Sterne</l>
+            <l>Zum lustigen Schall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich fühle, darfst glauben,</l>
+            <l>Indessen kein Leid,</l>
+            <l>Ich treibe wohl träumend</l>
+            <l>Die Schäflein zur Weid.</l>
+            <l>Ich lausche dem Vogel,</l>
+            <l>Er singet von Scherz,</l>
+            <l>Ich liege bei Blumen —</l>
+            <l>Das bringet nicht Schmerz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

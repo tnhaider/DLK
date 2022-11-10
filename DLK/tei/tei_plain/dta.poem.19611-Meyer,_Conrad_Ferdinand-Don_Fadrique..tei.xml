@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Don Fadrique.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">217</measure>
+        <measure type="tokens">127</measure>
+        <measure type="characters">815</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Don Fadrique.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Don Fadrique bringt ein Ständchen</l>
+            <l>Seiner drolligen Pepita:</l>
+            <l>„liebchen, strecke durch die Thüre</l>
+            <l>Deines Füßchens Spitze nur!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die drollige Pepita</l>
+            <l>Streckt durch eine schmale Spalte</l>
+            <l>Eines allerliebsten Fußes</l>
+            <l>Weißes Spitzchen in die Luft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Don Fadrique krümmt den Rücken,</l>
+            <l>Will das weiße Spitzchen küssen,</l>
+            <l>Knabe Amor steht bei Seite,</l>
+            <l>Der den Bogen lachend spannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach dem ewig jungen Herzen</l>
+            <l>Zielt er, doch wer lacht, der zielt schlecht:</l>
+            <l>In des Ritters alten Rücken</l>
+            <l>Schießt er einen Hexenschuß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Don Fadrique's Knochen rasseln,</l>
+            <l>Don Fadrique stürzt zusammen,</l>
+            <l>Figaro holt eine Sänfte,</l>
+            <l>Figaro bringt ihn zu Bett.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„frommer Bruder Agostino,</l>
+            <l>Exorcire mir das frevle</l>
+            <l>Allerliebste weiße Füßchen</l>
+            <l>Das durch meine Beichte tanzt!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Don Fadrique sucht den Hades,</l>
+            <l>Zierlich schreitend wie ein Stutzer,</l>
+            <l>Tänzelnd leuchtet ihm ein weißes</l>
+            <l>Füßchen durch die Unterwelt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

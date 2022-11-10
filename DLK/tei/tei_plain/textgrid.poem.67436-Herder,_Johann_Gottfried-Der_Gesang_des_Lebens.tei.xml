@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Gesang des Lebens</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">632</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1773</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Gesang des Lebens</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie die Tage der Menschen, so ist der Menschen Gesinnung,</l>
+            <l>Wie sie, bös oder gut, Jupiter ihnen verhängt.«</l>
+            <l>Nein, er verhängt nichts Böses; doch läßt er wechseln die Tage,</l>
+            <l>Daß Du im Wechsel lernst immer derselbige sein.</l>
+            <l>Also schweift der Gesang in hoch- und niedrige Stimmen;</l>
+            <l>Aber Kalliope winkt, nie zu verlieren den Ton.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie die Tage der Menschen, so ist der Menschen Gesinnung,</l>
+            <l>Wie sie, bös oder gut, Jupiter ihnen verhängt.«</l>
+            <l>Nein, er verhängt nichts Böses; doch läßt er wechseln die Tage,</l>
+            <l>Daß Du im Wechsel lernst immer derselbige sein.</l>
+            <l>Also schweift der Gesang in hoch- und niedrige Stimmen;</l>
+            <l>Aber Kalliope winkt, nie zu verlieren den Ton.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

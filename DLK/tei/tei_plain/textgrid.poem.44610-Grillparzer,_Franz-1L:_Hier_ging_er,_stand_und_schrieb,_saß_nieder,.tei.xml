@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Hier ging er, stand und schrieb, saß nieder,</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">626</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1866</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Hier ging er, stand und schrieb, saß nieder,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ging er, stand und schrieb, saß nieder,</l>
+            <l>Unhörbar schwebten ringsum ewge Lieder.</l>
+            <l>Den Weg, wir haben ihn mit ihm gemacht,</l>
+            <l>Indem wir hörten, was er hier gedacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur arm der Platz, kaum schön zur Ruhestatt.</l>
+            <l>Und wer sind wir, die wir ihn weihten?</l>
+            <l>»der Ort, den je ein edler Mann betrat,</l>
+            <l>Er ist geweiht für alle Zeiten.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ging er, stand und schrieb, saß nieder,</l>
+            <l>Unhörbar schwebten ringsum ewge Lieder.</l>
+            <l>Den Weg, wir haben ihn mit ihm gemacht,</l>
+            <l>Indem wir hörten, was er hier gedacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur arm der Platz, kaum schön zur Ruhestatt.</l>
+            <l>Und wer sind wir, die wir ihn weihten?</l>
+            <l>»der Ort, den je ein edler Mann betrat,</l>
+            <l>Er ist geweiht für alle Zeiten.«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

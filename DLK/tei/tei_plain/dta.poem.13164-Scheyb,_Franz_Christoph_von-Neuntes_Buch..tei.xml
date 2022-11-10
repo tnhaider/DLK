@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neuntes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">127</measure>
+        <measure type="characters">759</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neuntes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jn diesem Augenblick erhob sich das Geschrey:</l>
+            <l>Daß auch </l>
+            <l>295Sie komme selbst zum Rath. So durfft man nicht verweilen:</l>
+            <l>Gleich fieng man an den Kreiß in Reihen auszutheilen.</l>
+            <l>Es wurde Plaz gemacht. Man drang sich überall,</l>
+            <l>Daß die Versammlung sich gleich einem Wellen-Schwall</l>
+            <l>An manchem Ort bewog und durch einander wunde;</l>
+            <l>300Wodurch ein solch Geräusch, ein solch Getöß entstunde,</l>
+            <l>Wie es in dem Gebüsch und in den Bäumen braust,</l>
+            <l>Wann ein erzürnter Wind durch Aest’ und Blätter saust.</l>
+            <l>Man wußte nicht, wo man sich hin begeben sollte,</l>
+            <l>Wann man die Königinn bequemlich sehen wollte.</l>
+            <l>305Nichts halff als die Geduld. Biß jemand mit der Hand</l>
+            <l>Das Zeichen gab und wies, daß, wo man sich befand</l>
+            <l>Man möchte ruhig seyn, und jenen Raum verlassen</l>
+            <l>Auf dem die Tugenden vorher im Kreiße sassen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

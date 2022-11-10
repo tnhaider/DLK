@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Feuerelement .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">85</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">381</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Feuerelement .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er. Du kannst mir glauben liebes Herz,               </l>
+            <l>Geh dich am Bronnen frischen,</l>
+            <l>Wenn heut die Stern am Himmel sind</l>
+            <l>Komm ich zu dir mein schönes Kind,</l>
+            <l>Da denkst du nicht der Schmerzen</l>
+            <l>Im Herzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie. Geh hin und nimm ein kühles Bad,               </l>
+            <l>Thu dich im Thau erlaben,</l>
+            <l>Wenn Feuer und Stroh beysammen sind,</l>
+            <l>Den Schnee darzwischen treibt der Wind,</l>
+            <l>So muß es dennoch brennen,</l>
+            <l>Ja brennen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

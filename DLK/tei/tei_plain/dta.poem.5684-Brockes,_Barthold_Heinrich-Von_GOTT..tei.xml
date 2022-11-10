@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von GOTT.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">563</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von GOTT.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man sieht den Jrrthum nicht, nicht Falschheit, recht mit</l>
+            <l>Klarheit,</l>
+            <l>Man halte sie denn zu der Wahrheit.</l>
+            <l>Setzt man der Blindheit nicht entgegen das Gesicht;</l>
+            <l>So ist auch keine Blindheit nicht.</l>
+            <l>Die Gränzen, welche endlich, und allein</l>
+            <l>Durch das </l>
+            <l>Daß sie von Jhm entstanden seyn.</l>
+            <l>Zu einer ersteren Jdee, die allgemein,</l>
+            <l>Und über alles ist, muß man nothwendig steigen.</l>
+            <l>Zur einz’gen Regel muß man diese bloß erlesen,</l>
+            <l>Der alles folgt, vor welcher nichts gewesen.</l>
+            <l>Durch sie sind alle Ding’ erkannt, und alle weisen,</l>
+            <l>Daß sie von GOTTES Gröss’ und Herrlichkeit, allein</l>
+            <l>Verkleinte Züge seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

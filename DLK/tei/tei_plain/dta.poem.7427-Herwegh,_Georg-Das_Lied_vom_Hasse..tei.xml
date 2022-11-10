@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Lied vom Hasse.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">234</measure>
+        <measure type="tokens">159</measure>
+        <measure type="characters">909</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Lied vom Hasse.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohlauf, wohlauf, über Berg und Fluß</l>
+            <l>Dem Morgenrot entgegen!</l>
+            <l>Dem treuen Weib den letzten Kuß,</l>
+            <l>Und dann zum treuen Degen!</l>
+            <l>Bis unsre Hand in Asche stiebt,</l>
+            <l>Soll sie vom Schwert nicht lassen;</l>
+            <l>Wir haben lang genug geliebt,</l>
+            <l>Und wollen endlich hassen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Liebe kann uns helfen nicht,</l>
+            <l>Die Liebe nicht erretten;</l>
+            <l>Halt Du, o Haß, Dein jüngst Gericht,</l>
+            <l>Brich Du, o Haß, die Ketten!</l>
+            <l>Und wo es noch Tyrannen gibt,</l>
+            <l>Die laßt uns keck erfassen;</l>
+            <l>Wir haben lang genug geliebt,</l>
+            <l>Und wollen endlich hassen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer noch ein Herz besitzt, dem soll's</l>
+            <l>Im Hasse nur sich rühren;</l>
+            <l>Allüberall ist dürres Holz,</l>
+            <l>Um unsre Glut zu schüren.</l>
+            <l>Die ihr der Freiheit noch verbliebt,</l>
+            <l>Singt durch die deutschen Strassen:</l>
+            <l>„ihr habet lang genug geliebt,</l>
+            <l>O lernet endlich hassen!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bekämpfet sie ohn' Unterlaß,</l>
+            <l>Die Tyrannei, auf Erden,</l>
+            <l>Und </l>
+            <l>Als unsre Liebe, werden.</l>
+            <l>Bis unsre Hand in Asche stiebt,</l>
+            <l>Soll sie vom Schwert nicht lassen;</l>
+            <l>Wir haben lang genug geliebt,</l>
+            <l>Und wollen endlich hassen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

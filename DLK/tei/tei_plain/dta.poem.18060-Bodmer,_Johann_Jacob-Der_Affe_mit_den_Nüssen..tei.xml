@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Affe mit den Nüssen.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">473</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198462"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Affe mit den Nüssen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Affe kam auf einen Platz gerannt,</l>
+            <l>Wo er viel guter Nüsse fand.</l>
+            <l>Von diesen äß er nur zu gern;</l>
+            <l>Man hatte ihm gesagt, der Kern</l>
+            <l>Wär angenehm und köstlich gut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verwirrt ward ihm sein dummer Muth</l>
+            <l>Als er die Bitterkeit entdeckt,</l>
+            <l>Die in den grünen Häuten steckt: </l>
+            <l>Noch mehr, als er die Schalen nagt.</l>
+            <l>Von Nüssen ist mir viel gesagt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sprach er, izt ist mir anders kund;</l>
+            <l>Sie haben mir verderbt den Mund. </l>
+            <l>Er warff die Nuß verächtlich auf die Erden,</l>
+            <l>Von welcher ihm der Kern nicht mogte werden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

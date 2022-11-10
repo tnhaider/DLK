@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XvIII.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">561</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XvIII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Tod, ihr Freunde, ja, der Tod soll leben!</l>
+            <l>Ich hab' ein glühend Lied in tiefster Nacht</l>
+            <l>Dem treusten Freund der Erde angefacht;</l>
+            <l>Die Toten will ich und den Tod erheben!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir sind nur Kinder, die mit Widerstreben,</l>
+            <l>Gleich Tropfen von dem Meer, sich losgemacht,</l>
+            <l>Und die vom Tode werden heimgebracht</l>
+            <l>Und liebend an das All zurückgegeben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vernichtung dünkt Euch eine herbe Pille?</l>
+            <l>Doch — heischt' das Element nicht diesen Zoll,</l>
+            <l>Das Sterben würde unser eigner Wille.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Sterben macht das Leben ganz und voll;</l>
+            <l>Erst sei das Herz in </l>
+            <l>Wenn's in der Brust der Menschheit schlagen soll.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

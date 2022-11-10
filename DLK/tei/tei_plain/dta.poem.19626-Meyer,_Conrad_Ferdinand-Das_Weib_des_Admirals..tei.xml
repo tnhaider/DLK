@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Weib des Admirals.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">179</measure>
+        <measure type="tokens">125</measure>
+        <measure type="characters">766</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Weib des Admirals.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf mondenhellem Lager wälzt ein Weib,</l>
+            <l>Ein schlummerloses, sich: „O banger Pfühl!</l>
+            <l>Auch du, mein sorgender Gemahl, du wachst!</l>
+            <l>Wer dürfte schlafen? Horch, die Folter stöhnt ...</l>
+            <l>Erwürgte modern ohne Leichentuch,</l>
+            <l>Sieh unser Linnen, Chatillon, wie fein!</l>
+            <l>Gen Himmel schreit der Märtrer frommes Blut,</l>
+            <l>Ich schreie, Herr, in deinen Armen mit!</l>
+            <l>Mein Held, ich rede Zeugniß gegen dich</l>
+            <l>Vor Gott, entrollest du dein Banner nicht!“</l>
+            <l>Sie schweigt in düstrer Glut. Er sinnt und sagt:</l>
+            <l>„erwäge, Weib, die Schrecken die du wählst!</l>
+            <l>Dies Haus in Rauch und Trümmern! Dies mein Haupt</l>
+            <l>Verfehmt, dem Meuchelmord gezeigt — geraubt!</l>
+            <l>Entehrt dies Wappen von des Henkers Hand!</l>
+            <l>Du mit den Knaben bettelnd auf der Flucht!</l>
+            <l>Wählst du dir Solches? Nimm drei Tage Frist!“</l>
+            <l>— „Drei Tage Frist? Sie sind vorbei. Brich auf!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

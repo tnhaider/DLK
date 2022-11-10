@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">118.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">68</measure>
+        <measure type="characters">399</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>118.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Versteh mich, liebes Kind! sowenig als mir nun</l>
+            <l>Mich jung zu machen ziemt, ziemt dir schon alt zu thun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch reine Freude laß uns aneinander haben,</l>
+            <l>Du lieb' an mir den Greis, ich lieb' an dir den Knaben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erbauen magst du dich an meinem Weisheitspruch,</l>
+            <l>Doch mich erquicken soll dein frischer Lenzgeruch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und eher möchte mir ein Liebeslied entspringen</l>
+            <l>Noch jetzt, als jetzt schon dir ein Lehrgedicht gelingen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

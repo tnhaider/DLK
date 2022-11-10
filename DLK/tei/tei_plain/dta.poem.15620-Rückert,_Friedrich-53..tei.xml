@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">53.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">598</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>53.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Welt ist immer ganz, die du in Theile brachtest;</l>
+            <l>Ein Ganzes wird der Theil, den du für sich betrachtest:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie einen Blumenstraus aus einem Kranz heraus</l>
+            <l>Du nehmen kannst und dann ein Blümchen aus dem Straus;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und alle Blumen kannst in Sträuße wieder fügen,</l>
+            <l>Und immer neu den Kranz erschaffen zum Vergnügen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wirst mit einander du Unähnlichstes verbinden,</l>
+            <l>Wird sich die Aehnlichkeit von selbst dazwischen finden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von jedem Dinge geht zu jedem eine Brücke,</l>
+            <l>Und augenblicklich füllt Einbildungskraft die Lücke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch das Gefühl, womit du sie auf dich beziehst,</l>
+            <l>Macht daß du schön um dich die Welt geordnet siehst.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

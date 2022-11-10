@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Gesetzen der Bewegung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">73</measure>
+        <measure type="characters">439</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Gesetzen der Bewegung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch diesen klaren Grund wird jeder überführet:</l>
+            <l>Kein Cörper finder sich, der von sich selbst sich</l>
+            <l>rühret.</l>
+            <l>Fängt einer nun sich zu bewegen</l>
+            <l>Durch einen andern an; so muß man überlegen,</l>
+            <l>Und Stuffenweis’ erwegen,</l>
+            <l>Woher der Erstere dasjenige bekommen,</l>
+            <l>Was er dem andern gab. So wird durch den Verstand</l>
+            <l>Ein Erstes Wesen gleich erkannt,</l>
+            <l>Von Welchem alle Ding’ ihr Wesen hergenommen,</l>
+            <l>Durch Welches sie bestehn, Das die Natur gemacht,</l>
+            <l>Und Welches sie erhält.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

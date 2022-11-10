@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">6.  
+  Stein.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">123</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">513</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1848</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25129-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>6.  
+  Stein.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer reist dort so sp&amp;#228;t noch bei Regen und Wind?</l>
+            <l>Ein Mann ist’s, sinnig und edel gesinnt.</l>
+            <l>Er fährt in der Nacht ohne mondlichen Schein,</l>
+            <l>Der Freiherr des Reiches, der Herr </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In polnischer Waldmark ist’s eisig und leer,</l>
+            <l>Grell heulen die Wölfe, dumpf brummet der Bär!</l>
+            <l>Zur Kutsche hinaus streckt podagrisches Bein</l>
+            <l>Der Freiherr des Reiches, der Herr </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht achtet er Beulen, noch gichtisches Ziehn,</l>
+            <l>Sein Antlitz, er fühlt es in Freude erglüh’n;</l>
+            <l>Von Petersburg reist bis Stadt Breslau hinein</l>
+            <l>Der Freiherr des Reiches, der Herr </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

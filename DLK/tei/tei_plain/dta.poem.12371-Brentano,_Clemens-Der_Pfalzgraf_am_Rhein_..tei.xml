@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Pfalzgraf am Rhein .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">273</measure>
+        <measure type="tokens">196</measure>
+        <measure type="characters">1162</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Pfalzgraf am Rhein .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es wohnt' ein Pfalzgraf an dem Rhein,               </l>
+            <l>Der ließ verjagen sein Schwesterlein,</l>
+            <l>Da kam der Küchenjung zu ihm:</l>
+            <l>„willkommen! Willkommen, Pfalzgraf am Rhein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„wo ist dein schönes Schwesterlein?“</l>
+            <l>„mein Schwesterlein die kriegst du nicht,</l>
+            <l>„sie ist dir viel zu adelich,</l>
+            <l>„und du gehörst zur Küch hinein.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„warum sollt ich sie kriegen nicht,</l>
+            <l>„sie hat von mir ein Kindelein.“</l>
+            <l>„hat sie von dir ein Kindelein,</l>
+            <l>„soll sie nicht mehr mein Schwester seyn.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ließ sie geißeln drei ganzer Tag,</l>
+            <l>Bis man ihr Lung und Leber sah:</l>
+            <l>„hör auf, hör auf, es ist genug,</l>
+            <l>„es gehört dem König aus Engelland.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„gehört es dem König von Engelland,</l>
+            <l>„so kostet mich's mein ganzes Land,</l>
+            <l>„mein ganzes Land ist nicht genug,</l>
+            <l>„mein Leben muß auch noch darzu.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es stund nicht länger als drei Tag' an,</l>
+            <l>Da kam der König aus Engelland:</l>
+            <l>„willkommen, willkommen Pfalzgraf am Rhein,</l>
+            <l>„wo ist, wo ist dein Schwesterlein?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„mein Schwesterlein, die ist schon todt,</l>
+            <l>„sie liegt begraben röslinroth.“</l>
+            <l>„liegt sie begraben röslinroth,</l>
+            <l>„so mußt du leiden den bittern Tod.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selbst zog er sein schweres goldnes Schwerdt,</l>
+            <l>Und stach es dem Pfalzgrafen durch sein Herz:</l>
+            <l>„hat sie müssen leiden den bittern Tod,</l>
+            <l>„so mußt du leiden den Schmerz.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die weiße Fillis.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">686</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die weiße Fillis.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lasst die bunten Tulpen weisen </l>
+            <l>Ihrer hohen Farbe Zier/</l>
+            <l>Lasst die edle Rose preisen/</l>
+            <l>Zeig Nareiß und Nägeln für:</l>
+            <l>Liljen/ die bey Fillis stehn/</l>
+            <l>Sind für allen Blumen schön.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zephyr mit verliebten Küssen</l>
+            <l>Spielt um ihren zarten Mund/</l>
+            <l>Lässt die stoltze Flora wissen/</l>
+            <l>Macht mit lindem Rauschen kund/</l>
+            <l>Liljen/ die bey Fillis stehn/</l>
+            <l>Sind für allen Blumen schön.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Milch und Schnee kan nicht erreichen</l>
+            <l>Ihrer reinen Weisse Pracht/</l>
+            <l>Die Narcissen sind ingleichen</l>
+            <l>Gegen ihrem Tage Nacht;</l>
+            <l>Liljen/ die bey Fillis stehn/</l>
+            <l>Sind für allen Blumen schön.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amor selbst hat/ sie zu pflegen/</l>
+            <l>Mich zum Gärtner eingesezt.</l>
+            <l>Meine Thränen sind der Regen</l>
+            <l>Der sie nach und nach benezt/</l>
+            <l>Biß mir Fillis mit der Zeit</l>
+            <l>Sie zu brechen Gunst verleiht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

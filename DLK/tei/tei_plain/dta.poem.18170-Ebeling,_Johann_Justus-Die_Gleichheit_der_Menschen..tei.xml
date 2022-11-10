@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Gleichheit der Menschen.</title>
+        <author>
+          <persName>
+            <surname>Ebeling</surname>
+            <forename>Johann Justus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">118</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">454</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1747</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198805"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Gleichheit der Menschen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>GoTT hat uns alle gleich gemacht,</l>
+            <l> da wir an diese Welt gebracht;</l>
+            <l>Aus einen Staub belebter Erden,</l>
+            <l>Muß jeder Mensch gebohren wer-</l>
+            <l>den.</l>
+            <l>Wir sind auch all auf einer Welt,</l>
+            <l>Als Wandersleute aufgestellt;</l>
+            <l>Wir gehen nach gesetzter Weise,</l>
+            <l>Nur einen Weg der Todes Reise</l>
+            <l>Wir haben all an einen Heil</l>
+            <l>Ja! auch durch wahren Glauben Theil,</l>
+            <l>Und man kann nur bei Eitelkeiten,</l>
+            <l>Um eingebildtes Vorrecht streiten,</l>
+            <l>Und dies ist nichts, drum nehmt in acht,</l>
+            <l>Gott hat uns alle gleich gemacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

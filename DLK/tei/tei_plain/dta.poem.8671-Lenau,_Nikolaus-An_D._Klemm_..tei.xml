@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An D. Klemm .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">182</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">743</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An D. Klemm .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O säume nicht, mit Wein, Gesang und Kosen</l>
+            <l>Dein Herz zu frischen! sieh, die Jugend flicht</l>
+            <l>In deinen Strauß schon ihre lezten Rosen,</l>
+            <l>Bald wendet sie das holde Angesicht,</l>
+            <l>Und flieht und schwindet tief und tiefer immer</l>
+            <l>Im Hain Vergangenheit — und kehret nimmer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann gilt's, empor zur Lebenshöh' zu dringen,</l>
+            <l>Dann hörst du hinter dir im Blüthenthal</l>
+            <l>Das: „</l>
+            <l>Und deine Bahn wird glühend, schroff und kahl:</l>
+            <l>Am Strauße, den die Jugend dir gewunden,</l>
+            <l>Ist bald so Duft wie Farbenpracht verschwunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wallst du einst zur Abendherberg nieder,</l>
+            <l>Tränkt kühler Thau den welken Blumenstrauß,</l>
+            <l>Dann blüht er neu mit Duft und Farbe wieder;</l>
+            <l>Du setzest müde dich vor's stille Haus,</l>
+            <l>Spielst mit dem Strauß, dem Kinde schöner Zeiten,</l>
+            <l>Und schlummerst ein, — die Blumen dir entgleiten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

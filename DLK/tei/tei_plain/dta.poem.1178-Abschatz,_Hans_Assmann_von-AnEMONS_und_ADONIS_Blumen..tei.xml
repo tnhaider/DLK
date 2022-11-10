@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">AnEMONS  
+ und  
+  ADONIS  
+ Blumen.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">556</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>AnEMONS  
+ und  
+  ADONIS  
+ Blumen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Betrüger/ die ich ehr/ </l>
+            <l>Untreue/ die ich liebe/</l>
+            <l>Was stralet ihr so sehr</l>
+            <l>Ihr schlauen Hertzens-Diebe!</l>
+            <l>Wer siehet wie ihr spielt/ und bildet ihm nicht ein/</l>
+            <l>Ihr werdet voll Erbarmen seyn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die falsche Freundligkeit</l>
+            <l>Und eur verliebtes Blicken/</l>
+            <l>Zeigt Sonn und schöne Zeit/</l>
+            <l>Pflegt Blitz und Nacht zu schicken.</l>
+            <l>Wer siehet wie ihr spielt/ und kan ihm bilden ein/</l>
+            <l>Daß ihr so grausam sollet seyn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Macht Augen/ daß euch nicht</l>
+            <l>Die Welt Cometen nennet!</l>
+            <l>Seyd das gepaarte Licht</l>
+            <l>Dem Tifis Opffer brennet/</l>
+            <l>Führt uns durch euren Glantz in sichern Hafen ein:</l>
+            <l>Man wird euch ewig danckbar seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

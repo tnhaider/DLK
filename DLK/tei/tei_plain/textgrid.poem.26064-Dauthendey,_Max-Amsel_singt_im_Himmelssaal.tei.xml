@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Amsel singt im Himmelssaal</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">478</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Amsel singt im Himmelssaal</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amsel singt im Himmelssaal.</l>
+            <l>Eine kahle Pappelspitze</l>
+            <l>Wählte sie sich aus zum Sitze</l>
+            <l>Für ihr Lied hoch überm Tal.</l>
+            <l>Wolken fliegen in den Raum,</l>
+            <l>Wie die Pferde ohne Zaum,</l>
+            <l>Jagen an dem Berg entlang,</l>
+            <l>Leidenschaftlich von Gebärde</l>
+            <l>Wie der frische Amselsang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amsel singt im Himmelssaal.</l>
+            <l>Eine kahle Pappelspitze</l>
+            <l>Wählte sie sich aus zum Sitze</l>
+            <l>Für ihr Lied hoch überm Tal.</l>
+            <l>Wolken fliegen in den Raum,</l>
+            <l>Wie die Pferde ohne Zaum,</l>
+            <l>Jagen an dem Berg entlang,</l>
+            <l>Leidenschaftlich von Gebärde</l>
+            <l>Wie der frische Amselsang.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

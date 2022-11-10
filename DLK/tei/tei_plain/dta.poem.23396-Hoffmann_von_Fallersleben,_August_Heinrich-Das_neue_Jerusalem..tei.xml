@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das neue Jerusalem.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">191</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">740</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das neue Jerusalem.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welch ein kindlich frommes Streben!</l>
+            <l>Welch ein inniger Verein!</l>
+            <l>An dem Theetisch —</l>
+            <l>Welch ein heilig reines Leben!</l>
+            <l>Welch ein Gottversunkensein!</l>
+            <l>An dem Theetisch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn sie ein Tractätchen lesen,</l>
+            <l>Nimmt die Seele höhern Schwung,</l>
+            <l>An dem Theetisch —</l>
+            <l>Und es schwelgt ihr ganzes Wesen</l>
+            <l>In der Gottvereinigung</l>
+            <l>An dem Theetisch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihres Glaubens süße Blüthe</l>
+            <l>Duftet wie die Rosenflur</l>
+            <l>An dem Theetisch —</l>
+            <l>Lauter Milde, Lieb' und Güte</l>
+            <l>Träuft von ihren Lippen nur</l>
+            <l>An dem Theetisch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie sie ihren Bräut'gam preisen,</l>
+            <l>O die Gottesbräutlein fein!</l>
+            <l>An dem Theetisch —</l>
+            <l>Ihn und sich mit Andacht speisen</l>
+            <l>Und mit heil'gen Melodei'n!</l>
+            <l>An dem Theetisch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles was den Körper nähret</l>
+            <l>Und erquicket, wird verschmäht</l>
+            <l>An dem Theetisch —</l>
+            <l>Ihre Augen sind verkläret,</l>
+            <l>Jeder Blick ist ein Gebet</l>
+            <l>An dem Theetisch.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

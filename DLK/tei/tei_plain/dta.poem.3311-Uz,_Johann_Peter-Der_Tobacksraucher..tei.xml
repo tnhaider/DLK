@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Tobacksraucher.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">265</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">1021</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Tobacksraucher.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll ich stets die trunknen Reben,</l>
+            <l>Soll ich nur den Gott erheben,</l>
+            <l>Der aus holden Augen blitzt?</l>
+            <l>Werd ich nie zu deinem Preise,</l>
+            <l>Pflanze, meine Lust! erhitzt,</l>
+            <l>Unterdeß der Thor und Weise</l>
+            <l>Beym verblasnen Rauche sitzt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O wie viele güldne Stunden</l>
+            <l>Sind mir unbereut verschwunden,</l>
+            <l>Bey geliebter Blätter Glut!</l>
+            <l>Da empört mein rascher Wille</l>
+            <l>Sich für kein verderblich Gut:</l>
+            <l>Ich genieße süsser Stille;</l>
+            <l>Meine ganze Seele ruht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weg mit lärmendem Gepränge!</l>
+            <l>Wo ich mich durch Narren dränge,</l>
+            <l>Gähn’ ich bey dem besten Wein.</l>
+            <l>Lächle, Venus! unter Thränen;</l>
+            <l>Sey die Mutter süsser Pein!</l>
+            <l>Aber zeuch mit deinen Schwänen,</l>
+            <l>Zeuch bey mir nicht sieghaft ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich beneide keine Krone,</l>
+            <l>Wann aus weißgebranntem Thone</l>
+            <l>Manch balsamisch Wölkchen dringt;</l>
+            <l>Und in meiner Muse Händen</l>
+            <l>Jhrer Leyer Scherz erklingt;</l>
+            <l>Oder höhern Gegenständen</l>
+            <l>Sich mein Geist entgegen schwingt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die geflügelten Gedanken</l>
+            <l>Fliehn des Wahnes enge Schranken:</l>
+            <l>Nur der Weise scheint mir groß.</l>
+            <l>Nur des Glückes falsches Lachen</l>
+            <l>Und sein oft entweihter Schoos,</l>
+            <l>Reichthum, Hoheit, (schlechte Sachen!)</l>
+            <l>Sind betrogner Thorheit Loos.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

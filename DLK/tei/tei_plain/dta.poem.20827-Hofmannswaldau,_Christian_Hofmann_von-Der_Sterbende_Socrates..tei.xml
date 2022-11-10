@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der  
+ Sterbende  
+  Socrates.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">118</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">468</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1679</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20289-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa; Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der  
+ Sterbende  
+  Socrates.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann das Verhängniß wird gedrückt</l>
+            <l>Durch des Gelückes falsche Tücke/</l>
+            <l>Und unser Auge wird verrückt</l>
+            <l>Durch allzuheisse Sonnenblicke.</l>
+            <l>Wann wir erlernen aus der Pein/</l>
+            <l>Daß des Gestirnes falscher Schein</l>
+            <l>Nicht müde wird uns zu verderben.</l>
+            <l>Wann unser Geist uns stündlich plagt/</l>
+            <l>Und tausend Schrecken in uns jagt/</l>
+            <l>Darff man durch eigne Hand nicht sterben?</l>
+            <l>Was darff die Noth von fremden Händen</l>
+            <l>In künfftig seyn von mir gewand/</l>
+            <l>Wann heute noch mir meine Hand</l>
+            <l>Kan tausend Angst und Leiden enden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der  
+ Sterbende  
+  Socrates.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">222</measure>
+        <measure type="tokens">148</measure>
+        <measure type="characters">858</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1679</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20289-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa; Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der  
+ Sterbende  
+  Socrates.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die keine Lust gerührt was höhers zu geniessen/</l>
+            <l>Und sich der Tugenden des Pöfels hat befliessen/</l>
+            <l>Und nach gemeiner Art die Frömmigkeit geliebt/</l>
+            <l>Die aus Gewonheitszug stets recht und fromm gewesen/</l>
+            <l>Zu dem gemeinen Nutz viel Gutes ausgeübt/</l>
+            <l>Und die der armen Müh erlesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von diesen glaubet man/ daß sie der Himmel treibt/</l>
+            <l>Der Ameiß’ und die Bein ihr Wesen einverleibt/</l>
+            <l>Die bey und neben uns ein stilles Leben führen/</l>
+            <l>Und füllen Stock und Loch mit Korn und Honig an/</l>
+            <l>Sie schaffen hier zwar nichts was sich nicht wil gebühren/</l>
+            <l>Doch schaut man wie diß nicht zum Himmel dringen kan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das reiche Himmelsfeld da Tausend Fackeln schweben/</l>
+            <l>Ist nur der reinen Schaar der Seelen übergeben/</l>
+            <l>Gott hat den schönen Plan zu ihrer Lust erkiest/</l>
+            <l>Da werden wir mit ihm in Ewigkeit verbunden/</l>
+            <l>Dafern nur unser Geist recht wol geleutert ist/</l>
+            <l>Und durch die Wissenschafft das Fleisch hat überwunden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

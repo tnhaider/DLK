@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gesegnet .</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">515</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1860</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191007"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gesegnet .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer bist du doch, o M&amp;#228;dchen?</l>
+            <l>Du mit dem schwarzen Schleier,</l>
+            <l>Und mit dem schwarzen Sklaven?</l>
+            <l>Der weißen Sklavin du?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Sterne deine Augen</l>
+            <l>Durch deines Schleiers Nächte,</l>
+            <l>Dein Gang wie der Gazelle,</l>
+            <l>Wie Palme die Gestalt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gesegnet sind die Wellen</l>
+            <l>Des Bades, die dich kühlen,</l>
+            <l>Gesegnet die Gewänder,</l>
+            <l>Umschließend deine Huld.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und siebenfach gesegnet</l>
+            <l>Der Sklave, dem du winkest,</l>
+            <l>Der deinen Tritten lauschet,</l>
+            <l>Der deine Stimme hört.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und tausendfach gesegnet</l>
+            <l>Die Sklavin, der du lächelst,</l>
+            <l>An ihre Schulter lehnend</l>
+            <l>Dein unverschleiert Haupt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

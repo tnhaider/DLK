@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der thörichte Wunsch.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-5</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">716</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der thörichte Wunsch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O daß ich nicht ein Vogel bin,</l>
+            <l>So schnell und federleicht,</l>
+            <l>Der über Berg und Thäler hin</l>
+            <l>In Augenblicken streicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann flöh ich über Land und See,</l>
+            <l>Durchreiste jeden Ort,</l>
+            <l>Wär bald im Thal, bald in der Höh,</l>
+            <l>Bald hier, bald wieder dort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann sucht ich stets den Ort mir aus,</l>
+            <l>Wo Lenz und Sommer blühn,</l>
+            <l>Und baute mir mein flüchtig Haus</l>
+            <l>An schönsten Oertern hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald schwäng ich mit der Lerche Schall</l>
+            <l>In Lüften mich empor:</l>
+            <l>Bald schlüg ich, wie die Nachtigall,</l>
+            <l>Aus dunkeln Sträuchen vor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald flög ich, wie ein Adler fliegt &amp;#8212;</l>
+            <l>Doch — welch ein Schuß geschah?</l>
+            <l>O weh! ein armer Vogel liegt</l>
+            <l>In seinem Blute da.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl mir! daß nicht mein Wunsch</l>
+            <l>gelang,</l>
+            <l>Wie sollt es mich gereun!</l>
+            <l>Wie groß ist, Gott, Gott sey es Dank!</l>
+            <l>Das Glück ein Mensch zu seyn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

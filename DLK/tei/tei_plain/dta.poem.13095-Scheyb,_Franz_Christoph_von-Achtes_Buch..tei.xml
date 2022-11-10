@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">214</measure>
+        <measure type="tokens">148</measure>
+        <measure type="characters">886</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„so bauet, mahlt und schnizt! hört aber auch mein Wort,</l>
+            <l>„hernach rühmt was ihr wollt, schnizt, mahlt und bauet fort!</l>
+            <l>295”Was ist vom Anbeginn der Kunst in Schutt begraben,</l>
+            <l>„wovon wir doch biß jezt bewährte Nachricht haben?</l>
+            <l>„wie drang es aus dem Rost des Alterthums hervor,</l>
+            <l>„in dessen Staub es fast den Nahmen selbst verlohr?</l>
+            <l>„wie wißt ihr was es war? ich! ich hab es gefüget,</l>
+            <l>300”Daß, was zu selber Zeit gefiel, noch heut vergnüget.</l>
+            <l>„wie schwebte die Geschicht von mancher Helden That</l>
+            <l>„in Unvergessenheit? was sag’ ich? manche Stadt,</l>
+            <l>„was wüßtet ihr davon, wann meiner Sayten Klingen</l>
+            <l>„sich nicht beflissen hätt euch solche vorzusingen?</l>
+            <l>305”Wer wußte von dem Krieg, von der und jener Schlacht?</l>
+            <l>„von jener Völcker Preiß, Verrichtung, Staat und Macht</l>
+            <l>„die bey dem Urbeginn der Helden-Zeit gewesen?</l>
+            <l>„sehr wenig wird davon in Farb’ und Stein gelesen.</l>
+            <l>„die </l>
+            <l>310”Die dieser Sachen Ruhm aus dem Vergessen rafft.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Suleika .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">604</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Suleika .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! um deine feuchten Schwingen,</l>
+            <l>West, wie sehr ich dich beneide:</l>
+            <l>Denn du kannst ihm Kunde bringen</l>
+            <l>Was ich in der Trennung leide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Bewegung deiner Flügel</l>
+            <l>Weckt im Busen stilles Sehnen,</l>
+            <l>Blumen, Augen, Wald und Hügel</l>
+            <l>Stehn bey deinem Hauch in Thränen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch dein mildes sanftes Wehen</l>
+            <l>Kühlt die wunden Augenlieder;</l>
+            <l>Ach für Leid müsst’ ich vergehen,</l>
+            <l>Hofft’ ich nicht zu sehn ihn wieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eile denn zu meinem Lieben,</l>
+            <l>Spreche sanft zu seinem Herzen;</l>
+            <l>Doch vermeid’ ihn zu betrüben</l>
+            <l>Und verbirg ihm meine Schmerzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sag ihm, aber sag’s bescheiden:</l>
+            <l>Seine Liebe sey mein Leben,</l>
+            <l>Freudiges Gefühl von beyden</l>
+            <l>Wird mir seine Nähe geben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

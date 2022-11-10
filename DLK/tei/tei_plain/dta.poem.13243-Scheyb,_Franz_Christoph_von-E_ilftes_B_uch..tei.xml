@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">E ilftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">659</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>E ilftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„mit was vor Haß und Rach, Erbittrung, Zorn und Neid</l>
+            <l>„zog nicht der Feinde Groll den Mord-Stahl aus der Scheid?</l>
+            <l>„das Feur ward angesteckt; was hat man nicht gesehen?</l>
+            <l>„nichts als der Himmel weiß, was ferner könnt geschehen.</l>
+            <l>165”Der Stolz, die Ländersucht, die Mißgunst seynd die Gicht,</l>
+            <l>„die still, doch mit Gewalt durch manche Glieder kriecht;</l>
+            <l>„sie schwellt, erhizt und brennt die Brust verschiedner Fürsten,</l>
+            <l>„daß sie nur nach dem Saft derselben Quelle dürsten.</l>
+            <l>„es wiegelte der Trieb in diesem Krieges-Lauf</l>
+            <l>170”So Freunde wieder uns, als fremde Völcker auf;</l>
+            <l>„pflicht, Eigennuz und Recht war mit der Macht vermenget,</l>
+            <l>„auch selbst der Treueste durch die Gewalt verdränget.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

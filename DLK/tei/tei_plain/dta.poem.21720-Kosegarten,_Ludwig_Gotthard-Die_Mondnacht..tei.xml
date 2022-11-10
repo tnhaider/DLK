@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Mondnacht.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">266</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">1070</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Mondnacht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, wie die Mondenstrahlen</l>
+            <l>Busch und Flur in Silber mahlen!</l>
+            <l>Wie das Bächlein rollt und flimmt!</l>
+            <l>Strahlen regnen, Funken schmettern</l>
+            <l>Von den sanftgeregten Blättern,</l>
+            <l>Und die Thauflur glänzt und glimmt.</l>
+            <l>Glänzend erdämmern der Berge Gipfel,</l>
+            <l>Glänzend der Pappeln wogende Wipfel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch die glanzberauschten Räume</l>
+            <l>Flüstern Stimmen, gaukeln Träume,</l>
+            <l>Sprechen mir vertraulich zu.</l>
+            <l>Seligkeit, die mich gemahnet,</l>
+            <l>Höchste Lust, die süss mich schwanet,</l>
+            <l>Sprich, wo blühst, wo zeitigst du?</l>
+            <l>Sprenge die Brust nicht, mächtiges Dehnen;</l>
+            <l>Löschet die Wehmuth, labende Thränen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie, ach wie der Qual genesen?</l>
+            <l>Wo, ach wo ein liebend Wesen,</l>
+            <l>Das die süssen Qualen stillt.</l>
+            <l>Eins ins andre gar versunken,</l>
+            <l>Gar verloren, gar ertrunken,</l>
+            <l>Bis sich jede Öde füllt —</l>
+            <l>Solches, ach, wähn' ich, kühlte das Sehnen;</l>
+            <l>Löschte die Wehmuth mit köstlichen Thränen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine weiss ich, ach nur Eine,</l>
+            <l>Dich nur weiss ich, dich, o Reine,</l>
+            <l>Die des Herzens Wehmuth meint.</l>
+            <l>Dich umringend, von dir umrungen,</l>
+            <l>Dich umschlingend, von dir umschlungen,</l>
+            <l>Gar in Eins mit dir geeint — —</l>
+            <l>Schon', ach schone den Wonneversunknen.</l>
+            <l>Himmel und Erde verschwinden dem Trunknen,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

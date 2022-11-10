@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[viel bin ich umhergewandert]</title>
+        <author>
+          <persName>
+            <surname>Daumer</surname>
+            <forename>Georg Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">496</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[viel bin ich umhergewandert]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel bin ich umhergewandert,</l>
+            <l>Um zum Heile zu gelangen,</l>
+            <l>Mit Betagten und Erfahrnen</l>
+            <l>Bin ich eifrigst umgegangen,</l>
+            <l>Stillte nicht der Seele Bangen,</l>
+            <l>Reiste nicht zum Lichte so,</l>
+            <l>Und am Ende blieb ich, wo? –</l>
+            <l>An Suleima's Lippe hangen,</l>
+            <l>Meines Seins erst jetzo froh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel bin ich umhergewandert,</l>
+            <l>Um zum Heile zu gelangen,</l>
+            <l>Mit Betagten und Erfahrnen</l>
+            <l>Bin ich eifrigst umgegangen,</l>
+            <l>Stillte nicht der Seele Bangen,</l>
+            <l>Reiste nicht zum Lichte so,</l>
+            <l>Und am Ende blieb ich, wo? –</l>
+            <l>An Suleima's Lippe hangen,</l>
+            <l>Meines Seins erst jetzo froh.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Vogelhütte.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">63</measure>
+        <measure type="characters">375</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Vogelhütte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Regen, Regen, immer Regen! will nicht das Geplätscher</l>
+            <l>enden,</l>
+            <l>Daß ich aus dem Sarge brechen kann, aus diesen Bretter-</l>
+            <l>wänden?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieben Schuhe ins Gevierte, das ist doch ein ärmlich</l>
+            <l>Räumchen</l>
+            <l>Für ein Menschenkind, und wär' es schlank auch wie ein</l>
+            <l>Rosenbäumchen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O was ließ ich mich gelüsten, in den Vogelheerd zu flüchten,</l>
+            <l>Als nur schwach die Wolke tropfte, als noch flüsterten die</l>
+            <l>Fichten:</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

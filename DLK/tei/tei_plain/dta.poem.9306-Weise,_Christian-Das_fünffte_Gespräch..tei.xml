@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das fünffte Gespräch.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-10 2-10 3-10</measure>
+        <measure type="syllables">216</measure>
+        <measure type="tokens">148</measure>
+        <measure type="characters">876</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das fünffte Gespräch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was hat der unverschämte neid</l>
+            <l>Vor hertzeleid</l>
+            <l>In unsre freundschafft ausgestreut?</l>
+            <l>Was soll der kalte gifft?</l>
+            <l>Der unsre treu doch nur von aussen trifft.</l>
+            <l>Die hertzen sind von diamant/</l>
+            <l>Und das geschloßne liebes-band</l>
+            <l>Hegt keinen unbestand.</l>
+            <l>Drum/ je mehr man uns betrübt/</l>
+            <l>Desto mehr sind wir verliebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. Wenn gleich der wind mit seiner wut</l>
+            <l>In unsre glut</l>
+            <l>Den allerstärcksten einfall thut/</l>
+            <l>So ist es nicht gethan/</l>
+            <l>Er bläset nur die flammen besser an.</l>
+            <l>Drum wer das feuer nicht erkennt/</l>
+            <l>Und sich nur an die finger brennt/</l>
+            <l>Der ist doch gantz verblendt;</l>
+            <l>Denn er unterscheidet nicht</l>
+            <l>Liebes-schein und falsches licht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>3. Indessen allerliebstes kind/</l>
+            <l>Bleib gut gesinnt/</l>
+            <l>Und achte keinen falschen wind/</l>
+            <l>Die treu soll unser schein/</l>
+            <l>Die keusche pflicht des hertzens losung seyn.</l>
+            <l>Vergönnt uns ja der falsche neid/</l>
+            <l>Nicht übrig grosse fröligkeit/</l>
+            <l>So warte nur die zeit.</l>
+            <l>Denn der tag kömmt bald heran/</l>
+            <l>Da man rosen brechen kan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

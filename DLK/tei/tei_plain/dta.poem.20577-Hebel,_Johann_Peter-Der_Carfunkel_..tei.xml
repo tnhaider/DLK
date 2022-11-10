@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Carfunkel .</title>
+        <author>
+          <persName>
+            <surname>Hebel</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">638</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1803</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192133"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Carfunkel .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So verzehlt der Aetti, und mit engbrüstigem</l>
+            <l>Othem</l>
+            <l>seit iez d’ Muetter: „Bisch bal serig? Mach</l>
+            <l>mer die Meidli</l>
+            <l>„nit so z’förche, ’s sin doch nummen er-</l>
+            <l>dichteti Mährli!“ —</l>
+            <l>„jo, i bi io ferig!“ erwiedert der Aetti,</l>
+            <l>„dört lit er</l>
+            <l>„mit sim Ring im Dorneghürst, wo d’</l>
+            <l>Trostle nit singe.“</l>
+            <l>Aber d’ Marei seit: „O Muetter, wer</l>
+            <l>wird em denn förche!</l>
+            <l>„denksch, i merk nit, was er meint, und</l>
+            <l>was er will sage?</l>
+            <l>„jo, der Vizli Buzli, das isch die bösi</l>
+            <l>Versuchung.</l>
+            <l>„lokt sie nit, und führt sie nit in Sünden</l>
+            <l>und Elend,</l>
+            <l>„wenn e Mensch nit bete mag, und folgt</l>
+            <l>nit, und schafft nüt!</l>
+            <l>„und der lockig Chnab isch gueti Warnig</l>
+            <l>im Gwisse.</l>
+            <l>„o, i chenn mi Aetti wohl, und sini Gi-</l>
+            <l>danke!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

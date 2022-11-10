@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[o Mensch, Du trittst mit Füßen tausend Wunder]</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">640</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[o Mensch, Du trittst mit Füßen tausend Wunder]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Mensch, Du trittst mit Füßen tausend Wunder,</l>
+            <l>Und tausend Wunder sie umgeben Dich,</l>
+            <l>Und tausend Wunder in den Lüften fliegen,</l>
+            <l>O Mensch, und Du beklagest Dich! –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Knie' nieder in dem weiten Welten-Raume,</l>
+            <l>Ist's Tag, so knie' im goldnen Sonnenschein,</l>
+            <l>Ist's Nacht – hoch über Dir die Sterne leuchten,</l>
+            <l>Und Dein Gebet sei Dank allein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Mensch, Du trittst mit Füßen tausend Wunder,</l>
+            <l>Und tausend Wunder sie umgeben Dich,</l>
+            <l>Und tausend Wunder in den Lüften fliegen,</l>
+            <l>O Mensch, und Du beklagest Dich! –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Knie' nieder in dem weiten Welten-Raume,</l>
+            <l>Ist's Tag, so knie' im goldnen Sonnenschein,</l>
+            <l>Ist's Nacht – hoch über Dir die Sterne leuchten,</l>
+            <l>Und Dein Gebet sei Dank allein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

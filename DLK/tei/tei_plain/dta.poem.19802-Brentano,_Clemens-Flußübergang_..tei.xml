@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Flußübergang .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">143</measure>
+        <measure type="characters">887</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Flußübergang .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hatten sich siebenzig Schneider verschworen,               </l>
+            <l>Sie wollten zusammen ins Niederland fahren,</l>
+            <l>Da nähten sie einen papierenen Wagen,</l>
+            <l>Der siebenzig tapfere Schneider konnt tragen,</l>
+            <l>Die Zottelgeiß spannten sie dran,</l>
+            <l>Hott Hott, Meck Meck, ihr lustigen Brüder,</l>
+            <l>Nun setzt euer Leben daran.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie fuhren, da trat wohl an einem Stege</l>
+            <l>Den Schneidern der Geiß ihr Böcklein entgegen,</l>
+            <l>Und schaute die Meister gar trotziglich an,</l>
+            <l>Darunter war aber ein herzhafter Mann,</l>
+            <l>Der zog wohl den kupfernen Fingerhut an,</l>
+            <l>Und zog eine rostige Nadel heraus,</l>
+            <l>Und stach das Geißböcklein daß es sprang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da schüttelt das Böcklein gewaltig die Hörner,</l>
+            <l>Und jagte die Meister durch Distel und Dörner.</l>
+            <l>Zerriß auch dem Held den Manschesternen Kragen,</l>
+            <l>Erbeutet viel Ellen und Scheren im Wagen,</l>
+            <l>Und weil acht und sechzig gesprungen in Bach,</l>
+            <l>So hat nur ein einz'ger sein Leben verloren,</l>
+            <l>Weil er nicht konnt springen, er war zu schwach.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die vier Alter.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">228</measure>
+        <measure type="tokens">160</measure>
+        <measure type="characters">949</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die vier Alter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Knabe/ der nun Fuß und Zunge brauchen kan/</l>
+            <l>Hebt gerne Kinderspiel mit seines gleichen an/</l>
+            <l>Zürnt und versöhnt sich leicht/ ist wandelbarer Sinnen/</l>
+            <l>Wünscht alle Stunden ihm was neues zu beginnen.</l>
+            <l>Ein Jüngling ohne Barth in Freyheit nun gestellt/</l>
+            <l>Hat Hund und Pferde lieb/ streicht durch das freye Feld/</l>
+            <l>Zum Bösen weich/ als Wachs/ zum Straffen hart als Stahl/</l>
+            <l>Geneigt zum Geld-verthun/ thut langsam gutte Wahl;</l>
+            <l>Will leichtlich oben aus/ ist voll Begier und Lust/</l>
+            <l>Es wechseln Lieb und Haß gar bald in seiner Brust.</l>
+            <l>Bey nunmehr reiffem Mann ist alles umgewandt/</l>
+            <l>Er sucht durch Geld und Freund zu bessern seinen Stand/</l>
+            <l>Strebt Ruhm und Ehren nach/ vermeidet zu begehn/</l>
+            <l>Woraus ihm späte Reu und Schande kan entstehn.</l>
+            <l>Viel Ungelegenheit sieht man beym Alter blühn;</l>
+            <l>Es scharrt/ und will ihm doch selbst den </l>
+            <l>Greifft alles furchtsam an und rechnet annoch weit/</l>
+            <l>Ist träge/ voll Verdruß/ schiebt gern auff längre Zeit/</l>
+            <l>Lobt seiner Jugend Thun/ und tadelt andrer Leben/</l>
+            <l>Pflegt </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

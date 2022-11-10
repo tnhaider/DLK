@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dritte Handlung.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">202</measure>
+        <measure type="tokens">131</measure>
+        <measure type="characters">782</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dritte Handlung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mechanie du schönes bild/</l>
+            <l>Du hast dich allbereit verhüllt/</l>
+            <l>In deinem zarten bette:</l>
+            <l>Ach wenn ich auch dergleichen ruh/</l>
+            <l>Auff meinem lager hätte!</l>
+            <l>Wiewohl du loses diebgen du/</l>
+            <l>Dein schlaff thut meinem wachen weh/</l>
+            <l>Mechanie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. </l>
+            <l>Gedencke/ daß ich krafftloß bin/</l>
+            <l>Wofern ich nicht empfange</l>
+            <l>Den schatz/ woran ich allbereit</l>
+            <l>Mit gantzem hertzen hange.</l>
+            <l>Entferne dich nicht allzuweit/</l>
+            <l>Mein liebgen/ oder ich vergeh/</l>
+            <l>Mechanie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>3. </l>
+            <l>So weicht der gantze jammer fort:</l>
+            <l>Sprich nur zu meinem leben:</l>
+            <l>Du wollest deiner augen schein</l>
+            <l>Zu meiner lust ergeben.</l>
+            <l>So will ich frisch und frölich seyn/</l>
+            <l>So will ich ruffen/ wo ich steh/</l>
+            <l>Mechanie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>4. </l>
+            <l>Hat dich zwar in den schlaff gebracht/</l>
+            <l>Doch morgen will ich hoffen/</l>
+            <l>Daß mich das allcrschönste loß</l>
+            <l>Hat allermeist betroffen/</l>
+            <l>Und so wird meine freude groß/</l>
+            <l>Und sag' auf diese nacht ade!</l>
+            <l>Mechanie.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vierdte Handlung.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">578</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vierdte Handlung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was soll ich thun/ da hab ich nun</l>
+            <l>Die gantze nacht umsonst gewacht/</l>
+            <l>Und weiß noch nicht wie mir geschicht/</l>
+            <l>Ob mir der tod in meiner noth</l>
+            <l>Fein sanfft und still</l>
+            <l>Ein gnädigs ende machen will.</l>
+            <l>Bald kömmt ein bär und schleicht sich her/</l>
+            <l>Bald kömmt ein luchs und bald ein fuchs/</l>
+            <l>Bald kömmt ein has’ und sucht sein graß</l>
+            <l>Um meine schuh/ bald kömmt darzu</l>
+            <l>Ein wildes schwein</l>
+            <l>Und zwickt mich an das lincke bein.</l>
+            <l>Ach weh/ ach weh/ ich steh und steh/</l>
+            <l>Und kan nicht fort/ ob mir der ort</l>
+            <l>In diesem zelt gleich nicht gefällt:</l>
+            <l>Ach tod komm bald und thu gewalt/</l>
+            <l>Sonst kriech ich noch</l>
+            <l>Vor ängsten in ein mäuseloch.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

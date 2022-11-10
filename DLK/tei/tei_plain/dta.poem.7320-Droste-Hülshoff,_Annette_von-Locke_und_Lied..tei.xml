@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Locke und Lied.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">276</measure>
+        <measure type="tokens">176</measure>
+        <measure type="characters">1064</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Locke und Lied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Lieder sandte ich dir,</l>
+            <l>Meines Herzens strömende Quellen,</l>
+            <l>Deine Locke sandtest du mir,</l>
+            <l>Deines Hauptes ringelnde Wellen;</l>
+            <l>Hauptes Welle und Herzens Fluth</l>
+            <l>Sie zogen einander vorüber,</l>
+            <l>Haben sie nicht im Kusse geruht?</l>
+            <l>Schoß nicht ein Leuchten darüber?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und du klagest: verblichen sey</l>
+            <l>Die Farbe der wandernden Zeichen;</l>
+            <l>Scheiden thut weh, mein Liebchen, ey,</l>
+            <l>Die Scheidenden dürfen erbleichen;</l>
+            <l>Warst du blaß nicht, zitternd und kalt,</l>
+            <l>Als ich von dir mich gerissen?</l>
+            <l>Blicke sie an, du Milde, und bald,</l>
+            <l>Bald werden den Herrn sie nicht missen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch deine Locke hat sich gestreckt,</l>
+            <l>Verdrossen, gleich schlafendem Kinde,</l>
+            <l>Doch ich hab' sie mit Küssen geweckt,</l>
+            <l>Hab' sie gestreichelt so linde,</l>
+            <l>Ihr geflüstert von unserer Treu',</l>
+            <l>Sie geschlungen um deine Kränze,</l>
+            <l>Und nun ringelt sie sich aufs neu,</l>
+            <l>Wie eine Rebe im Lenze.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenig Wochen, dann grünet der Stamm,</l>
+            <l>Hat Sonnenschein sich ergossen,</l>
+            <l>Und wir sitzen am rieselnden Damm,</l>
+            <l>Die Händ' in einander geschlossen,</l>
+            <l>Schaun in die Welle, und schaun in das Aug'</l>
+            <l>Uns wieder und wieder und lachen,</l>
+            <l>Und Bekanntschaft mögen dann auch</l>
+            <l>Die Lock' und der Liederstrom machen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

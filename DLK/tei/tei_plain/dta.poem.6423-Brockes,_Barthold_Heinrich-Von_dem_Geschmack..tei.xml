@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Geschmack.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">171</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">669</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Geschmack.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dasjenige, was uns in frischer Jugend schmecket,</l>
+            <l>Das schmecket uns nicht mehr, so bald</l>
+            <l>Man alt geworden ist und kalt.</l>
+            <l>Allein, ohn daß zu weit das Alter sich erstrecket;</l>
+            <l>So zeigt ja die Erfahrung an,</l>
+            <l>Daß offtermals bey uns, und zwar in wenig Tagen,</l>
+            <l>Solch eine Aenderung sich zugetragen;</l>
+            <l>Wenn unser Cörper sich nicht wol befindet,</l>
+            <l>Durch Galle aufgebracht, durchs Fiebers Hitz’ entzündet,</l>
+            <l>Und Dünste sich sodann</l>
+            <l>Aus unserm krancken Magen heben,</l>
+            <l>Die an der Zunge Zäsern kleben.</l>
+            <l>Daher denn, was man isst, uns nichts als Eckel schafft,</l>
+            <l>Indem es bitter, saur, verdrüßlich, unschmackhafft.</l>
+            <l>Und solche durch die Plag’ erzeugte Widrigkeit</l>
+            <l>Währt, wenn man gleich gesund, noch öffters lange Zeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

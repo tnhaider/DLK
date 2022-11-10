@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Würde der Schreiber .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">209</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">865</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Würde der Schreiber .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Papiers Natur ist Rauschen,               </l>
+            <l>Und rauschen kann es viel,</l>
+            <l>Leicht kann man es belauschen,</l>
+            <l>Denn es stets rauschen will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es rauscht an allen Orten,</l>
+            <l>Wo sein ein Bißlein ist,</l>
+            <l>Also auch die Gelehrten</l>
+            <l>Rauschen ohn alle List.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus Lumpen thut man machen,</l>
+            <l>Des edlen Schreibers Zeug,</l>
+            <l>Es möcht wohl jemand lachen,</l>
+            <l>Führwahr ich dir nicht leug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alt Hadern rein gewaschen,</l>
+            <l>Dazu man brauchen thut,</l>
+            <l>Hebt manchen aus der Aschen,</l>
+            <l>Der sonst litt groß Armuth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Feder hintern Ohren,</l>
+            <l>Zum Schreiben zugespitzt,</l>
+            <l>Thut manchen heimlich zornen,</l>
+            <l>Voran der Schreiber sitzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vor andern Knaben allen,</l>
+            <l>Weil man ihn Schreiber heißt,</l>
+            <l>Thut Fürsten wohl gefallen,</l>
+            <l>Die lieben ihn allermeist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Schreiber man wohl nennet</l>
+            <l>Ein edlen theuren Schatz,</l>
+            <l>Wiewohl mans ihm nicht gönnet</l>
+            <l>Dennoch hält er den Platz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vorm Schreiber muß sich biegen</l>
+            <l>Oft mancher stolze Held,</l>
+            <l>Und in den Winkel schmiegen,</l>
+            <l>Obs ihm gleich nicht gefällt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

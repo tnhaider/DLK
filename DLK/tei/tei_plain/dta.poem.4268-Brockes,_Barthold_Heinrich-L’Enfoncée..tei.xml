@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">L’Enfoncée.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">752</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>L’Enfoncée.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In einer von Natur rund- ausgehöhlten Tiefe,</l>
+            <l>Wo rings umher ein Kreis von Bäumen stand,</l>
+            <l>Schien’ recht, da ich die schöne Stelle fand,</l>
+            <l>Als ob sie mir mit stillen Worten riefe,</l>
+            <l>Und spräch’: </l>
+            <l>Von einer Lauben auch.</l>
+            <l>Worauf, wie ich den Ort mit Blicken überliefe,</l>
+            <l>Und daß er lustig läg’, erwog und überdachte,</l>
+            <l>Auch Caprifolium in grosser Menge funde;</l>
+            <l>Ich, mit geringer Müh’, und schon in einer Stunde,</l>
+            <l>Auch eine Laube hier zum Stande brachte.</l>
+            <l>Wie nun die Waldung hier</l>
+            <l>Am allerdicksten schier</l>
+            <l>Und ganz verwachsen ist, ließ ich drey Steige graben,</l>
+            <l>Wodurch wir zu dem Ort so manchen Zugang haben,</l>
+            <l>Die alle lustig sind. Dieß ist ein Ort, wo man</l>
+            <l>Nicht weniger als sonst des Schöpfers Ruhm vermehren,</l>
+            <l>Jhn, in Bewunderung der schönen Welt, verehren,</l>
+            <l>Jhn preisen und Jhm danken kann.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

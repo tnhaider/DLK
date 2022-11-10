@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Freuden</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-9 2-5 3-1 4-9 5-5 6-1</measure>
+        <measure type="syllables">214</measure>
+        <measure type="tokens">160</measure>
+        <measure type="characters">842</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1790</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Freuden</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es flattert um die Quelle</l>
+            <l>Die wechselnde Libelle,</l>
+            <l>Mich freut sie lange schon;</l>
+            <l>Bald dunkel und bald helle,</l>
+            <l>Wie der Chamäleon,</l>
+            <l>Bald rot, bald blau,</l>
+            <l>Bald blau, bald grün;</l>
+            <l>O daß ich in der Nähe</l>
+            <l>Doch ihre Farben sähe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie schwirrt und schwebet, rastet nie!</l>
+            <l>Doch still, sie setzt sich an die Weiden.</l>
+            <l>Da hab ich sie! Da hab ich sie!</l>
+            <l>Und nun betracht ich sie genau</l>
+            <l>Und seh ein traurig dunkles Blau –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So geht es dir, Zergliedrer deiner Freuden!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es flattert um die Quelle</l>
+            <l>Die wechselnde Libelle,</l>
+            <l>Mich freut sie lange schon;</l>
+            <l>Bald dunkel und bald helle,</l>
+            <l>Wie der Chamäleon,</l>
+            <l>Bald rot, bald blau,</l>
+            <l>Bald blau, bald grün;</l>
+            <l>O daß ich in der Nähe</l>
+            <l>Doch ihre Farben sähe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie schwirrt und schwebet, rastet nie!</l>
+            <l>Doch still, sie setzt sich an die Weiden.</l>
+            <l>Da hab ich sie! Da hab ich sie!</l>
+            <l>Und nun betracht ich sie genau</l>
+            <l>Und seh ein traurig dunkles Blau –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So geht es dir, Zergliedrer deiner Freuden!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

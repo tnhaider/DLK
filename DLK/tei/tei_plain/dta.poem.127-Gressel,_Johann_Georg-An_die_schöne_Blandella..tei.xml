@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die schöne  Blandella.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">629</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die schöne  Blandella.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die kalten Sinnen sind von heisser Lust entbrannt/</l>
+            <l>Der netten Augen-Pracht hat solche angezündet/</l>
+            <l>Die Wirckung dieses Strahls die Seele mit empfindet/</l>
+            <l>Dein gold-gemengtes Haar/ der Stirnen Perlen-Band</l>
+            <l>Und die Corallen-See der Lippen sind </l>
+            <l>Des Busens heisser Schnee sich mit der Gluht verbindet/</l>
+            <l>Die aus den Augen bricht: dem/ wer sich unterwindet</l>
+            <l>Dich dreiste anzusehn/ ists Feur schon zuerkant.</l>
+            <l>Die Glieder lassen sich wie klahre Perlen sehen;</l>
+            <l>Um den Albaster Leib die Anmuths-Liljen siehen/</l>
+            <l>Und die </l>
+            <l>Des Busens-Paradieß läst mich auf Schwanen gehen/</l>
+            <l>Ich schau ein Canaan von den Albaster Höhen/</l>
+            <l>Blandella führ mich doch in dis Gelobte-Land.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

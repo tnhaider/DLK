@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">147.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">596</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>147.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Märchen von dem Schatz, den dort der Mann verhieß</l>
+            <l>Drei Söhnen, welchen er den Weinberg hinterließ,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Schatze, welchen sie im Weinberg sollten graben,</l>
+            <l>Worauf sie umgewühlt den ganzen Weinberg haben,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der, so im Grund erneut, dreifältig Früchte trug,</l>
+            <l>Daß alle drei am Schatz auf einmal hatten gnug;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Märchen setzt voraus versäumten Weinbergsgrund,</l>
+            <l>Dem solche Heilung so gewaltsam war gesund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch hätt' ihn nach Gebühr der Mann gebaut im Leben,</l>
+            <l>Ein Fleiß'ger Fleißigen ihn sterbend übergeben;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Söhne braucht' er nicht zu täuschen noch zu plagen,</l>
+            <l>Der Weinberg ohne Zwang hätt' einen Schatz getragen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

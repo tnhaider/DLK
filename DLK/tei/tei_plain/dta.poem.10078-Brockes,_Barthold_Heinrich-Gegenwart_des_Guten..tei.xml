@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gegenwart des Guten.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-10 2-7</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">710</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gegenwart des Guten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie wir, wann wir Aurora Rosen-Licht</l>
+            <l>Nicht mehr am Firmamente sehen,</l>
+            <l>Selbst in Aurora Farben stehen,</l>
+            <l>Merckt es gleich unser Auge nicht;</l>
+            <l>Und wie wir in den Abend-Stunden</l>
+            <l>Das Abend-Roth nicht eh’ empfunden,</l>
+            <l>Als bis es sich von uns entfernet, und vergeht;</l>
+            <l>So mercken wir das Glück, das GOTT uns gönnet,</l>
+            <l>In ferner Hoffnung nur, auch wann sichs von uns trennet;</l>
+            <l>Nur dann am wenigsten, wanns uns am nächsten steht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach liebste Menschen, lernet! lernet</l>
+            <l>Das gegenwärtge Glück erkennen;</l>
+            <l>Nicht, wann es noch nicht da! nicht erst, wann sichs ent-</l>
+            <l>Und nicht in Furcht und Hoffnung nur allein,</l>
+            <l>Nein dann, wann ihr es seyd, vergnügt zu seyn!</l>
+            <l>So dürftet ihr vielleicht, in wol empfundnen Freuden,</l>
+            <l>Aus blosser Danckbarkeit, die Laster meiden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

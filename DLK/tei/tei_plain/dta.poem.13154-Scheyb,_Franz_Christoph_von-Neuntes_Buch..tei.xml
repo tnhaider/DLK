@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neuntes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">630</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neuntes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„vernehmet also nur, wie breit, wie hoch, wie lang</l>
+            <l>270”Der Bau sey; welchen Raum der Welt er in sich fang.</l>
+            <l>„das Erd-Rund ist zu klein den Tempel einzuschliessen;</l>
+            <l>„der Grund und sein Bezirck ist weiter aufgerissen,</l>
+            <l>„nicht von der Künste Wiz und Richtschnur aufgeführt;</l>
+            <l>„jedoch von Sturz und Fall auf immer unberührt.</l>
+            <l>275”Nichts aus der Erde Schoß, nichts von derselben Schäzen,</l>
+            <l>„nichts was den Reichen pflegt dem Fürsten beyzusezen,</l>
+            <l>„ziert diesen Ehren-Bau; kein Marmel oder Erz,</l>
+            <l>„kein Silber oder Gold, das man sonst anderwärts</l>
+            <l>„in solche Ruhm-Paläst’ in Berg’ und Bögen häufet,</l>
+            <l>280”Ist des Gebäudes Schmuck, in dem die Pracht sich steiffet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Geliebte,</title>
+        <author>
+          <persName>
+            <surname>Klabund</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-6 3-4 4-6</measure>
+        <measure type="syllables">222</measure>
+        <measure type="tokens">150</measure>
+        <measure type="characters">850</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1909</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Geliebte,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als ich mich heute Nacht in den Kissen richtete,</l>
+            <l>Traf mich dein Atem wie das Sägen des Totenwurms,</l>
+            <l>Der sich mit dem Surren des Sturms</l>
+            <l>Draußen – zu dumpfer Symphonie verdichtete.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf der Straße klang es wie ein Getreck</l>
+            <l>Von Wagen zu einem Leichenzug...</l>
+            <l>Das Haustor knirschte... im Zimmer war Totenruch...</l>
+            <l>Sie wollten den Sarg auf ihre Schultern heben...</l>
+            <l>Da riß ich dich an mein lebendiges Leben</l>
+            <l>Und küßte den Tod dir von den Lippen weg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als ich mich heute Nacht in den Kissen richtete,</l>
+            <l>Traf mich dein Atem wie das Sägen des Totenwurms,</l>
+            <l>Der sich mit dem Surren des Sturms</l>
+            <l>Draußen – zu dumpfer Symphonie verdichtete.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf der Straße klang es wie ein Getreck</l>
+            <l>Von Wagen zu einem Leichenzug...</l>
+            <l>Das Haustor knirschte... im Zimmer war Totenruch...</l>
+            <l>Sie wollten den Sarg auf ihre Schultern heben...</l>
+            <l>Da riß ich dich an mein lebendiges Leben</l>
+            <l>Und küßte den Tod dir von den Lippen weg.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

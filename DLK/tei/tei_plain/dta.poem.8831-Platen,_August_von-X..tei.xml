@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">X.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">680</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>X.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es kehrt an das, was Kranke quält, sich ewig der Ge-</l>
+            <l>Und wäre nicht das Leben kurz, das stets der Mensch</l>
+            <l>So gäb's Beklagenswertheres auf diesem weiten Runde</l>
+            <l>Einförmig stellt Natur sich her, doch tausendförmig ist</l>
+            <l>Es fragt die Welt nach meinem Ziel, nach deiner lezten</l>
+            <l>Und wer sich willig nicht ergiebt dem ehrnen Loose, das</l>
+            <l>Der zürnt in's Grab sich rettungslos, und fühlt in</l>
+            <l>Dies wissen Alle, doch vergißt es Jeder gerne jeden Tag,</l>
+            <l>So komme denn, in diesem Sinn, hinfort aus meinem</l>
+            <l>Vergeßt, daß auch die Welt betrügt, und daß ihr Wunsch</l>
+            <l>Laßt eurer Liebe nichts entgehn, entschlüpfen eurer</l>
+            <l>Es hoffe Jeder, daß die Zeit ihm gebe was sie Keinem</l>
+            <l>Denn Jeder sucht ein All zu seyn, und Jeder ist im</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

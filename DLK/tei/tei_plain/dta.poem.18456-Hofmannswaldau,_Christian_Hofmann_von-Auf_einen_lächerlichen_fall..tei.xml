@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf einen lächerlichen fall.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">527</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1703</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199360"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf einen lächerlichen fall.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Marcolph ging sehr berauscht die füsse zu bedecken/</l>
+            <l>Fiel aber in den koth/ weil ihm der kopf zu schwer:</l>
+            <l>Die sau roch den geruch/ lies ihr den braten schmecken/</l>
+            <l>Und suchte mehr confect/ kam endlich ohngefehr</l>
+            <l>Auf des Marcolphen maul mit ihrem rauchen rüßel/</l>
+            <l>Und zwar was ungelind: Marcolph vermeint im traum/</l>
+            <l>Er hielte dem barbier/ der ihn sonst putzt/ die schüssel/</l>
+            <l>Drum sprach er/ unterm bart/ so daß mans hörte kaum/</l>
+            <l>Herr putzet nicht so hart/ streicht doch das messer besser/</l>
+            <l>Potz velten! Putzt mich nicht mit solchem stumpfen messer.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

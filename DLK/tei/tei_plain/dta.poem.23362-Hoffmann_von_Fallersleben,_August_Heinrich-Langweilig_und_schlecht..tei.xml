@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Langweilig und schlecht.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">495</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Langweilig und schlecht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie ist die Willkür und Gewalt</l>
+            <l>Doch in der Welt gemein!</l>
+            <l>Die Welt ist schon so klug und alt</l>
+            <l>Und muß noch dienstbar sein!</l>
+            <l>Wann bricht der Freiheit goldner Strahl</l>
+            <l>In unsre Nacht hinein?</l>
+            <l>Wann endet unser Joch einmal,</l>
+            <l>Wann unsre Noth und Pein?</l>
+            <l>O weh! o weh!</l>
+            <l>Wann unsre Noth und Pein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geduld ist unsre Fröhlichkeit,</l>
+            <l>Gehorsam unser Glück,</l>
+            <l>Und niemals kommt Zufriedenheit</l>
+            <l>In unsre Welt zurück.</l>
+            <l>Wohl anders wird es jeden Tag,</l>
+            <l>Doch besser wird es nie.</l>
+            <l>Wer </l>
+            <l>Ist dumm wie's liebe Vieh,</l>
+            <l>O weh! o weh!</l>
+            <l>Ist dumm wie's liebe Vieh.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

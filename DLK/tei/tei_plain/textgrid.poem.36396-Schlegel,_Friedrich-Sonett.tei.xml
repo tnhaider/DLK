@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonett</title>
+        <author>
+          <persName>
+            <surname>Schlegel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3 5-4 6-4 7-3 8-3</measure>
+        <measure type="syllables">308</measure>
+        <measure type="tokens">196</measure>
+        <measure type="characters">1150</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1800</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonett</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was will das bunte Tageslicht mir geben?</l>
+            <l>Den trüben Blick verwunden seine Farben;</l>
+            <l>Nur denen blühend, so im Herzen starben,</l>
+            <l>Den muntern Augen, die dem Leben leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bis mich die Zeit zum Tode wird erheben,</l>
+            <l>Lieb' ich im Leben nichts, als seine Narben,</l>
+            <l>Weil sie die Lust zum Leben mir verdarben</l>
+            <l>Und ewig wehren nach dem Nichts zu streben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Dunkel nur, das alles zart verkleidet,</l>
+            <l>Ergetzt mein Auge sich, und mein Verlangen</l>
+            <l>Entzünden schöner Liebe goldne Fernen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Todes Bild, das helle Laute meidet,</l>
+            <l>Kömmt freundlich in der stillen Nacht gegangen,</l>
+            <l>Umfunkelt von des Himmels ew'gen Sternen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was will das bunte Tageslicht mir geben?</l>
+            <l>Den trüben Blick verwunden seine Farben;</l>
+            <l>Nur denen blühend, so im Herzen starben,</l>
+            <l>Den muntern Augen, die dem Leben leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bis mich die Zeit zum Tode wird erheben,</l>
+            <l>Lieb' ich im Leben nichts, als seine Narben,</l>
+            <l>Weil sie die Lust zum Leben mir verdarben</l>
+            <l>Und ewig wehren nach dem Nichts zu streben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Dunkel nur, das alles zart verkleidet,</l>
+            <l>Ergetzt mein Auge sich, und mein Verlangen</l>
+            <l>Entzünden schöner Liebe goldne Fernen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Todes Bild, das helle Laute meidet,</l>
+            <l>Kömmt freundlich in der stillen Nacht gegangen,</l>
+            <l>Umfunkelt von des Himmels ew'gen Sternen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

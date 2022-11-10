@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lob der einsamkeit.  
+ G. L.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">121</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">458</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lob der einsamkeit.  
+ G. L.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einsamkeit mag immerhin</l>
+            <l>Schimpfflich ausgehönet werden,</l>
+            <l>Nichts vergnüget mich auf erden,</l>
+            <l>Als wenn ich alleine bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stilles leben hilfft dem geist</l>
+            <l>Auf verborgne spur zu sinnen,</l>
+            <l>Und dasselbe zu gewinnen,</l>
+            <l>Was gerecht und edel heist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Giebt das unglück einen stich,</l>
+            <l>Und verdoppelt mir die sorgen,</l>
+            <l>Bleibt es doch der welt verborgen,</l>
+            <l>Und die stille tröstet mich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieses lobet mein gedicht:</l>
+            <l>Ich mag ihr die schmertzen klagen,</l>
+            <l>Oder meine freude sagen,</l>
+            <l>Einsamkeit verräth mich nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

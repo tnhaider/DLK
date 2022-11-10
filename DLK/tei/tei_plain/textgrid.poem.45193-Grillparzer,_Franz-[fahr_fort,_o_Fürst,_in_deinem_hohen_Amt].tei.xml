@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[fahr fort, o Fürst, in deinem hohen Amt]</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">702</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[fahr fort, o Fürst, in deinem hohen Amt]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fahr fort, o Fürst, in deinem hohen Amt,</l>
+            <l>Um das der Ehrgeiz selbst dich nicht beneidet,</l>
+            <l>Das rettet nur, indems zugleich verdammt,</l>
+            <l>Wie einst der jüngste Tag die Seelen scheidet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gesetzt in eine Zeit von blutgem Wahn,</l>
+            <l>Die reife glaubt, was Fäulnis bis zur Mitten,</l>
+            <l>Und Fortschritt, wenn nicht weiter in der Bahn,</l>
+            <l>Wenn seitwärts aus der Bahn sie fortgeschritten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fahr fort, o Fürst, in deinem hohen Amt,</l>
+            <l>Um das der Ehrgeiz selbst dich nicht beneidet,</l>
+            <l>Das rettet nur, indems zugleich verdammt,</l>
+            <l>Wie einst der jüngste Tag die Seelen scheidet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gesetzt in eine Zeit von blutgem Wahn,</l>
+            <l>Die reife glaubt, was Fäulnis bis zur Mitten,</l>
+            <l>Und Fortschritt, wenn nicht weiter in der Bahn,</l>
+            <l>Wenn seitwärts aus der Bahn sie fortgeschritten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

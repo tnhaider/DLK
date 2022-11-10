@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Einladung zur Liebe.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">388</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Einladung zur Liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>M&amp;#228;dchen, wolt ihr mich nicht lieben?</l>
+            <l>Seht, hier lieg ich in dem Schatten!</l>
+            <l>Seht mich nur, ihr müßt mich lieben!</l>
+            <l>Rosen blühen auf den Wangen,</l>
+            <l>In den Adern glühet Feuer,</l>
+            <l>In den Minen lacht Vergnügen,</l>
+            <l>In den Augen lokket Liebe,</l>
+            <l>Und bewegen sich die Lippen,</l>
+            <l>So bewegt sie Scherz und Freude.</l>
+            <l>Mädchen, wolt ihr mich nicht lieben?</l>
+            <l>Seht, hier lieg ich in dem Schatten,</l>
+            <l>Mädchen seht, wie schön ich liege!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

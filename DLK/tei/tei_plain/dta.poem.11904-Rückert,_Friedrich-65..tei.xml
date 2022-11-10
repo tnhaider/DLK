@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">65.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">103</measure>
+        <measure type="characters">579</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>65.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer Alles mag in Gott, in Allem Gott betrachten,</l>
+            <l>Hat keinen Grund ein Ding groß oder klein zu achten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie sollte scheinen ihm ein Allergröstes groß,</l>
+            <l>Da es ein Kleinstes ist vorm Einziggroßen bloß?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie dürfte gelten ihm das Allerkleinste klein,</l>
+            <l>Da mit dem Grösten es hat Gottes Geist gemein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach deiner Einsicht nur erhebest du zumeist</l>
+            <l>Das, was am klarsten dir abspiegelt Gottes Geist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Je höher aber selbst wird deine Einsicht steigen,</l>
+            <l>Je klarer wird der Geist in Allem dir sich zeigen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Bösen Schein ists, was des Guten Glanz verhält;</l>
+            <l>Zerstör das Bös' in dir, so siehst du gut die Welt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

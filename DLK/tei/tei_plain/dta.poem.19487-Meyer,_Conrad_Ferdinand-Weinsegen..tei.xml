@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Weinsegen.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">341</measure>
+        <measure type="tokens">220</measure>
+        <measure type="characters">1329</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Weinsegen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heut athm' ich mit den Sommerlüften</l>
+            <l>Die allerfeinsten Würzen ein,</l>
+            <l>Ich kenne dieses seltne Düften:</l>
+            <l>Heut blüht der echte Klosterwein.</l>
+            <l>Hier zog im Land die ersten Trauben</l>
+            <l>Zum ersten Liebesmahl der Abt,</l>
+            <l>Der mit dem theuern Christenglauben</l>
+            <l>Uns öde Heiden einst begabt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Kloster, längst ist's schon verschwunden,</l>
+            <l>Zerstäubt mit Altar, Gruft und Chor,</l>
+            <l>Doch steigt in diesen Mittagsstunden —</l>
+            <l>So heißt's — der erste Abt empor.</l>
+            <l>Nicht will er zu der Lese kommen,</l>
+            <l>Wo wild die Kelter überschäumt,</l>
+            <l>Nein, wie sich ziemt für einen Frommen,</l>
+            <l>Wann mystisch süß die Blüthe träumt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was dort? Wer öffnet still das Gatter?</l>
+            <l>Berauscht die starke Würze mich?</l>
+            <l>Ein wallend blankes Rockgeflatter</l>
+            <l>Bewegt sich sacht und feierlich!</l>
+            <l>Es ist der Abt. Ich sehe bücken</l>
+            <l>Das edelgreise Haupt ihn dort,</l>
+            <l>Die frechen Nachbarskinder drücken</l>
+            <l>Sich schleunig durch die Hecke fort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er prüft genau die zarte Blüte,</l>
+            <l>Die jungen Schoße licht und grün,</l>
+            <l>Sein Angesicht ist voller Güte</l>
+            <l>Und voll von herzlichem Bemühn.</l>
+            <l>Hochwürden blickt so hell und heiter,</l>
+            <l>Dies Jahr geräth der Wein wie nie!</l>
+            <l>Er wandelt zu den Stufen weiter</l>
+            <l>Und geisterleicht ersteigt er sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon auf des Weinbergs Höhe schreitet</l>
+            <l>Er bei dem kleinen Winzerhaus.</l>
+            <l>Er setzt sich auf die Bank. Er breitet</l>
+            <l>Die Geisterhände mächtig aus.</l>
+            <l>Er segnet seine Klosterreben,</l>
+            <l>Sein eigen vielgeliebtes Kind,</l>
+            <l>Uns Ketzer segnet er daneben,</l>
+            <l>Die seines Weinbergs Erben sind.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sie hat sich mit einem messer versehret.  
+ C. E.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">149</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">613</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sie hat sich mit einem messer versehret.  
+ C. E.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich jam̃ert deiner hand/ mich schmertzen deine wunden/</l>
+            <l>Die du/ Climene/ jüngst durch einen schnitt empfunden;</l>
+            <l>Das messer/ welches dich biß auff das blut gerührt/</l>
+            <l>Hat mich und meinen geist in gleiche noth gerissen/</l>
+            <l>Ich muß so wohl/ wie du/ den kühnen frevel büssen/</l>
+            <l>Den es nur wider dich allein hat ausgeführt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diß leid ich neben dir; nur du fühlst nicht die schmertzen/</l>
+            <l>Die dein erhitztes aug’ in meiner brust erregt;</l>
+            <l>Der schaden ist zu groß/ den mir die liebe schlägt/</l>
+            <l>Climene/ lache nicht/ hier gilt fürwahr kein schertzen:</l>
+            <l>Denn eine wunde/ die das hertze selber trifft/</l>
+            <l>Hat selten etwas guts/ offt gar den todt gestifft.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

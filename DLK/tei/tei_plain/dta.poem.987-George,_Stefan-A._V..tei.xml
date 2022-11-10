@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">A. V.</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">85</measure>
+        <measure type="tokens">55</measure>
+        <measure type="characters">458</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>A. V.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr ahnt die linien unsrer hellen welten                 </l>
+            <l>Die bunten halden mit den rebenkronen                 </l>
+            <l>Den zefir der durch grade pappeln fl&amp;#252;stert                 </l>
+            <l>Und Tiburs wasser weich wie liebesflöten?                 </l>
+            <l>Da hebt sich euer blondes haupt: kennt IHR                 </l>
+            <l>Der nebel tanz im moore grenzenlos                 </l>
+            <l>Im d&amp;#252;nenried der st&amp;#252;rme orgelton                 </l>
+            <l>Und das ger&amp;#228;usch der ungeheuren see?               </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

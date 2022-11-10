@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die gepriesene Freiheit</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">834</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1793</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die gepriesene Freiheit</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hört, Ihr Mächtigen, hört! Der Feder größeste Freiheit</l>
+            <l>Herrschet anjetzt; es schreibt jede, was jeder gefällt.</l>
+            <l>Loben und tadeln dürfen wir laut ohn' alle Besorgniß;</l>
+            <l>Was Pasquino gedenkt, spricht er und findet Gehör.</l>
+            <l>Eins nur wagen wir nicht: reinaus zu sagen </l>
+            <l>Weihrauch liebet man wol, aber kein würziges Salz.</l>
+            <l>Hört, Ihr Mächtigen, hört! Die hochgepriesene Freiheit</l>
+            <l>Unsrer Feder, sie ist knechtischer, schmeichelnder Dienst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hört, Ihr Mächtigen, hört! Der Feder größeste Freiheit</l>
+            <l>Herrschet anjetzt; es schreibt jede, was jeder gefällt.</l>
+            <l>Loben und tadeln dürfen wir laut ohn' alle Besorgniß;</l>
+            <l>Was Pasquino gedenkt, spricht er und findet Gehör.</l>
+            <l>Eins nur wagen wir nicht: reinaus zu sagen </l>
+            <l>Weihrauch liebet man wol, aber kein würziges Salz.</l>
+            <l>Hört, Ihr Mächtigen, hört! Die hochgepriesene Freiheit</l>
+            <l>Unsrer Feder, sie ist knechtischer, schmeichelnder Dienst.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

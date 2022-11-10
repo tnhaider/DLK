@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[jesukind, du Licht der Blinden]</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">674</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1825</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[jesukind, du Licht der Blinden]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jesukind, du Licht der Blinden</l>
+            <l>Mache mich doch einmal blind</l>
+            <l>Daß ich dir, wie mir dies Kind,</l>
+            <l>Auf dem Pfad mich mög' verbinden</l>
+            <l>Wo du mich auch hin willst führen</l>
+            <l>Denn mein armes eignes Licht</l>
+            <l>Kann auch selbst beim Licht noch nicht</l>
+            <l>Dich das wahre Licht recht spüren</l>
+            <l>O wie töricht, töricht ist</l>
+            <l>Der nicht in allem ohne Ausnahm'</l>
+            <l>Folget dir zu jeder Frist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jesukind, du Licht der Blinden</l>
+            <l>Mache mich doch einmal blind</l>
+            <l>Daß ich dir, wie mir dies Kind,</l>
+            <l>Auf dem Pfad mich mög' verbinden</l>
+            <l>Wo du mich auch hin willst führen</l>
+            <l>Denn mein armes eignes Licht</l>
+            <l>Kann auch selbst beim Licht noch nicht</l>
+            <l>Dich das wahre Licht recht spüren</l>
+            <l>O wie töricht, töricht ist</l>
+            <l>Der nicht in allem ohne Ausnahm'</l>
+            <l>Folget dir zu jeder Frist.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

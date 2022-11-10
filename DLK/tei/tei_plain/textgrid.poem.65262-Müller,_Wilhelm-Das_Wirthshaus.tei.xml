@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Wirthshaus</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">804</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1810</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Wirthshaus</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf einen Todtenacker</l>
+            <l>Hat mich mein Weg gebracht.</l>
+            <l>Allhier will ich einkehren:</l>
+            <l>Hab' ich bei mir gedacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr grünen Todtenkränze</l>
+            <l>Könnt wohl die Zeichen sein,</l>
+            <l>Die müde Wandrer laden</l>
+            <l>In's kühle Wirthshaus ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sind denn in diesem Hause</l>
+            <l>Die Kammern all' besetzt?</l>
+            <l>Bin matt zum Niedersinken</l>
+            <l>Und tödtlich schwer verletzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O unbarmherz'ge Schenke,</l>
+            <l>Doch weisest du mich ab?</l>
+            <l>Nun weiter denn, nur weiter,</l>
+            <l>Mein treuer Wanderstab!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf einen Todtenacker</l>
+            <l>Hat mich mein Weg gebracht.</l>
+            <l>Allhier will ich einkehren:</l>
+            <l>Hab' ich bei mir gedacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr grünen Todtenkränze</l>
+            <l>Könnt wohl die Zeichen sein,</l>
+            <l>Die müde Wandrer laden</l>
+            <l>In's kühle Wirthshaus ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sind denn in diesem Hause</l>
+            <l>Die Kammern all' besetzt?</l>
+            <l>Bin matt zum Niedersinken</l>
+            <l>Und tödtlich schwer verletzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O unbarmherz'ge Schenke,</l>
+            <l>Doch weisest du mich ab?</l>
+            <l>Nun weiter denn, nur weiter,</l>
+            <l>Mein treuer Wanderstab!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der winter-zeit.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">251</measure>
+        <measure type="tokens">175</measure>
+        <measure type="characters">994</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der winter-zeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll ich des winters art nicht lieben/</l>
+            <l>Weil er des jahres alter heist/</l>
+            <l>Der gärte zierrath nieder reist/</l>
+            <l>Wenn er der felder lust vertrieben/</l>
+            <l>Als ein unangenehmer greiß/</l>
+            <l>Verkleidet liegt in schnee und eiß?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der winter macht aus wasser brücken/</l>
+            <l>Auf welchen ich kan sicher stehn/</l>
+            <l>Auf welchen pferd und wagen gehn/</l>
+            <l>Der winter heilt mir brust und rücken/</l>
+            <l>Wenn mir des ofens liebligkeit</l>
+            <l>Macht in der stube sommer-zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jm winter hab ich zu geniessen/</l>
+            <l>Was mir der kühne jäger bringt/</l>
+            <l>Was nicht mehr in dem winter singt/</l>
+            <l>Kan in den magen sich verschliessen/</l>
+            <l>Des winters kälte machet hitz</l>
+            <l>In der verborgnen liebe sitz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jm winter können wir die sternen</l>
+            <l>Viel besser als im sommer sehn/</l>
+            <l>Und ist im winter nicht geschehn/</l>
+            <l>Was der ehristmonat giebt zu lernen?</l>
+            <l>Als du stiegst von des himmels thron/</l>
+            <l>Und wardst ein mensch/ o GOttes sohn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Uns haben dein reich vorzumahlen/</l>
+            <l>Daß in der gnaden-reichen zeit</l>
+            <l>Uns schenckt die lust der ewigkeit/</l>
+            <l>O JEsu! deine klare strahlen/</l>
+            <l>Den schönsten tag aus schwartzer nacht/</l>
+            <l>Den winter zu dem lentz gemacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

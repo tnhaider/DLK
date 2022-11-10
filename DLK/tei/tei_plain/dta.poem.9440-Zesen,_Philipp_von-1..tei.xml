@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">129</measure>
+        <measure type="characters">752</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach Liebster/ Ich liege schon nackend darnieder/</l>
+            <l>Wie soll ich die Kleider anzihn/</l>
+            <l>Wie soll ich mir wider</l>
+            <l>Die Füße besudeln/ mein schönster Rubien.</l>
+            <l>Doch stecket durchs fenster mein Liebster die hände/</l>
+            <l>Mein Leben im hertzen erzittert dafür.</l>
+            <l>Ich machte mich eylend zum selbigen Ende/</l>
+            <l>und wolte dem Liebsten eröfnen die Thür.</l>
+            <l>Es troffen die Hände</l>
+            <l>Mit Myrrhen ohn ende</l>
+            <l>und waren benetzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hatte dem Liebsten eröfnet die Thüre/</l>
+            <l>Ach! aber wo war er doch hin?</l>
+            <l>Weil keinen ich spüre.</l>
+            <l>Ich suchte den Schönen mit traurigem Sinn;</l>
+            <l>Ich ruffte doch kont’ ich den Liebsten nicht hören/</l>
+            <l>Die Wächter beraubten und schlugen mich wund.</l>
+            <l>Euch Töchter Jerusalem will ich beschwören/</l>
+            <l>Findt jemand Mein Hertze/ so macht es Jhm kunt/</l>
+            <l>Wie daß ich vor Liebe</l>
+            <l>Mich hefftig betrübe</l>
+            <l>und lagerhafft sey.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

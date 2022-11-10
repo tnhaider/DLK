@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An DEN KNABEN ELIS</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-3 2-3 3-3 4-3 5-3 6-3 7-1</measure>
+        <measure type="syllables">182</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">683</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An DEN KNABEN ELIS</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Elis, wenn die Amsel im schwarzen Wald ruft,</l>
+            <l>Dieses ist dein Untergang.</l>
+            <l>Deine Lippen trinken die Kühle des blauen Felsenquells.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß, wenn deine Stirne leise blutet</l>
+            <l>Uralte Legenden</l>
+            <l>Und dunkle Deutung des Vogelflugs.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber gehst mit weichen Schritten in die Nacht,</l>
+            <l>Die voll purpurner Trauben hängt</l>
+            <l>Und du regst die Arme schöner im Blau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Dornenbusch tönt,</l>
+            <l>Wo deine mondenen Augen sind.</l>
+            <l>O, wie lange bist, Elis, du verstorben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Leib ist eine Hyazinthe,</l>
+            <l>In die ein Mönch die wächsernen Finger taucht.</l>
+            <l>Eine schwarze Höhle ist unser Schweigen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daraus bisweilen ein sanftes Tier tritt</l>
+            <l>Und langsam die schweren Lider senkt.</l>
+            <l>Auf deine Schläfen tropft schwarzer Tau,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das letzte Gold verfallener Sterne.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

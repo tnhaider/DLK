@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Schwestern.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">584</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Schwestern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir Schwestern zwei, wir schönen,</l>
+            <l>So gleich von Angesicht,</l>
+            <l>So gleicht kein Ei dem andern,</l>
+            <l>Kein Stern dem andern nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir Schwestern zwei, wir schönen,</l>
+            <l>Wir haben lichtbraune Haar,</l>
+            <l>Und flichst du sie in Einen Zopf,</l>
+            <l>Man kennt sie nicht fürwahr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir Schwestern zwei, wir schönen,</l>
+            <l>Wir tragen gleich Gewand,</l>
+            <l>Spazieren auf dem Wiesenplan</l>
+            <l>Und singen Hand in Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir Schwestern zwei, wir schönen,</l>
+            <l>Wir spinnen in die Wett',</l>
+            <l>Wir sitzen an Einer Kunkel,</l>
+            <l>Wir schlafen in Einem Bett.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Schwestern zwei, ihr schönen!</l>
+            <l>Wie hat sich das Blättchen gewend't!</l>
+            <l>Ihr liebet einerlei Liebchen —</l>
+            <l>Jezt hat das Liedel ein End'.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

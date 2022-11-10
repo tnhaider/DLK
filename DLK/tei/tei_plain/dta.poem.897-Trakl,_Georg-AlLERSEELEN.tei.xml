@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">AlLERSEELEN</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">648</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>AlLERSEELEN</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Männlein, Weiblein, traurige Gesellen,</l>
+            <l>Sie streuen heute Blumen blau und rot</l>
+            <l>Auf ihre Grüfte, die sich zag erhellen.</l>
+            <l>Sie tun wie arme Puppen vor dem Tod.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O! wie sie hier voll Angst und Demut scheinen,</l>
+            <l>Wie Schatten hinter schwarzen Büschen stehn.</l>
+            <l>Im Herbstwind klagt der Ungebornen Weinen,</l>
+            <l>Auch sieht man Lichter in der Irre gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Seufzen Liebender haucht in Gezweigen</l>
+            <l>Und dort verwest die Mutter mit dem Kind.</l>
+            <l>Unwirklich scheinet der Lebendigen Reigen</l>
+            <l>Und wunderlich zerstreut im Abendwind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Leben ist so wirr, voll trüber Plagen.</l>
+            <l>Erbarm’ dich Gott der Frauen Höll’ und Qual,</l>
+            <l>Und dieser hoffnungslosen Todesklagen.</l>
+            <l>Einsame wandeln still im Sternensaal.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

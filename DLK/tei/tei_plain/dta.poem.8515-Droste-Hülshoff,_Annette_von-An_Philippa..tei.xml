@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Philippa.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">204</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">791</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1860</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191007"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Philippa.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Osten quillt das junge Licht,</l>
+            <l>Sein goldner Duft spielt auf den Wellen,</l>
+            <l>Und wie ein zartes Traumgesicht</l>
+            <l>Seh ich ein fernes Segel schwellen;</l>
+            <l>O könnte ich der Möve gleich</l>
+            <l>Umkreisen es im lust’gen Ringen!</l>
+            <l>O wäre mein der Lüfte Reich,</l>
+            <l>Mein junge, lebensfrische Schwingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um dich, Philippa, spielt das Licht,</l>
+            <l>Dich hat der Morgenhauch umgeben,</l>
+            <l>Du bist ein liebes Traumgesicht</l>
+            <l>Am Horizont von meinem Leben;</l>
+            <l>Seh deine Flagge ich so fern</l>
+            <l>Und träumerisch von Duft umflossen,</l>
+            <l>Vergessen möcht’ ich dann so gern,</l>
+            <l>Daß sich mein Horizont geschlossen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vergessen, daß mein Abend kam,</l>
+            <l>Mein Licht verzittert Funk’ an Funken,</l>
+            <l>Daß Zeit mir längst die Flagge nahm</l>
+            <l>Und meine Segel längst gesunken;</l>
+            <l>Doch können sie nicht jugendlich</l>
+            <l>Und frisch sich neben deinen breiten,</l>
+            <l>Philippa, lieben kann ich dich</l>
+            <l>Und segnend deine Fahrt begleiten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

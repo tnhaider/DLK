@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiX.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">226</measure>
+        <measure type="tokens">178</measure>
+        <measure type="characters">937</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198462"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiX.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Krebs fuhr seinen Sohn mit diesen Worten an:</l>
+            <l>Wie gehst du so verkehrt, Sohn, stehst du in dem Wahn</l>
+            <l>Du gehest hinter sich ganz recht?</l>
+            <l>So bist du Herr, und ich bin Knecht.</l>
+            <l>Du solltest lernen vor sich gehn,</l>
+            <l>Wie auch dein Vater geht; das wird dir besser stehn.</l>
+            <l>Ein Sohn, der wie sein Vater thut,</l>
+            <l>Der wird gelobt, und das ist recht und gut.</l>
+            <l>Der Sohn sprach: Vater, du sagst wohl.</l>
+            <l>Ich weiß es, daß ein Sohn dem Vater folgen soll.</l>
+            <l>Deßwegen geh nur vor; laß sehen, wie du gehest,</l>
+            <l>So geh ich auch, wie du; und wie du stehest,</l>
+            <l>So steh ich auch; und wie du dich</l>
+            <l>Dann stellest, stell ich gleichfalls mich.</l>
+            <l>Da nun der Vater seinen Weg</l>
+            <l>Zum Beyspiel sollte vor sich gehen,</l>
+            <l>War er dazu ganz ungeschickt und träg;</l>
+            <l>Hingegen war er schnell sich rückwerts fortzudrehen.</l>
+            <l>Da sprach der Sohn zum Vater: Mein!</l>
+            <l>Was soll das vor ein Beyspiel seyn?</l>
+            <l>Du hast denselben Gang, wie ich,</l>
+            <l>Und gehst geschwinde hintersich,</l>
+            <l>Indem du solltest vor sich gehn.</l>
+            <l>Drum laß dein Strafen lieber stehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Gangloffs Geist .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">696</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Gangloffs Geist .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier in diesen üpp'gen Feldern,</l>
+            <l>Rebenbergen, wolk'gen Wäldern,</l>
+            <l>Um das Maal der Frauentreu',</l>
+            <l>Wo du giengst in stillem Sinnen, —</l>
+            <l>Brennt es mich im Busen innen,</l>
+            <l>Werden alte Wunden neu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Berg und Thale hör' ich fragen:</l>
+            <l>Hat er nicht auch dich getragen</l>
+            <l>Einst im Herzen liebewarm?</l>
+            <l>Kam er mit dir? — weh! und schauen</l>
+            <l>Muß ich deiner Tugend Auen,</l>
+            <l>Dann durch Thränen voll von Harm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber die dein Geist erdachte,</l>
+            <l>Deine Hand in's Leben brachte</l>
+            <l>In dem Wein-bekränzten Thal,</l>
+            <l>Jene Bilder alter Zeiten</l>
+            <l>Seh' ich oft vorüber gleiten</l>
+            <l>Geistern gleich im Mondenstrahl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deine Helden, deine Frauen</l>
+            <l>Geh'n mit mir durch diese Auen</l>
+            <l>Noch im späten Abendroth.</l>
+            <l>Flüstern: ist auch </l>
+            <l>Was sein Geist, sein Herz erfunden</l>
+            <l>Raubt der Freundes-Brust kein Tod.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

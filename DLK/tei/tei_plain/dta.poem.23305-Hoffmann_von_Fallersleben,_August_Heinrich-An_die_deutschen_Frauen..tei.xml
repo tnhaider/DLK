@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die deutschen Frauen.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">783</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die deutschen Frauen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seid mir gegrüßt, ihr deutschen Frauen,</l>
+            <l>Der schönern Zukunft Morgenroth!</l>
+            <l>Das Vaterland in seiner Noth?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr kennt noch frohe deutsche Weise,</l>
+            <l>Noch deutsche Zucht und Sittsamkeit;</l>
+            <l>Euch blieb in eurem stillen Kreise</l>
+            <l>Noch Frohsinn und Zufriedenheit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr tragt noch nicht die bunten Bänder,</l>
+            <l>Die man dem Staatsverdienste weiht;</l>
+            <l>Euch sind noch eure Hausgewänder</l>
+            <l>Mehr werth als ein Beamtenkleid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr seid noch nicht verlocket worden</l>
+            <l>Durch Titel oder andern Tand;</l>
+            <l>Euch kann noch sein der schönste Orden:</l>
+            <l>Die Liebe für das Vaterland.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohlan! ihr sollt im Kind' erwecken</l>
+            <l>Den Sinn für Vaterland und Recht,</l>
+            <l>Ihr sollt erziehn zum Feindesschrecken</l>
+            <l>Ein freies biederes Geschlecht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Euch muß vertrau'n, auf euch muß bauen</l>
+            <l>Das Vaterland in seiner Noth!</l>
+            <l>Seid mir gegrüßt, ihr deutschen Frauen,</l>
+            <l>Der schönern Zukunft Morgenroth!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

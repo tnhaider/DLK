@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">478</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein indischer Brahman, geboren auf der Flur,</l>
+            <l>Der nichts gelesen als den Weda der Natur;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hat viel gesehn, gedacht, noch mehr geahnt, gefühlt,</l>
+            <l>Und mit Betrachtungen die Leidenschaft gekühlt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Spricht bald was klar ihm ward, bald um sich's klar zu machen,</l>
+            <l>Von ihn angeh'nden halb, halb nicht angeh'nden Sachen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hat die Eigenheit, nur Einzelnes zu sehn,</l>
+            <l>Doch alles Einzelne als Ganzes zu verstehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Woran er immer nur sieht schimmern einen Glanz,</l>
+            <l>Wird ein Betkügelchen an seinem Rosenkranz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

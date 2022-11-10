@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Geist der Liebe.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">209</measure>
+        <measure type="tokens">142</measure>
+        <measure type="characters">834</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193300"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Geist der Liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer bist du, Geist der Liebe,               </l>
+            <l>Der durch das Weltall webt?</l>
+            <l>Den Schooss der Erde schwängert,</l>
+            <l>Und den Atom belebt,</l>
+            <l>Der Elemente bindet,</l>
+            <l>Der Weltenkugeln ballt,</l>
+            <l>Aus Engelharfen jubelt,</l>
+            <l>Und aus dem Säugling lallt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer bist du, Kraft der Kräfte,</l>
+            <l>Die Greisesaugen hellt?</l>
+            <l>Der Jünglingswangen röthet,</l>
+            <l>Und Mädchenbusen schwellt?</l>
+            <l>Der Liebe beut und fodert,</l>
+            <l>Um Liebe ringt und wirbt,</l>
+            <l>Und Messiaden dichtet,</l>
+            <l>Und Brutustode stirbt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bist du nicht Odem Gottes,</l>
+            <l>Unsträflich, wie sein Licht,</l>
+            <l>Und stark, wie seine Rechte,</l>
+            <l>Die Welten baut und bricht?</l>
+            <l>Bist unsers Kreuzzugs Fahne,</l>
+            <l>Entflammst mit heilger Scham</l>
+            <l>Den Feigen und den Matten,</l>
+            <l>Ein wehend Oriflamm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur der ist gut und edel,</l>
+            <l>Dem du den Bogen spannst.</l>
+            <l>Nur der ist gross und göttlich,</l>
+            <l>Den du zum Mann ermannst.</l>
+            <l>Sein Werk ist Pyramide,</l>
+            <l>Sein Wort ist Machtgebot.</l>
+            <l>Ein Spott ist ihm die Hölle,</l>
+            <l>Ein Hohn ist ihm der Tod</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

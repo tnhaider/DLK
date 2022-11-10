@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: So sanft, so still, als wir dich hier gefunden,</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">686</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: So sanft, so still, als wir dich hier gefunden,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So sanft, so still, als wir dich hier gefunden,</l>
+            <l>O mögest dus im ganzen Leben sein.</l>
+            <l>Und wär dein eigen Bild dir je entschwunden,</l>
+            <l>Denk an die Schwesterbäche von Gastein.</l>
+            <l>Wies stündlich dort gleich Mühlenrädern klappert,</l>
+            <l>Und mit dem Lärm die Ruh das Amt geteilt:</l>
+            <l>Der Wasserfall zerstört, bespritzt und plappert,</l>
+            <l>Die warme Quelle rieselt still und heilt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So sanft, so still, als wir dich hier gefunden,</l>
+            <l>O mögest dus im ganzen Leben sein.</l>
+            <l>Und wär dein eigen Bild dir je entschwunden,</l>
+            <l>Denk an die Schwesterbäche von Gastein.</l>
+            <l>Wies stündlich dort gleich Mühlenrädern klappert,</l>
+            <l>Und mit dem Lärm die Ruh das Amt geteilt:</l>
+            <l>Der Wasserfall zerstört, bespritzt und plappert,</l>
+            <l>Die warme Quelle rieselt still und heilt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

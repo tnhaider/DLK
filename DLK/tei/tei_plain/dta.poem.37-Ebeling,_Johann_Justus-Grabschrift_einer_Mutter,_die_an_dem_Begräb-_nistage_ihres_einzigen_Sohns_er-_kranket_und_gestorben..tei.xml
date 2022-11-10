@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Grabschrift  
+ einer Mutter, die an dem Begräb-  
+ nistage ihres einzigen Sohns er-  
+ kranket und gestorben.</title>
+        <author>
+          <persName>
+            <surname>Ebeling</surname>
+            <forename>Johann Justus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">115</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">436</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1747</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198797"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Grabschrift  
+ einer Mutter, die an dem Begräb-  
+ nistage ihres einzigen Sohns er-  
+ kranket und gestorben.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ruh wol du Seelige! du wirst gesät
+in Thränen,</l>
+            <l>Den Tod befördert dir, dein Kum-</l>
+            <l>Da nasse Kümmernis das matte Herze frißt,</l>
+            <l>Und dir des Sohnes Tod ein Weg zum Grabe ist.</l>
+            <l>Doch CHristi Kümmernis, sein trauriges Gebär-</l>
+            <l>Das heiligt deine Noth und der Natur Beschwer-</l>
+            <l>Auf deine Thränen Saat, folgt nun die Erndte-</l>
+            <l>Die deine Seel geniest in jener Ewigkeit.</l>
+            <l>Dein Leib ist in dies Grab verweslich ausgesäet</l>
+            <l>Daraus er dreinst verklärt durch CHristum aufer-</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

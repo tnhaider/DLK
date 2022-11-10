@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[dies, was dein Wiz gesezt und deine Laute spielt]</title>
+        <author>
+          <persName>
+            <surname>Günther</surname>
+            <forename>Johann Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">464</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1709</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[dies, was dein Wiz gesezt und deine Laute spielt]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies, was dein Wiz gesezt und deine Laute spielt,</l>
+            <l>Verdient, daß deßen Lob auch Völcker nach uns lesen;</l>
+            <l>Denn wäre nur die Weißheit hier gewesen,</l>
+            <l>Sie hätte bey der Finger Lust</l>
+            <l>In ihrer nie bewegten Brust</l>
+            <l>Die Herrschaft des Affects gefühlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies, was dein Wiz gesezt und deine Laute spielt,</l>
+            <l>Verdient, daß deßen Lob auch Völcker nach uns lesen;</l>
+            <l>Denn wäre nur die Weißheit hier gewesen,</l>
+            <l>Sie hätte bey der Finger Lust</l>
+            <l>In ihrer nie bewegten Brust</l>
+            <l>Die Herrschaft des Affects gefühlt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

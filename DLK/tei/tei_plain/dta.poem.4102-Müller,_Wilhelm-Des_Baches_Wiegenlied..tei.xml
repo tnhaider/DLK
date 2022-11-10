@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Des Baches Wiegenlied.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">29</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">773</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Des Baches Wiegenlied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thu die Augen zu!</l>
+            <l>Wandrer, du müder, du bist zu Haus.</l>
+            <l>Die Treu' ist hier,</l>
+            <l>Sollst liegen bei mir,</l>
+            <l>Bis das Meer will trinken die Bächlein aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Will betten dich kühl,</l>
+            <l>Auf weichem Pfühl,</l>
+            <l>In dem blauen krystallenen Kämmerlein.</l>
+            <l>Heran, heran,</l>
+            <l>Was wiegen kann,</l>
+            <l>Woget und wieget den Knaben mir ein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ein Jagdhorn schallt</l>
+            <l>Aus dem grünen Wald,</l>
+            <l>Will ich sausen und brausen wohl um dich her.</l>
+            <l>Blickt nicht herein,</l>
+            <l>Blaue Blümelein!</l>
+            <l>Ihr macht meinem Schläfer die Träume so schwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hinweg, hinweg,</l>
+            <l>Von dem Mühlensteg,</l>
+            <l>Böses Mägdlein, daß ihn dein Schatten nicht weckt!</l>
+            <l>Wirf mir herein</l>
+            <l>Dein Tüchlein fein,</l>
+            <l>Daß ich die Augen ihm halte bedeckt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gute Nacht, gute Nacht!</l>
+            <l>Bis Alles wacht,</l>
+            <l>Schlaf' aus deine Freude, schlaf' aus dein Leid!</l>
+            <l>Der Vollmond steigt,</l>
+            <l>Der Nebel weicht,</l>
+            <l>Und der Himmel da oben, wie ist er so weit!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Undanckbarkeit.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-5</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">117</measure>
+        <measure type="characters">684</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Undanckbarkeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Indem ich eben, voller Lust,</l>
+            <l>Bey diesem Blumen-Topff, voll </l>
+            <l>Und mit, zugleich durch Nas’ und Aug, erquickter Brust,</l>
+            <l>Den holden Balsam riech’ und ihren Glantz besehe;</l>
+            <l>Trug diese schöne Blüht’ der Andacht Frucht in mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es kam mir ungerecht, und fast unleidlich für,</l>
+            <l>Daß man des Schöpfers Werck, das doch so schön, nicht</l>
+            <l>Daß man es obenhin, ja gar nicht einst, betrachtet.</l>
+            <l>Ein stiller und geheimer Schmertz</l>
+            <l>Schlich sich in mein vergnügtes Hertz.</l>
+            <l>Recht mitten in der Lust, fieng ich mit seufzen, an:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! liebster Vater, sollt Du dann</l>
+            <l>Für solch ein schön Geschöpff, für alle Deine Gaben,</l>
+            <l>Für so viel Proben Deiner Güte,</l>
+            <l>Von uns nicht einst ein fröhliches Gemüthe,</l>
+            <l>Richt einst ein danckbar Hertze haben?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

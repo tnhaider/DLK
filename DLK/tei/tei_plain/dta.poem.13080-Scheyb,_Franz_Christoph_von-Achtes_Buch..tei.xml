@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">634</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ist in der Erde Rund ein Volck, ein Land, ein Staat,</l>
+            <l>„der anders, als durch mich sein hohes Ansehn hat?</l>
+            <l>„so bald die Noth befahl, vier Gabeln aufzurichten,</l>
+            <l>„und Stroh zum Dache war; so fieng ich an zu dichten,</l>
+            <l>„wie die Bequemlichkeit könnt beygefüget seyn;</l>
+            <l>110”Ich fande sie durch Kunst in Kalch, in Sand und Stein.</l>
+            <l>„mein Maß-Stab lehrte mich die Wohnung zu verbessern,</l>
+            <l>„so war gleich das Gebürg mit Häusern und mit Schlössern,</l>
+            <l>„hernach das öde Land, das Strauch und Wald verhüllt,</l>
+            <l>„mit Zäunen, Dach und Fach, mit Dörfern angefüllt;</l>
+            <l>115”Daß endlich aus der Nacht der Schrecken-vollen Schatten</l>
+            <l>„die Menschen in den Tag der Stadt zusammen traten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

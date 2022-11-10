@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">93.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">516</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>93.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die besten Fechter sind im Kampf gefallen immer,</l>
+            <l>So wie ertrunken meist im Strom die besten Schwimmer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum? weil in den Strom sich nur ein Schwimmer wagt,</l>
+            <l>Und nur ein Fechter nicht vorm Spiel der Waffen zagt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So reizend ist Gefahr, daß, wer nur halb sie kennt,</l>
+            <l>Sich gleich in sie verliebt, und zu mit Lust ihr rennt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer aber nicht sie kennt, und nie sie hat versucht,</l>
+            <l> sie scheuet und sich ihr entzieht mit feiger Flucht;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und nur die Weisesten die rechte Mitt' erzielen,</l>
+            <l>Weder Gefahr zu scheun, noch mit Gefahr zu spielen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

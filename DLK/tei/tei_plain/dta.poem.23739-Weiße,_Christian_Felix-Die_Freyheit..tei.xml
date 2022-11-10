@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Freyheit.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">598</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Freyheit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum, du kleine Nachtigall,</l>
+            <l>Hör ich nicht deiner Stimme Schall</l>
+            <l>Mehr der Natur zu Ehren?</l>
+            <l>Du sangst in Sträuchen ja zuvor</l>
+            <l>So wunderschön, daß aller Vögel Chor</l>
+            <l>Schwieg, wenn du sangst, um dich zu</l>
+            <l>hören.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jm goldnen Bauer sitzest du;</l>
+            <l>Ich trage dir die Speise zu</l>
+            <l>Schon mit dem frühsten Morgen.</l>
+            <l>Kein Sturm und Regen schadet dir;</l>
+            <l>Doch du singst nicht, und sitzest traurig</l>
+            <l>hier,</l>
+            <l>Als hättest du recht schwere Sorgen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie, sollt es dich vielleicht gereun,</l>
+            <l>Bey mir hier eingesperrt zu seyn?</l>
+            <l>Da flieg in Freyheit wieder!</l>
+            <l>O ja, du singst, schon hör ich dich</l>
+            <l>Vom nächsten Baum, und du belohnest</l>
+            <l>mich</l>
+            <l>Dafür durch deine besten Lieder!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

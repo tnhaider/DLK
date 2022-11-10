@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Iv</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-3 2-3 3-3</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">58</measure>
+        <measure type="characters">513</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Iv</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erwachen aus dem tiefsten traumesschoosse                 </l>
+            <l>Als ich von langer spiegelung betroffen                 </l>
+            <l>Mich neigte auf die lippen die erblichen               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ertragen sollet ihr nur mitleidgrosse!                 </l>
+            <l>Seid nur aus dank den euch geweihten offen:                 </l>
+            <l>Und die ber&amp;#252;hrten dann in solchen gluten               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die antwort gaben wider höchstes hoffen                 </l>
+            <l>Dass dem noch zweifelnden die sinne wichen                 </l>
+            <l>O rinnen der gl&amp;#252;ckseligen minuten!               </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

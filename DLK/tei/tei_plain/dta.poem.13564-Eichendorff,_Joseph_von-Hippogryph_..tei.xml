@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hippogryph .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">489</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hippogryph .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist das Flügelpferd mit Silberschellen,</l>
+            <l>Das heitere Gesellen</l>
+            <l>Empor hebt über Haidekraut und Klüfte,</l>
+            <l>Daß durch den Strom der Lüfte,</l>
+            <l>Die um den Reisehut melodisch pfeifen,</l>
+            <l>Des Ernst's Gewalt und Thoren-Lärm der Schlüfte</l>
+            <l>Als Frühlingsjauchzen nur die Brust mag streifen;</l>
+            <l>Und so im Flug' belauschen</l>
+            <l>Des trunknen Lieder-Gottes rüst'ge Söhne,</l>
+            <l>Wenn alle Höh'n und Thäler blüh'n und rauschen,</l>
+            <l>Im Morgenbad des Lebens ew'ge Schöne,</l>
+            <l>Die in dem Glanz erschrocken,</l>
+            <l>Sie glühend anblickt aus den dunklen Locken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

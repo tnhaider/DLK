@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Verwandlung</title>
+        <author>
+          <persName>
+            <surname>Blumauer</surname>
+            <forename>Aloys</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">496</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1776</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Verwandlung</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es wundert dich, daß ein so garstig Ding,</l>
+            <l>Als eine Raupe ist, zum schönsten Schmetterling</l>
+            <l>In wenig Wochen wird: – mich wundert's nicht;</l>
+            <l>Denn wiss', auch manche Schöne kriecht</l>
+            <l>Als Raupe Morgens aus dem Bette,</l>
+            <l>Und kömmt als Schmetterling von der Toilette.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es wundert dich, daß ein so garstig Ding,</l>
+            <l>Als eine Raupe ist, zum schönsten Schmetterling</l>
+            <l>In wenig Wochen wird: – mich wundert's nicht;</l>
+            <l>Denn wiss', auch manche Schöne kriecht</l>
+            <l>Als Raupe Morgens aus dem Bette,</l>
+            <l>Und kömmt als Schmetterling von der Toilette.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

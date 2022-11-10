@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Lieber Sterne ohne Strahlen,</title>
+        <author>
+          <persName>
+            <surname>Bodenstedt</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">402</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1855</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Lieber Sterne ohne Strahlen,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lieber Sterne ohne Strahlen,</l>
+            <l>Als Strahlen ohne Sterne –</l>
+            <l>Lieber Kerne ohne Schalen,</l>
+            <l>Als Schalen ohne Kerne –</l>
+            <l>Geld lieber ohne Taschen,</l>
+            <l>Als Taschen ohne Geld –</l>
+            <l>Wein lieber ohne Flaschen,</l>
+            <l>Als umgekehrt bestellt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lieber Sterne ohne Strahlen,</l>
+            <l>Als Strahlen ohne Sterne –</l>
+            <l>Lieber Kerne ohne Schalen,</l>
+            <l>Als Schalen ohne Kerne –</l>
+            <l>Geld lieber ohne Taschen,</l>
+            <l>Als Taschen ohne Geld –</l>
+            <l>Wein lieber ohne Flaschen,</l>
+            <l>Als umgekehrt bestellt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

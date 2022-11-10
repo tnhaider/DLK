@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">201</measure>
+        <measure type="tokens">131</measure>
+        <measure type="characters">810</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir saßen am Fischerhause,</l>
+            <l>Und schauten nach der See;</l>
+            <l>Die Abendnebel kamen,</l>
+            <l>Und stiegen in die Höh'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Leuchtthurm wurden die Lichter</l>
+            <l>Allmählig angesteckt,</l>
+            <l>Und in der weiten Ferne</l>
+            <l>Ward noch ein Schiff entdeckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir sprachen von Sturm und Schiffbruch,</l>
+            <l>Vom Seemann, und wie er lebt,</l>
+            <l>Und zwischen Himmel und Wasser,</l>
+            <l>Und Angst und Freude schwebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir sprachen von fernen Küsten,</l>
+            <l>Vom Süden und vom Nord,</l>
+            <l>Und von den seltsamen Menschen,</l>
+            <l>Und seltsamen Sitten dort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Ganges duftet's und leuchtet's</l>
+            <l>Und Riesenbäume blüh'n.</l>
+            <l>Und schöne, stille Menschen</l>
+            <l>Vor Lotosblumen knie'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Lappland sind schmutzige Leute,</l>
+            <l>Plattköpfig, breitmäulig und klein;</l>
+            <l>Sie kauern um's Feuer, und backen</l>
+            <l>Sich Fische, und quäken und schrei'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Mädchen horchten ernsthaft,</l>
+            <l>Und endlich sprach Niemand mehr;</l>
+            <l>Das Schiff war nicht mehr sichtbar,</l>
+            <l>Es dunkelte gar zu sehr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

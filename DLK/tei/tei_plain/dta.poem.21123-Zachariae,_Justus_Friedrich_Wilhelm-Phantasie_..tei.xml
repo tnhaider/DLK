@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Phantasie .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">756</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Phantasie .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Okehre wieder zurück, schwarzer Gedanke,</l>
+            <l>Zum Throne der Melancholey!</l>
+            <l>In mir erbebend, sah ich, Göttin der Schwermuth,</l>
+            <l>Gesandten deines finstern Hoss.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon überschatteten mich gräßliche Flügel</l>
+            <l>Der schreckensvollen Einbildung.</l>
+            <l>Es schwärmten um mich herum schwarze Phantomen,</l>
+            <l>Die in dem schweren Blut entstehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich gieng in Gräbern herum unter den Todten,</l>
+            <l>Und Geister kamen um mich her.</l>
+            <l>Seline selbst trat daher himmlisch gestaltet,</l>
+            <l>Mit einem Blumenkranz gekränzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie setzte sich an den Fuß einer Cypresse,</l>
+            <l>Die rauschend aus dem Grabe wuchs;</l>
+            <l>Sie lachte mich an, doch die Augen erstarben,</l>
+            <l>In denen ich den Himmel sah;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und es ward Schrecken und Nacht, da sie erblaßte,</l>
+            <l>Und mein Geschrey durchdrang die Luft —</l>
+            <l>O kehre wieder zurück, schwarzer Gedanke,</l>
+            <l>Zum Throne der Melancholey!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

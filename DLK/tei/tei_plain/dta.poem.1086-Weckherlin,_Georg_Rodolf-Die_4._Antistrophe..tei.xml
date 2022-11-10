@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die 4. Antistrophe.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">101</measure>
+        <measure type="tokens">60</measure>
+        <measure type="characters">390</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1618</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20628-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die 4. Antistrophe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wje der starcke Thetische sohn</l>
+            <l>Allerhand Ritterspihl geliebet/</l>
+            <l>Vnd sich täglich darin geübet/</l>
+            <l>Trachtend stehts nach der ehren-cron:</l>
+            <l>Als wolgeschickt zu rechter zeit</l>
+            <l>Zu dantzen/ ringen/ vnd turnieren/</l>
+            <l>Als vnver gleichlich in dem streit</l>
+            <l>Vber den feind zu triumfieren:</l>
+            <l>Also hat deiner wafen glantz</l>
+            <l>In schimpf den sig oft weggeführet/</l>
+            <l>Vnd den schwaissigen Lorbör-crantz</l>
+            <l>In ernst mit deinem haupt gezieret.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

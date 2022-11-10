@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">184</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">674</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O frommer Alter, zeig uns dann</l>
+            <l>Die theure Stelle, wo der Pfahl gestanden,</l>
+            <l>Woran den Gottmensch Mörder banden;</l>
+            <l>Damit ich fromm die Hände</l>
+            <l>Von da gen Himmel breite,</l>
+            <l>Und die Gelübde ganz vollende,</l>
+            <l>Mit welchen ich dem Herrn mich weihte.</l>
+            <l>Der Aberglaube gab mir nicht</l>
+            <l>Den Pilgerstab zu dieser Reise;</l>
+            <l>Ich weis, der wahre Christ</l>
+            <l>Kan, ohne diese Wallfahrt anzutreten,</l>
+            <l>So feuriger, so frommer Weise</l>
+            <l>Zu seinem Heiland aller Orten beten,</l>
+            <l>Als wir auf Golgatha;</l>
+            <l>Doch sollte nicht die Höh,</l>
+            <l>Worauf das größte Wunderwerk geschah,</l>
+            <l>Der Wandrer fromme Neugier mehr verdienen,</l>
+            <l>Als alle prächtigen Ruinen</l>
+            <l>Der Königsgräber, und der stolzen Mauren,</l>
+            <l>Mit Menschenblut erbaut,</l>
+            <l>Die, tiefgestürzt, nunmehr im Staube trauren?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

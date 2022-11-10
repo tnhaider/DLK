@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxVIII.  An  Pœtum. Anno ⅽⅼↄ ⅼↄ ⅽ  cxxxvii.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">129</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">533</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxVIII.  An  Pœtum. Anno ⅽⅼↄ ⅼↄ ⅽ  cxxxvii.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dv P&amp;#339;tus/ du beginst die Musen denn zu hassen/ </l>
+            <l>Vnd </l>
+            <l>Die Phillis die nichts weis von Ehr vnd Redligkeit: </l>
+            <l>Vnd die sich ohne Mann’ hat Mutter nennen lassen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Thor/ du glaubest no</l>
+            <l>Ein jeder nur von dier/ vnd deinem glücke s</l>
+            <l>Ja wol der Vogel selbst/ der vns die heisse zeit</l>
+            <l>An meldet/ wird dir auch ein Hochzeit Lied verfassen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein glück ist freylich groß/ du nimbst für eigen a&amp;#241; </l>
+            <l>Was </l>
+            <l>Lucullus seet/ dir bleibt der Acker mit den Früchten. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stell’ alle sorgen eyn/ wirff </l>
+            <l>Wenn </l>
+            <l>Als wenn du gantze Jahr wilst part’ vnd händel schlichten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

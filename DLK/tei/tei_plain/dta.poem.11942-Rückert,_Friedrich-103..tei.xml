@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">103.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">583</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>103.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß uns besonnen seyn! Wir waren unbesonnen,</l>
+            <l>Darüber ist die Frist des Lebens fast verronnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bedenken wir es recht! wir sannen Eitlem nach,</l>
+            <l>Das gab dem kranken Sinn kein Heil, das ihm gebrach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß uns bescheiden seyn! Wir waren unbescheiden,</l>
+            <l>Und wollten neben uns nicht gleichen Anspruch leiden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bedenken wir es recht, bescheiden uns damit,</l>
+            <l>Daß selber neben sich manch besserer uns litt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß uns zufrieden seyn! Wir waren unzufrieden,</l>
+            <l>Daß uns nicht mehr, als wir verdienten, war beschieden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bedenken wir es recht! Man räumt noch mehr uns ein,</l>
+            <l>Als uns gebührt, und gnug, zufrieden auch zu seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Minne</title>
+        <author>
+          <persName>
+            <surname>Miller</surname>
+            <forename>Johann Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6 6-6</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">156</measure>
+        <measure type="characters">900</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1772</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Minne</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Minne, wie so wundersam</l>
+            <l>Kannst du alles machen!</l>
+            <l>Einem giebst du lauter Gram,</l>
+            <l>Und dem andern Lachen!</l>
+            <l>Dem machst du die Wangen rot,</l>
+            <l>Und dem andern blaß, wie Tod!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebchens Augen lässest du,</l>
+            <l>Wie die Sonne scheinen;</l>
+            <l>Meine müssen sonder Ruh</l>
+            <l>Ihrethalben weinen.</l>
+            <l>Sie hat immer Maienzeit,</l>
+            <l>Und ich lauter Winterleid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß, o Minne, doch einmal</l>
+            <l>Kommen meinen Maien,</l>
+            <l>Und den lieben Sonnenstrahl</l>
+            <l>Meinen Sinn erfreuen!</l>
+            <l>Dann sing' ich, nach Vogelweis,</l>
+            <l>Dir ein Lied zu Lob und Preis!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Minne, wie so wundersam</l>
+            <l>Kannst du alles machen!</l>
+            <l>Einem giebst du lauter Gram,</l>
+            <l>Und dem andern Lachen!</l>
+            <l>Dem machst du die Wangen rot,</l>
+            <l>Und dem andern blaß, wie Tod!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebchens Augen lässest du,</l>
+            <l>Wie die Sonne scheinen;</l>
+            <l>Meine müssen sonder Ruh</l>
+            <l>Ihrethalben weinen.</l>
+            <l>Sie hat immer Maienzeit,</l>
+            <l>Und ich lauter Winterleid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß, o Minne, doch einmal</l>
+            <l>Kommen meinen Maien,</l>
+            <l>Und den lieben Sonnenstrahl</l>
+            <l>Meinen Sinn erfreuen!</l>
+            <l>Dann sing' ich, nach Vogelweis,</l>
+            <l>Dir ein Lied zu Lob und Preis!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

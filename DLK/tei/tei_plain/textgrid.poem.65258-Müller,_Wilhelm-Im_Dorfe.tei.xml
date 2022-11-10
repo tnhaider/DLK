@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Im Dorfe</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-4 3-8 4-4</measure>
+        <measure type="syllables">246</measure>
+        <measure type="tokens">166</measure>
+        <measure type="characters">944</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1810</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Im Dorfe</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bellen die Hunde, es rasseln die Ketten.</l>
+            <l>Die Menschen schnarchen in ihren Betten,</l>
+            <l>Träumen sich Manches, was sie nicht haben,</l>
+            <l>Thun sich im Guten und Argen erlaben:</l>
+            <l>Und morgen früh ist Alles zerflossen. –</l>
+            <l>Je nun, sie haben ihr Theil genossen,</l>
+            <l>Und hoffen, was sie noch übrig ließen,</l>
+            <l>Doch wieder zu finden auf ihren Kissen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bellt mich nur fort, ihr wachen Hunde,</l>
+            <l>Laßt mich nicht ruhn in der Schlummerstunde!</l>
+            <l>Ich bin zu Ende mit allen Träumen –</l>
+            <l>Was will ich unter den Schläfern säumen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bellen die Hunde, es rasseln die Ketten.</l>
+            <l>Die Menschen schnarchen in ihren Betten,</l>
+            <l>Träumen sich Manches, was sie nicht haben,</l>
+            <l>Thun sich im Guten und Argen erlaben:</l>
+            <l>Und morgen früh ist Alles zerflossen. –</l>
+            <l>Je nun, sie haben ihr Theil genossen,</l>
+            <l>Und hoffen, was sie noch übrig ließen,</l>
+            <l>Doch wieder zu finden auf ihren Kissen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bellt mich nur fort, ihr wachen Hunde,</l>
+            <l>Laßt mich nicht ruhn in der Schlummerstunde!</l>
+            <l>Ich bin zu Ende mit allen Träumen –</l>
+            <l>Was will ich unter den Schläfern säumen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

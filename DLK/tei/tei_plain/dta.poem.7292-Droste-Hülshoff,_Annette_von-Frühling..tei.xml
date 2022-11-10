@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frühling.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-6</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">600</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frühling.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Rebe blüht, ihr linder Hauch</l>
+            <l>Durchzieht das thauige Revier,</l>
+            <l>Und nah' und ferne wiegt die Luft</l>
+            <l>Vielfarb'ger Blumen bunte Zier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie's um mich gaukelt, wie es summt</l>
+            <l>Von Vogel, Bien' und Schmetterling,</l>
+            <l>Wie seine seidnen Wimpel regt</l>
+            <l>Der Zweig, so jüngst voll Reifen hing.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch sucht man gern den Sonnenschein</l>
+            <l>Und nimmt die trocknen Plätzchen ein;</l>
+            <l>Denn Nachts schleicht an die Gränze doch</l>
+            <l>Der landesflücht'ge Winter noch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O du mein ernst gewalt'ger Greis,</l>
+            <l>Mein Säntis mit der Locke weiß!</l>
+            <l>In Felsenblöcke eingemauert,</l>
+            <l>Von Schneegestöber überschauert,</l>
+            <l>In Eisespanzer eingeschnürt:</l>
+            <l>Hu! wie dich schaudert, wie dich friert!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

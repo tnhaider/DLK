@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Unbesungenen.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">171</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">656</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Unbesungenen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>'s giebt Gräber wo die Klage schweigt,</l>
+            <l>Und nur das Herz von innen blutet,</l>
+            <l>Kein Tropfen in die Wimper steigt,</l>
+            <l>Und doch die Lava drinnen fluthet;</l>
+            <l>'s giebt Gräber, die wie Wetternacht</l>
+            <l>An unserm Horizonte stehn</l>
+            <l>Und alles Leben niederhalten,</l>
+            <l>Und doch, wenn Abendroth erwacht,</l>
+            <l>Mit ihren goldnen Flügeln wehn</l>
+            <l>Wie milde Seraphimgestalten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu heilig sind sie für das Lied,</l>
+            <l>Und mächtge Redner doch vor Allen,</l>
+            <l>Sie nennen dir was nimmer schied,</l>
+            <l>Was nie und nimmer kann zerfallen;</l>
+            <l>O, wenn dich Zweifel drückt herab,</l>
+            <l>Und möchtest athmen Aetherluft,</l>
+            <l>Und möchtest schauen Seraphsflügel,</l>
+            <l>Dann tritt an deines Vaters Grab!</l>
+            <l>Dann tritt an deines Bruders Gruft!</l>
+            <l>Dann tritt an deines Kindes Hügel!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

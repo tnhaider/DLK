@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Passionsblume.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">674</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Passionsblume.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deren schöner Blüthenstern</l>
+            <l>Uns in mildem, weißen Glanze</l>
+            <l>Zeigt das Marterthum des Herrn;</l>
+            <l>Voller Blüthen seh' ich immer</l>
+            <l>Dich vor ihrem Fenster stehn:</l>
+            <l>Willst du denn, als eitler Schimmer,</l>
+            <l>Nur in Farb' und Duft vergehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ward dir kein geheimes Leben,</l>
+            <l>Unverwelklicher Natur,</l>
+            <l>Von dem Heiland eingegeben,</l>
+            <l>Der dich pflanzt' in unsre Flur,</l>
+            <l>Als ein Bild von seinen Leiden,</l>
+            <l>Seinem bittern Liebestod,</l>
+            <l>Daß daran wir sollen weiden</l>
+            <l>Unsre Seel' in Lust und Noth?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du nicht in stillen Stunden,</l>
+            <l>Heil'ge Blum', ihr zugehaucht</l>
+            <l>Das Geheimniß von den Wunden,</l>
+            <l>Von dem Dorn, in Blut getaucht?</l>
+            <l>Esther schläft, und Träume schließen</l>
+            <l>Auf der reinen Seele Schrein:</l>
+            <l>Laß aus deinem Sterne fließen</l>
+            <l>Einen Strahl zu ihr hinein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

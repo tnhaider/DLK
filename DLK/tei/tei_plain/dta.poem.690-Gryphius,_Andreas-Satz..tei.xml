@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Satz.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-20 2-1</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">704</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Satz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Reiß Erde! reiß eutzwey! Jhr Berge brecht </l>
+            <l>vnd decket </l>
+            <l>Den gantz verzagten Geist. </l>
+            <l>Den Blitz vnd ach vnd noth/ vnd angst/ vnd </l>
+            <l>weh' erschrecket! </l>
+            <l>Vnd herbe wehmutt beist!</l>
+            <l>Jhr jmmerlichten stätter </l>
+            <l>Ach bescheinet meine glieder! ach bescheint die glieder nicht! </l>
+            <l>Die der Donnerkeil der schmertzen/ die die krafft der </l>
+            <l>zubricht! </l>
+            <l>GoTT/ gutter GOtt! nur mir/ zu strenger Richter!</l>
+            <l>Was lässet mich dein grimm nicht sehen! </l>
+            <l>Was hör ich nicht für spott vnd schmähen? </l>
+            <l>Sind die augen mir verliehen </l>
+            <l>Daß ich nichts alß herbe plagen/ nichts alß Marter schawen</l>
+            <l>soll? </l>
+            <l>Täglich rufft man mir die Ohren/ ja die matte Seele voll!</l>
+            <l>Kan ich! kan </l>
+            <l>Kan die Hell-besternte Nacht! </l>
+            <l>erquicken? </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sol mich jede Morgenrött' jeder Abendstunde drücken? </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

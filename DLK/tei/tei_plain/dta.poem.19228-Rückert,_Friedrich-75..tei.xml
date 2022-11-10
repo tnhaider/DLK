@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">75.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">663</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>75.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welch eine Pflanze trägt im Frühling ihren Samen,</l>
+            <l>Da ihre Blüten erst hervor im Herbste kamen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zeitlos' ist hierin der Blumen Widerspiel,</l>
+            <l>Daß sie am Anfang ist, wo jene sind am Ziel;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß sie am Ziel ist, wo am Anfang jene stehn;</l>
+            <l>Drum hat sie die Natur zum Sinnbild ausersehn,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das aus dem Herbste, wo der Sturm das Feld erbeutet,</l>
+            <l>Den kahlen Winter durch, zum Lenz hinüber deutet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sie im Sommer nicht zu reifen Zeit gewann,</l>
+            <l>Und nur die Blütenspitz' im Herbste zeigen kann;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jenseit des Frostes tritt, geweckt von Frühlingsluft,</l>
+            <l>Die Samenkapsel samt den Blättern aus der Gruft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zeitlose heißt sie, weil sie vom Gesetz der Zeit</l>
+            <l>Ist gleichsam losgesagt, der Ewigkeit geweiht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

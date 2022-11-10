@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Freie Kunst .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">239</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">924</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Freie Kunst .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Singe, wem Gesang gegeben,</l>
+            <l>In dem deutschen Dichterwald!</l>
+            <l>Das ist Freude, das ist Leben,</l>
+            <l>Wenn’s von allen Zweigen schallt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht an wenig stolze Namen</l>
+            <l>Ist die Liederkunst gebannt;</l>
+            <l>Ausgestreuet ist der Samen</l>
+            <l>Ueber alles deutsche Land.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deines vollen Herzens Triebe,</l>
+            <l>Gib sie keck im Klange frei!</l>
+            <l>Säuselnd wandle deine Liebe,</l>
+            <l>Donnernd uns dein Zorn vorbei!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Singst du nicht dein ganzes Leben,</l>
+            <l>Sing doch in der Jugend Drang!</l>
+            <l>Nur im Blüthenmond erheben</l>
+            <l>Nachtigallen ihren Sang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kann man’s nicht in Bücher binden,</l>
+            <l>Was die Stunden dir verleihn:</l>
+            <l>Gib ein fliegend Blatt den Winden,</l>
+            <l>Muntre Jugend hascht es ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fahret wohl, geheime Kunden,</l>
+            <l>Nekromantik, Alchymie!</l>
+            <l>Formel hält uns nicht gebunden,</l>
+            <l>Unsre Kunst heißt Poesie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heilig achten wir die Geister,</l>
+            <l>Aber Namen sind uns Dunst;</l>
+            <l>Würdig ehren wir die Meister,</l>
+            <l>Aber frei ist uns die Kunst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht in kalten Marmorsteinen,</l>
+            <l>Nicht in Tempeln, dumpf und todt:</l>
+            <l>In den frischen Eichenhainen</l>
+            <l>Webt und rauscht der deutsche Gott.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Mittag.</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-2 2-18 3-6</measure>
+        <measure type="syllables">309</measure>
+        <measure type="tokens">202</measure>
+        <measure type="characters">1203</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Mittag.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mittag, begleitet von fächelnden</l>
+            <l>Stunden,
+Eröfnet sein Füllhorn, mit Blumen um-
+wunden,
+Und gießt es auf alles verschwenderisch aus.
+Die allgemeinen wohlthätigen Feste
+Erfrischen des Königs gewölbte Palläste,
+So wie des Landmanns umschattetes Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Empfange mich, ehrwürdger Eichenwald!</l>
+            <l>Jetzt, da wir ganz vom Mittagsstral ermatten,</l>
+            <l>Sucht die Betrachtung gern den stillen Aufenthalt</l>
+            <l>In deinem kühlen Schatten.</l>
+            <l>Der laute Bach rollt murmelnd in das Thal;</l>
+            <l>Der Westwind wälzet sich im Wipfel hoher Buchen,</l>
+            <l>Da Bienen ohne Zahl</l>
+            <l>Von Blumen ihren Raub mit stetem Summen</l>
+            <l>Die Heerde lagert sich im Klee,</l>
+            <l>Indeß der Hirt von einer luftgen Höh</l>
+            <l>Soin Horn ertönen läßt! und, durch den West</l>
+            <l>Den süßen Lobgesang zur Bäche Murmeln mischet.</l>
+            <l>O wie beglückt ist der, den nie sein Herz verdammt!</l>
+            <l>Und den kein leerer Stolz, kein Durst nach Gold</l>
+            <l>Der, wenn die ganze Welt in Lastern um ihn</l>
+            <l>Sich kalt erhält; nach keinen Würden rennet;</l>
+            <l>Und, fern vom Lärm der falschheitsvollen Stadt,</l>
+            <l>Frey unter Linden ruht, die er gepflanzet hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie kan man größre Wollust fühlen,</l>
+            <l>Indem uns tausend Lüfte kühlen,</l>
+            <l>Als wenn ein dankbar Herz den Herrn der</l>
+            <l>Der König, dem der Wein aus güldnen</l>
+            <l>Der Hirt, der aus der Quelle trinket,</l>
+            <l>Vergesse nie den Geber, der ihn nährt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

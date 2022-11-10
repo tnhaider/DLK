@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z ehndes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">693</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z ehndes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O kämen, sprachen wir, die Könige der Erden!</l>
+            <l>Sie müßten theils erstaunt, theils eifersüchtig werden.</l>
+            <l>Besonders die dem Haus die Stürzung zugedacht,</l>
+            <l>50Und über solchen Fall, doch allzu früh, gelacht.</l>
+            <l>Wie? wann wir, dünckte mich, nun aus der Vorwelt Grüften</l>
+            <l>Der alten Helden-Schaar zu diesem Umstand rüfften:</l>
+            <l>Kommt! sehet diesen Hof, das höchste Königs-Paar,</l>
+            <l>Das Hilff- und Waffen-bloß im Krieg verflochten war!</l>
+            <l>55Sie kämen, diesen Saal, die Majestät zu sehen;</l>
+            <l>Was wurd’ in ihrem Sinn, in ihrem Aug’ entstehen?</l>
+            <l>Der Freund empfände Trost, der Feind erzürnte sich,</l>
+            <l>Und die Begenbenheit wär beyden wunderlich.</l>
+            <l>Für Ehrfurcht schlügen sie der Augen Blicke nieder,</l>
+            <l>60Und suchten Demuth-voll der Grüfte Ruhe wieder.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

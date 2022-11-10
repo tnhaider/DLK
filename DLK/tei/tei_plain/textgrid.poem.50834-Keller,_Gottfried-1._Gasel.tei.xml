@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1. Gasel</title>
+        <author>
+          <persName>
+            <surname>Keller</surname>
+            <forename>Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">150</measure>
+        <measure type="characters">894</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1845</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1. Gasel</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht den Poet, der immerdar erzählt von Lerchensang,</l>
+            <l>Wie er nun bald drei Dutzend schon gebratner Lerchen schlang!</l>
+            <l>Bei Sonnenaufgang, als der Tag in Blau und Gold erglüht',</l>
+            <l>Da war es, daß sein Morgenlied vom Lob der Lerchen klang;</l>
+            <l>Und nun bei Sonnenuntergang mit seinem Gabelspieß</l>
+            <l>Er sehnend in die Liederbrust gebratner Lerchen drang!</l>
+            <l>Das heiß ich die Natur verstehn, allseitig, tief und kühn,</l>
+            <l>Wenn also auf und nieder sich sein Tag mit Lerchen schwang!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht den Poet, der immerdar erzählt von Lerchensang,</l>
+            <l>Wie er nun bald drei Dutzend schon gebratner Lerchen schlang!</l>
+            <l>Bei Sonnenaufgang, als der Tag in Blau und Gold erglüht',</l>
+            <l>Da war es, daß sein Morgenlied vom Lob der Lerchen klang;</l>
+            <l>Und nun bei Sonnenuntergang mit seinem Gabelspieß</l>
+            <l>Er sehnend in die Liederbrust gebratner Lerchen drang!</l>
+            <l>Das heiß ich die Natur verstehn, allseitig, tief und kühn,</l>
+            <l>Wenn also auf und nieder sich sein Tag mit Lerchen schwang!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

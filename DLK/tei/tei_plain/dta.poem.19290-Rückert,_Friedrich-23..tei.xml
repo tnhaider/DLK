@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">23.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">589</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>23.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weil nicht ein großer Fürst im weiten Länderbann</l>
+            <l>In alles Einzelne sich mischen soll und kann;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So meinest du, daß Gott auch nur das Allgemeine</l>
+            <l>Der Welt geordnet hab', und walte nicht ins Kleine.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch macht ja wohl ein Fürst auch durch sein Land die Fahrt,</l>
+            <l>Eingreifend hier und dort mit eigner Gegenwart.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wär' Allgegenwart, wie Gott, auch ihm verliehn,</l>
+            <l>So braucht' er nicht die Fahrt, und alles führ' um ihn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allgegenwärtig ist Gott in den Welten nicht</l>
+            <l>Sowohl als sie vielmehr es sind in seinem Licht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er selber ist darum das Gröste Allgemeinste,</l>
+            <l>Weil in ihm alles ist das Einzelste, das Kleinste.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

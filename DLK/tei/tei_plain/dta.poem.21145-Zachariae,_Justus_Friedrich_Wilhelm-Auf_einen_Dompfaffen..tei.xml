@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf einen Dompfaffen.</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">555</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf einen Dompfaffen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Vogel, den ein gutes Glück</l>
+            <l>Zu einem Dichter brachte,</l>
+            <l>Der dich im ersten Augenblick</l>
+            <l>Zu seinem Liebling machte;</l>
+            <l>Mein Papchen, sey nicht so betrübt,</l>
+            <l>Daß nun ein Käficht dich umgiebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kanst zwar nichts, und sitzest stumm,</l>
+            <l>Doch niemand soll dich höhnen.</l>
+            <l>Du bist, mein Papchen, schön und dumm;</l>
+            <l>Sind das doch viele Schönen.</l>
+            <l>Soll deiner Farben Pracht vergehn,</l>
+            <l>So macht dich deine Treu doch schön.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach lieber Vogel, köntest du</l>
+            <l>Dich zu Selinden schwingen,</l>
+            <l>Und vor der süßen Abendruh</l>
+            <l>Mir Nachricht von ihr bringen!</l>
+            <l>Ach Papchen, fliege doch zu ihr!</l>
+            <l>Den besten Zucker geb ich dir.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

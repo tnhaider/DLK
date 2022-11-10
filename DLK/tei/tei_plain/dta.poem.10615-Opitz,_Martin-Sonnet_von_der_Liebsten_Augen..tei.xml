@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet von der Liebsten Augen.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">701</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet von der Liebsten Augen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diß wunderliche Werck/ das Gott hat auffgericht/</l>
+            <l>Die Erde/ Lufft/ vnd See/ des Himmels hohe Thronen/</l>
+            <l>Das alles/ was man kan/ vnd auch nicht kan bewohnen/</l>
+            <l>Hett es kein/ oder auch zwo/ Sonnen/ stünd es nicht.</l>
+            <l>Ich arm betrübtes Thier muß zweyer Sonnen liecht</l>
+            <l>Vertragen/ die mir arg für meine Liebe lohnen/</l>
+            <l>Ja die bey Tag vnd Nacht auch meiner nicht verschonen/</l>
+            <l>Doch ärger ist die Pein/ wann mir der Glantz gebricht/</l>
+            <l>Was wunder ist es dann/ daß jhr mich sehet sterben</l>
+            <l>Mehr als zehn tausentmal/ eh’ kaum hingeht ein Tag?</l>
+            <l>Vnd jmmer widerumb belebt zur newen Plag?</l>
+            <l>Ist sie mir allzunah/ muß ich durch sie verderben:</l>
+            <l>Ist sie denn gantz hinweg/ so hab ich lauter Nacht/</l>
+            <l>Doch wehl’ ich mir den Todt/ den mir die Hitze macht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

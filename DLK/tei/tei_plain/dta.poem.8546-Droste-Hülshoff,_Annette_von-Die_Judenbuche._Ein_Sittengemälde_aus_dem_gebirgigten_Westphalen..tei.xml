@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Judenbuche.  
+ Ein Sittengemälde aus dem gebirgigten Westphalen.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">115</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">451</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1860</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191007"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Judenbuche.  
+ Ein Sittengemälde aus dem gebirgigten Westphalen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo ist die Hand so zart, daß ohne Irren</l>
+            <l>Sie sondern mag beschränkten Hirnes Wirren,</l>
+            <l>So fest, daß ohne Zittern sie den Stein</l>
+            <l>Mag schleudern auf ein arm verkümmert Sein?</l>
+            <l>Wer wagt es, eitlen Blutes Drang zu messen,</l>
+            <l>Zu wägen jedes Wort, das unvergessen</l>
+            <l>In junge Brust die zähen Wurzeln trieb,</l>
+            <l>Des Vorurtheils geheimen Seelendieb?</l>
+            <l>Du Glücklicher, geboren und gehegt</l>
+            <l>Im lichten Raum, von frommer Hand gepflegt,</l>
+            <l>Leg’ hin die </l>
+            <l>Laß ruh’n den Stein — er trifft dein eignes</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

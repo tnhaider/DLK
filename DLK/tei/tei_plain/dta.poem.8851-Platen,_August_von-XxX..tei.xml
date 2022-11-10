@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxX.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">396</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxX.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wüßt' ich, wem ich mich vertraute:</l>
+            <l>Vor dein Fenster würd' ich treten,</l>
+            <l>Könnt' ich blasen auf der Flaute;</l>
+            <l>Worte scheinen mir so nüchtern,</l>
+            <l>Daß mir oft vor ihnen graute!</l>
+            <l>Worte hört man nicht von Ferne</l>
+            <l>Wie die süßen Flötenlaute;</l>
+            <l>Dennoch soll die Welt erfahren</l>
+            <l>Was ich Holdes an dir schaute:</l>
+            <l>Schwarzes Auge! Goldne Locken!</l>
+            <l>Uepp'ge Glieder, schöngebaute!</l>
+            <l>Nach dem Vließe deiner Locken</l>
+            <l>Fährt mein Herz als Argonaute.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abschied von Wien.</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8</measure>
+        <measure type="syllables">245</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">1015</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abschied von Wien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Begrüß' ich dich, und folge meiner Pflicht,</l>
+            <l>Im Auge will sich eine Thräne regen;</l>
+            <l>Was sträub' ich mich? die Thräne schmäht mich                                 nicht. —</l>
+            <l>Ach! wo ich wandle, sei's auf Friedenswegen,</l>
+            <l>Sei's wo der Tod die blut'gen Kränze bricht,</l>
+            <l>Da werden deine theuern Huldgestalten</l>
+            <l>In Lieb' und Sehnsucht meine Seele spalten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verkennt mich nicht, Ihr Genien meines Lebens,</l>
+            <l>Verkennt nicht meiner Seele ernsten Drang.</l>
+            <l>Begreift die treue Richtung meines Strebens,</l>
+            <l>So in dem Liede, wie im Schwerdterklang.</l>
+            <l>Es schwärmten meine Träume nicht vergebens;</l>
+            <l>Was ich so oft gefeiert mit Gesang,</l>
+            <l>Für Volk und Freiheit ein begeistert Sterben,</l>
+            <l>Laßt mich nun selbst um diese Krone werben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl leichter mögen sich die Kränze flechten,</l>
+            <l>Errungen mit des Liedes heit'rem Muth:</l>
+            <l>Ein rechtes Herz schlägt freudig nach dem Rechten.</l>
+            <l>Die ich gepflegt mit jugendlicher Gluth,</l>
+            <l>Laßt mich der Kunst ein Vaterland erfechten,</l>
+            <l>Und gält' es auch das eigne wärmste Blut. —</l>
+            <l>Noch diesen Kuß! und wenns der letzte bliebe,</l>
+            <l>Es giebt ja keinen Tod für unsre Liebe.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

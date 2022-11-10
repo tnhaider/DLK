@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dante</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">384</measure>
+        <measure type="tokens">240</measure>
+        <measure type="characters">1478</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dante</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einsam durch Veronas Gassen wandelt' einst der große Dante,</l>
+            <l>Jener Florentiner Dichter, den sein Vaterland verbannte.</l>
+            <l>Da vernahm er, wie ein Mädchen, das ihn sah vorüberschreiten,</l>
+            <l>Also sprach zur jüngern Schwester, welche saß an ihrer Seiten:</l>
+            <l>»siehe, das ist jener Dante, der zur Höll' hinabgestiegen,</l>
+            <l>Merke nur, wie Zorn und Schwermut auf der düstern Stirn ihm liegen!</l>
+            <l>Denn in jener Stadt der Qualen mußt' er solche Dinge schauen,</l>
+            <l>Daß zu lächeln nimmer wieder er vermag vor innerm Grauen.«</l>
+            <l>Aber Dante, der es hörte, wandte sich und brach sein Schweigen:</l>
+            <l>»um das Lächeln zu verlernen, braucht's nicht dort hinabzusteigen.</l>
+            <l>Allen Schmerz, den ich gesungen, all die Qualen, Greul und Wunden</l>
+            <l>Hab' ich schon auf dieser Erden, hab' ich in Florenz gefunden.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einsam durch Veronas Gassen wandelt' einst der große Dante,</l>
+            <l>Jener Florentiner Dichter, den sein Vaterland verbannte.</l>
+            <l>Da vernahm er, wie ein Mädchen, das ihn sah vorüberschreiten,</l>
+            <l>Also sprach zur jüngern Schwester, welche saß an ihrer Seiten:</l>
+            <l>»siehe, das ist jener Dante, der zur Höll' hinabgestiegen,</l>
+            <l>Merke nur, wie Zorn und Schwermut auf der düstern Stirn ihm liegen!</l>
+            <l>Denn in jener Stadt der Qualen mußt' er solche Dinge schauen,</l>
+            <l>Daß zu lächeln nimmer wieder er vermag vor innerm Grauen.«</l>
+            <l>Aber Dante, der es hörte, wandte sich und brach sein Schweigen:</l>
+            <l>»um das Lächeln zu verlernen, braucht's nicht dort hinabzusteigen.</l>
+            <l>Allen Schmerz, den ich gesungen, all die Qualen, Greul und Wunden</l>
+            <l>Hab' ich schon auf dieser Erden, hab' ich in Florenz gefunden.«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

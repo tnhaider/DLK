@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1. Das schöne Kind.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">706</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1. Das schöne Kind.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unreiffer Schönheit Blüt und frühes Morgen-Licht/ </l>
+            <l>Mit Tocken mehr gewohnt zu spielen als mit Liebe/</l>
+            <l>Wenn ich mich wegen dein in stetem Seufftzen übe/</l>
+            <l>So lacht die tumme Welt und gläubt mein Leiden nicht.</l>
+            <l>Doch/ wie im grünen schon die junge Rose sticht/</l>
+            <l>Wie man die Blume lobt aus ihrer Knospen Triebe;</l>
+            <l>So werd ich auch gewahr/ wie gern ich ruhig bliebe/</l>
+            <l>Daß/ wo die Flamm entsteht/ auch bald die Hitz ausbricht.</l>
+            <l>Mein Kind/ ein neuer Stein schlägt offt am ehsten Glutt:</l>
+            <l>Ein kleiner Funcke darff in frischen Zunder sincken</l>
+            <l>So fängt er/ wo man nicht bald Gegenwehre thut:</l>
+            <l>Zur Frühzeit siehet man die Venus heller blincken:</l>
+            <l>Den Mittags-Glantz besiegt der Morgenröthe Zier:</l>
+            <l>Dem heissen Sommer geht der bunte Lentz weit für.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

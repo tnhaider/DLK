@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">GeISTLICHES LIED</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">603</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>GeISTLICHES LIED</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zeichen, seltne Stickerein</l>
+            <l>Malt ein flatternd Blumenbeet.</l>
+            <l>Gottes blauer Odem weht</l>
+            <l>In den Gartensaal herein,</l>
+            <l>Heiter ein.</l>
+            <l>Ragt ein Kreuz im wilden Wein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hör’ im Dorf sich viele freun,</l>
+            <l>Gärtner an der Mauer mäht,</l>
+            <l>Leise eine Orgel geht,</l>
+            <l>Mischet Klang und goldenen Schein,</l>
+            <l>Klang und Schein.</l>
+            <l>Liebe segnet Brot und Wein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mädchen kommen auch herein</l>
+            <l>Und der Hahn zum letzten kräht.</l>
+            <l>Sacht ein morsches Gitter geht</l>
+            <l>Und in Rosen Kranz und Reihn,</l>
+            <l>Rosenreihn</l>
+            <l>Ruht Maria weiß und fein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bettler dort am alten Stein</l>
+            <l>Scheint verstorben im Gebet,</l>
+            <l>Sanft ein Hirt vom Hügel geht</l>
+            <l>Und ein Engel singt im Hain,</l>
+            <l>Nah am Hain</l>
+            <l>Kinder in den Schlaf hinein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

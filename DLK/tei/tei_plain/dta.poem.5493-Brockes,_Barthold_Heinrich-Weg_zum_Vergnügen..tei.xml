@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Weg zum Vergnügen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-7 2-5</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">680</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1736</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198582"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Weg zum Vergnügen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Uns scheinet unser Bett nie süsser, als wenn wir es ver-
+lassen müssen;</l>
+            <l>Der uns sich nahende Verlust des Guten fügt uns erst zu</l>
+            <l>Was ungefühlt genossen worden; dieß geht in allen Dingen so:</l>
+            <l>Wir werden, weil wir dran nicht dencken, auch niemahls</l>
+            <l>Biß sie uns, oder wir sie, lassen. Dann allererst wird alles</l>
+            <l>Dann fühlet allererst der Geist was er gehabt und nicht</l>
+            <l>Und die zu spät-gefühlte Lust macht den Verlust noch desto</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, daß man denn mit mehrerm Ernste nicht hier auf</l>
+            <l>Ach, daß man stets vom eintzgen Wege der wahren Wollust</l>
+            <l>Indem kein Gutes, ohn zu dencken, daß mans besitzt, be-</l>
+            <l>Wird man, auch bey dem grösten Glück auf Erden, sich</l>
+            <l>Wofern wir unser Glück, nur dann, wann wirs verlieren,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

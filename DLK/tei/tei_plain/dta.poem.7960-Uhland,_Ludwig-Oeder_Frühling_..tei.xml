@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Oeder Frühling .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">564</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Oeder Frühling .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl denk’ ich jener sel’gen Jugendträume,</l>
+            <l>Obschon sich die Gefühle mir versagen,</l>
+            <l>Wann in den ersten, milden Frühlingstagen</l>
+            <l>Im Busen sich mir drängten volle Keime.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ahnung lockte mich in ferne Räume,</l>
+            <l>Wann wo ein Laut des Lenzes angeschlagen;</l>
+            <l>Die Hoffnung wollte sich zum Lichte wagen,</l>
+            <l>Wie aus den Knospen frisches Grün der Bäume.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch nun, da ich das Höchste jüngst genossen,</l>
+            <l>Gerissen aus dem innigsten Vereine,</l>
+            <l>Vom reichsten Paradiese kaum verstoßen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was sollen nun mir halbergrünte Triften,</l>
+            <l>Einsamer Amselschlag im todten Haine,</l>
+            <l>Ein armes Veilchen, noch so süß von Düften?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das heilige Feuer.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">566</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das heilige Feuer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf das Feuer mit dem goldnen Strahle</l>
+            <l>Heftet sich in tiefer Mitternacht</l>
+            <l>Schlummerlos das Auge der Vestale,</l>
+            <l>Die der Göttin ewig Licht bewacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn sie schlummerte, wenn sie entschliefe,</l>
+            <l>Wenn erstürbe die versäumte Glut,</l>
+            <l>Eingesargt in Gruft und Grabestiefe</l>
+            <l>Würde sie, wo Staub und Moder ruht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Flamme zittert mir im Busen,</l>
+            <l>Lodert warm zu jeder Zeit und Frist,</l>
+            <l>Die entzündet durch den Hauch der Musen</l>
+            <l>Ihnen ein beständig Opfer ist</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ich hüte sie mit heil'ger Scheue,</l>
+            <l>Daß sie brenne rein und ungekränkt;</l>
+            <l>Denn ich weiß, es wird der ungetreue</l>
+            <l>Wächter lebend in die Gruft versenkt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

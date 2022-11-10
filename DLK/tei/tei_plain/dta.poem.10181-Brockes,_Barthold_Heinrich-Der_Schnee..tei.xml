@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Schnee.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">712</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Schnee.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich seh euch nimmer, ohn Vergnügen,</l>
+            <l>Jhr rege weisse Flocken, fliegen,</l>
+            <l>Jhr sinckt, ihr steigt, ihr fallt, ihr spielt.</l>
+            <l>Wer ist, wenn durch der Winde wehen</l>
+            <l>Wir euch bald schnell, bald langsam sehen,</l>
+            <l>Verworren durch einander gehen,</l>
+            <l>Der nicht ein sanftes schauern fühlt?</l>
+            <l>Zumahl wenn man den weissen Schimmer,</l>
+            <l>Aus einem wol gewärmten Zimmer,</l>
+            <l>Mit aufgemuntertem Gemüth,</l>
+            <l>Durch aufgethaute Scheiben sieht,</l>
+            <l>Und, frey von Unbequemlichkeit</l>
+            <l>Der frostig rauhen Winters-Zeit,</l>
+            <l>Den Glantz, den uns der Schnee gebieret,</l>
+            <l>Wenn er die Welt mit Silber zieret,</l>
+            <l>Voll Lust ob GOTTES Werck, erblickt:</l>
+            <l>Und man, wann Neiff die Bäume schmückt,</l>
+            <l>Wann Frost das Land mit Schollen drückt,</l>
+            <l>Und mit Crystall die Fluth bebrückt,</l>
+            <l>Des Winters Lust, ohn’ Unlust, spührt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

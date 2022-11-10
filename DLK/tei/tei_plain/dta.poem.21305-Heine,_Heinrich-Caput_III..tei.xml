@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput III.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">524</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput III.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das mahnt an das Mittelalter so schön,</l>
+            <l>An Edelknechte und Knappen,</l>
+            <l>Die in dem Herzen getragen die Treu</l>
+            <l>Und auf dem Hintern ein Wappen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das mahnt an Kreuzzug und Turney,</l>
+            <l>An Minne und frommes Dienen,</l>
+            <l>An die ungedruckte Glaubenszeit,</l>
+            <l>Wo noch keine Zeitung erschienen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, ja, der Helm gefällt mir, er zeugt</l>
+            <l>Vom allerhöchsten Witze!</l>
+            <l>Ein königlicher Einfall war’s!</l>
+            <l>Es fehlt nicht die Pointe, die Spitze!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur fürcht’ ich, wenn ein Gewitter entsteht,</l>
+            <l>Zieht leicht so eine Spitze</l>
+            <l>Herab auf Euer romantisches Haupt</l>
+            <l>Des Himmels modernste Blitze! – –</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

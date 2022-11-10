@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Poesie.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">48</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8 6-8</measure>
+        <measure type="syllables">355</measure>
+        <measure type="tokens">222</measure>
+        <measure type="characters">1343</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Poesie.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frägst du mich im Räthselspiele,</l>
+            <l>Wer die zarte lichte Fey,</l>
+            <l>Die sich drei Kleinoden gleiche</l>
+            <l>Und ein Stral doch selber sey?</l>
+            <l>Ob ichs rathe? ob ich fehle?</l>
+            <l>Liebchen, pfiffig war ich nie,</l>
+            <l>Doch in meiner tiefsten Seele</l>
+            <l>Hallt es: das ist Poesie!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jener Stral der, Licht und Flamme,</l>
+            <l>Keiner Farbe zugethan,</l>
+            <l>Und doch, über Alles gleitend</l>
+            <l>Tausend Farben zündet an,</l>
+            <l>Jedes Recht und Keines Eigen. —</l>
+            <l>Die Kleinode nenn' ich dir:</l>
+            <l>Den Türkis, den Amethisten,</l>
+            <l>Und der Perle edle Zier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Poesie gleicht dem Türkise,</l>
+            <l>Dessen frommes Auge bricht,</l>
+            <l>Wenn verborgner Säure Brodem</l>
+            <l>Nahte seinem reinen Licht;</l>
+            <l>Dessen Ursprung Keiner kündet,</l>
+            <l>Der wie Himmelsgabe kam,</l>
+            <l>Und des Himmels milde Bläue</l>
+            <l>Sich zum milden Zeichen nahm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sie gleicht dem Amethisten,</l>
+            <l>Der sein veilchenblau Gewand</l>
+            <l>Läßt zu schnödem Grau erblassen</l>
+            <l>An des Ungetreuen Hand;</l>
+            <l>Der, gemeinen Götzen fröhnend,</l>
+            <l>Sinkt zu niedren Steines Art,</l>
+            <l>Und nur Einer Flamme dienend</l>
+            <l>Seinen edlen Glanz bewahrt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleicht der Perle auch, der zarten,</l>
+            <l>Am Gesunden thauig klar,</l>
+            <l>Aber saugend, was da Krankes</l>
+            <l>In geheimsten Adern war;</l>
+            <l>Sahst du niemals ihre Schimmer</l>
+            <l>Grünlich, wie ein modernd Tuch?</l>
+            <l>Eine Perle bleibt es immer,</l>
+            <l>Aber die ein Siecher trug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und du lächelst meiner Lösung,</l>
+            <l>Flüsterst wie ein Widerhall:</l>
+            <l>Poesie gleicht dem Pokale</l>
+            <l>Aus venedischem Kristall;</l>
+            <l>Gift hinein — und schwirrend singt er</l>
+            <l>Schwanenliedes Melodie,</l>
+            <l>Dann in tausend Trümmer klirrend,</l>
+            <l>Und hin ist die Poesie!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"></title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">260</measure>
+        <measure type="tokens">174</measure>
+        <measure type="characters">1008</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head></head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer will hinfort beständig bleiben/</l>
+            <l>Wenn alles voller Unbestand?</l>
+            <l>Wer will in sein Gedächtnis schreiben</l>
+            <l>Was andre zeichnen in den Sand?</l>
+            <l>Was macht ein Celadon auff Erden/</l>
+            <l>Wenn jeder will ein Hylas werden?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was will man sich mit Treue plagen?</l>
+            <l>Cupidens Flügel sind bekandt/</l>
+            <l>Die Venus hat von ihrem Wagen</l>
+            <l>Vorlängst den alten Zug verbannt/</l>
+            <l>Für Schwan und Taube sieht man Raben</l>
+            <l>Und Sperling’ um die Deichsel draben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kan ja die von Hertzen lieben/</l>
+            <l>Und jen’ aus Pflicht und Höfligkeit/</l>
+            <l>Bey dieser mein Vergnügen üben/</l>
+            <l>Mit jener schliessen meine Zeit:</l>
+            <l>An Ort und Art/ Gestalt und Stunden</l>
+            <l>Ist unser Lieben nicht gebunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So pflegt manch leichter Sinn zu sagen/</l>
+            <l>Der sich mit Schaden luftig macht/</l>
+            <l>Verbotnen Raub darvon zu tragen</l>
+            <l>Mit tausend Lüsten lebt bedacht.</l>
+            <l>Wer sich der Treue will befleissen/</l>
+            <l>Muß alber oder einsam heissen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was aber fragt nach solchem Schmähen</l>
+            <l>Der Harnisch tugendvoller Brust.</l>
+            <l>Der Ausgang wird uns lassen sehen/</l>
+            <l>Auff wen noch wart die beste Lust.</l>
+            <l>Wenn Stein und Gicht die Glieder brechen</l>
+            <l>Wird sie an ihm der Nachbar rächen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

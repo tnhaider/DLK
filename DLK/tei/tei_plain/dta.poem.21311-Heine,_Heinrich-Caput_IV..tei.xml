@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput IV.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">503</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput IV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vergebens wird der große Franz Lißt</l>
+            <l>Zum Besten des Doms musiziren,</l>
+            <l>Und ein talentvoller König wird</l>
+            <l>Vergebens deklamiren!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er wird nicht vollendet, der Köllner Dom,</l>
+            <l>Obgleich die Narren in Schwaben</l>
+            <l>Zu seinem Fortbau ein ganzes Schiff</l>
+            <l>Voll Steine gesendet haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er wird nicht vollendet, trotz allem Geschrey</l>
+            <l>Der Raben und der Eulen,</l>
+            <l>Die, alterthümlich gesinnt, so gern</l>
+            <l>In hohen Kirchthürmen weilen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, kommen wird die Zeit sogar</l>
+            <l>Wo man, statt ihn zu vollenden,</l>
+            <l>Die inneren Räume zu einem Stall</l>
+            <l>Für Pferde wird verwenden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

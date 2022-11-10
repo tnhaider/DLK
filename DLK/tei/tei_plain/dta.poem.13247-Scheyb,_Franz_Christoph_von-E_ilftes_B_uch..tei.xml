@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">E ilftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">498</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>E ilftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er schwiege; sie versezt’ in Majestät: „Es sey</l>
+            <l>„was du von mir begehrst! ficht! eile! geh! zerstreu</l>
+            <l>„die Schaaren unsers Feinds! ich bin schon überzeuget,</l>
+            <l>200”Wie deine Treue mir und meinem Haus geneiget.</l>
+            <l>„ich kenne dein Gemüth; du aber meinen Sinn;</l>
+            <l>„durch dich nennt mich die Welt die Ueberwinderinn.</l>
+            <l>„so stehet, Tugenden! ein neuer Kampf-Plaz offen;</l>
+            <l>„laßt mich von euerm Amt auch jezt die Wirckung hoffen;</l>
+            <l>205”Geht und begleitet ihn! steht ihm mit Rath und That</l>
+            <l>„in seinem Vorsaz bey, den er eröffnet hat.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

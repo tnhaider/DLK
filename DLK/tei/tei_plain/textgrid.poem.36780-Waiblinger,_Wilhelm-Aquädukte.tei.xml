@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aquädukte</title>
+        <author>
+          <persName>
+            <surname>Waiblinger</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">116</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">452</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1817</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aquädukte</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sage mir doch, was hab' ich mir wohl von den Bögen zu denken,</l>
+            <l>Die so entsetzlich hinaus in die Campagna sich ziehn?</l>
+            <l>»aquädukte nennt man's, mein Freund, womit man in Rom so</l>
+            <l>Wie auf dem deutschen Parnaß alle die Zeitungen kriegt.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sage mir doch, was hab' ich mir wohl von den Bögen zu denken,</l>
+            <l>Die so entsetzlich hinaus in die Campagna sich ziehn?</l>
+            <l>»aquädukte nennt man's, mein Freund, womit man in Rom so</l>
+            <l>Wie auf dem deutschen Parnaß alle die Zeitungen kriegt.«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

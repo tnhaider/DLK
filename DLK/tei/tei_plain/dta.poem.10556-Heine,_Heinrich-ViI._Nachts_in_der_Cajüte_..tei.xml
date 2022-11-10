@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViI.  
+  Nachts in der Cajüte .</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">73</measure>
+        <measure type="characters">468</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViI.  
+  Nachts in der Cajüte .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>An die blaue Himmelsdecke,</l>
+            <l>Wo die schönen Sterne blinken,</l>
+            <l>Möcht' ich pressen meine Lippen,</l>
+            <l>Pressen wild und stürmisch weinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jene Sterne sind die Augen</l>
+            <l>Meiner Liebsten, tausendfältig</l>
+            <l>Schimmern sie und grüßen freundlich,</l>
+            <l>Aus der blauen Himmelsdecke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach der blauen Himmelsdecke,</l>
+            <l>Nach den Augen der Geliebten,</l>
+            <l>Heb' ich andachtsvoll die Arme,</l>
+            <l>Und ich bete und ich flehe:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Holde Augen, Gnadenlichter,</l>
+            <l>O, beseligt meine Seele,</l>
+            <l>Laßt mich sterben und erwerben</l>
+            <l>Euch und Euren ganzen Himmel!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

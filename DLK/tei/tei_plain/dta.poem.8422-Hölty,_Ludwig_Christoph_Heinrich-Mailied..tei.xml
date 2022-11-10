@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mailied.</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-6</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">398</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mailied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mai beginnt,</l>
+            <l>Die Blüten keimen</l>
+            <l>Auf Gartenbäumen,</l>
+            <l>Und Vogelschall</l>
+            <l>Tönt überall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Pflückt einen Kranz,</l>
+            <l>Und haltet Tanz</l>
+            <l>Auf grünen Auen,</l>
+            <l>Ihr schönen Frauen,</l>
+            <l>Wo junge Main</l>
+            <l>Uns Kühlung streun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer weiss, wie bald</l>
+            <l>Die Klocke schallt,</l>
+            <l>Da wir des Maien</l>
+            <l>Uns nicht mehr freuen:</l>
+            <l>Wer weiss, wie bald</l>
+            <l>Die Klocke schallt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum werdet froh!</l>
+            <l>Gott will es so,</l>
+            <l>Der uns dies Leben</l>
+            <l>Zur Lust gegeben!</l>
+            <l>Geniesst der Zeit,</l>
+            <l>Die Gott verleiht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Des Schäfers Tageszeiten .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-9 2-9 3-9 4-9</measure>
+        <measure type="syllables">202</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">856</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Des Schäfers Tageszeiten .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! wie sanft ruh ich hie               </l>
+            <l>Bei meinem Vieh!</l>
+            <l>Da schlaf ich süß im Moos,</l>
+            <l>Dem Glücke in dem Schoos,</l>
+            <l>Ganz sorgenlos.</l>
+            <l>Wenn ich die prächtigen Schlösser beschau</l>
+            <l>Sind sie doch nur mir,</l>
+            <l>So zu sagen schier</l>
+            <l>Ein kühler Thau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt denn das Morgenroth,</l>
+            <l>So lob ich Gott.</l>
+            <l>Dann mit der Feldschallmey</l>
+            <l>Ruf ich das Lämmerg'schrey</l>
+            <l>Ganz nah herbey;</l>
+            <l>Da ist kein Seufzen, kein trauriger Ton;</l>
+            <l>Denn die Morgenstund</l>
+            <l>Führet Gold im Mund,</l>
+            <l>Baut mir ein'n Thron.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt dann die Mittagszeit,</l>
+            <l>Bin ich voll Freud;</l>
+            <l>Da grast das liebe Vieh,</l>
+            <l>Geiß, Lämmer, Schaaf und Küh,</l>
+            <l>Auf grüner Haid.</l>
+            <l>Setz' mich in Schatten hin, esse mein Brod.</l>
+            <l>Bey meinem Hirtenstab</l>
+            <l>Schwör ich, daß ich hab</l>
+            <l>Niemals ein Noth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Endlich seh ich von fern</l>
+            <l>Den Abendstern;</l>
+            <l>Dort draus am Wasserfall</l>
+            <l>Schlaget die Nachtigall,</l>
+            <l>Giebt Wiederhall.</l>
+            <l>Freyheit in Armuth giebt Reichthum und Sieg,</l>
+            <l>Allem Pomp und Pracht</l>
+            <l>Sag ich gute Nacht</l>
+            <l>Und bleib ein Hirt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">9.</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">170</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">690</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>9.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Greis trat lächelnd mir entgegen,</l>
+            <l>Bot mir die Hand gedankenvoll,</l>
+            <l>Und hob sie dann empor zum Segen,</l>
+            <l>Der sanft vom Himmel niederquoll;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ich empfand es tief im Herzen,</l>
+            <l>Daß Zorn der Donner Gottes nicht;</l>
+            <l>Daß aus der Weste leichten Scherzen,</l>
+            <l>Wie aus Gewittern Liebe spricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und einen Labebecher trank ich,</l>
+            <l>Und schlich, wohin die Ruh' mich rief,</l>
+            <l>Hinaus zur Scheune, müde sank ich</l>
+            <l>Hier in des Heues Duft — und schlief.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was mich erfreut auf meinen Wegen,</l>
+            <l>Das träumt' ich nun im Schlafe nach,</l>
+            <l>Und träumend hört' ich, wie der Regen</l>
+            <l>Sanft niederträufelt' auf das Dach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Süß träumt es sich in einer Scheune,</l>
+            <l>Wenn drauf der Regen leise klopft;</l>
+            <l>So mag sich's ruh'n im Todtenschreine,</l>
+            <l>Auf den die Freundeszähre tropft.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

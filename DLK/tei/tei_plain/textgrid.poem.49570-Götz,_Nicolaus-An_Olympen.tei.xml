@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Olympen</title>
+        <author>
+          <persName>
+            <surname>Götz</surname>
+            <forename>Nicolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-13 2-13</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">698</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1751</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Olympen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Leib ist schön; noch schöner deine Seele.</l>
+            <l>Man sieht auf dich vor tausend Frauen nur.</l>
+            <l>Dein Mund entzückt und singt, wie Philomele;</l>
+            <l>Und was du singst ist Regung und Natur.</l>
+            <l>Hättest du am Simois</l>
+            <l>Zu der alten Zeit gelebet,</l>
+            <l>O so hätte Tyndaris</l>
+            <l>Neben dir gebetet!</l>
+            <l>Ein Blick von dir</l>
+            <l>Hätt' ihr</l>
+            <l>Den Liebling abgezwungen;</l>
+            <l>Und Homer, gewiß!</l>
+            <l>Hätte nur von dir gesungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Leib ist schön; noch schöner deine Seele.</l>
+            <l>Man sieht auf dich vor tausend Frauen nur.</l>
+            <l>Dein Mund entzückt und singt, wie Philomele;</l>
+            <l>Und was du singst ist Regung und Natur.</l>
+            <l>Hättest du am Simois</l>
+            <l>Zu der alten Zeit gelebet,</l>
+            <l>O so hätte Tyndaris</l>
+            <l>Neben dir gebetet!</l>
+            <l>Ein Blick von dir</l>
+            <l>Hätt' ihr</l>
+            <l>Den Liebling abgezwungen;</l>
+            <l>Und Homer, gewiß!</l>
+            <l>Hätte nur von dir gesungen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

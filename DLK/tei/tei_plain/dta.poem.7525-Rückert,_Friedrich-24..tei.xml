@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">24.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">629</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>24.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Strom, einmal getrübt, muß fließen eine Weile,</l>
+            <l>Eh aus der innern Füll' er seinen Schaden heile.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Sturm erschüttert, muß in Wolkendampf die Luft</l>
+            <l>Ausgähren, bis sie sich verklärt in reinen Duft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So muß ein menschliches Gemüth auch erst ausschwanken,</l>
+            <l>Wenn es ein äußrer Stoß, ein innrer, macht' erkranken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leicht heilt die Wunde, die man deinem Leib geschlagen;</l>
+            <l>Die selbst dein Herz sich schlug, wird späte Narben tragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wenn es grausam heißt, dem Freund die Wund' aufreißen;</l>
+            <l>Sich selber es zu thun, kann auch nicht menschlich heißen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel lieber lindes Oel geuß, das du hast im Haus,</l>
+            <l>Auf deine Schmerzen und auf alle fremden aus.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

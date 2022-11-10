@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An  
+ Herrn Christian Gottfried Krause.  
+  1762.</title>
+        <author>
+          <persName>
+            <surname>Ramler</surname>
+            <forename>Karl Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">560</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20476-3"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An  
+ Herrn Christian Gottfried Krause.  
+  1762.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Krause, den nicht der Themis
+Orakel,</l>
+            <l>Der Zank am Altar’, im Tempel der</l>
+            <l>Entwöhnten zärtliche Lieder</l>
+            <l>Aus siebenfach tönenden Saiten zu</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lass andre den Sieg des feurigen Heinrichs,</l>
+            <l>Den schnellen Triumph des Löwen besingen,</l>
+            <l>Der, selbst im Schlummer erschrecklich,</l>
+            <l>Die Lybischen Wüsten in Ehrfurcht</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und endlich, gereizt vom drohenden Pan-</l>
+            <l>Den nimmer umsonst gewageten Sprung</l>
+            <l>Im Bauch des Feindes die Klauen,</l>
+            <l>Im Nacken den zähnebewaffneten</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich singe mit dir die sanfteren Siege</l>
+            <l>Der Daphne, das Glück um Iris zu</l>
+            <l>Um euch, ihr leuchtenden Augen!</l>
+            <l>Dich, strebender Busen! dich, Gra-</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

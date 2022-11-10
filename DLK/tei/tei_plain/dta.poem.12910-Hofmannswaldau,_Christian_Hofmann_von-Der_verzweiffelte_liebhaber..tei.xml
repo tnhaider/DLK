@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der verzweiffelte liebhaber.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">663</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der verzweiffelte liebhaber.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! bricht dein grimm den porcellan</l>
+            <l>Der süßen hoffnung gantz in drümmer?</l>
+            <l>Du blickest meiner flammen schimmer,</l>
+            <l>Als ein geborgtes wesen an.</l>
+            <l>Und spiel’ ich gleich betrübte lieder;</l>
+            <l>So schlägt dein kalter sinn doch ihre kräffte nieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein geist verachtet meine treu:</l>
+            <l>Du fragest nichts nach angst und sehnen,</l>
+            <l>Und stellest die verliebten thränen</l>
+            <l>In der verlohrnen perlen reih.</l>
+            <l>Die seuffzer sind verworffne zeugen,</l>
+            <l>Und müssen nur umsonst aus treuen hertzen steigen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, schöne Daphne! strenges Kind!</l>
+            <l>Wilst du den diamanten gleichen,</l>
+            <l>Die man mit blute muß erweichen,</l>
+            <l>So schaue, was dein knecht beginnt;</l>
+            <l>Der um dein hertze zu gewinnen,</l>
+            <l>Hier statt der dinte läst der adern purpur rinnen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

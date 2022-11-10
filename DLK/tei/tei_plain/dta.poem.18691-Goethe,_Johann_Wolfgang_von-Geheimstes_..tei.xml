@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Geheimstes .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">171</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">647</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Geheimstes .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„wir sind emsig nachzuspüren,</l>
+            <l>Wir, die Anecdotenjäger,</l>
+            <l>Wer dein Liebchen sey und ob du</l>
+            <l>Nicht auch habest viele Schwäger.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn dass du verliebt bist sehn wir,</l>
+            <l>Mögen dir es gerne gönnen;</l>
+            <l>Doch dass Liebchen so dich liebe</l>
+            <l>Werden wir nicht glauben können.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ungehindert, liebe Herren,</l>
+            <l>Sucht sie auf, nur hört das Eine:</l>
+            <l>Ihr erschrecket wenn sie dasteht,</l>
+            <l>Ist sie fort, ihr koost dem Scheine.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wisst ihr wie </l>
+            <l>Sich auf </l>
+            <l>Niemand haltet ihr für thörig</l>
+            <l>Der in seinem Sinne handelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn vor deines Kaysers Throne,</l>
+            <l>Oder vor der Vielgeliebten</l>
+            <l>Je dein Name wird gesprochen</l>
+            <l>Sey es dir zu höchstem Lohne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darum war’s der höchste Jammer</l>
+            <l>Als einst </l>
+            <l>Dass vor </l>
+            <l>Man forthin nicht nennen sollte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

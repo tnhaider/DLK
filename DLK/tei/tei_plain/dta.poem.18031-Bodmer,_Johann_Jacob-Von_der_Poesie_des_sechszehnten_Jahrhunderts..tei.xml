@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Poesie des sechszehnten  
+ Jahrhunderts.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">101</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">413</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198462"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Poesie des sechszehnten  
+ Jahrhunderts.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ward kein Kayser nie so reich</l>
+            <l>Ich mag ihm seyn an denken gleich.</l>
+            <l>Die F&amp;#252;rsten zwingen mit Gewalt</l>
+            <l>Das Feld, Stein, Wasser, Berg und Wald.</l>
+            <l>Dazu all Thier, beid wild und zam,</l>
+            <l>Sie thetens auch der Luft allsam</l>
+            <l>Wo sie verm&amp;#339;chten mit Gewalt</l>
+            <l>Aber Gott hat solches abgestalt.</l>
+            <l>Sie m&amp;#252;ssen die gemein lan seyn.</l>
+            <l>M&amp;#339;chten sie uns der Sonnen Schein</l>
+            <l>Verbergen, den Tauw, Wind und Regen,</l>
+            <l>Sie liessen es nicht unterwegen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

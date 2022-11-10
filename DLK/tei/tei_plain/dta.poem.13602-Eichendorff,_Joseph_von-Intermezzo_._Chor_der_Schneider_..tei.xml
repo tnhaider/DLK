@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Intermezzo .  
+  Chor der Schneider .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">430</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Intermezzo .  
+  Chor der Schneider .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur vom Ganzen frisch gerissen,</l>
+            <l>Eh' die Waare ganz verschlissen,</l>
+            <l>Hier ein uralt gülden Stück,</l>
+            <l>Giebt so'n gewissen frommen Blick,</l>
+            <l>Hier ein bunter welscher Flick,</l>
+            <l>Drauf ein Stück Hausleinewand,</l>
+            <l>Macht das Welsche erst pikant</l>
+            <l>Hie 'nen Fetzen Bärenhaut,</l>
+            <l>Daß man auch das Teutsche schaut,</l>
+            <l>Drüber einen span'schen Kragen,</l>
+            <l>Das Erhab'ne wird behagen,</l>
+            <l>Frisch gestichelt, fein zum Werke,</l>
+            <l>Und wird auch nichts Ganzes draus,</l>
+            <l>Sieht es doch gar niedlich aus!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

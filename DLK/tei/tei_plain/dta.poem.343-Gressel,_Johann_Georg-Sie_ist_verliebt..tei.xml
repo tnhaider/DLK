@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sie ist verliebt.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">29</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-13</measure>
+        <measure type="syllables">186</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">751</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sie ist verliebt.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin verliebt/</l>
+            <l>Und halte stille/</l>
+            <l>Was mein Schatz mit mir verübt/</l>
+            <l>Ist auch mein Wille.</l>
+            <l>Dann kan ich mit süssen Freuden</l>
+            <l>Meine heissen Sinnen weiden/</l>
+            <l>Wenn er mir den </l>
+            <l>Der mit Wollust truncken macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Süsse Lust/ vergnügtes Lieben</l>
+            <l>Ist den Menschen vorgeschrieben;</l>
+            <l>Und der Himmel macht den Schluß/</l>
+            <l>Daß das Hertze lieben muß.</l>
+            <l>Lieben speist mit Lust die Seelen/</l>
+            <l>Lieben ist ein Zucker-Brodt/</l>
+            <l>Lieben süsset an das Quählen</l>
+            <l>Und entbittert gar den Tod.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn was kan wol beliebters seyn?</l>
+            <l>Als solche Lust/</l>
+            <l>Die ein verliebtes Hertz</l>
+            <l>Nimmt sonder Schertz</l>
+            <l>Von ihren Liebsten ein.</l>
+            <l>Das Hertz springt in der Brust/</l>
+            <l>Die matten Geister leben/</l>
+            <l>Wenn ihnen wird der </l>
+            <l>Mein Hertze lacht/</l>
+            <l>Wenn mich mein Liebster winckt;</l>
+            <l>Ich folge ihm zu Bette</l>
+            <l>So bald das Licht versinckt/</l>
+            <l>Denn lieben wir uns in die Wette.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

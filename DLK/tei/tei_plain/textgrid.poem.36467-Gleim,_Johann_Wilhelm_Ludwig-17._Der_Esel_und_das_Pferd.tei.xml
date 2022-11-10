@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">17. Der Esel und das Pferd</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">494</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1761</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>17. Der Esel und das Pferd</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Esel ging, mit steifem Gange,</l>
+            <l>Zu einem Pferde: Sage mir,</l>
+            <l>Sprach er zum Pferde, nehmen dir,</l>
+            <l>Mein Bruder, Zaum und Stange</l>
+            <l>Die Freiheit nicht auf deinem Wege?</l>
+            <l>Ja, leider! gab das Pferd zur Antwort, aber doch</l>
+            <l>Trag ich kein Joch,</l>
+            <l>Und kriege keine Schläge!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Esel ging, mit steifem Gange,</l>
+            <l>Zu einem Pferde: Sage mir,</l>
+            <l>Sprach er zum Pferde, nehmen dir,</l>
+            <l>Mein Bruder, Zaum und Stange</l>
+            <l>Die Freiheit nicht auf deinem Wege?</l>
+            <l>Ja, leider! gab das Pferd zur Antwort, aber doch</l>
+            <l>Trag ich kein Joch,</l>
+            <l>Und kriege keine Schläge!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

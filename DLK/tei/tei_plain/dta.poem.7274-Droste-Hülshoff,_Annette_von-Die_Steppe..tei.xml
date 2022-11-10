@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Steppe.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">656</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Steppe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Standest du je am Strande,</l>
+            <l>Wenn Tag und Nacht sich gleichen,</l>
+            <l>Und sah'st aus Lehm und Sande</l>
+            <l>Die Regenrinnen schleichen —</l>
+            <l>Zahllose Schmugglerquellen,</l>
+            <l>Und dann, so weit das Auge</l>
+            <l>Nur reicht, des Meeres Wellen</l>
+            <l>Gefärbt mit gelber Lauge? —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ist die Dün' und drunten</l>
+            <l>Das Meer; Kanonen gleichend</l>
+            <l>Stehn Schäferkarrn, die Lunten</l>
+            <l>Verlöscht am Boden streichend.</l>
+            <l>Gilt's etwa dem Korsaren</l>
+            <l>Im flatternden Kaftane,</l>
+            <l>Den dort ich kann gewahren</l>
+            <l>Im gelben Oceane?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er scheint das Tau zu schlagen,</l>
+            <l>Sein Schiff verdeckt die Düne,</l>
+            <l>Doch sieht den Mast man ragen, —</l>
+            <l>Ein dürrer Fichtenhüne;</l>
+            <l>Von seines Toppes Kunkel</l>
+            <l>Die Seile stramm wie Aeste,</l>
+            <l>Der Mastkorb, rauh und dunkel,</l>
+            <l>Gleicht einem Weihenneste! —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

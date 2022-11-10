@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Es lebt ein Gott …</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">204</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">785</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Es lebt ein Gott …</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„es lebt ein Gott, der Schöpfer des Weltenrunds,“</l>
+            <l>So sagen sie. Doch, geben sie Kunde auch,</l>
+            <l>Ob von dem Funkeln, das den einen</l>
+            <l>Tropfen im Meere des Alls umleuchtet,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob er vom Ringen menschlicher Nichtigkeit</l>
+            <l>Jemals vernahm? „Allmächtig und liebevoll</l>
+            <l>Ist er, vor seinen Vaterblicken</l>
+            <l>Birgt im unendlichen Raum sich Niemand,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Schmerz ist ihm, kein Jubel der Freude fremd,</l>
+            <l>Den Gott der Liebe nennen ihn Alle ja.“ —</l>
+            <l>So sieht er also dieser Erde</l>
+            <l>Nimmer ermessene Jammerwüste?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er sieht das Edle unter den Fuß gestampft</l>
+            <l>Des Tiefgemeinen? Siehet in Qual und Staub</l>
+            <l>Sich wälzen Millionen Herzen,</l>
+            <l>Blutend, gemartert ein qualschweres Dasein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und endets nicht? Und trümmert und schmettert nicht</l>
+            <l>Die Welt in’s wahnlos friedliche Nichts zurück? —</l>
+            <l>Den Gott grausamer wär’ er wahrlich,</l>
+            <l>Als der verworfenste Menschenbube!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

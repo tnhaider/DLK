@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">253</measure>
+        <measure type="tokens">142</measure>
+        <measure type="characters">984</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In tausend Formen magst du dich verstecken,</l>
+            <l>Doch, Allerliebste, gleich erkenn’ ich dich,</l>
+            <l>Du magst mit Zauberschleyern dich bedecken,</l>
+            <l>Allgegenwärtige, gleich erkenn’ ich dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An der Cypresse reinstem, jungen Streben,</l>
+            <l>Allschöngewaschne, gleich erkenn’ ich dich,</l>
+            <l>In des Canales reinem Wellenleben,</l>
+            <l>Allschmeichelhafte, wohl erkenn’ ich dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn steigend sich der Wasserstrahl entfaltet,</l>
+            <l>Allspielende, wie froh erkenn’ ich dich.</l>
+            <l>Wenn Wolke sich gestaltend umgestaltet,</l>
+            <l>Allmannigfaltige, dort erkenn’ ich dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An des geblümten Schleyers Wiesenteppich,</l>
+            <l>Allbuntbesternte, schön erkenn’ ich dich.</l>
+            <l>Und greift umher ein tausendarmger Eppich,</l>
+            <l>O! Allumklammernde, da kenn’ ich dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn am Gebirg der Morgen sich entzündet,</l>
+            <l>Gleich, Allerheiternde, begrüss’ ich dich,</l>
+            <l>Dann über mir der Himmel rein sich ründet,</l>
+            <l>Allherzerweiternde, dann athm’ ich dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich mit äusserm Sinn, mit innerm kenne,</l>
+            <l>Du Allbelehrende, kenn’ ich durch dich.</l>
+            <l>Und wenn ich Allahs Namenhundert nenne,</l>
+            <l>Mit jedem klingt ein Name nach für dich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

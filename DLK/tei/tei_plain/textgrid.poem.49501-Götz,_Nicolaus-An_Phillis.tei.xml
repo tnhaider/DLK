@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Phillis</title>
+        <author>
+          <persName>
+            <surname>Götz</surname>
+            <forename>Nicolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-13 2-13</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">724</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1751</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Phillis</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amor bot einst zu Cythere</l>
+            <l>Mich, als seinen Sklaven feil;</l>
+            <l>Und ich ward, zu meiner Ehre,</l>
+            <l>Holde Phillis, dir zu Theil.</l>
+            <l>Dann die meine Treue kannten</l>
+            <l>Boten ihm ein Purpurkleid.</l>
+            <l>Eine bot durch Abgesandten</l>
+            <l>Einen Korb voll Diamanten:</l>
+            <l>Aber Amor war gescheut.</l>
+            <l>Er verwarf so schlechte Gaben</l>
+            <l>Und entschied für dich den Streit!</l>
+            <l>Dann du botest mich zu haben</l>
+            <l>Einen Blick voll Zärtlichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amor bot einst zu Cythere</l>
+            <l>Mich, als seinen Sklaven feil;</l>
+            <l>Und ich ward, zu meiner Ehre,</l>
+            <l>Holde Phillis, dir zu Theil.</l>
+            <l>Dann die meine Treue kannten</l>
+            <l>Boten ihm ein Purpurkleid.</l>
+            <l>Eine bot durch Abgesandten</l>
+            <l>Einen Korb voll Diamanten:</l>
+            <l>Aber Amor war gescheut.</l>
+            <l>Er verwarf so schlechte Gaben</l>
+            <l>Und entschied für dich den Streit!</l>
+            <l>Dann du botest mich zu haben</l>
+            <l>Einen Blick voll Zärtlichkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

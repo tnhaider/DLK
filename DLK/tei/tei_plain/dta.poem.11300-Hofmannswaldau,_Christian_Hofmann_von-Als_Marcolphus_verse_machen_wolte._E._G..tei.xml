@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Als Marcolphus verse machen wolte.  
+  E. G.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">415</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1709</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20283-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Als Marcolphus verse machen wolte.  
+  E. G.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Marcolphus solt' unlängst begräbniß-verse schreiben.</l>
+            <l>Weil er nun gerne wolt’ ein guter tichter seyn,</l>
+            <l>Und starcke träncke sonst geschickte reime treiben;</l>
+            <l>Erkaufft er sich zuvor ein maas zwey-groschen-wein.</l>
+            <l>Denn wolt’ er noch darauf zur tichter queck-brunn hincken;</l>
+            <l>Allein er war berauscht, drum fehlt er in dem trincken,</l>
+            <l>Und traff ich weiß nicht was vor eine mist-pfütz an;</l>
+            <l>Was wunder, wann er nun, wie frösche, fingen kan?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

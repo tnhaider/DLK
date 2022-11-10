@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput VI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">534</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput VI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter dem Mantel hielt er etwas</l>
+            <l>Verborgen, das seltsam blinkte</l>
+            <l>Wenn es zum Vorschein kam, und ein Beil,</l>
+            <l>Ein Richtbeil, zu seyn mir dünkte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er schien von untersetzter Statur,</l>
+            <l>Die Augen wie zwey Sterne;</l>
+            <l>Er störte mich im Schreiben nie,</l>
+            <l>Blieb ruhig stehn in der Ferne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seit Jahren hatte ich nicht gesehn</l>
+            <l>Den sonderbaren Gesellen,</l>
+            <l>Da fand ich ihn plötzlich wieder hier</l>
+            <l>In der stillen Mondnacht zu Cöllen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schlenderte sinnend die Straßen entlang,</l>
+            <l>Da sah ich ihn hinter mir gehen,</l>
+            <l>Als ob er mein Schatten wäre, und stand</l>
+            <l>Ich still, so blieb er stehen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">45.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">489</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>45.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Gärtner liefert mir zum Schmuck in meinem Zimmer</l>
+            <l>Blumen von Zeit zu Zeit, neu blühnde Blumen immer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da stehn sie denn solang als sie in Blüte stehn,</l>
+            <l>Und müßen abgeblüht zurück zum Gärtner gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe den Genuß, der Gärtner hat die Mühen,</l>
+            <l>Nur blühen seh' ich sie, er sorget daß sie blühen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was mir der Gärtner ist, das ist der Dichter euch,</l>
+            <l>Der Blüt' und Blume zieht am kahlen Weltgesträuch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr habt den Augenblick des Aufgehns zu genießen,</l>
+            <l>Doch das ist seine Lust stets neue zu erschließen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

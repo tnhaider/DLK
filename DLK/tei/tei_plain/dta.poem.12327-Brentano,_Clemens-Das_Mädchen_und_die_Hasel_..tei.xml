@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Mädchen und die Hasel .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">236</measure>
+        <measure type="tokens">169</measure>
+        <measure type="characters">948</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Mädchen und die Hasel .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es wollt ein Mädchen Rosen brechen gehn,               </l>
+            <l>Wohl in die grüne Heide,</l>
+            <l>Was fand sie da am Wege stehn?</l>
+            <l>Eine Hasel, die war grüne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„guten Tag, guten Tag, liebe Hasel mein,</l>
+            <l>„warum bist du so grüne?“</l>
+            <l>„hab' Dank, hab' Dank, wackres Mägdelein,</l>
+            <l>„warum bist du so schöne?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„warum daß ich so schöne bin,</l>
+            <l>„das will ich dir wohl sagen:</l>
+            <l>„ich eß' weiß Brod, trink kühlen Wein,</l>
+            <l>„davon bin ich so schöne.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ißt du weiß Brod, trinkst kühlen Wein,</l>
+            <l>„und bist davon so schöne:</l>
+            <l>„so fällt alle Morgen kühler Thau auf mich,</l>
+            <l>„davon bin ich so grüne.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„so fällt alle Morgen kühler Thau auf dich,</l>
+            <l>„und bist davon so grüne?</l>
+            <l>„wenn aber ein Mädchen ihren Kranz verliert,</l>
+            <l>„nimmer kriegt sie ihn wieder.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„wenn aber ein Mädchen ihren Kranz will behalten,</l>
+            <l>„zu Hause muß sie bleiben,</l>
+            <l>„darf nicht auf alle Narrentänz' gehn;</l>
+            <l>„die Narrentänz' muß sie meiden.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„hab Dank, hab Dank, liebe Hasel mein,</l>
+            <l>„daß du mir das gesaget,</l>
+            <l>„hätt' mich sonst heut auf'n Narrentanz bereit,</l>
+            <l>„zu Hause will ich bleiben.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

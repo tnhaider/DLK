@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">41.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">605</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>41.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was nennst du groß und klein? du nennest größer, was</l>
+            <l>Ist über, kleiner wol, was unter deinem Maß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selbst gegen Kleineres kommst du dir größer vor,</l>
+            <l>Und gegen Großes klein, so schwankest du o Rohr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bist du das Maß der Welt? hast du an dir das Maß?</l>
+            <l>Sprich, ist an deinem Leib, in deinem Geiste das?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht klein nenn' oder groß, was groß ist oder klein</l>
+            <l>Nach deinem Leibe bloß, nach deinem Sinn allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Groß ist kein Sonnenball, und klein kein Sonnenstäubchen;</l>
+            <l>Groß ist der Schöpfung Baum, doch klein daran kein Läubchen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur der Gedank' ist groß, daß nichts so groß, so klein,</l>
+            <l>Als der Gedanken ist, der alles ist allein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

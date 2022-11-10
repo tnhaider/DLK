@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet.</title>
+        <author>
+          <persName>
+            <surname>Mühlpfort</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">692</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1686</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20414-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach ewig Vaterland! Ach Wohnhauß voller Freude!</l>
+            <l>Wie sehn ich mich nach dir/ wie hoff ich Tag und Nacht/</l>
+            <l>Daß mich ein seelig Tod frey von den Fesseln macht/</l>
+            <l>Darinn der sieche Leib muß unauffhörlich leiden.</l>
+            <l>Ich brenne vor Begier aus dieser Welt zu scheiden/</l>
+            <l>Dem Nothstall aller Angst/ wo bleicher Kummer wacht/</l>
+            <l>Und neue Trübsal blüht/ und Laster-reiche Pracht</l>
+            <l>Offt das Gewissen lockt/ des Höchsten Wort zu meiden.</l>
+            <l>Auff Seele! Schwinge dich zu der gestirnten Höh!</l>
+            <l>Du bist als Pilgerinn in Thränen hier gegangen/</l>
+            <l>Nun aber wirst du dort den Gnaden-Lohn empfangen/</l>
+            <l>Und wahre Himmels-Lust folgt auf der Erden Weh.</l>
+            <l>Laß/ was verwesen kan/ im Schos der Erden ligen/</l>
+            <l>Du must nach Adlers Art zur Lebens-Sonne fliegen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

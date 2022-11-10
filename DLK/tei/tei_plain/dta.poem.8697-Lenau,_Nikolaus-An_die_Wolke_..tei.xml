@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Wolke .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">748</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Wolke .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zieh nicht so schnell vorüber</l>
+            <l>An dieser stillen Heide;</l>
+            <l>Zieh nicht so scheu vorüber</l>
+            <l>An meinem tiefen Leide;</l>
+            <l>Du Wolke in der Höh',</l>
+            <l>Steh still bei meinem Weh!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und nimm auf deine Reise</l>
+            <l>Mit fort zu ihr die Kunde:</l>
+            <l>Mein Herz, die arme Waise,</l>
+            <l>Verblutet an der Wunde,</l>
+            <l>Die mir durch ihren Trug</l>
+            <l>Die Ungetreue schlug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und kommst auf deinen Wegen</l>
+            <l>Du an vor ihrem Hause,</l>
+            <l>So stürze dich als Regen</l>
+            <l>Herunter mit Gebrause,</l>
+            <l>Daß sie bei dunkler Nacht</l>
+            <l>Aus ihrem Traum erwacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlag' an die Fensterscheibe,</l>
+            <l>Und schlag' an ihre Thüre,</l>
+            <l>Und sey dem falschen Weibe</l>
+            <l>Ein Mahner an die Schwüre,</l>
+            <l>Die sie mir weinend sprach,</l>
+            <l>Und die sie lächelnd brach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und will sie das nicht hören</l>
+            <l>So magst von deinem Sitze</l>
+            <l>Du, Donner, dich empören,</l>
+            <l>Dann rüttelt all' ihr Blitze,</l>
+            <l>Wenn ihr vorüberzieht,</l>
+            <l>An ihrem Augenlied!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

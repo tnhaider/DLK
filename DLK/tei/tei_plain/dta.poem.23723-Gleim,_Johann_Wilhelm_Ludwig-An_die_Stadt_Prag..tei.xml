@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Stadt Prag.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-22</measure>
+        <measure type="syllables">155</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">580</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Stadt Prag.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach Prag, ich will dir rathen,</l>
+            <l>Verspare deine Thaten.</l>
+            <l>Ergib dich an uns Preussen,</l>
+            <l>Eh wir die Bomben schmeissen,</l>
+            <l>Sonst fallen deine Mauren,</l>
+            <l>Und deine Kinder trauren,</l>
+            <l>Wenn wir, auf deinen Gassen,</l>
+            <l>Die Bomben toben lassen.</l>
+            <l>Auf, laß von deinen Kindern</l>
+            <l>Ihr Toben schnell verhindern!</l>
+            <l>Du must die besten Schönen</l>
+            <l>Mit Lorbeerzweigen crönen.</l>
+            <l>Und mit gefaltnen Händen</l>
+            <l>Zu meinem König senden.</l>
+            <l>Dann werden sie, im Flehen,</l>
+            <l>Sein gnädig Antlitz sehen;</l>
+            <l>Dann wird der Held beweisen,</l>
+            <l>Es dien ihm Stahl und Eisen,</l>
+            <l>Es dienen ihm die Waffen</l>
+            <l>Zu seegnen nicht zu strafen.</l>
+            <l>Wie wirst du dann bedauren,</l>
+            <l>Daß er durch deine Mauren,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

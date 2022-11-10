@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von Spiegeln und Fern-  
+ Gläsern.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">492</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von Spiegeln und Fern-  
+ Gläsern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch eben diese Kunst vermögen Gläser auch,</l>
+            <l>Durch unterschiedentlich geschliffne Fläch-und Krümmen,</l>
+            <l>Den Cörpern andere Gestalten zu bestimmen:</l>
+            <l>Nachdem das Licht,</l>
+            <l>Das durch die Gläser bricht,</l>
+            <l>Sich dehnt, verbreitet und sich füget,</l>
+            <l>Da jeder Gegenwurff uns dann betrüget.</l>
+            <l>Sie ändern, nähern sich, sie werden groß und klein,</l>
+            <l>Entfernen sich, sie können gar</l>
+            <l>Vermehret und vervielfacht seyn.</l>
+            <l>Jedwede Seite stellt den gantzen Vorwurff dar,</l>
+            <l>So, daß durchs Auge mein Gemüth,</l>
+            <l>Statt eines Vorwurffs, zwantzig sieht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

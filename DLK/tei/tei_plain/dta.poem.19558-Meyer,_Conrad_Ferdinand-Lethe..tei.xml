@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lethe.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">266</measure>
+        <measure type="tokens">182</measure>
+        <measure type="characters">1038</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lethe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jüngst im Traume sah ich auf den Fluten</l>
+            <l>Einen Nachen ohne Ruder ziehn,</l>
+            <l>Strom und Himmel stand in matten Gluten</l>
+            <l>Wie bei Tages Nahen oder Fliehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Saßen Knaben drin mit Lotoskränzen,</l>
+            <l>Mädchen beugten über Bord sich schlank,</l>
+            <l>Kreisend durch die Reihe sah ich glänzen</l>
+            <l>Eine Schale, draus ein Jedes trank.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt erscholl ein Lied voll süßer Wehmuth,</l>
+            <l>Das die Schaar der Kranzgenossen sang —</l>
+            <l>Ich erkannte deines Nackens Demuth,</l>
+            <l>Deine Stimme, die den Chor durchdrang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In die Welle taucht' ich. Bis zum Marke</l>
+            <l>Schaudert' ich, wie seltsam kühl sie war.</l>
+            <l>Ich erreicht' die leise zieh'nde Barke,</l>
+            <l>Drängte mich in die geweihte Schaar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Reihe war an dir, zu trinken</l>
+            <l>Und die volle Schale hobest du,</l>
+            <l>Sprachst zu mir mit trautem Augenwinken:</l>
+            <l>„herz, ich trinke dir Vergessen zu.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir entriß in trotz'gem Liebesdrange</l>
+            <l>Ich die Schale, warf sie in die Flut,</l>
+            <l>Sie versank und siehe, deine Wange</l>
+            <l>Färbte sich mit einem Schein von Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flehend küßt' ich dich in wildem Harme,</l>
+            <l>Die den bleichen Mund mir willig bot,</l>
+            <l>Da zerrannst du lächelnd mir im Arme</l>
+            <l>Und ich wußt' es wieder — du bist todt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

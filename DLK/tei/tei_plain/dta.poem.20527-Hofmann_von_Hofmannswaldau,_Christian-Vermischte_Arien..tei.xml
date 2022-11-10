@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vermischte Arien.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">795</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vermischte Arien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer auff schwüre bauet/</l>
+            <l>Und auff worte trauet/</l>
+            <l>So die zeit zerbricht/</l>
+            <l>Dem gelückt es nicht;</l>
+            <l>Ja wird leichtlich nein/</l>
+            <l>Und ein falscher schein</l>
+            <l>Reißt offt allen fürsatz ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zirckel der gedancken</l>
+            <l>Können leichtlich wancken/</l>
+            <l>Und der liebe-schluß</l>
+            <l>Hält nicht lange fuß.</l>
+            <l>Was die welt erfreut/</l>
+            <l>Nennt die leichte zeit</l>
+            <l>Wechsel der ergetzligkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allzu lange sonne</l>
+            <l>Machet schlechte wonne/</l>
+            <l>Muscateller must/</l>
+            <l>Ja die höchste lust</l>
+            <l>Bringet dem verdruß/</l>
+            <l>Der mit überfluß</l>
+            <l>Solches stets geniessen muß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Honig wird zu gallen/</l>
+            <l>Greul will dem gefallen</l>
+            <l>An der seite stehn/</l>
+            <l>Und zu nechste gehn.</l>
+            <l>Mancher blume pracht/</l>
+            <l>Heut/ als gold geacht/</l>
+            <l>Wird in kurtzer zeit verlacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer nicht menschen kennet</l>
+            <l>Meynt/ daß alles brennet/</l>
+            <l>Was da feuer rufft.</l>
+            <l>Ach/ der hertzen grufft!</l>
+            <l>Den die treu entweicht/</l>
+            <l>Die viel list durchschleicht/</l>
+            <l>Hat kein maaß noch bley erreicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

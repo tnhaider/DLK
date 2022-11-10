@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XlIV.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">799</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XlIV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus alten Mährchen winkt es</l>
+            <l>Hervor mit weißer Hand,</l>
+            <l>Da singt es und da klingt es</l>
+            <l>Von einem Zauberland';</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo bunte Blumen blühen</l>
+            <l>Im goldnen Abendlicht',</l>
+            <l>Und lieblich duftend glühen,</l>
+            <l>Mit bräutlichem Gesicht;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und grüne Bäume singen</l>
+            <l>Uralte Melodein,</l>
+            <l>Die Lüfte heimlich klingen,</l>
+            <l>Und Vögel schmettern drein;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Nebelbilder steigen</l>
+            <l>Wohl aus der Erd' hervor,</l>
+            <l>Und tanzen luft'gen Reigen,</l>
+            <l>Im wunderlichen Chor;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und blaue Funken brennen</l>
+            <l>An jedem Blatt und Reis,</l>
+            <l>Und rothe Lichter rennen</l>
+            <l>Im irren, wirren Kreis;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und laute Quellen brechen</l>
+            <l>Aus wildem Marmorstein,</l>
+            <l>Und seltsam in den Bächen</l>
+            <l>Strahlt fort der Wiederschein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! könnt' ich dorthin kommen,</l>
+            <l>Und dort mein Herz erfreu'n,</l>
+            <l>Und aller Qual entnommen,</l>
+            <l>Und frei und selig seyn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! jenes Land der Wonne,</l>
+            <l>Das seh' ich oft im Traum,</l>
+            <l>Doch kommt die Morgensonne,</l>
+            <l>Zerfließt's wie eitel Schaum.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

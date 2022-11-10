@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Hausorden.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">695</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Hausorden.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Verdienste seine Kronen!</l>
+            <l>Also denket mancher Mann,</l>
+            <l>Und er will sich selbst belohnen,</l>
+            <l>Denn kein andrer denkt daran.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie große Potentaten</l>
+            <l>Heckt er einen Orden aus</l>
+            <l>Zur Belohnung seiner Thaten</l>
+            <l>Nur für sich und für sein Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und er theilet dann in Klassen</l>
+            <l>Diesen Orden seiner Wahl,</l>
+            <l>Und er will damit umfassen</l>
+            <l>Der Verdienste große Zahl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ehekreuz das ist die erste,</l>
+            <l>Hauskreuz muß die zweite sein,</l>
+            <l>Und dann kommt die schönst' und hehrste,</l>
+            <l>Todtenkreuz noch hinterdrein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seit die Orden sind geworden</l>
+            <l>Jedem Stand' ein Liebespfand,</l>
+            <l>Nun, so hascht man auch nach Orden</l>
+            <l>In dem heil'gen Ehestand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn dich drum der Staat nicht ehret,</l>
+            <l>Werde gleich ein Ehemann,</l>
+            <l>Und dir wird ein Kreuz bescheret,</l>
+            <l>Daß du denkst zeitlebens dran.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

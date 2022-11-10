@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Schäfer .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">145</measure>
+        <measure type="characters">833</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Schäfer .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der schöne Schäfer zog so nah</l>
+            <l>Vorüber an dem Königsschloß;</l>
+            <l>Die Jungfrau von der Zinne sah,</l>
+            <l>Da war ihr Sehnen groß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie rief ihm zu ein süßes Wort:</l>
+            <l>„o dürft’ ich gehn hinab zu dir!</l>
+            <l>Wie glänzen weiß die Lämmer dort,</l>
+            <l>Wie roth die Blümlein hier!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Jüngling ihr entgegenbot:</l>
+            <l>„o kämest du herab zu mir!</l>
+            <l>Wie glänzen so die Wänglein roth,</l>
+            <l>Wie weiß die Arme dir!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als er nun mit stillem Weh</l>
+            <l>In jeder Früh’ vorübertrieb:</l>
+            <l>Da sah er hin, bis in der Höh’</l>
+            <l>Erschien sein holdes Lieb.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann rief er freundlich ihr hinauf:</l>
+            <l>„willkommen, Königstöchterlein!“</l>
+            <l>Ihr süßes Wort ertönte drauf:</l>
+            <l>„viel Dank, du Schäfer mein!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Winter floh, der Lenz erschien,</l>
+            <l>Die Blümlein blühten reich umher,</l>
+            <l>Der Schäfer thät zum Schlosse ziehn,</l>
+            <l>Doch Sie erschien nicht mehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er rief hinauf so klagevoll:</l>
+            <l>„willkommen, Königstöchterlein!“</l>
+            <l>Ein Geisterlaut herunter scholl:</l>
+            <l>„ade, du Schäfer mein!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

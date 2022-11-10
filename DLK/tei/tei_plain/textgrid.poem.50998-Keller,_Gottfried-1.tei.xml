@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1</title>
+        <author>
+          <persName>
+            <surname>Keller</surname>
+            <forename>Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">248</measure>
+        <measure type="tokens">160</measure>
+        <measure type="characters">968</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1854</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hell im Silberlichte flimmernd</l>
+            <l>Zieht und singt des Baches Welle,</l>
+            <l>Goldengrün und tiefblau schimmernd</l>
+            <l>Küßt sie flüchtig die Libelle;</l>
+            <l>Und ein drittes kommt dazu,</l>
+            <l>Eine Blüte hergeschwommen:</l>
+            <l>Alle haben drauf im Nu</l>
+            <l>Heitern Abschied schon genommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Esche beugt sich drüber,</l>
+            <l>Schaut in Ruh das holde Treiben,</l>
+            <l>Denkt: Ihr Lieben, zieht vorüber,</l>
+            <l>Ich will grünen hier und bleiben!</l>
+            <l>Und ich unterm Eschenbaum:</l>
+            <l>Was soll denn mit mir geschehen</l>
+            <l>In dem reizend leichten Traum?</l>
+            <l>Soll ich bleiben? Soll ich gehen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hell im Silberlichte flimmernd</l>
+            <l>Zieht und singt des Baches Welle,</l>
+            <l>Goldengrün und tiefblau schimmernd</l>
+            <l>Küßt sie flüchtig die Libelle;</l>
+            <l>Und ein drittes kommt dazu,</l>
+            <l>Eine Blüte hergeschwommen:</l>
+            <l>Alle haben drauf im Nu</l>
+            <l>Heitern Abschied schon genommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Esche beugt sich drüber,</l>
+            <l>Schaut in Ruh das holde Treiben,</l>
+            <l>Denkt: Ihr Lieben, zieht vorüber,</l>
+            <l>Ich will grünen hier und bleiben!</l>
+            <l>Und ich unterm Eschenbaum:</l>
+            <l>Was soll denn mit mir geschehen</l>
+            <l>In dem reizend leichten Traum?</l>
+            <l>Soll ich bleiben? Soll ich gehen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

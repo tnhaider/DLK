@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Habersack .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">45</measure>
+        <measure type="verses_per_stanza">1-9 2-9 3-9 4-9 5-9</measure>
+        <measure type="syllables">308</measure>
+        <measure type="tokens">237</measure>
+        <measure type="characters">1233</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Habersack .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wollt ihr hören singen,               </l>
+            <l>Ich sing ein neues Lied,</l>
+            <l>Von einem feinen Fräulein,</l>
+            <l>Und wie es dem ergieng,</l>
+            <l>Sie war genannt der Habersack,</l>
+            <l>Gott geb ihr einen guten Morgen,</l>
+            <l>Und einen guten Tag,</l>
+            <l>Tag und Tag und aber Tag</l>
+            <l>Mit der ich heut Nacht sprach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Fräulein, das war weise,</l>
+            <l>Mit seinen Worten klug,</l>
+            <l>Wie bald nahm sie den Habersack,</l>
+            <l>Ihn zu der Mühle trug,</l>
+            <l>Nun seh, du lieber Müller mein,</l>
+            <l>Den Haber sollst du mahlen wohl,</l>
+            <l>Wohl um den Willen mein,</l>
+            <l>Dein und mein und aber dein,</l>
+            <l>Es soll verschwiegen sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Müller nahm den Haber</l>
+            <l>Und schütt ihn auf die Rell,</l>
+            <l>Er konnt ihn nie gemalen,</l>
+            <l>Es war sein Ungefäll,</l>
+            <l>Er mahlt die Nacht, bis an den Tag,</l>
+            <l>Gott geb ihm einen guten Morgen,</l>
+            <l>Und einen guten Tag,</l>
+            <l>Tag und Tag und aber Tag,</l>
+            <l>Mit der ich heut Nacht sprach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Müller nahm die Stiefel,</l>
+            <l>Streift sie an seine Bein,</l>
+            <l>Er gieng die Gassen auf und ab,</l>
+            <l>Und fang ein Liedlein klein,</l>
+            <l>Er sang ein Lied vom Habersack,</l>
+            <l>Gott geb ihr ein guten Morgen,</l>
+            <l>Und einen guten Tag,</l>
+            <l>Tag und Tag, und aber Tag,</l>
+            <l>Mit der ich heut Nacht sprach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das hört des Müllers Knechte</l>
+            <l>In seinem Kämmerlein,</l>
+            <l>Er dacht in seinem Sinne,</l>
+            <l>Es wär ein Fräulein fein,</l>
+            <l>Es wär ein Fräulein minniglich,</l>
+            <l>Wollt Gott sollt ich sie schauen,</l>
+            <l>Wohl durch den Willen mein,</l>
+            <l>Dein und mein und aber dein,</l>
+            <l>Es sollt verschwiegen sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

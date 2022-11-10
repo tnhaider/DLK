@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dein Bild .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">929</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dein Bild .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sonne sinkt, die Berge glüh'n,</l>
+            <l>Und aus des Abends Rosen</l>
+            <l>Seh' ich so schön dein Bild mir blüh'n,</l>
+            <l>So fern dem Hoffnunglosen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Strahlt Hesperus dann hell und mild</l>
+            <l>Am blauen Himmelsbogen,</l>
+            <l>So hat mit ihm dein süßes Bild</l>
+            <l>Die Sternenflur bezogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im mondbeglänzten Laube spielt</l>
+            <l>Der Abendwinde Säuseln;</l>
+            <l>Wie freudig um dein zitternd Bild</l>
+            <l>Des Baches Wellen kräuseln! —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es braust der Wald, am Himmel zieh'n</l>
+            <l>Des Sturmes Donnerflüge,</l>
+            <l>Da mal' ich in die Wetter hin,</l>
+            <l>O Mädchen, deine Züge.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich seh' die Blitze trunkenhaft</l>
+            <l>Um deine Züge schwanken,</l>
+            <l>Wie meiner tiefen Leidenschaft</l>
+            <l>Aufflammende Gedanken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Felsen stürzt die Gemse dort,</l>
+            <l>Enteilet mit den Winden,</l>
+            <l>So sprang von mir die Freude fort,</l>
+            <l>Und ist nicht mehr zu finden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da bin ich, weiß nicht selber wie,</l>
+            <l>An einen Abgrund kommen,</l>
+            <l>Der noch das Kind der Sonne nie</l>
+            <l>In seinen Schoos genommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich aber seh' aus seiner Nacht</l>
+            <l>Dein Bild so hold mir blinken,</l>
+            <l>Wie mir dein Antlitz nie gelacht; —</l>
+            <l>Will's mich hinunter winken? —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

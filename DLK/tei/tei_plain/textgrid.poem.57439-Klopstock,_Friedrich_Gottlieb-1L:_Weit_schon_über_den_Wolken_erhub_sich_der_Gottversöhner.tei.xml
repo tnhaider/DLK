@@ -1,0 +1,3504 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Weit schon über den Wolken erhub sich der Gottversöhner</title>
+        <author>
+          <persName>
+            <surname>Klopstock</surname>
+            <forename>Friedrich Gottlieb</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">534</measure>
+        <measure type="verses">2374</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-7 4-4 5-4 6-4 7-2 8-4 9-4 10-4 11-4 12-3 13-4 14-4 15-4 16-4 17-4 18-5 19-4 20-4 21-4 22-4 23-4 24-2 25-4 26-4 27-4 28-4 29-4 30-4 31-4 32-4 33-4 34-4 35-4 36-4 37-13 38-4 39-4 40-4 41-2 42-4 43-4 44-4 45-4 46-4 47-4 48-6 49-9 50-4 51-1 52-4 53-4 54-2 55-4 56-2 57-4 58-1 59-4 60-4 61-4 62-1 63-4 64-2 65-4 66-4 67-4 68-2 69-4 70-4 71-4 72-4 73-4 74-4 75-4 76-4 77-4 78-1 79-4 80-4 81-6 82-4 83-4 84-4 85-4 86-4 87-4 88-4 89-4 90-4 91-4 92-4 93-4 94-4 95-4 96-4 97-3 98-4 99-4 100-4 101-4 102-4 103-4 104-4 105-4 106-4 107-4 108-4 109-4 110-4 111-4 112-6 113-4 114-4 115-4 116-4 117-10 118-4 119-4 120-4 121-4 122-4 123-4 124-5 125-7 126-2 127-4 128-4 129-4 130-4 131-4 132-4 133-4 134-4 135-4 136-4 137-4 138-4 139-4 140-4 141-4 142-4 143-4 144-4 145-14 146-9 147-4 148-3 149-4 150-4 151-4 152-4 153-6 154-54 155-2 156-4 157-4 158-4 159-2 160-4 161-4 162-2 163-4 164-4 165-4 166-23 167-4 168-4 169-2 170-4 171-1 172-4 173-4 174-1 175-4 176-4 177-3 178-4 179-4 180-4 181-2 182-4 183-4 184-4 185-2 186-4 187-4 188-6 189-4 190-4 191-2 192-4 193-4 194-2 195-4 196-4 197-4 198-4 199-13 200-5 201-4 202-4 203-4 204-4 205-2 206-4 207-4 208-4 209-4 210-1 211-4 212-1 213-4 214-6 215-4 216-4 217-4 218-4 219-4 220-4 221-2 222-4 223-2 224-4 225-4 226-5 227-4 228-2 229-4 230-4 231-4 232-4 233-4 234-4 235-4 236-4 237-6 238-4 239-4 240-4 241-4 242-6 243-16 244-6 245-5 246-7 247-4 248-4 249-4 250-4 251-3 252-4 253-4 254-4 255-4 256-3 257-4 258-4 259-4 260-4 261-4 262-2 263-4 264-4 265-25 266-7 267-14 268-4 269-4 270-7 271-4 272-4 273-4 274-2 275-4 276-4 277-4 278-4 279-3 280-4 281-4 282-4 283-4 284-4 285-5 286-4 287-4 288-4 289-4 290-4 291-2 292-4 293-4 294-4 295-4 296-4 297-4 298-4 299-4 300-4 301-4 302-4 303-4 304-13 305-4 306-4 307-4 308-2 309-4 310-4 311-4 312-4 313-4 314-4 315-6 316-9 317-4 318-1 319-4 320-4 321-2 322-4 323-2 324-4 325-1 326-4 327-4 328-4 329-1 330-4 331-2 332-4 333-4 334-4 335-2 336-4 337-4 338-4 339-4 340-4 341-4 342-4 343-4 344-4 345-1 346-4 347-4 348-6 349-4 350-4 351-4 352-4 353-4 354-4 355-4 356-4 357-4 358-4 359-4 360-4 361-4 362-4 363-4 364-3 365-4 366-4 367-4 368-4 369-4 370-4 371-4 372-4 373-4 374-4 375-4 376-4 377-4 378-4 379-6 380-4 381-4 382-4 383-4 384-10 385-4 386-4 387-4 388-4 389-4 390-4 391-5 392-7 393-2 394-4 395-4 396-4 397-4 398-4 399-4 400-4 401-4 402-4 403-4 404-4 405-4 406-4 407-4 408-4 409-4 410-4 411-4 412-14 413-9 414-4 415-3 416-4 417-4 418-4 419-4 420-6 421-54 422-2 423-4 424-4 425-4 426-2 427-4 428-4 429-2 430-4 431-4 432-4 433-23 434-4 435-4 436-2 437-4 438-1 439-4 440-4 441-1 442-4 443-4 444-3 445-4 446-4 447-4 448-2 449-4 450-4 451-4 452-2 453-4 454-4 455-6 456-4 457-4 458-2 459-4 460-4 461-2 462-4 463-4 464-4 465-4 466-13 467-5 468-4 469-4 470-4 471-4 472-2 473-4 474-4 475-4 476-4 477-1 478-4 479-1 480-4 481-6 482-4 483-4 484-4 485-4 486-4 487-4 488-2 489-4 490-2 491-4 492-4 493-5 494-4 495-2 496-4 497-4 498-4 499-4 500-4 501-4 502-4 503-4 504-6 505-4 506-4 507-4 508-4 509-6 510-16 511-6 512-5 513-7 514-4 515-4 516-4 517-4 518-3 519-4 520-4 521-4 522-4 523-3 524-4 525-4 526-4 527-4 528-4 529-2 530-4 531-4 532-25 533-7 534-14</measure>
+        <measure type="syllables">28138</measure>
+        <measure type="tokens">18392</measure>
+        <measure type="characters">110590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1759</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Weit schon über den Wolken erhub sich der Gottversöhner</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weit schon über den Wolken erhub sich der Gottversöhner</l>
+            <l>Mit den Schaaren um ihn, auf dem lichten Pfade zum Throne.</l>
+            <l>Gabriel strahlte schwebend voran; die fliegenden Locken</l>
+            <l>Säuselten ihm, und er sang in die Lispel der goldenen Harfe:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»fanget bebend an, athmet kaum</l>
+            <l>Leisen Laut; denn es ist Christus' Lob,</l>
+            <l>Was zu singen Ihr wagt! die Ewigkeit</l>
+            <l>Durchströmt's, tönt von Aeon fort zu Aeon!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drauf erhub ein Chor Erstandner der zitternden Wonne</l>
+            <l>Stimme. Die Harfen rauschten mit sanftem Getön, und wie fernher</l>
+            <l>Rufte der Donnerhall der Posaune. So rauscht am Gebirge</l>
+            <l>Weit herunter von Lüften der Hain und von Silberbächen,</l>
+            <l>Wenn im Geklüft einher der wasserärmere Waldstrom</l>
+            <l>Langsam kommt. Das Chor der Erstandnen schaute zum Mittler</l>
+            <l>Weinend hinauf. So sang es dem Ueberwinder des Todes:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ewig her, vom Beginn an, als die Welt</l>
+            <l>Nicht war, Sohn, eh Tag, Nacht und Gestirn ward,</l>
+            <l>Eh herstrahlten in Sternglanz Cherubim,</l>
+            <l>Gott Mittler, Sohn Gottes, wardst Du erwürgt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dulder, Sohn, des Altares Golgatha</l>
+            <l>Geopfert, erwürgt Lamm, der Gefallnen</l>
+            <l>Versöhnung, o Erbarmer, wardst Du da!</l>
+            <l>Heißblutend, todt sahst Du, Heiliger, Dich</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ewig her, vom Beginn an, als noch Strom</l>
+            <l>Und Meer nicht, nicht Thal war und Gebirge,</l>
+            <l>Noch Staub nicht zu des Lichtreichs Herrlichkeit</l>
+            <l>Gott schuf, der Erdkreis kein Grab noch nicht war!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einer der Engel des Weltgerichts ließ jetzt die Posaune</l>
+            <l>Hin mit der Rechte sinken, da säumend ein anderes Chor sang:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»blutend lag's! das Gebein brach Der ihm nicht,</l>
+            <l>Vor den hin das Lamm sank an dem Passa.</l>
+            <l>Mit Ysop, so vom Blut träuft, zeichnet schnell</l>
+            <l>Juda den Eingang der Hütten umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weh Euch, weh! die des Lamms Blut dann nicht schützt,</l>
+            <l>Wenn Nacht nun den Erdkreis in ihr Graun hüllt!</l>
+            <l>Die Nacht kam. Der Verderber schwebt' herab,</l>
+            <l>Stillschweigend, ernst schwebt' er nieder zum Strom.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dumpfer Laut der Gesunknen klagt' umher</l>
+            <l>Und Ausruf der Wehmuth in Aegyptus;</l>
+            <l>Denn todt lag bei dem Thron die Erstgeburt,</l>
+            <l>Todt sah sie, todt sah sie Mutter und Mann</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bis hinab ins Gefängniß; selbst dem Thier</l>
+            <l>Entstürzt schnell der Säugling. Nur in Ramses</l>
+            <l>Erschallt Preis und des Weinens sanfter Dank!</l>
+            <l>Ihr hattet, blutvolle Hütten, geschützt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tönender schon, mit hellerer Saite, lauterem Donner</l>
+            <l>Ihrer Posaunen, strömt' ein Chor in diesen Gesang aus;</l>
+            <l>Cherubim waren's, die flammten und froh ihr Antlitz verklärten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»der Entwurf des ewigen Reichs der Schöpfung</l>
+            <l>Ward, zu Gestalt Urstoff. Heer' ohne Zahl,</l>
+            <l>Bewohner und Welten entflohn</l>
+            <l>Vor Erstaunen, daß sie waren,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Erschaffungsrufe des Sohns. Lautdonnernd</l>
+            <l>Scholl er, gebot Kreislauf. Langsam und schnell</l>
+            <l>Umschwebte den Strahl sein Gefährt',</l>
+            <l>Mit Entzückung, der Bewohner.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Erlösers ewiges Reich war. Tiefsinn,</l>
+            <l>Herrlichkeit strahlt' aus der Schöpfung Entwurf,</l>
+            <l>Glückseligkeit Aller. Es führt</l>
+            <l>Da hinauf auch von dem Elend</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein bethränter Pfad. O, besingt, Graberben,</l>
+            <l>Erben des Lichts, Brüder Dessen, der starb,</l>
+            <l>Den Pfad von den Leiden herauf</l>
+            <l>Zum Gerichtstuhl! Denn Ihr richtet!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Labyrinth war, Erben, der Weg an dunkeln</l>
+            <l>Felsen empor. Grabnacht hüllt' ihn Euch ein.</l>
+            <l>Das Blut der Entsündigung rann;</l>
+            <l>Und Gericht hält, wer erlöst ward!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jeddo's Sprößling vordem, da er war von Sterblichen sterblich,</l>
+            <l>Aber jetzo ein Sohn der Auferstehung, entschwebte</l>
+            <l>Seinem Chor und nahte mit innigfreudiger Demuth</l>
+            <l>Sich dem Verkündeten, hieß die Harf' ihm tönen und feirte</l>
+            <l>Jenen festlichen Tag, da er Zema erblickt' in der Ferne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»trat nicht hinein Josua dort, wo der Vorhang</l>
+            <l>Niedergesenkt das Geheimniß uns verhüllte?</l>
+            <l>Dennoch war er nicht rein, und Satan</l>
+            <l>Rief vor dem Engel es aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Reines Gewand gab ihm der Herr und entlud ihn,</l>
+            <l>Sünde, von Dir! Denn es sollt' einst sein Erkorner</l>
+            <l>Kommen. Zema! so tönt's, es hörten</l>
+            <l>Zema! die Engel umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, Du kamst, Mittler, Du kamst; und der Vorhang</l>
+            <l>Senkt sich nicht mehr, und enthüllt ist das Geheimniß;</l>
+            <l>Denn ins Heilige ging er einmal,</l>
+            <l>Rein durch sich selber, der Sohn,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ladet Euch ein, seliges Volk, in der Rebe</l>
+            <l>Schatten, Euch ein, o Versöhnte, zu dem kühlen</l>
+            <l>Feigenbaume! Des Opferbundes</l>
+            <l>Psalter beseele das Fest!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zema, Du kamst! töne das Lied zu dem Psalter,</l>
+            <l>Zema, Du kamst! so ergieße durch des Festes</l>
+            <l>Lauben sich der Gesang des Bundes;</l>
+            <l>Zema, Du starbst und erstandst!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, wie rauschten die Harfen, wie wehten die Palmen, wie strahlte</l>
+            <l>Jener Seraphim Antlitz, die jetzo den Herrlichen priesen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»da Vollendung Jesus rief, weinten wir laut,</l>
+            <l>Die des Heils Strom tranken, da nahm Gott den Staub</l>
+            <l>Zu dem Licht auch und zum Heil auf. Jesus rief</l>
+            <l>Ihm vom Kreuz himmlisches Heil, ewiges herab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da der Gottmensch: Werde, Welt! rufte, da ward,</l>
+            <l>Wie der Thau träuft, zahllos ihr Heer, welch' er schuf,</l>
+            <l>Daß ihr Heil stets sich erhübe. Allen rief</l>
+            <l>Er vom Kreuz höheres Heil, ewiges herab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Du Heerschaar, weit erscholl, segnend das Wort</l>
+            <l>Der Vollendung! Harfengesang tönt' es nach</l>
+            <l>Mit dem Ausruf der Entzückung! Zahllos wart</l>
+            <l>Ihr, die ihm beugten ihr Knie, seliger durch </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Also hatten sie kaum den Psalm der Wonne vollendet,</l>
+            <l>Als ein schimmerndes Chor Erstandner, von sanfter Begeistrung</l>
+            <l>Ueberströmt, des Triumphes Palmen schwang und mit Wehmuth,</l>
+            <l>Jener himmlischen, welche beseligt, dem Sohne des Herrn sang:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»gott sei und dem Lamm sei, das erwürgt ward, Anbetung!</l>
+            <l>Hoch hinauf zu dem Sion eilt's, zu des Himmels Glanz!</l>
+            <l>O, wie troff Golgatha's Altar von dem Blut!</l>
+            <l>Preis sei des Herrn Sohn, der erwürgt ward!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Preis sei dem Erretter der gefallnen Toderben!</l>
+            <l>Dank und Preis dem erhabnen Sohn! Du entriefst der Nacht</l>
+            <l>Der Gestirn' Heer; ihr entfloß Licht wie ein Strom,</l>
+            <l>Und schnell gewandt trat's in den Kreislauf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott sei und dem Lamm sei, das erwürgt ward, Anbetung!</l>
+            <l>Jubelpreis dem erhabnen Sohn! Du entriefst der Nacht</l>
+            <l>Der Verwerfung, die der Tod traf; o, sie sind</l>
+            <l>Entflohn dem Abgrund des Verderbens!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber ein anderes Chor Erstandener sah mit des Mitleids</l>
+            <l>Frommen, innigem Blick zu der liegenden Erd' herunter.</l>
+            <l>Ach, dort waren in Hütten auch sie und in Gräbern gewesen,</l>
+            <l>Dort erstanden! Sie sangen dem Retter der sterblichen Menschen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»gott sei und dem Sohn sei, der zu Gott geht, Anbetung!</l>
+            <l>Werft die Krone, werft, Engel, auch Ihr</l>
+            <l>In Triumphgange, die Palme,</l>
+            <l>Daß der Herr sie Euch gab, nieder am Thron!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Pilgrim, die erniedert in das Elend herwallen,</l>
+            <l>Großer Trübsal voll, weinet Ihr noch?</l>
+            <l>Und Ihr werft doch, wie die Engel,</l>
+            <l>Euch am Throne dereinst hin in Triumph!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Also und mit dem Dank und mit dem Preis lohnt Jesus'</l>
+            <l>Führung, Dulder, Euch! Diesen Triumph</l>
+            <l>Triumphiret, der das Elend,</l>
+            <l>Bis ans Ende getreu, folgsamer trug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schweig denn, Du o Thräne, die in Wehmuth Trost weinet,</l>
+            <l>Mach ihr Herz nicht weich, tröste nicht mehr!</l>
+            <l>Ist am Ziel denn nicht Vollendung?</l>
+            <l>Nicht im Thale des Tods Wonnegesang?«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als sie es sangen, erblickten sie fern bei der glänzenden Aehre</l>
+            <l>Seelen und Cherubim, welche die Seelen herauf zum Versöhner</l>
+            <l>Führten. Die Cherubim flogen den Flug der Wonne; die Seelen</l>
+            <l>Schwebten mit zitternder Freude daher. Es ist vollendet!</l>
+            <l>Hatte gerufen am Kreuz ihr Versöhner. Frömmere Todte,</l>
+            <l>Die in Gräbern und Flammen vor Kurzem die Sterblichkeit ließen,</l>
+            <l>Seelen aus allen Völkern, aus allen Winden der Erde</l>
+            <l>Waren's. Sie wurden seit der Vollendung, also gebot er,</l>
+            <l>Bis zu der Zeit des Triumphs in den Hainen der Aehre versammelt.</l>
+            <l>Und die bebende Schaar schwebt' immer höher. Sie riefen,</l>
+            <l>Weineten, riefen den Ruf der Erstaunung über die Gottheit,</l>
+            <l>Ach, den ersten! Ein Chor Erstandner empfing mit Jubel</l>
+            <l>Ihre begnadigten Brüder. So sang es ihnen entgegen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, sie kommen herauf! Mühsam wandelten sie</l>
+            <l>In des Tods bangem Nachtpfad. Glückliche, befreit,</l>
+            <l>Entflohn sind sie weit weg vom Elend, und Entzückung</l>
+            <l>Ist ihr Weinen da herauf, Wehmuth himmlischer Ruh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, das Wonnegefühl, Erbe Deß, so Gefährt'</l>
+            <l>In des Tods bangem Pfad war, Dessen, so Gefährt'</l>
+            <l>Auch hier ist, wo Gott lohnt, am Ziel lohnt mit Vollendung!</l>
+            <l>Du, o seliges Gefühl, wer spricht völlig Dich aus?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo ertönte so sanft, ach, wo lispelte sie,</l>
+            <l>Die es je ganz aussprach, die Harfe? wo erklang</l>
+            <l>Sie himmlisch? Krystallstrom, wo hörtest Du es herwehn?</l>
+            <l>Und, o Palme bei dem Strom, Sion's Hörerin, wo?«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber die Seelen ergriff des neuen Lebens Entzückung,</l>
+            <l>Und sie strömten ins Heer des Siegers herein und begannen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ach, zu dem Triumph schweben wir empor,</l>
+            <l>Engel und Ihr, Erben des Lichts, kommen zu des Sohns</l>
+            <l>Himmelsgang! Du, o Tod, Du Flug zu dem Genuß,</l>
+            <l>Gräber und ihr Graun, Wonne seid Ihr, Himmel und sein Heil!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Göttlicher – o, Dich nennet des Gesangs,</l>
+            <l>Dich des Gefühls Wonne nicht aus – Göttlicher, der Welt</l>
+            <l>König, König der Welt, nur schwach und in der Fern'</l>
+            <l>Rufet der Triumph, hallet Dir nach Jubel sein Getön!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, von der Schaar Derer, die Dein Tod,</l>
+            <l>Mittler, versöhnt, Derer, die Du, Herrlicher, erhöhst,</l>
+            <l>Sind auch wir und gesät ins wartende Gefild,</l>
+            <l>Wo in dem Gericht, Herrlicher Du, erntest und verklärst.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Himmlische Jünglinge, Seraphim, die an dem Fuße der Cedern,</l>
+            <l>Gabriel's und Eloa's, wie Blumen blühten, vermochten</l>
+            <l>Ihrer Freude Gefühl bei diesem festlichen Anblick</l>
+            <l>Nun nicht mehr zu halten. Mit Eile rauschten die Saiten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie die Freude, wie die Wonne, wie des Triumphs</l>
+            <l>Inniges, jauchzendes, heiliges Lied</l>
+            <l>Nachhallen? wie den Preis</l>
+            <l>Der Vollendeten am Thron?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn Ihr Alle nun, Ihr Schaaren, zu dem Genuß,</l>
+            <l>Alle zur Herrlichkeit Euch von des Grabs</l>
+            <l>Nachtpfade zu dem Schaun</l>
+            <l>Des Allseligen erhebt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht der Psalter allein und nicht allein die Posaune</l>
+            <l>Töneten in den Chören der Feirenden; Saiten, die leise</l>
+            <l>Quellen waren, erschollen auch und waren gehaltne,</l>
+            <l>Säuselnde Luft und sanfter Laut der Liebenden waren;</l>
+            <l>Hauche halleten auch, die Sturm oft wurden und wurden</l>
+            <l>Donnernder Widerhall und Einklang wandelnder Welten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jesus Christus beherrschte sein Volk von Abraham's Ruf an</l>
+            <l>Bis zu dem Tage, da er in der Hütte Bethlehm's weinte.</l>
+            <l>Und die Wunder des Göttlichen unter dem Volke der Gnade</l>
+            <l>Und des Gerichts besangen die Chöre des frohen Triumphheers.</l>
+            <l>Feuriger schwung sich ihr Psalm. Mit der schnellen Wahl der Entzückung</l>
+            <l>Eilten von Wunder zu Wunder sie fort. Wie ein schimmerndes Chor flog</l>
+            <l>Unter dem Silbergetön der Saiten, so sang's zu dem andern</l>
+            <l>Hellen Chore, das kaum der Begeisterung Jubel zurückhielt.</l>
+            <l>Todesengel erhuben die ernste Stimme, sie sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»meer, Du standst, Gott gebot's! Tagwolke,</l>
+            <l>Nachtwolke schwebt' hinten nach dem Heer</l>
+            <l>Des Gesetzvolks. Gott erschreckt' und traf</l>
+            <l>Pharaon's Roß und Mann von der Wolke!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwiegen, allein noch erscholl die Posaune. Mirjam vernahm sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»vor dem Reihntanz trat ich einher Amrama's</l>
+            <l>Tochter, und pries: Meer ward, Wüther, Euch Grab!</l>
+            <l>In mächtiger Woge versank,</l>
+            <l>In dem Schilfmeer, wie das Blei sinkt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der geharn'schte Reiter, das Roß, Kriegswagen,</l>
+            <l>Pharao selbst! Gott sah zürnend herab</l>
+            <l>Aus Wolken in Flammen, da flohn</l>
+            <l>In des Meers Strom die Geschreckten!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Engel eilten mit weggewendeten Blicken Abiram's,</l>
+            <l>Eilten Kora's Verwerfung vorbei und Dathan's; sie sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o der Angst Stimme, die herrufend vom Abgrunde</l>
+            <l>Dumpf tönte, aus Staubwolken zum Licht auf umsonst klagte</l>
+            <l>Und nunmehr sterbend noch graunvoller schwieg, furchtbarer,</l>
+            <l>Verstummt, schreckte, als hinsinkend die Wehklag' ausrief!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einen Blick nur senkten die Preisenden auf die Trümmern</l>
+            <l>Jericho, einmal rauscht' es nur herab von den Harfen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»posaunrufen der Heerlager, die ernstanbetend</l>
+            <l>Fortzogen, umscholl wehdrohend der Palmstadt Thürme.</l>
+            <l>Der Todstag kam dunkel, und des Herrn Heer zog;</l>
+            <l>Und es sank fürchterlich aufdonnernd Jericho!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Harfen erklangen jetzt, zu den Harfen Stimmen der Engel:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, wie fiel Dir, Juda, Dein Loos! Bethlehmen's</l>
+            <l>Bräunlicher Sohn spielt' hin, leicht wie ein Reh.</l>
+            <l>Da sank ihm der Stab, und er traf</l>
+            <l>Den Gathäer, der ihm Hohn sprach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So erhöht', o Juda, Dein Gott den Jüngling,</l>
+            <l>Gab ihm ums Haupt Gold und goldnen Gesang,</l>
+            <l>Verwerfer des Benjaminit,</l>
+            <l>Daß sein Blut troff am Gilboa.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und es sahe David den Sohn, den Mittler,</l>
+            <l>Ferne; da flog Psalmflug! Jubel erscholl</l>
+            <l>Im höheren Chore, das Lob</l>
+            <l>Des Erschaffers und Erbarmers!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Andere Psalter erklangen und andere Stimmen der Engel:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»er betet, da stürzt hoch herab,</l>
+            <l>Ein Gebot vom Thron her Flammen herab.</l>
+            <l>Das Opfer versank schnell in der Gluth,</l>
+            <l>Und die Wasser am Altar brannten in die Höh'.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieben Cherubim schwebten aus ihrem Chor zu dem Seher,</l>
+            <l>Dem Erhabenheit, dem viel fernes Künftiges Gott gab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»und Du schweigst? der Cherubim sah vor Gott stehn</l>
+            <l>Ernst, unenthüllt, Flügel hüllten uns ein,</l>
+            <l>Der Tempel erbebte vom Psalm</l>
+            <l>Der Erhobnen zu des Herrn Thron.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ich verstummte, da ich Euch sah vor Gott stehn</l>
+            <l>Ernst, unenthüllt, Flügel hüllten Euch ein,</l>
+            <l>Der Tempel erbebte vom Psalm</l>
+            <l>Der Erhobnen zu des Herrn Thron.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Ihr riefet. Heilig ist </l>
+            <l>Heilig ist </l>
+            <l>Anbeten. Es schallet sein Ruhm</l>
+            <l>An des Throns Höh' und im Staube.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzo schweigt er, vertieft in Gedanken vom Weltbeherrscher.</l>
+            <l>Aber nicht lang', und er winkt, daß sie tönen zum Liede, Posaunen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»die hohe Jungfrau Sion verachtet Dich</l>
+            <l>Und spottet Dein, die Tochter Jerusalem</l>
+            <l>Schüttelt ihr Haupt Dir nach!</l>
+            <l>Wen, wen höhntest und lästertest Du?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, wider wen kam, Stolzer, Dein Laut empor?</l>
+            <l>Dein Aug' erhobst Du wider den Heiligen</l>
+            <l>Israel's. Hast Du nicht</l>
+            <l>Gott Jehovah gehöhnt und gesagt:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin gestiegen über die Berg' herauf</l>
+            <l>Mit meiner Wagen Menge, des Libanon</l>
+            <l>Seiten. Des Libanon</l>
+            <l>Cedern haut' ich und Tannen herab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gekommen bin ich bis zu der äußersten</l>
+            <l>Herberge Karmel's, bis in den hohen Wald.</l>
+            <l>Grub ich, und trank ich nicht</l>
+            <l>Eure Wasser? und trocknet' ich nicht</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit meinem Fußtritt Israel's Seen aus?</l>
+            <l>Vernahmst Du niemals, daß ich, was jetzt geschieht,</l>
+            <l>Oftmals vordem auch that?</l>
+            <l>Weit von ferne bereit' ich es zu,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann heiß' ich's kommen! Städte, von Mauren hoch</l>
+            <l>Und Hügeln, fallen öde zur Trümmer hin.</l>
+            <l>Scham und des Todes Graun</l>
+            <l>Senkt zur Erde der Streitenden Arm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Gras des Feldes werden sie, dorren hin</l>
+            <l>Wie Kraut auf Dächern, Heu vor der Reif', und welk.</l>
+            <l>Weiß ich es, Stolzer, nicht,</l>
+            <l>Wo Du ziehest und ziehest und wohnst?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und kenn' ich wider mich dies Dein Toben nicht?</l>
+            <l>Weil wider mich Du also denn tobst, Dein Stolz,</l>
+            <l>Weil er zu mir herauf</l>
+            <l>Stieg, und ich es im Himmel vernahm,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So leg' ich einen Ring an die Nase Dir,</l>
+            <l>Leg' ich Gebisse, Tobender, Dir ins Maul,</l>
+            <l>Daß Du denselben Weg</l>
+            <l>Wiederkehrest, auf welchem Du kamst!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Feurig sang er's. Von Neuem begannen die sieben Begleiter:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, entfleuch denn, Sanherib, eil' zu Nisroch's</l>
+            <l>Opfer! Noch scholl Sion's Hügel herab</l>
+            <l>Das Drohn des Prophetengesangs,</l>
+            <l>Da erhub schon die Vollendung</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum Gericht den donnernden Fuß. Der Tag stieg</l>
+            <l>Röthlich herauf, stumm lag, leichnamevoll</l>
+            <l>Das Feld der Assyrer. Entflohn</l>
+            <l>War ihr König mit Entsetzen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber der Seher der Herrlichkeit Gottes am Chebar entschwung sich</l>
+            <l>Nebst zwölf Jünglingen, Engeln und Menschen, des feirenden Heerzugs</l>
+            <l>Lichten Chören. Ihr Flug schon erklang, da die Saiten noch schwiegen.</l>
+            <l>Und sie schwebten den göttlichen Sohn anbetend vorüber.</l>
+            <l>Furchtbar schön war ihr strahlender Schwung und der Himmlischen Anschaun</l>
+            <l>Und die Flamm' in dem Blick. Sie begannen dem Herrscher in Juda:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»rächer, wie oft hast Du gerächt Dein erkornes</l>
+            <l>Leidendes Volk! wie zerschmettert die Zerstörer!</l>
+            <l>Hast sie bluten gemacht! Die Blutgier</l>
+            <l>Lechzten, entrannen Dir nie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glich nicht des Nil's schreckendes Thier dem Assyrer?</l>
+            <l>Libanon's Pracht, wie sie aufsteigt zu beschatten,</l>
+            <l>Hatte dieser. Er stand von Laube</l>
+            <l>Dick, und sein Wipfel empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wasser um ihn machten ihn groß, und an Strudeln</l>
+            <l>Hub er den Wuchs. Um den Stamm her des Erhobnen</l>
+            <l>Rauschten Ströme, den andern Bäumen</l>
+            <l>Sendet' er Bäch' ins Gefild.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darum erhub höher er sich wie die andern</l>
+            <l>Bäum' im Gefild, und es ward ihm zu der Aeste</l>
+            <l>Vollem Sproß und der Zweige Wassers,</l>
+            <l>Sie zu verbreiten, genug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nisteten nicht Vögel auf ihm, und das Staubthier,</l>
+            <l>Lag's nicht um ihn wie unzählbar? In des hohen</l>
+            <l>Quellentrunkenen Baums Beschattung</l>
+            <l>Wohneten Völker umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ceder des Herrn, warst Du wie er? und, o Tanne,</l>
+            <l>Du wie sein Ast? und Du, Ahorn, wie sein langer</l>
+            <l>Schöner Zweig? Vor der Schaar der Bäume</l>
+            <l>Prangt' er im Haine des Herrn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hatt' ihn nicht Gott also geschmückt und mit dichten</l>
+            <l>Aesten erhöht, daß die Bäum' ihn in dem Garten</l>
+            <l>Gottes neideten? Weil sein Wipfel</l>
+            <l>Also gen Himmel erwuchs,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hub sich sein Herz schwellend empor, daß so hoch er</l>
+            <l>Stünde. Du gabst ihn dem stärksten der Tyrannen,</l>
+            <l>Rächer nun, in die Hand, daß er's ihm,</l>
+            <l>Wie er verdiente, vergalt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fremder Gewalt rottet' ihn aus und zerstreut' ihn.</l>
+            <l>Auf dem Gebirg, in den Thalen, an den Bächen</l>
+            <l>Lagen niedergestürzt, zerschmettert</l>
+            <l>Aest' ihm und Zweig' ihm umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schatten war er Völkern nicht mehr, und zu Schaaren</l>
+            <l>Zogen sie fort. Auf dem Stamme des Gesunknen</l>
+            <l>Wohnten jetzo der Luft, auf seinen</l>
+            <l>Aesten die Heere der Flur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Niedergeschreckt, hebet kein Baum an den Wassern</l>
+            <l>So sich mit Stolz, und es ragt so bei den Strömen</l>
+            <l>Keines Wipfel nicht mehr aus dichten</l>
+            <l>Zweigen der Kühlung empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn in das Grab müssen auch sie, zu der Todten</l>
+            <l>Grüften, vor die sich der Erdkreis in den Staub wirft.</l>
+            <l>Als der Assur die Tief' hinabkam,</l>
+            <l>Klagte sie weit um ihn her,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hüllte sich ein Strudel und Strom, und die Wasser</l>
+            <l>Flossen nicht fort, und verdunkelt, wie in Trauer,</l>
+            <l>Stand ihr Libanon, auch des Thales</l>
+            <l>Bäume verdorrten um ihn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als mit Getös nieder er stürzt', in die Hölle</l>
+            <l>Nieder mit Sturm, da entsetzen sich die Völker.</l>
+            <l>Du, edenischer Hain im Abgrund,</l>
+            <l>Du, o sein Libanonwald</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort in der Nacht, tröstetet ihn! Ja, die Herrscher</l>
+            <l>Alle, sein Arm, die mit Schatten er bedeckte,</l>
+            <l>Waren nieder mit ihm gesunken</l>
+            <l>Zu der Getödteten Scharr!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sie schwiegen. So säumt mit kurzem Weilen der Erde</l>
+            <l>Furchtbares Beben, nun bald gen Himmel wieder zu senden</l>
+            <l>Staub aus Trümmern und Sterbender Jammergeschrei. Sie begannen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie den Assur, stürzetest Du Aegyptus'</l>
+            <l>König, o Sohn! Meerdrach, sprang er im Strom;</l>
+            <l>Es trübte die Wasser sein Fuß,</l>
+            <l>Und der Schlamm wölkt' in der Fluth sich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da er ausrief: Mein ist der Strom, ich habe</l>
+            <l>Mir ihn gemacht! warf Gott über ihn aus</l>
+            <l>Sein Netz, und es jagte sein Heer</l>
+            <l>In sein Garn auf den Empörer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie die Fisch' ihm schwer und in Drang die Schuppen</l>
+            <l>Hingen herab, zog ihn Gott aus dem Strom</l>
+            <l>Und warf ins Gefild ihn und rief</l>
+            <l>Zu dem Aase, was in Höhn fleugt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was im Staube kriechet und raubt. Das Aas lag</l>
+            <l>An dem Gebirg weit hinunter ins Thal</l>
+            <l>Und füllte das Thal; und es stieg</l>
+            <l>Zum Gestad' auf, wo er sonst schwamm,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Verworfnen Blut; ja, hinan die Berge</l>
+            <l>Drang's, und des Stroms Bäche wurden umher</l>
+            <l>Von Blute getrübt: denn hinab</l>
+            <l>In die Gruft ward er gestoßen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Tief' empfingen ihn Die, so einst auch,</l>
+            <l>Helden wie er, würgten. Alle sie sind</l>
+            <l>Hinuntergestürzt vor dem Schwert,</l>
+            <l>Und sie ruhn jetzt bei Erschlagnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo sie ruhn, liegt Assur, umher begraben</l>
+            <l>Alle sein Volk. Schwert, Du warfst sie hinab!</l>
+            <l>Tief ist in den Klüften ihr Grab,</l>
+            <l>Die den Erdkreis einst erschreckten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo sie ruhn, liegt Elam, bei ihm begraben</l>
+            <l>Alle sein Heer. Schwert, Du warfst sie hinab,</l>
+            <l>Hinab in die Gräber voll Schmach,</l>
+            <l>Die den Erdkreis einst erschreckten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Gefild liegt Mesech. Es liegt dort Thubal,</l>
+            <l>Er und sein Heer, schmachvoll, waffenberaubt,</l>
+            <l>Nicht unter dem Haupte das Schwert.</l>
+            <l>Das Gefild ist vom Gebein weiß</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Verworfnen, welche die Erd' einst schreckten.</l>
+            <l>Pharo, auf Dir stand des Siegenden Fuß!</l>
+            <l>Nun schlummerst Du mitten im Heer</l>
+            <l>Der Erschlagnen, die das Schwert traf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Beherrscher Edom's, der Krieger Führer,</l>
+            <l>Liegen umher tief in Nächten der Gruft.</l>
+            <l>Sie taumelten hin vor dem Schwert</l>
+            <l>Zu der Heerschaar der Erschlagnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit hinunter sanken die Völker Sidon's.</l>
+            <l>Röthere Scham deckt der Fürsten Gesicht,</l>
+            <l>Daß kühn die ereilende Schlacht</l>
+            <l>Sie hinabwarf in die Tiefe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Erschlagnen all' um sich her versammelt</l>
+            <l>Sah in des Abgrunds Nacht Pharao; ihn</l>
+            <l>Erblickte sein Volk, und es war</l>
+            <l>Ihm Erquickung dies Entsetzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn hinab hast Pharao Du zur Hölle,</l>
+            <l>Ihn und sein Heer, Gott Verderber, gestürzt!</l>
+            <l>Geschrecket, geschrecket auch Du,</l>
+            <l>O der Welt Richter, den Erdkreis!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sichtbar nur der Unsterblichen Aug', in des Himmels Abgrund,</l>
+            <l>Lag auf der wandelnden Erde Jerusalem. Todesengel</l>
+            <l>Schauten hinunter und wandten von ihr zu dem Thale Gehenna</l>
+            <l>Ihre Blicke. So sangen mit ernstem Trauren des Todes</l>
+            <l>Engel, indem, wie aus Fernen der Donner, ihrer Posaunen</l>
+            <l>Ausruf scholl, dumpf scholl wie das Meer an Felsengestade.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»geh unter, geh unter, Stadt Gottes!</l>
+            <l>In Kriegsschrein, in Rauchdampf und Gluthstrom</l>
+            <l>Versink, ach, die des Herrn Arm von sich wegstieß!</l>
+            <l>Sei Trümmer, Stadt Gottes!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Todsworte sprach Jesus; Rom thut sie.</l>
+            <l>Zum Aas eilt mit Gierblick der Adler;</l>
+            <l>Den Feldherrn, die ihr Gott ruft, zu verderben,</l>
+            <l>Flammt's ernst vom Rachauge.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Pflugtreiber streun schreckend Salzsaaten.</l>
+            <l>Dir zog Gott die Meßschnur, o Schauthal!</l>
+            <l>Er, er bot zum Triumph auf. Die Drommet' hallt</l>
+            <l>Siegswuth, wo Gott ausmaß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blutfordernd riefst, Juda, den Fluch Du</l>
+            <l>Vom Thron her; Dein Mund schrie: Des Sohns Blut!</l>
+            <l>Die That schrie's noch mit mehr Grimm. Dich erhört Rom's</l>
+            <l>Heerführer. Geh unter!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie der freudige Fromme, der jetzt die Gräber nicht denket</l>
+            <l>Oder, denket er sie, mit dem Troste der Auferstehung</l>
+            <l>Ihre Nächte durchstrahlt, wie der, wenn der Morgen im Frühling</l>
+            <l>Ihm erwacht, mit Wonn' in dem Aug' in die schönen Gefilde</l>
+            <l>Weit umherblickt, laut sein Gebet dem Schöpfer des Frühlings</l>
+            <l>Hinströmt: also schauten umher und ertönten vom Jubel</l>
+            <l>Chöre Seraphim, da in der Straße des Lichts des Triumphes</l>
+            <l>Heerschaar schwebt', und mit strahlenden Meeren der hellere Himmel</l>
+            <l>Sie umgab, und die Stern' in Gedräng zu Tausenden wallten.</l>
+            <l>Dieser Jubel der Seraphim scholl umher in den Sternen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ertönet sein Lob, Erden, tönt's, Sonnen! Gestirn',</l>
+            <l>Ihr Gestirn' hier in der Straße des Lichts, hallt's feirend,</l>
+            <l>Des Erlösenden Lob, siehe, des Herrlichen,</l>
+            <l>Unerreichten von dem Danklied der Natur!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lobsing, o Natur, dennoch Dem, welcher Dich schuf!</l>
+            <l>Dein Gesang ström' in den Himmeln einher! Hochpreisend,</l>
+            <l>Von erbebender Höh', rufe des Strahls Gefährt'</l>
+            <l>In Kidrona und dem Palmthal ihn herab!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Wasser der Mond', Erdemeer, rauschet darein!</l>
+            <l>Wie das sanftlispelnde Harfengetön zum Chorpsalm</l>
+            <l>Der Posaunen empor Lüfte der Palme wehn,</l>
+            <l>So erhebt Euch zu der Sternheere Gesang!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie wandelt Ihr her, welche Gott zahllos erschuf!</l>
+            <l>O Du Heerzug der Gestirne, wie strahlt, wie laut ruft</l>
+            <l>Des Erlösenden Preis Ihr zu der Höh' hinauf,</l>
+            <l>Zu der Glanzschaar um den Thron Gottes empor!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist es, o Sohn, dem der Welt Jubel ertönt,</l>
+            <l>Du ein Quell aller Beseligung, Herr, Heilgeber,</l>
+            <l>Unerschöpflicher Quell dessen, was glücklich macht!</l>
+            <l>Ist ein Weg wo? ist ein Flug auch zu dem Licht,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum Heile, den er uns nicht führt? Alle nicht führt?</l>
+            <l>Labyrinth alle des großen, des unnennbaren,</l>
+            <l>Des belohnenden Heils! Selige führt durch Dich,</l>
+            <l>Von Aeon er zu Aeon fort, Labyrinth!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzo schwieg der Gesang; doch tönete fort der gehauchte</l>
+            <l>Hall und die Saite. So tönet der Hain, wenn weit in der Ferne</l>
+            <l>Ströme durch Felsen stürzen, und nah von den Bächen es rieselt,</l>
+            <l>Wenn es vom Winde rauscht in den tausendblättrigen Ulmen,</l>
+            <l>Und der tanzbeginnenden Braut der Quell Melodie scheint.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da stets weiter empor in der Straße des Lichts der Triumph stieg,</l>
+            <l>Ward nicht ferne von ihnen ein Stern, der Sonnenbegleiter</l>
+            <l>Einer, verwandelt. Erschütterung ging von Wende zu Wende</l>
+            <l>Durch die Mitte des Sterns. Er zerspaltet' in Lande. Gebirge</l>
+            <l>Krachten, flammten, und brausender dampften Meere gen Himmel.</l>
+            <l>Fürchterlich war's selbst Engeln zu sehn, wie in Irr' Urkräfte</l>
+            <l>Wankten, es bildeten, Saat aufschwoll der neuen Erschaffung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber aus eines Sirius näheren Strahlen erhoben</l>
+            <l>Auferstandne Gerechte der Wonne Stimme zum Mittler:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»liebe des Sohns, himmlisches Heil, dem Verstande</l>
+            <l>Göttliches Licht, vom Altar Gluth dem Gefühle!</l>
+            <l>Tag, der erwacht, in das Meer nicht unterzugehn,</l>
+            <l>Der Erlösten ewiger Tag, Liebe des Sohns!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flügel hinauf, Flügel zum Thron, o Triumph, nahmst</l>
+            <l>Du, und auch uns, den Gewählten des Erhobnen,</l>
+            <l>Wehest Du vor mit der Palme, Christus' Triumph,</l>
+            <l>Zu dem Thron des Vaters empor, Christus' Triumph!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Engel, der dort strahlend einher durch die Himmel</l>
+            <l>Schwebet, wer ist's, dem das Sternheer in der Laufbahn</l>
+            <l>Steht, dem es laut auf den Pfaden Gottes ertönt,</l>
+            <l>Dem die Tiefe sinket, wer ist's, Engel des Throns?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er, der am Kreuz dürstet' und starb, der uns liebte</l>
+            <l>Bis in den Tod, o, der Schmach Tod, des Altares</l>
+            <l>Golgatha Tod, und verlassen rufte von Gott</l>
+            <l>In der Nacht, Der ist es, ja, Der, Engel des Throns!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Strömet sie her, Ströme des Lichts, und, o Lüfte,</l>
+            <l>Säuselt Ihr sanft dem Triumphheer sie herüber,</l>
+            <l>Welche sich dort noch unhörbar tief in der Fern'</l>
+            <l>Uns enthüllen, kommen, des Sohns Antlitz zu sehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Engel, der Tag seines Triumphs, die Erhebung</l>
+            <l>Christus' zum Thron, sie erscholl weit in die Welten</l>
+            <l>Alle. Wer wohnt in des Lebens Hütten, wem Gott</l>
+            <l>Es vergönnt, Der eilet, des Sohns Antlitz zu sehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herrscher ist er, Herrscher der Sohn. Ach, es fleht ihm</l>
+            <l>Aller Gebet. In den Weltkreis, in die Tiefe,</l>
+            <l>Fern in die Höh', bis zur letzten, sendet hinauf</l>
+            <l>Die Erhörung er, der allein Seligkeit hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freuden Euch! Licht strömet' Euch her, und Gelüfte</l>
+            <l>Säuselte sanft dem Triumphheer Euch herüber</l>
+            <l>Weit aus der Fern', Ihr Bewohner jenes Gestirns,</l>
+            <l>Das auf Erden über des Blicks Grenze sich hob.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herrscher ist er, Herrscher der Sohn. Ach, es fleht' ihm</l>
+            <l>Euer Gebet. In die Tiefen, in die Höhen</l>
+            <l>Sendet der Sohn, bis zur letzten sandte der Sohn</l>
+            <l>Die Erhörung, er, der allein Seligkeit hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Entzückungen, ach! Seht, dort strahlet der Sohn</l>
+            <l>In dem Chor hoher Thronen, herrlich in dem Chor</l>
+            <l>Des Grabvolks, die Blut ihm versöhnt hat, die erwachten</l>
+            <l>Vor dem Tage des Gerichts, umgeschaffen durch ihn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Du Erster des Seins, welchen himmlischen Weg</l>
+            <l>Hat geführt Deinen Sohn des Todes Labyrinth!</l>
+            <l>Vom Grabmal beginnt, steigt der Siegsgang; aus der Nacht her,</l>
+            <l>Die den Sterbenden umgab, kommt des Ewigen Sohn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Schöpfungen Meer, wo der Woge Gebirg</l>
+            <l>Zum Gestad' hinwallt, wohnet, Herrlicher, Dein Volk,</l>
+            <l>Dem Heil auch von Dir wird, Messias, ob es Blut gleich,</l>
+            <l>Unentheiligt von der Schuld, nicht zur Söhnung bedarf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber es ist unsere Schuld vor der Zeugen</l>
+            <l>Auge vertilgt, und verstummt ist nun der Sünde</l>
+            <l>Stimm' an dem Thron, in der Engel Hallen, dem Ohr</l>
+            <l>Des Gerichts der Klägerin Ruf ewig verstummt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fürchterlich laut rief sie hinauf, und es war doch</l>
+            <l>Leise das Ohr des Gerichts; aber: Vollendet</l>
+            <l>Ist es! erscholl vom Altare Psalmmelodie,</l>
+            <l>Und die Sünde hörte des Sohns Donner und schwieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An des Ewigen Thron, Christen, preisen auch wir!</l>
+            <l>Wo es Euch, Erben, schattet, schattet es auch uns!</l>
+            <l>Wo Euch quillt des Heils Quell, das Labsal der Gerechten,</l>
+            <l>Da versammeln wir auch uns, quillt uns Leben auch zu!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bebtet Ihr je, Söhne der Fern', der Verwerfung</l>
+            <l>Schrecken? O, troff in der Wehmuth, im Entsetzen</l>
+            <l>Vor dem Gericht, im Entfliehn vom Horeb Euch je</l>
+            <l>Die entflammte Thräne den Blick blutig herab?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An dem schwindelnden Hang, den Verderben umringt,</l>
+            <l>An des Abgrunds Nacht staunten, schauerten wir nicht,</l>
+            <l>Wo Wagschal' ertönt, nicht wo Zornkelch sich ergießet,</l>
+            <l>Und Geretteter Gefühl ward uns, Glückliche, nie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welche Stimmen ergossen sich aus den begeisterten Chören!</l>
+            <l>Waget' ich sie zu vergleichen, so nennt' ich sie Stimmen der Liebe,</l>
+            <l>Nennte sie Sterbender, die nun offen den Himmel schon sehen,</l>
+            <l>Oder Auferstehender, die dem Grab itzt enteilen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Christus' Triumph erreichte den Stern der unschuldigen Menschen</l>
+            <l>Und der unsterblichen. Ueber den hohen Gefilden des Sternes</l>
+            <l>Schwebt' er einher. Die Unsterblichen sahn den strahlenden Heerzug,</l>
+            <l>Sahn den Versöhner und, ach, die Auferstandnen vom Tode.</l>
+            <l>Haufen schauten; allein bald wurden die Haufen zu Schaaren,</l>
+            <l>Bald die Schaaren zu Heeren. Das Haupt gen Himmel erhoben,</l>
+            <l>Standen sie, unter ihnen der Erstgeschaffne. »Vollender!«</l>
+            <l>Rief er und sank auf sein Knie, um ihn die Unsterblichen alle.</l>
+            <l>Haine riefen Hainen, und Bergen Berge: »Vollender!«</l>
+            <l>Unter sie hin war Toa getreten. Der Richtende hatt' ihn</l>
+            <l>Wieder hinauf in das Leben geführt. Der Frohste der Frohen</l>
+            <l>War er, war ganz Dank, war ganz mit Empfindungen seiner</l>
+            <l>Neuen Unsterblichkeit überströmt. In dieser Entzückung</l>
+            <l>Rief er laut mit den Heeren der heiligen Menschen: »Vollender!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt, da in seinem Triumphe der Sohn des Ewigen Psalme</l>
+            <l>Seiner Erhöhung vernahm und mit Wonne der Preisenden Freude</l>
+            <l>Ueberschwänglich belohnt', entstieg der Gräber Gefilden</l>
+            <l>Zweener Sterblichen Lied. Sie hatten Erstandne gesehen,</l>
+            <l>Hatten gelernt. Es wurd' ihr Lied von dem Ausgesöhnten</l>
+            <l>Und dem Versöhner gehört. Indem der Schatten des Baumes,</l>
+            <l>Ihnen Hütte jetzt, und Kühlung sanfterer Lüfte</l>
+            <l>Weht', und der Bach mitscholl, erhob sie die Stimme der Andacht,</l>
+            <l>Sie, die liebte den Herrn und ihres Lebens Gefährten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»schwinge Dich empor, Seele, die der Sohn zu des Lichts</l>
+            <l>Erbe sich erschuf, Selige, die versöhnt Jesus hat!</l>
+            <l>Sing ins Chor der Vollendeten am Thron!</l>
+            <l>Stammelten sie nicht auch Laute, wie Du, bebenden Gesang?«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als der Schatten des Baums und Kühlung sanfterer Lüfte</l>
+            <l>Weht', und der Bach mitscholl, erhob er die Stimme der Andacht,</l>
+            <l>Er, der liebte den Herrn und seines Lebens Gefährtin:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»selbständiger, Hochheiliger, Allseliger, tief wirft, Gott,</l>
+            <l>Von dem Thron fern, wo erhöht Du der Gestirn' Heer schufst,</l>
+            <l>Sich ein Staub dankend hin und erstaunt über sein Heil,</l>
+            <l>Daß ihn Gott hört in des Gebeinthals Nacht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch feirende, lautpreisende Psalmchöre des Sternheers bebt</l>
+            <l>Mein Gebet auf zu dem Thron Deß, der im Lichtreich herrscht,</l>
+            <l>Vom Beginn selig macht, Labyrinthweg' uns empor</l>
+            <l>Zu dem Thron führt, wo unerforscht </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hochheiliger, Allseliger, Unendlicher, Herr, Herr, Gott,</l>
+            <l>O, erhör Du mein entzückt Flehn von dem Grabthal her!</l>
+            <l>Von der Nacht stammelt's auf zu des Chors Halleluja;</l>
+            <l>O, erhör's, Gott, und mein verstummt Flehn auch!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott, mache den Toderbenden glückseliger! Gott, trockn' ihm</l>
+            <l>Die Betrübniß von der Wang' ab! doch ist Elendslast</l>
+            <l>In der Nacht hier sein Theil, so begnad ihn mit Geduld</l>
+            <l>Und, o, leit ihn, daß er am Thron anschau'!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Also sang er und schwieg; bald aber erhub sich von Neuem</l>
+            <l>Seine Seele, brannte von Neuem vor inniger Andacht.</l>
+            <l>Siehe, des künftigen Christen Gesang entschwebte der Erde</l>
+            <l>Kaum, allein ihn vernahm der Hörer der ewigen Chöre.</l>
+            <l>Also rauschet ein Blatt, wenn die Widerhalle der Felskluft</l>
+            <l>Donner rufen, Donner der Waldstrom nieder ins Thal stürzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»erwach, Harfengetön, und erhebe Dich</l>
+            <l>Dem Psalm nach zum Throne!</l>
+            <l>Dein Flug sei des Unendlichen Lob,</l>
+            <l>Des Herrn Preis Dein Festlied!</l>
+            <l>O, ihm, dem mit Entzückung</l>
+            <l>Harmonie des Gestirnheers emporsteigt,</l>
+            <l>Und Erzengel entflammendes Lob</l>
+            <l>In dem Anschaun ertönen,</l>
+            <l>O, lispl' auch, mein Gesang, sein Lob Dem!</l>
+            <l>Von dem Grab auch vernehme</l>
+            <l>Sein Lob Gott! Wie beginn' ich's? wie vollend' ich's?</l>
+            <l>O Vorschmack des Himmels,</l>
+            <l>Des Herrn Preis, wer singt Dich und erliegt nicht?</l>
+            <l>Was ihn sonst hob, versinkt jetzt,</l>
+            <l>Sein beseelteres Bild, wie der Schimmer</l>
+            <l>Von dem Aufgang Gemäld' ihm</l>
+            <l>Voll Goldglanz, wird ihm Dämmrung.</l>
+            <l>Wie ich kann, mit der Nacht Schein im Bilde,</l>
+            <l>Mit Nachhall und Laut nur,</l>
+            <l>Wenn der Chorpsalm zu dem Thron auf sich donnernd</l>
+            <l>Erhebt, sing' ich dem Herrn.</l>
+            <l>Wer gleicht Dir? wer, o Gott, ist, wie Du bist?</l>
+            <l>Des Seins tiefen Entwurf entwarfst Du,</l>
+            <l>Eh Gefühl war, Gedanken</l>
+            <l>Und Zweck war in der Endlichen Heer!</l>
+            <l>O der Aussaat, die, Gott, Du</l>
+            <l>Gesät hast und Aeon auf Aeon,</l>
+            <l>Daß sie reift', aufgehäufet.</l>
+            <l>O Rathschluß: Die Aeonen,</l>
+            <l>Wenn sie all' einst vorbei sind, wird Ernte</l>
+            <l>Ohn' Aufhören am Thron sein!</l>
+            <l>Die Erschaffung zu des Sohns Heil hast dann Du</l>
+            <l>Vollendet! O, dann führt das Glück uns</l>
+            <l>Und das Elend ins Lichtreich!</l>
+            <l>Was einst uns, dem Beglückten und dem Dulder,</l>
+            <l>Labyrinthweg und Nacht war,</l>
+            <l>Das führt uns zu dem ewigen Heil hin!</l>
+            <l>Indeß welkt auf Erden</l>
+            <l>Der unsterbliche Mensch weg</l>
+            <l>Und empfindet Herannahn des Todes,</l>
+            <l>Herannahn der Verwesung,</l>
+            <l>Und verweint, in Wehklag' ergossen,</l>
+            <l>Den Beginn des Daseins</l>
+            <l>Und weiß doch, daß es Gott einst mit Wonne</l>
+            <l>Vollbringt, er, der ihn auch zu dem Heil schuf!</l>
+            <l>Ja, so, Gott, vollbringst Du's!</l>
+            <l>Ach, trüb' ist und Nacht ist der Gedanke,</l>
+            <l>Daß ins Loblied der Himmel</l>
+            <l>Der Angst Stimme sich mischt,</l>
+            <l>Und mit Thränen sich die Wehmuth von Gräbern</l>
+            <l>Emporhebt ins Getön, wo Entzückung</l>
+            <l>Der Chorpsalm zum Thron ruft</l>
+            <l>Und sanft Lispeln den Harfen entlockt,</l>
+            <l>Wenn in Dank weint die Wonne!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Cherubim und Erstandene tönten vom Untergange</l>
+            <l>Babylon's. Also sang der Erstandenen Chor dem Vollender:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ernst ist er, des Gerichts dunkler Tag.</l>
+            <l>Todesgang und des Sturms Flug eilt des Herrn</l>
+            <l>Gerichtstag. Prophezeiung gegen sie,</l>
+            <l>Bewölkt einst, Prophezeiung, wie erfüllt Gott Dich!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, sie stürzt! Es vernahm Erd' und Meer</l>
+            <l>Babel's Fall, der Erfüllung Donnerschlag.</l>
+            <l>Nun thut's Gott von dem Throne. Jetzo droht</l>
+            <l>Am Meerstrand die Verkündung des Posaunrufs nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Babel stürzt. O, begann Gottes Tag,</l>
+            <l>Jener schon, der Entscheidung großer Tag?</l>
+            <l>Wie liegt, weh', sie zerstört da, weh' ihr, weh',</l>
+            <l>Welch Graun jetzt, die so stolz war, in dem Abgrund da!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Cherubim und Erstandene tönten vom Untergange</l>
+            <l>Babylon's. Also sang der Cherubim Chor dem Vollender:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»sie versinkt, sie versinkt, Babel! Der Täuscherin</l>
+            <l>Gefüllt ist mit Gifttrunk, schnelltödtend schäumt</l>
+            <l>Ihr Kelch auf. O, es füllt Dir, Babel, dafür,</l>
+            <l>Des Gerichts Kelch vollmessend, der wiedervergilt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Gestürzte, wie lang' schäumte Dein Taumelkelch</l>
+            <l>Dem Erdkreis Verführung, Wahn, Wuth und Tod!</l>
+            <l>Erwacht ist des Vergelters Rache, Dich hat</l>
+            <l>Von des Zorns Kelch Gott trunken zum Tode gemacht!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, die seligen Tage der ersten Auferstehung</l>
+            <l>Waren's, die Ihr, schon jetzt vollendete Märtyrer, feirtet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»die Gott rächt, in Gestirnglanz, Glückselige,</l>
+            <l>In des Heils Kleid, ausduldende Märtyrer,</l>
+            <l>Zu dem Erb' in dem Lichtreich kommt freudig Ihr,</l>
+            <l>Die Gott rächt, von dem Nachtthal her!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Herrschaft des Vollenders, Mitblutende,</l>
+            <l>Die Gewalt Deß, den Kreuziger tödteten,</l>
+            <l>O, empfangt die Belohnung, Heilerbende!</l>
+            <l>Erstaunt, bang und vor Angst stumm hört's</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Erdkreis. Die verkannt einst schnell bluteten,</l>
+            <l>Wenn sie Satan Räuchwerke nicht zündeten,</l>
+            <l>Sie beherrschen die Welt jetzt, sind Könige!</l>
+            <l>Vom Thron schmückt mit Gewalt Gott Euch!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unbemerkter, nicht eine der Königinnen des Weltmeers,</l>
+            <l>Ruhete zwischen Wogengebirgen die einsame Patmos.</l>
+            <l>Aber es sollte dereinst wie Posaunen an ihrem Gestade</l>
+            <l>Dem erschallen, den sich der Offenbarer zum Seher</l>
+            <l>Auserkor, und in ihrer Haine Schatten der Gottmensch</l>
+            <l>Ihm erscheinen, umringt von sieben Leuchtern, gekleidet</l>
+            <l>In ein lichtes Gewand, mit Golde begürtet, das Haupthaar</l>
+            <l>Weiß wie Schnee, und Flamme sein Blick, wie die Sonne sein Antlitz.</l>
+            <l>Glühend Erzt war sein Fuß, von dem Munde ging ihm ein scharfes</l>
+            <l>Schneidendes Schwert, und er hielt in der Rechte sieben Sterne:</l>
+            <l>Eine Strahlengestalt, vor welcher wie todt der Seher</l>
+            <l>Hinsank. Richter der Welt war Der, vor welchem er hinsank.</l>
+            <l>Aber damals richtet' er noch sein großes Gericht nicht,</l>
+            <l>Sprach nur über sieben Gemeinen ihr erstes Urtheil;</l>
+            <l>Mit dem Ernste des Richterspruchs ertönte noch Gnade!</l>
+            <l>Und es hatten von diesem Gericht die ersten der Engel</l>
+            <l>Und die Väter, sie hatten von dieser Gnade, wie fern her,</l>
+            <l>Himmlische Stimmen vernommen. Sie sangen dem schonenden Richter,</l>
+            <l>Daß ihm in den Gemeinen, wie Thau aus der Morgenröthe,</l>
+            <l>Seine Kinder würden zum ewigen Leben geboren</l>
+            <l>Durch die neue Geburt, und daß er ihrer wie Mütter</l>
+            <l>Sich erbarmt', auch da, wo selbst die Herzen der Mütter</l>
+            <l>Fühllos würden, auch da sich Jesus Christus erbarmte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ephesus, ach, Ephesus, komm zu der ersten</l>
+            <l>Liebe zurück! O, wie tief sankst Du, Gemeine!</l>
+            <l>Kehre wieder, es stürzt Dein Leuchter</l>
+            <l>Sonst Dir dahin und verlischt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Preis Dir, Du giebst ewigen Lohn, wer sich wieder,</l>
+            <l>Mittler, erhebt! am Krystallstrom, der vom Throne</l>
+            <l>Fließet, schatten des Lebens Bäume,</l>
+            <l>Tragen dem Siegenden Frucht!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein höheres Chor begann, von Wonne begeistert,</l>
+            <l>Durch die goldenen Harfen herab zu rauschen; sie sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o der Aussaat, welche Du, ewiger Sohn,</l>
+            <l>Dir in Smyrna sätest! O, sie halten aus</l>
+            <l>Im Gefängniß und geschmäht, sie dulden's gern,</l>
+            <l>Sind getreu bis an den Tod, Kronen zu empfahn!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wehmuthsstimmen erschollen. So sangen Chöre der Menschen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»pergamon, Du hieltest an </l>
+            <l>Jenes Triumphs, da Antipas in sein Blut sank!</l>
+            <l>Zeugend sank er. O, ruft Antipas'</l>
+            <l>Namen, Unsterbliche, laut!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber Du hast, Pergamon, auch, die, wie Balak,</l>
+            <l>Aergern. Es labt, wer gesiegt hat, das verborgne</l>
+            <l>Manna, Diesen allein; nur er hört</l>
+            <l>Zeugen die Himmel von sich.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wehmuthsstimmen erschollen. So sangen Chöre der Engel:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»siehe, Du glaubst, duldest und liebst, Thyatira!</l>
+            <l>Aber Du hast, Thyatira, die Prophetin,</l>
+            <l>Hast die Täuscherin auch! Dein Richter</l>
+            <l>Forschet hinab in das Herz!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welchen er rein sahe, der Sohn, Den erhebt er,</l>
+            <l>Setzet ihn hoch, daß den Weltkreis er beherrsche,</l>
+            <l>Giebt den eisernen Stab der Macht, giebt</l>
+            <l>Strahlen der Stern' ihm ums Haupt.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stille ward in der Schaar des Triumphes, und keins der Chöre</l>
+            <l>Sang, und alle Harfen und alle Posaunen verstummten,</l>
+            <l>Bis zu dem Göttlichen wenige Stimmen sich endlich erhuben:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ach, Sardis, ach, Sardis! Weltrichter,</l>
+            <l>Erbarm Dich! des Herrn Sohn, verschone!</l>
+            <l>Sie liegt todt, und ihr Wahn wähnt, daß sie lebe!</l>
+            <l>Gott Mittler, schon' ihrer!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, höre! wach, Sardis, wach, Todte,</l>
+            <l>Vom Schlaf auf! Es schreckt schon von fern her,</l>
+            <l>Mit Eil' droht, mit Vollendung das Gericht Dir!</l>
+            <l>Hör, hör sein Drohn, Todte!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weißes Gewand strahlet um Den, der gesiegt hat;</l>
+            <l>Hell in dem Buch, das vom Heil einst im Gericht tönt,</l>
+            <l>Steht sein Namen; ihn nennt vor Gott selbst</l>
+            <l>Und vor den Engeln der Herr!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber ein höheres Chor begann, von Wonne begeistert,</l>
+            <l>Durch die goldenen Harfen herab zu rauschen; sie sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie selig ist sie! Wenig Kraft gab ihr der Herr;</l>
+            <l>Und es blieb dennoch im Bunde, bekannte dennoch</l>
+            <l>Philadelphia stets! Satans Verführter soll</l>
+            <l>Sich ihr bang nahn, in den Staub sinken vor ihr!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie selig ist sie! Wenig Kraft gab ihr der Herr;</l>
+            <l>Und es blieb dennoch im Bunde, bekannte dennoch</l>
+            <l>Philadelphia stets! Stunde des Jammers, triff</l>
+            <l>Du den Erdkreis, und vor ihr eile vorbei!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie herrlich ist sie! Treue Schaar, halt, was Du hast</l>
+            <l>Und, o, laß Keinen die Krone des Heils Dir nehmen!</l>
+            <l>Der Vollendete steht glänzend, ein Pfeiler, einst</l>
+            <l>In dem Tempel, wo der Sohn ewig belohnt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wehmuthsvoll, mit jenem Gefühl, das unter den Menschen</l>
+            <l>Thräne wird, kam mitten aus einem Chore die Stimme:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, vernähme den Ruf Laodicea noch!</l>
+            <l>Er ruft ihr vom Tod auf, wehklaget sanft.</l>
+            <l>Wie blind, ach, und wie elend täuschet sie sich!</l>
+            <l>Du des Herrn sonst, auf, eile dem Rufenden zu!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Gezüchtigte geht auch zu dem Abendmahl</l>
+            <l>Des Sohns ein. Wer fest steht, aushält und siegt,</l>
+            <l>Belohnt wird und gekrönt Der, steiget empor</l>
+            <l>Zu des Throns Höh', Gottmensch, wo in Lichte Du wohnst!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da des Triumphs Heerschaar stets weiter hinauf zu des Himmels</l>
+            <l>Strahlenkreise stieg, begannen Chöre der Seher</l>
+            <l>Und Erzengel, zu singen dem Auferwecker und Richter.</l>
+            <l>Also sangen sie gegen einander. Die Harfen der Seher</l>
+            <l>Tönten feirlichen Ernst und flossen von großen Gedanken</l>
+            <l>Feuriger über. Itzt strömte der Psalm in der Saite Begeistrung:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wo erhöht </l>
+            <l>Stieg er herab, und den Gerichtsruf donnerte sein Heer.</l>
+            <l>Und die Grabnacht gab, die sie wegnahm, her,</l>
+            <l>Da des Gerichts Ruf tönt' und das Gebirg einsank.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Heerschaar, die vom Tod </l>
+            <l>Hub sich empor, und ihr Gewand goß Strahlen um sie her.</l>
+            <l>Ihr Triumphlied scholl, wie das Weltmeer braust,</l>
+            <l>Und das Getön stieg hoch mit dem Gerichtsruf auf.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie erlagen dem Wonnegedanken. Die Saiten nur tönten.</l>
+            <l>Aber nicht lange, so scholl ihr Gesang von Neuem zur Harfe:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»aussaat, die gesät ruhte, bis ihr Gott rief, das Gefild</l>
+            <l>Mit Goldglanz zu bedecken! Selige, die, Staub zu Staub,</l>
+            <l>In sich einschloß säumende Nacht,</l>
+            <l>Bis floh der Aeon Sterblicher dahin!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aussaat, o, wie reif schimmerst Du her! Laut ruft im Gefild</l>
+            <l>Die Heerschaar zu der Ernte! Selige, die, Glanz zu Glanz,</l>
+            <l>Der Vollender sammelt, wie nimmt</l>
+            <l>Des neuen Aeon's Herrlichkeit Euch auf!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzo sangen mit himmlischem Lächeln die ersten der Engel;</l>
+            <l>Tönender strömte der Psalter Strom zu dem Wonnegesange:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»todt', erwacht! Todt', erwacht! Der Gerichtstag hallt's.</l>
+            <l>Der Aufruf der Ernter des Gefilds</l>
+            <l>Ertönt froh. Der Staub hört's da, wo er sanft</l>
+            <l>Schlummert, hinschallen. Schutzengel rufen ins Gericht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eilet, schaut auf zum Thron, die mit Huld Gott rief!</l>
+            <l>Erwacht, eilt, steht auf, strahlt von dem Grab</l>
+            <l>Empor, Ihr, die Jesus frei des Gerichts</l>
+            <l>Macht! O Miterben, kommt, nehmt die Palmen in Triumph!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwebt herauf, setzet Euch mit dem Sohn Richter</l>
+            <l>Im Goldstrahl auf Throne bei den Herrn!</l>
+            <l>Erhebt Euch, die Blut deckt, weißes Gewand</l>
+            <l>Deckt! O Weltrichter, kommt, nehmt die Kronen in Triumph!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, sie gehn überstrahlt zu dem Thron furchtbar</l>
+            <l>Herauf, ernst zur Wagschal' des Gerichts!</l>
+            <l>Geströmt Blut des Altars Golgatha deckt</l>
+            <l>Hell die Palmträger. Siegskronen glänzen um ihr Haupt.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lange Reihn krystallener hochaufsteigender Berge</l>
+            <l>Sind in dem Stern Sarona. In ihnen sehn die Bewohner</l>
+            <l>Ferne Welten vergrößert und leuchtender; weiter ertönet</l>
+            <l>Dort der Widerhall und melodischer, wenn sich der Ausruf</l>
+            <l>Inniger Freud' ergießt bei neuer Erscheinungen Anblick.</l>
+            <l>Tausende wimmeln dann am Fuß der unendlichen Berge,</l>
+            <l>Tausende haben dann die breite Schulter, die lichte</l>
+            <l>Stirne der Berg' erstiegen und stehn tiefsinnig und schauen.</l>
+            <l>Jetzo schauten sie nicht tiefsinnig; ihr Auge war Wonne;</l>
+            <l>Denn es ging der Triumphheerzug bei Sarona vorüber.</l>
+            <l>Heller ward der Krystall, wo der Gottmensch schwebt' und zu Schönheit</l>
+            <l>Seine Herrlichkeit milderte. Dort ertönte der Nachhall</l>
+            <l>Reiner und neu, als bildet' er Laute des feirenden Heerzugs.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt erhuben im Chor der Seher Debora und Mirjam</l>
+            <l>Ihre Stimme. Den Saiten entscholl bald himmlische Wehmuth,</l>
+            <l>Bald der Ton des Triumphs. Sie sangen gegen die Engel.</l>
+            <l>So, wenn im Walde der Donnersturm stillschweigt, und die Bäume</l>
+            <l>Nicht gebogen mehr stehn, bebt leise von Lüften der Sprößling.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, Du einst uns Elend, wie entzückst Du</l>
+            <l>Den Geist, Tod! Wer im Nachtthal des Entsetzens</l>
+            <l>Nicht verwesete, strebet umsonst,</l>
+            <l>Zu erreichen des Erwachten Gefühl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr lieft nicht die Laufbahn des Erdulders,</l>
+            <l>Des Pilgers da hinab nicht, wo der Tod war.</l>
+            <l>Ihr Unsterblichen sahet das Grab</l>
+            <l>Nicht eröffnet und gefüllt mit Gebein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr saht nicht, daß furchtbar die Entschlafnen</l>
+            <l>Es hinnahm, die Geliebtern zur Verwesung!</l>
+            <l>Der begrabenden Schaufel Getös,</l>
+            <l>Die mit Erde die Entflohnen bewarf,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erscholl nie Euch dumpf auf von den Grüften</l>
+            <l>Und rief nie Euch Erinnrung, daß Ihr einst auch,</l>
+            <l>Mit entstürzender Erde bedeckt,</l>
+            <l>Bei der Trümmer des Verwesenden lägt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber wie unter Wolken herab von den Felsen sich Ströme</l>
+            <l>Stürzen, so sang, als rief's zum Gericht, das Chor der Propheten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»todt', erwacht, die Posaun' hallt, Todt', erwacht!</l>
+            <l>Der Nacht Schooß, des Meers Grund und der Erdkreis</l>
+            <l>Bebt dumpf auf, das Gebein hört Herrscherton</l>
+            <l>Herrufen, Erzengel rufen ihn laut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Goldpalast und bemoost Dach stürzen ein.</l>
+            <l>Im Erdgrab und Weltmeer wer entschlummert</l>
+            <l>Schon lang' lag, Der erwacht. Wer lebet, hört</l>
+            <l>Graunvolles Erdbeben, stirbt und erwacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nacht noch war's. Das Entsetzen trat einher,</l>
+            <l>Gebot Flucht. Gefild, Hain, des Gebirgs Haupt</l>
+            <l>Versank, warf sich ins Meer hin. Harfe, schweig!</l>
+            <l>Bang ruft, es ruft nun Gebärerinangst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Donner ruft von des Throns Höhn. Harfe, schweig!</l>
+            <l>Laut droh'nd tönt Gerichtsruf der Posaunen</l>
+            <l>Darein. Fürchterlich fliegt, rauscht Donnersturm.</l>
+            <l>Wehklagend ruft drein Gebärerinangst.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zween Erzengel schwebten voran, da sang der eine:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»sie sind's, ach, die wehdroh'nd der Aufruf schreckt!</l>
+            <l>Sie stehn auch von dem Tod auf! O, verschlöss' Nacht stets</l>
+            <l>In dem Graunthal der Verwesung,</l>
+            <l>Die des Throns Ausspruch in den Abgrund stürzt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zween Erzengel schwebten voran, da sang der andre:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»gerichtsdonner, ach, zu furchtbar tönest Du</l>
+            <l>In die Grabmale! Längrer, ewiger Schlaf</l>
+            <l>Ist ihr Flehn; aber sie kommen aus der Nacht</l>
+            <l>Und wehklagen: O, falle, Gebirg, deck uns!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stille war itzt in den Chören der Siegsbegleiter. Da flogen</l>
+            <l>Leicht, wie Blüthen die Luft fortathmet, Benoni und Mirjam,</l>
+            <l>Lazarus' Schwester, hervor. Wie des Sommers sanftere Mondnacht</l>
+            <l>Und wie der röthliche Frühlingsmorgen schwebten sie vorwärts.</l>
+            <l>Und sie würdigten Satan, dem liegenden Ueberwundnen,</l>
+            <l>Hören zu lassen, wie groß der Triumph der Todten des Herren sei:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»donnr' es, o Gesang, in der Nacht</l>
+            <l>Schrecken hinab, zu Gehenna's Empörer hin:</l>
+            <l>Die am Staub einst Elend und der Tod traf,</l>
+            <l>Sie erwachen zu dem Schaun!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mörder, zu dem Schaun! vom Beginn</l>
+            <l>Mörder, sie Alle, die jemals des Todes Angst,</l>
+            <l>Der Verwesung Graun traf, sie entschwingen</l>
+            <l>Sich dem Grabe da hinauf,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo zu dem Gericht, Du Genoß</l>
+            <l>Jedes Entsetzens, in schreckender Herrlichkeit</l>
+            <l>Sich gesetzt hat Jesus, der Vollender!</l>
+            <l>Hosianna! er entschwung,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieger des Empörenden, sich</l>
+            <l>Auch dem umschattenden Thale, der Todesruh,</l>
+            <l>Und verwarf Dich, Satan, Du Verkläger,</l>
+            <l>Der sie Tage vor dem Thron,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nächte vor dem Thron sie mit Grimm</l>
+            <l>Schuldigte! Sünden nicht nur, das Gebrech, Du Feind,</l>
+            <l>Und der Fehle Staub nahmst und umgabst Du</l>
+            <l>Vor dem Rächer mit Gewölk!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zischender Verkläger, Dich stürzt</l>
+            <l>Jesus, der Herrscher, hinab in die tiefe Nacht,</l>
+            <l>Wo die Qual ist, Wehklag' und der Tod ist,</l>
+            <l>Kein Erwachen zu dem Schaun!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einer der Todesengel erhub die furchtbare Stimme,</l>
+            <l>Also sang er, indem mit der Hand die Posaun' ihm hinsunk:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wehklagen und bang Seufzen vom Graunthale des Abgrunds her,</l>
+            <l>Sturmheulen und Strombrüllen und Felskrachen, das laut niederstürzt',</l>
+            <l>Und Wuthschrein und Rachausrufen erscholl dumpf auf.</l>
+            <l>Wie der Strahl eilt, schwebten wir schnell und in Wehmuth fort.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gabriel weinet' und fühlte sie gern, die himmlische Thräne;</l>
+            <l>Also floß mit der Thräne die Stimme des Schauers der Zukunft:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»das Gewand weiß, bluthell, hub zum Thron</l>
+            <l>Sie sich empor, stand ernst, anschaunselig da,</l>
+            <l>Schimmerte die Braut. Sanften Ton, festliche Melodien,</l>
+            <l>Freudigeres Gefühl strömtet Ihr, Donnerer in dem Gericht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und der Gottmensch sah rein neben sich</l>
+            <l>Sie an dem Thron voll Unschuld stehn, sah sich ihm</l>
+            <l>Heiligen die Braut. Neu erscholl, seligeres Gefühls</l>
+            <l>Strömet' ins Paradies Euer Psalm, Donnerer in dem Gericht!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch erhöht von dieser Begeistrung des Schauers der Zukunft,</l>
+            <l>Schwebt' in lichterem Meere der Himmelsheitre die Heerschaar,</l>
+            <l>Schwebte mit schnellerer Eile dahin; und keine der Harfen</l>
+            <l>Schwieg in den Chören, und aller Posaunen erschütternde Stimmen</l>
+            <l>Redeten ihre Donner, und alle Himmlischen sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»da ihr Gang Flug, und ihr Ausruf Gesang ward der Entzückung,</l>
+            <l>Da vom Gefild her sich der Triumphzug zum Gerichtsthron</l>
+            <l>Emporschwang, nahm zu dem Erb' auf er, den am Kreuz Gott sah,</l>
+            <l>In das Lichtreich auf, die des Altars Blutruf vom Gericht lossprach.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber das Chor Erzengel begann von Neuem die Wonne</l>
+            <l>Seiner Gesänge gegen die Seher hinüber zu strömen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, die auch in Erdgrab und Weltmeer verwest einschloß</l>
+            <l>Der Gerichtsspruch, den in Eden, da es kühl ward, der Herr aussprach,</l>
+            <l>Erstlinge, schwebt strahlend empor in Triumphflug, eilt,</l>
+            <l>Richtet mit Dem, welchem sich die Höh' und das Gebeinthal bückt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Hand kam hervor einst, und Schrift stand: Dich wog Jova!</l>
+            <l>Und es fand Dich, der den Weltkreis, wie er will, herrscht, zu leicht, König!</l>
+            <l>Daß des Gerichts Tag es vernähme, wie leicht Der sei,</l>
+            <l>Welcher an ihm sündigte, gebot es von des Throns Höh' Gott,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gebot so: Es zeug' einst, was lebend des Staubs Sohn that,</l>
+            <l>Des Gerichts Buch! Und mit Schrift, hell, wie der Blitzstrahl durch Nacht herfleugt,</l>
+            <l>Schrieb in das Buch, Rächer, Dein Heer, was der Mensch that, grub's</l>
+            <l>Thränenvoll ein, schweigend, was nunmehr in dem Gericht laut tönt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Thron rollt die Heerschaar, als göss' sie ein Meer weit aus,</l>
+            <l>Des Gerichts Bücher voll Ernst auf, und die Glanzschrift erschreckt fern her.</l>
+            <l>Eilet empor, Erstlinge, schwebt den Triumphflug, kommt,</l>
+            <l>Richtet mit Dem, welchem sich die Höh' und das Gebeinthal bückt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihn sah Gott herannahn; kein Tag war, wie der Tag ist,</l>
+            <l>So dem Rath Deß, der geherrscht hat vom Beginn an, die Hüll' aufdeckt!</l>
+            <l>Jauchzet und schaut tiefer hinab, denn der Lichttag kam!</l>
+            <l>Wandelt umher froh in Labyrinthe, die hindurch Gott führt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch währt er, noch währt er, der Grauntag. Ein Jahr floh schon,</l>
+            <l>Und es säumt noch der Gerichtstag. Noch erschreckt Den des Ausspruchs Ernst,</l>
+            <l>Welchen der Sohn Gottes verwirft. Es entfliehn qualvoll</l>
+            <l>Könige noch, rufen dem Gebirge: O Gebirg, deck uns!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allein deckt Gebirg Euch? Noch säumt stets des Urtheils Tag.</l>
+            <l>Noch entsetzt sich, wer, o Lamm, Dir, das erwürgt ward, wer Hohn Dir sprach.</l>
+            <l>Stürzet, Ihr Berg', über uns her, denn die Allmacht zürnt!</l>
+            <l>Der an dem Kreuz blutete, gebeut von dem Gerichtsthron Tod!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch strahlt er, der Heiltag. Noch theilt Gott des Lichts Erb' aus.</l>
+            <l>Noch verklärt sich Labyrinthweg. Noch enthüllt Gott der Vorsicht Pfad.</l>
+            <l>Stets noch empfäht weißes Gewand, von des Sohns Blut hell,</l>
+            <l>Kronen empfäht, Palmen, wer dem Sohn bis in den Tod treu war.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thräne des Himmels im Blicke der Erstlinge Gottes, wie glänztest</l>
+            <l>Dem Du, der einst das Erbe des Lichts den festlichen Tag giebt</l>
+            <l>Seiner Entscheidung! Sie wagten es kaum, voll inniger Demuth,</l>
+            <l>Nach dem Vergelter hinauf, der ihnen strahlte, zu schauen.</l>
+            <l>Säumend begann ihr Harfengetön; als aber der Geber</l>
+            <l>Immer belohnender strahlte, da flog's, und schnell war es Jubel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o Aufgang aus der Höh', o des Herrn Sohn, Du o Licht</l>
+            <l>Von dem Licht, der erlöst hat, doch dereinst auch auf den Thron</l>
+            <l>Des Gerichts mit der Wagschal' steigt und es wägt,</l>
+            <l>Was gethan hat, wem umsonst floß Golgatha's Blut!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, Preis Dir und Gesang, Du des Herrn Sohn, Du o Licht</l>
+            <l>Von dem Licht, der erlöst hat, die dereinst, ach, an dem Thron</l>
+            <l>Des Gerichts bei der Wagschal' stehn und sein Weh'</l>
+            <l>Mit verkünden, wem umsonst floß Golgatha's Blut!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Urquell, es ergeußt, o des Heils Quell, wie ein Strom,</l>
+            <l>Wie ein Meer – so gebeutst Du – von dem Lichtthron sich herab</l>
+            <l>Der Erschaffenen Glück! Erzengel, merkt auf,</l>
+            <l>Wie das Heilmeer durch den Weltkreis weit sich ergeußt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr, Ihr saht's von Beginn, da die Nacht uns noch umgab,</l>
+            <l>Es der Tod noch verbarg, ach, da noch Gott wir, o der Staub,</l>
+            <l>Aus der Nacht, von dem Grab her, richteten, Gott</l>
+            <l>Mit Erbarmung es vernahm, schwieg, Blitze nicht warf!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unterdeß, da Jesus den Weg durch die Heitre zum Throne</l>
+            <l>Gottes ging, entschied er von fern das Schicksal der Seelen,</l>
+            <l>Welche das Leben der Sterblichkeit jetzt verließen. Sie mußten</l>
+            <l>Sinken oder steigen, nachdem in ihnen der Richter</l>
+            <l>Trieb' erschuf, sich empor zu der Wonne Gefilden zu heben</l>
+            <l>Oder hinab sich zu senken, hinab, wo die ewige Nacht herrscht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt rief einer der hohen Triumphbegleiter: »Es steigen,</l>
+            <l>Sieh, aus allen Landen, aus allen Völkern der Erde,</l>
+            <l>Steigen Seelen herauf!« Ein Anderer rief in der Wonne</l>
+            <l>Seines Herzens den Auferstandenen zu: »Der Entschlafnen</l>
+            <l>Seelen machen sich auf und werden Licht; denn ihr Licht strahlt</l>
+            <l>Ihnen entgegen, und vor ihnen geht des Versöhners</l>
+            <l>Herrlichkeit auf!« Der Unsterbliche schwieg. Noch war es den Seelen</l>
+            <l>Unbekannt, wer Der in der Mitte dieses Triumphs sei,</l>
+            <l>Wer die Schaaren um ihn; bald aber erkannten sie Menschen</l>
+            <l>Unter den Schaaren, und süßes Gefühl, daß sie Menschen erblickten,</l>
+            <l>Ueberströmete sie. Doch da sie von Antlitz zu Antlitz</l>
+            <l>Ihre Brüder sahn, erstaunten sie, zweifelten, sanftes</l>
+            <l>Schauers voll. Denn die Auferstandnen, nun Himmlischen, waren</l>
+            <l>Furchtbar und schön, voll Hoheit, wie keine Hoheit sie kannten,</l>
+            <l>Waren vielleicht auch Götter. Allein der Götter einer</l>
+            <l>Sprach zu ihnen, und lieblich erscholl des Redenden Stimme:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»menschen waren wir einst, wie Ihr vor Kurzem noch waret;</l>
+            <l>Aber </l>
+            <l>Welchen Ihr wandeln hier bei den Sternen seht, mit des Urlichts</l>
+            <l>Glanze bedeckt und mit Wundenmalen. Lernet, Ihr könnt hier</l>
+            <l>Vieles lernen! Erwählet ihn Euch zum Helfer; erwählet</l>
+            <l>Ihn auch nicht! So frei wie jetzt seid Ihr niemals gewesen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dreimal die Zeit, die ein Engel, bevor er von einem Entschlusse</l>
+            <l>Uebergeht zu dem andern, die dann der Unsterbliche zweifelt,</l>
+            <l>Folgten die Seelen jetzo nur nach und blieben auf einem</l>
+            <l>Sterne zurück und warteten dort auf Lehrer, die Jesus</l>
+            <l>Ihnen würde – Gabriel rief's – von dem Thron zusenden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weit in der Ferne sah des Ewigen Thron die Triumphschaar</l>
+            <l>Und des Allerheiligsten Nacht an des Ewigen Throne.</l>
+            <l>Schon verhüllten ihr Antlitz mit ihren Flügeln der Engel</l>
+            <l>Viele. Das Antlitz Deß, der geopfert auf Golgatha's Altar</l>
+            <l>Blutete, ward lichtheller. Ein Chor Erstandener bebte</l>
+            <l>Freudig, und erst nach langem Verstummen begann es von Neuem</l>
+            <l>Seine Psalme, begann's hinauf nach Sion zu singen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»begleit ihn zum Thron auf, o Lichtheer,</l>
+            <l>Mit der Harf' ihn, der Posaun' Hall und dem Chorpsalm,</l>
+            <l>Jesus, Gottes Sohn! Menschlich ist er,</l>
+            <l>Gnädig! Das rufest Du laut, blutiger Altar!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es preis' ihn der Toderb' und Seraph,</l>
+            <l>Es erheb' ihn die Versammlung der Gerechten,</l>
+            <l>Jesus! Hehr ist er, heilig! Es gab,</l>
+            <l>Siehe, dem Herrlichen Jehovah das Gericht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es sing' ihm der Heilerb' und Cherub,</l>
+            <l>O Ihr Chör' all' in dem Lichtheer, Hosianna!</l>
+            <l>Jesus, Sohn, Du bist König der Welt,</l>
+            <l>Ewiger König der Stadt Gottes in der Höh'!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie wirst Du am Thron Den empfangen,</l>
+            <l>Der es ganz litt, der es ganz that, den Vollender,</l>
+            <l>Vater, Du den Sohn! Donner des Throns,</l>
+            <l>Gebt der Unsterblichen Chor Flügel und Triumph!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sie schwiegen. Es schwebt' an einer Sonne Gefilden</l>
+            <l>Langsamer fort ein anderes Chor Erstandne. Sie sangen</l>
+            <l>Ihm, der stets lichtheller des Vaters Rechte sich nahte:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o Vollender, wie wird er, der ewig ist, Dich</l>
+            <l>Auf des Throns Höhn empfangen! Ewiger, wie wirst</l>
+            <l>Du hingehn, des Herrn Sohn den Herrn schaun, der erhabne,</l>
+            <l>Der unendliche Genoß Deß, der sein wird und war!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du o Licht von dem Licht, Gottmensch, groß durch den Tod</l>
+            <l>An dem Kreuz! Hehr Sühnopfer! Herrlicherer Dem,</l>
+            <l>Der abfiel und umkehrt, der, Staub, schlief und darauf erst,</l>
+            <l>Ein Unsterblicher wie sie, Glanz der Engel empfäht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der erlösende Sohn, Allerheiligstes, ging</l>
+            <l>In die Nacht Deines Grauns ein! Aber wie hat ihn</l>
+            <l>Erhöht Gott! Ihr Knie sinkt dem Aufgang aus der Höhe,</l>
+            <l>Dem Erniederten und Herrn, aller Endlichen Knie!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie schallet empor, hoch im Himmel empor</l>
+            <l>Und im Staub ihres Zurufs Wonnemelodie!</l>
+            <l>Erhöht wird des Herrn Sohn, der Gottmensch, der Gesalbte,</l>
+            <l>Dem Unendlichen zum Preis, Gott dem Vater zum Preis!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch sie schwiegen, und immer wurden der feirenden Chöre</l>
+            <l>Weniger. Sieben Erstandne, die ersten unter den Menschen,</l>
+            <l>Schwungen sich freudigzitternd hervor und sangen dem Sohne:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»mißt nicht mit Maaß Endlichkeit uns? Wir erheben,</l>
+            <l>Selig dadurch, die Vollendung des Erstandnen.</l>
+            <l>Ach, der Wonne Gefühl soll ewig</l>
+            <l>Tönen im Strom des Gesangs!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber was ist gegen den Preis der Erschaffnen,</l>
+            <l>Vater, Dein Blick, Du Erhöher zu des Throns Glanz,</l>
+            <l>Dein Anschauen! Verstummt, Strom, stündst Du,</l>
+            <l>Winkte nicht Eile Dir Gott!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Danke dem Herrn! Preise, daß er uns vergönnt hat,</l>
+            <l>Endlichen, ihm mit dem Stammeln des Triumphlieds,</l>
+            <l>Ihm mit feirendem Psalm zu singen,</l>
+            <l>Mit der Erstaunungen Ruf!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herrlich ist er, selig ist er, und des Donners</l>
+            <l>Seiner Gewalt, wenn er handelt und beseligt,</l>
+            <l>Nachhall unser Gesang. Strömt, Jubel,</l>
+            <l>Jauchzet den Thaten des Herrn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mittler, zu Dem steigst Du hinauf! Es erhebt Dich</l>
+            <l>Der zu der Höh', o Messias, zu der Höhn Höh'</l>
+            <l>Seiner Rechte! Begleit ihn, Siegslied,</l>
+            <l>Bis zu dem Fuße des Throns!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber hundert Cherubim schwebten hervor und enthüllten</l>
+            <l>Wieder ihr Antlitz und wiesen hoch mit der Palme gen Himmel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»begleit ihn zum Thron auf, Triumphheer,</l>
+            <l>Mit der Harf' ihn, der Posaun' Hall und dem Chorpsalm,</l>
+            <l>Jesus, Gottes Sohn! Herrscher ist er,</l>
+            <l>Herrscher! Das rufet Ihr laut, Donner um den Thron!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ruf' ihm der Heilerb' und Cherub,</l>
+            <l>O, Ihr Chör' all' in dem Lichtheer, Hosianna!</l>
+            <l>Jesus, Gottes Sohn, Dulder, Du steigst,</l>
+            <l>Todter, zur Rechte des Herrn, Ewiger, empor!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzo kam der Triumph dem Himmel so nah, daß Jehovah's</l>
+            <l>Thron sie im Glanz herstrahlen der ganzen Herrlichkeit sahen.</l>
+            <l>Da den Triumph, den Triumph die nähesten Engel erblickten,</l>
+            <l>Standen sie alle zuerst erstaunt; bald aber erhub sich</l>
+            <l>Wonnausruf voll frohes Erschreckens. Die Stunde, da Christus</l>
+            <l>Wieder würde, der Ueberwinder, den Himmel betreten,</l>
+            <l>War der Himmlischen keinem bekannt, war's selber der Thronen</l>
+            <l>Ersten nicht. Sie hatten nur fern mit der Welten Getöne</l>
+            <l>Jubel gehört. Von Gebirge rief zu Gebirge, der Cherub</l>
+            <l>Rief: »Der Messias!« dem Cherub; aus Hainen ruften in Haine</l>
+            <l>Seelen und Seraphim sich: »Der Messias!« vom Strahl zu dem Strahle;</l>
+            <l>Bis hinauf zu den Opferaltären, hinauf zu der hohen</l>
+            <l>Wolke des Allerheiligsten scholl: »Der Messias!« hinaufscholl</l>
+            <l>Zu dem Thron: »Der Messias!« daß weit um sie her der Wälder,</l>
+            <l>Daß der Ströme Geräusch unhörbar ward, des Krystallmeers</l>
+            <l>Woge selbst, vor der Stimme der Rufenden. Aber da Jesus,</l>
+            <l>Da der große Vollender nunmehr mit einem der letzten</l>
+            <l>Sonnenschimmer den Himmel betrat, da entsanken der Engel</l>
+            <l>Kronen, da streuten mit sanfterer Freude die Himmlischen alle</l>
+            <l>Palmen auf den erhabenen Weg, der zum Throne des Herrn führt.</l>
+            <l>Auch die Triumphbegleiter, die Seraphim und die Erstandnen</l>
+            <l>Streueten Palmen und gingen einher mit freudiger Demuth.</l>
+            <l>Aber die Seelen, belastet vom neuen Himmelsgefühle,</l>
+            <l>Wären in einem der Haine des Wegs geblieben, hätt' ihnen</l>
+            <l>Gabriel nicht mit der goldnen Posaune zu folgen gerufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jesus nahte dem Thron. Da wurde stiller die Stille;</l>
+            <l>Und da rufte den Seelen nicht mehr die Posaune; die Väter</l>
+            <l>Standen; noch folgten die Engel; nicht lang', so blieben auch sie stehn,</l>
+            <l>Sanken nieder, daß sie anbeteten. Gabriel hatte,</l>
+            <l>Keiner der Endlichen sonst, des Thrones unterste Stufe</l>
+            <l>Mit dem Messias betreten. Dort kniet' er, beinah unsichtbar</l>
+            <l>Durch den herunterströmenden Glanz, und schaute zu Gott auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, der Hocherhabene war, der Unendliche war, er,</l>
+            <l>Den noch Alle kennen, dem Alle danken noch werden,</l>
+            <l>Aller Freudenthränen noch weinen, Gott und der Vater</l>
+            <l>Unseres Mittlers, der Allbarmherzige war in der vollen</l>
+            <l>Gottesliebe verklärt! Der Sohn des Vaters, des Bundes</l>
+            <l>Stifter, er, der erwürgt von dem Anbeginne der Welt ist,</l>
+            <l>Den noch Alle kennen, dem Alle danken noch werden,</l>
+            <l>Aller Freudenthränen noch weinen, siehe, das Opfer</l>
+            <l>Für die Sünde der Welt, der Getödtete war, der Erstandne,</l>
+            <l>Jesus, der Mittler, der Allbarmherzige war in der vollen</l>
+            <l>Gottesliebe verklärt! So sah den Vater der Himmel</l>
+            <l>Aller Himmel! So sahe den Sohn des Vaters aller</l>
+            <l>Himmel Himmel! Indem betrat die Höhe des Thrones</l>
+            <l>Jesus Christus und setzete sich zu der Rechte des Vaters.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weit schon über den Wolken erhub sich der Gottversöhner</l>
+            <l>Mit den Schaaren um ihn, auf dem lichten Pfade zum Throne.</l>
+            <l>Gabriel strahlte schwebend voran; die fliegenden Locken</l>
+            <l>Säuselten ihm, und er sang in die Lispel der goldenen Harfe:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»fanget bebend an, athmet kaum</l>
+            <l>Leisen Laut; denn es ist Christus' Lob,</l>
+            <l>Was zu singen Ihr wagt! die Ewigkeit</l>
+            <l>Durchströmt's, tönt von Aeon fort zu Aeon!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drauf erhub ein Chor Erstandner der zitternden Wonne</l>
+            <l>Stimme. Die Harfen rauschten mit sanftem Getön, und wie fernher</l>
+            <l>Rufte der Donnerhall der Posaune. So rauscht am Gebirge</l>
+            <l>Weit herunter von Lüften der Hain und von Silberbächen,</l>
+            <l>Wenn im Geklüft einher der wasserärmere Waldstrom</l>
+            <l>Langsam kommt. Das Chor der Erstandnen schaute zum Mittler</l>
+            <l>Weinend hinauf. So sang es dem Ueberwinder des Todes:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ewig her, vom Beginn an, als die Welt</l>
+            <l>Nicht war, Sohn, eh Tag, Nacht und Gestirn ward,</l>
+            <l>Eh herstrahlten in Sternglanz Cherubim,</l>
+            <l>Gott Mittler, Sohn Gottes, wardst Du erwürgt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dulder, Sohn, des Altares Golgatha</l>
+            <l>Geopfert, erwürgt Lamm, der Gefallnen</l>
+            <l>Versöhnung, o Erbarmer, wardst Du da!</l>
+            <l>Heißblutend, todt sahst Du, Heiliger, Dich</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ewig her, vom Beginn an, als noch Strom</l>
+            <l>Und Meer nicht, nicht Thal war und Gebirge,</l>
+            <l>Noch Staub nicht zu des Lichtreichs Herrlichkeit</l>
+            <l>Gott schuf, der Erdkreis kein Grab noch nicht war!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einer der Engel des Weltgerichts ließ jetzt die Posaune</l>
+            <l>Hin mit der Rechte sinken, da säumend ein anderes Chor sang:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»blutend lag's! das Gebein brach Der ihm nicht,</l>
+            <l>Vor den hin das Lamm sank an dem Passa.</l>
+            <l>Mit Ysop, so vom Blut träuft, zeichnet schnell</l>
+            <l>Juda den Eingang der Hütten umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weh Euch, weh! die des Lamms Blut dann nicht schützt,</l>
+            <l>Wenn Nacht nun den Erdkreis in ihr Graun hüllt!</l>
+            <l>Die Nacht kam. Der Verderber schwebt' herab,</l>
+            <l>Stillschweigend, ernst schwebt' er nieder zum Strom.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dumpfer Laut der Gesunknen klagt' umher</l>
+            <l>Und Ausruf der Wehmuth in Aegyptus;</l>
+            <l>Denn todt lag bei dem Thron die Erstgeburt,</l>
+            <l>Todt sah sie, todt sah sie Mutter und Mann</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bis hinab ins Gefängniß; selbst dem Thier</l>
+            <l>Entstürzt schnell der Säugling. Nur in Ramses</l>
+            <l>Erschallt Preis und des Weinens sanfter Dank!</l>
+            <l>Ihr hattet, blutvolle Hütten, geschützt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tönender schon, mit hellerer Saite, lauterem Donner</l>
+            <l>Ihrer Posaunen, strömt' ein Chor in diesen Gesang aus;</l>
+            <l>Cherubim waren's, die flammten und froh ihr Antlitz verklärten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»der Entwurf des ewigen Reichs der Schöpfung</l>
+            <l>Ward, zu Gestalt Urstoff. Heer' ohne Zahl,</l>
+            <l>Bewohner und Welten entflohn</l>
+            <l>Vor Erstaunen, daß sie waren,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Erschaffungsrufe des Sohns. Lautdonnernd</l>
+            <l>Scholl er, gebot Kreislauf. Langsam und schnell</l>
+            <l>Umschwebte den Strahl sein Gefährt',</l>
+            <l>Mit Entzückung, der Bewohner.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Erlösers ewiges Reich war. Tiefsinn,</l>
+            <l>Herrlichkeit strahlt' aus der Schöpfung Entwurf,</l>
+            <l>Glückseligkeit Aller. Es führt</l>
+            <l>Da hinauf auch von dem Elend</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein bethränter Pfad. O, besingt, Graberben,</l>
+            <l>Erben des Lichts, Brüder Dessen, der starb,</l>
+            <l>Den Pfad von den Leiden herauf</l>
+            <l>Zum Gerichtstuhl! Denn Ihr richtet!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Labyrinth war, Erben, der Weg an dunkeln</l>
+            <l>Felsen empor. Grabnacht hüllt' ihn Euch ein.</l>
+            <l>Das Blut der Entsündigung rann;</l>
+            <l>Und Gericht hält, wer erlöst ward!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jeddo's Sprößling vordem, da er war von Sterblichen sterblich,</l>
+            <l>Aber jetzo ein Sohn der Auferstehung, entschwebte</l>
+            <l>Seinem Chor und nahte mit innigfreudiger Demuth</l>
+            <l>Sich dem Verkündeten, hieß die Harf' ihm tönen und feirte</l>
+            <l>Jenen festlichen Tag, da er Zema erblickt' in der Ferne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»trat nicht hinein Josua dort, wo der Vorhang</l>
+            <l>Niedergesenkt das Geheimniß uns verhüllte?</l>
+            <l>Dennoch war er nicht rein, und Satan</l>
+            <l>Rief vor dem Engel es aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Reines Gewand gab ihm der Herr und entlud ihn,</l>
+            <l>Sünde, von Dir! Denn es sollt' einst sein Erkorner</l>
+            <l>Kommen. Zema! so tönt's, es hörten</l>
+            <l>Zema! die Engel umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, Du kamst, Mittler, Du kamst; und der Vorhang</l>
+            <l>Senkt sich nicht mehr, und enthüllt ist das Geheimniß;</l>
+            <l>Denn ins Heilige ging er einmal,</l>
+            <l>Rein durch sich selber, der Sohn,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ladet Euch ein, seliges Volk, in der Rebe</l>
+            <l>Schatten, Euch ein, o Versöhnte, zu dem kühlen</l>
+            <l>Feigenbaume! Des Opferbundes</l>
+            <l>Psalter beseele das Fest!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zema, Du kamst! töne das Lied zu dem Psalter,</l>
+            <l>Zema, Du kamst! so ergieße durch des Festes</l>
+            <l>Lauben sich der Gesang des Bundes;</l>
+            <l>Zema, Du starbst und erstandst!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, wie rauschten die Harfen, wie wehten die Palmen, wie strahlte</l>
+            <l>Jener Seraphim Antlitz, die jetzo den Herrlichen priesen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»da Vollendung Jesus rief, weinten wir laut,</l>
+            <l>Die des Heils Strom tranken, da nahm Gott den Staub</l>
+            <l>Zu dem Licht auch und zum Heil auf. Jesus rief</l>
+            <l>Ihm vom Kreuz himmlisches Heil, ewiges herab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da der Gottmensch: Werde, Welt! rufte, da ward,</l>
+            <l>Wie der Thau träuft, zahllos ihr Heer, welch' er schuf,</l>
+            <l>Daß ihr Heil stets sich erhübe. Allen rief</l>
+            <l>Er vom Kreuz höheres Heil, ewiges herab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Du Heerschaar, weit erscholl, segnend das Wort</l>
+            <l>Der Vollendung! Harfengesang tönt' es nach</l>
+            <l>Mit dem Ausruf der Entzückung! Zahllos wart</l>
+            <l>Ihr, die ihm beugten ihr Knie, seliger durch </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Also hatten sie kaum den Psalm der Wonne vollendet,</l>
+            <l>Als ein schimmerndes Chor Erstandner, von sanfter Begeistrung</l>
+            <l>Ueberströmt, des Triumphes Palmen schwang und mit Wehmuth,</l>
+            <l>Jener himmlischen, welche beseligt, dem Sohne des Herrn sang:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»gott sei und dem Lamm sei, das erwürgt ward, Anbetung!</l>
+            <l>Hoch hinauf zu dem Sion eilt's, zu des Himmels Glanz!</l>
+            <l>O, wie troff Golgatha's Altar von dem Blut!</l>
+            <l>Preis sei des Herrn Sohn, der erwürgt ward!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Preis sei dem Erretter der gefallnen Toderben!</l>
+            <l>Dank und Preis dem erhabnen Sohn! Du entriefst der Nacht</l>
+            <l>Der Gestirn' Heer; ihr entfloß Licht wie ein Strom,</l>
+            <l>Und schnell gewandt trat's in den Kreislauf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott sei und dem Lamm sei, das erwürgt ward, Anbetung!</l>
+            <l>Jubelpreis dem erhabnen Sohn! Du entriefst der Nacht</l>
+            <l>Der Verwerfung, die der Tod traf; o, sie sind</l>
+            <l>Entflohn dem Abgrund des Verderbens!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber ein anderes Chor Erstandener sah mit des Mitleids</l>
+            <l>Frommen, innigem Blick zu der liegenden Erd' herunter.</l>
+            <l>Ach, dort waren in Hütten auch sie und in Gräbern gewesen,</l>
+            <l>Dort erstanden! Sie sangen dem Retter der sterblichen Menschen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»gott sei und dem Sohn sei, der zu Gott geht, Anbetung!</l>
+            <l>Werft die Krone, werft, Engel, auch Ihr</l>
+            <l>In Triumphgange, die Palme,</l>
+            <l>Daß der Herr sie Euch gab, nieder am Thron!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Pilgrim, die erniedert in das Elend herwallen,</l>
+            <l>Großer Trübsal voll, weinet Ihr noch?</l>
+            <l>Und Ihr werft doch, wie die Engel,</l>
+            <l>Euch am Throne dereinst hin in Triumph!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Also und mit dem Dank und mit dem Preis lohnt Jesus'</l>
+            <l>Führung, Dulder, Euch! Diesen Triumph</l>
+            <l>Triumphiret, der das Elend,</l>
+            <l>Bis ans Ende getreu, folgsamer trug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schweig denn, Du o Thräne, die in Wehmuth Trost weinet,</l>
+            <l>Mach ihr Herz nicht weich, tröste nicht mehr!</l>
+            <l>Ist am Ziel denn nicht Vollendung?</l>
+            <l>Nicht im Thale des Tods Wonnegesang?«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als sie es sangen, erblickten sie fern bei der glänzenden Aehre</l>
+            <l>Seelen und Cherubim, welche die Seelen herauf zum Versöhner</l>
+            <l>Führten. Die Cherubim flogen den Flug der Wonne; die Seelen</l>
+            <l>Schwebten mit zitternder Freude daher. Es ist vollendet!</l>
+            <l>Hatte gerufen am Kreuz ihr Versöhner. Frömmere Todte,</l>
+            <l>Die in Gräbern und Flammen vor Kurzem die Sterblichkeit ließen,</l>
+            <l>Seelen aus allen Völkern, aus allen Winden der Erde</l>
+            <l>Waren's. Sie wurden seit der Vollendung, also gebot er,</l>
+            <l>Bis zu der Zeit des Triumphs in den Hainen der Aehre versammelt.</l>
+            <l>Und die bebende Schaar schwebt' immer höher. Sie riefen,</l>
+            <l>Weineten, riefen den Ruf der Erstaunung über die Gottheit,</l>
+            <l>Ach, den ersten! Ein Chor Erstandner empfing mit Jubel</l>
+            <l>Ihre begnadigten Brüder. So sang es ihnen entgegen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, sie kommen herauf! Mühsam wandelten sie</l>
+            <l>In des Tods bangem Nachtpfad. Glückliche, befreit,</l>
+            <l>Entflohn sind sie weit weg vom Elend, und Entzückung</l>
+            <l>Ist ihr Weinen da herauf, Wehmuth himmlischer Ruh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, das Wonnegefühl, Erbe Deß, so Gefährt'</l>
+            <l>In des Tods bangem Pfad war, Dessen, so Gefährt'</l>
+            <l>Auch hier ist, wo Gott lohnt, am Ziel lohnt mit Vollendung!</l>
+            <l>Du, o seliges Gefühl, wer spricht völlig Dich aus?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo ertönte so sanft, ach, wo lispelte sie,</l>
+            <l>Die es je ganz aussprach, die Harfe? wo erklang</l>
+            <l>Sie himmlisch? Krystallstrom, wo hörtest Du es herwehn?</l>
+            <l>Und, o Palme bei dem Strom, Sion's Hörerin, wo?«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber die Seelen ergriff des neuen Lebens Entzückung,</l>
+            <l>Und sie strömten ins Heer des Siegers herein und begannen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ach, zu dem Triumph schweben wir empor,</l>
+            <l>Engel und Ihr, Erben des Lichts, kommen zu des Sohns</l>
+            <l>Himmelsgang! Du, o Tod, Du Flug zu dem Genuß,</l>
+            <l>Gräber und ihr Graun, Wonne seid Ihr, Himmel und sein Heil!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Göttlicher – o, Dich nennet des Gesangs,</l>
+            <l>Dich des Gefühls Wonne nicht aus – Göttlicher, der Welt</l>
+            <l>König, König der Welt, nur schwach und in der Fern'</l>
+            <l>Rufet der Triumph, hallet Dir nach Jubel sein Getön!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, von der Schaar Derer, die Dein Tod,</l>
+            <l>Mittler, versöhnt, Derer, die Du, Herrlicher, erhöhst,</l>
+            <l>Sind auch wir und gesät ins wartende Gefild,</l>
+            <l>Wo in dem Gericht, Herrlicher Du, erntest und verklärst.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Himmlische Jünglinge, Seraphim, die an dem Fuße der Cedern,</l>
+            <l>Gabriel's und Eloa's, wie Blumen blühten, vermochten</l>
+            <l>Ihrer Freude Gefühl bei diesem festlichen Anblick</l>
+            <l>Nun nicht mehr zu halten. Mit Eile rauschten die Saiten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie die Freude, wie die Wonne, wie des Triumphs</l>
+            <l>Inniges, jauchzendes, heiliges Lied</l>
+            <l>Nachhallen? wie den Preis</l>
+            <l>Der Vollendeten am Thron?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn Ihr Alle nun, Ihr Schaaren, zu dem Genuß,</l>
+            <l>Alle zur Herrlichkeit Euch von des Grabs</l>
+            <l>Nachtpfade zu dem Schaun</l>
+            <l>Des Allseligen erhebt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht der Psalter allein und nicht allein die Posaune</l>
+            <l>Töneten in den Chören der Feirenden; Saiten, die leise</l>
+            <l>Quellen waren, erschollen auch und waren gehaltne,</l>
+            <l>Säuselnde Luft und sanfter Laut der Liebenden waren;</l>
+            <l>Hauche halleten auch, die Sturm oft wurden und wurden</l>
+            <l>Donnernder Widerhall und Einklang wandelnder Welten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jesus Christus beherrschte sein Volk von Abraham's Ruf an</l>
+            <l>Bis zu dem Tage, da er in der Hütte Bethlehm's weinte.</l>
+            <l>Und die Wunder des Göttlichen unter dem Volke der Gnade</l>
+            <l>Und des Gerichts besangen die Chöre des frohen Triumphheers.</l>
+            <l>Feuriger schwung sich ihr Psalm. Mit der schnellen Wahl der Entzückung</l>
+            <l>Eilten von Wunder zu Wunder sie fort. Wie ein schimmerndes Chor flog</l>
+            <l>Unter dem Silbergetön der Saiten, so sang's zu dem andern</l>
+            <l>Hellen Chore, das kaum der Begeisterung Jubel zurückhielt.</l>
+            <l>Todesengel erhuben die ernste Stimme, sie sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»meer, Du standst, Gott gebot's! Tagwolke,</l>
+            <l>Nachtwolke schwebt' hinten nach dem Heer</l>
+            <l>Des Gesetzvolks. Gott erschreckt' und traf</l>
+            <l>Pharaon's Roß und Mann von der Wolke!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwiegen, allein noch erscholl die Posaune. Mirjam vernahm sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»vor dem Reihntanz trat ich einher Amrama's</l>
+            <l>Tochter, und pries: Meer ward, Wüther, Euch Grab!</l>
+            <l>In mächtiger Woge versank,</l>
+            <l>In dem Schilfmeer, wie das Blei sinkt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der geharn'schte Reiter, das Roß, Kriegswagen,</l>
+            <l>Pharao selbst! Gott sah zürnend herab</l>
+            <l>Aus Wolken in Flammen, da flohn</l>
+            <l>In des Meers Strom die Geschreckten!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Engel eilten mit weggewendeten Blicken Abiram's,</l>
+            <l>Eilten Kora's Verwerfung vorbei und Dathan's; sie sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o der Angst Stimme, die herrufend vom Abgrunde</l>
+            <l>Dumpf tönte, aus Staubwolken zum Licht auf umsonst klagte</l>
+            <l>Und nunmehr sterbend noch graunvoller schwieg, furchtbarer,</l>
+            <l>Verstummt, schreckte, als hinsinkend die Wehklag' ausrief!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einen Blick nur senkten die Preisenden auf die Trümmern</l>
+            <l>Jericho, einmal rauscht' es nur herab von den Harfen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»posaunrufen der Heerlager, die ernstanbetend</l>
+            <l>Fortzogen, umscholl wehdrohend der Palmstadt Thürme.</l>
+            <l>Der Todstag kam dunkel, und des Herrn Heer zog;</l>
+            <l>Und es sank fürchterlich aufdonnernd Jericho!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Harfen erklangen jetzt, zu den Harfen Stimmen der Engel:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, wie fiel Dir, Juda, Dein Loos! Bethlehmen's</l>
+            <l>Bräunlicher Sohn spielt' hin, leicht wie ein Reh.</l>
+            <l>Da sank ihm der Stab, und er traf</l>
+            <l>Den Gathäer, der ihm Hohn sprach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So erhöht', o Juda, Dein Gott den Jüngling,</l>
+            <l>Gab ihm ums Haupt Gold und goldnen Gesang,</l>
+            <l>Verwerfer des Benjaminit,</l>
+            <l>Daß sein Blut troff am Gilboa.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und es sahe David den Sohn, den Mittler,</l>
+            <l>Ferne; da flog Psalmflug! Jubel erscholl</l>
+            <l>Im höheren Chore, das Lob</l>
+            <l>Des Erschaffers und Erbarmers!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Andere Psalter erklangen und andere Stimmen der Engel:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»er betet, da stürzt hoch herab,</l>
+            <l>Ein Gebot vom Thron her Flammen herab.</l>
+            <l>Das Opfer versank schnell in der Gluth,</l>
+            <l>Und die Wasser am Altar brannten in die Höh'.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieben Cherubim schwebten aus ihrem Chor zu dem Seher,</l>
+            <l>Dem Erhabenheit, dem viel fernes Künftiges Gott gab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»und Du schweigst? der Cherubim sah vor Gott stehn</l>
+            <l>Ernst, unenthüllt, Flügel hüllten uns ein,</l>
+            <l>Der Tempel erbebte vom Psalm</l>
+            <l>Der Erhobnen zu des Herrn Thron.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ich verstummte, da ich Euch sah vor Gott stehn</l>
+            <l>Ernst, unenthüllt, Flügel hüllten Euch ein,</l>
+            <l>Der Tempel erbebte vom Psalm</l>
+            <l>Der Erhobnen zu des Herrn Thron.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Ihr riefet. Heilig ist </l>
+            <l>Heilig ist </l>
+            <l>Anbeten. Es schallet sein Ruhm</l>
+            <l>An des Throns Höh' und im Staube.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzo schweigt er, vertieft in Gedanken vom Weltbeherrscher.</l>
+            <l>Aber nicht lang', und er winkt, daß sie tönen zum Liede, Posaunen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»die hohe Jungfrau Sion verachtet Dich</l>
+            <l>Und spottet Dein, die Tochter Jerusalem</l>
+            <l>Schüttelt ihr Haupt Dir nach!</l>
+            <l>Wen, wen höhntest und lästertest Du?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, wider wen kam, Stolzer, Dein Laut empor?</l>
+            <l>Dein Aug' erhobst Du wider den Heiligen</l>
+            <l>Israel's. Hast Du nicht</l>
+            <l>Gott Jehovah gehöhnt und gesagt:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin gestiegen über die Berg' herauf</l>
+            <l>Mit meiner Wagen Menge, des Libanon</l>
+            <l>Seiten. Des Libanon</l>
+            <l>Cedern haut' ich und Tannen herab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gekommen bin ich bis zu der äußersten</l>
+            <l>Herberge Karmel's, bis in den hohen Wald.</l>
+            <l>Grub ich, und trank ich nicht</l>
+            <l>Eure Wasser? und trocknet' ich nicht</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit meinem Fußtritt Israel's Seen aus?</l>
+            <l>Vernahmst Du niemals, daß ich, was jetzt geschieht,</l>
+            <l>Oftmals vordem auch that?</l>
+            <l>Weit von ferne bereit' ich es zu,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann heiß' ich's kommen! Städte, von Mauren hoch</l>
+            <l>Und Hügeln, fallen öde zur Trümmer hin.</l>
+            <l>Scham und des Todes Graun</l>
+            <l>Senkt zur Erde der Streitenden Arm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Gras des Feldes werden sie, dorren hin</l>
+            <l>Wie Kraut auf Dächern, Heu vor der Reif', und welk.</l>
+            <l>Weiß ich es, Stolzer, nicht,</l>
+            <l>Wo Du ziehest und ziehest und wohnst?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und kenn' ich wider mich dies Dein Toben nicht?</l>
+            <l>Weil wider mich Du also denn tobst, Dein Stolz,</l>
+            <l>Weil er zu mir herauf</l>
+            <l>Stieg, und ich es im Himmel vernahm,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So leg' ich einen Ring an die Nase Dir,</l>
+            <l>Leg' ich Gebisse, Tobender, Dir ins Maul,</l>
+            <l>Daß Du denselben Weg</l>
+            <l>Wiederkehrest, auf welchem Du kamst!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Feurig sang er's. Von Neuem begannen die sieben Begleiter:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, entfleuch denn, Sanherib, eil' zu Nisroch's</l>
+            <l>Opfer! Noch scholl Sion's Hügel herab</l>
+            <l>Das Drohn des Prophetengesangs,</l>
+            <l>Da erhub schon die Vollendung</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum Gericht den donnernden Fuß. Der Tag stieg</l>
+            <l>Röthlich herauf, stumm lag, leichnamevoll</l>
+            <l>Das Feld der Assyrer. Entflohn</l>
+            <l>War ihr König mit Entsetzen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber der Seher der Herrlichkeit Gottes am Chebar entschwung sich</l>
+            <l>Nebst zwölf Jünglingen, Engeln und Menschen, des feirenden Heerzugs</l>
+            <l>Lichten Chören. Ihr Flug schon erklang, da die Saiten noch schwiegen.</l>
+            <l>Und sie schwebten den göttlichen Sohn anbetend vorüber.</l>
+            <l>Furchtbar schön war ihr strahlender Schwung und der Himmlischen Anschaun</l>
+            <l>Und die Flamm' in dem Blick. Sie begannen dem Herrscher in Juda:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»rächer, wie oft hast Du gerächt Dein erkornes</l>
+            <l>Leidendes Volk! wie zerschmettert die Zerstörer!</l>
+            <l>Hast sie bluten gemacht! Die Blutgier</l>
+            <l>Lechzten, entrannen Dir nie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glich nicht des Nil's schreckendes Thier dem Assyrer?</l>
+            <l>Libanon's Pracht, wie sie aufsteigt zu beschatten,</l>
+            <l>Hatte dieser. Er stand von Laube</l>
+            <l>Dick, und sein Wipfel empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wasser um ihn machten ihn groß, und an Strudeln</l>
+            <l>Hub er den Wuchs. Um den Stamm her des Erhobnen</l>
+            <l>Rauschten Ströme, den andern Bäumen</l>
+            <l>Sendet' er Bäch' ins Gefild.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darum erhub höher er sich wie die andern</l>
+            <l>Bäum' im Gefild, und es ward ihm zu der Aeste</l>
+            <l>Vollem Sproß und der Zweige Wassers,</l>
+            <l>Sie zu verbreiten, genug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nisteten nicht Vögel auf ihm, und das Staubthier,</l>
+            <l>Lag's nicht um ihn wie unzählbar? In des hohen</l>
+            <l>Quellentrunkenen Baums Beschattung</l>
+            <l>Wohneten Völker umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ceder des Herrn, warst Du wie er? und, o Tanne,</l>
+            <l>Du wie sein Ast? und Du, Ahorn, wie sein langer</l>
+            <l>Schöner Zweig? Vor der Schaar der Bäume</l>
+            <l>Prangt' er im Haine des Herrn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hatt' ihn nicht Gott also geschmückt und mit dichten</l>
+            <l>Aesten erhöht, daß die Bäum' ihn in dem Garten</l>
+            <l>Gottes neideten? Weil sein Wipfel</l>
+            <l>Also gen Himmel erwuchs,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hub sich sein Herz schwellend empor, daß so hoch er</l>
+            <l>Stünde. Du gabst ihn dem stärksten der Tyrannen,</l>
+            <l>Rächer nun, in die Hand, daß er's ihm,</l>
+            <l>Wie er verdiente, vergalt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fremder Gewalt rottet' ihn aus und zerstreut' ihn.</l>
+            <l>Auf dem Gebirg, in den Thalen, an den Bächen</l>
+            <l>Lagen niedergestürzt, zerschmettert</l>
+            <l>Aest' ihm und Zweig' ihm umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schatten war er Völkern nicht mehr, und zu Schaaren</l>
+            <l>Zogen sie fort. Auf dem Stamme des Gesunknen</l>
+            <l>Wohnten jetzo der Luft, auf seinen</l>
+            <l>Aesten die Heere der Flur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Niedergeschreckt, hebet kein Baum an den Wassern</l>
+            <l>So sich mit Stolz, und es ragt so bei den Strömen</l>
+            <l>Keines Wipfel nicht mehr aus dichten</l>
+            <l>Zweigen der Kühlung empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn in das Grab müssen auch sie, zu der Todten</l>
+            <l>Grüften, vor die sich der Erdkreis in den Staub wirft.</l>
+            <l>Als der Assur die Tief' hinabkam,</l>
+            <l>Klagte sie weit um ihn her,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hüllte sich ein Strudel und Strom, und die Wasser</l>
+            <l>Flossen nicht fort, und verdunkelt, wie in Trauer,</l>
+            <l>Stand ihr Libanon, auch des Thales</l>
+            <l>Bäume verdorrten um ihn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als mit Getös nieder er stürzt', in die Hölle</l>
+            <l>Nieder mit Sturm, da entsetzen sich die Völker.</l>
+            <l>Du, edenischer Hain im Abgrund,</l>
+            <l>Du, o sein Libanonwald</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort in der Nacht, tröstetet ihn! Ja, die Herrscher</l>
+            <l>Alle, sein Arm, die mit Schatten er bedeckte,</l>
+            <l>Waren nieder mit ihm gesunken</l>
+            <l>Zu der Getödteten Scharr!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sie schwiegen. So säumt mit kurzem Weilen der Erde</l>
+            <l>Furchtbares Beben, nun bald gen Himmel wieder zu senden</l>
+            <l>Staub aus Trümmern und Sterbender Jammergeschrei. Sie begannen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie den Assur, stürzetest Du Aegyptus'</l>
+            <l>König, o Sohn! Meerdrach, sprang er im Strom;</l>
+            <l>Es trübte die Wasser sein Fuß,</l>
+            <l>Und der Schlamm wölkt' in der Fluth sich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da er ausrief: Mein ist der Strom, ich habe</l>
+            <l>Mir ihn gemacht! warf Gott über ihn aus</l>
+            <l>Sein Netz, und es jagte sein Heer</l>
+            <l>In sein Garn auf den Empörer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie die Fisch' ihm schwer und in Drang die Schuppen</l>
+            <l>Hingen herab, zog ihn Gott aus dem Strom</l>
+            <l>Und warf ins Gefild ihn und rief</l>
+            <l>Zu dem Aase, was in Höhn fleugt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was im Staube kriechet und raubt. Das Aas lag</l>
+            <l>An dem Gebirg weit hinunter ins Thal</l>
+            <l>Und füllte das Thal; und es stieg</l>
+            <l>Zum Gestad' auf, wo er sonst schwamm,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Verworfnen Blut; ja, hinan die Berge</l>
+            <l>Drang's, und des Stroms Bäche wurden umher</l>
+            <l>Von Blute getrübt: denn hinab</l>
+            <l>In die Gruft ward er gestoßen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Tief' empfingen ihn Die, so einst auch,</l>
+            <l>Helden wie er, würgten. Alle sie sind</l>
+            <l>Hinuntergestürzt vor dem Schwert,</l>
+            <l>Und sie ruhn jetzt bei Erschlagnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo sie ruhn, liegt Assur, umher begraben</l>
+            <l>Alle sein Volk. Schwert, Du warfst sie hinab!</l>
+            <l>Tief ist in den Klüften ihr Grab,</l>
+            <l>Die den Erdkreis einst erschreckten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo sie ruhn, liegt Elam, bei ihm begraben</l>
+            <l>Alle sein Heer. Schwert, Du warfst sie hinab,</l>
+            <l>Hinab in die Gräber voll Schmach,</l>
+            <l>Die den Erdkreis einst erschreckten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Gefild liegt Mesech. Es liegt dort Thubal,</l>
+            <l>Er und sein Heer, schmachvoll, waffenberaubt,</l>
+            <l>Nicht unter dem Haupte das Schwert.</l>
+            <l>Das Gefild ist vom Gebein weiß</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Verworfnen, welche die Erd' einst schreckten.</l>
+            <l>Pharo, auf Dir stand des Siegenden Fuß!</l>
+            <l>Nun schlummerst Du mitten im Heer</l>
+            <l>Der Erschlagnen, die das Schwert traf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Beherrscher Edom's, der Krieger Führer,</l>
+            <l>Liegen umher tief in Nächten der Gruft.</l>
+            <l>Sie taumelten hin vor dem Schwert</l>
+            <l>Zu der Heerschaar der Erschlagnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit hinunter sanken die Völker Sidon's.</l>
+            <l>Röthere Scham deckt der Fürsten Gesicht,</l>
+            <l>Daß kühn die ereilende Schlacht</l>
+            <l>Sie hinabwarf in die Tiefe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Erschlagnen all' um sich her versammelt</l>
+            <l>Sah in des Abgrunds Nacht Pharao; ihn</l>
+            <l>Erblickte sein Volk, und es war</l>
+            <l>Ihm Erquickung dies Entsetzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn hinab hast Pharao Du zur Hölle,</l>
+            <l>Ihn und sein Heer, Gott Verderber, gestürzt!</l>
+            <l>Geschrecket, geschrecket auch Du,</l>
+            <l>O der Welt Richter, den Erdkreis!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sichtbar nur der Unsterblichen Aug', in des Himmels Abgrund,</l>
+            <l>Lag auf der wandelnden Erde Jerusalem. Todesengel</l>
+            <l>Schauten hinunter und wandten von ihr zu dem Thale Gehenna</l>
+            <l>Ihre Blicke. So sangen mit ernstem Trauren des Todes</l>
+            <l>Engel, indem, wie aus Fernen der Donner, ihrer Posaunen</l>
+            <l>Ausruf scholl, dumpf scholl wie das Meer an Felsengestade.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»geh unter, geh unter, Stadt Gottes!</l>
+            <l>In Kriegsschrein, in Rauchdampf und Gluthstrom</l>
+            <l>Versink, ach, die des Herrn Arm von sich wegstieß!</l>
+            <l>Sei Trümmer, Stadt Gottes!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Todsworte sprach Jesus; Rom thut sie.</l>
+            <l>Zum Aas eilt mit Gierblick der Adler;</l>
+            <l>Den Feldherrn, die ihr Gott ruft, zu verderben,</l>
+            <l>Flammt's ernst vom Rachauge.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Pflugtreiber streun schreckend Salzsaaten.</l>
+            <l>Dir zog Gott die Meßschnur, o Schauthal!</l>
+            <l>Er, er bot zum Triumph auf. Die Drommet' hallt</l>
+            <l>Siegswuth, wo Gott ausmaß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blutfordernd riefst, Juda, den Fluch Du</l>
+            <l>Vom Thron her; Dein Mund schrie: Des Sohns Blut!</l>
+            <l>Die That schrie's noch mit mehr Grimm. Dich erhört Rom's</l>
+            <l>Heerführer. Geh unter!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie der freudige Fromme, der jetzt die Gräber nicht denket</l>
+            <l>Oder, denket er sie, mit dem Troste der Auferstehung</l>
+            <l>Ihre Nächte durchstrahlt, wie der, wenn der Morgen im Frühling</l>
+            <l>Ihm erwacht, mit Wonn' in dem Aug' in die schönen Gefilde</l>
+            <l>Weit umherblickt, laut sein Gebet dem Schöpfer des Frühlings</l>
+            <l>Hinströmt: also schauten umher und ertönten vom Jubel</l>
+            <l>Chöre Seraphim, da in der Straße des Lichts des Triumphes</l>
+            <l>Heerschaar schwebt', und mit strahlenden Meeren der hellere Himmel</l>
+            <l>Sie umgab, und die Stern' in Gedräng zu Tausenden wallten.</l>
+            <l>Dieser Jubel der Seraphim scholl umher in den Sternen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ertönet sein Lob, Erden, tönt's, Sonnen! Gestirn',</l>
+            <l>Ihr Gestirn' hier in der Straße des Lichts, hallt's feirend,</l>
+            <l>Des Erlösenden Lob, siehe, des Herrlichen,</l>
+            <l>Unerreichten von dem Danklied der Natur!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lobsing, o Natur, dennoch Dem, welcher Dich schuf!</l>
+            <l>Dein Gesang ström' in den Himmeln einher! Hochpreisend,</l>
+            <l>Von erbebender Höh', rufe des Strahls Gefährt'</l>
+            <l>In Kidrona und dem Palmthal ihn herab!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Wasser der Mond', Erdemeer, rauschet darein!</l>
+            <l>Wie das sanftlispelnde Harfengetön zum Chorpsalm</l>
+            <l>Der Posaunen empor Lüfte der Palme wehn,</l>
+            <l>So erhebt Euch zu der Sternheere Gesang!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie wandelt Ihr her, welche Gott zahllos erschuf!</l>
+            <l>O Du Heerzug der Gestirne, wie strahlt, wie laut ruft</l>
+            <l>Des Erlösenden Preis Ihr zu der Höh' hinauf,</l>
+            <l>Zu der Glanzschaar um den Thron Gottes empor!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist es, o Sohn, dem der Welt Jubel ertönt,</l>
+            <l>Du ein Quell aller Beseligung, Herr, Heilgeber,</l>
+            <l>Unerschöpflicher Quell dessen, was glücklich macht!</l>
+            <l>Ist ein Weg wo? ist ein Flug auch zu dem Licht,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum Heile, den er uns nicht führt? Alle nicht führt?</l>
+            <l>Labyrinth alle des großen, des unnennbaren,</l>
+            <l>Des belohnenden Heils! Selige führt durch Dich,</l>
+            <l>Von Aeon er zu Aeon fort, Labyrinth!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzo schwieg der Gesang; doch tönete fort der gehauchte</l>
+            <l>Hall und die Saite. So tönet der Hain, wenn weit in der Ferne</l>
+            <l>Ströme durch Felsen stürzen, und nah von den Bächen es rieselt,</l>
+            <l>Wenn es vom Winde rauscht in den tausendblättrigen Ulmen,</l>
+            <l>Und der tanzbeginnenden Braut der Quell Melodie scheint.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da stets weiter empor in der Straße des Lichts der Triumph stieg,</l>
+            <l>Ward nicht ferne von ihnen ein Stern, der Sonnenbegleiter</l>
+            <l>Einer, verwandelt. Erschütterung ging von Wende zu Wende</l>
+            <l>Durch die Mitte des Sterns. Er zerspaltet' in Lande. Gebirge</l>
+            <l>Krachten, flammten, und brausender dampften Meere gen Himmel.</l>
+            <l>Fürchterlich war's selbst Engeln zu sehn, wie in Irr' Urkräfte</l>
+            <l>Wankten, es bildeten, Saat aufschwoll der neuen Erschaffung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber aus eines Sirius näheren Strahlen erhoben</l>
+            <l>Auferstandne Gerechte der Wonne Stimme zum Mittler:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»liebe des Sohns, himmlisches Heil, dem Verstande</l>
+            <l>Göttliches Licht, vom Altar Gluth dem Gefühle!</l>
+            <l>Tag, der erwacht, in das Meer nicht unterzugehn,</l>
+            <l>Der Erlösten ewiger Tag, Liebe des Sohns!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flügel hinauf, Flügel zum Thron, o Triumph, nahmst</l>
+            <l>Du, und auch uns, den Gewählten des Erhobnen,</l>
+            <l>Wehest Du vor mit der Palme, Christus' Triumph,</l>
+            <l>Zu dem Thron des Vaters empor, Christus' Triumph!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Engel, der dort strahlend einher durch die Himmel</l>
+            <l>Schwebet, wer ist's, dem das Sternheer in der Laufbahn</l>
+            <l>Steht, dem es laut auf den Pfaden Gottes ertönt,</l>
+            <l>Dem die Tiefe sinket, wer ist's, Engel des Throns?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er, der am Kreuz dürstet' und starb, der uns liebte</l>
+            <l>Bis in den Tod, o, der Schmach Tod, des Altares</l>
+            <l>Golgatha Tod, und verlassen rufte von Gott</l>
+            <l>In der Nacht, Der ist es, ja, Der, Engel des Throns!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Strömet sie her, Ströme des Lichts, und, o Lüfte,</l>
+            <l>Säuselt Ihr sanft dem Triumphheer sie herüber,</l>
+            <l>Welche sich dort noch unhörbar tief in der Fern'</l>
+            <l>Uns enthüllen, kommen, des Sohns Antlitz zu sehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Engel, der Tag seines Triumphs, die Erhebung</l>
+            <l>Christus' zum Thron, sie erscholl weit in die Welten</l>
+            <l>Alle. Wer wohnt in des Lebens Hütten, wem Gott</l>
+            <l>Es vergönnt, Der eilet, des Sohns Antlitz zu sehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herrscher ist er, Herrscher der Sohn. Ach, es fleht ihm</l>
+            <l>Aller Gebet. In den Weltkreis, in die Tiefe,</l>
+            <l>Fern in die Höh', bis zur letzten, sendet hinauf</l>
+            <l>Die Erhörung er, der allein Seligkeit hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freuden Euch! Licht strömet' Euch her, und Gelüfte</l>
+            <l>Säuselte sanft dem Triumphheer Euch herüber</l>
+            <l>Weit aus der Fern', Ihr Bewohner jenes Gestirns,</l>
+            <l>Das auf Erden über des Blicks Grenze sich hob.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herrscher ist er, Herrscher der Sohn. Ach, es fleht' ihm</l>
+            <l>Euer Gebet. In die Tiefen, in die Höhen</l>
+            <l>Sendet der Sohn, bis zur letzten sandte der Sohn</l>
+            <l>Die Erhörung, er, der allein Seligkeit hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Entzückungen, ach! Seht, dort strahlet der Sohn</l>
+            <l>In dem Chor hoher Thronen, herrlich in dem Chor</l>
+            <l>Des Grabvolks, die Blut ihm versöhnt hat, die erwachten</l>
+            <l>Vor dem Tage des Gerichts, umgeschaffen durch ihn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Du Erster des Seins, welchen himmlischen Weg</l>
+            <l>Hat geführt Deinen Sohn des Todes Labyrinth!</l>
+            <l>Vom Grabmal beginnt, steigt der Siegsgang; aus der Nacht her,</l>
+            <l>Die den Sterbenden umgab, kommt des Ewigen Sohn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Schöpfungen Meer, wo der Woge Gebirg</l>
+            <l>Zum Gestad' hinwallt, wohnet, Herrlicher, Dein Volk,</l>
+            <l>Dem Heil auch von Dir wird, Messias, ob es Blut gleich,</l>
+            <l>Unentheiligt von der Schuld, nicht zur Söhnung bedarf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber es ist unsere Schuld vor der Zeugen</l>
+            <l>Auge vertilgt, und verstummt ist nun der Sünde</l>
+            <l>Stimm' an dem Thron, in der Engel Hallen, dem Ohr</l>
+            <l>Des Gerichts der Klägerin Ruf ewig verstummt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fürchterlich laut rief sie hinauf, und es war doch</l>
+            <l>Leise das Ohr des Gerichts; aber: Vollendet</l>
+            <l>Ist es! erscholl vom Altare Psalmmelodie,</l>
+            <l>Und die Sünde hörte des Sohns Donner und schwieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An des Ewigen Thron, Christen, preisen auch wir!</l>
+            <l>Wo es Euch, Erben, schattet, schattet es auch uns!</l>
+            <l>Wo Euch quillt des Heils Quell, das Labsal der Gerechten,</l>
+            <l>Da versammeln wir auch uns, quillt uns Leben auch zu!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bebtet Ihr je, Söhne der Fern', der Verwerfung</l>
+            <l>Schrecken? O, troff in der Wehmuth, im Entsetzen</l>
+            <l>Vor dem Gericht, im Entfliehn vom Horeb Euch je</l>
+            <l>Die entflammte Thräne den Blick blutig herab?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An dem schwindelnden Hang, den Verderben umringt,</l>
+            <l>An des Abgrunds Nacht staunten, schauerten wir nicht,</l>
+            <l>Wo Wagschal' ertönt, nicht wo Zornkelch sich ergießet,</l>
+            <l>Und Geretteter Gefühl ward uns, Glückliche, nie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welche Stimmen ergossen sich aus den begeisterten Chören!</l>
+            <l>Waget' ich sie zu vergleichen, so nennt' ich sie Stimmen der Liebe,</l>
+            <l>Nennte sie Sterbender, die nun offen den Himmel schon sehen,</l>
+            <l>Oder Auferstehender, die dem Grab itzt enteilen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Christus' Triumph erreichte den Stern der unschuldigen Menschen</l>
+            <l>Und der unsterblichen. Ueber den hohen Gefilden des Sternes</l>
+            <l>Schwebt' er einher. Die Unsterblichen sahn den strahlenden Heerzug,</l>
+            <l>Sahn den Versöhner und, ach, die Auferstandnen vom Tode.</l>
+            <l>Haufen schauten; allein bald wurden die Haufen zu Schaaren,</l>
+            <l>Bald die Schaaren zu Heeren. Das Haupt gen Himmel erhoben,</l>
+            <l>Standen sie, unter ihnen der Erstgeschaffne. »Vollender!«</l>
+            <l>Rief er und sank auf sein Knie, um ihn die Unsterblichen alle.</l>
+            <l>Haine riefen Hainen, und Bergen Berge: »Vollender!«</l>
+            <l>Unter sie hin war Toa getreten. Der Richtende hatt' ihn</l>
+            <l>Wieder hinauf in das Leben geführt. Der Frohste der Frohen</l>
+            <l>War er, war ganz Dank, war ganz mit Empfindungen seiner</l>
+            <l>Neuen Unsterblichkeit überströmt. In dieser Entzückung</l>
+            <l>Rief er laut mit den Heeren der heiligen Menschen: »Vollender!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt, da in seinem Triumphe der Sohn des Ewigen Psalme</l>
+            <l>Seiner Erhöhung vernahm und mit Wonne der Preisenden Freude</l>
+            <l>Ueberschwänglich belohnt', entstieg der Gräber Gefilden</l>
+            <l>Zweener Sterblichen Lied. Sie hatten Erstandne gesehen,</l>
+            <l>Hatten gelernt. Es wurd' ihr Lied von dem Ausgesöhnten</l>
+            <l>Und dem Versöhner gehört. Indem der Schatten des Baumes,</l>
+            <l>Ihnen Hütte jetzt, und Kühlung sanfterer Lüfte</l>
+            <l>Weht', und der Bach mitscholl, erhob sie die Stimme der Andacht,</l>
+            <l>Sie, die liebte den Herrn und ihres Lebens Gefährten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»schwinge Dich empor, Seele, die der Sohn zu des Lichts</l>
+            <l>Erbe sich erschuf, Selige, die versöhnt Jesus hat!</l>
+            <l>Sing ins Chor der Vollendeten am Thron!</l>
+            <l>Stammelten sie nicht auch Laute, wie Du, bebenden Gesang?«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als der Schatten des Baums und Kühlung sanfterer Lüfte</l>
+            <l>Weht', und der Bach mitscholl, erhob er die Stimme der Andacht,</l>
+            <l>Er, der liebte den Herrn und seines Lebens Gefährtin:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»selbständiger, Hochheiliger, Allseliger, tief wirft, Gott,</l>
+            <l>Von dem Thron fern, wo erhöht Du der Gestirn' Heer schufst,</l>
+            <l>Sich ein Staub dankend hin und erstaunt über sein Heil,</l>
+            <l>Daß ihn Gott hört in des Gebeinthals Nacht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch feirende, lautpreisende Psalmchöre des Sternheers bebt</l>
+            <l>Mein Gebet auf zu dem Thron Deß, der im Lichtreich herrscht,</l>
+            <l>Vom Beginn selig macht, Labyrinthweg' uns empor</l>
+            <l>Zu dem Thron führt, wo unerforscht </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hochheiliger, Allseliger, Unendlicher, Herr, Herr, Gott,</l>
+            <l>O, erhör Du mein entzückt Flehn von dem Grabthal her!</l>
+            <l>Von der Nacht stammelt's auf zu des Chors Halleluja;</l>
+            <l>O, erhör's, Gott, und mein verstummt Flehn auch!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott, mache den Toderbenden glückseliger! Gott, trockn' ihm</l>
+            <l>Die Betrübniß von der Wang' ab! doch ist Elendslast</l>
+            <l>In der Nacht hier sein Theil, so begnad ihn mit Geduld</l>
+            <l>Und, o, leit ihn, daß er am Thron anschau'!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Also sang er und schwieg; bald aber erhub sich von Neuem</l>
+            <l>Seine Seele, brannte von Neuem vor inniger Andacht.</l>
+            <l>Siehe, des künftigen Christen Gesang entschwebte der Erde</l>
+            <l>Kaum, allein ihn vernahm der Hörer der ewigen Chöre.</l>
+            <l>Also rauschet ein Blatt, wenn die Widerhalle der Felskluft</l>
+            <l>Donner rufen, Donner der Waldstrom nieder ins Thal stürzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»erwach, Harfengetön, und erhebe Dich</l>
+            <l>Dem Psalm nach zum Throne!</l>
+            <l>Dein Flug sei des Unendlichen Lob,</l>
+            <l>Des Herrn Preis Dein Festlied!</l>
+            <l>O, ihm, dem mit Entzückung</l>
+            <l>Harmonie des Gestirnheers emporsteigt,</l>
+            <l>Und Erzengel entflammendes Lob</l>
+            <l>In dem Anschaun ertönen,</l>
+            <l>O, lispl' auch, mein Gesang, sein Lob Dem!</l>
+            <l>Von dem Grab auch vernehme</l>
+            <l>Sein Lob Gott! Wie beginn' ich's? wie vollend' ich's?</l>
+            <l>O Vorschmack des Himmels,</l>
+            <l>Des Herrn Preis, wer singt Dich und erliegt nicht?</l>
+            <l>Was ihn sonst hob, versinkt jetzt,</l>
+            <l>Sein beseelteres Bild, wie der Schimmer</l>
+            <l>Von dem Aufgang Gemäld' ihm</l>
+            <l>Voll Goldglanz, wird ihm Dämmrung.</l>
+            <l>Wie ich kann, mit der Nacht Schein im Bilde,</l>
+            <l>Mit Nachhall und Laut nur,</l>
+            <l>Wenn der Chorpsalm zu dem Thron auf sich donnernd</l>
+            <l>Erhebt, sing' ich dem Herrn.</l>
+            <l>Wer gleicht Dir? wer, o Gott, ist, wie Du bist?</l>
+            <l>Des Seins tiefen Entwurf entwarfst Du,</l>
+            <l>Eh Gefühl war, Gedanken</l>
+            <l>Und Zweck war in der Endlichen Heer!</l>
+            <l>O der Aussaat, die, Gott, Du</l>
+            <l>Gesät hast und Aeon auf Aeon,</l>
+            <l>Daß sie reift', aufgehäufet.</l>
+            <l>O Rathschluß: Die Aeonen,</l>
+            <l>Wenn sie all' einst vorbei sind, wird Ernte</l>
+            <l>Ohn' Aufhören am Thron sein!</l>
+            <l>Die Erschaffung zu des Sohns Heil hast dann Du</l>
+            <l>Vollendet! O, dann führt das Glück uns</l>
+            <l>Und das Elend ins Lichtreich!</l>
+            <l>Was einst uns, dem Beglückten und dem Dulder,</l>
+            <l>Labyrinthweg und Nacht war,</l>
+            <l>Das führt uns zu dem ewigen Heil hin!</l>
+            <l>Indeß welkt auf Erden</l>
+            <l>Der unsterbliche Mensch weg</l>
+            <l>Und empfindet Herannahn des Todes,</l>
+            <l>Herannahn der Verwesung,</l>
+            <l>Und verweint, in Wehklag' ergossen,</l>
+            <l>Den Beginn des Daseins</l>
+            <l>Und weiß doch, daß es Gott einst mit Wonne</l>
+            <l>Vollbringt, er, der ihn auch zu dem Heil schuf!</l>
+            <l>Ja, so, Gott, vollbringst Du's!</l>
+            <l>Ach, trüb' ist und Nacht ist der Gedanke,</l>
+            <l>Daß ins Loblied der Himmel</l>
+            <l>Der Angst Stimme sich mischt,</l>
+            <l>Und mit Thränen sich die Wehmuth von Gräbern</l>
+            <l>Emporhebt ins Getön, wo Entzückung</l>
+            <l>Der Chorpsalm zum Thron ruft</l>
+            <l>Und sanft Lispeln den Harfen entlockt,</l>
+            <l>Wenn in Dank weint die Wonne!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Cherubim und Erstandene tönten vom Untergange</l>
+            <l>Babylon's. Also sang der Erstandenen Chor dem Vollender:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ernst ist er, des Gerichts dunkler Tag.</l>
+            <l>Todesgang und des Sturms Flug eilt des Herrn</l>
+            <l>Gerichtstag. Prophezeiung gegen sie,</l>
+            <l>Bewölkt einst, Prophezeiung, wie erfüllt Gott Dich!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, sie stürzt! Es vernahm Erd' und Meer</l>
+            <l>Babel's Fall, der Erfüllung Donnerschlag.</l>
+            <l>Nun thut's Gott von dem Throne. Jetzo droht</l>
+            <l>Am Meerstrand die Verkündung des Posaunrufs nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Babel stürzt. O, begann Gottes Tag,</l>
+            <l>Jener schon, der Entscheidung großer Tag?</l>
+            <l>Wie liegt, weh', sie zerstört da, weh' ihr, weh',</l>
+            <l>Welch Graun jetzt, die so stolz war, in dem Abgrund da!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Cherubim und Erstandene tönten vom Untergange</l>
+            <l>Babylon's. Also sang der Cherubim Chor dem Vollender:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»sie versinkt, sie versinkt, Babel! Der Täuscherin</l>
+            <l>Gefüllt ist mit Gifttrunk, schnelltödtend schäumt</l>
+            <l>Ihr Kelch auf. O, es füllt Dir, Babel, dafür,</l>
+            <l>Des Gerichts Kelch vollmessend, der wiedervergilt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Gestürzte, wie lang' schäumte Dein Taumelkelch</l>
+            <l>Dem Erdkreis Verführung, Wahn, Wuth und Tod!</l>
+            <l>Erwacht ist des Vergelters Rache, Dich hat</l>
+            <l>Von des Zorns Kelch Gott trunken zum Tode gemacht!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, die seligen Tage der ersten Auferstehung</l>
+            <l>Waren's, die Ihr, schon jetzt vollendete Märtyrer, feirtet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»die Gott rächt, in Gestirnglanz, Glückselige,</l>
+            <l>In des Heils Kleid, ausduldende Märtyrer,</l>
+            <l>Zu dem Erb' in dem Lichtreich kommt freudig Ihr,</l>
+            <l>Die Gott rächt, von dem Nachtthal her!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Herrschaft des Vollenders, Mitblutende,</l>
+            <l>Die Gewalt Deß, den Kreuziger tödteten,</l>
+            <l>O, empfangt die Belohnung, Heilerbende!</l>
+            <l>Erstaunt, bang und vor Angst stumm hört's</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Erdkreis. Die verkannt einst schnell bluteten,</l>
+            <l>Wenn sie Satan Räuchwerke nicht zündeten,</l>
+            <l>Sie beherrschen die Welt jetzt, sind Könige!</l>
+            <l>Vom Thron schmückt mit Gewalt Gott Euch!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unbemerkter, nicht eine der Königinnen des Weltmeers,</l>
+            <l>Ruhete zwischen Wogengebirgen die einsame Patmos.</l>
+            <l>Aber es sollte dereinst wie Posaunen an ihrem Gestade</l>
+            <l>Dem erschallen, den sich der Offenbarer zum Seher</l>
+            <l>Auserkor, und in ihrer Haine Schatten der Gottmensch</l>
+            <l>Ihm erscheinen, umringt von sieben Leuchtern, gekleidet</l>
+            <l>In ein lichtes Gewand, mit Golde begürtet, das Haupthaar</l>
+            <l>Weiß wie Schnee, und Flamme sein Blick, wie die Sonne sein Antlitz.</l>
+            <l>Glühend Erzt war sein Fuß, von dem Munde ging ihm ein scharfes</l>
+            <l>Schneidendes Schwert, und er hielt in der Rechte sieben Sterne:</l>
+            <l>Eine Strahlengestalt, vor welcher wie todt der Seher</l>
+            <l>Hinsank. Richter der Welt war Der, vor welchem er hinsank.</l>
+            <l>Aber damals richtet' er noch sein großes Gericht nicht,</l>
+            <l>Sprach nur über sieben Gemeinen ihr erstes Urtheil;</l>
+            <l>Mit dem Ernste des Richterspruchs ertönte noch Gnade!</l>
+            <l>Und es hatten von diesem Gericht die ersten der Engel</l>
+            <l>Und die Väter, sie hatten von dieser Gnade, wie fern her,</l>
+            <l>Himmlische Stimmen vernommen. Sie sangen dem schonenden Richter,</l>
+            <l>Daß ihm in den Gemeinen, wie Thau aus der Morgenröthe,</l>
+            <l>Seine Kinder würden zum ewigen Leben geboren</l>
+            <l>Durch die neue Geburt, und daß er ihrer wie Mütter</l>
+            <l>Sich erbarmt', auch da, wo selbst die Herzen der Mütter</l>
+            <l>Fühllos würden, auch da sich Jesus Christus erbarmte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ephesus, ach, Ephesus, komm zu der ersten</l>
+            <l>Liebe zurück! O, wie tief sankst Du, Gemeine!</l>
+            <l>Kehre wieder, es stürzt Dein Leuchter</l>
+            <l>Sonst Dir dahin und verlischt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Preis Dir, Du giebst ewigen Lohn, wer sich wieder,</l>
+            <l>Mittler, erhebt! am Krystallstrom, der vom Throne</l>
+            <l>Fließet, schatten des Lebens Bäume,</l>
+            <l>Tragen dem Siegenden Frucht!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein höheres Chor begann, von Wonne begeistert,</l>
+            <l>Durch die goldenen Harfen herab zu rauschen; sie sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o der Aussaat, welche Du, ewiger Sohn,</l>
+            <l>Dir in Smyrna sätest! O, sie halten aus</l>
+            <l>Im Gefängniß und geschmäht, sie dulden's gern,</l>
+            <l>Sind getreu bis an den Tod, Kronen zu empfahn!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wehmuthsstimmen erschollen. So sangen Chöre der Menschen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»pergamon, Du hieltest an </l>
+            <l>Jenes Triumphs, da Antipas in sein Blut sank!</l>
+            <l>Zeugend sank er. O, ruft Antipas'</l>
+            <l>Namen, Unsterbliche, laut!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber Du hast, Pergamon, auch, die, wie Balak,</l>
+            <l>Aergern. Es labt, wer gesiegt hat, das verborgne</l>
+            <l>Manna, Diesen allein; nur er hört</l>
+            <l>Zeugen die Himmel von sich.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wehmuthsstimmen erschollen. So sangen Chöre der Engel:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»siehe, Du glaubst, duldest und liebst, Thyatira!</l>
+            <l>Aber Du hast, Thyatira, die Prophetin,</l>
+            <l>Hast die Täuscherin auch! Dein Richter</l>
+            <l>Forschet hinab in das Herz!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welchen er rein sahe, der Sohn, Den erhebt er,</l>
+            <l>Setzet ihn hoch, daß den Weltkreis er beherrsche,</l>
+            <l>Giebt den eisernen Stab der Macht, giebt</l>
+            <l>Strahlen der Stern' ihm ums Haupt.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stille ward in der Schaar des Triumphes, und keins der Chöre</l>
+            <l>Sang, und alle Harfen und alle Posaunen verstummten,</l>
+            <l>Bis zu dem Göttlichen wenige Stimmen sich endlich erhuben:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»ach, Sardis, ach, Sardis! Weltrichter,</l>
+            <l>Erbarm Dich! des Herrn Sohn, verschone!</l>
+            <l>Sie liegt todt, und ihr Wahn wähnt, daß sie lebe!</l>
+            <l>Gott Mittler, schon' ihrer!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, höre! wach, Sardis, wach, Todte,</l>
+            <l>Vom Schlaf auf! Es schreckt schon von fern her,</l>
+            <l>Mit Eil' droht, mit Vollendung das Gericht Dir!</l>
+            <l>Hör, hör sein Drohn, Todte!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weißes Gewand strahlet um Den, der gesiegt hat;</l>
+            <l>Hell in dem Buch, das vom Heil einst im Gericht tönt,</l>
+            <l>Steht sein Namen; ihn nennt vor Gott selbst</l>
+            <l>Und vor den Engeln der Herr!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber ein höheres Chor begann, von Wonne begeistert,</l>
+            <l>Durch die goldenen Harfen herab zu rauschen; sie sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wie selig ist sie! Wenig Kraft gab ihr der Herr;</l>
+            <l>Und es blieb dennoch im Bunde, bekannte dennoch</l>
+            <l>Philadelphia stets! Satans Verführter soll</l>
+            <l>Sich ihr bang nahn, in den Staub sinken vor ihr!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie selig ist sie! Wenig Kraft gab ihr der Herr;</l>
+            <l>Und es blieb dennoch im Bunde, bekannte dennoch</l>
+            <l>Philadelphia stets! Stunde des Jammers, triff</l>
+            <l>Du den Erdkreis, und vor ihr eile vorbei!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie herrlich ist sie! Treue Schaar, halt, was Du hast</l>
+            <l>Und, o, laß Keinen die Krone des Heils Dir nehmen!</l>
+            <l>Der Vollendete steht glänzend, ein Pfeiler, einst</l>
+            <l>In dem Tempel, wo der Sohn ewig belohnt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wehmuthsvoll, mit jenem Gefühl, das unter den Menschen</l>
+            <l>Thräne wird, kam mitten aus einem Chore die Stimme:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, vernähme den Ruf Laodicea noch!</l>
+            <l>Er ruft ihr vom Tod auf, wehklaget sanft.</l>
+            <l>Wie blind, ach, und wie elend täuschet sie sich!</l>
+            <l>Du des Herrn sonst, auf, eile dem Rufenden zu!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Gezüchtigte geht auch zu dem Abendmahl</l>
+            <l>Des Sohns ein. Wer fest steht, aushält und siegt,</l>
+            <l>Belohnt wird und gekrönt Der, steiget empor</l>
+            <l>Zu des Throns Höh', Gottmensch, wo in Lichte Du wohnst!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da des Triumphs Heerschaar stets weiter hinauf zu des Himmels</l>
+            <l>Strahlenkreise stieg, begannen Chöre der Seher</l>
+            <l>Und Erzengel, zu singen dem Auferwecker und Richter.</l>
+            <l>Also sangen sie gegen einander. Die Harfen der Seher</l>
+            <l>Tönten feirlichen Ernst und flossen von großen Gedanken</l>
+            <l>Feuriger über. Itzt strömte der Psalm in der Saite Begeistrung:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wo erhöht </l>
+            <l>Stieg er herab, und den Gerichtsruf donnerte sein Heer.</l>
+            <l>Und die Grabnacht gab, die sie wegnahm, her,</l>
+            <l>Da des Gerichts Ruf tönt' und das Gebirg einsank.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Heerschaar, die vom Tod </l>
+            <l>Hub sich empor, und ihr Gewand goß Strahlen um sie her.</l>
+            <l>Ihr Triumphlied scholl, wie das Weltmeer braust,</l>
+            <l>Und das Getön stieg hoch mit dem Gerichtsruf auf.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie erlagen dem Wonnegedanken. Die Saiten nur tönten.</l>
+            <l>Aber nicht lange, so scholl ihr Gesang von Neuem zur Harfe:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»aussaat, die gesät ruhte, bis ihr Gott rief, das Gefild</l>
+            <l>Mit Goldglanz zu bedecken! Selige, die, Staub zu Staub,</l>
+            <l>In sich einschloß säumende Nacht,</l>
+            <l>Bis floh der Aeon Sterblicher dahin!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aussaat, o, wie reif schimmerst Du her! Laut ruft im Gefild</l>
+            <l>Die Heerschaar zu der Ernte! Selige, die, Glanz zu Glanz,</l>
+            <l>Der Vollender sammelt, wie nimmt</l>
+            <l>Des neuen Aeon's Herrlichkeit Euch auf!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzo sangen mit himmlischem Lächeln die ersten der Engel;</l>
+            <l>Tönender strömte der Psalter Strom zu dem Wonnegesange:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»todt', erwacht! Todt', erwacht! Der Gerichtstag hallt's.</l>
+            <l>Der Aufruf der Ernter des Gefilds</l>
+            <l>Ertönt froh. Der Staub hört's da, wo er sanft</l>
+            <l>Schlummert, hinschallen. Schutzengel rufen ins Gericht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eilet, schaut auf zum Thron, die mit Huld Gott rief!</l>
+            <l>Erwacht, eilt, steht auf, strahlt von dem Grab</l>
+            <l>Empor, Ihr, die Jesus frei des Gerichts</l>
+            <l>Macht! O Miterben, kommt, nehmt die Palmen in Triumph!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwebt herauf, setzet Euch mit dem Sohn Richter</l>
+            <l>Im Goldstrahl auf Throne bei den Herrn!</l>
+            <l>Erhebt Euch, die Blut deckt, weißes Gewand</l>
+            <l>Deckt! O Weltrichter, kommt, nehmt die Kronen in Triumph!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, sie gehn überstrahlt zu dem Thron furchtbar</l>
+            <l>Herauf, ernst zur Wagschal' des Gerichts!</l>
+            <l>Geströmt Blut des Altars Golgatha deckt</l>
+            <l>Hell die Palmträger. Siegskronen glänzen um ihr Haupt.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lange Reihn krystallener hochaufsteigender Berge</l>
+            <l>Sind in dem Stern Sarona. In ihnen sehn die Bewohner</l>
+            <l>Ferne Welten vergrößert und leuchtender; weiter ertönet</l>
+            <l>Dort der Widerhall und melodischer, wenn sich der Ausruf</l>
+            <l>Inniger Freud' ergießt bei neuer Erscheinungen Anblick.</l>
+            <l>Tausende wimmeln dann am Fuß der unendlichen Berge,</l>
+            <l>Tausende haben dann die breite Schulter, die lichte</l>
+            <l>Stirne der Berg' erstiegen und stehn tiefsinnig und schauen.</l>
+            <l>Jetzo schauten sie nicht tiefsinnig; ihr Auge war Wonne;</l>
+            <l>Denn es ging der Triumphheerzug bei Sarona vorüber.</l>
+            <l>Heller ward der Krystall, wo der Gottmensch schwebt' und zu Schönheit</l>
+            <l>Seine Herrlichkeit milderte. Dort ertönte der Nachhall</l>
+            <l>Reiner und neu, als bildet' er Laute des feirenden Heerzugs.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt erhuben im Chor der Seher Debora und Mirjam</l>
+            <l>Ihre Stimme. Den Saiten entscholl bald himmlische Wehmuth,</l>
+            <l>Bald der Ton des Triumphs. Sie sangen gegen die Engel.</l>
+            <l>So, wenn im Walde der Donnersturm stillschweigt, und die Bäume</l>
+            <l>Nicht gebogen mehr stehn, bebt leise von Lüften der Sprößling.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, Du einst uns Elend, wie entzückst Du</l>
+            <l>Den Geist, Tod! Wer im Nachtthal des Entsetzens</l>
+            <l>Nicht verwesete, strebet umsonst,</l>
+            <l>Zu erreichen des Erwachten Gefühl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr lieft nicht die Laufbahn des Erdulders,</l>
+            <l>Des Pilgers da hinab nicht, wo der Tod war.</l>
+            <l>Ihr Unsterblichen sahet das Grab</l>
+            <l>Nicht eröffnet und gefüllt mit Gebein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr saht nicht, daß furchtbar die Entschlafnen</l>
+            <l>Es hinnahm, die Geliebtern zur Verwesung!</l>
+            <l>Der begrabenden Schaufel Getös,</l>
+            <l>Die mit Erde die Entflohnen bewarf,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erscholl nie Euch dumpf auf von den Grüften</l>
+            <l>Und rief nie Euch Erinnrung, daß Ihr einst auch,</l>
+            <l>Mit entstürzender Erde bedeckt,</l>
+            <l>Bei der Trümmer des Verwesenden lägt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber wie unter Wolken herab von den Felsen sich Ströme</l>
+            <l>Stürzen, so sang, als rief's zum Gericht, das Chor der Propheten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»todt', erwacht, die Posaun' hallt, Todt', erwacht!</l>
+            <l>Der Nacht Schooß, des Meers Grund und der Erdkreis</l>
+            <l>Bebt dumpf auf, das Gebein hört Herrscherton</l>
+            <l>Herrufen, Erzengel rufen ihn laut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Goldpalast und bemoost Dach stürzen ein.</l>
+            <l>Im Erdgrab und Weltmeer wer entschlummert</l>
+            <l>Schon lang' lag, Der erwacht. Wer lebet, hört</l>
+            <l>Graunvolles Erdbeben, stirbt und erwacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nacht noch war's. Das Entsetzen trat einher,</l>
+            <l>Gebot Flucht. Gefild, Hain, des Gebirgs Haupt</l>
+            <l>Versank, warf sich ins Meer hin. Harfe, schweig!</l>
+            <l>Bang ruft, es ruft nun Gebärerinangst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Donner ruft von des Throns Höhn. Harfe, schweig!</l>
+            <l>Laut droh'nd tönt Gerichtsruf der Posaunen</l>
+            <l>Darein. Fürchterlich fliegt, rauscht Donnersturm.</l>
+            <l>Wehklagend ruft drein Gebärerinangst.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zween Erzengel schwebten voran, da sang der eine:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»sie sind's, ach, die wehdroh'nd der Aufruf schreckt!</l>
+            <l>Sie stehn auch von dem Tod auf! O, verschlöss' Nacht stets</l>
+            <l>In dem Graunthal der Verwesung,</l>
+            <l>Die des Throns Ausspruch in den Abgrund stürzt!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zween Erzengel schwebten voran, da sang der andre:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»gerichtsdonner, ach, zu furchtbar tönest Du</l>
+            <l>In die Grabmale! Längrer, ewiger Schlaf</l>
+            <l>Ist ihr Flehn; aber sie kommen aus der Nacht</l>
+            <l>Und wehklagen: O, falle, Gebirg, deck uns!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stille war itzt in den Chören der Siegsbegleiter. Da flogen</l>
+            <l>Leicht, wie Blüthen die Luft fortathmet, Benoni und Mirjam,</l>
+            <l>Lazarus' Schwester, hervor. Wie des Sommers sanftere Mondnacht</l>
+            <l>Und wie der röthliche Frühlingsmorgen schwebten sie vorwärts.</l>
+            <l>Und sie würdigten Satan, dem liegenden Ueberwundnen,</l>
+            <l>Hören zu lassen, wie groß der Triumph der Todten des Herren sei:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»donnr' es, o Gesang, in der Nacht</l>
+            <l>Schrecken hinab, zu Gehenna's Empörer hin:</l>
+            <l>Die am Staub einst Elend und der Tod traf,</l>
+            <l>Sie erwachen zu dem Schaun!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mörder, zu dem Schaun! vom Beginn</l>
+            <l>Mörder, sie Alle, die jemals des Todes Angst,</l>
+            <l>Der Verwesung Graun traf, sie entschwingen</l>
+            <l>Sich dem Grabe da hinauf,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo zu dem Gericht, Du Genoß</l>
+            <l>Jedes Entsetzens, in schreckender Herrlichkeit</l>
+            <l>Sich gesetzt hat Jesus, der Vollender!</l>
+            <l>Hosianna! er entschwung,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieger des Empörenden, sich</l>
+            <l>Auch dem umschattenden Thale, der Todesruh,</l>
+            <l>Und verwarf Dich, Satan, Du Verkläger,</l>
+            <l>Der sie Tage vor dem Thron,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nächte vor dem Thron sie mit Grimm</l>
+            <l>Schuldigte! Sünden nicht nur, das Gebrech, Du Feind,</l>
+            <l>Und der Fehle Staub nahmst und umgabst Du</l>
+            <l>Vor dem Rächer mit Gewölk!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zischender Verkläger, Dich stürzt</l>
+            <l>Jesus, der Herrscher, hinab in die tiefe Nacht,</l>
+            <l>Wo die Qual ist, Wehklag' und der Tod ist,</l>
+            <l>Kein Erwachen zu dem Schaun!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einer der Todesengel erhub die furchtbare Stimme,</l>
+            <l>Also sang er, indem mit der Hand die Posaun' ihm hinsunk:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»wehklagen und bang Seufzen vom Graunthale des Abgrunds her,</l>
+            <l>Sturmheulen und Strombrüllen und Felskrachen, das laut niederstürzt',</l>
+            <l>Und Wuthschrein und Rachausrufen erscholl dumpf auf.</l>
+            <l>Wie der Strahl eilt, schwebten wir schnell und in Wehmuth fort.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gabriel weinet' und fühlte sie gern, die himmlische Thräne;</l>
+            <l>Also floß mit der Thräne die Stimme des Schauers der Zukunft:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»das Gewand weiß, bluthell, hub zum Thron</l>
+            <l>Sie sich empor, stand ernst, anschaunselig da,</l>
+            <l>Schimmerte die Braut. Sanften Ton, festliche Melodien,</l>
+            <l>Freudigeres Gefühl strömtet Ihr, Donnerer in dem Gericht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und der Gottmensch sah rein neben sich</l>
+            <l>Sie an dem Thron voll Unschuld stehn, sah sich ihm</l>
+            <l>Heiligen die Braut. Neu erscholl, seligeres Gefühls</l>
+            <l>Strömet' ins Paradies Euer Psalm, Donnerer in dem Gericht!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch erhöht von dieser Begeistrung des Schauers der Zukunft,</l>
+            <l>Schwebt' in lichterem Meere der Himmelsheitre die Heerschaar,</l>
+            <l>Schwebte mit schnellerer Eile dahin; und keine der Harfen</l>
+            <l>Schwieg in den Chören, und aller Posaunen erschütternde Stimmen</l>
+            <l>Redeten ihre Donner, und alle Himmlischen sangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»da ihr Gang Flug, und ihr Ausruf Gesang ward der Entzückung,</l>
+            <l>Da vom Gefild her sich der Triumphzug zum Gerichtsthron</l>
+            <l>Emporschwang, nahm zu dem Erb' auf er, den am Kreuz Gott sah,</l>
+            <l>In das Lichtreich auf, die des Altars Blutruf vom Gericht lossprach.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber das Chor Erzengel begann von Neuem die Wonne</l>
+            <l>Seiner Gesänge gegen die Seher hinüber zu strömen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o, die auch in Erdgrab und Weltmeer verwest einschloß</l>
+            <l>Der Gerichtsspruch, den in Eden, da es kühl ward, der Herr aussprach,</l>
+            <l>Erstlinge, schwebt strahlend empor in Triumphflug, eilt,</l>
+            <l>Richtet mit Dem, welchem sich die Höh' und das Gebeinthal bückt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Hand kam hervor einst, und Schrift stand: Dich wog Jova!</l>
+            <l>Und es fand Dich, der den Weltkreis, wie er will, herrscht, zu leicht, König!</l>
+            <l>Daß des Gerichts Tag es vernähme, wie leicht Der sei,</l>
+            <l>Welcher an ihm sündigte, gebot es von des Throns Höh' Gott,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gebot so: Es zeug' einst, was lebend des Staubs Sohn that,</l>
+            <l>Des Gerichts Buch! Und mit Schrift, hell, wie der Blitzstrahl durch Nacht herfleugt,</l>
+            <l>Schrieb in das Buch, Rächer, Dein Heer, was der Mensch that, grub's</l>
+            <l>Thränenvoll ein, schweigend, was nunmehr in dem Gericht laut tönt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Thron rollt die Heerschaar, als göss' sie ein Meer weit aus,</l>
+            <l>Des Gerichts Bücher voll Ernst auf, und die Glanzschrift erschreckt fern her.</l>
+            <l>Eilet empor, Erstlinge, schwebt den Triumphflug, kommt,</l>
+            <l>Richtet mit Dem, welchem sich die Höh' und das Gebeinthal bückt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihn sah Gott herannahn; kein Tag war, wie der Tag ist,</l>
+            <l>So dem Rath Deß, der geherrscht hat vom Beginn an, die Hüll' aufdeckt!</l>
+            <l>Jauchzet und schaut tiefer hinab, denn der Lichttag kam!</l>
+            <l>Wandelt umher froh in Labyrinthe, die hindurch Gott führt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch währt er, noch währt er, der Grauntag. Ein Jahr floh schon,</l>
+            <l>Und es säumt noch der Gerichtstag. Noch erschreckt Den des Ausspruchs Ernst,</l>
+            <l>Welchen der Sohn Gottes verwirft. Es entfliehn qualvoll</l>
+            <l>Könige noch, rufen dem Gebirge: O Gebirg, deck uns!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allein deckt Gebirg Euch? Noch säumt stets des Urtheils Tag.</l>
+            <l>Noch entsetzt sich, wer, o Lamm, Dir, das erwürgt ward, wer Hohn Dir sprach.</l>
+            <l>Stürzet, Ihr Berg', über uns her, denn die Allmacht zürnt!</l>
+            <l>Der an dem Kreuz blutete, gebeut von dem Gerichtsthron Tod!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch strahlt er, der Heiltag. Noch theilt Gott des Lichts Erb' aus.</l>
+            <l>Noch verklärt sich Labyrinthweg. Noch enthüllt Gott der Vorsicht Pfad.</l>
+            <l>Stets noch empfäht weißes Gewand, von des Sohns Blut hell,</l>
+            <l>Kronen empfäht, Palmen, wer dem Sohn bis in den Tod treu war.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thräne des Himmels im Blicke der Erstlinge Gottes, wie glänztest</l>
+            <l>Dem Du, der einst das Erbe des Lichts den festlichen Tag giebt</l>
+            <l>Seiner Entscheidung! Sie wagten es kaum, voll inniger Demuth,</l>
+            <l>Nach dem Vergelter hinauf, der ihnen strahlte, zu schauen.</l>
+            <l>Säumend begann ihr Harfengetön; als aber der Geber</l>
+            <l>Immer belohnender strahlte, da flog's, und schnell war es Jubel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o Aufgang aus der Höh', o des Herrn Sohn, Du o Licht</l>
+            <l>Von dem Licht, der erlöst hat, doch dereinst auch auf den Thron</l>
+            <l>Des Gerichts mit der Wagschal' steigt und es wägt,</l>
+            <l>Was gethan hat, wem umsonst floß Golgatha's Blut!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, Preis Dir und Gesang, Du des Herrn Sohn, Du o Licht</l>
+            <l>Von dem Licht, der erlöst hat, die dereinst, ach, an dem Thron</l>
+            <l>Des Gerichts bei der Wagschal' stehn und sein Weh'</l>
+            <l>Mit verkünden, wem umsonst floß Golgatha's Blut!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Urquell, es ergeußt, o des Heils Quell, wie ein Strom,</l>
+            <l>Wie ein Meer – so gebeutst Du – von dem Lichtthron sich herab</l>
+            <l>Der Erschaffenen Glück! Erzengel, merkt auf,</l>
+            <l>Wie das Heilmeer durch den Weltkreis weit sich ergeußt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr, Ihr saht's von Beginn, da die Nacht uns noch umgab,</l>
+            <l>Es der Tod noch verbarg, ach, da noch Gott wir, o der Staub,</l>
+            <l>Aus der Nacht, von dem Grab her, richteten, Gott</l>
+            <l>Mit Erbarmung es vernahm, schwieg, Blitze nicht warf!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unterdeß, da Jesus den Weg durch die Heitre zum Throne</l>
+            <l>Gottes ging, entschied er von fern das Schicksal der Seelen,</l>
+            <l>Welche das Leben der Sterblichkeit jetzt verließen. Sie mußten</l>
+            <l>Sinken oder steigen, nachdem in ihnen der Richter</l>
+            <l>Trieb' erschuf, sich empor zu der Wonne Gefilden zu heben</l>
+            <l>Oder hinab sich zu senken, hinab, wo die ewige Nacht herrscht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt rief einer der hohen Triumphbegleiter: »Es steigen,</l>
+            <l>Sieh, aus allen Landen, aus allen Völkern der Erde,</l>
+            <l>Steigen Seelen herauf!« Ein Anderer rief in der Wonne</l>
+            <l>Seines Herzens den Auferstandenen zu: »Der Entschlafnen</l>
+            <l>Seelen machen sich auf und werden Licht; denn ihr Licht strahlt</l>
+            <l>Ihnen entgegen, und vor ihnen geht des Versöhners</l>
+            <l>Herrlichkeit auf!« Der Unsterbliche schwieg. Noch war es den Seelen</l>
+            <l>Unbekannt, wer Der in der Mitte dieses Triumphs sei,</l>
+            <l>Wer die Schaaren um ihn; bald aber erkannten sie Menschen</l>
+            <l>Unter den Schaaren, und süßes Gefühl, daß sie Menschen erblickten,</l>
+            <l>Ueberströmete sie. Doch da sie von Antlitz zu Antlitz</l>
+            <l>Ihre Brüder sahn, erstaunten sie, zweifelten, sanftes</l>
+            <l>Schauers voll. Denn die Auferstandnen, nun Himmlischen, waren</l>
+            <l>Furchtbar und schön, voll Hoheit, wie keine Hoheit sie kannten,</l>
+            <l>Waren vielleicht auch Götter. Allein der Götter einer</l>
+            <l>Sprach zu ihnen, und lieblich erscholl des Redenden Stimme:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»menschen waren wir einst, wie Ihr vor Kurzem noch waret;</l>
+            <l>Aber </l>
+            <l>Welchen Ihr wandeln hier bei den Sternen seht, mit des Urlichts</l>
+            <l>Glanze bedeckt und mit Wundenmalen. Lernet, Ihr könnt hier</l>
+            <l>Vieles lernen! Erwählet ihn Euch zum Helfer; erwählet</l>
+            <l>Ihn auch nicht! So frei wie jetzt seid Ihr niemals gewesen.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dreimal die Zeit, die ein Engel, bevor er von einem Entschlusse</l>
+            <l>Uebergeht zu dem andern, die dann der Unsterbliche zweifelt,</l>
+            <l>Folgten die Seelen jetzo nur nach und blieben auf einem</l>
+            <l>Sterne zurück und warteten dort auf Lehrer, die Jesus</l>
+            <l>Ihnen würde – Gabriel rief's – von dem Thron zusenden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weit in der Ferne sah des Ewigen Thron die Triumphschaar</l>
+            <l>Und des Allerheiligsten Nacht an des Ewigen Throne.</l>
+            <l>Schon verhüllten ihr Antlitz mit ihren Flügeln der Engel</l>
+            <l>Viele. Das Antlitz Deß, der geopfert auf Golgatha's Altar</l>
+            <l>Blutete, ward lichtheller. Ein Chor Erstandener bebte</l>
+            <l>Freudig, und erst nach langem Verstummen begann es von Neuem</l>
+            <l>Seine Psalme, begann's hinauf nach Sion zu singen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»begleit ihn zum Thron auf, o Lichtheer,</l>
+            <l>Mit der Harf' ihn, der Posaun' Hall und dem Chorpsalm,</l>
+            <l>Jesus, Gottes Sohn! Menschlich ist er,</l>
+            <l>Gnädig! Das rufest Du laut, blutiger Altar!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es preis' ihn der Toderb' und Seraph,</l>
+            <l>Es erheb' ihn die Versammlung der Gerechten,</l>
+            <l>Jesus! Hehr ist er, heilig! Es gab,</l>
+            <l>Siehe, dem Herrlichen Jehovah das Gericht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es sing' ihm der Heilerb' und Cherub,</l>
+            <l>O Ihr Chör' all' in dem Lichtheer, Hosianna!</l>
+            <l>Jesus, Sohn, Du bist König der Welt,</l>
+            <l>Ewiger König der Stadt Gottes in der Höh'!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie wirst Du am Thron Den empfangen,</l>
+            <l>Der es ganz litt, der es ganz that, den Vollender,</l>
+            <l>Vater, Du den Sohn! Donner des Throns,</l>
+            <l>Gebt der Unsterblichen Chor Flügel und Triumph!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sie schwiegen. Es schwebt' an einer Sonne Gefilden</l>
+            <l>Langsamer fort ein anderes Chor Erstandne. Sie sangen</l>
+            <l>Ihm, der stets lichtheller des Vaters Rechte sich nahte:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»o Vollender, wie wird er, der ewig ist, Dich</l>
+            <l>Auf des Throns Höhn empfangen! Ewiger, wie wirst</l>
+            <l>Du hingehn, des Herrn Sohn den Herrn schaun, der erhabne,</l>
+            <l>Der unendliche Genoß Deß, der sein wird und war!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du o Licht von dem Licht, Gottmensch, groß durch den Tod</l>
+            <l>An dem Kreuz! Hehr Sühnopfer! Herrlicherer Dem,</l>
+            <l>Der abfiel und umkehrt, der, Staub, schlief und darauf erst,</l>
+            <l>Ein Unsterblicher wie sie, Glanz der Engel empfäht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der erlösende Sohn, Allerheiligstes, ging</l>
+            <l>In die Nacht Deines Grauns ein! Aber wie hat ihn</l>
+            <l>Erhöht Gott! Ihr Knie sinkt dem Aufgang aus der Höhe,</l>
+            <l>Dem Erniederten und Herrn, aller Endlichen Knie!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie schallet empor, hoch im Himmel empor</l>
+            <l>Und im Staub ihres Zurufs Wonnemelodie!</l>
+            <l>Erhöht wird des Herrn Sohn, der Gottmensch, der Gesalbte,</l>
+            <l>Dem Unendlichen zum Preis, Gott dem Vater zum Preis!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch sie schwiegen, und immer wurden der feirenden Chöre</l>
+            <l>Weniger. Sieben Erstandne, die ersten unter den Menschen,</l>
+            <l>Schwungen sich freudigzitternd hervor und sangen dem Sohne:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»mißt nicht mit Maaß Endlichkeit uns? Wir erheben,</l>
+            <l>Selig dadurch, die Vollendung des Erstandnen.</l>
+            <l>Ach, der Wonne Gefühl soll ewig</l>
+            <l>Tönen im Strom des Gesangs!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber was ist gegen den Preis der Erschaffnen,</l>
+            <l>Vater, Dein Blick, Du Erhöher zu des Throns Glanz,</l>
+            <l>Dein Anschauen! Verstummt, Strom, stündst Du,</l>
+            <l>Winkte nicht Eile Dir Gott!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Danke dem Herrn! Preise, daß er uns vergönnt hat,</l>
+            <l>Endlichen, ihm mit dem Stammeln des Triumphlieds,</l>
+            <l>Ihm mit feirendem Psalm zu singen,</l>
+            <l>Mit der Erstaunungen Ruf!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herrlich ist er, selig ist er, und des Donners</l>
+            <l>Seiner Gewalt, wenn er handelt und beseligt,</l>
+            <l>Nachhall unser Gesang. Strömt, Jubel,</l>
+            <l>Jauchzet den Thaten des Herrn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mittler, zu Dem steigst Du hinauf! Es erhebt Dich</l>
+            <l>Der zu der Höh', o Messias, zu der Höhn Höh'</l>
+            <l>Seiner Rechte! Begleit ihn, Siegslied,</l>
+            <l>Bis zu dem Fuße des Throns!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber hundert Cherubim schwebten hervor und enthüllten</l>
+            <l>Wieder ihr Antlitz und wiesen hoch mit der Palme gen Himmel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»begleit ihn zum Thron auf, Triumphheer,</l>
+            <l>Mit der Harf' ihn, der Posaun' Hall und dem Chorpsalm,</l>
+            <l>Jesus, Gottes Sohn! Herrscher ist er,</l>
+            <l>Herrscher! Das rufet Ihr laut, Donner um den Thron!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ruf' ihm der Heilerb' und Cherub,</l>
+            <l>O, Ihr Chör' all' in dem Lichtheer, Hosianna!</l>
+            <l>Jesus, Gottes Sohn, Dulder, Du steigst,</l>
+            <l>Todter, zur Rechte des Herrn, Ewiger, empor!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzo kam der Triumph dem Himmel so nah, daß Jehovah's</l>
+            <l>Thron sie im Glanz herstrahlen der ganzen Herrlichkeit sahen.</l>
+            <l>Da den Triumph, den Triumph die nähesten Engel erblickten,</l>
+            <l>Standen sie alle zuerst erstaunt; bald aber erhub sich</l>
+            <l>Wonnausruf voll frohes Erschreckens. Die Stunde, da Christus</l>
+            <l>Wieder würde, der Ueberwinder, den Himmel betreten,</l>
+            <l>War der Himmlischen keinem bekannt, war's selber der Thronen</l>
+            <l>Ersten nicht. Sie hatten nur fern mit der Welten Getöne</l>
+            <l>Jubel gehört. Von Gebirge rief zu Gebirge, der Cherub</l>
+            <l>Rief: »Der Messias!« dem Cherub; aus Hainen ruften in Haine</l>
+            <l>Seelen und Seraphim sich: »Der Messias!« vom Strahl zu dem Strahle;</l>
+            <l>Bis hinauf zu den Opferaltären, hinauf zu der hohen</l>
+            <l>Wolke des Allerheiligsten scholl: »Der Messias!« hinaufscholl</l>
+            <l>Zu dem Thron: »Der Messias!« daß weit um sie her der Wälder,</l>
+            <l>Daß der Ströme Geräusch unhörbar ward, des Krystallmeers</l>
+            <l>Woge selbst, vor der Stimme der Rufenden. Aber da Jesus,</l>
+            <l>Da der große Vollender nunmehr mit einem der letzten</l>
+            <l>Sonnenschimmer den Himmel betrat, da entsanken der Engel</l>
+            <l>Kronen, da streuten mit sanfterer Freude die Himmlischen alle</l>
+            <l>Palmen auf den erhabenen Weg, der zum Throne des Herrn führt.</l>
+            <l>Auch die Triumphbegleiter, die Seraphim und die Erstandnen</l>
+            <l>Streueten Palmen und gingen einher mit freudiger Demuth.</l>
+            <l>Aber die Seelen, belastet vom neuen Himmelsgefühle,</l>
+            <l>Wären in einem der Haine des Wegs geblieben, hätt' ihnen</l>
+            <l>Gabriel nicht mit der goldnen Posaune zu folgen gerufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jesus nahte dem Thron. Da wurde stiller die Stille;</l>
+            <l>Und da rufte den Seelen nicht mehr die Posaune; die Väter</l>
+            <l>Standen; noch folgten die Engel; nicht lang', so blieben auch sie stehn,</l>
+            <l>Sanken nieder, daß sie anbeteten. Gabriel hatte,</l>
+            <l>Keiner der Endlichen sonst, des Thrones unterste Stufe</l>
+            <l>Mit dem Messias betreten. Dort kniet' er, beinah unsichtbar</l>
+            <l>Durch den herunterströmenden Glanz, und schaute zu Gott auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehe, der Hocherhabene war, der Unendliche war, er,</l>
+            <l>Den noch Alle kennen, dem Alle danken noch werden,</l>
+            <l>Aller Freudenthränen noch weinen, Gott und der Vater</l>
+            <l>Unseres Mittlers, der Allbarmherzige war in der vollen</l>
+            <l>Gottesliebe verklärt! Der Sohn des Vaters, des Bundes</l>
+            <l>Stifter, er, der erwürgt von dem Anbeginne der Welt ist,</l>
+            <l>Den noch Alle kennen, dem Alle danken noch werden,</l>
+            <l>Aller Freudenthränen noch weinen, siehe, das Opfer</l>
+            <l>Für die Sünde der Welt, der Getödtete war, der Erstandne,</l>
+            <l>Jesus, der Mittler, der Allbarmherzige war in der vollen</l>
+            <l>Gottesliebe verklärt! So sah den Vater der Himmel</l>
+            <l>Aller Himmel! So sahe den Sohn des Vaters aller</l>
+            <l>Himmel Himmel! Indem betrat die Höhe des Thrones</l>
+            <l>Jesus Christus und setzete sich zu der Rechte des Vaters.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

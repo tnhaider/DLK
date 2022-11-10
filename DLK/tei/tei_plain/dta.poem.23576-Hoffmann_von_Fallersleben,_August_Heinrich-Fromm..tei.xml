@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Fromm.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">385</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Fromm.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer an das Vaterland nur dachte,</l>
+            <l>Dem Vaterland sich dienstbar machte</l>
+            <l>Mit Rath und That, mit Hab' und Gut</l>
+            <l>Und, wo es galt, mit Leib und Blut,</l>
+            <l>Wer so das Himmelreich gewann,</l>
+            <l>Hieß weiland nur ein frommer Mann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was aber sind die frommen Leute</l>
+            <l>Für unser Vaterland doch heute?</l>
+            <l>Sie haben sich von uns gewandt,</l>
+            <l>Der Himmel ist ihr Vaterland,</l>
+            <l>Das Leben ihnen eine Last,</l>
+            <l>Der Tod nur lieb, die Welt verhasst.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

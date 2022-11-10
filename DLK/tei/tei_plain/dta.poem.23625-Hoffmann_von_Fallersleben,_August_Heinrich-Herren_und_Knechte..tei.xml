@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Herren und Knechte.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">103</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">410</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Herren und Knechte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr wolltet euch zu Göttern machen,</l>
+            <l>Und siehe, das gelang euch schlecht;</l>
+            <l>Da machtet ihr das Volk der Schwachen</l>
+            <l>Zu einem dienenden Geschlecht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dies Geschlecht muß immer büßen,</l>
+            <l>Zu groß ist seine eigne Schuld,</l>
+            <l>Und wollt ihr's Leben ihm versüßen,</l>
+            <l>So ist es eure Gnad' und Huld.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ist die Rede nicht vom Rechte,</l>
+            <l>Das wär' auch nur ein toller Wahn:</l>
+            <l>Ihr seid die Herrn, sie sind die Knechte,</l>
+            <l>Und was ihr thut ist wohlgethan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

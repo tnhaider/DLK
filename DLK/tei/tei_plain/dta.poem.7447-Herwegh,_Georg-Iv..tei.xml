@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Iv.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">509</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Iv.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Manch böser Geist haust in Helvetiens Schlünden,</l>
+            <l>Manch schlimmer Pfaffe keucht den Berg hinan,</l>
+            <l>Der Teufel bricht sich mit dem Kreuze Bahn,</l>
+            <l>Der Teufel in den frommen Thalesgründen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch lieb' ich sie mit allen ihren Sünden.</l>
+            <l>Ha! klebt nicht Winkelriedens Blut daran?</l>
+            <l>Hier ist die Wüste und das Canaan,</l>
+            <l>Um ein Profet der Welt das Heil zu künden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier </l>
+            <l>Hier </l>
+            <l>Was willst Du tot sie und gefangen sehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O laß den Traum, an den der Jüngling glaubte,</l>
+            <l>Vergiß, wo frische Alpenrosen stehn,</l>
+            <l>Der deutschen Freiheit Rose, die bestaubte!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

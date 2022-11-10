@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Heimath .</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">247</measure>
+        <measure type="tokens">169</measure>
+        <measure type="characters">967</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197104"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Heimath .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Froh kehrt der Schiffer heim an den stillen Strom,</l>
+            <l>Von Inseln fernher, wenn er geerntet hat;</l>
+            <l>So käm' auch ich zur Heimath, hätt' ich</l>
+            <l>Güter so viele, wie Leid, geerntet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr theuern Ufer, die mich erzogen einst,</l>
+            <l>Stillt ihr der Liebe Leiden, versprecht ihr mir,</l>
+            <l>Ihr Wälder meiner Jugend, wenn ich</l>
+            <l>Komme, die Ruhe noch einmal wieder?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am kühlen Bache, wo ich der Wellen Spiel,</l>
+            <l>Am Strome, wo ich gleiten die Schiffe sah,</l>
+            <l>Dort bin ich bald; euch traute Berge,</l>
+            <l>Die mich behüteten einst, der Heimath</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verehrte sichre Grenzen, der Mutter Haus;</l>
+            <l>Und liebender Geschwister Umarmungen</l>
+            <l>Begrüß' ich bald, und ihr umschließt mich,</l>
+            <l>Daß, wie in Banden, das Herz mir heile,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr treu geblieb'nen! aber ich weiß, ich weiß</l>
+            <l>Der Liebe Leid, dieß heilet so bald mir nicht,</l>
+            <l>Dieß singt kein Wiegensang, den tröstend</l>
+            <l>Sterbliche singen, mir aus dem Busen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn sie, die uns das himmlische Feuer leihn,</l>
+            <l>Die Götter schenken heiliges Leid uns auch,</l>
+            <l>Drum bleibe dieß. Ein Sohn der Erde</l>
+            <l>Bin ich; zu lieben gemacht, zu leiden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

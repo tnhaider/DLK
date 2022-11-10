@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">627</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und dennoch that er es!</l>
+            <l>Mich dünkt, ich sehe hier aufs neu</l>
+            <l>Die großen heilig furchtbarn Scenen wieder —</l>
+            <l>Der Cherub fällt erschrocken nieder,</l>
+            <l>Und hüllt sein Angesicht</l>
+            <l>Tief in sein glänzendes Gefieder;</l>
+            <l>Der Seraphinen Lieder</l>
+            <l>Verstummen vor des Höchsten Thron —</l>
+            <l>Man höret, um der Allmacht Sohn,</l>
+            <l>Ein banges Klagen in den Sternen,</l>
+            <l>Ein banges Klagen in den Himmeln,</l>
+            <l>Ein banges Klagen auf der Erde. —</l>
+            <l>Der Abgrund thut sich auf —</l>
+            <l>Die Hölle brüllt Triumph herauf;</l>
+            <l>Die Sonne starrt zurück in ihrem Lauf,</l>
+            <l>Und schwarze Mitternacht verhüllt die Welt.</l>
+            <l>Erschüttert fühlt, der Todten weites Feld,</l>
+            <l>Der neuen Auferstehung Macht;</l>
+            <l>Sie gehn hervor aus Grab und Nacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

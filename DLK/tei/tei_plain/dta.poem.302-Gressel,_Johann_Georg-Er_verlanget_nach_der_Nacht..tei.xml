@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er verlanget nach der Nacht.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">177</measure>
+        <measure type="tokens">125</measure>
+        <measure type="characters">722</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er verlanget nach der Nacht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brich doch an du dunckles Wesen!</l>
+            <l>Eile fort du schwartze Nacht!</l>
+            <l>Die mich vor sich auserlesen</l>
+            <l>Ist auf meine Lust bedacht.</l>
+            <l>Jhr Lichter an den Himmels-Bühnen</l>
+            <l>Solt uns zu Hochzeits-Fackeln dienen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwärtzet euch ihr hellen Lüffte/</l>
+            <l>Zieht den weissen Schimmer ein/</l>
+            <l>Scharrt uns in die Feder Grüffte/</l>
+            <l>Und last uns verknüpffet seyn/</l>
+            <l>Macht/ machet/ daß mit Kuß und Drücken</l>
+            <l>Die Geister sich gar bald erquicken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schauet wie </l>
+            <l>Die ein irrdisch Eden sind/</l>
+            <l>Sich erheben durch die Lüste/</l>
+            <l>So uns </l>
+            <l>Ach! lasset doch eur Licht verschwinden/</l>
+            <l>Ich kan mein Glück im Finstern finden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hört das Seuffzen/ so wir senden/</l>
+            <l>Last uns nicht vergebens flehn/</l>
+            <l>Laßt den langen Tag sich enden/</l>
+            <l>Und die Sonne untergehn/</l>
+            <l>Ach flieh’ doch Tag! eilt fort ihr Schatten/</l>
+            <l>Ich will mich mit </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

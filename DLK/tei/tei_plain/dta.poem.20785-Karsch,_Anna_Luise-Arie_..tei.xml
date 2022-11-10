@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Arie .</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">251</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">1011</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Arie .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vergnügte Einsamkeit! du bist die Ruhe,               </l>
+            <l>So meine stille Brust sich längst erwählet,</l>
+            <l>Was ich hier unternehm, gedenk </l>
+            <l>Das wird der Weltcensur nicht aufgestellt;</l>
+            <l>Bin ich gleich stets allein und ganz verborgen,</l>
+            <l>So bleibt mein freier Sinn doch ungekränkt:</l>
+            <l>Ich lebe höchst content und ohne Sorgen,</l>
+            <l>Weil mir die Einsamkeit Vergnügen schenkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es giebt verschiedene Art von Lustbarkeiten,</l>
+            <l>So die galante Welt höchst schätzbar preist;</l>
+            <l>Doch wenn mans überlegt sinds Eitelkeiten,</l>
+            <l>Drum sag ich noch einmal: mein freier Geist</l>
+            <l>Ehrt mit gelaßnem Muth die stillen Stunden,</l>
+            <l>So das Verhängniß mir hier zugezählt,</l>
+            <l>Es wird auch in der That sonst nichts gefunden,</l>
+            <l>Das mehr Vergnügen giebt und mir gefällt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So magst du denn o Welt, das Eitle loben,</l>
+            <l>Geh mache dir Pläsir wie dirs beliebt,</l>
+            <l>Mir ist die größte Lust noch aufgehoben,</l>
+            <l>Die dort das höchste Gut den Seelen giebt.</l>
+            <l>Ach ich verlache nur das Weltgetümmel,</l>
+            <l>Indem mein Herze sich die Losung setzt:</l>
+            <l>Mein bester Theil mein Schatz ist noch im Himmel,</l>
+            <l>Und hier ist Einsamkeit was mich ergötzt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

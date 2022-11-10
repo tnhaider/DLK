@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">63.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">550</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>63.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was jegliches Gemüt als klaren Kern enthält,</l>
+            <l>Daß Gott die Wurzel und der Schlüssel ist der Welt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Versucht Philosophie vielnamig zu benennen,</l>
+            <l>Damit die Schulen nur sich an Merkzeichen kennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unendliche Substanz, bestimmte Harmonie,</l>
+            <l>Realitäten-Inbegriff ersinnen sie;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gewisheit des Gefühls, Bewußtseyns feste Grenzen,</l>
+            <l>Das Ich im Ich, Indifferenz der Differenzen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selbstwerdender Begriff, und wie von Frost zu Frost</l>
+            <l>Die Namengebung steigt, ist alles ohne Trost.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es thut nicht noth daß du Sternwarten erst erbaust,</l>
+            <l>Wenn du im Seelengrund den klaren Himmel schaust.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trinklied.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">663</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trinklied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Gesundheit unsrer Feinde,</l>
+            <l>Stoßet an Mann für Mann!</l>
+            <l>Sie, die Gründer unsres Strebens,</l>
+            <l>Die Entwickler unsrer Kraft,</l>
+            <l>Unsres höhern geist'gen Lebens</l>
+            <l>In der Kunst und Wissenschaft —</l>
+            <l>Unsre Feinde dort und hier!</l>
+            <l>Ohne sie was wären wir?</l>
+            <l>Hätten wir uns so gefunden,</l>
+            <l>So zu Freud' und Leid verbunden?</l>
+            <l>Stoßet an Mann für Mann,</l>
+            <l>Auf Gesundheit unsrer Feinde!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Gesundheit unsrer Feinde!</l>
+            <l>Auf und dran! stoßet an!</l>
+            <l>Mögen ihre Ränke ranken,</l>
+            <l>Möge wuchern ihre List!</l>
+            <l>Wir, wir wollen uns bedanken,</l>
+            <l>Weil's doch gut gemeinet ist;</l>
+            <l>Denn sie haben's gut gemeint,</l>
+            <l>Haben uns so fest vereint,</l>
+            <l>Daß wir nur noch lächeln können</l>
+            <l>Ueber das was sie uns gönnen.</l>
+            <l>Auf und dran! stoßet an!</l>
+            <l>Auf Gesundheit unsrer Feinde!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

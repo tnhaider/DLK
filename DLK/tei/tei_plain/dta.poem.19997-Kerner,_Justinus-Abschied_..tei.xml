@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abschied .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">137</measure>
+        <measure type="characters">783</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abschied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geh ich einsam durch die schwarzen Gassen,</l>
+            <l>Schweigt die Stadt als wär' sie unbewohnt,</l>
+            <l>Aus der Ferne rauschen nur die Wasser</l>
+            <l>Und am Himmel geht der bleiche Mond.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bleib' ich lang vor jenem Hause stehen,</l>
+            <l>Drinn das liebe liebe Liebchen wohnt,</l>
+            <l>Weiß nicht, daß sein Treuer ferne ziehet,</l>
+            <l>Stumm und harmvoll, wie der bleiche Mond.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Breit' ich lange sehnend meine Arme</l>
+            <l>Nach dem lieben lieben Liebchen aus,</l>
+            <l>Und nun sprech' ich: lebet wohl, ihr Gassen!</l>
+            <l>Lebe wohl, du stilles, stilles Haus!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und du Kämmerlein im Haus dort oben,</l>
+            <l>Nach dem oft das warme Herze schwoll,</l>
+            <l>Und du Fensterlein, draus Liebchen schaute,</l>
+            <l>Und du Thüre, draus sie gieng, leb wohl!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geh' ich bang nun nach den alten Mauern,</l>
+            <l>Schauend rückwärts oft mit nassem Blick,</l>
+            <l>Schließt der Wächter hinter mir die Thore,</l>
+            <l>Weiß nicht, daß mein Herze noch zurück.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

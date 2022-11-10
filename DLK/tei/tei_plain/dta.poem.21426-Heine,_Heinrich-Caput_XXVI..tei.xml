@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XXVI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">131</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">528</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XXVI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„das ist ein Zauberkessel worin</l>
+            <l>Die magischen Kräfte brauen,</l>
+            <l>Und steckst du in die Ründung den Kopf,</l>
+            <l>So wirst du die Zukunft schauen –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„die Zukunft Deutschlands erblickst du hier,</l>
+            <l>Gleich wogenden Phantasmen,</l>
+            <l>Doch schaudre nicht, wenn aus dem Wust</l>
+            <l>Aufsteigen die Miasmen!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sprach’s und lachte sonderbar,</l>
+            <l>Ich aber ließ mich nicht schrecken,</l>
+            <l>Neugierig eilte ich den Kopf</l>
+            <l>In die furchtbare Ründung zu stecken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich gesehn, verrathe ich nicht,</l>
+            <l>Ich habe zu schweigen versprochen,</l>
+            <l>Erlaubt ist mir zu sagen kaum,</l>
+            <l>O Gott! was ich gerochen! – – –</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

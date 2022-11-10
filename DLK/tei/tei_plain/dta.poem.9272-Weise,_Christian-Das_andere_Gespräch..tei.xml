@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das andere Gespräch.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">784</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das andere Gespräch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was hat man sonst davon/ als daß man lustig ist/</l>
+            <l>Und bey der compagnie der andern noth vergist/</l>
+            <l>Mit sauer sehn und sorgen</l>
+            <l>Wird selten was gethan/</l>
+            <l>Wohl dem/ der sie auff morgen</l>
+            <l>Getrost verweisen kan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. Ein angenehmer trunck/ ein ungefärbter freund/</l>
+            <l>Der zwar den becher wein/ doch mich viel besser meynt/</l>
+            <l>Das sind dieselben gaben/</l>
+            <l>Die schleichen lieblich ein/</l>
+            <l>Biß wir die ladung haben</l>
+            <l>Und heute fertig seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>3. So geht den andern tag die freude wieder an/</l>
+            <l>So bleibt die traurigkeit auch morgen ausgethan/</l>
+            <l>So wird der safft von reben</l>
+            <l>Durch lieb und treu versüsst/</l>
+            <l>So führen wir ein leben/</l>
+            <l>Das überirrdisch ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>4. Wolan/ was säumen wir? da steht der blancke wein/</l>
+            <l>Da muß der liebe trunck undisputirlich seyn/</l>
+            <l>Sonst kan es nicht ergetzen/</l>
+            <l>Da muß man sich bemühn</l>
+            <l>Auff einmahl anzusetzen/</l>
+            <l>Auff einmahl abzuziehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

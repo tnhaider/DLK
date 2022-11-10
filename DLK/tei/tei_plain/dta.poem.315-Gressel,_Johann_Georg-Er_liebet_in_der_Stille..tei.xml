@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er liebet in der Stille.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">185</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">698</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er liebet in der Stille.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will üben</l>
+            <l>Stilles Liben/</l>
+            <l>Stilles Lieben bringet Lust.</l>
+            <l>Ob es ander gleich nicht wissen/</l>
+            <l>Wie ich muß mein Schätzgen küssen/</l>
+            <l>Ists doch mir und ihr bewust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Süsses Leben</l>
+            <l>Kan sie geben</l>
+            <l>Wenn sie ihre Brüste reicht/</l>
+            <l>Dieser schönen Wunder-Ballen</l>
+            <l>Blähen und auch niederfallen</l>
+            <l>Einem </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Umschliessen</l>
+            <l>Läst geniessen</l>
+            <l>Ambrosin und Nectar-Safft/</l>
+            <l>Jhres Schoosses Lieblichkeiten</l>
+            <l>Tausend Anmuth zu bereiten</l>
+            <l>Mit vernenter Lebens-Krafft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch die Sachen</l>
+            <l>Muß ich machen</l>
+            <l>Fein geheim und in der Still’/</l>
+            <l>In der Stille darf ich küssen</l>
+            <l>Und der Brust und Schooß geniessen/</l>
+            <l>So offt als ich kan und will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer nun Lieben</l>
+            <l>So will üben</l>
+            <l>Der küßt recht erwünschte Ruh.</l>
+            <l>Es wird vor die Liebes-Wunden</l>
+            <l>Die verlangte Hülff’ gefunden</l>
+            <l>Geht es nur fein stille zu.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

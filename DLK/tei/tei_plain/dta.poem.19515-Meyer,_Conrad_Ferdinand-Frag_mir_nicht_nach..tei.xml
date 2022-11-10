@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frag mir nicht nach.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">631</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frag mir nicht nach.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo weiß die Landquart durch die Tannen schäumt,</l>
+            <l>Irrt' unbekümmert ich um Weg und Zeit,</l>
+            <l>Da stand ein grauer Thurm — wie hingeträumt</l>
+            <l>In ungebrochne Waldeseinsamkeit.</l>
+            <l>Ich sah mich um und frug: „Wie heißt das Schloß?“</l>
+            <l>Ein bucklig Mütterlein, das Kräuter brach;</l>
+            <l>Da grollte sie, die jedes Wort verdroß:</l>
+            <l>„fragmirnichtnach.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schritt hinan; im Hof ein Brünnlein scholl,</l>
+            <l>Durch den verwachsnen Thorweg drang ich ein,</l>
+            <l>Ein dünnes kühles Rieseln überquoll</l>
+            <l>Auf einer Gruft den schwarz bemoosten Stein.</l>
+            <l>Ich beugte mich nach des Verschollnen Spur,</l>
+            <l>Entziffernd, was des Steines Inschrift sprach,</l>
+            <l>Nicht Zahl, nicht Namen — ein Begehren nur:</l>
+            <l>Frag mir nicht nach!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

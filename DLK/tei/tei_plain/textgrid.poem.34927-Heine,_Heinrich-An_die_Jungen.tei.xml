@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Jungen</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">248</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">910</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Jungen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß dich nicht kirren, laß dich nicht wirren</l>
+            <l>Durch goldne Äpfel in deinem Lauf!</l>
+            <l>Die Schwerter klirren, die Pfeile schwirren,</l>
+            <l>Doch halten sie nicht den Helden auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein kühnes Beginnen ist halbes Gewinnen,</l>
+            <l>Ein Alexander erbeutet die Welt!</l>
+            <l>Kein langes Besinnen! Die Königinnen</l>
+            <l>Erwarten schon kniend den Sieger im Zelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir wagen, wir werben! besteigen als Erben</l>
+            <l>Des alten Darius Bett und Thron.</l>
+            <l>O süßes Verderben! o blühendes Sterben!</l>
+            <l>Berauschter Triumphtod zu Babylon!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß dich nicht kirren, laß dich nicht wirren</l>
+            <l>Durch goldne Äpfel in deinem Lauf!</l>
+            <l>Die Schwerter klirren, die Pfeile schwirren,</l>
+            <l>Doch halten sie nicht den Helden auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein kühnes Beginnen ist halbes Gewinnen,</l>
+            <l>Ein Alexander erbeutet die Welt!</l>
+            <l>Kein langes Besinnen! Die Königinnen</l>
+            <l>Erwarten schon kniend den Sieger im Zelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir wagen, wir werben! besteigen als Erben</l>
+            <l>Des alten Darius Bett und Thron.</l>
+            <l>O süßes Verderben! o blühendes Sterben!</l>
+            <l>Berauschter Triumphtod zu Babylon!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

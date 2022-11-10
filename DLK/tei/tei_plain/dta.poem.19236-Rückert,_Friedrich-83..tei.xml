@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">83.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">691</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>83.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König Löwe hält im Walde Mittagsruh,</l>
+            <l>Verdrießlich gehen ihm die Augen auf und zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sorge kann er sich nicht aus dem Sinne schlagen;</l>
+            <l>Den Unmuth minder noch verträumen als verjagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sieht er über sich im Baum ein Eichhorn hüpfen,</l>
+            <l>Behaglich durchs Gezweig und unermüdlich schlüpfen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ruft hinauf: Warum trag' ich des Thierreichs Krone</l>
+            <l>Du sitzest, kleines Thier, dort auf der Freiheit Throne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie kommt es, daß du hast ein Glück, das mir nicht ward?</l>
+            <l>Es rief herab: Das kommt von unsrer Lebensart.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr esset Fleisch und Blut, und habet schweren Muth;</l>
+            <l>Ich esse Knosp' und Frucht, und habe leichtes Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entbehrung ist Genuß, Genuß ist eine Bürde;</l>
+            <l>Herr König, unvereint ist leichter Sinn und Würde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

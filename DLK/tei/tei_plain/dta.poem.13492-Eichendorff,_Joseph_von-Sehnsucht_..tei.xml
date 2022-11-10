@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sehnsucht .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">191</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">720</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sehnsucht .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schienen so golden die Sterne,</l>
+            <l>Am Fenster ich einsam stand</l>
+            <l>Und hörte aus weiter Ferne</l>
+            <l>Ein Posthorn im stillen Land.</l>
+            <l>Das Herz mir im Leib entbrennte,</l>
+            <l>Da hab' ich mir heimlich gedacht:</l>
+            <l>Ach wer da mitreisen könnte</l>
+            <l>In der prächtigen Sommernacht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwei junge Gesellen gingen</l>
+            <l>Vorüber am Bergeshang,</l>
+            <l>Ich hörte im Wandern sie singen</l>
+            <l>Die stille Gegend entlang:</l>
+            <l>Von schwindelnden Felsenschlüften,</l>
+            <l>Wo die Wälder rauschen so sacht,</l>
+            <l>Von Quellen, die von den Klüften</l>
+            <l>Sich stürzen in die Waldesnacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sangen von Marmorbildern,</l>
+            <l>Von Gärten, die über'm Gestein</l>
+            <l>In dämmernden Lauben verwildern,</l>
+            <l>Palästen im Mondenschein,</l>
+            <l>Wo die Mädchen am Fenster lauschen,</l>
+            <l>Wann der Lauten Klang erwacht</l>
+            <l>Und die Brunnen verschlafen rauschen</l>
+            <l>In der prächtigen Sommernacht. —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

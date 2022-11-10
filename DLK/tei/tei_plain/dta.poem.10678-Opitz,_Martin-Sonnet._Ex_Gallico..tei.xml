@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet. Ex Gallico.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">659</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet. Ex Gallico.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr kalten Wasserbäch/ jhr Hölen/ vnd jhr Steine/</l>
+            <l>Ihr grünen Eichenbaum ihr schönsten in dem Waldt/</l>
+            <l>Ach höret doch/ wie ich erseufftze manigfalt/</l>
+            <l>Schreibt auff mein Testament jhr vnbewohnten Haine/</l>
+            <l>Seit Secretarien/ wie ich vmb Vnglück weine/</l>
+            <l>Grabts in die Rinden ein/ auff daß es der gestallt</l>
+            <l>Wachs jmmerfort/ wie jhr: Ich aber sterbe bald/</l>
+            <l>Beraubet meiner selbst/ vnd ehnlich einem Scheine.</l>
+            <l>Ich sterb auß Tyranney der schönen grausamkeit/</l>
+            <l>Der Liebe/ die ohn sich ohn mich ist jederzeit/</l>
+            <l>Die/ als ein Tigerthier/ mein Blut außsaugen künnen</l>
+            <l>Ade jhr Wäld ade/ ade jhr grüne Lust/</l>
+            <l>Ihr/ denen Venus vnd jhr Sohn nicht ist bewust/</l>
+            <l>Die auch die Weisesten berauben jhrer Sinnen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

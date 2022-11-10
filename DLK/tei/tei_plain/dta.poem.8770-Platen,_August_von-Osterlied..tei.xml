@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Osterlied.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-6 2-7 3-7</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">487</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Osterlied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch Er ist auferstanden!</l>
+            <l>O trüg' ich meinen Pilgerstab</l>
+            <l>Nach jenen Morgenlanden,</l>
+            <l>Zur Felsenkluft</l>
+            <l>Mit hohler Gruft,</l>
+            <l>Denn Er ist auferstanden!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer nur sein eigner Götze war,</l>
+            <l>Geht unter in dem Staube,</l>
+            <l>Mit jener lichten Engelschaar</l>
+            <l>Verschwistert nur der Glaube:</l>
+            <l>Wer liebend strebt</l>
+            <l>So lang' er lebt,</l>
+            <l>Der hebt sich aus dem Staube!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So laß uns, wie du selbst, o Sohn,</l>
+            <l>Rückkehren aus der Hölle!</l>
+            <l>O daß schon jezt Posaunenton</l>
+            <l>Von Pol zu Pol erschölle!</l>
+            <l>Dein Stachel sticht,</l>
+            <l>O Tod, uns nicht,</l>
+            <l>Du siegest nicht, o Hölle!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

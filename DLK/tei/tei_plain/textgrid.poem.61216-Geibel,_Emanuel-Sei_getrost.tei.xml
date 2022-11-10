@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sei getrost</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">172</measure>
+        <measure type="characters">964</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sei getrost</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sei getrost, und ob die Stunden</l>
+            <l>Rascher Jugend dir verweht!</l>
+            <l>Hast du doch in dir gefunden,</l>
+            <l>Was unalternd fortbesteht:</l>
+            <l>Kannst du ringend doch gestalten,</l>
+            <l>Was der Geist dir reichlich gibt,</l>
+            <l>Kannst im Lied die Liebe halten -</l>
+            <l>Selig ist, wer schafft und liebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nimmer nun des Segels Schwinge</l>
+            <l>Stell' ich aus ins weite Meer;</l>
+            <l>Denn gewaltig zieht die Dinge</l>
+            <l>Frommer Liebeszwang mir her.</l>
+            <l>Alle Wunder, die ich ferne</l>
+            <l>Suchte, trägt der Heimat Schoß;</l>
+            <l>Und so segn' ich meine Sterne,</l>
+            <l>Und so preis' ich still mein Los.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sei getrost, und ob die Stunden</l>
+            <l>Rascher Jugend dir verweht!</l>
+            <l>Hast du doch in dir gefunden,</l>
+            <l>Was unalternd fortbesteht:</l>
+            <l>Kannst du ringend doch gestalten,</l>
+            <l>Was der Geist dir reichlich gibt,</l>
+            <l>Kannst im Lied die Liebe halten -</l>
+            <l>Selig ist, wer schafft und liebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nimmer nun des Segels Schwinge</l>
+            <l>Stell' ich aus ins weite Meer;</l>
+            <l>Denn gewaltig zieht die Dinge</l>
+            <l>Frommer Liebeszwang mir her.</l>
+            <l>Alle Wunder, die ich ferne</l>
+            <l>Suchte, trägt der Heimat Schoß;</l>
+            <l>Und so segn' ich meine Sterne,</l>
+            <l>Und so preis' ich still mein Los.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

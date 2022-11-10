@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gasel.</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">117</measure>
+        <measure type="tokens">81</measure>
+        <measure type="characters">445</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1852</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196098"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gasel.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>deine Milde lebt,</l>
+            <l>Du weißt es, wie mein ganzes Herz allein in</l>
+            <l>deinem Bilde lebt;</l>
+            <l>Denn wie die Schönheit nimmer schön, die nicht</l>
+            <l>der Seele Athem kennt,</l>
+            <l>Wie durch des Lichtes Kraft allein der Zauber der</l>
+            <l>Gefilde lebt,</l>
+            <l>So ist das Leben nicht belebt, als durch der Liebe</l>
+            <l>Sakrament;</l>
+            <l>Das fühlet, wer die Liebe fühlt, wer unter ihrem</l>
+            <l>Schilde lebt.</l>
+            <l>Ich aber, der die liebste Frau sein unverlierbar</l>
+            <l>Eigen nennt,</l>
+            <l>Ich fühle, wie die ganze Welt allein in ihrem</l>
+            <l>Bilde lebt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Baum am Hügelrand</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-2 4-4 5-4 6-2</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">708</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Baum am Hügelrand</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Baum, allein am Hügelrand,</l>
+            <l>Dein Einsamsein ist mir verwandt.</l>
+            <l>Du siehst wie ich den Tagen nach,</l>
+            <l>Und ruhlos rauscht dein Blätterdach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Wolken, Wind, o, Abendland,</l>
+            <l>Wie seid ihr Schweigenden mir verwandt!</l>
+            <l>Ein Blitz springt übers dunkle Kraut, –</l>
+            <l>Die Ewigkeit hat uns angeschaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Leben, – ein feuriger Augenblick!</l>
+            <l>Und Sehnsucht und Sehnsucht ist unser Geschick.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Baum, allein am Hügelrand,</l>
+            <l>Dein Einsamsein ist mir verwandt.</l>
+            <l>Du siehst wie ich den Tagen nach,</l>
+            <l>Und ruhlos rauscht dein Blätterdach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Wolken, Wind, o, Abendland,</l>
+            <l>Wie seid ihr Schweigenden mir verwandt!</l>
+            <l>Ein Blitz springt übers dunkle Kraut, –</l>
+            <l>Die Ewigkeit hat uns angeschaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Leben, – ein feuriger Augenblick!</l>
+            <l>Und Sehnsucht und Sehnsucht ist unser Geschick.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

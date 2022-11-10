@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eines Jägers.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-6</measure>
+        <measure type="syllables">75</measure>
+        <measure type="tokens">54</measure>
+        <measure type="characters">296</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eines Jägers.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dieser holen Klufft gesuchet hat sein läger/</l>
+            <l>Ein grausamer Tyrann vnd Feind der Wilden thier/</l>
+            <l>Jetzt hat er wiederumb auch seinen Lohn darfür/</l>
+            <l>Der Todt der war sein Hundt/ die Kranckheit war sein Jäger/</l>
+            <l>So ist der Jäger nun/ wie kühn er sey vnd starck/</l>
+            <l>Gejaget durch den Todt hier vnder disen Sarck.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

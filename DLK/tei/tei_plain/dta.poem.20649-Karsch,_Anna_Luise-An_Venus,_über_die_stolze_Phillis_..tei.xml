@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Venus,  
+ über die stolze Phillis .</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">638</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Venus,  
+ über die stolze Phillis .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die du den goldnen Apfel hingerissen                 </l>
+            <l>Zu dir, mit schöner Augen Macht,</l>
+            <l>O Venus! du wirst zürnen müssen;</l>
+            <l>Mehr als Ein Apfel ward der Phillis dargebracht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mehr als Ein Schäfer wirst sich vor ihr nieder;</l>
+            <l>Ein reicher Graf umfaßt ihr Knie</l>
+            <l>Und schmeichelt ihr, und bittet wieder</l>
+            <l>Wie sonst um Zärtlichkeit, um Gegenliebe sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An ihrem andern ausgestreckten Fuße</l>
+            <l>Liegt Deutschlands größte Sängerin,</l>
+            <l>Und singet von dem sanften Kusse,</l>
+            <l>Den ihre Phillis giebt, ein zärtlich Lied dahin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Indessen läßt die Stolze durch den Diener</l>
+            <l>Die schwarzen Locken wickeln sich,</l>
+            <l>Und wird den Graf zu spotten kühner,</l>
+            <l>Und heißt der Sängerin ein höhnisch Lied an dich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

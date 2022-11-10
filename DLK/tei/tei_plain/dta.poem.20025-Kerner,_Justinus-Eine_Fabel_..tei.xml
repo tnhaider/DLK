@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eine Fabel .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">237</measure>
+        <measure type="tokens">172</measure>
+        <measure type="characters">984</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eine Fabel .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frühling war's im Land geworden</l>
+            <l>Und der Winter ward vertagt,</l>
+            <l>Ohne daß den Herrenorden</l>
+            <l>Gott noch lange drum befragt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jenen packt deß Zorn und Trauer,</l>
+            <l>Und er ruft: </l>
+            <l>„nehm' ihn nicht, du dummer Bauer!</l>
+            <l>„er ist klares Höllenlicht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„diese Sonne ungeladen</l>
+            <l>„dring' zu mir nicht frevelnd ein!“</l>
+            <l>Ruft's und schließt den Fensterladen,</l>
+            <l>Hüllt sich in die Wildschur ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber ruhig strahlt die Sonne</l>
+            <l>Und es keimt die Saat mit Lust,</l>
+            <l>Bürger, Bauer, dankt in Wonne</l>
+            <l>Gott dafür in tiefer Brust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber hinterm Ofen sitzen</l>
+            <l>Bleibt der Herr und schimpft und flucht:</l>
+            <l>„in der Wildschur will ich schwitzen,</l>
+            <l>„ich hab' keinen Lenz gesucht!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wüthend mit den Füßen stampft er:</l>
+            <l>„wer ihn lobt ist schlecht und dumm!“</l>
+            <l>Und aus seiner Pfeife dampft er</l>
+            <l>Blauen Dunst um sich herum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch der Bauer schlicht und wacker</l>
+            <l>Ruft: „o Herr! Ihr wißt es nicht!</l>
+            <l>„was schon längst gebrach dem Acker</l>
+            <l>„das ist eben dieses Licht!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„will euch dieses Licht nicht frommen,</l>
+            <l>„nun! so schließt vor ihm das Haus,</l>
+            <l>„aber, Herr! wem es willkommen,</l>
+            <l>„den laßt ungeschimpft hinaus!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

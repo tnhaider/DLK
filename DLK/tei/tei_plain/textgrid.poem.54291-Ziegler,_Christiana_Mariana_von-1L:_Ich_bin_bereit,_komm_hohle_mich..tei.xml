@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Ich bin bereit, komm hohle mich.</title>
+        <author>
+          <persName>
+            <surname>Ziegler</surname>
+            <forename>Christiana Mariana von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">414</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1727</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Ich bin bereit, komm hohle mich.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin bereit, komm hohle mich.</l>
+            <l>Hier in der Welt</l>
+            <l>Ist nichts, als Jammer, Angst und Pein;</l>
+            <l>Hingegen dort in Salems Zelt</l>
+            <l>Werd ich verklähret seyn.</l>
+            <l>Da seh ich dich von Angesicht,</l>
+            <l>Wie mir dein heilges Wort verspricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin bereit, komm hohle mich.</l>
+            <l>Hier in der Welt</l>
+            <l>Ist nichts, als Jammer, Angst und Pein;</l>
+            <l>Hingegen dort in Salems Zelt</l>
+            <l>Werd ich verklähret seyn.</l>
+            <l>Da seh ich dich von Angesicht,</l>
+            <l>Wie mir dein heilges Wort verspricht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

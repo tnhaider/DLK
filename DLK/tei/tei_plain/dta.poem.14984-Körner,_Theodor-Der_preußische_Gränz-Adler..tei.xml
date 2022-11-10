@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der preußische Gränz-Adler.</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">563</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der preußische Gränz-Adler.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Herz verheißt mir Sieg in deinem Zeichen.</l>
+            <l>Durch! edler Aar! die Wolke muß dir weichen,</l>
+            <l>Fleuch rächend auf von deiner Todten Hügel. —</l>
+            <l>Das freie Roß gehorcht dem Sklavenzügel,</l>
+            <l>Den Glanz der Raute seh' ich welk verbleichen,</l>
+            <l>Der Löwe krümmt sich unter fremden Streichen,</l>
+            <l>Du nur erhebst mit neuem Muth die Flügel.</l>
+            <l>Bald werd' ich unter deinen Söhnen stehen,</l>
+            <l>Bald werd' ich dich im Kampfe wiedersehen,</l>
+            <l>Du wirst voran zum Sieg, zur Freiheit wehen!</l>
+            <l>Was dann auch immer aus dem Sänger werde,</l>
+            <l>Heil ihm, erkämpft er auch mit seinem Schwerdte</l>
+            <l>Nichts als ein Grab in einer freien Erde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">13.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">599</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>13.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Menschlichste an uns, das Sprechen und das Denken,</l>
+            <l>Laß es entschlossen uns ins Göttliche versenken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Seel' hat nicht zuvor gesprochen und gedacht,</l>
+            <l>Eh dies Bedürfnis ihr die Leiblichkeit gebracht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und mit der Leiblichkeit wird sie entgehn den Schranken</l>
+            <l>Verworrner Worte und verworrnerer Gedanken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie wird die Wesenheit der Ding' in Gott erkennen,</l>
+            <l>Nicht mit zweideutigen Bezeichnungen benennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Denken bleibt ihr, das das Ganze ganz erkennt,</l>
+            <l>Nicht das Gestückte, das zusammensetzt und trennt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon jeden Augenblick, wo du dich hier versenkest</l>
+            <l>Ins Höchste, fühlst du daß du höh'res thust als denkest.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Reifefreuden</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">960</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Reifefreuden</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein stolzes beben und ein reiches schallen                 </l>
+            <l>Durch sp&amp;#228;ter erde schwere f&amp;#252;lle strich &amp;#183; &amp;#183;                 </l>
+            <l>Die kurzen worte waren kaum gefallen                 </l>
+            <l>Als tiefer r&amp;#252;hrung ruhe uns beschlich               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sanken hin wo sich am fruchtgel&amp;#228;nder                 </l>
+            <l>Der purpurschein im gelben schmelz verlor                 </l>
+            <l>Sie stiegen auf zum schmuck der h&amp;#252;gelr&amp;#228;nder                 </l>
+            <l>Wo f&amp;#252;r die dunkle lust die traube gor               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wagte dir nicht du nicht mir zu nahen                 </l>
+            <l>Als schr&amp;#228;ger strahl um unsre h&amp;#228;upter schoss                 </l>
+            <l>Noch gar mit rede störend zu bejahen                 </l>
+            <l>Was jezt uns band was jedes stumm genoss               </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und was in uns bei jenes tages r&amp;#252;ste                 </l>
+            <l>Auf zu den veilchenfarbnen wolken klomm                 </l>
+            <l>Was mehr als unsre tr&amp;#228;ume und gel&amp;#252;ste                 </l>
+            <l>An diesem gluten-abend zart erglomm.               </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

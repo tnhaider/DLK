@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">De l’Ouïe.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">478</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>De l’Ouïe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allein wir stellen itzt die Untersuchung ein,</l>
+            <l>Und wollen vom Gebrauch der gröbern Sinne schweigen,</l>
+            <l>Wir werden mehr zufrieden seyn</l>
+            <l>Mit Würckungen, die weniger gemein,</l>
+            <l>Und welche das </l>
+            <l>Dies sind die edelsten von allen Sinnen, auch</l>
+            <l>Die fertigst-sichersten und schnellsten im Gebrauch:</l>
+            <l>Von Kunst und Wissenschafft die besten Instrumente,</l>
+            <l>Wodurch wir den Begriff aus allen Dingen ziehn.</l>
+            <l>Wenn wir die Welt-Weisheit nun treiben,</l>
+            <l>So lasst uns auch dahin bemühn,</l>
+            <l>Sie recht zu kennen, zu beschreiben!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

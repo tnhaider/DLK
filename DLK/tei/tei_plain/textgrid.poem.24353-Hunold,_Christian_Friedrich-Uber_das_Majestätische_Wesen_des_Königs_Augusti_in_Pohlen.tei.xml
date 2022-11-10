@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Uber das Majestätische Wesen des Königs Augusti in Pohlen</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">750</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Uber das Majestätische Wesen des Königs Augusti in Pohlen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es sagt die Majestät/ die Tugend und dein Wesen/</l>
+            <l>Du bist zum Könige vom Himmel auserlesen.</l>
+            <l>Rom rühme den August auch Majestätisch schön;</l>
+            <l>Dich göttlichen August/ hat es niemahls gesehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Held/ du verlohrst dein Reich/ August nur Legionen/</l>
+            <l>Und seine Kleinmuth gab sich ungewöhnlich bloß/</l>
+            <l>Du aber wurdest noch bey dem Verluste groß.</l>
+            <l>Sprich Großmuth nun/ in wem mehr Majestät muß wohnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es sagt die Majestät/ die Tugend und dein Wesen/</l>
+            <l>Du bist zum Könige vom Himmel auserlesen.</l>
+            <l>Rom rühme den August auch Majestätisch schön;</l>
+            <l>Dich göttlichen August/ hat es niemahls gesehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Held/ du verlohrst dein Reich/ August nur Legionen/</l>
+            <l>Und seine Kleinmuth gab sich ungewöhnlich bloß/</l>
+            <l>Du aber wurdest noch bey dem Verluste groß.</l>
+            <l>Sprich Großmuth nun/ in wem mehr Majestät muß wohnen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

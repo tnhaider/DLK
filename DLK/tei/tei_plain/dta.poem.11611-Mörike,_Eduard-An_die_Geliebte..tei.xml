@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Geliebte.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">591</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Geliebte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich, von deinem Anschaun tief gestillt,</l>
+            <l>Mich stumm an deinem heil'gen Werth vergnüge,</l>
+            <l>Dann hör' ich recht die leisen Athemzüge</l>
+            <l>Des Engels, welcher sich in dir verhüllt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein erstaunt, ein fragend Lächeln quillt</l>
+            <l>Auf meinem Mund, ob mich kein Traum betrüge,</l>
+            <l>Daß nun in dir, zu ewiger Genüge,</l>
+            <l>Mein kühnster Wunsch, mein einz'ger sich erfüllt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von Tiefe dann zu Tiefen stürzt mein Sinn,</l>
+            <l>Ich höre aus der Gottheit nächt'ger Ferne</l>
+            <l>Die Quellen des Geschicks melodisch rauschen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Betäubt kehr' ich den Blick nach Oben hin,</l>
+            <l>Zum Himmel auf — da lächeln alle Sterne;</l>
+            <l>Ich kniee, ihrem Lichtgesang zu lauschen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

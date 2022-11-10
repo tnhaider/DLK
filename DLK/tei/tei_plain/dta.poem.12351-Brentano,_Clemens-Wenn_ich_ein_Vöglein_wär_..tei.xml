@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wenn ich ein Vöglein wär .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5</measure>
+        <measure type="syllables">86</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">372</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wenn ich ein Vöglein wär .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich ein Vöglein wär,               </l>
+            <l>Und auch zwei Flüglein hätt,</l>
+            <l>Flög ich zu dir;</l>
+            <l>Weils aber nicht kann seyn,</l>
+            <l>Bleib ich allhier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bin ich gleich weit von dir,</l>
+            <l>Bin ich doch im Schlaf bei dir,</l>
+            <l>Und red mit dir;</l>
+            <l>Wenn ich erwachen thu,</l>
+            <l>Bin ich allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es vergeht keine Stund in der Nacht,</l>
+            <l>Da mein Herze nicht erwacht,</l>
+            <l>Und an dich gedenkt,</l>
+            <l>Daß du mir viel tausendmal</l>
+            <l>Dein Herze geschenkt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

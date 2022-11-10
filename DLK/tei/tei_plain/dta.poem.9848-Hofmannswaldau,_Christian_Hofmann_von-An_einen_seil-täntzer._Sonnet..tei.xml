@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An einen seil-täntzer.  
+  Sonnet.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">586</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An einen seil-täntzer.  
+  Sonnet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Beschreite der lüfte zerflossene bahn/</l>
+            <l>Verwandle die glieder in segel und flügel/</l>
+            <l>Dein Pegasus schwinge sich über die hügel/</l>
+            <l>Und trete herunter in Acherons kahn/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Streck alle die kräfte des leibes noch an/</l>
+            <l>Und löse der schenckel gebundene zügel/</l>
+            <l>Dein wackelfuß rennet mit offenem bügel</l>
+            <l>Viel schneller als irgend ein westwind gethan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So webet Arachne die netze zusammen/</l>
+            <l>So drehet und endert ein irrsal den gang/</l>
+            <l>So pflegen die flammen verschrencket zu stammen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So mischt sich der vielmals vermengete klang.</l>
+            <l>Diß springen/ diß treten/ diß rencken und schwencken</l>
+            <l>Kan alle gebeine wie räderwerck lencken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

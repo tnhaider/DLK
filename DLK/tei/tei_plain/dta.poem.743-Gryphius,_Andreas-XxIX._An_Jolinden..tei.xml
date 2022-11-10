@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxIX.  An  Jolinden.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-2 5-1</measure>
+        <measure type="syllables">145</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">620</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxIX.  An  Jolinden.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was habt jhr das jhr mögt an euch ewr eigen nennen! </l>
+            <l>Die schminck ists die euch so bluttrotte Lippen macht:</l>
+            <l>Die Zähne sindt durch kunst in leeren </l>
+            <l>Man weis das </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ewr eingekanftes Haar kan auch ein Kind’ erkennen.</l>
+            <l>Der schlimme </l>
+            <l>Vnd die polirte Stirn wird billich außgelacht</l>
+            <l>Wenn sich der Salben Eys will bey den runtzeln trennen. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gemahlte/ sagt mir doch wer seidt jhr/ vnd wie alt? </l>
+            <l>Jhr meyn ich/ sechzehn jahr/ drey </l>
+            <l>Jhr seidt von Haus’ vnd sie ist vber See ankommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr schätzt euch trefflich hoch/ vmbsonst! der Maler hat </l>
+            <l>Noch für ein schöner bild/ das feil war in der stadt</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vnd länger bleibt/ denn jhr/ drey Kronen nur genommen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

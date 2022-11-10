@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Alles, Gottes Gabe.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">479</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Alles, Gottes Gabe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich des Schöpfers Werk besungen,</l>
+            <l>Und seiner Wunder Herrlichkeit:</l>
+            <l>Wenn meine Pflichten mir gelungen,</l>
+            <l>Und ich in meiner Lebenszeit,</l>
+            <l>Wenn Feld und Garten sich beblühmet,</l>
+            <l>Der Gottheit Lieb und Macht gerühmet:</l>
+            <l>So gab mir Gott die Fähigkeit;</l>
+            <l>Er gab mir die Gelegenheit,</l>
+            <l>Gesundheit, Ruh, Bequemlichkeit;</l>
+            <l>Er gab mir Friede, Sicherheit,</l>
+            <l>Die Sinnen, die Empfindlichkeit,</l>
+            <l>Zumal die Gabe des Gesichts;</l>
+            <l>Ja er gab mir so gar den Willen,</l>
+            <l>Das, was ich schuldig, zu erfüllen.</l>
+            <l>Was ist denn mein von allen? </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

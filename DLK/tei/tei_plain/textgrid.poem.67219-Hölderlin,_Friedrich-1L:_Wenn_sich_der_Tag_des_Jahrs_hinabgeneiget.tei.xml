@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Wenn sich der Tag des Jahrs hinabgeneiget</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">184</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">690</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Wenn sich der Tag des Jahrs hinabgeneiget</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn sich der Tag des Jahrs hinabgeneiget</l>
+            <l>Und rings das Feld mit den Gebirgen schweiget,</l>
+            <l>So glänzt das Blau des Himmels an den Tagen,</l>
+            <l>Die wie Gestirn in heitrer Höhe ragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Wechsel und die Pracht ist minder umgebreitet,</l>
+            <l>Dort, wo ein Strom hinab mit Eile gleitet,</l>
+            <l>Der Ruhe Geist ist aber in den Stunden</l>
+            <l>Der prächtigen Natur mit Tiefigkeit verbunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn sich der Tag des Jahrs hinabgeneiget</l>
+            <l>Und rings das Feld mit den Gebirgen schweiget,</l>
+            <l>So glänzt das Blau des Himmels an den Tagen,</l>
+            <l>Die wie Gestirn in heitrer Höhe ragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Wechsel und die Pracht ist minder umgebreitet,</l>
+            <l>Dort, wo ein Strom hinab mit Eile gleitet,</l>
+            <l>Der Ruhe Geist ist aber in den Stunden</l>
+            <l>Der prächtigen Natur mit Tiefigkeit verbunden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

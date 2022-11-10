@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[dat sünd de Wile-Göschen]</title>
+        <author>
+          <persName>
+            <surname>Brinckman</surname>
+            <forename>John</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-6 3-4 4-6</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">580</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1842</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[dat sünd de Wile-Göschen]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dat sünd de Wile-Göschen,</l>
+            <l>de hewwt all rode Höschen,</l>
+            <l>grag Kittels an un witte Jop,</l>
+            <l>de praten di wat Schöns tohop.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ehr Schnabels sünd Trumpeten,</l>
+            <l>dor don se all mit stöten.</l>
+            <l>Se snatern all in eenschen fürt</l>
+            <l>un hewwt een grausam grotes Wurt.</l>
+            <l>Se kawweln sick un schelln.</l>
+            <l>Wen schall dat meist woll gelln...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dat sünd de Wile-Göschen,</l>
+            <l>de hewwt all rode Höschen,</l>
+            <l>grag Kittels an un witte Jop,</l>
+            <l>de praten di wat Schöns tohop.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ehr Schnabels sünd Trumpeten,</l>
+            <l>dor don se all mit stöten.</l>
+            <l>Se snatern all in eenschen fürt</l>
+            <l>un hewwt een grausam grotes Wurt.</l>
+            <l>Se kawweln sick un schelln.</l>
+            <l>Wen schall dat meist woll gelln...</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

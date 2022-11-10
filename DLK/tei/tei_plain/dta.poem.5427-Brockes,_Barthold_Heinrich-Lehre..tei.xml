@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lehre.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-6 2-5 3-6</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">165</measure>
+        <measure type="characters">938</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1736</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198582"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lehre.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Lebens wesentliches Gut ist eine Still' in unsrer
+Seelen,</l>
+            <l>Die, wenn man mit Vernunft verfährt, wir uns nach</l>
+            <l>Und uns zu einem Endzweck setzen. Es ist nichts nöhtigers</l>
+            <l>Als daß wir, dieser künft’gen Ruh, uns, so viel möglich</l>
+            <l>Die Lust und Reitzung auf zu opfern, die uns die Gegen-</l>
+            <l>Und uns dadurch stürtzen pfleget, eh’ oft kaum wenig</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es müste keine Leidenschaft so lebhaft und so reitzend</l>
+            <l>Daß sie, durch sich, uns hindern sollte, das Urtheil nicht</l>
+            <l>Das, über unser Thun und Lassen, dereinst wird von uns</l>
+            <l>Wenn eine kurtze Trunckenheit den Uberlegungen wird</l>
+            <l>Die ihr stets pflegen nachzufolgen. Vielleicht wirfst du</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll denn ein Trunckener so gut, als ob er nüchtern wäre,</l>
+            <l>Das ist ja schlechter dings nicht möglich. Doch hör’! ein</l>
+            <l>Nimmt sich doch auch beym Trunck in acht, in Spott und</l>
+            <l>Als wie ein wilder Trunckenbold, der stets dadurch in</l>
+            <l>Drum brauch (jetzt siehst du daß ich dich nicht mit zu stren-</l>
+            <l>Der gegenwärt’gen Lust! doch so: daß sie der künftigen</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

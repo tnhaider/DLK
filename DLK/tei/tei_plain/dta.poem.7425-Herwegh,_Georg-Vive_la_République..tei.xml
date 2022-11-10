@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vive la République.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">221</measure>
+        <measure type="tokens">139</measure>
+        <measure type="characters">844</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vive la République.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Berg an Berg und Brand an Brand</l>
+            <l>Lodern hier zusammen;</l>
+            <l>Welch ein Glühen! — ha! so stand</l>
+            <l>Ilion einst in Flammen.</l>
+            <l>Ein versinkend Königshaus</l>
+            <l>Raucht vor meinem Blicke,</l>
+            <l>Und ich ruf' ins Land hinaus:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heil'ge Gluten, reiner Schnee,</l>
+            <l>Golden Freiheitkissen,</l>
+            <l>Abendglanzumstralter See,</l>
+            <l>Schluchten, wild zerrissen —</l>
+            <l>Daß im Schweizerlandrevier</l>
+            <l>Sich kein Nacken bücke!</l>
+            <l>Kaiser ist der Bürger hier;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Phalanx stehet fest,</l>
+            <l>Fest und ohne Wanken,</l>
+            <l>Und an Euren Alpen meßt</l>
+            <l>Euere Gedanken!</l>
+            <l>Eurer </l>
+            <l>Ward Euch vom Geschicke;</l>
+            <l>Auf </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blumen um die Schläfe her</l>
+            <l>Steigen Eure Höhen,</l>
+            <l>Frisch, wie Venus aus dem Meer,</l>
+            <l>Auf aus Euren Seeen;</l>
+            <l>Daß aus Deinem Jungfernkranz</l>
+            <l>Man kein Röschen knicke,</l>
+            <l>Schweizerin, hüt' ihn wohl beim Tanz!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf die Felsen wollte Gott</l>
+            <l>Seine Kirche bauen;</l>
+            <l>Vor den Felsen soll dem Spott</l>
+            <l>Seiner Feinde grauen!</l>
+            <l>Zwischen hier und zwischen dort</l>
+            <l>Gibt's nur Eine Brücke:</l>
+            <l>Freiheit, o du Felsenwort!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

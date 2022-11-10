@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Corsin.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">167</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">695</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Corsin.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als das Mütterlein erkrankt,</l>
+            <l>Zog es ächzend aus die Schuh,</l>
+            <l>Ist dem Bettlein zugewankt,</l>
+            <l>Bettet' sich zur ew'gen Ruh,</l>
+            <l>Seine Haare, weiß wie Flachs,</l>
+            <l>Seine Füße, gelb wie Wachs —</l>
+            <l>Statt wie Mütterlein zu thun,</l>
+            <l>Sterb' ich stracks in meinen Schuhn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heute war ich in der Stadt</l>
+            <l>Mit dem letzten Silberling,</l>
+            <l>Schaute, was der Krämer hat,</l>
+            <l>Kramte weder Kreuz noch Ring,</l>
+            <l>Kaufte Mehl von Weizenkorn</l>
+            <l>Und ein volles Pulverhorn —</l>
+            <l>Zu dem Liebsten lauf' ich nun,</l>
+            <l>Sterbe stracks in meinen Schuhn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ritten just die Blauen </l>
+            <l>Tranken beim Battista Wein,</l>
+            <l>Luden scharf am Zollerhaus,</l>
+            <l>Sprengten ins Gebirg hinein.</l>
+            <l>Rasch bin links ich abgeschweift.</l>
+            <l>Psss ... Die erste Kugel pfeift —</l>
+            <l>Nächtens bei dem Liebsten ruhn</l>
+            <l>Werd' ich stracks in meinen Schuhn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

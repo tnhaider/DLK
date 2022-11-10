@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hochzeitslied.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">411</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hochzeitslied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus der Eltern Macht und Haus</l>
+            <l>Tritt die zücht'ge Braut heraus</l>
+            <l>An des Lebens Scheide —</l>
+            <l>Geh und lieb' und leide!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freigesprochen, unterjocht,</l>
+            <l>Wie der junge Busen pocht</l>
+            <l>Im Gewand von Seide —</l>
+            <l>Geh und lieb' und leide!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frommer Augen helle Lust</l>
+            <l>Ueberstrahlt an voller Brust</l>
+            <l>Blitzendes Geschmeide —</l>
+            <l>Geh und lieb' und leide!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Merke dir's, du blondes Haar:</l>
+            <l>Schmerz und Lust Geschwisterpaar,</l>
+            <l>Unzertrennlich beide —</l>
+            <l>Geh und lieb' und leide!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

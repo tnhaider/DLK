@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Madrigal</title>
+        <author>
+          <persName>
+            <surname>Zäunemann</surname>
+            <forename>Sidonia Hedwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">516</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1727</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Madrigal</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Je mehr der Himmel sich ergeußt,</l>
+            <l>Und Regen auf die Erde fleußt;</l>
+            <l>Je rein und klärer wird alsdann die Luft.</l>
+            <l>So auch, je mehr aus deiner Augen Licht</l>
+            <l>Ein Thränen-Guß der Sünde wegen bricht;</l>
+            <l>Je reiner wird dein Herz auf dieser Erden</l>
+            <l>Vom Sünden-Schlamm gesaubert werden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Je mehr der Himmel sich ergeußt,</l>
+            <l>Und Regen auf die Erde fleußt;</l>
+            <l>Je rein und klärer wird alsdann die Luft.</l>
+            <l>So auch, je mehr aus deiner Augen Licht</l>
+            <l>Ein Thränen-Guß der Sünde wegen bricht;</l>
+            <l>Je reiner wird dein Herz auf dieser Erden</l>
+            <l>Vom Sünden-Schlamm gesaubert werden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

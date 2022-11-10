@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sie flehet darwider.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">411</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sie flehet darwider.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein eintziger Trost/ es stirbet der Geist/</l>
+            <l>Das Elend den Faden des Lebens zerreist</l>
+            <l>Wenn du auf mein Leben</l>
+            <l>Dein Lieben wilt geben.</l>
+            <l>Ach! daß sich verschleust</l>
+            <l>Dein liebliches Hertz/</l>
+            <l>Und setzest die Wunden/</l>
+            <l>Die ich schon empfunden</l>
+            <l>In grösseren Schmertz</l>
+            <l>Ich sterbe mein Licht/</l>
+            <l>Weil das mir gebricht</l>
+            <l>Wodurch ich die Sinnen</l>
+            <l>Sonst können gewinnen</l>
+            <l>Zur ewigen Pflicht.</l>
+            <l>Wilt du dich erweisen</l>
+            <l>Denn härter wie Eysen?</l>
+            <l>Ach thu es doch nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein Schwäbisch Lied.  
+ Jm Taun: Was sott Jsinga.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">222</measure>
+        <measure type="tokens">159</measure>
+        <measure type="characters">845</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein Schwäbisch Lied.  
+ Jm Taun: Was sott Jsinga.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Yer hipscha Meatza luogat zuo</l>
+            <l>Mar wettat gaun mit Vy a kuo</l>
+            <l>(mit gaunst vnd guotan ayhro)</l>
+            <l>Mar dumlat as reacht/</l>
+            <l>As depfere kneacht/</l>
+            <l>Mit diena graussa hayra jo hayro.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wem mara wenga bsoffa send/</l>
+            <l>Vnd das mar aunsarn Spilman hend/</l>
+            <l>Dear aß kan zdanza pfeiffo:</l>
+            <l>So sem mar schaun fraw/</l>
+            <l>Vnd kennat gaun aw</l>
+            <l>Dmedla depfar angreiffa jo greiffo.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was derfs vil weasas do/ botz bleach/</l>
+            <l>Lend aß sien wear verduot duy zeach/</l>
+            <l>Lend aß gaund’stanga leyho:</l>
+            <l>So muoß aß gaun sain</l>
+            <l>Vm mar stöckats nain</l>
+            <l>Sotts schaun dia gsella kheya jo kheyo.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nan so gend aß an healla blick</l>
+            <l>Den Vyar gsicht ischt lauttar glick/</l>
+            <l>Vnd macht aß dstang erschittlo:</l>
+            <l>Vyr hor des ischt aw</l>
+            <l>As glitzig aß schtraw/</l>
+            <l>Wie raun send uyra ditla jo ditlo.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vnd vyra goscha send so rawt/</l>
+            <l>Aw süssar wedar käß at brawt</l>
+            <l>Wen ar dzän froindly blöckot:</l>
+            <l>Ar frayata gaun</l>
+            <l>Aß wem mar dschtang schaun</l>
+            <l>Hettat mitta nein gschtöckat/ jo gschtöckot.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

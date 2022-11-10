@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Lerche .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">558</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Lerche .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kann hier nicht singen,</l>
+            <l>Aus dieser Mauern dunklen Ringen</l>
+            <l>Muß ich mich schwingen</l>
+            <l>Vor Lust und tiefem Weh.</l>
+            <l>O Freude, in klarer Höh</l>
+            <l>Zu sinken und sich zu heben,</l>
+            <l>In Gesang</l>
+            <l>Ueber die grüne Erde dahin zu schweben,</l>
+            <l>Wie unten die licht' und dunkeln Streifen</l>
+            <l>Wechselnd im Fluge vorüberschweifen,</l>
+            <l>Aus der Tiefe ein Wirren und Rauschen und Hämmern,</l>
+            <l>Die Erde aufschimmernd im Frühlingsdämmern,</l>
+            <l>Wie ist die Welt so voller Klang!</l>
+            <l>Herz, was bist Du bang?</l>
+            <l>Mußt aufwärts dringen!</l>
+            <l>Die Sonne tritt hervor,</l>
+            <l>Wie glänzen mir Brust und Schwingen,</l>
+            <l>Wie still und weit ist's droben am Himmelsthor.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

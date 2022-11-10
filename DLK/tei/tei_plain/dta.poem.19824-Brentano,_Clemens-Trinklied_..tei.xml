@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trinklied .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">33</measure>
+        <measure type="verses_per_stanza">1-9 2-7 3-9 4-8</measure>
+        <measure type="syllables">229</measure>
+        <measure type="tokens">174</measure>
+        <measure type="characters">910</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trinklied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich ging einmal nach Graßdorf nein,               </l>
+            <l>Da kam ich vor die Schenke,</l>
+            <l>Und da ich vor die Schenke kam,</l>
+            <l>Da fing mich an zu dursten.</l>
+            <l>Der Wirth der sezt mich oben an,</l>
+            <l>Er dacht ich wär der beste.</l>
+            <l>Ey Mutter Gottes ja</l>
+            <l>Maynblümlein bla,</l>
+            <l>Wie lachten die andern Gäste.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und weil ich nun gegessen hatt'</l>
+            <l>Da sollt' ich auch bezahlen,</l>
+            <l>Da fragt ich, was die Mahlzeit kost',</l>
+            <l>Da sprach der Wirth ein Thaler,</l>
+            <l>Ey Mutter Gottes ja</l>
+            <l>Maynblümlein bla,</l>
+            <l>Da hatt' ich keinen Thaler.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Wirth der zog mein Röckle aus,</l>
+            <l>Und jagt mich in die Scheune,</l>
+            <l>Ey Mutter Gottes ja, Maynblümlein bla,</l>
+            <l>Wie lang war mir die Weile.</l>
+            <l>Und als es gegen Morgen kam,</l>
+            <l>Da träufelts von dem Dache,</l>
+            <l>Ey Mutter Gottes ja</l>
+            <l>Maynblümlein bla,</l>
+            <l>Da mußt ich selber lachen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als es gegen Mittag kam,</l>
+            <l>Da zog der Wirth mir's Käpple aus,</l>
+            <l>Und jagt mich auf die Straße.</l>
+            <l>Und als ich auf die Straße kam,</l>
+            <l>Die Schuh warn sehr zerbrochen,</l>
+            <l>Ey Mutter Gottes ja</l>
+            <l>Maynblümlein bla,</l>
+            <l>Da lief ich auf den Socken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

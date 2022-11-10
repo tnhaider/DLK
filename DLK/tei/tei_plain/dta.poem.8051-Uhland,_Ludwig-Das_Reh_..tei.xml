@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Reh .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">94</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">361</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Reh .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es jagt’ ein Jäger früh am Tag</l>
+            <l>Ein Reh durch Wälder und Auen,</l>
+            <l>Da sah er aus dem Gartenhag</l>
+            <l>Ein rosig Mägdlein schauen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist geschehn dem guten Pferd?</l>
+            <l>Hat es den Fuß verletzet?</l>
+            <l>Was ist geschehn dem Jäger werth,</l>
+            <l>Daß er nicht mehr ruft und hetzet?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Rehlein rennet immer noch</l>
+            <l>Ueber Berg und Thal so bange.</l>
+            <l>Halt an, du seltsam Thierlein, doch!</l>
+            <l>Der Jäger vergaß dich lange.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

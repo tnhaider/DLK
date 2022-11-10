@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Storchenbotschaft.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">308</measure>
+        <measure type="tokens">230</measure>
+        <measure type="characters">1274</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Storchenbotschaft.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Schäfers sein Haus und das steht auf zwei Rad,</l>
+            <l>Steht hoch auf der Heiden, so frühe, wie spat.</l>
+            <l>Und wenn nur ein Mancher so'n Nachtquartier hätt'!</l>
+            <l>Ein Schäfer tauscht nicht mit dem König sein Bett.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und käm' ihm zu Nacht auch was Seltsames vor,</l>
+            <l>Er betet sein Sprüchel und legt sich auf's Ohr,</l>
+            <l>Ein Geistlein, ein Hexlein, so lustige Wicht',</l>
+            <l>Sie klopfen ihm wohl, doch er antwortet nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einmal doch, da ward es ihm wirklich zu bunt,</l>
+            <l>Es knopert am Laden, es winselt der Hund,</l>
+            <l>Nun ziehet mein Schäfer den Riegel — ei schau!</l>
+            <l>Da stehen zwei Störche, der Mann und die Frau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Pärchen, es machet ein schön Kompliment,</l>
+            <l>Es möchte gern reden, ach, wenn es nur könnt'!</l>
+            <l>Was will mir das Ziefer? ist so was erhört?</l>
+            <l>Doch ist mir wohl fröhliche Botschaft bescheert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr seyd wohl dahinten zu Hause am Rhein?</l>
+            <l>Ihr habt wohl mein Mädel gebissen in's Bein?</l>
+            <l>Nun weinet das Kind und die Mutter noch mehr,</l>
+            <l>Sie wünschet den Herzallerliebsten sich her?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wünschet daneben die Taufe bestellt:</l>
+            <l>Ein Lämmlein, ein Würstlein, ein Beutelein Geld? —</l>
+            <l>So sagt nur, ich käm' in zwei Tag oder drei,</l>
+            <l>Und grüßt mir mein Bübel und rührt ihm den Brei!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch halt! warum stellt ihr zu Zweien euch ein?</l>
+            <l>Es werden doch, hoff' ich, nicht Zwillinge seyn? —</l>
+            <l>Da klappern die Störche im lustigsten Ton,</l>
+            <l>Sie nicken und knixen und fliegen davon.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

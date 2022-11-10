@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Selbstgefühl .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-3 2-3 3-3 4-3 5-3 6-3</measure>
+        <measure type="syllables">134</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">604</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Selbstgefühl .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, wie mirs ist,               </l>
+            <l>Ich bin nicht krank und bin nicht gesund.</l>
+            <l>Ich bin blessirt und hab keine Wund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, wie mirs ist,</l>
+            <l>Ich thät gern essen und geschmeckt mir nichts,</l>
+            <l>Ich hab ein Geld und gilt mir nichts.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, wie mirs ist,</l>
+            <l>Ich hab sogar kein Schnupftaback,</l>
+            <l>Und hab kein Kreutzer Geld im Sack.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, wie mirs ist,</l>
+            <l>Heirathen thät ich auch schon gern,</l>
+            <l>Kann aber Kinderschrein nicht hörn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, wie mir ist,</l>
+            <l>Ich hab erst heut den Doktor gefragt,</l>
+            <l>Der hat mirs unters Gesicht gesagt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß wohl, was dir ist,</l>
+            <l>Ein Narr bist du gewiß;</l>
+            <l>Nun weiß ich wie mir ist!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die traurige Krönung.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-4 5-3 6-7</measure>
+        <measure type="syllables">272</measure>
+        <measure type="tokens">177</measure>
+        <measure type="characters">1045</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die traurige Krönung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es war ein König Milesint,</l>
+            <l>Von dem will ich euch sagen;</l>
+            <l>Der meuchelte sein Bruders-Kind,</l>
+            <l>Wollte selbst die Krone tragen.</l>
+            <l>Die Krönung ward mit Prangen</l>
+            <l>Auf Liffey-Schloß begangen.</l>
+            <l>O Irland! Irland! warest du so blind?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König sizt um Mitternacht</l>
+            <l>Im öden Marmorsaale,</l>
+            <l>Er freut sich seiner neuen Pracht</l>
+            <l>Beim einsamen Pokale;</l>
+            <l>Er spricht zu seinem Sohne:</l>
+            <l>„noch einmal bring' die Krone!</l>
+            <l>Doch schau, wer hat die Pforten aufgemacht?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da kommt ein seltsam Todtenspiel,</l>
+            <l>Ein Zug mit leisen Tritten,</l>
+            <l>Vermummte Gäste groß und viel,</l>
+            <l>Eine Krone schwankt in Mitten;</l>
+            <l>Es drängt sich durch die Pforte</l>
+            <l>Mit Flüstern ohne Worte;</l>
+            <l>Dem Könige, dem wird so geisterschwül.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und aus der schwarzen Menge blickt</l>
+            <l>Ein Kind mit frischer Wunde,</l>
+            <l>Es lächelt sterbensweh und nickt,</l>
+            <l>Es macht im Saal die Runde,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es trippelt zu dem Throne,</l>
+            <l>Es reichet eine Krone</l>
+            <l>Dem Könige, deß Herze tief erschrickt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darauf der Zug von dannen strich,</l>
+            <l>Von Morgenluft berauschet;</l>
+            <l>Die Kerzen flackern wunderlich,</l>
+            <l>Der Mond am Fenster lauschet;</l>
+            <l>Der Sohn mit Angst und Schweigen</l>
+            <l>Zum Vater thät sich neigen, —</l>
+            <l>Er neiget über eine Leiche sich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

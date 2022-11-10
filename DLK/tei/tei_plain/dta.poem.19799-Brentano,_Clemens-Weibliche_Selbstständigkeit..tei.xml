@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Weibliche Selbstständigkeit.</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">232</measure>
+        <measure type="tokens">166</measure>
+        <measure type="characters">911</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Weibliche Selbstständigkeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer noch in Freiheit leben will,               </l>
+            <l>Der komm mit mir zum Walde,</l>
+            <l>Diana rast und rastet still,</l>
+            <l>Und rufet alsobalde:</l>
+            <l>Frau Echo schlägt den Triller drein,</l>
+            <l>Daß mir mein Herz zerspringt,</l>
+            <l>Weil auf der Sait Diana spielt,</l>
+            <l>Und mir ein Liedlein singt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als ich in Gedanken da</l>
+            <l>Schier ganz verwirret ware,</l>
+            <l>Da kam ein Wildpretschütz mir nah,</l>
+            <l>Dazu ein junger Knabe.</l>
+            <l>Er nennet mich bei meinem Nam,</l>
+            <l>Und schaut mich herzlich an:</l>
+            <l>Wie kommen wir allhier zusamm,</l>
+            <l>Sprach er, o Schäfersdam?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich gab zur Antwort: Kleiner Bu,</l>
+            <l>Was thust du hier im Walde,</l>
+            <l>Heraus gehörst du in die Ruh,</l>
+            <l>Die Nacht ist dir zu kalte!</l>
+            <l>Mein Feuer habe ich bey mir!</l>
+            <l>Und seufzet allsogleich,</l>
+            <l>Wen auf der Sait Diana sprelt</l>
+            <l>In ihrem edlen Reich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie führt ihn ins Gebüsch hinein,</l>
+            <l>Zum grün tapzierten Saale,</l>
+            <l>Sie bleibt nicht lange so allein,</l>
+            <l>Und strickt am Vogelgarne,</l>
+            <l>Das Feuer lockt die Flora hin,</l>
+            <l>Die Blumen sehn hinein,</l>
+            <l>Ich bleib mit meinem freien Sinn</l>
+            <l>Wohl in dem Wald allein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

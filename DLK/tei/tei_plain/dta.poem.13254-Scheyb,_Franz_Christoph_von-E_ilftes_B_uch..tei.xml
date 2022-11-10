@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">E ilftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">495</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>E ilftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sie der Königinn das Kreuz von weiten zeigte,</l>
+            <l>Den Stuffen näher kam und sich mit Demuth neigte;</l>
+            <l>Alsdann es ihrer Hand zum übernehmen gab;</l>
+            <l>So sprach die Königinn: „Sieh! dieses ist der Stab,</l>
+            <l>„der ists, durch welchen ich mich und mein Haus beschüzte,</l>
+            <l>300”Die Länder schirmete, den Grund des Thrones stüzte;</l>
+            <l>„der ists, durch dessen Kraft ich meinem Heer befahl.</l>
+            <l>Hier überreichte sie das Kreuz dem Ehgemahl,</l>
+            <l>Der es mit Ehrfurcht nahm, und sich erreget zeigte,</l>
+            <l>Indem er sich darum mit zarten Mienen neigte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

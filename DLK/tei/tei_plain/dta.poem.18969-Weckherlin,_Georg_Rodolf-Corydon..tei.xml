@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Corydon.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-5 2-4</measure>
+        <measure type="syllables">58</measure>
+        <measure type="tokens">37</measure>
+        <measure type="characters">231</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Corydon.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schaw/ Cloris/ wie der Fluß</l>
+            <l>Durch meiner Zeher guß</l>
+            <l>Zunemend/ dir bekennet</l>
+            <l>Das wider dich er brennet</l>
+            <l>Vnd rauschet von verdruß:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schaw wie sein starckes rauschen</l>
+            <l>Versuchend meine brunst</l>
+            <l>Verfluchend deine kunst</l>
+            <l>Wolt gern sein layd vertauschen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">MeLANCHOLIE DES ABENDS</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>MeLANCHOLIE DES ABENDS</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>— Der Wald, der sich verstorben breitet —</l>
+            <l>Und Schatten sind um ihn, wie Hecken.</l>
+            <l>Das Wild kommt zitternd aus Verstecken,</l>
+            <l>Indes ein Bach ganz leise gleitet</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Farnen folgt und alten Steinen</l>
+            <l>Und silbern glänzt aus Laubgewinden.</l>
+            <l>Man hört ihn bald in schwarzen Schlünden —</l>
+            <l>Vielleicht, daß auch schon Sterne scheinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der dunkle Plan scheint ohne Massen,</l>
+            <l>Verstreute Dörfer, Sumpf und Weiher,</l>
+            <l>Und etwas täuscht dir vor ein Feuer.</l>
+            <l>Ein kalter Glanz huscht über Straßen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Himmel ahnet man Bewegung,</l>
+            <l>Ein Heer von wilden Vögeln wandern</l>
+            <l>Nach jenen Ländern, schönen, andern.</l>
+            <l>Es steigt und sinkt des Rohres Regung.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

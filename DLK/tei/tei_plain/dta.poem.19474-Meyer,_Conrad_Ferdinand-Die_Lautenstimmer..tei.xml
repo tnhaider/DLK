@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Lautenstimmer.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">822</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Lautenstimmer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlummernd jüngst in Waldesraum</l>
+            <l>Hatt' ich einen hübschen Traum:</l>
+            <l>Etwas regt sich in der Hecke,</l>
+            <l>Etwas klimpert im Verstecke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Gesträuch mit leiser Hand</l>
+            <l>Theilt' ich, bis das Nest ich fand:</l>
+            <l>Kinder, rings im Grase sitzend,</l>
+            <l>Mit den hellen Augen blitzend!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rutschend auf dem nackten Knie,</l>
+            <l>Stimmten eine Laute sie —</l>
+            <l>„sagt, was lagert ihr im Runde?</l>
+            <l>Sprecht, was schaffet ihr im Bunde?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf das zarte Werk erpicht,</l>
+            <l>Hörten sie die Frage nicht.</l>
+            <l>„seht, wie ist sie zugerichtet!</l>
+            <l>Wundgerissen! Fast vernichtet!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Emsig ward geklopft, gespäht,</l>
+            <l>An den Saiten flink gedreht,</l>
+            <l>Ließen eine tiefer klingen,</l>
+            <l>Ließen eine hohe springen, —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Endlich klang die Laute rein</l>
+            <l>Und die Kinder spielten fein,</l>
+            <l>Bis ich aus dem Traum erwachte</l>
+            <l>Und mir seinen Sinn bedachte:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dumpf entschlummert, jetzo hell,</l>
+            <l>Ganz ein anderer Gesell!</l>
+            <l>Was die Kinder ohne Fehle</l>
+            <l>Stimmten, es war meine Seele!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

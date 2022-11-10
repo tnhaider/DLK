@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">9</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">462</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1812</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>9</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer Marmor hier und Erz und Elfenbein erblickt,</l>
+            <l>Und was noch sonst von Stoff die edle Kunst beschickt,</l>
+            <l>Der denkt: Wie möchten wir mit emsigem Fleiß</l>
+            <l>Und treuem Sinn das alles umgestalten,</l>
+            <l>In tausend Bildern </l>
+            <l>Und unsre Liebe zu entfalten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer Marmor hier und Erz und Elfenbein erblickt,</l>
+            <l>Und was noch sonst von Stoff die edle Kunst beschickt,</l>
+            <l>Der denkt: Wie möchten wir mit emsigem Fleiß</l>
+            <l>Und treuem Sinn das alles umgestalten,</l>
+            <l>In tausend Bildern </l>
+            <l>Und unsre Liebe zu entfalten!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

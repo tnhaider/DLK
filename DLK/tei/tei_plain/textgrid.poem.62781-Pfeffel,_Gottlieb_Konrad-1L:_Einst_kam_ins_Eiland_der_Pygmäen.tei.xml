@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Einst kam ins Eiland der Pygmäen</title>
+        <author>
+          <persName>
+            <surname>Pfeffel</surname>
+            <forename>Gottlieb Konrad</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">706</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1774</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Einst kam ins Eiland der Pygmäen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einst kam ins Eiland der Pygmäen</l>
+            <l>Ein Zwerg aus unsrer Welt zurück.</l>
+            <l>Wohlan, was hast du dort gesehen?</l>
+            <l>Fragt sein Papa. Mit starrem Blick,</l>
+            <l>Versetzt er, sah ich ganze Schaaren</l>
+            <l>Von Riesen: auf mein Wort, sie waren ...</l>
+            <l>Fünf Fuß hoch. Wisse, sprach der Mann,</l>
+            <l>Der einst mit Gulivern gereiset,</l>
+            <l>Daß man nicht gleich ein Riese heißet,</l>
+            <l>Wenn man kein Zwerg mehr heißen kann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einst kam ins Eiland der Pygmäen</l>
+            <l>Ein Zwerg aus unsrer Welt zurück.</l>
+            <l>Wohlan, was hast du dort gesehen?</l>
+            <l>Fragt sein Papa. Mit starrem Blick,</l>
+            <l>Versetzt er, sah ich ganze Schaaren</l>
+            <l>Von Riesen: auf mein Wort, sie waren ...</l>
+            <l>Fünf Fuß hoch. Wisse, sprach der Mann,</l>
+            <l>Der einst mit Gulivern gereiset,</l>
+            <l>Daß man nicht gleich ein Riese heißet,</l>
+            <l>Wenn man kein Zwerg mehr heißen kann.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

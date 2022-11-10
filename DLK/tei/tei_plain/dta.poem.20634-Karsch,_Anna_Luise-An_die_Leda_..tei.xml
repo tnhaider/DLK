@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Leda .</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">269</measure>
+        <measure type="tokens">157</measure>
+        <measure type="characters">1032</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Leda .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von dem Olympus zogest du ihn nieder,                 </l>
+            <l>O Leda! deinetwegen trägt</l>
+            <l>Der Donnergott ein lilienweiß Gefieder,</l>
+            <l>Der sonst mit Keulen um sich schlägt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er theilt die Wolken, seine Flügel trennen</l>
+            <l>Den Aether und den Sonnenstrahl,</l>
+            <l>Er kommt, und deines Auges Blicke brennen,</l>
+            <l>Dein Antlitz blühet wie das Thal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Busen schwillt, wie kleine Flocken Hügel,</l>
+            <l>Wenn Boreas durch Fluren bläst</l>
+            <l>Und jeder Bach verwandelt wird zum Spiegel,</l>
+            <l>Und das gestorbne Laub verwest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du lächelst mit der fein geschnitzten Lippe</l>
+            <l>Dem Schwane, der den Hals erhebt</l>
+            <l>Und nach der weißen Alabaster-Klippe</l>
+            <l>Wollüstig mit dem Schnabel strebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sein maulbeerfarbnes Auge redet Liebe,</l>
+            <l>Die ganze Macht der Buhlerei,</l>
+            <l>Den innern Aufruhr schlau versteckter Triebe</l>
+            <l>Verräth der Schwan durch Schmeichelei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er will dich küssen, sterbliche Beglückte!</l>
+            <l>Beneidenswerthe Leda! dich</l>
+            <l>Umfaßt mit beiden Flügeln der entzückte,</l>
+            <l>Beflammte Gott, und wünschet sich</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den süßen Rausch der Küssenden auf Erden,</l>
+            <l>Und fühlet Amors stärksten Pfeil,</l>
+            <l>Und trinket mit süßlachenden Geberden</l>
+            <l>Des Liebes-Nektars lezten Theil.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

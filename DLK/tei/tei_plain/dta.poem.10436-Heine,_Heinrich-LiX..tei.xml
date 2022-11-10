@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">LiX.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">149</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">567</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>LiX.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Herbstwind rüttelt die Bäume,</l>
+            <l>Die Nacht ist feucht und kalt;</l>
+            <l>Gehüllt im grauen Mantel,</l>
+            <l>Reite ich einsam im Wald!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie ich reite, so reiten</l>
+            <l>Mir die Gedanken voraus;</l>
+            <l>Sie tragen mich leicht und luftig</l>
+            <l>Nach meiner Liebsten Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Hunde bellen, die Diener</l>
+            <l>Erscheinen mit Kerzengeflirr;</l>
+            <l>Die Wendeltreppe stürm' ich</l>
+            <l>Hinauf mit Sporengeklirr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im leuchtenden Teppichgemache,</l>
+            <l>Da ist es so duftig und warm,</l>
+            <l>Da harret meiner die Holde —</l>
+            <l>Ich fliege in ihren Arm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es säuselt der Wind in den Blättern,</l>
+            <l>Es spricht der Eichenbaum:</l>
+            <l>Was willst du, thörichter Reiter,</l>
+            <l>Mit deinem thörichten Traum?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

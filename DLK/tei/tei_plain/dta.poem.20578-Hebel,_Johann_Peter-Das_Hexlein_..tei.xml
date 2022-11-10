@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Hexlein .</title>
+        <author>
+          <persName>
+            <surname>Hebel</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">9</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4 9-4</measure>
+        <measure type="syllables">300</measure>
+        <measure type="tokens">231</measure>
+        <measure type="characters">1158</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1803</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192133"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Hexlein .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und woni uffem Schnid-Stuhl sitz               </l>
+            <l>für Basseltang, und Liechtspöh schnitz,</l>
+            <l>se chunnt e Hexli wohlgimuth,</l>
+            <l>und frogt no frey: „Haut’s Messer gut?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und seit mer frey no Gute Tag!</l>
+            <l>und woni lueg, und woni sag:</l>
+            <l>„’s chönnt besser go, und Große Dank!“</l>
+            <l>se wird mer ’s Herz uf ei mol chrank.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und uf, und furt enanderno,</l>
+            <l>und woni lueg, ischs nümme do,</l>
+            <l>und woni rüef: „Du Hexli he!“</l>
+            <l>se gits mer scho kei Antwort meh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sieder schmekt mer ’s Esse nit;</l>
+            <l>stell umme, was de hesch und witt,</l>
+            <l>und wenn en anders schlofe cha,</l>
+            <l>se höri alli Stunde schla.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und was i schaff das g’rothet nit,</l>
+            <l>und alli Schritt und alli Tritt,</l>
+            <l>se chunnt mer ebe das Hexli für,</l>
+            <l>und was i schwetz, isch hinterfür.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>’s isch wohr, es het e Gsichtli gha,</l>
+            <l>’s verluegti si en Engel dra;</l>
+            <l>und ’s seit mit so ’me freie Muth,</l>
+            <l>so lieb und süß: „Haut ’s Messer gut?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und leider hani’s ghört und gseh,</l>
+            <l>und sellemols und nümme meh;</l>
+            <l>dört ischs an Hag und Hurst verbey,</l>
+            <l>und witers über Stock und Stei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer spöchtet mer mi Hexli us,</l>
+            <l>wer zeigtmer siner Mutter Hus?</l>
+            <l>J lauf no, was i laufe cha,</l>
+            <l>wer weiß, se triffi’s doch no a!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>J lauf no alli Dörfer us,</l>
+            <l>i such und frog vo Hus zu Hus,</l>
+            <l>und würd mer nit mi Hexli chund,</l>
+            <l>se würdi ebe nümme gsund.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

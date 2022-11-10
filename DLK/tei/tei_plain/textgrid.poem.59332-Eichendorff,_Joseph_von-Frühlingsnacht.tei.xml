@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frühlingsnacht</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">738</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1822</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frühlingsnacht</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Übern Garten durch die Lüfte</l>
+            <l>Hört ich Wandervögel ziehn,</l>
+            <l>Das bedeutet Frühlingsdüfte,</l>
+            <l>Unten fängt's schon an zu blühn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jauchzen möcht ich, möchte weinen,</l>
+            <l>Ist mir's doch, als könnt's nicht sein!</l>
+            <l>Alte Wunder wieder scheinen</l>
+            <l>Mit dem Mondesglanz herein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und der Mond, die Sterne sagen's,</l>
+            <l>Und in Träumen rauscht's der Hain,</l>
+            <l>Und die Nachtigallen schlagen's:</l>
+            <l>Sie ist Deine, sie ist dein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Übern Garten durch die Lüfte</l>
+            <l>Hört ich Wandervögel ziehn,</l>
+            <l>Das bedeutet Frühlingsdüfte,</l>
+            <l>Unten fängt's schon an zu blühn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jauchzen möcht ich, möchte weinen,</l>
+            <l>Ist mir's doch, als könnt's nicht sein!</l>
+            <l>Alte Wunder wieder scheinen</l>
+            <l>Mit dem Mondesglanz herein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und der Mond, die Sterne sagen's,</l>
+            <l>Und in Träumen rauscht's der Hain,</l>
+            <l>Und die Nachtigallen schlagen's:</l>
+            <l>Sie ist Deine, sie ist dein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

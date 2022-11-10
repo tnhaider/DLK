@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">46.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>46.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist unsrer Handlungen Beweggrund, wie sie sagen,</l>
+            <l>Glückseligkeit allein, wie sind wir zu beklagen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn die Glückseligkeit, wo ist sie zu erfragen?</l>
+            <l>Wo ist sie zu erspähn? wo ist sie zu erjagen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese Glückseligkeit, die jeder will erreichen,</l>
+            <l>Je näher er ihr kommt, scheint weiter zu entweichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese Glückseligkeit, die jeder wünscht und sucht,</l>
+            <l>Ist einem Schatten gleich beständig auf der Flucht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald scheint der Schatten rechts, bald links an uns zu streifen,</l>
+            <l>Nun vor, nun hinter uns, und nirgend zu ergreifen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese Glückseligkeit, ein Trugbild manigfalt,</l>
+            <l>Lockt jeden anderen in anderer Gestalt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

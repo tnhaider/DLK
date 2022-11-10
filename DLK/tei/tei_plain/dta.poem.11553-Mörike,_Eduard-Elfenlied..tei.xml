@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Elfenlied.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-23</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">697</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Elfenlied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bei Nacht im Dorf der Wächter rief:</l>
+            <l>Elfe!</l>
+            <l>Ein ganz kleines Elfchen im Walde schlief,</l>
+            <l>Wohl um die Elfe;</l>
+            <l>Und meint, es rief ihm aus dem Thal</l>
+            <l>Bei seinem Namen die Nachtigall,</l>
+            <l>Oder Silpelit hätt' ihn gerufen.</l>
+            <l>Reibt sich der Elf die Augen aus,</l>
+            <l>Begibt sich vor sein Schneckenhaus,</l>
+            <l>Und ist als wie ein trunken Mann,</l>
+            <l>Sein Schläflein war nicht voll gethan,</l>
+            <l>Und humpelt also tippe tapp</l>
+            <l>Durch's Haselholz in's Thal hinab,</l>
+            <l>Schlupft an der Weinbergmauer hin,</l>
+            <l>Daran viel Feuerwürmchen glühn:</l>
+            <l>„was sind das helle Fensterlein?</l>
+            <l>Da drin wird eine Hochzeit seyn;</l>
+            <l>Die Kleinen sitzen beim Mahle,</l>
+            <l>Und treiben's in dem Saale,</l>
+            <l>Da guck' ich wohl ein wenig 'nein!“</l>
+            <l>— Pfui, stößt den Kopf an harten Stein!</l>
+            <l>Elfe, gelt, du hast genug?</l>
+            <l>Gukuk! Gukuk!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

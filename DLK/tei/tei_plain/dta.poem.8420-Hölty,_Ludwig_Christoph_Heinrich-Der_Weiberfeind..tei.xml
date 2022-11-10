@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Weiberfeind.</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">39</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">251</measure>
+        <measure type="tokens">159</measure>
+        <measure type="characters">970</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Weiberfeind.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Augenpaar,</l>
+            <l>Aus welchem tausend Engel blicken,</l>
+            <l>Kein blondes Haar!</l>
+            <l>Kein Mund, um den das Lächeln schwebet,</l>
+            <l>Und keine Brust,</l>
+            <l>Von dünnem Silberflor umwebet,</l>
+            <l>Füllt mich mit Lust!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Wuchs, den Venus selber neidet,</l>
+            <l>Und eine Hand,</l>
+            <l>Die Persien in Perlen kleidet,</l>
+            <l>Ist Kindertand!</l>
+            <l>Ich sollte mich darein vergaffen?</l>
+            <l>Ei grossen Dank!</l>
+            <l>Ich werde nicht, wie junge Laffen,</l>
+            <l>Vor Liebe krank!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ward ein Herz von Eis beschieden,</l>
+            <l>Ein Felsensinn!</l>
+            <l>Drum wandl' ich auch in süssem Frieden</l>
+            <l>Durchs Leben hin;</l>
+            <l>Geh immer, in der Brust den Himmel,</l>
+            <l>Geraden Pfad;</l>
+            <l>Durchtaumle niemals das Gewimmel</l>
+            <l>Der goldnen Stadt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und trink' in meiner Weinblattlaube</l>
+            <l>Den Göttersaft</l>
+            <l>Der röthelnden Burgundertraube,</l>
+            <l>Voll Geist und Kraft!</l>
+            <l>Sollt' ich dafür in Gallaröcken,</l>
+            <l>Vor Liebe krank,</l>
+            <l>Der Fräulein gnädge Hände lecken?</l>
+            <l>Ei grossen Dank!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sollt' ich den Rosenkelch verlassen?</l>
+            <l>Die Nachtigall?</l>
+            <l>Auf eines Mädchens Winke passen,</l>
+            <l>Bei Spiel und Ball?</l>
+            <l>Ich würde, kämen ganze Gruppen</l>
+            <l>Von Mädchen, traun!</l>
+            <l>Nicht aus der Laube gehn, die Puppen</l>
+            <l>Nur anzuschaun!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

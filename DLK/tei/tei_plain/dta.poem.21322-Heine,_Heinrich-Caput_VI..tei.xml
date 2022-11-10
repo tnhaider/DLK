@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput VI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">540</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput VI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch jener erwiederte trockenen Tons,</l>
+            <l>Sogar ein bischen phlegmatisch:</l>
+            <l>„ich bitte dich, exorzire mich nicht,</l>
+            <l>Und werde nur nicht emphatisch!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich bin kein Gespenst der Vergangenheit,</l>
+            <l>Kein grabentstiegener Strohwisch,</l>
+            <l>Und von Rhetorik bin ich kein Freund,</l>
+            <l>Bin auch nicht sehr philosophisch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich bin von praktischer Natur,</l>
+            <l>Und immer schweigsam und ruhig.</l>
+            <l>Doch wisse: was du ersonnen im Geist’,</l>
+            <l>Das führ’ ich aus, das thu’ ich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„und gehn auch Jahre drüber hin,</l>
+            <l>Ich raste nicht, bis ich verwandl</l>
+            <l>In Wirklichkeit was du gedacht;</l>
+            <l>Du denkst, und ich, ich handle.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

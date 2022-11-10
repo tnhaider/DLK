@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Glöcklein.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">271</measure>
+        <measure type="tokens">196</measure>
+        <measure type="characters">1136</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Glöcklein.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er steht an ihrem Pfühl in herber Qual,</l>
+            <l>Den jungen Busen muß er keuchen sehn —</l>
+            <l>Er ist ein Arzt. Er weiß, sein traut Gemahl</l>
+            <l>Erblaßt, sobald die Morgenschauer wehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie hat </l>
+            <l>Mir träumte, daß ich auf der Alpe war,</l>
+            <l>Wie schön mir träumte, das erzähl ich dir —</l>
+            <l>Du schickst mich wieder hin das nächste Jahr!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort vor dem Dorf — du weißt den moos'gen Stein —</l>
+            <l>Saß ich, umhallt von lauter Heerdgetön,</l>
+            <l>An mir vorüber zogen mit Schalmein</l>
+            <l>Die Heerden nieder von den Sommerhöhn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Heerden kehren alle heut nach Haus —</l>
+            <l>Das ist die letzte wohl? Nein, eine noch!</l>
+            <l>Noch ein Geläut klingt an und eins klingt aus!</l>
+            <l>Das endet nicht! Da kam das letzte doch!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich überfluthet' fliehend Abendroth,</l>
+            <l>Die Matten dunkelten so grün und rein,</l>
+            <l>Die Firne brannten still — und lagen todt,</l>
+            <l>Darüber glomm ein leiser Sternenschein —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da horch! ein Glöcklein noch aus finst'rer Schlucht,</l>
+            <l>Verirrt, verspätet, wandert's ohne Ruh,</l>
+            <l>Ein armes Glöcklein, das die Heerde sucht —</l>
+            <l>Auf wacht' ich dann und bei mir warest du!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mann, schick mich wieder auf die lieben Höhn —</l>
+            <l>Sie haben, sagst du, mich gesund gemacht ...</l>
+            <l>Dort war es schön! Dort war es wunderschön!</l>
+            <l>Das Glöcklein! Wieder! Hörst du's? Gute Nacht ...“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

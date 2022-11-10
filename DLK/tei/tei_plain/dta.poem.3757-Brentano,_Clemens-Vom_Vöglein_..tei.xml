@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vom Vöglein .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">93</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">414</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vom Vöglein .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Grüß dich Gott mein lieb Regerl!               </l>
+            <l>Ich komm aus dem Wa</l>
+            <l>Hab gefangen ein schöns Vögerl,</l>
+            <l>Entwischt wär mirs bald.</l>
+            <l>Ich thät dirs gern schenken,</l>
+            <l>Nimms an, sey so gut,</l>
+            <l>Es wird dich nicht kränken,</l>
+            <l>Weils schön singen thut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ey du mein liebs Regerl,</l>
+            <l>Ich bitt dich um ein Gnad,</l>
+            <l>Verschaff doch dem Vögerl</l>
+            <l>Ein Häusle von Drath,</l>
+            <l>Thu auch nicht vergessen,</l>
+            <l>Ein Trögerl zum Trank,</l>
+            <l>Ein Trögerl zum Fressen,</l>
+            <l>Daß 's dir nit wird krank.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er ist zu glücklich.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">165</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">658</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er ist zu glücklich.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Glücke ist mir mehr/ als ich verdient/ gewogen/</l>
+            <l>Es blickt sein holdes Aug mich übermässig an/</l>
+            <l>Es leitet seine Hand mich auf die Nelcken-Bahn/</l>
+            <l>Noch hat mir seine Gunst im Lieben nichts entzogen.</l>
+            <l>Die Sterne sind mir hold am blauen Himmels-Bogen/</l>
+            <l>Jhr Einfluß hat mir Guts im Uberfluß gethan;</l>
+            <l>Mein Stellen auch so gar die Hertzen fangen kan/</l>
+            <l>Dadurch ich </l>
+            <l>Jm Lieben kan ich mich vor andern glücklich nennen/</l>
+            <l>Denn wenn ein ander sich mit leerem Dunst muß heucheln/</l>
+            <l>So kan mein Hertze sich mit wahrer Liebe schmeicheln/</l>
+            <l>Jocaste ist mir hold/ die Lesbia mich liebt/</l>
+            <l>Doch wie bey heiterm Schein es finster Wolcken giebt/</l>
+            <l>So kan mein Hertze auch bey aller Brunst nicht brennen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

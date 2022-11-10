@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z wölfftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">397</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z wölfftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„den Tempel? der gebührt dem, welcher euch belohnt,</l>
+            <l>430”Und in der ganzen Welt durch sein Vermögen wohnt;</l>
+            <l>„der Ehgemahl wird ihn an jenem Ort erbauen,</l>
+            <l>„wo man zum ersten Mahl ihn wird als König schauen.</l>
+            <l>„er widmet solchen Bau der höchsten Majestät,</l>
+            <l>„durch welche Glück und Heil und Kron und Thron besteht.</l>
+            <l>435”Er kennet gar zu wohl, woher der Ausgang rühre;</l>
+            <l>„wer dieser Zeiten Lauf zu solchem Ende führe.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

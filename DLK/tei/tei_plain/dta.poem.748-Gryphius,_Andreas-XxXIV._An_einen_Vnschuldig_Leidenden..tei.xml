@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxXIV.  An einen Vnschuldig Leidenden.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-6 2-4 3-3 4-3</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">127</measure>
+        <measure type="characters">737</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxXIV.  An einen Vnschuldig Leidenden.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein brandt pfall vnd ein radt/ pech/ folter/ bley vnd zangen/ </l>
+            <l>Strick/ messer/ hacken/ beyll/ ein holtzstos vnd ein</l>
+            <l>Schwerdt/ </l>
+            <l>Vnd siedent öel/ vnd bley/ ein spies/ ein glüend Pferdt/</l>
+            <l>Sind den nicht schrecklich/ die/ was schrecklich nicht began- </l>
+            <l>gen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer vmb die tugend leid’t/ vmb recht-thun wird gefangen</l>
+            <l>Vnd wenn es noth sein </l>
+            <l>Dem wird für kurtze pein vnendtlich preis beschert/</l>
+            <l>Er wirdt den ehren Krantz der nicht verwelckt erlangen. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er lebt in dem er stirbt/ er steigt in dem er fält</l>
+            <l>Er pocht was tödlich ist vnd trotzt die grosse Welt</l>
+            <l>Vnd küst die Ewigkeit die er jhm anvertrawet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hat nicht der Höchste selbst sein höchstes wunderwerck </l>
+            <l>In dem er starb verbracht auff Salems schädelberg?</l>
+            <l>Der ist kein rechter Christ/ dem für dem Creutze grawet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

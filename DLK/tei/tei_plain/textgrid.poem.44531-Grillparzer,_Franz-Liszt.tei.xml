@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Liszt</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">352</measure>
+        <measure type="tokens">226</measure>
+        <measure type="characters">1434</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1843</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Liszt</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du gleichst dem Engel mit dem Flammenschwerte,</l>
+            <l>Der aufgestellt vor unsrer Unschuld Garten;</l>
+            <l>Ein strenger Spruch, gerecht in seiner Härte,</l>
+            <l>Straft durch sich selber jegliches Entarten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch weigerst du die Pforten jener Räume,</l>
+            <l>Wo Unschuld mit sich selber ging zufrieden,</l>
+            <l>So zeigst du uns, ein Traumbild wacher Träume,</l>
+            <l>Das Bild des Glücks, das nicht mehr weilt hienieden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eintauchend in die Welt der Leidenschaften,</l>
+            <l>Des Kampfs, des Streits, der wildverworrnen Grenzen,</l>
+            <l>Läßt du aus Augen, die an Eden haften,</l>
+            <l>Den Widerschein des dort Gesehnen glänzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Donner wird zum Strahl, der Strahl zum Lichte,</l>
+            <l>Auf Augenblicke schwinden Nebeldünste,</l>
+            <l>Die Luft der Heimat weht durch die Gesichte –</l>
+            <l>Eintracht in Zwietracht ist das Reich der Künste.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du gleichst dem Engel mit dem Flammenschwerte,</l>
+            <l>Der aufgestellt vor unsrer Unschuld Garten;</l>
+            <l>Ein strenger Spruch, gerecht in seiner Härte,</l>
+            <l>Straft durch sich selber jegliches Entarten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch weigerst du die Pforten jener Räume,</l>
+            <l>Wo Unschuld mit sich selber ging zufrieden,</l>
+            <l>So zeigst du uns, ein Traumbild wacher Träume,</l>
+            <l>Das Bild des Glücks, das nicht mehr weilt hienieden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eintauchend in die Welt der Leidenschaften,</l>
+            <l>Des Kampfs, des Streits, der wildverworrnen Grenzen,</l>
+            <l>Läßt du aus Augen, die an Eden haften,</l>
+            <l>Den Widerschein des dort Gesehnen glänzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Donner wird zum Strahl, der Strahl zum Lichte,</l>
+            <l>Auf Augenblicke schwinden Nebeldünste,</l>
+            <l>Die Luft der Heimat weht durch die Gesichte –</l>
+            <l>Eintracht in Zwietracht ist das Reich der Künste.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Chor jüdischer Mädchen.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-6</measure>
+        <measure type="syllables">97</measure>
+        <measure type="tokens">68</measure>
+        <measure type="characters">359</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Chor jüdischer Mädchen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er lud uns zum Mahle;</l>
+            <l>So sind wir nun da.</l>
+            <l>Eia la la! Eia la la!</l>
+            <l>Ist doch auch des Königs sein Töchterlein da!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Duftende Quellen</l>
+            <l>Springen im Saal,</l>
+            <l>Und wie Gazellen</l>
+            <l>Wir hüpfen um's Mahl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Keine soll stocken im Tanz!</l>
+            <l>Schüttelt nur Locken und Kranz!</l>
+            <l>Lustig! im Taumel muthwilliger Tänze</l>
+            <l>Fliegen die Kränze,</l>
+            <l>Fliegt es mit Rosen und Bändern im Saal!</l>
+            <l>Eia la la! Eia la la! u. s. w.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

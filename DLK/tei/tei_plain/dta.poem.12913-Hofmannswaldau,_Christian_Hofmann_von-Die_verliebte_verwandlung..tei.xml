@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die verliebte verwandlung.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">656</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die verliebte verwandlung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast, o Liebe! mich erst in ein reh verkehrt,</l>
+            <l>Das seines jägers pfeil in zarter brust getragen:</l>
+            <l>Hernach in einen schwan, der sich zu tode singt:</l>
+            <l>Und dann in eine blum’, in die die flamme dringt,</l>
+            <l>So von der sonne kommt, und allen safft verzehrt:</l>
+            <l>Hierauf verlohr’ ich mich in einen thränen-regen:</l>
+            <l>Und itzund muß ich, mir zur pein,</l>
+            <l>Ein salamander seyn,</l>
+            <l>Der in der strahlen-glut, so Daphnens augen hegen,</l>
+            <l>Verschmachtet, und doch auch sein schmachtend hertze nährt.</l>
+            <l>Jedennoch wolt’ ich mich im minsten nicht beklagen,</l>
+            <l>Wenn deine wunder-macht,</l>
+            <l>Die mir bisher nichts süßes zugedacht,</l>
+            <l>Mir endlich noch die gunst gewährte,</l>
+            <l>Und mich vor meinem tod in Daphnens schatz verkehrte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

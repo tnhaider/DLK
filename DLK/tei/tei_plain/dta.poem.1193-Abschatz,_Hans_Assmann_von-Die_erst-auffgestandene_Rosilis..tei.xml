@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die erst-auffgestandene Rosilis.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">672</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die erst-auffgestandene Rosilis.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kam den andern Tag zur Rosilis gegangen/</l>
+            <l>Als sie zum Morgen noch unangeleget war.</l>
+            <l>Sie stellte die Auror in eignem Bilde dar/</l>
+            <l>Wenn sie der frühen Welt zeigt ihre Rosen-Wangen.</l>
+            <l>Die Augen/ welche fast der Schlaff noch hielt umfangen/</l>
+            <l>Verglichen sich der erst entwichnen Sternen-Schaar/</l>
+            <l>Ihr über Stirne/ Wang und Hals gestreutes Haar</l>
+            <l>Dem Netze/ welches uns die theuren Würme langen.</l>
+            <l>Der weißen Hände Schnee schien heller denn der Tag/</l>
+            <l>Der angebohrne Schmuck/ die lieblichen Geberden/</l>
+            <l>Beschämten was der Fleiß/ die kluge Kunst/ vermag.</l>
+            <l>Giebt Rosilis/ mein Licht/ zum Morgen solchen Schein/</l>
+            <l>Wie soll mein Hertze nicht zu lauter Flamme werden</l>
+            <l>Wenn sie wird angelegt in vollem Mittag seyn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

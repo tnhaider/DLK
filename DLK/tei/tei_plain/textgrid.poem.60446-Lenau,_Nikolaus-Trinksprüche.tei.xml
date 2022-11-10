@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trinksprüche</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">202</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">816</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trinksprüche</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr stoßet an, die Gläser klingen,</l>
+            <l>Ihr lasset leben manchen Mann;</l>
+            <l>Und morgen schon denkt keiner dran,</l>
+            <l>Ihm eine Freud ins Herz zu bringen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hör ein Pereat! euch brüllen,</l>
+            <l>Auf Tod habt ihr das Glas geleert,</l>
+            <l>Doch keinem ist der Mut beschert,</l>
+            <l>Das Grab des Feindes anzufüllen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich trinke nicht zum Segensspruche,</l>
+            <l>Wo nicht mein Herz beglücken will;</l>
+            <l>Zum bösen Wunsche bleib ich still,</l>
+            <l>Wenn nicht die Klinge folgt dem Fluche.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr stoßet an, die Gläser klingen,</l>
+            <l>Ihr lasset leben manchen Mann;</l>
+            <l>Und morgen schon denkt keiner dran,</l>
+            <l>Ihm eine Freud ins Herz zu bringen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hör ein Pereat! euch brüllen,</l>
+            <l>Auf Tod habt ihr das Glas geleert,</l>
+            <l>Doch keinem ist der Mut beschert,</l>
+            <l>Das Grab des Feindes anzufüllen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich trinke nicht zum Segensspruche,</l>
+            <l>Wo nicht mein Herz beglücken will;</l>
+            <l>Zum bösen Wunsche bleib ich still,</l>
+            <l>Wenn nicht die Klinge folgt dem Fluche.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der König weiß es nicht.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">662</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der König weiß es nicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie ist des Elends in der Welt</l>
+            <l>So viel und mancherlei!</l>
+            <l>Und dennoch giebt man soviel Geld,</l>
+            <l>Das; jeder glücklich sei.</l>
+            <l>Ach! wer das Elend einmal sah,</l>
+            <l>Ich weiß, das Herz ihm bricht.</l>
+            <l>Was hilft's? ihr saget immer: ja,</l>
+            <l>Der König weiß es nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie geht das Unrecht allezeit</l>
+            <l>So sicher doch umher!</l>
+            <l>Wie ist doch die Gerechtigkeit</l>
+            <l>So theuer und so schwer!</l>
+            <l>Warum giebt's soviel Unrecht noch?</l>
+            <l>So manchen Bösewicht?</l>
+            <l>Ich weiß, ihr wißt es alle, doch</l>
+            <l>Der König weiß es nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie das Verdienst so wenig gilt</l>
+            <l>Und doch Geburt so viel!</l>
+            <l>Ist das nach Christi Ebenbild?</l>
+            <l>Das unsrer Liebe Ziel?</l>
+            <l>Ist Adel denn ein Vorzug noch?</l>
+            <l>So gebt mir doch Bericht!</l>
+            <l>Ich weiß, ihr wißt es alle, doch</l>
+            <l>Der König weiß es nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

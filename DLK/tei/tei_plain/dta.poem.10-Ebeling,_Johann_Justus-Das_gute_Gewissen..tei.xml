@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das gute Gewissen.</title>
+        <author>
+          <persName>
+            <surname>Ebeling</surname>
+            <forename>Johann Justus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">718</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1747</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198797"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das gute Gewissen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was kan uns auf dieser Erden,</l>
+            <l>Alle Leiden, und Beschwerden,</l>
+            <l>Alle Plagen, alle Noth</l>
+            <l>Ja! den fürchterlichen Todt,</l>
+            <l>Alle Bitterkeit versüssen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist gut in bösen Zeiten,</l>
+            <l>Bei der Pest von falschen Leuten,</l>
+            <l>Wenn man unter Mesech wohnt,</l>
+            <l>Da man Guts mit Bösen lohnt,</l>
+            <l>Was ist gut vor Judas-Küssen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was braucht man vor die Verläumden,</l>
+            <l>Die uns offenbahr anfeinden,</l>
+            <l>Oder die uns Nezze stelln,</l>
+            <l>Um uns heimlich zu beschnelln,</l>
+            <l>Vor der Neider Schlangen-Bissen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn man in betrübten Stande;</l>
+            <l>Wenn der Krankheit harte Bande</l>
+            <l>Einen siechen Körper quäln,</l>
+            <l>Was kan man alsdenn erwähln,</l>
+            <l>Sich zu einen sanften Küssen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was kan uns Vergnügen geben,</l>
+            <l>Wenn wir aus dem eitlen Leben,</l>
+            <l>Zu der Ewigkeit fortgehn;</l>
+            <l>Wenn wir Christi Richtstuhl sehn,</l>
+            <l>Davor wir erscheinen müssen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

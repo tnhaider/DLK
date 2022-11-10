@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Prinzessin !</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">469</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Prinzessin !</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>als das eiserne Geschick</l>
+            <l>Der Atropos befahl: dem Leben</l>
+            <l>Der deutschen Dichterin den letzten Augenblick</l>
+            <l>Durch ihrer Scheere Schnitt zu geben;</l>
+            <l>Da flog die Muse her und seufzete: Apoll!</l>
+            <l>O Göttlichster! wer soll</l>
+            <l>Nun meiner Sängerin bewahren ihre Leyer?</l>
+            <l>„die Erste Grazie der Welt!„ rief er,</l>
+            <l>„verhülle sie in ihren Schleyer!„</l>
+            <l>Die erste Grazie der Welt, sprach sie, o Sohn</l>
+            <l>Des Jupiters! schifft jetzt nach Albion —</l>
+            <l>Apollo wandte sich hinauf zum Sonnenthron —</l>
+            <l>Die Karschin sang als Schwan:</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

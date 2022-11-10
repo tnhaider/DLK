@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Geisterroß.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">233</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">859</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Geisterroß.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch den dreigetheilten Bogen,</l>
+            <l>Des Triumphes prangend Thor,</l>
+            <l>Durch die lauten Menschenwogen</l>
+            <l>Dort zum Capitol empor</l>
+            <l>Lenkt den Tanz der weißen Pferde</l>
+            <l>Cäsar's lässige Geberde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hinter des Triumphes Wagen</l>
+            <l>Duldend oder grollend gehn</l>
+            <l>Ueberwundne. Ketten tragen</l>
+            <l>Cäsar's lebende Trophä'n.</l>
+            <l>„dieser!“ höhnt es im Gedränge,</l>
+            <l>„dieser Trotz'ge!“ zischt die Menge.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unberührt vom Hohn der Stunde,</l>
+            <l>Starren, traumgefüllten Blicks,</l>
+            <l>Geht, ein Singen auf dem Munde,</l>
+            <l>Ruhig Vexcingetorix —</l>
+            <l>Fremde Weise, fremde Worte,</l>
+            <l>Mit dem Geist an fremdem Orte:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„cäsar, blendend weiße Rosse</l>
+            <l>Hat Hispanien dir gebracht!</l>
+            <l>Ellid, edler Ahnen Sprosse,</l>
+            <l>Dunkel ist er wie die Nacht —</l>
+            <l>Deine Schimmel, deine viere,</l>
+            <l>Tauscht' ich nicht mit meinem Thiere ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ellid heißt der wackre Jager</l>
+            <l>Stark von Wuchs und fest im Bug,</l>
+            <l>Welcher mich ins Römerlager</l>
+            <l>Mit gewalt'gen Sprüngen trug ...</l>
+            <l>Der zum Opfer ich gegeben</l>
+            <l>Mich für meines Volkes Leben!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

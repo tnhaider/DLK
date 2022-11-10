@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Bettler bin ich bei fremden Landen und Leuten</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">690</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Bettler bin ich bei fremden Landen und Leuten</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und nun lege ich Messer und Gabel nieder,</l>
+            <l>Komme von einem Zimmer zum andern,</l>
+            <l>Sitze immer neben der Leere wieder,</l>
+            <l>Und von Leere zu Leere muß ich tagsüber wandern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heimat und Liebste, die den Reichtum bedeuten,</l>
+            <l>Suche ich nachts noch auf dem Kissen, dem leeren.</l>
+            <l>Bettler bin ich bei fremden Landen und Leuten.</l>
+            <l>Heimat und Liebste, keiner kann sie entbehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und nun lege ich Messer und Gabel nieder,</l>
+            <l>Komme von einem Zimmer zum andern,</l>
+            <l>Sitze immer neben der Leere wieder,</l>
+            <l>Und von Leere zu Leere muß ich tagsüber wandern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heimat und Liebste, die den Reichtum bedeuten,</l>
+            <l>Suche ich nachts noch auf dem Kissen, dem leeren.</l>
+            <l>Bettler bin ich bei fremden Landen und Leuten.</l>
+            <l>Heimat und Liebste, keiner kann sie entbehren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

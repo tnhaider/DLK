@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">TrÜBSINN</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">681</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>TrÜBSINN</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weltunglück geistert durch den Nachmittag.</l>
+            <l>Baraken fliehn durch Gärtchen braun und wüst.</l>
+            <l>Lichtschnuppen gaukeln um verbrannten Mist,</l>
+            <l>Zwei Schläfer schwanken heimwärts, grau und vag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf der verdorrten Wiese läuft ein Kind</l>
+            <l>Und spielt mit seinen Augen schwarz und glatt.</l>
+            <l>Das Gold tropft von den Büschen trüb und matt.</l>
+            <l>Ein alter Mann dreht traurig sich im Wind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Abend wieder über meinem Haupt</l>
+            <l>Saturn lenkt stumm ein elendes Geschick.</l>
+            <l>Ein Baum, ein Hund tritt hinter sich zurück</l>
+            <l>Und schwarz schwankt Gottes Himmel und entlaubt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Fischlein gleitet schnell hinab den Bach;</l>
+            <l>Und leise rührt des toten Freundes Hand</l>
+            <l>Und glättet liebend Stirne und Gewand.</l>
+            <l>Ein Licht ruft Schatten in den Zimmern wach.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

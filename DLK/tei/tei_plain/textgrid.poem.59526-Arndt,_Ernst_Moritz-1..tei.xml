@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Arndt</surname>
+            <forename>Ernst Moritz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-7 2-4 3-7 4-4</measure>
+        <measure type="syllables">194</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">796</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Blümlein steh' ich im Erdental,</l>
+            <l>Mich lockt die Sonne mit warmem Strahl,</l>
+            <l>Mit meinen Blättchen buhlet der Wind,</l>
+            <l>Der Zephir nennt mich liebliches Kind,</l>
+            <l>Und Tau und Regen erquicken mich;</l>
+            <l>Wohl jung und lustig und schön bin ich,</l>
+            <l>Doch muß ich welken und sterben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wann ich endlich gestorben bin,</l>
+            <l>So schläft und träumet mein kleiner Sinn</l>
+            <l>Im Winterwiegelein still und fromm;</l>
+            <l>Dann kommt der Frühling und rufet: </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Blümlein steh' ich im Erdental,</l>
+            <l>Mich lockt die Sonne mit warmem Strahl,</l>
+            <l>Mit meinen Blättchen buhlet der Wind,</l>
+            <l>Der Zephir nennt mich liebliches Kind,</l>
+            <l>Und Tau und Regen erquicken mich;</l>
+            <l>Wohl jung und lustig und schön bin ich,</l>
+            <l>Doch muß ich welken und sterben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wann ich endlich gestorben bin,</l>
+            <l>So schläft und träumet mein kleiner Sinn</l>
+            <l>Im Winterwiegelein still und fromm;</l>
+            <l>Dann kommt der Frühling und rufet: </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

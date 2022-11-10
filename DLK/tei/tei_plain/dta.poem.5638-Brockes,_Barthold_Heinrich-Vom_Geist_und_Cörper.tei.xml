@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vom Geist und Cörper</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">557</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vom Geist und Cörper</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch eh' wir Cörper selbst betrachten und besehen,</l>
+            <l>So spürt der Mensch in sich ein innerliches Dencken,</l>
+            <l>Denn von den Sinnlichen, wie sie sich etwa lencken,</l>
+            <l>Empfinden wir in uns noch Spuren, noch Jdeen</l>
+            <l>Die älter sind, als das. Wenn man die Wissenschafft</l>
+            <l>Ohn uns recht anzusehn, mit diesem Satz verwirrte:</l>
+            <l>Der Sinne Würckungen und der Gedancken Krafft</l>
+            <l>Sey ein gelinder Wind, ein leichtes Feu’r; so irr’te</l>
+            <l>Man grob und freventlich. Dieß ist der erste Schluß,</l>
+            <l>Den die Vernunfft uns machen muß,</l>
+            <l>Will sie sich anders nicht vom Pfad der Warheit lencken:</l>
+            <l>Des Menschen </l>
+            <l>dencken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

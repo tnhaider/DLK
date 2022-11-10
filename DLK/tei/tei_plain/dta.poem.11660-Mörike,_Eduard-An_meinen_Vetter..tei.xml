@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An meinen Vetter.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">37</measure>
+        <measure type="verses_per_stanza">1-13 2-12 3-7 4-5</measure>
+        <measure type="syllables">289</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">1056</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An meinen Vetter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lieber Vetter! Er ist eine</l>
+            <l>Von den freundlichen Naturen,</l>
+            <l>Die ich </l>
+            <l>Denn sie haben wirklich etwas</l>
+            <l>Sonniges in ihrem Wesen.</l>
+            <l>Es sind weltliche Beamte,</l>
+            <l>Rechnungsräthe, Revisoren,</l>
+            <l>Oder Cameralverwalter,</l>
+            <l>Auch wohl manchmal Herrn vom Handel,</l>
+            <l>Aber meist vom ältern Schlage,</l>
+            <l>Keinesweges Petitmaitres,</l>
+            <l>Haben manchmal hübsche Bäuche,</l>
+            <l>Und ihr Vaterland ist Schwaben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Neulich auf der Reise traf ich</l>
+            <l>Auch mit einer Sommerweste</l>
+            <l>In der Post zu Besigheim</l>
+            <l>Eben zu Mittag zusammen.</l>
+            <l>Und wir speisten eine Suppe,</l>
+            <l>Darin rothe Krebse schwammen,</l>
+            <l>Rindfleisch mit franzö'schem Senfe,</l>
+            <l>Dazu liebliche Radieschen,</l>
+            <l>Dann Gemüse, und so weiter;</l>
+            <l>Schwazten von der neu'sten Zeitung,</l>
+            <l>Und daß es an manchen Orten</l>
+            <l>Gestern stark gewittert habe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drüber zieht der wackre Herr ein</l>
+            <l>Silbern Büchslein aus der Tasche,</l>
+            <l>Sich die Zähne auszustochern;</l>
+            <l>Endlich stopft er sich zum schwarzen</l>
+            <l>Kaffee seine Meerschaumpfeife,</l>
+            <l>Dampft und discurrirt und schaut in-</l>
+            <l>mittelst einmal nach den Pferden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ich sah ihm so von hinten</l>
+            <l>Nach und dachte: Ach, daß diese</l>
+            <l>Lieben, hellen Sommerwesten,</l>
+            <l>Die bequemen, angenehmen,</l>
+            <l>Endlich doch auch sterben müssen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

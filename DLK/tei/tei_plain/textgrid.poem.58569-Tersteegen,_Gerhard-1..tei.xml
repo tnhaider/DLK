@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Tersteegen</surname>
+            <forename>Gerhard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">232</measure>
+        <measure type="tokens">170</measure>
+        <measure type="characters">976</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1733</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott ist willig und will mir sich und alles Gute schenken,</l>
+            <l>Sollt' ich Wurm mich weigern noch, sollt' ich lange mich bedenken?</l>
+            <l>Willig lass' ich alles da, willig schenk' ich ihm das Herz,</l>
+            <l>Willig folg' ich seinem Ruf, bringt es gleich dem Fleische Schmerz.</l>
+            <l>Sprich in meiner Seele Grund, zieh mich, da hinein zu kehren,</l>
+            <l>Setze mit Maria mich, rede, Herr, dein Knecht soll hören,</l>
+            <l>Laß Gedanken und Vernunft, Sinn und Willen schweigen still,</l>
+            <l>Haue nieder durch dein Schwert, was in mir sich weigern will!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gott ist willig und will mir sich und alles Gute schenken,</l>
+            <l>Sollt' ich Wurm mich weigern noch, sollt' ich lange mich bedenken?</l>
+            <l>Willig lass' ich alles da, willig schenk' ich ihm das Herz,</l>
+            <l>Willig folg' ich seinem Ruf, bringt es gleich dem Fleische Schmerz.</l>
+            <l>Sprich in meiner Seele Grund, zieh mich, da hinein zu kehren,</l>
+            <l>Setze mit Maria mich, rede, Herr, dein Knecht soll hören,</l>
+            <l>Laß Gedanken und Vernunft, Sinn und Willen schweigen still,</l>
+            <l>Haue nieder durch dein Schwert, was in mir sich weigern will!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

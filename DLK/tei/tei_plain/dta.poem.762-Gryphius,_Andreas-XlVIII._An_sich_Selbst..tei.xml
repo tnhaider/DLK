@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XlVIII.  An sich Selbst.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-1 4-2 5-3</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">129</measure>
+        <measure type="characters">729</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XlVIII.  An sich Selbst.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mjr grawet vor mir selbst/ mir zittern alle glieder </l>
+            <l>Wenn ich die Lipp’ vnd Naß’ vnd beyder Augen kluft/</l>
+            <l>Die blindt vom wachen sindt/ des Athems schwere </l>
+            <l>Luft</l>
+            <l>Betracht/ vnd die nun schon erstorbnen Augen-lieder:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die zunge/ schwartz vom brandt felt mit den worten nieder/</l>
+            <l>Vnd lalt ich weis nicht was; die müde Seele ruft/</l>
+            <l>Dem grossen Tröster zu/ das Fleisch reucht nach der gruft/</l>
+            <l>Die ärtzte lassen mich/ die schmertzen kommen wieder/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Cörper ist nicht mehr als adern/ fell/ vnd bein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das sitzen ist mein todt/ das liegen meine pein.</l>
+            <l>Die schenckel haben selbst nun träger wol von nöthen! </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist der hohe ruhm/ vnd jugendt/ ehr vnd kunst?</l>
+            <l>Wenn diese stunde kompt; wird alles rauch vnd dunst.</l>
+            <l>Vnd eine noth muß vns mit allem vorsatz tödten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

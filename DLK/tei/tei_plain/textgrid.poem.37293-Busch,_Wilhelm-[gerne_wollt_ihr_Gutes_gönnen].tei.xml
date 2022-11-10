@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[gerne wollt ihr Gutes gönnen]</title>
+        <author>
+          <persName>
+            <surname>Busch</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">454</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1870</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[gerne wollt ihr Gutes gönnen]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gerne wollt ihr Gutes gönnen</l>
+            <l>Unserm Goethe, unserm Schiller,</l>
+            <l>Nur nicht Meier oder Müller,</l>
+            <l>Die noch selber lieben können.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn durch eure Männerleiber</l>
+            <l>Geht ein Konkurrenzgetriebe</l>
+            <l>Sei es Ehre, sei es Liebe;</l>
+            <l>Doch dahinter stecken Weiber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gerne wollt ihr Gutes gönnen</l>
+            <l>Unserm Goethe, unserm Schiller,</l>
+            <l>Nur nicht Meier oder Müller,</l>
+            <l>Die noch selber lieben können.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn durch eure Männerleiber</l>
+            <l>Geht ein Konkurrenzgetriebe</l>
+            <l>Sei es Ehre, sei es Liebe;</l>
+            <l>Doch dahinter stecken Weiber.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

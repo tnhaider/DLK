@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An das kommende Jahr.</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">97</measure>
+        <measure type="tokens">60</measure>
+        <measure type="characters">388</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An das kommende Jahr.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als Gott der geistigen Monaden               </l>
+            <l>Vorausgezählte Myriaden</l>
+            <l>Im Reich der Möglichkeit allsehend überblickt;</l>
+            <l>Da sahe dich, du Punkt der Zeiten,</l>
+            <l>Sein Auge, dem die Dunkelheiten</l>
+            <l>Mit tausend Sonnen sind geschmückt.</l>
+            <l>O kämst du doch mit vollen Schwingen,</l>
+            <l>Und brächtest goldne Zeit, von der die Dichter singen,</l>
+            <l>Und fändest, außer Greis und Kind,</l>
+            <l>Noch Menschen, die der goldnen Jahre würdig sind!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

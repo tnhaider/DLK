@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Im Grase</title>
+        <author>
+          <persName>
+            <surname>Schack</surname>
+            <forename>Adolf Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">740</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1854</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Im Grase</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um mich schwärmender Bienen Gesumm;</l>
+            <l>Fernher Singen von Schnittern;</l>
+            <l>Sommerlüfte, die heiß ringsum</l>
+            <l>Ueber der Wiese zittern!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch aus dunkelndem Himmelsblau,</l>
+            <l>Drin die Wolken verschwimmen,</l>
+            <l>Quillt es und rinnt hernieder wie Tau,</l>
+            <l>Säuselt wie liebe Stimmen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gaukelt und lacht mir hinweg das Leid,</l>
+            <l>Hebt die Erdengewichte,</l>
+            <l>Bis die Seele, gelöst, befreit,</l>
+            <l>Schwärmt in dem himmlischen Lichte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um mich schwärmender Bienen Gesumm;</l>
+            <l>Fernher Singen von Schnittern;</l>
+            <l>Sommerlüfte, die heiß ringsum</l>
+            <l>Ueber der Wiese zittern!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch aus dunkelndem Himmelsblau,</l>
+            <l>Drin die Wolken verschwimmen,</l>
+            <l>Quillt es und rinnt hernieder wie Tau,</l>
+            <l>Säuselt wie liebe Stimmen,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gaukelt und lacht mir hinweg das Leid,</l>
+            <l>Hebt die Erdengewichte,</l>
+            <l>Bis die Seele, gelöst, befreit,</l>
+            <l>Schwärmt in dem himmlischen Lichte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

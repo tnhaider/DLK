@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Müde.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">555</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Müde.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aauf dem Wege vom Tanzsaal nach Haus             </l>
+            <l>Ruht sich auf dem Steine aus</l>
+            <l>Die hübsche Margreth.</l>
+            <l>Sie öffnet ein wenig das stramme Mieder,</l>
+            <l>Daß kühl über die weißen Glieder</l>
+            <l>Der Nachtwind weht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Desselben Weges kommt auch der Junker,</l>
+            <l>Mit Troddeln am Hut und vielem Geflunker,</l>
+            <l>Und sieht den Stein,</l>
+            <l>Und auf dem Steine das schmucke Kind,</l>
+            <l>Und wie der Blitz geschwind,</l>
+            <l>Fällt ihm was ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das liebe Mädchen hatte geschlafen,</l>
+            <l>Doch wie sie des Junkers Augen trafen,</l>
+            <l>Ist sie erwacht.</l>
+            <l>Erst schreit sie auf und will feldein,</l>
+            <l>Ich denke wir lassen die beiden allein</l>
+            <l>In der Sommernacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

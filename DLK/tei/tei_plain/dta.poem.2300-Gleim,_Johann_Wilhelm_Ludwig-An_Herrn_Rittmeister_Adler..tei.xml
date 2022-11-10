@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Herrn Rittmeister Adler.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">508</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Herrn Rittmeister Adler.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Wein vertreibt die Grillen,</l>
+            <l>Mein Schwerdt die blöden Helden,</l>
+            <l>Mein Lob die lauten Schmeichler,</l>
+            <l>Mein Tanz die Winternächte,</l>
+            <l>Mein Spott den Schwarm der Narren,</l>
+            <l>Mein taubes Ohr die Praler,</l>
+            <l>Mein Schimpf die falschen Freunde,</l>
+            <l>Mein Glaub und meine Lieder</l>
+            <l>Vertreiben tausend Teufel.</l>
+            <l>Nur den verschmitzten Amor,</l>
+            <l>Den Schmeichler, den Tirannen,</l>
+            <l>Kann kein Gebet, kein Degen,</l>
+            <l>Kein Spott, kein Schimpf, kein Lachen,</l>
+            <l>Und auch kein Wein veriagen.</l>
+            <l>Freund! mit dem krummen Schwerdte,</l>
+            <l>Weißt du ihn zu vertreiben?</l>
+            <l>Kannst du es mit Husaren?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Als an ihrem Mund ich hangend</title>
+        <author>
+          <persName>
+            <surname>Grün</surname>
+            <forename>Anastasius</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">464</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1842</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Als an ihrem Mund ich hangend</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als an ihrem Mund ich hangend</l>
+            <l>Sog noch ihren Odem ein,</l>
+            <l>Träumt' ich viel von Tod und Trennung</l>
+            <l>Und von Sarg und Leichenstein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun ich steh' an ihrem Grabe,</l>
+            <l>Träum' ich nur von Liebesgruß,</l>
+            <l>Und wie ihre Wangen glühten,</l>
+            <l>Und von ihrem ersten Kuß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als an ihrem Mund ich hangend</l>
+            <l>Sog noch ihren Odem ein,</l>
+            <l>Träumt' ich viel von Tod und Trennung</l>
+            <l>Und von Sarg und Leichenstein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun ich steh' an ihrem Grabe,</l>
+            <l>Träum' ich nur von Liebesgruß,</l>
+            <l>Und wie ihre Wangen glühten,</l>
+            <l>Und von ihrem ersten Kuß.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

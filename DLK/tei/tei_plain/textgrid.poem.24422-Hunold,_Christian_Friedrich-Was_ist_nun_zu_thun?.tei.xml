@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Was ist nun zu thun?</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">616</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Was ist nun zu thun?</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brauch' alle gute Kunst/ dir einen Freund zu fangen.</l>
+            <l>Die du erlanget meinst/ such immer zu erlangen.</l>
+            <l>Sey aller Leute Freund/ und glaube/ was nicht ist/</l>
+            <l>Daß man dein Freund kan seyn/ wie du es allen bist.</l>
+            <l>Nur traue keinem viel/ so schön er anzuschauen:</l>
+            <l>Du bist dein bester Freund/ und darfst dir doch nicht trauen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brauch' alle gute Kunst/ dir einen Freund zu fangen.</l>
+            <l>Die du erlanget meinst/ such immer zu erlangen.</l>
+            <l>Sey aller Leute Freund/ und glaube/ was nicht ist/</l>
+            <l>Daß man dein Freund kan seyn/ wie du es allen bist.</l>
+            <l>Nur traue keinem viel/ so schön er anzuschauen:</l>
+            <l>Du bist dein bester Freund/ und darfst dir doch nicht trauen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

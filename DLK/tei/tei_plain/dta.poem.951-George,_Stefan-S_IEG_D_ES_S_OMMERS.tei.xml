@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">S IEG   D ES   S OMMERS</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">688</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>S IEG   D ES   S OMMERS</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den blauen raden und dem blutigen mohne               </l>
+            <l>Entgeht dem lispelnden und lichten korn               </l>
+            <l>Durchwandert diese waldung sinnens ohne               </l>
+            <l>Und jeden vielverschlungnen pfad von vorn             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verharrt nicht vor den zeichen in den birken               </l>
+            <l>Geschwunden sei die hand die einst sie schnitt               </l>
+            <l>Nun f&amp;#252;hlt wie andre namen wunder wirken               </l>
+            <l>Zu jungen frischen st&amp;#228;mmen lenkt den schritt             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vergesst der schmerzen und des alten blutes               </l>
+            <l>Gerissen am verfallnen dorngestr&amp;#228;uch               </l>
+            <l>Und bl&amp;#228;tter d&amp;#252;rrer zeiten leichten mutes               </l>
+            <l>Betretet sie und lasst sie hinter euch!             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

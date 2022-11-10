@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Herrn Prof. Gärtner.</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">170</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">667</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Herrn Prof. Gärtner.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Gärtner, sieh, der rauhe Harz</l>
+            <l>Glänzt, weiß von hohem Schnee;</l>
+            <l>Und von bereiften Kiefern hängt</l>
+            <l>Kandirtes Eis herab!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ocker rauschet stiller fort,</l>
+            <l>Die blaue Well’ erstarrt;</l>
+            <l>Und über kahle Felder fährt</l>
+            <l>Der flockenreiche Sturm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm an den freundlichen Camin!</l>
+            <l>Mit unsparsamer Hand</l>
+            <l>Thürm ich, den jungen Buchenwald,</l>
+            <l>Zu hellen Flammen auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die reine Quelle brauset schon</l>
+            <l>Jm ehernen Gefäß.</l>
+            <l>Die güldne Frucht Hesperiens</l>
+            <l>Saugt hellen Zucker ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und nun dampft aus dem irdnen Meer</l>
+            <l>Der königliche Punsch.</l>
+            <l>Heil, England, dir! Heil dir! o Mann,</l>
+            <l>Der uns den Punsch erfand!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt lachen wir des Winters Wuth,</l>
+            <l>Der um die Fenster stürmt;</l>
+            <l>Und sprechen Weisheit, hochentzückt,</l>
+            <l>Indem die Schale raucht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

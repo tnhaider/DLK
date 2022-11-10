@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die lange Nacht.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">763</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die lange Nacht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr faulen Stunden ihr/ wie währet ihr so lange!</l>
+            <l>Der sonsten frühe Tag hält seinen Einzug auff/</l>
+            <l>Der Sternen muntre Schaar steht still in vollem Lauff/</l>
+            <l>Matuta lässet nach von ihrem schnellen Gange.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Himmel/ der mit sich die Himmels-Lichter ziehet/</l>
+            <l>O Kreiß/ der sonst den Weg weist andern Kreißen an/</l>
+            <l>Was hat mein Unschuld doch zuwider dir gethan/</l>
+            <l>Daß man zur Plage mir dich also langsam siehet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Minuten sind mir Tag/ und Stunden sind mir Jahre/</l>
+            <l>Der Zeit geschwinde Füß und Flügel sind von Bley.</l>
+            <l>Ich glaube daß die Nacht der Zimber kürtzer sey/</l>
+            <l>Und ich für meinem Tod ihr Ende nicht erfahre.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Penelope beschwert von vieler Freyer Menge/</l>
+            <l>Löst auff den Abend auff/ was sie den Tag gemacht:</l>
+            <l>Ich schwere/ Phöbus geht zurücke bey der Nacht/</l>
+            <l>Damit er seinen Weg und meine Pein verlänge.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

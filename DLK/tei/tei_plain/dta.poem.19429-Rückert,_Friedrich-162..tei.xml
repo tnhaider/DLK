@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">162.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">598</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>162.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll ich den nahen Tod dem Todesnahen zeigen?</l>
+            <l>Soll ich dem Sterbenden von seinem Sterben schweigen? —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vor Augen hatt' er stets in diesem jenes Leben,</l>
+            <l>Gewaltsam brauchst du nicht den Vorhang ihm zu heben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch würd' er auch dem Tod mit unbefangnem Blick</l>
+            <l>Ins Antlitz schaun, wie sonst manch anderem Geschick.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob du den Tod ihm magst verdecken, ob entdecken,</l>
+            <l>Gefärden wirst du dort ihn nicht, hier nicht erschrecken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ists ein wicht'ger Schritt, von hier hinübertreten</l>
+            <l>Ins unbekannte dort, bei dem es ziemt zu beten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bet', und frage nicht, ob er auch bete mit;</l>
+            <l>Bete für dich und ihn, wie er hinüber tritt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

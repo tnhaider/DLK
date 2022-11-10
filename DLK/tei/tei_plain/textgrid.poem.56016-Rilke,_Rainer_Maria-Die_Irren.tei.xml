@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Irren</title>
+        <author>
+          <persName>
+            <surname>Rilke</surname>
+            <forename>Rainer Maria</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-4 4-4 5-5 6-4</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">888</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1900</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Irren</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sie schweigen, weil die Scheidewände</l>
+            <l>weggenommen sind aus ihrem Sinn,</l>
+            <l>und die Stunden, da man sie verstände,</l>
+            <l>heben an und gehen hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nächtens oft, wenn sie ans Fenster treten:</l>
+            <l>plötzlich ist es alles gut.</l>
+            <l>Ihre Hände liegen im Konkreten,</l>
+            <l>und das Herz ist hoch und könnte beten,</l>
+            <l>und die Augen schauen ausgeruht</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>auf den unverhofften, oftentstellten</l>
+            <l>Garten im beruhigten Geviert,</l>
+            <l>der im Widerschein der fremden Welten</l>
+            <l>weiterwächst und niemals sich verliert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sie schweigen, weil die Scheidewände</l>
+            <l>weggenommen sind aus ihrem Sinn,</l>
+            <l>und die Stunden, da man sie verstände,</l>
+            <l>heben an und gehen hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nächtens oft, wenn sie ans Fenster treten:</l>
+            <l>plötzlich ist es alles gut.</l>
+            <l>Ihre Hände liegen im Konkreten,</l>
+            <l>und das Herz ist hoch und könnte beten,</l>
+            <l>und die Augen schauen ausgeruht</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>auf den unverhofften, oftentstellten</l>
+            <l>Garten im beruhigten Geviert,</l>
+            <l>der im Widerschein der fremden Welten</l>
+            <l>weiterwächst und niemals sich verliert.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

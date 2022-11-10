@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zur Warnung.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-4</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">597</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zur Warnung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einmal nach einer lustigen Nacht</l>
+            <l>War ich am Morgen seltsam aufgewacht:</l>
+            <l>Durst — Wasserscheu — ungleich Geblüt,</l>
+            <l>Dabei gerührt und weichlich im Gemüth,</l>
+            <l>Beinah poetisch, ja, ich bat die Muse um ein Lied;</l>
+            <l>Sie, mit verstelltem Pathos, spottet' mein,</l>
+            <l>Gab mir den schnöden Bafel ein:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„</l>
+            <l>Am Wasserfall;</l>
+            <l>Und ein Vogel ebenfalls,</l>
+            <l>Der schreibt sich Wendehals,</l>
+            <l>Johann Jakob Wendehals;</l>
+            <l>Der thut tanzen</l>
+            <l>Bei den Pflanzen</l>
+            <l>Obbemeldten Wasserfalls &amp;#8212;&amp;#8220;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ging es fort: mir wurde immer bänger;</l>
+            <l>Jezt sprang ich auf — zum Wein; der war denn auch</l>
+            <l>— Merkt's euch, ihr thränenreichen Sänger,</l>
+            <l>Im Katzenjammer ruft man keine Götter!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

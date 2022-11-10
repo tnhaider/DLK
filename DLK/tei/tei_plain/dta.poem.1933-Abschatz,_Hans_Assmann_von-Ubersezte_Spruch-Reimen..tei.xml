@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ubersezte Spruch-Reimen.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">601</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ubersezte Spruch-Reimen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß nichts Ewigs hier zu hoffen/ lehret uns das schnelle</l>
+            <l>Jahr/</l>
+            <l>Macht die rauberische Stunde/ die den Tag entführet/ wahr.</l>
+            <l>Linder Sudwind bricht den Frost/ Sommers Glutt vertreibt</l>
+            <l>den Mäyen/</l>
+            <l>Weicht dem Herbst/ der Früchte streut/ und bald will es wieder</l>
+            <l>schneyen.</l>
+            <l>Doch der Mond erholt sich wieder/ wenn er abgenommen</l>
+            <l>hat;</l>
+            <l>Wir/ wenn wir einmahl erreichen unsrer Vätter Lagerstatt</l>
+            <l>Werden nach dem Leibe Staub/ sehen diese Welt nicht wieder.</l>
+            <l>Wer weiß ob uns morgen noch geht die göldne Sonne nieder!</l>
+            <l>Warum suchst du denn dein Geld so begierig auffzuheben?</l>
+            <l>Was des Erben Geitz entgeht/ bringt dir Danck bey deinem</l>
+            <l>Leben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

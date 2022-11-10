@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">121</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">496</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Berg' und Burgen schau'n herunter</l>
+            <l>In den spiegelhellen Rhein,</l>
+            <l>Und mein Schiffchen segelt munter,</l>
+            <l>Rings umglänzt von Sonnenschein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ruhig seh' ich zu dem Spiele</l>
+            <l>Goldner Wellen, kraus bewegt;</l>
+            <l>Still erwachen die Gefühle,</l>
+            <l>Die ich tief im Busen hegt'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freundlich grüßend und verheißend</l>
+            <l>Lockt hinab des Stromes Pracht;</l>
+            <l>Doch ich kenn' ihn, oben gleißend,</l>
+            <l>Bringt sein Inn'res Tod und Nacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oben Lust, im Busen Tücken,</l>
+            <l>Strom, du bist der Liebsten Bild!</l>
+            <l>Die kann auch so freundlich nicken,</l>
+            <l>Lächelt auch so fromm und mild.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

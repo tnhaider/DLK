@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An  
+  die Frau Doktorin M.</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">203</measure>
+        <measure type="tokens">125</measure>
+        <measure type="characters">768</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An  
+  die Frau Doktorin M.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frau, der das Leben niemals bitter                 </l>
+            <l>Bey irgend einem Zufall ist:</l>
+            <l>Die Du die Zärtlichste der Mütter</l>
+            <l>Und der Gattinnen wärmste bist;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und in Entzückung aller Sinnen</l>
+            <l>Umarmest den geliebten Mann,</l>
+            <l>Und sprichst: Ihr Lebensspinnerinnen,</l>
+            <l>Fangt seinen Faden täglich an —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Freundin! hilf mir deine Freuden</l>
+            <l>Vertheidigen in einer Welt,</l>
+            <l>Wo man nicht glaubt, daß zum Beneiden</l>
+            <l>Dein Glücke Glanz genug enthält.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Freund, ein Schüler von Apollen,</l>
+            <l>Ein Meister in der Homelie, </l>
+            <l>Glaubt, daß die Tauben küssen wollen</l>
+            <l>Aus Zärtlichkeit und Harmonie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur warme Busen ältrer Ehen,</l>
+            <l>Als die der Hochzeitmonath sieht,</l>
+            <l>Die setzt er in das Reich der Feen</l>
+            <l>In ein Ovidianisch Lied.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und in die nie vorhandnen Staaten</l>
+            <l>Des Plato, der im hohen Styl</l>
+            <l>Den Jünglingen weis anzurathen</l>
+            <l>Ein leeres geistiges Gefühl.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

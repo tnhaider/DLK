@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Marini.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">125</measure>
+        <measure type="characters">716</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Marini.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der unglückselge Mensch kan kaum die Welt begrüssen/</l>
+            <l>Daß nicht ein Thränen-Fluß/ eh das noch schwache</l>
+            <l>Licht</l>
+            <l>Den hellen Tag erkennt/ aus seinen Augen bricht:</l>
+            <l>Wird frey und lässet sich in neue Bande schlüssen.</l>
+            <l>Ist er der zarten Milch und ersten Speiß entrissen/</l>
+            <l>So fässelt seinen Mutt der Zucht gezwungne Pflicht/</l>
+            <l>Befreyet ihn die Zeit/ wie muß sein Hertze nicht</l>
+            <l>Sich lebend offt und tod von Glück und Liebe wissen!</l>
+            <l>Was hat er denn für Sorg’ und Kummer auszustehn/</l>
+            <l>Was muß ihm nicht für Schmertz und Leid zu handen gehn/</l>
+            <l>Biß er gebückt und matt ergreifft den schwachen Stab.</l>
+            <l>Zulezt entflieht der Geist/ der Leib wird hingetragen/</l>
+            <l>So plötzlich/ daß ich muß mit tieffem Seuffzen sagen:</l>
+            <l>Wie nahe grentzen doch die Wieg’ und unser Grab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

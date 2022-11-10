@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er verlanget zu sterben.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">599</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er verlanget zu sterben.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weich Leben! weich geschwind/ der Tod ist vor der Thür/</l>
+            <l>Komm doch! komm </l>
+            <l>Todten-Feld/</l>
+            <l>Wie leb’ ich! bin ich todt! bin ich in jener Welt?</l>
+            <l>Strahlt </l>
+            <l>Nein! ach nun ists geschehn/ mein letzter Tag ist hier.</l>
+            <l>Jhr Unbarmhertzig-seyn bringt mich an </l>
+            <l>Mein Oden höret auf/ mein Urtheil ist gestelt/</l>
+            <l>Ich soll und muß vergehn. Ach kehre doch zu mir.</l>
+            <l>Beliebte </l>
+            <l>Ich habe dich geküßt/ ist das des Todes werth?</l>
+            <l>Wie/ hört dein Ohr denn nicht? ach Nein! nun muß ich sterben/</l>
+            <l>Jhr/ die ihr sie noch liebt/ hört was ich sage/ hört.</l>
+            <l>Hört! wenn ihr leben wolt/ so laßt sie ungeküsset/</l>
+            <l>Mein Vorwitz wird anjetzt durch meinen Tod gebüsset.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

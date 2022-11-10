@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">37.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">663</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>37.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Seelchen kam so früh vom Himmel schon hinaus,</l>
+            <l>Daß es vergessen hat sein elterliches Haus,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sein elterliches Haus vergessen, davon kaum</l>
+            <l>Ihm die Erinnerung noch manchmal kommt im Traum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Kind kam in der Fremd' an eine fremde Amme,</l>
+            <l>Ein Pflegevater auch ward ihm von fremdem Stamme.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie nannt' es Mutter, weil es ihre Brüste sog,</l>
+            <l>Ihn nannt' es Vater, weil er mit der Ruth' es zog.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ein Gefühl erwacht ihm in der Brust und spricht:</l>
+            <l>Der rechte Vater ists, die rechte Mutter, nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein bessrer Vater muß es seyn, den ich verloren,</l>
+            <l>Und eine schönere Mutter, die mich geboren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und seine Sehnsucht wächst, und Ruhe hat es nicht,</l>
+            <l>Bis es des Vaters sieht, der Mutter Angesicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

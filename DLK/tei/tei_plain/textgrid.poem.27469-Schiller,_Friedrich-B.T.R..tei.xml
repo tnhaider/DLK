@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">B.T.R.</title>
+        <author>
+          <persName>
+            <surname>Schiller</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">232</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">848</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1782</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>B.T.R.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kriechender Efeu, du rankest empor an Felsen und Bäumen,</l>
+            <l>Faulen Stämmen; du rankst, kriechender Efeu, empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Überall bist du Poet, im Gespräch, in Geschäften, am Spieltisch,</l>
+            <l>Nur in der Poesie bist du nicht immer Poet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Freude verdarb er mir garstig, die versifizierte</l>
+            <l>Mein ich; die andre gottlob! wird mir durch den nicht vergällt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ecce rubet quidam, pallet, stupet, oscitat, odit.</l>
+            <l>Hoc volo, nunc nobis carmina nostra placent.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kriechender Efeu, du rankest empor an Felsen und Bäumen,</l>
+            <l>Faulen Stämmen; du rankst, kriechender Efeu, empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Überall bist du Poet, im Gespräch, in Geschäften, am Spieltisch,</l>
+            <l>Nur in der Poesie bist du nicht immer Poet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Freude verdarb er mir garstig, die versifizierte</l>
+            <l>Mein ich; die andre gottlob! wird mir durch den nicht vergällt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ecce rubet quidam, pallet, stupet, oscitat, odit.</l>
+            <l>Hoc volo, nunc nobis carmina nostra placent.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

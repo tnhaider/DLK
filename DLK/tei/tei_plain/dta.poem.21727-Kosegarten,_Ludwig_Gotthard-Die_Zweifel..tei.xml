@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Zweifel.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">956</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Zweifel.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einmal noch, o Auserw&amp;#228;hlte,</l>
+            <l>Sink' ich an dein athmend Herz.</l>
+            <l>Dir vertraut der Tiefgequälte</l>
+            <l>Seine Sorgen, seinen Schmerz.</l>
+            <l>Dir am Busen wimmernd liegend,</l>
+            <l>Werd' ich alles Zagens los.</l>
+            <l>Dich umflechtend, dich umschmiegend</l>
+            <l>Fühl' ich stark mich, kühn und gross.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf des Zweifelmuthes Wellen</l>
+            <l>Schwankt der Hoffnung leichter Kahn;</l>
+            <l>Stürme geisseln, Strudel schwellen</l>
+            <l>Den geschwärzten Ozean;</l>
+            <l>Schleudern itzt den morschen Nachen</l>
+            <l>Schäumend bis zum Sirius,</l>
+            <l>Stürzen dann mit lautem Krachen</l>
+            <l>Nieder ihn zum Erebus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Manches schmeichlerische Hoffen</l>
+            <l>Flüstert leisen Trost mir zu,</l>
+            <l>Und Elysium steht mir offen,</l>
+            <l>Und der Orkus schliesst sich zu.</l>
+            <l>Um mich säuseln Edenslüfte,</l>
+            <l>Um mich lispelt Lautenklang.</l>
+            <l>Fernher wehn Violendüfte,</l>
+            <l>Fernher flötet Brautgesang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seligkeit, die mich durchschaudert,</l>
+            <l>Ahnung, die mich himmelwärts</l>
+            <l>Flügelt, dir zu glauben, zaudert</l>
+            <l>Des Verzagten zweifelnd Herz.</l>
+            <l>Nein, den Blöden, nein, den Armen</l>
+            <l>Meint Adelens Liebe nicht.</l>
+            <l>Nein, nicht Lieb' ists, nur Erbarmen,</l>
+            <l>Was Adelens Auge spricht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

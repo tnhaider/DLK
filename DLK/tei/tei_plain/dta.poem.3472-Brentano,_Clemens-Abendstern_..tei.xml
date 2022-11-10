@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abendstern .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-10 2-10 3-10</measure>
+        <measure type="syllables">238</measure>
+        <measure type="tokens">159</measure>
+        <measure type="characters">919</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abendstern .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlaf nur ein geliebtes Leben,               </l>
+            <l>Schlaf, ich will ja gern zufrieden seyn,</l>
+            <l>Deine lieben Augen geben</l>
+            <l>Dennoch deinem Diener hellen Schein.</l>
+            <l>Hast du dich verschlossen,</l>
+            <l>Will ich unverdrossen</l>
+            <l>Liebend doch vor deiner Thüre stehn;</l>
+            <l>Daß sie Liebe quäle,</l>
+            <l>Jauchzet meine Seele,</l>
+            <l>Darf ich liebend doch an deiner Thüre stehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlaf nur ein, dein Sternenschimmer</l>
+            <l>Läßt mich nie zu meinem Bette gehn,</l>
+            <l>Meine müden Augen sehn dich immer,</l>
+            <l>Bis sie vor den deinen untergehn,</l>
+            <l>Wie die Blätter fallen,</l>
+            <l>Also werd ich fallen,</l>
+            <l>Unter deinem Fuße rauschen hin,</l>
+            <l>Mild bist du den Armen,</l>
+            <l>Trage mir Erbarmen,</l>
+            <l>Unter deinem Fuße rausch ich hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlaf nur ein, und heiß mich wachend gehen,</l>
+            <l>Herz und Seele bleibet doch bei dir,</l>
+            <l>Will mir mit dem Tag die Sonne untergehen,</l>
+            <l>Ist ein Liebeshimmel doch in mir,</l>
+            <l>Denn da seh ich immer</l>
+            <l>Deiner Sterne Schimmer,</l>
+            <l>Wie sie flüchtig auf mein Herze gehn,</l>
+            <l>Säh ich dich doch morgen,</l>
+            <l>Ließ ich alle Sorgen</l>
+            <l>Also flüchtig durch mein Herze gehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">V or rede.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">554</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1640</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20685-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>V or rede.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun möcht jhr klugen Griechen</l>
+            <l>Vnd jhr aus Latien euch ingesambt verkriechen/</l>
+            <l>Es geht euch allen vor die deütsche Nachtigall/</l>
+            <l>Die nun so lieblich singt/ daß auch jhr süßer schall</l>
+            <l>Die andern übertrift: Sie sitzet auff den Rosen/</l>
+            <l>Vnd modulirt mit macht; Die prächtigen Frantzosen</l>
+            <l>Vermeinten gantz vnd gar/ vnd sagten ohne scheü</l>
+            <l>Daß keine Zierligkeit in deütscher Sprache sey</l>
+            <l>Zur edlen Poesie: biß endlich sie gerochen</l>
+            <l>Opitz der Edlen Ruhm/ vnd jhr die bahn gebrochen</l>
+            <l>Durch Göttlichen verstandt: daß sie in kurtzer zeit</l>
+            <l>Die andern übertraff an Zier vnd Liebligkeit &amp; c.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

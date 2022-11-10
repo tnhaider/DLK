@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Preiß der Tanne .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">129</measure>
+        <measure type="characters">726</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Preiß der Tanne .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jüngsthin hört' ich wie die Rebe</l>
+            <l>Mit der Tanne sprach und schalt:</l>
+            <l>Stolze! himmelwärts dich hebe!</l>
+            <l>Dennoch bleibst du starr und kalt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Spend' auch ich nur kargen Schatten</l>
+            <l>Wegemüden, gleich wie du,</l>
+            <l>Führet doch mein Saft die Matten,</l>
+            <l>O wie leicht! der Heimat zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und im Herbste, — welche Wonne</l>
+            <l>Bring' ich in des Menschen Haus!</l>
+            <l>Schaff' ihm eine neue Sonne,</l>
+            <l>Wann die alte löschet aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So sich brüstend sprach die Rebe,</l>
+            <l>Doch die Tanne blieb nicht stumm,</l>
+            <l>Säuselnd sprach sie: gerne gebe</l>
+            <l>Ich dir, Rebe, Preiß und Ruhm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eines doch ist mir beschieden.</l>
+            <l>Mehr zu laben als dein Wein,</l>
+            <l>Lebensmüde; — welchen Frieden</l>
+            <l>Schließen meine Bretter ein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob die Rebe sich gefangen</l>
+            <l>Gab der Tanne, weiß ich nicht,</l>
+            <l>Doch sie schwieg, — und Thränen hangen</l>
+            <l>Sah ich ihr am Auge licht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

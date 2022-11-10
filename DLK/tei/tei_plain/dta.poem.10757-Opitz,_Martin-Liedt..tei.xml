@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Liedt.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">320</measure>
+        <measure type="tokens">245</measure>
+        <measure type="characters">1317</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Liedt.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein feines Lieb ist fern von mir/</l>
+            <l>Ich hat mit jhr sehr kurtze frewdt/</l>
+            <l>Sehr kurtze frewdt hat ich mit jhr/</l>
+            <l>Das macht mir desto grösser leidt/</l>
+            <l>Mein Tag bring ich mit seusstzen zu/</l>
+            <l>Mitlauter Vnruh meine Ruh:</l>
+            <l>Mein Hertz hat sie genommen mit/</l>
+            <l>Es halff kein Klag/ es halff kein Bitt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr seuftzen/ ach jhr seuftzen mein/</l>
+            <l>Die jhr so heüffig eilt von mir/</l>
+            <l>Fahrt hin zu meinem Liebelein/</l>
+            <l>Fahrt hin/ vnd sagt der Edlen Zier/</l>
+            <l>Daß jhr getrewer Diener sich</l>
+            <l>Vmb sie bekümmer inniglich/</l>
+            <l>Ohn vnderlaß insolchem schmertz</l>
+            <l>Gedencket an jhr Keusches Hertz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleich wie ein Turtelteubelein/</l>
+            <l>Das sein Gesellen hat verlohrn;</l>
+            <l>So sitz ich trawrig vnd allein/</l>
+            <l>Das schwinde scheiden thut mir zorn/</l>
+            <l>Ach scheiden/ ach zum letzten mahl</l>
+            <l>Da fing erst an die rechte Qual/</l>
+            <l>Zum letzten mahl da sie fort ruckt/</l>
+            <l>Mein Hertz ich in jhr Lefftzen truckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hab euch jwar so lang erwehrt/</l>
+            <l>Daß mich kein Jungfraw fangen solt/</l>
+            <l>Nun seh ich wohl/ euch ist beschert/</l>
+            <l>Daß ich euch muste werden holdt/</l>
+            <l>Ihr ward die jenig/ jhr allein/</l>
+            <l>Ihr seyt es vnd jhr solt es sein/</l>
+            <l>Die mich durch jhre lieblichkeit</l>
+            <l>Vnd Tugent also hat verleit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach liebstes Lieb/ kehrt wieder vmb/</l>
+            <l>Kehrt vmb/ ach liebstes Liebelein/</l>
+            <l>Eh dann ich gantz vnd gar vmbkumb/</l>
+            <l>Vnd geb mir nur ein Zeichen klein/</l>
+            <l>Kan es nit mit dem Leibe sein/</l>
+            <l>So last es doch ein Schreiben sein/</l>
+            <l>Hab ich so vil genad bey euch/</l>
+            <l>So frag ich nach keim Königreich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

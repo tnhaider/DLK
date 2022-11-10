@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">250</measure>
+        <measure type="tokens">159</measure>
+        <measure type="characters">1032</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„hieraus versteht ihr wohl, daß es der Pöbel ist,</l>
+            <l>„der nichts, als nach dem Wahn der Tadelsucht, ermißt.</l>
+            <l>„er kennt nicht, oder hart, was eine Wahrheit seye;</l>
+            <l>„besonders wann ich sie mit meinem Schmuck bestreue,</l>
+            <l>„um durch das scharffe Licht, so dessen Augen fliehn,</l>
+            <l>410”Der Mißgunst nicht zu schnell die Larve wegzuziehn;</l>
+            <l>„weil ich Verdruß und Zorn in solchem Aug erweckte,</l>
+            <l>„wann ich der Wahrheit Glanz in vollem Schein entdeckte.</l>
+            <l>„er weiß nicht, wie sie sich in alle Sachen dringt;</l>
+            <l>„was Wohlgefallen sie dem Wissens-Eifer bringt.</l>
+            <l>415”Wie könnte dann sein Geist, sein trübes Auge sehen</l>
+            <l>„die Wahrheit im Gedicht und in der Fabel stehen?</l>
+            <l>„er, welcher kaum vermerckt, was ihm vor Augen schwebt,</l>
+            <l>„nur Abentheuern nach, und nach Gespenstern strebt;</l>
+            <l>„durch die Verwunderung Unwissenheit erkläret,</l>
+            <l>420”Durch die Leichtgläubigkeit dieselbige vermehret:</l>
+            <l>„er, welcher mich veracht und unglückseelig nennt,</l>
+            <l>„weil er der Künste Lust und Treflichkeit nicht kennt,</l>
+            <l>„verblender und verstockt den hellen Tag verschmähet,</l>
+            <l>„well seine Blödigkeit dadurch verrathen stehet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

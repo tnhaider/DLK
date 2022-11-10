@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">15.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">430</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>15.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Meer erstrahlt im Sonnenschein,</l>
+            <l>Als ob es golden wär.</l>
+            <l>Ihr Brüder, wenn ich sterbe,</l>
+            <l>Versenkt mich in das Meer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hab immer das Meer so liebgehabt,</l>
+            <l>Es hat mit sanfter Flut</l>
+            <l>So oft mein Herz gekühlet;</l>
+            <l>Wir waren einander gut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Meer erstrahlt im Sonnenschein,</l>
+            <l>Als ob es golden wär.</l>
+            <l>Ihr Brüder, wenn ich sterbe,</l>
+            <l>Versenkt mich in das Meer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hab immer das Meer so liebgehabt,</l>
+            <l>Es hat mit sanfter Flut</l>
+            <l>So oft mein Herz gekühlet;</l>
+            <l>Wir waren einander gut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

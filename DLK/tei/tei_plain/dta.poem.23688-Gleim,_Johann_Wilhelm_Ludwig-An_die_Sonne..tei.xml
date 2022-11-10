@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Sonne.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">470</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Sonne.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sonne, brich doch durch die Wolken!</l>
+            <l>Laß uns doch den hellen Himmel</l>
+            <l>Laß uns deine Stralen sehen!</l>
+            <l>Haben denn die dikken Dünste</l>
+            <l>Dich nicht lang genug verdunkelt?</l>
+            <l>Hat es nicht genug geregnet?</l>
+            <l>Sieh, die Fluren stehn voll Wasser,</l>
+            <l>Und es ist für deine Stralen,</l>
+            <l>Viel zu trokknen, viel zu trinken!</l>
+            <l>Sonne, laß die düstern Wolken</l>
+            <l>Schnell vor deinen Stralen fliehen;</l>
+            <l>Aber, wenn sie, statt des Wassers,</l>
+            <l>Wein herunter schütten wollen,</l>
+            <l>Solchen Wein, wie ich itzt trinke, </l>
+            <l>O so laß die Wolken regnen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

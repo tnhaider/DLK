@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sphinx.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">9</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4 9-4</measure>
+        <measure type="syllables">354</measure>
+        <measure type="tokens">278</measure>
+        <measure type="characters">1579</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sphinx.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du schönes Kind schau’ mir in’s Angesicht</l>
+            <l>Und sprich von Liebe mir ein kleines Wort —</l>
+            <l>„ich liebe dich — (ich hasse dich ja nicht —</l>
+            <l>Der Narr, geht er denn immer noch nicht fort?!)“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm, küsse mich, o bleiche Lilie du,</l>
+            <l>Ich küss’ dafür dich wie die Rose roth —</l>
+            <l>„ich bin recht müd’, mir fällt die Wimper zu</l>
+            <l>Bei dem Geschwätz langweil’ ich mich zu Tod.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm’, plaudre mir geheimnißvoll und sacht,</l>
+            <l>So wie die Quelle unter’m Mondenstrahl —</l>
+            <l>„ich bin gewiß recht häßlich überwacht,</l>
+            <l>Das Haar wie wirr, die Wange wie so fahl.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich muß jetzt fort! Nein, bleibe noch bei mir!</l>
+            <l>(gott Lob, er geht! wie ist zerdrückt mein Kleid)“</l>
+            <l>Doch morgen, morgen fliege ich zu dir!</l>
+            <l>„(Schon morgen? — läg’ das Morgen doch recht weit!)“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gieb einen Kuß — „(Er geht noch immer nicht!)“</l>
+            <l>Noch einen Blick — „(Noch immer folgt ein „dann“!)“</l>
+            <l>Sag’ mir, warum so schön dein Angesicht?</l>
+            <l>(„Damit ich dumme Gimpel leimen kann.)“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt lebe wohl! „Willst du denn wirklich gehn?</l>
+            <l>So schlafe süß und träume hell und sacht —</l>
+            <l>Und gute Nacht — auf Wieder-, Wiedersehn!“ —</l>
+            <l>Auf Wiedersehn, mein Kind, und gute Nacht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„(Er geht! Es war recht häßlich mein Gesicht —</l>
+            <l>Er fand es schön — — er schmeichelte vielleicht?</l>
+            <l>Wie leicht man doch das Wörtchen „Liebe“ spricht</l>
+            <l>Und wiederum wie glaubt man es uns leicht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Armband hat er endlich mir gebracht —</l>
+            <l>Ob echt die Steine? morgen leg ich’s an — —</l>
+            <l>Doch jetzt zu Bett! es flieht so schnell die Nacht!</l>
+            <l>Ein Seidenkleid wünsch ich mir, nun und dann …)“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie schlummert schon. Er aber wacht in Qual,</l>
+            <l>Und lauscht wie träge jede Stunde rinnt —</l>
+            <l>Und als der Morgen naht so blaß, so fahl,</l>
+            <l>Da betet heiß er für sein bleiches Kind. —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

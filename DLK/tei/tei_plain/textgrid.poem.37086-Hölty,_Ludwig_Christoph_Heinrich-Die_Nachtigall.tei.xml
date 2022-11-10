@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Nachtigall</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6 6-6</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">582</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1773</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Nachtigall</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Nachtigall</l>
+            <l>Singt überall,</l>
+            <l>Auf grünen Reisen,</l>
+            <l>Die besten Weisen,</l>
+            <l>Tönt süße Ruh</l>
+            <l>Den Leuten zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der grüne Wald</l>
+            <l>Und Busch erschallt</l>
+            <l>Von ihrer Minne.</l>
+            <l>Mit frohen Sinne</l>
+            <l>Hört jederman</l>
+            <l>Den Vogel an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich, leider, nicht,</l>
+            <l>Es bricht, es bricht,</l>
+            <l>Trotz allen Fugen,</l>
+            <l>So Vögel schlugen,</l>
+            <l>Vor Minneschmerz,</l>
+            <l>Mein armes Herz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Nachtigall</l>
+            <l>Singt überall,</l>
+            <l>Auf grünen Reisen,</l>
+            <l>Die besten Weisen,</l>
+            <l>Tönt süße Ruh</l>
+            <l>Den Leuten zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der grüne Wald</l>
+            <l>Und Busch erschallt</l>
+            <l>Von ihrer Minne.</l>
+            <l>Mit frohen Sinne</l>
+            <l>Hört jederman</l>
+            <l>Den Vogel an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich, leider, nicht,</l>
+            <l>Es bricht, es bricht,</l>
+            <l>Trotz allen Fugen,</l>
+            <l>So Vögel schlugen,</l>
+            <l>Vor Minneschmerz,</l>
+            <l>Mein armes Herz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

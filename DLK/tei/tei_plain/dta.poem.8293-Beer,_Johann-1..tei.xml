@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Beer</surname>
+            <forename>Johann</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-5 2-5</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">51</measure>
+        <measure type="characters">300</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25222-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Libretto</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heute gehn wir zu den Schmause/</l>
+            <l>Da werd ich geschäfftig seyn</l>
+            <l>Und in den Falerner Wein</l>
+            <l>Trincken eine tapffre Kraufe.</l>
+            <l>Heute gehn wir zu den Schmause.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heute leer ich manches Kännchen/</l>
+            <l>Und erfrische mein Gemüth/</l>
+            <l>Biß der Kamm fein roth aussieht/</l>
+            <l>Wenn mirs steigt ins Ober-Männchen.</l>
+            <l>Heute leer ich manches Kännchen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

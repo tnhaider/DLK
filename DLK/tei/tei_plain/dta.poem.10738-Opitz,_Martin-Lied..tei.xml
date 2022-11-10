@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lied.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-9 2-9 3-9 4-9</measure>
+        <measure type="syllables">295</measure>
+        <measure type="tokens">196</measure>
+        <measure type="characters">1212</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hin vnd wider/ auff vnd ab/</l>
+            <l>Vil Land vnd Leut durchreisethab,</l>
+            <l>Zu bekommen Lehr’ vnd Verstand/</l>
+            <l>Auch frembder zungen sprach.</l>
+            <l>Gedultet hab manch vngemach:</l>
+            <l>Vmbsonst ist vil vnkosten angewand:</l>
+            <l>Gethan mirs wohl het’s Vatterland.</l>
+            <l>Zu was nutz mir solchs gelinget/</l>
+            <l>Wans widerum das Glück mir nit reinbringet?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>TentischlandTeutschland (sags mit vergunst)</l>
+            <l>Begabet ist mit mancher Kunst/</l>
+            <l>Derer sichs garnit schemen thar.</l>
+            <l>Hoch schetzen wir frembd ding/</l>
+            <l>Vnd achten vnsers für gering:</l>
+            <l>So doch das vnsrig andrer kunst vnd lär</l>
+            <l>Weit vbertrifft/ wie offenbär.</l>
+            <l>Was bringts dan für nutz vnd frommen/</l>
+            <l>Schätz suchen anderswo/ doch lehr heimkommen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihren sachen gibt ein schein/</l>
+            <l>Vnd blendet eim die Augen fein</l>
+            <l>Der geferbet außlendisch pracht.</l>
+            <l>Was witzig ist vnd klug/</l>
+            <l>Merckt bald den anstrich vnd betrug:</l>
+            <l>Der aber solchs hoch helt aus vnbedacht/</l>
+            <l>Wird in bethörung fluchs gebracht/</l>
+            <l>Was thuts helffen oder nutzen/</l>
+            <l>Da nichts darhinder ist/ etwas aufmutzen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gold nit alles ist/ was gleist;</l>
+            <l>Schön ist nit alles/ was geweist.</l>
+            <l>Sich Glasur vergat Edlem stein:</l>
+            <l>Götzbild dem Menschen gleicht;</l>
+            <l>Meuskot im Pfeffer sich verschleiche:</l>
+            <l>Köstlich gekleidet ist nit allzeit rein;</l>
+            <l>Boxhörner seind kein Elfenbein.</l>
+            <l>Wilst vil Land nun sein durchzogen?</l>
+            <l>O wandrer/ sich daß du nit werst betrogen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

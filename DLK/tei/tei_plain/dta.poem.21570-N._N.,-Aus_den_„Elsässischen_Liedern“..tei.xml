@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aus den „Elsässischen Liedern“.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">247</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">924</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aus den „Elsässischen Liedern“.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir haben Dich wieder erstritten</l>
+            <l>In wetternder Völkerschlacht,</l>
+            <l>Geweint um Dich und gelitten</l>
+            <l>Und Opfer um Opfer gebracht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun lassen wir Dich nimmer</l>
+            <l>Und halten Dich fest in der Hand,</l>
+            <l>Bist wieder deutsch auf immer,</l>
+            <l>Flurherrliches Wasgenland!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun rauscht Dir stolzer und freier</l>
+            <l>Den jauchzenden Rhein entlang</l>
+            <l>Die allemannische Leier,</l>
+            <l>Der allemannische Sang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus deinen Burgen und Bergen</l>
+            <l>Da schweben durch Hallen und Thor</l>
+            <l>Mit Nixen und Elfen und Zwergen</l>
+            <l>Viel alte Gestalten empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie haben gar lange geschwiegen</l>
+            <l>Von mancher vielköstlichen Mär,</l>
+            <l>Und mußten vergessen liegen</l>
+            <l>In Schutt und Gemäuer umher.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun kommen sie lächelnd und steigen</l>
+            <l>An’s leuchtende Sonnenlicht</l>
+            <l>Und wollen Dir deuten und zeigen</l>
+            <l>Was Deine Geschichte spricht:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß seit den undenklichsten Tagen</l>
+            <l>Und trotz dem fränkischen Raub</l>
+            <l>Die Eichen im Wasgau getragen</l>
+            <l>Das echte germanische Laub.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und daß allzeiten inmitten</l>
+            <l>Der welschen, werbenden List</l>
+            <l>Dein Volk an </l>
+            <l>Germanisch geblieben ist.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

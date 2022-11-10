@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">137.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">103</measure>
+        <measure type="characters">594</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>137.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dich irrt der ew'ge Krieg in Wasser, Luft und Erden,</l>
+            <l>Das Fressen der Geschöpf' und ihr Gefressenwerden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du fragst, ob keine Welt geschaffen konnte seyn,</l>
+            <l>Ganz Leben, ohne Tod? mein Sohn, ich denke, nein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich frage: Fühlest du dich selbst nicht wohlgemacht?</l>
+            <l>Denk alles andre denn für dich hervorgebracht,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um dich und alle, die du liebest, zu ernähren.</l>
+            <l>Nun aber: kann der Tod das Leben wol gebären?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum lebt und nähret sich, was dir soll Nahrung geben;</l>
+            <l>Du freue dich, wieviel' um deinetwillen leben!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und was nicht deinem Leib, gibt Nahrung deinem Geist;</l>
+            <l>Du freu der Tafel dich, der reichen, die dich speist!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

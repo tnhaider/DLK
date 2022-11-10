@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">In das Mozartalbum</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-6 3-4 4-6</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">624</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>In das Mozartalbum</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mag die Welt vom einfach Schönen</l>
+            <l>Sich für kurze Zeit entwöhnen,</l>
+            <l>Nimmer trägt sie's auf die Dauer,</l>
+            <l>Schnödem Ungeschmack zu fröhnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald, vom Taumelfest ersättigt</l>
+            <l>Anspruchsvoller Trugkamönen,</l>
+            <l>Sehnt sie sich zurück zum Gipfel,</l>
+            <l>Den die echten Lorbeern krönen,</l>
+            <l>Und mit Wonne lauscht sie wieder</l>
+            <l>Goethes Liedern, Mozarts Tönen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mag die Welt vom einfach Schönen</l>
+            <l>Sich für kurze Zeit entwöhnen,</l>
+            <l>Nimmer trägt sie's auf die Dauer,</l>
+            <l>Schnödem Ungeschmack zu fröhnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald, vom Taumelfest ersättigt</l>
+            <l>Anspruchsvoller Trugkamönen,</l>
+            <l>Sehnt sie sich zurück zum Gipfel,</l>
+            <l>Den die echten Lorbeern krönen,</l>
+            <l>Und mit Wonne lauscht sie wieder</l>
+            <l>Goethes Liedern, Mozarts Tönen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-14 2-4</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">717</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was schallt aus diesem Wald'? Ich horche/ daß ich höre?</l>
+            <l>E. Ehre.</l>
+            <l>Was mehr? ich mag sehr gern von neuen Dingen wissen?</l>
+            <l>E. Wissen.</l>
+            <l>Mich dünkt/ ich hör’ hierbei ein reingemeintes Küssen/</l>
+            <l>E. Küssen.</l>
+            <l>Wie? schallet es nicht auch von einer feinen Lehre.</l>
+            <l>E. Lehre.</l>
+            <l>So handelt dieser Wald/ und schallet wie ich höre/</l>
+            <l>Von </l>
+            <l>Und lehrt der Sitten Zier. Orpheus war der Krafft</l>
+            <l>Den Wald an sich zu ziehn. Seht/ wie es sich verkehre/</l>
+            <l>Nu ziehet ihn der Wald/ den unser Neumark pflantzet/</l>
+            <l>Wo selbst der Delius mit seinen Musen dantzet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sag’ es ins Gesicht’ und sag’ es hinderwerts/</l>
+            <l>Herr Neumark schreibet rein/ und hat ein reines Hertz.</l>
+            <l>So viel als ich das Deutsch? und reines Hertz mag kennen</l>
+            <l>So kan ich ihn wol Rein von Sprach und Hertzen nennen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

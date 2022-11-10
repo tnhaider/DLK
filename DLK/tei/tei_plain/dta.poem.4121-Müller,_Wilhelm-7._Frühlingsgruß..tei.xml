@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">7.   Frühlingsgruß.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">29</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">163</measure>
+        <measure type="characters">906</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>7.   Frühlingsgruß.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flieg hin zu meinem Schatz geschwind,</l>
+            <l>Es wird dich nicht verdrießen,</l>
+            <l>Und fächl' ihr sanft um Wang' und Kinn,</l>
+            <l>Treib deine jüngsten Düfte hin,</l>
+            <l>Und sprich: Der Lenz läßt grüßen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Laute nehm' ich von der Wand,</l>
+            <l>Und schlinge drum ein grünes Band,</l>
+            <l>Ein Vöglein hört' ich schlagen;</l>
+            <l>Es schlug: Wer bindet an mit mir</l>
+            <l>Zu Lieb' und Sang ein Festturnier</l>
+            <l>In grünen Rosenhagen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl auf im hellen Mondenschein,</l>
+            <l>Durch alle Gassen aus und ein,</l>
+            <l>Mit Fiedeln und Schalmeien!</l>
+            <l>Thut auf, thut auf die Fensterlein,</l>
+            <l>Ihr Mägdlein, laßt den Frühling ein!</l>
+            <l>Dürft euch vor ihm nicht scheuen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist ein wohlgezog'ner Gast,</l>
+            <l>Ein Knäblein jung und blöde fast,</l>
+            <l>Auch etwas unerfahren:</l>
+            <l>Nehmt Amorn ihm als Lehrer an,</l>
+            <l>So wird er bald ein kluger Mann,</l>
+            <l>Noch eh' er kommt zu Jahren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du heller linder Abendwind,</l>
+            <l>Was meint zu dir das liebe Kind,</l>
+            <l>Gefällt ihr deine Kunde?</l>
+            <l>Gut' Nacht, gut' Nacht, die Fenster zu!</l>
+            <l>Der neue Gast verlangt nach Ruh',</l>
+            <l>Der Wächter bläst die Stunde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

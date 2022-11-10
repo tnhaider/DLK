@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViI.  
+  Fragen .</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-4 2-10 3-4</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">659</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViI.  
+  Fragen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Meer, am wüsten, nächtlichen Meer</l>
+            <l>Steht ein Jüngling-Mann,</l>
+            <l>Die Brust voll Wehmuth, das Haupt voll Zweifel,</l>
+            <l>Und mit düstern Lippen fragt er die Wogen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„o lös't mir das Räthsel des Lebens,</l>
+            <l>Das qualvoll uralte Räthsel,</l>
+            <l>Worüber schon manche Häupter gegrübelt,</l>
+            <l>Häupter in Hieroglyphenmützen,</l>
+            <l>Häupter in Turban und schwarzem Barett,</l>
+            <l>Perückenhäupter und tausend andre</l>
+            <l>Arme, schwitzende Menschenhäupter —</l>
+            <l>Sagt mir, was bedeutet der Mensch?</l>
+            <l>Woher ist er kommen? Wo geht er hin?</l>
+            <l>Wer wohnt dort oben auf goldenen Sternen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es murmeln die Wogen ihr ew'ges Gemurmel,</l>
+            <l>Es wehet der Wind, es fliehen die Wolken,</l>
+            <l>Es blinken die Sterne, gleichgültig und kalt,</l>
+            <l>Und ein Narr wartet auf Antwort.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

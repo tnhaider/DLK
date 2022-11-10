@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Gretchen</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">270</measure>
+        <measure type="tokens">188</measure>
+        <measure type="characters">1080</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1864</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Gretchen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jüngst, als unsere Mädchen, zur Fastnacht beide verkleidet,</l>
+            <l>Im Halbdunkel sich scheu erst an der Türe gezeigt,</l>
+            <l>Dann sich die Blonde als Schäferin dir, mir aber die kleine</l>
+            <l>Mohrin mit Lachen zumal warf in den offenen Arm,</l>
+            <l>Und du, Liebste, von fern mein Gefühl nicht ahnend, ins Ohr mir</l>
+            <l>(der ich verblüfft dasaß) flüstertest »lobe sie doch« – –:</l>
+            <l>O wie gedacht ich der Zeit, da </l>
+            <l>Beide noch fremd, ja du selber noch hießest ein Kind.</l>
+            <l>Einst und jetzt im Wechsel – ein fliegender Blitz der Gedanken</l>
+            <l>Machte mich stumm, und hoch wallte vor Freuden mein Herz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jüngst, als unsere Mädchen, zur Fastnacht beide verkleidet,</l>
+            <l>Im Halbdunkel sich scheu erst an der Türe gezeigt,</l>
+            <l>Dann sich die Blonde als Schäferin dir, mir aber die kleine</l>
+            <l>Mohrin mit Lachen zumal warf in den offenen Arm,</l>
+            <l>Und du, Liebste, von fern mein Gefühl nicht ahnend, ins Ohr mir</l>
+            <l>(der ich verblüfft dasaß) flüstertest »lobe sie doch« – –:</l>
+            <l>O wie gedacht ich der Zeit, da </l>
+            <l>Beide noch fremd, ja du selber noch hießest ein Kind.</l>
+            <l>Einst und jetzt im Wechsel – ein fliegender Blitz der Gedanken</l>
+            <l>Machte mich stumm, und hoch wallte vor Freuden mein Herz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

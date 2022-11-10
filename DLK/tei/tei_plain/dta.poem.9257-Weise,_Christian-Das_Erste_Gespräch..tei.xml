@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Erste Gespräch.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">42</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7 6-7</measure>
+        <measure type="syllables">329</measure>
+        <measure type="tokens">217</measure>
+        <measure type="characters">1250</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Erste Gespräch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Asträa bistu wol mit mir zu frieden</l>
+            <l>Daß ich zurücke reisen kan/</l>
+            <l>Nachdem ich dir mein hertz allhier beschieden</l>
+            <l>Und die versicherung gethan/</l>
+            <l>Daß ich aus allen</l>
+            <l>Dir zu gefallen/</l>
+            <l>Keine will lieben als eben dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. Asträa schaue nur auf mein gelücke</l>
+            <l>Dem ich noch immer folgen muß/</l>
+            <l>Dasselbe locket mich so weit zurücke</l>
+            <l>Und hemt den zuckersüssen schluß</l>
+            <l>Ich bleib indessen</l>
+            <l>Dein unvergessen</l>
+            <l>Edelstes seelgen und denck an dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>3. Die winde können zwar den leib verjagen/</l>
+            <l>Doch die gedancken bleiben hier/</l>
+            <l>Die werden dir allzeit ins ohre sagen:</l>
+            <l>Ach dein Adonis lebt in dir/</l>
+            <l>Der ungebrochen</l>
+            <l>Sich selbst versprochen/</l>
+            <l>Liebste derhalben besinne dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>4. Wird ja der neid und haß mit wort und wercken</l>
+            <l>Uns mitler zeit entgegen gehn/</l>
+            <l>So wollen wir uns doch in hoffnung stärcken</l>
+            <l>Und der verfolgung widerstehn/</l>
+            <l>Biß unsre Sonne</l>
+            <l>Mit lust und wonne</l>
+            <l>Scheinet vollkommen auff mich und dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>5. Der himmel wird es schon mit ehsten fügen/</l>
+            <l>Wofern du nur zufrieden bist/</l>
+            <l>Daß wir uns beyderseits also vergnügen/</l>
+            <l>Gleichwie der wunsch gewesen ist:</l>
+            <l>Jtzt hilfft kein klagen/</l>
+            <l>Nur laß mich sagen:</l>
+            <l>Liebe mich Schönste/ so lieb ich dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>6. </l>
+            <l>Ein übrigs trauren hilfft nicht viel/</l>
+            <l>Weil ich in kurtzen dich mit grosser freude</l>
+            <l>Gesund und froh umbfangen wil.</l>
+            <l>Du bist mein leben</l>
+            <l>Bleib mir ergeben</l>
+            <l>Liebste so leb ich vor mich und dich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

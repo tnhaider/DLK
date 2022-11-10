@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Keiner, der nicht schon zum Weihe-Fest gelassen,</title>
+        <author>
+          <persName>
+            <surname>Tieck</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">574</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1813</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Keiner, der nicht schon zum Weihe-Fest gelassen,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Keiner, der nicht schon zum Weihe-Fest gelassen,</l>
+            <l>Kann den Sinn der dunkeln Kunst erfassen,</l>
+            <l>Keinem sprechen diese Geistertöne,</l>
+            <l>Keiner sieht den Glanz der schönsten Schöne,</l>
+            <l>Dem im innern Herzen nicht das Siegel brennt,</l>
+            <l>Welches ihn als Eingeweihten nennt,</l>
+            <l>Jene Flamme, die der Töne Geist erkennt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Keiner, der nicht schon zum Weihe-Fest gelassen,</l>
+            <l>Kann den Sinn der dunkeln Kunst erfassen,</l>
+            <l>Keinem sprechen diese Geistertöne,</l>
+            <l>Keiner sieht den Glanz der schönsten Schöne,</l>
+            <l>Dem im innern Herzen nicht das Siegel brennt,</l>
+            <l>Welches ihn als Eingeweihten nennt,</l>
+            <l>Jene Flamme, die der Töne Geist erkennt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

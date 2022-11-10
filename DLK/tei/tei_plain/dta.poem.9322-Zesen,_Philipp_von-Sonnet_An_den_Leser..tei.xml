@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet  
+ An den Leser.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-3</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">689</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet  
+ An den Leser.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier mustu was gemach im ersten Buche schleichen</l>
+            <l>den wohlbedachten tritt nach jambischer manier/</l>
+            <l>so lange/ biß sich auch das Andre lässt berfür/</l>
+            <l>darinnen dañ die Verß den schwinden gang erreichen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>auf zweyen füßen gehn/ und so den Ersten gleichen/</l>
+            <l>nur daß sie schneller seyn und eylen mit begier</l>
+            <l>gleich einer wasserfluth; Drauf zeigt sich/ Leser/ Dier</l>
+            <l>das dritte Musterbuch/ dem alle beyde weichen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>an flüchtigkeit und zier; Darinnen alles springt/</l>
+            <l>und geht den trippeltantz/ da auch die Sappho</l>
+            <l>schwingt</l>
+            <l>jhr füßes spiel empor. Dann werden uns die Lieder</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>im Vierden auch gezeigt/ darinnen für und für</l>
+            <l>die Arten seyn vermischt; Nun sey gewogen mier;</l>
+            <l>Mein Leser/ wer du bist/ so thu Ich gleich fals wieder!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

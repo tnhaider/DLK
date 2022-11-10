@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">161</measure>
+        <measure type="characters">978</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wolken, Wälderwärts gegangen,</l>
+            <l>Wolken, fliegend über's Haus,</l>
+            <l>Könnt' ich an euch fest mich hangen,</l>
+            <l>Mit euch fliegen weit hinaus!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Taglang durch die Wälder schweif' ich,</l>
+            <l>Voll Gedanken sitz' ich still,</l>
+            <l>In die Saiten flüchtig greif' ich,</l>
+            <l>Wieder dann auf einmal still.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schöne, rührende Geschichten</l>
+            <l>Fallen ein mir, wo ich steh,</l>
+            <l>Lustig muß ich schreiben, dichten,</l>
+            <l>Ist mir selber gleich so weh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Manches Lied, das ich geschrieben</l>
+            <l>Wohl vor manchem langen Jahr,</l>
+            <l>Da die Welt vom treuen Lieben</l>
+            <l>Schön mir überglänzet war.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Find' ich's wieder jetzt voll Bangen:</l>
+            <l>Werd' ich wunderbar gerührt,</l>
+            <l>Denn so lang ist das vergangen,</l>
+            <l>Was mich zu dem Lied verführt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese Wolken ziehen weiter,</l>
+            <l>Alle Vögel sind erweckt,</l>
+            <l>Und die Gegend glänzet heiter,</l>
+            <l>Weit und fröhlich aufgedeckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Regen flüchtig abwärts gehen,</l>
+            <l>Scheint die Sonne zwischendrein,</l>
+            <l>Und dein Haus, dein Garten stehen</l>
+            <l>Ueber'm Wald im stillen Schein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch du harrst nicht mehr mit Schmerzen,</l>
+            <l>Wo so lang' dein Liebster sey —</l>
+            <l>Und mich tödtet noch im Herzen</l>
+            <l>Dieser Schmerzen Zauberei.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

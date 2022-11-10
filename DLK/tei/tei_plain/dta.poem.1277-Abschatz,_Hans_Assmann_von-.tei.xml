@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"></title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">504</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head></head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlaf/ angenehmes Kind der stillen Nacht/</l>
+            <l>Arzt der von Müdigkeit erstorbnen Geister/</l>
+            <l>Des Kummers Feind und Tod/ der Sorgen Meister/</l>
+            <l>Warum halt ich allein in meinem Bette/</l>
+            <l>(das mir der Unruh Grab soll seyn) die Wette/</l>
+            <l>Mit tausend Sternen an dem Himmel Wacht?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo ist dein süsses Thun/ die stille Ruh?</l>
+            <l>Wo sind die Träume/ die uns zu vergnügen</l>
+            <l>Bey brauner Nacht um unser Lager fliegen?</l>
+            <l>Du selber schläffst/ o Schlaf/ wie ich vermeyne:</l>
+            <l>Komm/ du des Todes Bild/ komm und erscheine/</l>
+            <l>Schleuß dieses müde Paar der Augen zu.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

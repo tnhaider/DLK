@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Letzter Wunsch</title>
+        <author>
+          <persName>
+            <surname>Hebbel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">288</measure>
+        <measure type="tokens">190</measure>
+        <measure type="characters">1116</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Letzter Wunsch</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mancherlei Wünsche hatt' ich und mancherlei hab' ich für's Leben,</l>
+            <l>Einen einzigen nur spar' ich mir auf für den Tod:</l>
+            <l>Daß sich in Flammen mein Geist entbinden möge, noch glühend</l>
+            <l>Von dem letzten Gedicht, daß sich in Flammen mein Leib</l>
+            <l>Wandeln dürfe in Asche, bevor noch völlig das Antlitz</l>
+            <l>Sich zur Larve verstellt, das der Geliebten gefiel!</l>
+            <l>Jenes geb' ich den Göttern anheim und dieses den Freunden,</l>
+            <l>Die es wissen, wie sehr stets vor Gewürm ich gebebt;</l>
+            <l>Mögen sie still mir den Holzstoß errichten und rasch ihn entzünden,</l>
+            <l>Ein gefälliger Wind bläset wohl freundlich hinein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mancherlei Wünsche hatt' ich und mancherlei hab' ich für's Leben,</l>
+            <l>Einen einzigen nur spar' ich mir auf für den Tod:</l>
+            <l>Daß sich in Flammen mein Geist entbinden möge, noch glühend</l>
+            <l>Von dem letzten Gedicht, daß sich in Flammen mein Leib</l>
+            <l>Wandeln dürfe in Asche, bevor noch völlig das Antlitz</l>
+            <l>Sich zur Larve verstellt, das der Geliebten gefiel!</l>
+            <l>Jenes geb' ich den Göttern anheim und dieses den Freunden,</l>
+            <l>Die es wissen, wie sehr stets vor Gewürm ich gebebt;</l>
+            <l>Mögen sie still mir den Holzstoß errichten und rasch ihn entzünden,</l>
+            <l>Ein gefälliger Wind bläset wohl freundlich hinein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

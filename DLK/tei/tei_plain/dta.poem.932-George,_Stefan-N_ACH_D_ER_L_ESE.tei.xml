@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N ACH   D ER   L ESE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">134</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">684</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N ACH   D ER   L ESE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir schreiten auf und ab im reichen flitter               </l>
+            <l>Des buchenganges beinah bis zum thore               </l>
+            <l>Und sehen aussen in dem feld vom gitter               </l>
+            <l>Den mandelbaum zum zweitenmal im flore             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir suchen nach den schattenfreien b&amp;#228;nken               </l>
+            <l>Dort wo uns niemals fremde stimmen scheuchten               </l>
+            <l>In tr&amp;#228;umen unsre arme sich verschr&amp;#228;nken               </l>
+            <l>Wir laben uns am langen milden leuchten             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir f&amp;#252;hlen dankbar wie zu leisem brausen               </l>
+            <l>Von wipfeln strahlenspuren auf uns tropfen               </l>
+            <l>Und blicken nur und horchen wenn in pausen               </l>
+            <l>Die reifen fr&amp;#252;chte an den boden klopfen.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

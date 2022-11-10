@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Um Dich .</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">72</measure>
+        <measure type="tokens">52</measure>
+        <measure type="characters">284</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Um Dich .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sei milde stets, und halte fern</l>
+            <l>Von Hofart Deine Seele,</l>
+            <l>Wir wandeln alle vor dem Herrn</l>
+            <l>Des Wegs in Schuld und Fehle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Woll </l>
+            <l>Dir in die Seele schärfen:</l>
+            <l>„es möge, wer sich schuldlos weiß,</l>
+            <l>Den Stein auf Andre werfen.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Tugend, die voll Stolz sich giebt,</l>
+            <l>Ist eitles Selbsterheben;</l>
+            <l>Wer alles </l>
+            <l>Weiß </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

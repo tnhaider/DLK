@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">I.  
+  Nüßler.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">4</measure>
+        <measure type="verses_per_stanza">1-1 2-1 3-1 4-1</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">706</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1630</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197863"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>I.  
+  Nüßler.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier wo das klare quell mitt einfalt war vmbringet/
+Das seiner adern krafft in vnsern adern regt/
+Vndt beydes sinnen trost vndt leibes wolfarth hegt/
+Hier wo jhr Naja des in schlechter einfalt gienget/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vndt ewren jägerzeug an faule wände hienget/
+Ist worden vmb euch her ein newer grundt gelegt/
+Der jetzt das edle hauß zue ewren ehren tregt/
+Vndt der Natur auch selbst nicht wenig schönheit bringet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diß hatt der heldt gethan dem dieses ort gehöret/
+Der seinen namen zwar mitt großen thaten mehret/
+Doch gleichwol wirdt von jhm nicht minder auff die noth</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vndt lust der lebens zeit durch dieses werck geschawet.
+Fragt jhr/ warumb er es nach tempelsart gebawet?
+Er meint gosundtheit sey der siechen leute Gott.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet an seine Thränen.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">695</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet an seine Thränen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr meiner Augen Bäch/ jhr angenehme Zähren/</l>
+            <l>Die jhr in Trawrigkeit mir alle Freude bringt/</l>
+            <l>Glückseelig weret jhr/ wann die/ so euch erzwingt/</l>
+            <l>Wie ich zu jhr mich/ sie zu euch sich wolte kehren/</l>
+            <l>Nun aber/ ob auch gleich der Regen wol kan wehren</l>
+            <l>Der höchsten Härtigkeit/ vnd durch die Steine dringt/</l>
+            <l>Euch aber jhren Sinn zuwenden nicht gelingt/</l>
+            <l>Ob jhr ohn vnderlaß gleich fliesset mit beschweren/</l>
+            <l>So lasset mich doch nicht/ so bleibet doch bey mir/</l>
+            <l>O jhr mein höchster Trost/ jhr heisse liebes Thränen/</l>
+            <l>Vnd wann ich vnd mein Hertz nach euch sich werden sehnen/</l>
+            <l>Last ewer Brünnelein ja fliessen für vnd für/</l>
+            <l>Biß mein Lieb sicht/ daß jhr mehr quellen könnet nicht/</l>
+            <l>Biß mir die Seel außfehrt für jhrem Angesicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Herrn E - - .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">827</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Herrn E - - .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O E &amp;#8212;, hülle dich nicht in Melancholey!</l>
+            <l>Verlaß die Grotte, die du bewohnst,</l>
+            <l>Und sitze nicht immer allein beym klagenden Young,</l>
+            <l>In schwarze Nachtgedanken verwölkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon ziehn die Stürme daher vom brausenden</l>
+            <l>Der Blocksberg dampfet schon Wetter herab.</l>
+            <l>So wie der Preußen Armee vom Berge sich wälzt,</l>
+            <l>So ziehn die Wolken feindlich vom Harz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denk an die dunkele Zeit, in Stollberg verweint,</l>
+            <l>Da du des Unmuths Vaterland sahst.</l>
+            <l>Orkane wurden da jung, und reis’ten mit dir;</l>
+            <l>Jetzt naht sich diese schreckliche Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm, Freund, und heitre sie auf! Schon war-</l>
+            <l>Und ein wohlthätiger Ofen auf dich!</l>
+            <l>Dem Tobacksgotte brennt schon ein flammendes Licht,</l>
+            <l>Das rächend schlechte Verse verzehrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun, E —, ist es ein Jahr, daß wir dich hier</l>
+            <l>Ich weihe diesen Abend mit Wein.</l>
+            <l>Wie herrlich blinkt er im Glas! Komm, stoß mit mir</l>
+            <l>Seline, Cleon, und Doris, und Du!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

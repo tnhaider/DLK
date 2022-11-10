@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schertz-Grabschrifften.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-7 2-6 3-6 4-6</measure>
+        <measure type="syllables">269</measure>
+        <measure type="tokens">179</measure>
+        <measure type="characters">1101</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schertz-Grabschrifften.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schau Wandersmann/ hier lieget deines gleichen/ </l>
+            <l>Zerbrechlich Thon und auffgeblaßner Koth/</l>
+            <l>Leg einen Stein/ und schreibe drauff zum Zeichen:</l>
+            <l>Hier liegt der Preiß von allen Krügeln todt;</l>
+            <l>Doch/ könt es seyn/ so wünscht ich mich begraben/</l>
+            <l>Wo so viel Krüg ihr edles Grabmahl haben.</l>
+            <l>(zu Rom auff dem so genannten Scherben-Berge.) </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwar bleibt mein Ruhm der Nachwelt unverholen/</l>
+            <l>Mich baut aus Thon des klugen Töpffers Hand/</l>
+            <l>Mein stoltzes Kleid war Purpur der Violen/</l>
+            <l>Ich ward durch Glutt dem Golde gleich erkannt.</l>
+            <l>Wie offt hab ich der Frauen Mund geträncket/</l>
+            <l>Und ihr den Safft der Ceres eingesencket.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es neidten mich die edlen Porcellanen/</l>
+            <l>Gold/ Silber/ Zinn/ trug Feindschafft gegen mir/</l>
+            <l>Biß endlich sich/ nicht sonder ihr Ermahnen/</l>
+            <l>Ein frecher Feind gewagt an meine Zier/</l>
+            <l>Ich Aermstes must am Steffans Tage stertzen/</l>
+            <l>Dieweil ich nicht mit Steinen konte schertzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch soll darum mein Nahme nicht erliegen;</l>
+            <l>Mein Bruder theilt Junonens Nectar aus;</l>
+            <l>Beym Wassermann werd ich die Stelle kriegen/</l>
+            <l>Da schmückt mein Glantz das blaue Sternen-Hauß.</l>
+            <l>Ihr Krüge groß und klein/ lasst Thränen flüssen/</l>
+            <l>Ihr werdet mir in kurtzen folgen müssen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

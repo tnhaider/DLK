@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Deutschland.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">340</measure>
+        <measure type="tokens">244</measure>
+        <measure type="characters">1352</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Deutschland.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf, auf, wer deutsche Freiheit liebet,</l>
+            <l>Wer Lust für Gott zu fechten hat!</l>
+            <l>Der Schein, den Mancher von sich giebet,</l>
+            <l>Verbringet keine Ritterthat.</l>
+            <l>Wann Fug und Ursach ist, zu brechen,</l>
+            <l>Wann Feind nicht Freund mehr bleiben kann,</l>
+            <l>Da muß man nur vom Sehen sprechen,</l>
+            <l>Da zeigt das Herze seinen Mann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß die von ihren Kräften sagen,</l>
+            <l>Die schwach und bloß von Tugend sind:</l>
+            <l>Mit Trotzen wird man Bienen jagen,</l>
+            <l>Ein Sinn von Ehren der gewinnt.</l>
+            <l>Wie groß und stark der Feind sich mache,</l>
+            <l>Wie hoch er schwinge Muth und Schwert,</l>
+            <l>So glaube doch, die gute Sache</l>
+            <l>Ist hundert tausend Köpfe werth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der muß nicht eben allzeit siegen,</l>
+            <l>Bei dem der Köpfe Menge steht;</l>
+            <l>Der pfleget mehr den Preis zu kriegen,</l>
+            <l>Dem Billigkeit zu Herzen geht,</l>
+            <l>Und der mit redlichem Gewissen</l>
+            <l>Für Gott und für das Vaterland,</l>
+            <l>Für Gott, der ihn es läßt genießen,</l>
+            <l>Zu fechten geht mit strenger Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So vieler Städte schwache Sinnen,</l>
+            <l>So vieler Herzen Wankelmuth</l>
+            <l>Die List, der Abfall, das Beginnen</l>
+            <l>Sind freilich wohl nicht allzugut.</l>
+            <l>Doch Obst, so bald von Bäumen gehet,</l>
+            <l>Das taug gemeiniglich nicht viel;</l>
+            <l>Ich denke was im Liede stehet,</l>
+            <l>Laß fahren was nicht bleiben will!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was kann der stolze Feind dir rauben?</l>
+            <l>Dein Hab' und Gut bleibt doch allhier;</l>
+            <l>Geh aber du ihm auf die Hauben</l>
+            <l>Und brich ihm seinen Hals darfür!</l>
+            <l>Auf, auf, ihr Brüder! in Quartieren</l>
+            <l>Bekriegt man mehrmals nur den Wein:</l>
+            <l>Des Feindes Blut im Siege führen,</l>
+            <l>Dies wird die beste Beute sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

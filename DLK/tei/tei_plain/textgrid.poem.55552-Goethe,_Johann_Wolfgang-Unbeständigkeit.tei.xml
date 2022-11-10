@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Unbeständigkeit</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">280</measure>
+        <measure type="tokens">180</measure>
+        <measure type="characters">1078</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1790</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Unbeständigkeit</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im spielenden Bache da lieg ich, wie helle!</l>
+            <l>Verbreite die Arme der kommenden Welle,</l>
+            <l>Und buhlerisch drückt sie die sehnende Brust.</l>
+            <l>Dann trägt sie ihr Leichtsinn im Strome darnieder;</l>
+            <l>Schon naht sich die zweite und streichelt mich wieder,</l>
+            <l>Da fühl ich die Freuden der wechselnden Lust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Jüngling, sei weise, verwein nicht vergebens</l>
+            <l>Die fröhlichsten Stunden des traurigen Lebens,</l>
+            <l>Wenn flatterhaft je dich ein Mädchen vergißt.</l>
+            <l>Geh, ruf sie zurücke, die vorigen Zeiten!</l>
+            <l>Es küßt sich so süße der Busen der zweiten,</l>
+            <l>Als kaum sich der Busen der ersten geküßt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im spielenden Bache da lieg ich, wie helle!</l>
+            <l>Verbreite die Arme der kommenden Welle,</l>
+            <l>Und buhlerisch drückt sie die sehnende Brust.</l>
+            <l>Dann trägt sie ihr Leichtsinn im Strome darnieder;</l>
+            <l>Schon naht sich die zweite und streichelt mich wieder,</l>
+            <l>Da fühl ich die Freuden der wechselnden Lust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Jüngling, sei weise, verwein nicht vergebens</l>
+            <l>Die fröhlichsten Stunden des traurigen Lebens,</l>
+            <l>Wenn flatterhaft je dich ein Mädchen vergißt.</l>
+            <l>Geh, ruf sie zurücke, die vorigen Zeiten!</l>
+            <l>Es küßt sich so süße der Busen der zweiten,</l>
+            <l>Als kaum sich der Busen der ersten geküßt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

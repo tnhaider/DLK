@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die wunderliche Prinzessin.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">643</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die wunderliche Prinzessin.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einen wunderbaren Hofstaat</l>
+            <l>Die Prinzessin dorten führet,</l>
+            <l>Hat ein'n wunderlichen Alten,</l>
+            <l>Der das ganze Haus regieret.</l>
+            <l>Einen Mantel trägt der Alte,</l>
+            <l>Schillernd bunt in allen Farben</l>
+            <l>Mit unzähligen Zierrathen,</l>
+            <l>Spielzeug hat er in den Falten</l>
+            <l>Scheint der Monden helle draußen,</l>
+            <l>Wolken fliegen über'm Grunde:</l>
+            <l>Fängt er draußen an zu hausen,</l>
+            <l>Kramt sein Spielzeug aus zur Stunde.</l>
+            <l>Und das Spielzeug um den Alten</l>
+            <l>Rührt sich bald beim Mondenscheine,</l>
+            <l>Zupfet ihn beim langen Barte,</l>
+            <l>Schlingt um ihn die bunten Kreise</l>
+            <l>Auch die Blümlein nach ihm langen,</l>
+            <l>Möchten doch sich sittsam zeigen,</l>
+            <l>Zieh'n verstohlen ihn beim Mantel,</l>
+            <l>Lachen dann in sich gar heimlich.</l>
+            <l>Und ringsum die ganze Runde</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

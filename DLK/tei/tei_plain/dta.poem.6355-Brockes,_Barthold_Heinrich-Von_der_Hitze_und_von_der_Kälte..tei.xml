@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Hitze und von der Kälte.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">134</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">536</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Hitze und von der Kälte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann in verborgner Adern Gängen</l>
+            <l>Von unserm Blut</l>
+            <l>Die stets gepresste Fluth</l>
+            <l>Nicht anders, als mit starckem Drängen,</l>
+            <l>Jm Creise lauffen kan; entsteht dergleichen Gluht.</l>
+            <l>Von so verschiednem Drang entstehn</l>
+            <l>Die Gährung und ein schnelles Kochen,</l>
+            <l>Man fühlt ein sanfftes Feur durch unsern Cörper gehn,</l>
+            <l>Wenn das Geblüt, im Hertzen ausgebreitet,</l>
+            <l>Die Geister, sonder Zwang, in alle Theile leitet.</l>
+            <l>Das sanffte Regen seiner Säffte</l>
+            <l>Gab uns Gesundheit, Stärck’ und Kräffte.</l>
+            <l>Allein man spührt des Fiebers wildes Pochen,</l>
+            <l>Des Blutes Stocken folgt ein übereilter Schlag,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

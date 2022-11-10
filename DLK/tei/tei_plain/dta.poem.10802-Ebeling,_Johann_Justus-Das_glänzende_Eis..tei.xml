@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das glänzende Eis.</title>
+        <author>
+          <persName>
+            <surname>Ebeling</surname>
+            <forename>Johann Justus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">541</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1747</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198774"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das glänzende Eis.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glänzend Eis scheint wie ein Spie-
+gel,</l>
+            <l>Der da brennt und flammend macht,</l>
+            <l>Aber wenn man diesen Hügel</l>
+            <l>Näher siehet mit Bedacht,</l>
+            <l>Ist es nur ein strahlend Bild,</l>
+            <l>Das mit Kälte angefüllt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Also sind auch viele Seelen,</l>
+            <l>Die des Himmels Gnadenlicht,</l>
+            <l>Sich zum Gegenstand erwählen,</l>
+            <l>Wie ihr Mund bezeugend spricht,</l>
+            <l>Die von Andacht feurig heiß:</l>
+            <l>Und sind doch so kalt als Eis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dran sind Heuchler leicht zu mer-
+ken,</l>
+            <l>Welche mit den Schein vergnügt,</l>
+            <l>Heiß in Worten, kalt im Werken;</l>
+            <l>Jhr gemahlter Strahl betriegt:</l>
+            <l>Andacht ist kein äusres Spiel,</l>
+            <l>Sie zeigt sich auch im Gefühl.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

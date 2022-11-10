@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An einen bösen Juristen.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">96</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">370</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1703</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199360"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An einen bösen Juristen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß du sehr wenig seyst im rechten unterwiesen/</l>
+            <l>Beweiß ich dir aus diesen:</l>
+            <l>Das recht hat dreyerley: Leb’ in der erbarkeit/</l>
+            <l>Thu keinem menschen leidt</l>
+            <l>Gib jedem was ihm soll; Nun ist dein gantzes leben</l>
+            <l>Der üppigkeit ergeben/</l>
+            <l>Wer kan vor deinem maul an ehren sicher seyn/</l>
+            <l>Die schmach ist dir gemein/</l>
+            <l>Wem zahlstu/ was dn solt/ beweiß ich nicht aus diesen</l>
+            <l>Wie schlecht du unterwiesen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

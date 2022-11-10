@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">V.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>V.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Liebe, sagt man, steht am Pfahl gebunden,</l>
+            <l>Geht endlich arm, verlassen, unbeschuht,</l>
+            <l>Dies edle Haupt hat nicht mehr, wo es ruht,</l>
+            <l>Mit ihren Thränen nezt sie bittre Wunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, Peregrinen hab' ich so gefunden!</l>
+            <l>Schön war ihr Wahnsinn, ihrer Wange Gluth,</l>
+            <l>Noch scherzend in der Frühlingsstürme Wuth,</l>
+            <l>Und wilde Kränze in das Haar gewunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie? solche Schönheit konntest du verlassen?</l>
+            <l>So kehrt nun doppelt schön das alte Glück!</l>
+            <l>O komm', in diese Arme dich zu fassen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch weh'! o weh'! was soll mir dieser Blick?</l>
+            <l>Sie küßt mich zwischen Lieben, zwischen Hassen,</l>
+            <l>Sie kehrt sich ab — und kehrt mir nie zurück.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

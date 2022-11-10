@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die 3. Strophe.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">498</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1618</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20628-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die 3. Strophe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dvrch dise wort war bald entgründet</l>
+            <l>Des Rheins angst/ so allein erdicht/</l>
+            <l>Das Er mit klarem angesicht</l>
+            <l>Sich bald bey der gesellschafft findet/</l>
+            <l>In einem Tyrischen talar</l>
+            <l>Von gold vnd kleinoten vmbhangen/</l>
+            <l>Seine Landsfürstin zuempfangen</l>
+            <l>Mit seiner grün-blawlechtenschar/</l>
+            <l>Darauß etliche sich zufrayen</l>
+            <l>Singen vnd dantzen einen rayen;</l>
+            <l>Andre mit frischen blümelein</l>
+            <l>Myrten/ gilgen vnd röselein</l>
+            <l>Volversetzte sträuß vnd kräntz binden/</l>
+            <l>Vnd brennen zu mahl von begihr</l>
+            <l>Sich bey disem einzug zufinden</l>
+            <l>Vnd zu frolocken nach gebihr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

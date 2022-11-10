@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Kiesow's Fluren.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">310</measure>
+        <measure type="tokens">175</measure>
+        <measure type="characters">1166</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193300"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Kiesow's Fluren.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seyd mir gegr&amp;#252;sst, ihr gr&amp;#252;nenden Gefilde!               </l>
+            <l>In euch wird mir so traurig wohl!</l>
+            <l>Mein trotzig Herz zerschmilzt in eurer Milde,</l>
+            <l>Des Busens Leere strömt so voll!</l>
+            <l>In euren freyen weiten Räumen</l>
+            <l>Erweitert sich mein Geist, umfängt die ganze Welt</l>
+            <l>Mit Liebe, wieget sich in Paradiesesträumen,</l>
+            <l>Und fühlt sich wieder Mann und Held!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Krystallne Bäche, dichtbebuschte Höhen,</l>
+            <l>Ihr Gärten sonder Kunst und Prunk,</l>
+            <l>Ihr stillen himmelklaren Seen,</l>
+            <l>Du holde Haynesdämmerung,</l>
+            <l>Ihr feyerlichen Tannenwälder</l>
+            <l>Voll Rauschens des Allgegenwärtigen,</l>
+            <l>Grasreiche Triften, saatengrüne Felder</l>
+            <l>Voll Segens des Allliebenden;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O welche Ruh, o welcher tiefste Friede,</l>
+            <l>Umsäuselt mich in eurem Schooss!</l>
+            <l>Ihr heilt des Wallers Lebensmüde,</l>
+            <l>Und söhnt ihn aus mit seinem Thränenloos.</l>
+            <l>Der erste Strahl der froherwachten Sonne</l>
+            <l>Küsst mich zu jungen Freuden wach,</l>
+            <l>Und ein Geflecht von ächter Lebenswonne</l>
+            <l>Umschlingt den vollgenossnen Tag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O, möchte doch der Abend meiner Tage</l>
+            <l>In euren Schatten mir verwehn!</l>
+            <l>In euren Schatten wehmuthvoller Klage,</l>
+            <l>Mir meine Sonne niedergehn!</l>
+            <l>O, wehte wenigstens auf meinen Aschenhügel</l>
+            <l>Der Herbstwind euer röthlich Laub,</l>
+            <l>Und mischete des Sommerhauches Flügel</l>
+            <l>Mit eurem stillen Staube meinen Staub!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

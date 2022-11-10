@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Xi.  Menschliches Elende.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-3 4-3</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">628</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Xi.  Menschliches Elende.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was sind wir Menschen doch? ein Wohnhauß grimmer </l>
+            <l>schmertzen.</l>
+            <l>Ein </l>
+            <l>Ein </l>
+            <l>Ein bald verschmeltzter </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diß Leben fleucht davon wie ein geschwätz vnd schertzen.</l>
+            <l>Die vor vns abgelegt deß schwachen Leibes kleidt</l>
+            <l>Vnd in das todten Buch der grossen sterbligkeit</l>
+            <l>Längst eingeschrieben sind/ sind vns auß sinn vnd hertzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleich wie ein eitel traum leicht auß der acht hinfält</l>
+            <l>Vnd wie ein strom verscheust/ den keine macht auffhält/</l>
+            <l>So muß auch vnser Nahm/ Lob Ehr vnd ruhm verschwind&amp;#275;. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was jtzund athem holt/ muß mit der lust entflihn/</l>
+            <l>Was nach vns kom̃en wird/ wird vns ins grab nach zihn.</l>
+            <l>Was sag ich? wir vergehn wie Rauch von starcken winden. </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

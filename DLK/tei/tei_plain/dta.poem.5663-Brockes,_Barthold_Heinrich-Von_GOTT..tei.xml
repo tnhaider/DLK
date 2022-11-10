@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von GOTT.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">563</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von GOTT.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo in dem schönen Zweck, den ich mir auserlesen,</l>
+            <l>Wodurch ich recht entflammt bin und entbrannt,</l>
+            <l>Da Fleiß und Einsamkeit mein’ einz’ge Lust gewesen;</l>
+            <l>Wo, sag’ ich, fern von eitler Triebe Tand,</l>
+            <l>Die Sorg, </l>
+            <l>Die Seele mir hat eingenommen;</l>
+            <l>So sey dem Vorsatz doch geneigt,</l>
+            <l>Wodurch so wol Verstand als Sinnen</l>
+            <l>Ein freyes Licht gesuchet zu gewinnen!</l>
+            <l>Mach einen neuen Weg, wodurch man aufwerts steigt,</l>
+            <l>Mir doch anitzt bekannt! Sey günstig meinem Flehn,</l>
+            <l>Und mache, daß durch Wissenschafft und Klarheit</l>
+            <l>Der Creatur, ich könne gehn</l>
+            <l>Zu der vollkommnen </l>
+            <l>Die uns die Schrifft giebt zu verstehn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

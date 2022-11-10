@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von GOTT.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">118</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">460</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von GOTT.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bleibt die Wahrheit immer,</l>
+            <l>Obgleich verhüllet und verstecket,</l>
+            <l>Wird sie von uns gleich nicht entdecket,</l>
+            <l>In ihrer Krafft und reinem Schimmer.</l>
+            <l>Sie sey auch, wo sie sey; so ist sie wesentlich,</l>
+            <l>Lebendig, und es zeiget sich,</l>
+            <l>Daß unser aller Witz ein Füncklein nur aus Jhr.</l>
+            <l>Sie war von Ewigkeit, und wird auch ewig seyn.</l>
+            <l>Wenn unser schwacher Geist nun hier</l>
+            <l>In Finsternissen stecket; so lasset uns den Schein</l>
+            <l>Von Jhrem </l>
+            <l>Wenn wir die Augen lencken</l>
+            <l>Auf ihre wunderbahre Klarheit:</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

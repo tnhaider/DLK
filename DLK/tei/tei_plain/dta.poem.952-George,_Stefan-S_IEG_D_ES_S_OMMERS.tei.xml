@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">S IEG   D ES   S OMMERS</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">906</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>S IEG   D ES   S OMMERS</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du willst mit mir ein reich der sonne stiften               </l>
+            <l>Darinnen uns allein die freude ziere               </l>
+            <l>Sie heilige die haine und die triften               </l>
+            <l>Eh unsre pracht und ihre sich verliere             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dass dieses s&amp;#252;sse leben uns gen&amp;#252;ge               </l>
+            <l>Dass wir hier wohnen dankbereite g&amp;#228;ste               </l>
+            <l>Und wort und lied ersinnst du dass gef&amp;#252;ge               </l>
+            <l>Die klagen flattern in die höchsten &amp;#228;ste             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du singst das lied der summenden gemarken               </l>
+            <l>Das sanfte lied vor einer th&amp;#252;r am abend               </l>
+            <l>Und lehrest dulden wie die einfach starken               </l>
+            <l>In l&amp;#228;cheln jede thr&amp;#228;ne scheu begrabend:             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die vögel fliehen vor den herben schlehen               </l>
+            <l>Die falter bergen sich in sturmestoben               </l>
+            <l>Sie funkeln wieder auf so er verstoben &amp;#8212;               </l>
+            <l>Und wer hat jemals blumen weinen sehen?             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

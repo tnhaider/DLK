@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxXIV.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-7 2-8</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">493</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxXIV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist nur um so mehr geplagt:</l>
+            <l>O laß die Tage mit dir schalten,</l>
+            <l>Und thun, was ihnen wohlbehagt!</l>
+            <l>Soll dir das Leben stets gefallen,</l>
+            <l>Das nie auf Dauer sich verstand,</l>
+            <l>So laß das Schönste wieder fallen,</l>
+            <l>Und schließe nicht zu fest die Hand!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vermöcht' ich doch gelind zu träufen</l>
+            <l>In deine Brust, wenn Schmerz und Muth</l>
+            <l>Sie oft vergeblich überhäufen,</l>
+            <l>Nur wen'ge Tropfen leichtes Blut!</l>
+            <l>O suche ruhig zu verschlafen</l>
+            <l>In jeder Nacht des Tages Pein,</l>
+            <l>Denn wer vermöchte Gott zu strafen,</l>
+            <l>Der uns verdammte, Mensch zu seyn?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

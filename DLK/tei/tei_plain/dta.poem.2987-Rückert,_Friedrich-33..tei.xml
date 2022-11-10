@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">33.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">204</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">810</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>33.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zuerst erschaffen sind die Zwerg' im öden Grauen</l>
+            <l>Der Schöpfung, um die Berg' und Grotten anzubauen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch sie bedrängten Würm' und Drachen, und um diesen</l>
+            <l>Zu steuern, wurden dann im Sturm erschaffen Riesen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Riesen schlugen mit dem Ger die Drachen todt,</l>
+            <l>Doch brachten sie vielmehr die Zwerge selbst in Noth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum Schutz der Zwerge sind die Menschen dann erschaffen,</l>
+            <l>Die Zwerge schmiedeten geschwind den Helden Waffen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie schmieden Waffen, die sie selbst nicht können brauchen,</l>
+            <l>Daß Menschenhelden sie ins Blut der Riesen tauchen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Helden schlugen nun die Riesen todt, und blieben</l>
+            <l>Der Zwerge Freunde, bis sie endlich sie vertrieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Riesen starben und die Zwerge zogen aus,</l>
+            <l>Nun ist im Erdenrund der Mensch allein zuhaus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Zwerge sind zu klein, die Riesen sind zu groß,</l>
+            <l>Das rechte Maß der Welt ist Menschengröße bloß.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

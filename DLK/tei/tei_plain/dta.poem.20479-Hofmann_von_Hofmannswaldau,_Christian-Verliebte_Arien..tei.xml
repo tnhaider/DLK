@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verliebte Arien.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">468</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verliebte Arien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wische die ächzenden thränen</l>
+            <l>Von den wangen ab/</l>
+            <l>Wilstu dir ein grab</l>
+            <l>Durch die schwachen seuffzer bähnen?</l>
+            <l>Laß mich wissen/</l>
+            <l>Daß das küssen</l>
+            <l>Alle schäden kan versüssen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Perlen gehören den wellen/</l>
+            <l>Doch dein wangen-schnee</l>
+            <l>Soll dem bunten klee</l>
+            <l>In den wiesen sich gesellen.</l>
+            <l>Laß uns üben</l>
+            <l>In den lieben/</l>
+            <l>Warum wilstu dich betrüben?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Trennet uns itzo das glücke</l>
+            <l>Durch den harten schluß/</l>
+            <l>Daß ich scheiden muß.</l>
+            <l>Komm ich doch gewiß zurücke:</l>
+            <l>Wenn die bienen</l>
+            <l>In dem grünen</l>
+            <l>Fliegen/ will ich dich bedienen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Beten und Danken.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">543</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Beten und Danken.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welch eine gottheitwürd'ge Liebe wird in der Ord-</l>
+            <l>nung nicht gefunden,</l>
+            <l>Da Gott allhier mit unsrer Lust und Anmuth seinen</l>
+            <l>Ruhm verbunden;</l>
+            <l>Denn dadurch, daß ihr seine Werke mit Lust und mit</l>
+            <l>Vergnügen seht,</l>
+            <l>Wird seine Weisheit, Lieb und Macht allein geehrt, allein</l>
+            <l>erhöht.</l>
+            <l>Dieß ist der wahre Gottesdienst, da Gott so sehr, daß</l>
+            <l>man ihn ehret,</l>
+            <l>Nicht (weil er unsers Ruhms nicht braucht) als unsrer</l>
+            <l>Seelen Lust begehret.</l>
+            <l>Erkennet denn die große Wahrheit! Hierinn bestehen ihre</l>
+            <l>Schranken:</l>
+            <l>Durch Beten dienen wir uns selbst, der Gottheit dient</l>
+            <l>man bloß durch Danken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

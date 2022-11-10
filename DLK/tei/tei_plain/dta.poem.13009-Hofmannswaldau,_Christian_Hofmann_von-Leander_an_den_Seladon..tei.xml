@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Leander an den Seladon.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">475</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Leander an den Seladon.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich zörne darum nicht, daß dieser Musen-sohn,</l>
+            <l>Als ihn des Phöbus geist so ungemein entzücket,</l>
+            <l>Auf der geweihten höh des edlen Heliron</l>
+            <l>Mich in der dichter-zunfft mit keinem aug’ erblicket;</l>
+            <l>Das aber ärgert mich, daß er dich übersehn,</l>
+            <l>Und von Floretten selbst aus neid nichts melden wollen.</l>
+            <l>Denn ist es gleich, mein Freund! um deinen schluß geschehn;</l>
+            <l>Indem ich mit gewalt zum dichter werden sollen;</l>
+            <l>So läst Florette mich doch sicher prophezeyn:</l>
+            <l>Sie werde Seudery, und du ihr bruder seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

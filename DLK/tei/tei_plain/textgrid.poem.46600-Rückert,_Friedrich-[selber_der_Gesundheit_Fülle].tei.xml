@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[selber der Gesundheit Fülle]</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">116</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">486</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[selber der Gesundheit Fülle]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selber der Gesundheit Fülle</l>
+            <l>Dient dir jetzt nur zum Verderben;</l>
+            <l>Schwerer sprengt der Geist die Hülle,</l>
+            <l>Und wir seh'n dich langsam sterben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht als wie ein Licht verlischt</l>
+            <l>In des Windzugs Hauche,</l>
+            <l>Wie ein Feuer dampft und zischt</l>
+            <l>Und erstickt im Rauche.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Selber der Gesundheit Fülle</l>
+            <l>Dient dir jetzt nur zum Verderben;</l>
+            <l>Schwerer sprengt der Geist die Hülle,</l>
+            <l>Und wir seh'n dich langsam sterben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht als wie ein Licht verlischt</l>
+            <l>In des Windzugs Hauche,</l>
+            <l>Wie ein Feuer dampft und zischt</l>
+            <l>Und erstickt im Rauche.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

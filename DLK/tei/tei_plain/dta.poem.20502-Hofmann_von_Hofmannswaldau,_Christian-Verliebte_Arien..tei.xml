@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verliebte Arien.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">863</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verliebte Arien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flora deine rosen-wangen/</l>
+            <l>Der beseelten liljen-schaar/</l>
+            <l>Die auff allen gliedern prangen/</l>
+            <l>Und das gold-geflammte haar/</l>
+            <l>Sind die kräfften-reiche sachen/</l>
+            <l>So mich dir zum sclaven machen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ein engel schönes heget/</l>
+            <l>Hat die günstige natur</l>
+            <l>Dir fast zweyfach beygeleget/</l>
+            <l>Aber diß beseuffz’ ich nur/</l>
+            <l>Daß so ungemeine gaben</l>
+            <l>Grausamkeit zur schwester haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deiner augen reine kertzen</l>
+            <l>Sind umsonst nicht schwartz gemacht/</l>
+            <l>Sie betrauren tausend hertzen/</l>
+            <l>Die ihr plitz hat umgebracht;</l>
+            <l>Und wer weiß wie lang es währet/</l>
+            <l>Daß auch mich ihr strahl verzehret.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darum/ angenehme seele/</l>
+            <l>Spare doch der worte krafft/</l>
+            <l>Ach verschleuß die purpur-höle/</l>
+            <l>Denn ein blick hat gleiche macht/</l>
+            <l>Und wo blicke können tödten/</l>
+            <l>Da sind worte nicht von nöthen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ich laß es mir gefallen/</l>
+            <l>Ob mich deines mundes krafft/</l>
+            <l>Oder auch die feuer-ballen</l>
+            <l>Deiner augen hingerafft/</l>
+            <l>Wenn mich nur vor allen dingen/</l>
+            <l>Flora würdigt umzubringen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

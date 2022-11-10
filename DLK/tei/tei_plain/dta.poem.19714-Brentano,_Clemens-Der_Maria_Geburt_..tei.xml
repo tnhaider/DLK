@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Maria Geburt .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">184</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">722</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Maria Geburt .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleich wie die lieb Waldvögelein,               </l>
+            <l>Mit ihren Stimmen groß und klein</l>
+            <l>Früh morgens lieblich singen,</l>
+            <l>Sobald anbricht die Morgenröth,</l>
+            <l>Wenns purpurfarb am Himmel steht,</l>
+            <l>In Berg und Thal sie klingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Also ihr Menschen kommt herbey,</l>
+            <l>Laßt hören eure Melodey,</l>
+            <l>Das Kindelein zu grüssen.</l>
+            <l>Heut fröhlig sein Geburtstag fällt,</l>
+            <l>Sankt Anna bringt es auf die Welt,</l>
+            <l>Es lasset euch geniessen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Morgenröth so kühl und naß,</l>
+            <l>Die schönen Blumen, Laub und Gras</l>
+            <l>Sich alle freundlich neigen,</l>
+            <l>Weil dieses Kind mit Gütigkeit</l>
+            <l>Erquicket ihre Mattigkeit,</l>
+            <l>Sie ihren Dank so zeigen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Also, weil wie der Morgenthau,</l>
+            <l>Heut aufgeht unsre liebe Frau</l>
+            <l>Zum Trost der armen Seelen,</l>
+            <l>In Demuth grüß sie jedermann,</l>
+            <l>Denn sie ists, die uns trösten kann</l>
+            <l>In aller Trauer Quälen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

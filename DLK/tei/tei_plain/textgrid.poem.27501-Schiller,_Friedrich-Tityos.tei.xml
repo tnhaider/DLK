@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Tityos</title>
+        <author>
+          <persName>
+            <surname>Schiller</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">684</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1782</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Tityos</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Über Europa hinweg, das ihm huldigte, lag er gebreitet,</l>
+            <l>Voluminos wie er einst trat aus den Pressen zu Kehl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sohn der Erde! So tief liegst du da, der so hoch einst gestanden,</l>
+            <l>Und das gefräßige Tier, das an der Leber dir pickt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, das ist Frérons unsterblicher Schnabel, der ewig mich peinigt,</l>
+            <l>Weil ich mit schlechten Bonmots nach dem... gezielt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Über Europa hinweg, das ihm huldigte, lag er gebreitet,</l>
+            <l>Voluminos wie er einst trat aus den Pressen zu Kehl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sohn der Erde! So tief liegst du da, der so hoch einst gestanden,</l>
+            <l>Und das gefräßige Tier, das an der Leber dir pickt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, das ist Frérons unsterblicher Schnabel, der ewig mich peinigt,</l>
+            <l>Weil ich mit schlechten Bonmots nach dem... gezielt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

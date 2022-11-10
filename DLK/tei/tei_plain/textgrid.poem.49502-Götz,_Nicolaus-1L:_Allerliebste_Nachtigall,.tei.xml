@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Allerliebste Nachtigall,</title>
+        <author>
+          <persName>
+            <surname>Götz</surname>
+            <forename>Nicolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">618</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1751</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Allerliebste Nachtigall,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allerliebste Nachtigall,</l>
+            <l>Schweige, denn wir sind alleine.</l>
+            <l>Kläng dein angenehmer Schall,</l>
+            <l>Mißgunst nahte diesem Haine,</l>
+            <l>Sezte sich zum Waßerfall,</l>
+            <l>Wo ich süß für Wohllust weine,</l>
+            <l>Und verrieth uns überall. –</l>
+            <l>Daß ich süß für Wohllust weine,</l>
+            <l>Würkte mir dann lauter Quaal.</l>
+            <l>Glücklicher wein' ich alleine,</l>
+            <l>Allerliebste Nachtigall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allerliebste Nachtigall,</l>
+            <l>Schweige, denn wir sind alleine.</l>
+            <l>Kläng dein angenehmer Schall,</l>
+            <l>Mißgunst nahte diesem Haine,</l>
+            <l>Sezte sich zum Waßerfall,</l>
+            <l>Wo ich süß für Wohllust weine,</l>
+            <l>Und verrieth uns überall. –</l>
+            <l>Daß ich süß für Wohllust weine,</l>
+            <l>Würkte mir dann lauter Quaal.</l>
+            <l>Glücklicher wein' ich alleine,</l>
+            <l>Allerliebste Nachtigall.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

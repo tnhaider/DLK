@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">X.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">546</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>X.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hat sie doch im Paradiese der Prophete nicht versagt!</l>
+            <l>Wenn er euch den Wein verboten, hat er wohl bedacht,</l>
+            <l>Doch ein Thor, wer nach Geboten oder nach Verboten</l>
+            <l>Hörtet ihr die Rose fragen, ob sie blühen darf? Sie</l>
+            <l>Hörtet ihr das Echo fragen, ob es klagen darf? Es</l>
+            <l>Vom Gebirge fällt die Quelle, rinnt als Silberfluß</l>
+            <l>Prallt am Felsen ab und sprützet bis zum Himmel un-</l>
+            <l>Kläglich meßt ihr eure Schritte, weil ihr strauchelt jeden</l>
+            <l>Doch es fürchtet nicht zu fallen, wer für Alles Alles</l>
+            <l>Staunet nicht, wenn unser </l>
+            <l>Da ihr stets des Lebens Sorge, wie der Bär die Pfote,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">635</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich hab’ ich dem Liebsten zu eigen gegeben/</l>
+            <l>Er bleibet mein Schönster/ ich bleibe sein Leben.</l>
+            <l>Kom̃/ Bruder/ und laß uns aufs Acker-feld gehn/</l>
+            <l>Damit wir des morgens bey zeiten aufstehn/</l>
+            <l>und sehen ob unsere Reben auch blühen/</l>
+            <l>und augen gewonnen</l>
+            <l>Von hitzen der Sonnen;</l>
+            <l>Was wiltu verzihen?</l>
+            <l>Komm eylend mein Licht/</l>
+            <l>und seume dich nicht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir wollen den äpfelbaum heute beschauen/</l>
+            <l>Daselbsten auf wollust und fröligkeit bauen/</l>
+            <l>Da will ich dier geben und zeigen die Brust/</l>
+            <l>Da will ich dich küssen und hertzen mit lust;</l>
+            <l>Da will ich dier unsere Lilien geben/</l>
+            <l>Da soltu dich laben</l>
+            <l>Mit allerley gaben/</l>
+            <l>Mein einiges Leben/</l>
+            <l>Drümb eyle/ mein Licht/</l>
+            <l>und seume dich nicht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiV.  
+  Der Pilgrim vor St. Just.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-1 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">532</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiV.  
+  Der Pilgrim vor St. Just.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hispan'sche Mönche, schließt mir auf die Thür!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laßt hier mich ruh'n, bis Glockenton mich weckt,</l>
+            <l>Der zum Gebet mich in die Kirche schreckt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bereitet mir was euer Haus vermag,</l>
+            <l>Ein Ordenskleid und einen Sarkophag!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gönnt mir die kleine Zelle, weiht mich ein,</l>
+            <l>Mehr als die Hälfte dieser Welt war mein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Haupt, das nun der Scheere sich bequemt,</l>
+            <l>Mit mancher Krone ward's bediademt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Schulter, die der Kutte nun sich bückt,</l>
+            <l>Hat kaiserlicher Hermelin geschmückt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun bin ich vor dem Tod den Todten gleich,</l>
+            <l>Und fall' in Trümmer, wie das alte Reich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

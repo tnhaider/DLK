@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Als sie auf dem Meer schiffte.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">88</measure>
+        <measure type="tokens">54</measure>
+        <measure type="characters">323</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Als sie auf dem Meer schiffte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wehet ihr Lüffte/ verdoppelt euch Winde/</l>
+            <l>Eilet und jaget</l>
+            <l>Bringet und traget</l>
+            <l>Syris die Schöne zur Stelle geschwinde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Spielet ihr Fluhten fein sanfft und gelinde/</l>
+            <l>Lasset die Wellen</l>
+            <l>Friedsahm sich stellen/</l>
+            <l>Stürme vergehet doch vor diesen Kinde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stehe auf </l>
+            <l>Lege die Fluhten/</l>
+            <l>Zeige die Ruhten/</l>
+            <l>Deiner Hand dem Meer/ daß sie den Port finde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

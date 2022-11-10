@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hölzerne Noth .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-6</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">552</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hölzerne Noth .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>S hätt sich mol ener zu mer welle küpple,               </l>
+            <l>Häts Lädel n'in welle krüpple,</l>
+            <l>Un als er maint er stoht,</l>
+            <l>Heb ich de Händ blümbe loth,</l>
+            <l>Dazu uf et Mist,</l>
+            <l>Dü Hönd der de bist,</l>
+            <l>Jetz westa was Gosategeh ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hätt mi au mol zum Tanz welle führe,</l>
+            <l>Hätt welle mit mer agire,</l>
+            <l>Er tanzt wie e Bär so toll,</l>
+            <l>Mer mänt er hätt sich g'soffe voll,</l>
+            <l>Der wüst Sapperlot,</l>
+            <l>Er tanzt wie er goht,</l>
+            <l>'s is glatt e hölzerne Noth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wäre min Kamerade sahe</l>
+            <l>Wenn i so e Stumpe nehm?</l>
+            <l>Gieng i mit am über d'Gaß,</l>
+            <l>D' Lit hätte de größte Gespaß,</l>
+            <l>Mit er solche Crot,</l>
+            <l>'s wär e Schand un e Gespott.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

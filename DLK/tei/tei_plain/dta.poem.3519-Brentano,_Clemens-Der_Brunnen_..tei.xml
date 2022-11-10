@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Brunnen .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">181</measure>
+        <measure type="tokens">127</measure>
+        <measure type="characters">729</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Brunnen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hab ein Brünnlein mal gesehen,               </l>
+            <l>Draus thät fliessen lauter Gold,</l>
+            <l>Thäten dort drei Jungfern stehen,</l>
+            <l>Gar so schön und gar so hold.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thäten all so zu mir sprechen:</l>
+            <l>Trinkst du aus dem Brünnelein,</l>
+            <l>Kriegt dich einer bei dem Kragen,</l>
+            <l>Wirft dich in den Brunnen n'ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr schön Jungfern kühnlich glaubet,</l>
+            <l>Will den Durst nicht löschen hier,</l>
+            <l>Wenn die schönste mir erlaubet</l>
+            <l>Einen zwoten Kuß allhier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese mit den schwarzen Augen</l>
+            <l>Küß ich gern, trau aber nicht;</l>
+            <l>Sie kann nur zum Zancken taugen,</l>
+            <l>Aber zu der Liebe nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese mit den grauen Augen,</l>
+            <l>Diese falsche mag ich nicht;</l>
+            <l>Kann allein zum Roppen taugen,</l>
+            <l>Krazt den Buhlen ins Gesicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese mit den blauen Augen,</l>
+            <l>Diese küß ich gar zu gern;</l>
+            <l>Diese kann zur Liebe taugen,</l>
+            <l>Diese gleicht dem Morgenstern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

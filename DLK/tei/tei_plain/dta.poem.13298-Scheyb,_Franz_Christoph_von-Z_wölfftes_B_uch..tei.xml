@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z wölfftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">615</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z wölfftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Majestät fiel ein: „Erwarten wir das Ende!</l>
+            <l>„welch unerhörter Tag der Freuden geht mir vor?</l>
+            <l>„ich sehe diesen Hof schon wieder an dem Thor</l>
+            <l>„glückwünschungen des Volcks in Fröhlichkeit empfangen,</l>
+            <l>„und mit noch einer Kron allhier zurück gelangen.</l>
+            <l>185”Ich bilde mir schon ein, wie manches Siegs-Gerüst</l>
+            <l>„ruhm, Ehren und Triumpf in goldne Bögen schließt;</l>
+            <l>„wie sich </l>
+            <l>„auf einem Schiff, mit Palm und Lorber umgeschlungen,</l>
+            <l>„dem Volck, dem frohen Volck zur Lust vor Augen stellt,</l>
+            <l>190”Und dieses Vaterland als eine Soun' erhellt.</l>
+            <l>„ich sehe wie das Glück sich um die Flaggen schwinget;</l>
+            <l>„wie jeder Ruder-Schlag uns neue Wohlfart bringet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

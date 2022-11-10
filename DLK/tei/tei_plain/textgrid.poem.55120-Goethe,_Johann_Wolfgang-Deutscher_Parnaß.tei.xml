@@ -1,0 +1,602 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Deutscher Parnaß</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">40</measure>
+        <measure type="verses">460</measure>
+        <measure type="verses_per_stanza">1-14 2-6 3-9 4-11 5-6 6-8 7-6 8-12 9-19 10-7 11-21 12-4 13-16 14-14 15-6 16-14 17-17 18-18 19-12 20-10 21-14 22-6 23-9 24-11 25-6 26-8 27-6 28-12 29-19 30-7 31-21 32-4 33-16 34-14 35-6 36-14 37-17 38-18 39-12 40-10</measure>
+        <measure type="syllables">3098</measure>
+        <measure type="tokens">1944</measure>
+        <measure type="characters">11554</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Deutscher Parnaß</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter diesen</l>
+            <l>Lorbeerbüschen,</l>
+            <l>Auf den Wiesen,</l>
+            <l>An den frischen</l>
+            <l>Wasserfällen</l>
+            <l>Meines Lebens zu genießen,</l>
+            <l>Gab Apoll dem heitern Knaben;</l>
+            <l>Und so haben Mich, im stillen,</l>
+            <l>Nach des Gottes hohem Willen</l>
+            <l>Hehre Musen auferzogen,</l>
+            <l>Aus den hellen Silberquellen</l>
+            <l>Des Parnassus mich erquicket</l>
+            <l>Und das keusche, reine Siegel</l>
+            <l>Auf die Lippen mir gedrücket.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Nachtigall umkreiset</l>
+            <l>Mich mit dem bescheidnen Flügel.</l>
+            <l>Hier in Büschen, dort auf Bäumen</l>
+            <l>Ruft sie die verwandte Menge,</l>
+            <l>Und die himmlischen Gesänge</l>
+            <l>Lehren mich von Liebe träumen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und im Herzen wächst die Fülle</l>
+            <l>Der gesellig edlen Triebe,</l>
+            <l>Nährt sich Freundschaft, keimet Liebe,</l>
+            <l>Und Apoll belebt die Stille</l>
+            <l>Seiner Täler, seiner Höhen.</l>
+            <l>Süße, laue Lüfte wehen.</l>
+            <l>Alle, denen er gewogen,</l>
+            <l>Werden mächtig angezogen,</l>
+            <l>Und ein Edler folgt dem andern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieser kommt mit munterm Wesen</l>
+            <l>Und mit offnem, heitrem Blicke;</l>
+            <l>Diesen seh ich ernster wandeln;</l>
+            <l>Und ein andrer, kaum genesen,</l>
+            <l>Ruft die alte Kraft zurücke;</l>
+            <l>Denn ihm drang durch Mark und Leben</l>
+            <l>Die verderblich holde Flamme,</l>
+            <l>Und was Amor ihm entwendet,</l>
+            <l>Kann Apoll nur wiedergeben,</l>
+            <l>Ruh und Lust und Harmonien</l>
+            <l>Und ein kräftig rein Bestreben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf, ihr Brüder, Ehrt die Lieder!</l>
+            <l>Sie sind gleich den guten Taten.</l>
+            <l>Wer kann besser als der Sänger</l>
+            <l>Dem verirrten Freunde raten?</l>
+            <l>Wirke gut, so wirkst du länger,</l>
+            <l>Als es Menschen sonst vermögen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja! ich höre sie von weiten:</l>
+            <l>Ja! sie greifen in die Saiten,</l>
+            <l>Mit gewalt'gen Götterschlägen</l>
+            <l>Rufen sie zu Recht und Pflichten</l>
+            <l>Und bewegen,</l>
+            <l>Wie sie singen, wie sie dichten,</l>
+            <l>Zum erhabensten Geschäfte,</l>
+            <l>Zu der Bildung aller Kräfte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch die holden Phantasien</l>
+            <l>Blühen</l>
+            <l>Ringsumher auf allen Zweigen,</l>
+            <l>Die sich balde,</l>
+            <l>Wie im holden Zauberwalde,</l>
+            <l>Voller goldnen Früchte beugen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wir fühlen, was wir schauen</l>
+            <l>In dem Land der höchsten Wonne,</l>
+            <l>Dieser Boden, diese Sonne</l>
+            <l>Locket auch die besten Frauen.</l>
+            <l>Und der Hauch der lieben Musen</l>
+            <l>Weckt des Mädchens zarten Busen,</l>
+            <l>Stimmt die Kehle zum Gesange,</l>
+            <l>Und mit schön gefärbter Wange</l>
+            <l>Singet sie schon würd'ge Lieder,</l>
+            <l>Setzt sich zu den Schwestern nieder,</l>
+            <l>Und es singt die schöne Kette</l>
+            <l>Zart und zärter, um die Wette.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch die eine</l>
+            <l>Geht alleine</l>
+            <l>Bei den Buchen,</l>
+            <l>Unter Linden,</l>
+            <l>Dort zu suchen,</l>
+            <l>Dort zu finden,</l>
+            <l>Was im stillen Myrtenhaine</l>
+            <l>Amor schalkisch ihr entwendet,</l>
+            <l>Ihres Herzens holde Stille,</l>
+            <l>Ihres Busens erste Fülle.</l>
+            <l>Und sie träget in die grünen</l>
+            <l>Schattenwälder,</l>
+            <l>Was die Männer nicht verdienen,</l>
+            <l>Ihre lieblichen Gefühle;</l>
+            <l>Scheuet nicht des Tages Schwüle,</l>
+            <l>Achtet nicht des Abends Kühle</l>
+            <l>Und verliert sich in die Felder.</l>
+            <l>Stört sie nicht auf ihren Wegen!</l>
+            <l>Muse, geh ihr still entgegen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch was hör ich? Welch ein Schall</l>
+            <l>Überbraust den Wasserfall?</l>
+            <l>Sauset heftig durch den Hain?</l>
+            <l>Welch ein Lärmen, welch ein Schrein?</l>
+            <l>Ist es möglich, seh ich recht?</l>
+            <l>Ein verwegenes Geschlecht</l>
+            <l>Dringt ins Heiligtum herein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier hervor</l>
+            <l>Strömt ein Chor!</l>
+            <l>Liebeswut,</l>
+            <l>Weinesglut</l>
+            <l>Rast im Blick,</l>
+            <l>Sträubt das Haar!</l>
+            <l>Und die Schar,</l>
+            <l>Mann und Weib –</l>
+            <l>Tigerfell</l>
+            <l>Schlägt umher –</l>
+            <l>Ohne Scheu</l>
+            <l>Zeigt den Leib.</l>
+            <l>Und Metall,</l>
+            <l>Rauher Schall,</l>
+            <l>Grellt ins Ohr.</l>
+            <l>Wer sie hört,</l>
+            <l>Wird gestört.</l>
+            <l>Hier hervor</l>
+            <l>Drängt das Chor;</l>
+            <l>Alles flieht,</l>
+            <l>Wer sie sieht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, die Büsche sind geknickt!</l>
+            <l>Ach, die Blumen sind erstickt</l>
+            <l>Von den Sohlen dieser Brut.</l>
+            <l>Wer begegnet ihrer Wut?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brüder, laßt uns alles wagen!</l>
+            <l>Eure reine Wange glüht.</l>
+            <l>Phöbus hilft sie uns verjagen,</l>
+            <l>Wenn er unsre Schmerzen sieht;</l>
+            <l>Und uns Waffen</l>
+            <l>Zu verschaffen,</l>
+            <l>Schüttert er des Berges Wipfel,</l>
+            <l>Und vom Gipfel</l>
+            <l>Prasseln Steine</l>
+            <l>Durch die Haine.</l>
+            <l>Brüder, faßt sie mächtig auf!</l>
+            <l>Schloßenregen</l>
+            <l>Ströme dieser Brut entgegen</l>
+            <l>Und vertreib aus unsern milden,</l>
+            <l>Himmelreinen Lustgefilden</l>
+            <l>Diese Fremden, diese Wilden!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch was seh ich?</l>
+            <l>Ist es möglich?</l>
+            <l>Unerträglich</l>
+            <l>Fährt es mir durch alle Glieder,</l>
+            <l>Und die Hand</l>
+            <l>Sinket von dem Schwunge nieder.</l>
+            <l>Ist es möglich?</l>
+            <l>Keine Fremden!</l>
+            <l>Unsre Brüder</l>
+            <l>Zeigen ihnen selbst die Wege!</l>
+            <l>O die Frechen!</l>
+            <l>Wie sie mit den Klapperblechen</l>
+            <l>Selbst voraus im Takte ziehn!</l>
+            <l>Gute Brüder, laßt uns fliehn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ein Wort zu den Verwegnen!</l>
+            <l>Ja, ein Wort soll euch begegnen,</l>
+            <l>Kräftig wie ein Donnerschlag.</l>
+            <l>Worte sind des Dichters Waffen;</l>
+            <l>Will der Gott sich Recht verschaffen,</l>
+            <l>Folgen seine Pfeile nach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>War es möglich, eure hohe</l>
+            <l>Götterwürde</l>
+            <l>Zu vergessen! Ist der rohe,</l>
+            <l>Schwere Thyrsus keine Bürde</l>
+            <l>Für die Hand, auf zarten Saiten</l>
+            <l>Nur gewöhnet hinzugleiten?</l>
+            <l>Aus den klaren Wasserfällen,</l>
+            <l>Aus den zarten Rieselwellen</l>
+            <l>Tränket ihr</l>
+            <l>Gar Silens abscheulich Tier?</l>
+            <l>Dort entweiht es Aganippen</l>
+            <l>Mit den rohen, breiten Lippen,</l>
+            <l>Stampft mit ungeschickten Füßen,</l>
+            <l>Bis die Wellen trübe fließen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O wie möcht ich gern mich täuschen;</l>
+            <l>Aber Schmerzen fühlt das Ohr;</l>
+            <l>Aus den keuschen,</l>
+            <l>Heil'gen Schatten</l>
+            <l>Dringt verhaßter Ton hervor.</l>
+            <l>Wild Gelächter</l>
+            <l>Statt der Liebe süßem Wahn!</l>
+            <l>Weiberhasser und – verächter</l>
+            <l>Stimmen ein Triumphlied an.</l>
+            <l>Nachtigall und Turtel fliehen</l>
+            <l>Das so keusch erwärmte Nest,</l>
+            <l>Und in wütendem Erglühen</l>
+            <l>Hält der Faun die Nymphe fest.</l>
+            <l>Hier wird ein Gewand zerrissen,</l>
+            <l>Dem Genusse folgt der Spott,</l>
+            <l>Und zu ihren frechen Küssen</l>
+            <l>Leuchtet mit Verdruß der Gott.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, ich sehe schon von weiten</l>
+            <l>Wolkenzug und Dunst und Rauch.</l>
+            <l>Nicht die Leier nur hat Saiten,</l>
+            <l>Saiten hat der Bogen auch.</l>
+            <l>Selbst den Busen des Verehrers</l>
+            <l>Schüttert das gewalt'ge Nahn,</l>
+            <l>Denn die Flamme des Verheerers</l>
+            <l>Kündet ihn von weiten an.</l>
+            <l>O vernehmt noch meine Stimme,</l>
+            <l>Meiner Liebe Bruderwort!</l>
+            <l>Fliehet vor des Gottes Grimme,</l>
+            <l>Eilt aus unsern Grenzen fort!</l>
+            <l>Daß sie wieder heilig werde,</l>
+            <l>Lenkt hinweg den wilden Zug!</l>
+            <l>Vielen Boden hat die Erde</l>
+            <l>Und unheiligen genug.</l>
+            <l>Uns umleuchten reine Sterne,</l>
+            <l>Hier nur hat das Edle Wert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wenn ihr aus rauher Ferne</l>
+            <l>Wieder einst zu uns begehrt,</l>
+            <l>Wenn euch nichts so sehr beglücket,</l>
+            <l>Als was ihr bei uns erprobt,</l>
+            <l>Euch nicht mehr ein Spiel entzücket,</l>
+            <l>Das die Schranken übertobt:</l>
+            <l>Kommt als gute Pilger wieder,</l>
+            <l>Steiget froh den Berg heran,</l>
+            <l>Tiefgefühlte Reuelieder</l>
+            <l>Künden uns die Brüder an,</l>
+            <l>Und ein neuer Kranz umwindet</l>
+            <l>Eure Schläfe feierlich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn sich der Verirrte findet,</l>
+            <l>Freuen alle Götter sich.</l>
+            <l>Schneller noch als Lethes Fluten</l>
+            <l>Um der Toten stilles Haus,</l>
+            <l>Löscht der Liebe Kelch den Guten</l>
+            <l>Jedes Fehls Erinnrung aus.</l>
+            <l>Alles eilet euch entgegen,</l>
+            <l>Und ihr kommt verklärt heran,</l>
+            <l>Und man fleht um euern Segen;</l>
+            <l>Ihr gehört uns doppelt an!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter diesen</l>
+            <l>Lorbeerbüschen,</l>
+            <l>Auf den Wiesen,</l>
+            <l>An den frischen</l>
+            <l>Wasserfällen</l>
+            <l>Meines Lebens zu genießen,</l>
+            <l>Gab Apoll dem heitern Knaben;</l>
+            <l>Und so haben Mich, im stillen,</l>
+            <l>Nach des Gottes hohem Willen</l>
+            <l>Hehre Musen auferzogen,</l>
+            <l>Aus den hellen Silberquellen</l>
+            <l>Des Parnassus mich erquicket</l>
+            <l>Und das keusche, reine Siegel</l>
+            <l>Auf die Lippen mir gedrücket.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Nachtigall umkreiset</l>
+            <l>Mich mit dem bescheidnen Flügel.</l>
+            <l>Hier in Büschen, dort auf Bäumen</l>
+            <l>Ruft sie die verwandte Menge,</l>
+            <l>Und die himmlischen Gesänge</l>
+            <l>Lehren mich von Liebe träumen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und im Herzen wächst die Fülle</l>
+            <l>Der gesellig edlen Triebe,</l>
+            <l>Nährt sich Freundschaft, keimet Liebe,</l>
+            <l>Und Apoll belebt die Stille</l>
+            <l>Seiner Täler, seiner Höhen.</l>
+            <l>Süße, laue Lüfte wehen.</l>
+            <l>Alle, denen er gewogen,</l>
+            <l>Werden mächtig angezogen,</l>
+            <l>Und ein Edler folgt dem andern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieser kommt mit munterm Wesen</l>
+            <l>Und mit offnem, heitrem Blicke;</l>
+            <l>Diesen seh ich ernster wandeln;</l>
+            <l>Und ein andrer, kaum genesen,</l>
+            <l>Ruft die alte Kraft zurücke;</l>
+            <l>Denn ihm drang durch Mark und Leben</l>
+            <l>Die verderblich holde Flamme,</l>
+            <l>Und was Amor ihm entwendet,</l>
+            <l>Kann Apoll nur wiedergeben,</l>
+            <l>Ruh und Lust und Harmonien</l>
+            <l>Und ein kräftig rein Bestreben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf, ihr Brüder, Ehrt die Lieder!</l>
+            <l>Sie sind gleich den guten Taten.</l>
+            <l>Wer kann besser als der Sänger</l>
+            <l>Dem verirrten Freunde raten?</l>
+            <l>Wirke gut, so wirkst du länger,</l>
+            <l>Als es Menschen sonst vermögen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja! ich höre sie von weiten:</l>
+            <l>Ja! sie greifen in die Saiten,</l>
+            <l>Mit gewalt'gen Götterschlägen</l>
+            <l>Rufen sie zu Recht und Pflichten</l>
+            <l>Und bewegen,</l>
+            <l>Wie sie singen, wie sie dichten,</l>
+            <l>Zum erhabensten Geschäfte,</l>
+            <l>Zu der Bildung aller Kräfte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch die holden Phantasien</l>
+            <l>Blühen</l>
+            <l>Ringsumher auf allen Zweigen,</l>
+            <l>Die sich balde,</l>
+            <l>Wie im holden Zauberwalde,</l>
+            <l>Voller goldnen Früchte beugen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wir fühlen, was wir schauen</l>
+            <l>In dem Land der höchsten Wonne,</l>
+            <l>Dieser Boden, diese Sonne</l>
+            <l>Locket auch die besten Frauen.</l>
+            <l>Und der Hauch der lieben Musen</l>
+            <l>Weckt des Mädchens zarten Busen,</l>
+            <l>Stimmt die Kehle zum Gesange,</l>
+            <l>Und mit schön gefärbter Wange</l>
+            <l>Singet sie schon würd'ge Lieder,</l>
+            <l>Setzt sich zu den Schwestern nieder,</l>
+            <l>Und es singt die schöne Kette</l>
+            <l>Zart und zärter, um die Wette.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch die eine</l>
+            <l>Geht alleine</l>
+            <l>Bei den Buchen,</l>
+            <l>Unter Linden,</l>
+            <l>Dort zu suchen,</l>
+            <l>Dort zu finden,</l>
+            <l>Was im stillen Myrtenhaine</l>
+            <l>Amor schalkisch ihr entwendet,</l>
+            <l>Ihres Herzens holde Stille,</l>
+            <l>Ihres Busens erste Fülle.</l>
+            <l>Und sie träget in die grünen</l>
+            <l>Schattenwälder,</l>
+            <l>Was die Männer nicht verdienen,</l>
+            <l>Ihre lieblichen Gefühle;</l>
+            <l>Scheuet nicht des Tages Schwüle,</l>
+            <l>Achtet nicht des Abends Kühle</l>
+            <l>Und verliert sich in die Felder.</l>
+            <l>Stört sie nicht auf ihren Wegen!</l>
+            <l>Muse, geh ihr still entgegen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch was hör ich? Welch ein Schall</l>
+            <l>Überbraust den Wasserfall?</l>
+            <l>Sauset heftig durch den Hain?</l>
+            <l>Welch ein Lärmen, welch ein Schrein?</l>
+            <l>Ist es möglich, seh ich recht?</l>
+            <l>Ein verwegenes Geschlecht</l>
+            <l>Dringt ins Heiligtum herein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier hervor</l>
+            <l>Strömt ein Chor!</l>
+            <l>Liebeswut,</l>
+            <l>Weinesglut</l>
+            <l>Rast im Blick,</l>
+            <l>Sträubt das Haar!</l>
+            <l>Und die Schar,</l>
+            <l>Mann und Weib –</l>
+            <l>Tigerfell</l>
+            <l>Schlägt umher –</l>
+            <l>Ohne Scheu</l>
+            <l>Zeigt den Leib.</l>
+            <l>Und Metall,</l>
+            <l>Rauher Schall,</l>
+            <l>Grellt ins Ohr.</l>
+            <l>Wer sie hört,</l>
+            <l>Wird gestört.</l>
+            <l>Hier hervor</l>
+            <l>Drängt das Chor;</l>
+            <l>Alles flieht,</l>
+            <l>Wer sie sieht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, die Büsche sind geknickt!</l>
+            <l>Ach, die Blumen sind erstickt</l>
+            <l>Von den Sohlen dieser Brut.</l>
+            <l>Wer begegnet ihrer Wut?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brüder, laßt uns alles wagen!</l>
+            <l>Eure reine Wange glüht.</l>
+            <l>Phöbus hilft sie uns verjagen,</l>
+            <l>Wenn er unsre Schmerzen sieht;</l>
+            <l>Und uns Waffen</l>
+            <l>Zu verschaffen,</l>
+            <l>Schüttert er des Berges Wipfel,</l>
+            <l>Und vom Gipfel</l>
+            <l>Prasseln Steine</l>
+            <l>Durch die Haine.</l>
+            <l>Brüder, faßt sie mächtig auf!</l>
+            <l>Schloßenregen</l>
+            <l>Ströme dieser Brut entgegen</l>
+            <l>Und vertreib aus unsern milden,</l>
+            <l>Himmelreinen Lustgefilden</l>
+            <l>Diese Fremden, diese Wilden!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch was seh ich?</l>
+            <l>Ist es möglich?</l>
+            <l>Unerträglich</l>
+            <l>Fährt es mir durch alle Glieder,</l>
+            <l>Und die Hand</l>
+            <l>Sinket von dem Schwunge nieder.</l>
+            <l>Ist es möglich?</l>
+            <l>Keine Fremden!</l>
+            <l>Unsre Brüder</l>
+            <l>Zeigen ihnen selbst die Wege!</l>
+            <l>O die Frechen!</l>
+            <l>Wie sie mit den Klapperblechen</l>
+            <l>Selbst voraus im Takte ziehn!</l>
+            <l>Gute Brüder, laßt uns fliehn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ein Wort zu den Verwegnen!</l>
+            <l>Ja, ein Wort soll euch begegnen,</l>
+            <l>Kräftig wie ein Donnerschlag.</l>
+            <l>Worte sind des Dichters Waffen;</l>
+            <l>Will der Gott sich Recht verschaffen,</l>
+            <l>Folgen seine Pfeile nach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>War es möglich, eure hohe</l>
+            <l>Götterwürde</l>
+            <l>Zu vergessen! Ist der rohe,</l>
+            <l>Schwere Thyrsus keine Bürde</l>
+            <l>Für die Hand, auf zarten Saiten</l>
+            <l>Nur gewöhnet hinzugleiten?</l>
+            <l>Aus den klaren Wasserfällen,</l>
+            <l>Aus den zarten Rieselwellen</l>
+            <l>Tränket ihr</l>
+            <l>Gar Silens abscheulich Tier?</l>
+            <l>Dort entweiht es Aganippen</l>
+            <l>Mit den rohen, breiten Lippen,</l>
+            <l>Stampft mit ungeschickten Füßen,</l>
+            <l>Bis die Wellen trübe fließen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O wie möcht ich gern mich täuschen;</l>
+            <l>Aber Schmerzen fühlt das Ohr;</l>
+            <l>Aus den keuschen,</l>
+            <l>Heil'gen Schatten</l>
+            <l>Dringt verhaßter Ton hervor.</l>
+            <l>Wild Gelächter</l>
+            <l>Statt der Liebe süßem Wahn!</l>
+            <l>Weiberhasser und – verächter</l>
+            <l>Stimmen ein Triumphlied an.</l>
+            <l>Nachtigall und Turtel fliehen</l>
+            <l>Das so keusch erwärmte Nest,</l>
+            <l>Und in wütendem Erglühen</l>
+            <l>Hält der Faun die Nymphe fest.</l>
+            <l>Hier wird ein Gewand zerrissen,</l>
+            <l>Dem Genusse folgt der Spott,</l>
+            <l>Und zu ihren frechen Küssen</l>
+            <l>Leuchtet mit Verdruß der Gott.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, ich sehe schon von weiten</l>
+            <l>Wolkenzug und Dunst und Rauch.</l>
+            <l>Nicht die Leier nur hat Saiten,</l>
+            <l>Saiten hat der Bogen auch.</l>
+            <l>Selbst den Busen des Verehrers</l>
+            <l>Schüttert das gewalt'ge Nahn,</l>
+            <l>Denn die Flamme des Verheerers</l>
+            <l>Kündet ihn von weiten an.</l>
+            <l>O vernehmt noch meine Stimme,</l>
+            <l>Meiner Liebe Bruderwort!</l>
+            <l>Fliehet vor des Gottes Grimme,</l>
+            <l>Eilt aus unsern Grenzen fort!</l>
+            <l>Daß sie wieder heilig werde,</l>
+            <l>Lenkt hinweg den wilden Zug!</l>
+            <l>Vielen Boden hat die Erde</l>
+            <l>Und unheiligen genug.</l>
+            <l>Uns umleuchten reine Sterne,</l>
+            <l>Hier nur hat das Edle Wert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wenn ihr aus rauher Ferne</l>
+            <l>Wieder einst zu uns begehrt,</l>
+            <l>Wenn euch nichts so sehr beglücket,</l>
+            <l>Als was ihr bei uns erprobt,</l>
+            <l>Euch nicht mehr ein Spiel entzücket,</l>
+            <l>Das die Schranken übertobt:</l>
+            <l>Kommt als gute Pilger wieder,</l>
+            <l>Steiget froh den Berg heran,</l>
+            <l>Tiefgefühlte Reuelieder</l>
+            <l>Künden uns die Brüder an,</l>
+            <l>Und ein neuer Kranz umwindet</l>
+            <l>Eure Schläfe feierlich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn sich der Verirrte findet,</l>
+            <l>Freuen alle Götter sich.</l>
+            <l>Schneller noch als Lethes Fluten</l>
+            <l>Um der Toten stilles Haus,</l>
+            <l>Löscht der Liebe Kelch den Guten</l>
+            <l>Jedes Fehls Erinnrung aus.</l>
+            <l>Alles eilet euch entgegen,</l>
+            <l>Und ihr kommt verklärt heran,</l>
+            <l>Und man fleht um euern Segen;</l>
+            <l>Ihr gehört uns doppelt an!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

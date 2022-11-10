@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An ein gewisse Jungfraw/ daß sie nit mehr  
+ nach jhrem Allerliebsten sehen soll.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">181</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">724</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An ein gewisse Jungfraw/ daß sie nit mehr  
+ nach jhrem Allerliebsten sehen soll.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht also festiglich mit brennendem verlangen</l>
+            <l>Vber den Berg </l>
+            <l>Als der auß sonderm trieb sein flammenreich Gesicht</l>
+            <l>Auff den zierlichen Schlaff </l>
+            <l>Wie ewer Augen glantz mit scharffen stralen spielet/</l>
+            <l>Vnd vnablessiglich durchs offne Fenster zielet</l>
+            <l>Vff ewers Buhlen Bart/ vom Eisen krauß gemacht/</l>
+            <l>Der jhm Jungfrawen Lieb zuwegen hat gebracht/</l>
+            <l>Schont ewer selbst/ thut nicht so vberflüssig spitzen</l>
+            <l>Das klar Gesicht/ last ab von ewrem vielen sitzen/</l>
+            <l>Die Rame wird vernutzt/ vnd wunderlich versehrt/</l>
+            <l>Die Simster ferner jhr vergeblich nur beschwert/</l>
+            <l>Gar weit wird vber Meer der Nort ewrn Buhlen führen/</l>
+            <l>Juner deß Fensters jhr nun euch müst erlustieren/</l>
+            <l>Mit seinem Bildnuß/ das voran ins buch gesetzt</l>
+            <l>In sehr köstlichem bund verlassen euch zur letzt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

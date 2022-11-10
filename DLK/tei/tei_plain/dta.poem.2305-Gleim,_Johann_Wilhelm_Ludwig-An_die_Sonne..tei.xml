@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Sonne.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">485</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Sonne.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sonne! alle Menschenzungen</l>
+            <l>Loben deine goldne Stralen.</l>
+            <l>Bäche, wo sich Nimsen baden,</l>
+            <l>Wo sie sich am Ufer troknen;</l>
+            <l>Thäler, wo sich Hirt’ und Heerde</l>
+            <l>Deiner Glut entgegen lagert;</l>
+            <l>Berge, wo von dir erwärmet</l>
+            <l>Eiß und Schnee in Thäler rinnet;</l>
+            <l>Klippen, wo an kalten Eichen</l>
+            <l>Ziegen hangen, Gemsen klettern;</l>
+            <l>Fluren, wo Narzissen blühen</l>
+            <l>Wo dein Stral Violen wärmet,</l>
+            <l>Danken dir für deine Stralen:</l>
+            <l>Aber ich kann dir nicht danken;</l>
+            <l>Denn du straltest gar zu helle,</l>
+            <l>Als mich in der Sommerlaube</l>
+            <l>Keine Mutter schen sollte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

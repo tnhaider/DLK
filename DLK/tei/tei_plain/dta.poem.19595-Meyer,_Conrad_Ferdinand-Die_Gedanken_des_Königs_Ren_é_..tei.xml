@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Gedanken des Königs Ren   é   .</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">172</measure>
+        <measure type="characters">993</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Gedanken des Königs Ren   é   .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der fromme Lautenschläger Herr Ren</l>
+            <l>Trug braune Locken — sie sind weiß wie Schnee.</l>
+            <l>An seiner Stirn verglomm der Kronen Glanz,</l>
+            <l>Da haftet nichts als nur ein Lorbeerkranz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schloß Tarascon — er bietet's zum Verkauf —</l>
+            <l>Dran spritzt die blaue Rhone scherzend auf,</l>
+            <l>Von hoher Warte wandert rings der Blick</l>
+            <l>Der König wägt als Denker sein Geschick:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„s'ist eigen daß man immer mich vertreibt!</l>
+            <l>S'ist eigen daß mir nichts in Händen bleibt!</l>
+            <l>Lothringen erbt' ich, wo die Trift sich sonnt,</l>
+            <l>Das nahm mir weg Anton von Vaudemont.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann erbt' ich flugs das Fürstenthum Anjou</l>
+            <l>Und noch das nette Ländlein Bar dazu —</l>
+            <l>Herr König Ludwig trat in mein Gelaß</l>
+            <l>Als Gast und schrieb mir meinen Wanderpaß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Reich Napel war's, das dann zu Erb mir fiel,</l>
+            <l>Dort mischte sich der Aragon ins Spiel —</l>
+            <l>Das schöne Napel! Richtig werd' ich schlemm!</l>
+            <l>Mir bleibt das himmlische Jerusalem!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da schimmert unvergänglich Dach und Fach —</l>
+            <l>Ich erb' es schon. Das Erben ist mein Sach!</l>
+            <l>Doch geht mein Sach, wie hier, so droben dort,</l>
+            <l>Jagt aus dem Himmel mich der Teufel fort.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

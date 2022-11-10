@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wunder .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">103</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">405</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wunder .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie war ein Kind vor wenig Tagen,</l>
+            <l>Sie ist es nicht mehr, wahrlich nein!</l>
+            <l>Bald ist die Blume aufgeschlagen,</l>
+            <l>Bald hüllt sie halb sich wieder ein.</l>
+            <l>Wen kann ich um das Wunder fragen?</l>
+            <l>Wie? oder täuscht mich holder Schein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie spricht so ganz mit Kindersinne,</l>
+            <l>So fromm ist ihrer Augen Spiel;</l>
+            <l>Doch großer Dinge werd’ ich inne,</l>
+            <l>Ich schau’ in Tiefen ohne Ziel.</l>
+            <l>Ja! Wunder sind’s der süßen Minne,</l>
+            <l>Die Minne hat der Wunder viel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

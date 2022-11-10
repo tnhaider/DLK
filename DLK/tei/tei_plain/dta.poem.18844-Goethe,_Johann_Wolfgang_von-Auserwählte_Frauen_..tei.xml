@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auserwählte Frauen .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">193</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">690</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auserwählte Frauen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frauen sollen nichts verlieren,</l>
+            <l>Reiner Treue ziemt zu hoffen;</l>
+            <l>Doch wir wissen nur von vieren</l>
+            <l>Die alldort schon eingetroffen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erst Suleika, Erdensonne,</l>
+            <l>Gegen Jussuf ganz Begierde,</l>
+            <l>Nun, des Paradieses Wonne,</l>
+            <l>Glänzt sie der Entsagung Zierde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann die Allgebenedeyte,</l>
+            <l>Die den Heiden Heil geboren,</l>
+            <l>Und, getäuscht, in bitterm Leide,</l>
+            <l>Sah den Sohn am Kreuz verloren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mahom’s Gattinn auch! Sie baute</l>
+            <l>Wohlfahrt ihm und Herrlichkeiten,</l>
+            <l>Und empfahl bey Lebenszeiten</l>
+            <l>Einen Gott und eine Traute.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt Fatima dann die Holde,</l>
+            <l>Tochter, Gattinn sonder Fehle,</l>
+            <l>Englisch allerreinste Seele</l>
+            <l>In dem Leib von Honiggolde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diese finden wir alldorten;</l>
+            <l>Und wer Frauenlob gepriesen</l>
+            <l>Der verdient an ewigen Orten</l>
+            <l>Lustzuwandeln wohl mit diesen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

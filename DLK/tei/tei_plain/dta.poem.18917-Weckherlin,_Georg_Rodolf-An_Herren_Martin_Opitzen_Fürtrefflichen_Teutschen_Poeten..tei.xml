@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Herren Martin Opitzen  
+ Fürtrefflichen Teutschen Poeten.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-3 4-6</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">718</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Herren Martin Opitzen  
+ Fürtrefflichen Teutschen Poeten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jn dem mein Ohr/ hand/ mund schier müd/ die</l>
+            <l>schwere plagen</l>
+            <l>Die diser grosse Krieg mit hunger/ schwert/ pest/</l>
+            <l>brand/</l>
+            <l>Vnd vnerhörter wuht auff vnser Vatterland</l>
+            <l>Auß giesset/ ohn ablaß zu hören/ schreiben/ klagen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ward mit wunder mir vnd mit wohn fürgetrage:</l>
+            <l>Mein Opitz/ deiner lieb vnd freindschafft wehrtes</l>
+            <l>pfand/</l>
+            <l>Pfand/ welches mir alßbald die feder auß der hãd/</l>
+            <l>Vnd auß dem mund vnd gaist die klag vnd layd</l>
+            <l>geschlagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dan ja dein Orgelstraich/ vnd deiner Harpfen klang</l>
+            <l>So lieblich das gehör vnd hertz zugleich berühren/</l>
+            <l>Daß (wer siñreich) mit mir erforschet jhrē zwang/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der kan nichts dan dein werck vnd wehrt zu hertzen</l>
+            <l>führen/</l>
+            <l>Vnd sein mund muß dich bald mit einem lobge-</l>
+            <l>sang/</l>
+            <l>Vnd seine hand dein haupt mit Lorbörzweigen</l>
+            <l>zieren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

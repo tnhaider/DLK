@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eines v e rliebten Schreib-Feder redet.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eines v e rliebten Schreib-Feder redet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was vielen heimlich ist/ das kriege ich zu wissen/</l>
+            <l>Durch mich wird manche Noht und grosser Schmertz</l>
+            <l>beklagt;</l>
+            <l>Ich sage was man offt sich nicht zu sagen wagt/</l>
+            <l>Und jenes macht entzückt/ was ich gesetzt vom Küssen.</l>
+            <l>Aus meiner Röhre pflegt der Wollust-Quell zu fliessen/</l>
+            <l>So daß die todte Schrifft so Aug’ als Hertz behagt.</l>
+            <l>Mein stummer Mund viel mehr als ein Beredter sagt/</l>
+            <l>Durch mich kan sich ein Paar an fernen Orten grüssen;</l>
+            <l>Durch mich entzünden sich gar offt die kalten Hertzen/</l>
+            <l>Mein Wesen zeuget Lust mit Gluth beseelten Schertzen/</l>
+            <l>Mein unberedter Mund auch spröde Hertzen zähmt/</l>
+            <l>Ich muß den Liebenden die erste Labsahl zeigen/</l>
+            <l>Ich sätze was der Mund sich vorzubringen schämt/</l>
+            <l>Und rede vom Papier wenn Zung und Redner schweigen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

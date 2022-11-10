@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">142</measure>
+        <measure type="characters">821</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„warum „, versezte sie, doch scheinen sie vergnügt:</l>
+            <l>„das zeigt, daß ihrem Geist nichts an dem Reichthum ligt.</l>
+            <l>535”Der Wissenschaften Sinn verachtet alle Lüste:</l>
+            <l>„wann er nur nicht so sehr um Nahrung sorgen müßte.</l>
+            <l>„das hem̃t der Künste Trieb, Fleiß, Aufnahm, Stärck’ und Macht;</l>
+            <l>„jhr Ansehn wird geschwächt, und sie zu lezt veracht.</l>
+            <l>So sollte man ..... gab ich zur Antwort; aber sie</l>
+            <l>540Ermahnte mich: ”Vernimm, was diese sich vor Müh</l>
+            <l>„vor Geist und Hoheit gibt! betrachte von den Frauen</l>
+            <l>„das edelste Gesicht! Ich wandte mich zu schauen,</l>
+            <l>Und nahme wahr, wie sie von unserm guten Rath,</l>
+            <l>Ich wußte nicht um was, mit Reiz und Anmuth bat.</l>
+            <l>545”Mein ”, sagte sie zu ihm, man muß die Kinder ehren,</l>
+            <l>„und so den Eltern es, daß man sie liebt, erklären;</l>
+            <l>„wer diesen zugethan, der herzet auch das Kind,</l>
+            <l>„weil er in seiner Lust die Lust der Eltern findt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

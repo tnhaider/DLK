@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf die tugendhaffte und schöne  Almire.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-6</measure>
+        <measure type="syllables">69</measure>
+        <measure type="tokens">42</measure>
+        <measure type="characters">268</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf die tugendhaffte und schöne  Almire.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wie die güldne Sonn' am hohen Himmel stehet</l>
+            <l>Und mit beliebten Schein desselben Zier erhöhet</l>
+            <l>So muß auch dein Gesicht der Tugend Wohn-Platz seyn/</l>
+            <l>Wer deine Wunder-Pracht </l>
+            <l>Desselben Hertze wird ins Liebes-Garn gerücket;</l>
+            <l>Nimmt ihn der Tugend-Glantz nun/ oder Schönheit ein?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

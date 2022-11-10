@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">126.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">177</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">676</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>126.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erkennest du, wohin auf oder niederstrebt</l>
+            <l>Der Zeitgang, gib nur nach, o Herz, das widerstrebt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Widerstreben hilft; du mußt dich ihm bequemen,</l>
+            <l>Wo nicht, mit deinem Thun vom Schauplatz Abschied nehmen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In jeder Jahreszeit kommt andres an die Reihe;</l>
+            <l>Begehre nicht, daß man nur Wetter dir verleihe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du im Wetter, das nun kommt, nicht blühen kannst,</l>
+            <l>So freue dich daß du schon deine Frucht gewannst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das worin du erstickst, ist andern Lebensluft;</l>
+            <l>Der Zukunft Odem weht aus des Vergangnen Gruft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was also bleibet dir? theilnehmende Betrachtung,</l>
+            <l>Dem Werden zuzusehn ohn' Aerger und Verachtung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glückselig ein Gemüth, in dessen Heiligthumen</l>
+            <l>Jedwede Jahreszeit hervorbringt Himmelsblumen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

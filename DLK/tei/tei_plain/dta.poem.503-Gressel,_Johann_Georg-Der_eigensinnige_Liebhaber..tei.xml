@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der eigensinnige Liebhaber.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">177</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">722</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der eigensinnige Liebhaber.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Mädgen liebe ich/ daß mir nicht günstig ist/</l>
+            <l>Dasselbe will ich nicht/ das mich mit Willen küßt.</l>
+            <l>Die </l>
+            <l>Jhn aber nicht mit Lust und Frölichkeit vergnügen.</l>
+            <l>Den angebohtnen Knß/ den schlag’ ich in den Wind/</l>
+            <l>Und den verlang’ ich nicht/ der mir nicht wird vergünnt.</l>
+            <l>Die Sinnen will ich nicht mit Wollust überschwemmen/</l>
+            <l>Den Unmuth aber doch in seinem Lauffe hemmen.</l>
+            <l>Die </l>
+            <l>Jen’ hat zu viel der Lust/ und diese nichts in sich/</l>
+            <l>Ich will die Mittel-Bahn von diesen beyden gehen/</l>
+            <l>Und will nach einer Frau/ die etwas listig stehen/</l>
+            <l>Die die Verschlagenheit/ und lose Schlackheit liebt/</l>
+            <l>Und sich dem/ was ich will/ allzeit entgegen giebt/</l>
+            <l>Die wieder zürnt und schilt/ und gleich darzwischen schläget/</l>
+            <l>Wenn meine Hand noch nicht den Knüttel angereget.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

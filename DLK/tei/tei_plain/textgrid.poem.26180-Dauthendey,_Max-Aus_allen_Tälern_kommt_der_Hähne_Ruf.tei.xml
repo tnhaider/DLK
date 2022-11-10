@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aus allen Tälern kommt der Hähne Ruf</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">726</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aus allen Tälern kommt der Hähne Ruf</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus allen Tälern kommt der Hähne Ruf,</l>
+            <l>Als ob sich jede Meile eine Stimme schuf,</l>
+            <l>Und weckt die Erde in der grauen Runde</l>
+            <l>Zum Augenöffnen in der Morgenstunde.</l>
+            <l>Dazwischen noch ein Käuzchen leise klagt,</l>
+            <l>Dem Dunkel es nur ängstlich Abschied sagt.</l>
+            <l>Manchem die Nacht mehr als der Tag behagt,</l>
+            <l>Wenn er im Finstern sich zur Liebsten wagt,</l>
+            <l>Weil ihm das Blut zur Lieb' am Tag verzagt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus allen Tälern kommt der Hähne Ruf,</l>
+            <l>Als ob sich jede Meile eine Stimme schuf,</l>
+            <l>Und weckt die Erde in der grauen Runde</l>
+            <l>Zum Augenöffnen in der Morgenstunde.</l>
+            <l>Dazwischen noch ein Käuzchen leise klagt,</l>
+            <l>Dem Dunkel es nur ängstlich Abschied sagt.</l>
+            <l>Manchem die Nacht mehr als der Tag behagt,</l>
+            <l>Wenn er im Finstern sich zur Liebsten wagt,</l>
+            <l>Weil ihm das Blut zur Lieb' am Tag verzagt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

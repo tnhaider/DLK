@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Bluhmen-Lehre.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">462</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Bluhmen-Lehre.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>OgOtt, der Du in Deinen Werken</l>
+            <l>Dich jedem giebest zu bemerken,</l>
+            <l>Hier sitz ich, und bemerke Dich.</l>
+            <l>Es giebet jedes Blatt Dein Wesen</l>
+            <l>Mit reinen Ziefern uns zu lesen,</l>
+            <l>Dein Daseyn zeigt sich sichtbarlich.</l>
+            <l>Mich deucht, daß ich die wahre Lehre</l>
+            <l>Von einer jeden Bluhme höre,</l>
+            <l>Die sie im sanften Hauch uns giebt:</l>
+            <l>Empfind' ein Wesen, das dich liebt!</l>
+            <l>Ich zeig' Jhn deinem Geist; bedenke,</l>
+            <l>Daß meines Balsams Süßigkeit,</l>
+            <l>Der oft dein Innerstes erfreut,</l>
+            <l>Sich ja von selbst nicht in mich senke.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

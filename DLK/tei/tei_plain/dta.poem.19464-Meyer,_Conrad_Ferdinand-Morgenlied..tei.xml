@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Morgenlied.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Morgenlied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit edeln Purpurröthen</l>
+            <l>Und hellem Amselschlag,</l>
+            <l>Mit Rosen und mit Flöten</l>
+            <l>Stolziert der junge Tag.</l>
+            <l>Der Wanderschritt des Lebens</l>
+            <l>Ist noch ein leichter Tanz,</l>
+            <l>Ich gehe wie im Reigen</l>
+            <l>Mit einem frischen Kranz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr thaubenetzten Kränze</l>
+            <l>Der neuen Morgenkraft,</l>
+            <l>Geworfen aus den Lüften</l>
+            <l>Und spielend aufgerafft —</l>
+            <l>Wohl manchen ließ ich welken</l>
+            <l>Noch vor der Mittagsglut;</l>
+            <l>Zerrissen hab' ich manchen</l>
+            <l>Aus reinem Uebermut!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit edeln Purpurröthen</l>
+            <l>Und hellem Amselschlag,</l>
+            <l>Mit Rosen und mit Flöten</l>
+            <l>Stolziert der junge Tag —</l>
+            <l>Hinweg, du dunkle Klage,</l>
+            <l>Aus all dem Licht und Glanz!</l>
+            <l>Den Schmerz verlorner Tage</l>
+            <l>Bedeckt ein frischer Kranz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

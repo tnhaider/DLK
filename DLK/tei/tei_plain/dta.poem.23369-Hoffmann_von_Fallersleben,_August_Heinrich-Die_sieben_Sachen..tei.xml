@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die sieben Sachen.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">826</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die sieben Sachen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie heißen doch die sieben Sachen,</l>
+            <l>Die einen Mann von Stande machen?</l>
+            <l>Nichts lernen früh von Kindesbeinen</l>
+            <l>Und Alles doch zu wissen meinen,</l>
+            <l>Die ganze Nacht beim Spiel durchwachen,</l>
+            <l>Den ganzen Tag brav Schulden machen,</l>
+            <l>Das Deutsch so schlecht als möglich sprechen,</l>
+            <l>Französisch trefflich radebrechen,</l>
+            <l>Champagner trinken obendrein</l>
+            <l>Und überall hoffähig sein.</l>
+            <l>Das sind, das sind die sieben Sachen,</l>
+            <l>Die einen Mann von Stande machen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie heißen doch die sieben Sachen,</l>
+            <l>Die keinen Mann von Stande machen?</l>
+            <l>Nicht sich allein auf Erden leben,</l>
+            <l>Für Andre still zu wirken streben,</l>
+            <l>Sich nie um Schulden mahnen lassen</l>
+            <l>Und nie auf Andrer Kosten prassen,</l>
+            <l>Der Knechtschaft Sprache radebrechen,</l>
+            <l>Gut Deutsch für Recht und Freiheit sprechen,</l>
+            <l>Und lieber leiden Noth und Pein</l>
+            <l>Als irgendwo hoffähig sein.</l>
+            <l>Das sind, das sind die sieben Sachen,</l>
+            <l>Die keinen Mann von Stande machen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das dritte Buch.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">114</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">443</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198429"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das dritte Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gelobt sey unser Gott, sein Nahme sey gepriesen,</l>
+            <l>Der solche Wundergüt an seinem Volck erwiesen.</l>
+            <l>Gelobet sey der Herr, der Schützer Jsrael</l>
+            <l>Der uns zieht aus dem Staub, der unsrer Freude Quell.</l>
+            <l>Gelob</l>
+            <l>Der unsern König läst sieghafft zu Hause kehren.</l>
+            <l>Gelobet sey die Güt des Schöpfers dieser Welt,</l>
+            <l>Der unsre Feinde stürtzt und unser Land erhält.</l>
+            <l>Willkommen grosser Saul! was soll man von dir sagen:</l>
+            <l>Du hast dem frechen Feind selbst tausend Mann erschlagen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Reiterlied.</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">47</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8 4-8 5-8 6-8</measure>
+        <measure type="syllables">330</measure>
+        <measure type="tokens">249</measure>
+        <measure type="characters">1421</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Reiterlied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frei vor dir liegt die Welt,</l>
+            <l>Wie auch des Feindes List und Trug</l>
+            <l>Uns rings umgattert hält.</l>
+            <l>Steig, edles Roß, und bäume dich,</l>
+            <l>Dort winkt der Eichenkranz!</l>
+            <l>Streich aus, streich aus, und trage mich</l>
+            <l>Zum lust'gen Schwerdtertanz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch in den Lüften, unbesiegt,</l>
+            <l>Geht frischer Reitersmuth!</l>
+            <l>Was unter ihm im Staube liegt,</l>
+            <l>Engt nicht das freie Blut.</l>
+            <l>Weit hinter ihm liegt Sorg' und Noth,</l>
+            <l>Und Weib und Kind und Heerd,</l>
+            <l>Vor ihm nur Freiheit oder Tod,</l>
+            <l>Und neben ihm das Schwerdt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So geht's zum lust'gen Hochzeitsfest,</l>
+            <l>Der Brautkranz ist der Preis,</l>
+            <l>Und wer das Liebchen warten läßt,</l>
+            <l>Den bannt der freie Kreis.</l>
+            <l>Die Ehre ist der Hochzeitgast,</l>
+            <l>Das Vaterland die Braut;</l>
+            <l>Wer sie recht brünstiglich umfaßt,</l>
+            <l>Den hat der Tod getraut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gar süß mag solch ein Schlummer seyn</l>
+            <l>In solcher Liebesnacht;</l>
+            <l>In Liebchens Armen schläfst du ein,</l>
+            <l>Getreu von ihr bewacht.</l>
+            <l>Und wenn der Eiche grünes Holz</l>
+            <l>Die neuen Blätter schwellt,</l>
+            <l>So weckt sie dich mit freud'gem Stolz,</l>
+            <l>Zur ew'gen Freiheitswelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum wie sie fällt und wie sie steigt,</l>
+            <l>Des Schicksals rasche Bahn,</l>
+            <l>Wohin das Glück der Schlachten neigt,</l>
+            <l>Wir schauens ruhig an.</l>
+            <l>Für deutsche Freiheit woll'n wir stehn,</l>
+            <l>Sei's nun im Grabes Schooß,</l>
+            <l>Sei's oben auf des Sieges Höhn,</l>
+            <l>Wir preisen unser Loos.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn uns Gott den Sieg gewährt,</l>
+            <l>Was hilft euch euer Spott? —</l>
+            <l>Ja! Gottes Arm führt unser Schwerdt,</l>
+            <l>Und unser Schild ist Gott!</l>
+            <l>Schon stürmt es mächtig rings umher,</l>
+            <l>Drum, edler Hengst, frisch auf!</l>
+            <l>Und wenn die Welt voll Teufel wär',</l>
+            <l>Dein Weg geht mitten drauf.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

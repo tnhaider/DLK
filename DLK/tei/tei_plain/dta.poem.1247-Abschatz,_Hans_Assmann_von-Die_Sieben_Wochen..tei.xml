@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Sieben Wochen.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">42</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6 6-6 7-6</measure>
+        <measure type="syllables">308</measure>
+        <measure type="tokens">199</measure>
+        <measure type="characters">1185</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Sieben Wochen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieben Wochen sind nun hin/</l>
+            <l>Seit ich/ Cloris/ von dir bin;</l>
+            <l>Sieben Monat/ sieben Jahre</l>
+            <l>Bin ich näher meiner Bahre/</l>
+            <l>Weil ich/ liebste Schäfferin/</l>
+            <l>Sieben Wochen von dir bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schiffbruch leyd ich in dem Port/</l>
+            <l>Weil der Hoffnung Ancker fort/</l>
+            <l>Wenn gleich linde Westen spielen/</l>
+            <l>Muß ich Sturm und Nord-Wind fühlen/</l>
+            <l>Weil ich/ liebste Schäfferin/</l>
+            <l>Von dir abgesondert bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie muß Licht und Sonnenschein</l>
+            <l>Finsterniß und Schatten seyn/</l>
+            <l>Weil die hellen Angel-Sternen</l>
+            <l>Deiner Augen sich entfernen/</l>
+            <l>Und ich/ liebste Schäfferin/</l>
+            <l>Von dir abgesondert bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus dem Tage wird mir Nacht/</l>
+            <l>Aus der Nacht ein Tag gemacht/</l>
+            <l>Denn ich mich bey Nacht und Tage</l>
+            <l>Mit Verdruß und Wachen plage/</l>
+            <l>Seit ich/ liebste Schäfferin/</l>
+            <l>Von dir abgesondert bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die betrübte Seele denckt/</l>
+            <l>Jede Stunde sey verlängt/</l>
+            <l>Phöbus lasse seinen Wagen</l>
+            <l>Später um die Erde tragen</l>
+            <l>Seit ich/ liebste Schäfferin/</l>
+            <l>Von dir abgesondert bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da/ wo ich nicht finde dich/</l>
+            <l>Kan sonst nichts ergötzen mich/</l>
+            <l>Wo viel andre freudig schertzen/</l>
+            <l>Da vermehr ich meine Schmertzen/</l>
+            <l>Weil ich/ liebste Schäfferin/</l>
+            <l>Von dir abgesondert bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Vergnügen/ meine Freud</l>
+            <l>Ist allein die Einsamkeit/</l>
+            <l>Da ich dir durch Amors Hände</l>
+            <l>Tausend Küß’ und Seuffzer sende/</l>
+            <l>Die ich dir/ o Schäfferin/</l>
+            <l>Biß zum Grabe schuldig bin.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

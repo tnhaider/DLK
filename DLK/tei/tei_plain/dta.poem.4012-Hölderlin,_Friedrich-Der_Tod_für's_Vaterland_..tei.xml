@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Tod für's Vaterland .</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">204</measure>
+        <measure type="tokens">137</measure>
+        <measure type="characters">804</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197104"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Tod für's Vaterland .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kommst, o Schlacht! schon wogen die Jünglinge</l>
+            <l>Hinab von ihren Hügeln, hinab in's Thal,</l>
+            <l>Wo keck herauf die Würger dringen,</l>
+            <l>Sicher der Kunst und des Arms, doch sichrer</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kömmt über sie die Seele der Jünglinge,</l>
+            <l>Denn die Gerechten schlagen, wie Zauberer,</l>
+            <l>Und ihre Vaterlandsgesänge</l>
+            <l>Lähmen die Kniee der Ehrelosen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O nehmt mich, nehmt mich mit in die Reihen auf,</l>
+            <l>Damit ich einst nicht sterbe gemeinen Tods!</l>
+            <l>Umsonst zu sterben, lieb' ich nicht, doch</l>
+            <l>Lieb' ich, zu fallen am Opferhügel</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Für's Vaterland, zu bluten des Herzens Blut</l>
+            <l>Für's Vaterland — und bald ist's gescheh'n! Zu euch</l>
+            <l>Ihr Theuern! komm' ich, die mich leben</l>
+            <l>Lehrten und sterben, zu euch hinunter!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie oft im Lichte dürstet' ich euch zu seh'n,</l>
+            <l>Ihr Helden und ihr Dichter aus alter Zeit!</l>
+            <l>Nun grüßt ihr freundlich den geringen</l>
+            <l>Fremdling und brüderlich ist's hier unten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

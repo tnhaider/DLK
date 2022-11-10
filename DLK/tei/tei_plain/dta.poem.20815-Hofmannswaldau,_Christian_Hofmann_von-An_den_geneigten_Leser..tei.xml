@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den geneigten  
+ Leser.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-9 2-8</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">567</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1679</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20289-1"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa; Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den geneigten  
+ Leser.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer ziret nü der eren Sal?</l>
+            <l>Der jungen Ritter Züht ist smal/</l>
+            <l>So pfligent die Knehte gar unhövishe Dinge/</l>
+            <l>Mit Worten und mit Werken öch.</l>
+            <l>Swer züht hat der ist jo ir göch.</l>
+            <l>Nemet war/ wie gar unfüge für sich dringe:</l>
+            <l>Hie vor do bertet man die Jungen/</l>
+            <l>Die da pflagen vrecher Zungen:</l>
+            <l>Nu ist es ire Werdekeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie zieret man den Ehren-Saal?</l>
+            <l>Der jungen Ritter-Zucht ist schmal/</l>
+            <l>Viel ungehöftes Werck ist bey uns eingedrungen</l>
+            <l>So wol mit Worten/ als mit That/</l>
+            <l>Der ist ein Jeck/ wer Tugend hat/</l>
+            <l>Schaut doch den Unfug dieser Zeit/</l>
+            <l>Vor strafte man die frechen Zungen/</l>
+            <l>Jtzt ist es eine Zierligkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">72.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">632</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>72.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Welt ist schön, die Welt ist gut, gesehn als Ganzes,</l>
+            <l>Der Schöpfung Frühlingspracht, das Heer des Sternentanzes.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Welt ist schön, ist gut, gesehn im einzelst Kleinen;</l>
+            <l>Ein jedes Tröpfchen Thau kann Gottes Spiegel scheinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur wo du Einzelnes auf Einzelnes beziehst,</l>
+            <l>O wie vor lauter Streit du nicht den Frieden siehst!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Frieden ist im Kreis, im Mittelpunkt ist er,</l>
+            <l>Drum ist er überall, doch ihn zu sehn ist schwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist die Eintracht, die sich aus der Zwietracht baut,</l>
+            <l>Wo mancher, vom Gerüst verwirrt, den Plan nicht schaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum denke, was dich stört, daß dich ein Schein bethört,</l>
+            <l>Und was du nicht begreifst, gewiß zum Plan gehört.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

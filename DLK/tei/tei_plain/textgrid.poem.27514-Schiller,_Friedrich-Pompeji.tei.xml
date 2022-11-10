@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Pompeji</title>
+        <author>
+          <persName>
+            <surname>Schiller</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">460</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1782</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Pompeji</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vor der zerstörenden Zeit und vor dem zerstörenden Goten</l>
+            <l>Flüchtete tief in das Grab mich die Zerstörung hinab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verse! Wo irret ihr hin? Zu den Toten? Ins Leben zurücke!</l>
+            <l>Lacht nicht der Himmel? Im Glas schäumt nicht der purpurne Wein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vor der zerstörenden Zeit und vor dem zerstörenden Goten</l>
+            <l>Flüchtete tief in das Grab mich die Zerstörung hinab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verse! Wo irret ihr hin? Zu den Toten? Ins Leben zurücke!</l>
+            <l>Lacht nicht der Himmel? Im Glas schäumt nicht der purpurne Wein?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

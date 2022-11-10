@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">15.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">487</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>15.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Arbeiter dingt der Herr für seinen Arbeitstag,</l>
+            <l>Und Abends jedem gibt er seines Lohns Betrag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur einem einz'gen gibt er einen Ueberschuß;</l>
+            <l>Das sehn die anderen Arbeiter mit Verdruß,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sprechen: Haben wir nicht gleich wie er und eben</l>
+            <l>Soviel geschafft? warum hast du ihm mehr gegeben?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sprach er: Habet ihr zuwenig denn empfangen,</l>
+            <l>Und brach ich einem ab vom Lohn, den wir bedangen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie sprachen: Nein! Er sprach: So nehmt und schweiget still;</l>
+            <l>Den Ueberschuß der Gnad' ertheil' ich, wem ich will.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

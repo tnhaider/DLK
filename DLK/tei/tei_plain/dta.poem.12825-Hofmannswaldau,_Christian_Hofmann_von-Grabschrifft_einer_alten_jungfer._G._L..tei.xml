@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Grabschrifft einer alten jungfer.  
+ G. L.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">69</measure>
+        <measure type="characters">386</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1710</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20284-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Grabschrifft einer alten jungfer.  
+ G. L.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die hitze war vorbey, und schiene zu erkalten,</l>
+            <l>Die lippen wurden blaß, die augen roth und weit:</l>
+            <l>Die stirne wieß nunmehr die ungeschickten falten;</l>
+            <l>Drum deckte man mich zu, es war die höchste zeit.</l>
+            <l>Nur dieses wundert mich, daß du mir in dem leben</l>
+            <l>Den jungfer-titul noch beständig hast gegeben;</l>
+            <l>Da du ihn doch wohl kennst, der mir die knospe nahm,</l>
+            <l>Eh’ noch das rothe blatt recht vorgekrochen kam.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

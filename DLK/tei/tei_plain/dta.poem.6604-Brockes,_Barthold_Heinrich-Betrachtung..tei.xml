@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">609</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allein, wenn wir auch gleich so weit</l>
+            <l>Die Sinnen brächten, daß mit Freuden,</l>
+            <l>An aller Vorwürff Herrlichkeit;</l>
+            <l>Wir, Unschulds voll, die Augen könnten weiden:</l>
+            <l>Wenn eine glückliche Vermuthung uns gleich lehret,</l>
+            <l>Worauf man viele Zeit gewandt;</l>
+            <l>Wie etwan die Natur verfähret,</l>
+            <l>Mit Mitteln, die uns unbekannt</l>
+            <l>Um eine solche Meng von unterschiednen Dingen</l>
+            <l>Zu bilden und hervor zu bringen;</l>
+            <l>Wie unvollkommen ist jedennoch unser dencken,</l>
+            <l>Das wir mit so viel Müh’ auf alle Vorwürff lencken,</l>
+            <l>Wenn wir nicht wissen zu erklären,</l>
+            <l>Wie alles das zusammen hängt,</l>
+            <l>Wodurch der Geist das, was er fühlt empfängt.</l>
+            <l>O schöner Gegenwurf von unsern Lehren!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

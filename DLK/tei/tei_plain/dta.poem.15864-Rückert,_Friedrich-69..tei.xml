@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">69.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">121</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">495</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>69.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch zwischen Klippen hat ein Trüpplein Bäum' ihr Heil</l>
+            <l>Gefunden, wo sie nicht erreichet Axt und Beil.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie ziehen dürftiger vom Fels der Nahrung Saft,</l>
+            <l>Doch neiden nicht umher die üpp'ge Nachbarschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn all die andern sehn vom Berg' im fernen Thal</l>
+            <l>Den Tod vor Augen, der hinab sie holt einmal,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sei's um als Hüttenrauch, wie dort qualmt, aufzugehn,</l>
+            <l>Sei's in der Mühle, die dort ächzt, zersägt zu stehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur jene sind verschont, bis sie zernagt der Wurm</l>
+            <l>Des Alters, oder wirft von ihrer Klipp' ein Sturm.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

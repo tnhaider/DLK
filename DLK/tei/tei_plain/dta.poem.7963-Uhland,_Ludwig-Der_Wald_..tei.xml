@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Wald .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">587</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Wald .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was je mir spielt’ um Sinnen und Gemüthe</l>
+            <l>Von frischem Grün, von kühlen Dämmerungen,</l>
+            <l>Das hat noch eben mich bedeckt, umschlungen,</l>
+            <l>Als eines Maienwaldes Lustgebiete.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was je in Traum und Wachen mich umglühte</l>
+            <l>Von Blumenschein, von Knospen, kaum gesprungen,</l>
+            <l>Das kam durch die Gebüsche hergedrungen,</l>
+            <l>Als leichte Jägerin, des Waldes Blüthe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie floh dahin, ich eilte nach, mit Flehen,</l>
+            <l>Bald hätten meine Arme sie gebunden,</l>
+            <l>Da mußte schnell der Morgentraum verwehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Schicksal, das mir selbst nicht Hoffnung gönnte!</l>
+            <l>Mir ist die Schönste nicht allein verschwunden,</l>
+            <l>Der Wald sogar, drin ich sie suchen könnte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

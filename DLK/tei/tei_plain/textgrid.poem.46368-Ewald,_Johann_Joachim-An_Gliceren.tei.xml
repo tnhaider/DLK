@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Gliceren</title>
+        <author>
+          <persName>
+            <surname>Ewald</surname>
+            <forename>Johann Joachim</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">790</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Gliceren</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glycere komm auf grüne Fluren!</l>
+            <l>Da sind des goldnen Alters Spuren;</l>
+            <l>Da herscht die Liebe fern vom Neid,</l>
+            <l>Da macht das Herz den Unterscheid.</l>
+            <l>Sieh wie die Zweige lieblich winken,</l>
+            <l>Wodurch itzt träge Bäche blinken!</l>
+            <l>Komm, komm in jene Rosenhecken</l>
+            <l>Dich für die Mutter zu verstecken!</l>
+            <l>Des Amors Blume blüht nur dir,</l>
+            <l>Dort singen wir, dort küssen wir;</l>
+            <l>Wir wollen einsam dort in Gründen</l>
+            <l>Den Himmel zwischen Rosen finden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Glycere komm auf grüne Fluren!</l>
+            <l>Da sind des goldnen Alters Spuren;</l>
+            <l>Da herscht die Liebe fern vom Neid,</l>
+            <l>Da macht das Herz den Unterscheid.</l>
+            <l>Sieh wie die Zweige lieblich winken,</l>
+            <l>Wodurch itzt träge Bäche blinken!</l>
+            <l>Komm, komm in jene Rosenhecken</l>
+            <l>Dich für die Mutter zu verstecken!</l>
+            <l>Des Amors Blume blüht nur dir,</l>
+            <l>Dort singen wir, dort küssen wir;</l>
+            <l>Wir wollen einsam dort in Gründen</l>
+            <l>Den Himmel zwischen Rosen finden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

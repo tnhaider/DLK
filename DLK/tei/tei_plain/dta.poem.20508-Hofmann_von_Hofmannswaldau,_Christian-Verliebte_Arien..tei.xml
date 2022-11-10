@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verliebte Arien.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">260</measure>
+        <measure type="tokens">170</measure>
+        <measure type="characters">1010</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verliebte Arien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm/ Philirose/ schau die nacht/</l>
+            <l>Du julep halbverwundter hertzen/</l>
+            <l>Die zeit/ wo wir mit liebe schertzen/</l>
+            <l>Hat sich nunmehr zu uns gemacht/</l>
+            <l>Das bleiche licht ist uns erschienen/</l>
+            <l>Will uns zur liebes-fackel dienen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entblösse jenes schöne feld/</l>
+            <l>Wo meine seel die wahlstatt funden/</l>
+            <l>Und meine krafft wie schnee verschwunden/</l>
+            <l>Als sich dein blick/ der starcke held/</l>
+            <l>So tausend flammen mit sich brachte/</l>
+            <l>Zugleich aus deinen augen machte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach Philirose komm geschwind/</l>
+            <l>Laß mich das paradieß besteigen/</l>
+            <l>Den ort/ wo sich die gaben zeigen/</l>
+            <l>Die weisser/ als narcissen/ sind/</l>
+            <l>Laß mich in den verliebten stellen/</l>
+            <l>Dir meine seele zugesellen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ist kein schrecken noch gefahr/</l>
+            <l>Entkleide deine brust und lenden.</l>
+            <l>Ich will die glut auff diesen enden/</l>
+            <l>Was mir die erste flamm gebahr/</l>
+            <l>Es soll mein mund auff deinem liegen/</l>
+            <l>Biß mich die ohnmacht wird besiegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn ich nun besieget bin/</l>
+            <l>Wenn die entseelung mich gewonnen/</l>
+            <l>Und mir das leben gar entnommen/</l>
+            <l>So gib mir tausend küsse hin;</l>
+            <l>Und solt ich neue krafft erwerben/</l>
+            <l>Will ich noch zehnmahl also sterben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

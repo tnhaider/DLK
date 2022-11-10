@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Fuge .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">123</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">481</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Fuge .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Musikant wollte fröhlich seyn,               </l>
+            <l>Es thät ihm wohl gelingen,</l>
+            <l>Er saß bey einem guten Wein,</l>
+            <l>Da wollt er lustig singen,</l>
+            <l>Bekannt ist weit und breit der Wein,</l>
+            <l>Gewachsen hin und her am Rhein,</l>
+            <l>Macht sittlich modulieren,</l>
+            <l>Thut manchen oft verführen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Davon sezt er ein Liedlein klein,</l>
+            <l>Das thut er wohl betrachten,</l>
+            <l>Und mischet gute Fugen ein,</l>
+            <l>Niemand konnts ihm verachten.</l>
+            <l>Er dacht in dem Gemüthe sein,</l>
+            <l>Ey wären tausend Kronen mein,</l>
+            <l>Und alle Jahr ein Fuder Wein,</l>
+            <l>Das könnten gute Fugen seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

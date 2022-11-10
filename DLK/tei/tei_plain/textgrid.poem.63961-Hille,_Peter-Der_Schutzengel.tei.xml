@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Schutzengel</title>
+        <author>
+          <persName>
+            <surname>Hille</surname>
+            <forename>Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-3 3-4 4-3</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">498</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1879</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Schutzengel</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Schatten fällt auf deine Wange,</l>
+            <l>Es ist die Wimper nur, die lange.</l>
+            <l>Ein Seufzer sucht die Himmelslust,</l>
+            <l>Von der noch warm die Traumesbrust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast das Heimweh nach dem ewigen Leben</l>
+            <l>Und fühlst dich mit uns noch im Himmel schweben,</l>
+            <l>Und kommst bald wieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Schatten fällt auf deine Wange,</l>
+            <l>Es ist die Wimper nur, die lange.</l>
+            <l>Ein Seufzer sucht die Himmelslust,</l>
+            <l>Von der noch warm die Traumesbrust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast das Heimweh nach dem ewigen Leben</l>
+            <l>Und fühlst dich mit uns noch im Himmel schweben,</l>
+            <l>Und kommst bald wieder.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

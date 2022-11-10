@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Würde der Dichtkunst</title>
+        <author>
+          <persName>
+            <surname>Schlegel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">594</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1800</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Würde der Dichtkunst</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weil so schnöde sich zum Spott gemacht</l>
+            <l>Jene Weisheit, die ihr selbst erdacht;</l>
+            <l>So vergeßt der hohlen Worte Schwall,</l>
+            <l>Nehmt zu Herzen alten Liedes Schall!</l>
+            <l>Was verworren ward im trüben Streit,</l>
+            <l>Wird zur linden Klarheit hier erneut;</l>
+            <l>Aus der Dichtkunst Wogen friedlich mild</l>
+            <l>Steiget sanft empor des Himmels Bild.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weil so schnöde sich zum Spott gemacht</l>
+            <l>Jene Weisheit, die ihr selbst erdacht;</l>
+            <l>So vergeßt der hohlen Worte Schwall,</l>
+            <l>Nehmt zu Herzen alten Liedes Schall!</l>
+            <l>Was verworren ward im trüben Streit,</l>
+            <l>Wird zur linden Klarheit hier erneut;</l>
+            <l>Aus der Dichtkunst Wogen friedlich mild</l>
+            <l>Steiget sanft empor des Himmels Bild.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

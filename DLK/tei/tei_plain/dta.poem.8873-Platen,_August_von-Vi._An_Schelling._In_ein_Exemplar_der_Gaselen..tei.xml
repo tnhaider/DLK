@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi.  
+  An Schelling.   In ein Exemplar der Gaselen.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-3 4-3</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">528</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi.  
+  An Schelling.   In ein Exemplar der Gaselen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer immer König ist im Reich des Wahren?</l>
+            <l>Du siehst sie beyde sich im Höchsten paaren,</l>
+            <l>Gleich in einander wie verlornen Tönen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirst die kleine Gabe nicht verhöhnen,</l>
+            <l>Wirst diese morgenländisch bunten Schaaren</l>
+            <l>In ihrer Bilderfülle gern gewahren,</l>
+            <l>Und gerne dich an ihren Klang gewöhnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwar auf den Blüthen eines fernen Landes</l>
+            <l>Schweb' ich nur flüchtig, gleich dem Schmetterlinge,</l>
+            <l>Vielleicht genießend eines eitlen Tandes.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber tauchst die heil'ge Bienenschwinge</l>
+            <l>Herab vom Saum des Weltenblumenrandes</l>
+            <l>In das geheimnißvolle Wie der Dinge.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

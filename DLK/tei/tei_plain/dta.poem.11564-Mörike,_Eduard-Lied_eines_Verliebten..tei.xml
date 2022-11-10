@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lied eines Verliebten.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-3 3-3 4-3 5-3</measure>
+        <measure type="syllables">129</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">505</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lied eines Verliebten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weckt mich mein Herz, an dich zu denken</l>
+            <l>Da doch gesunde Jugend schlafen mag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hell ist mein Aug' um Mitternacht,</l>
+            <l>Heller als frühe Morgenglocken:</l>
+            <l>Wann hätt'st du je am Tage mein gedacht?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wär' ich ein Fischer, stünd' ich auf,</l>
+            <l>Trüge mein Netz hinab zum Flusse,</l>
+            <l>Trüg' herzlich froh die Fische zum Verkauf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Mühle, bei Licht, der Müllerknecht</l>
+            <l>Tummelt sich, alle Gänge klappern;</l>
+            <l>So rüstig Treiben wär' mir eben recht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weh, aber ich! o armer Tropf!</l>
+            <l>Muß auf dem Lager mich müßig grämen,</l>
+            <l>Ein ungebärdig Mutterkind im Kopf!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Luft</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">286</measure>
+        <measure type="tokens">184</measure>
+        <measure type="characters">1076</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1773</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Luft</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>»trüber Schleier der Luft, der uns den goldenen Tag raubt,</l>
+            <l>Uns mit Seuchen und Frost, uns auch mit Launen betrübt!«</l>
+            <l>Also zürnete ich. Da klangen liebliche Töne,</l>
+            <l>Und in entnebelter Luft fangen mir Genien zu:</l>
+            <l>»sterblicher, hast Du die Morgen-, die Abendröthe gesehen?</l>
+            <l>Hast Du den lieblichen Ton Deiner Geliebten gehört?</l>
+            <l>Sahst Du den Regenbogen und trankst mit der Blume den Thau auf,</l>
+            <l>Der in der Rose Dir lacht, der in der Traube Dir glüht?</l>
+            <l>Unzufriedner, küsse den Saum des wallenden Schleiers,</l>
+            <l>Durch den Aether und Licht, Athem und Speise Dir ward!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>»trüber Schleier der Luft, der uns den goldenen Tag raubt,</l>
+            <l>Uns mit Seuchen und Frost, uns auch mit Launen betrübt!«</l>
+            <l>Also zürnete ich. Da klangen liebliche Töne,</l>
+            <l>Und in entnebelter Luft fangen mir Genien zu:</l>
+            <l>»sterblicher, hast Du die Morgen-, die Abendröthe gesehen?</l>
+            <l>Hast Du den lieblichen Ton Deiner Geliebten gehört?</l>
+            <l>Sahst Du den Regenbogen und trankst mit der Blume den Thau auf,</l>
+            <l>Der in der Rose Dir lacht, der in der Traube Dir glüht?</l>
+            <l>Unzufriedner, küsse den Saum des wallenden Schleiers,</l>
+            <l>Durch den Aether und Licht, Athem und Speise Dir ward!«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die schöne Welt.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">422</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die schöne Welt.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum willt du denn, lieber Mensch, dem Gott, der die-</l>
+            <l>se schöne Welt</l>
+            <l>Nur dir zu Gut so herrlich schmückt, und dem nur deine</l>
+            <l>Lust gefällt,</l>
+            <l>Zur Ehr’ und Lust, dich nicht vergnügen? Warum soll</l>
+            <l>seiner Gottheit Schein,</l>
+            <l>Der aus den schönen Werken stralet, dir, wie dem Vieh,</l>
+            <l>verborgen seyn?</l>
+            <l>Er wollte Weisheit, Lieb und Macht durch deine Sinnen</l>
+            <l>dir entdecken:</l>
+            <l>Du willt zu seinem Ruhm nicht sehn, nicht hören, füh-</l>
+            <l>len, riechen, schmecken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

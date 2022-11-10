@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxV.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">129</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">534</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und stets und wiederum auf falscher Spur zu seyn?</l>
+            <l>Ward nicht dieselbe Kraft, die dort im Sterne flammt,</l>
+            <l>Bestimmt als Rose hier die Zier der Flur zu seyn?</l>
+            <l>Was seufzt ihr euch zurück in's sonst'ge Paradies,</l>
+            <l>Um wie das Sonnenlicht verklärt und pur zu seyn?</l>
+            <l>Was wünscht ihr schmerzbewegt euch bald im Erden-</l>
+            <l>Und über Wolken bald und im Azur zu seyn?</l>
+            <l>Was forscht ihr früh und spat dem Quell des Uebels</l>
+            <l>Das doch kein andres ist, als Kreatur zu seyn?</l>
+            <l>Sich selbst zu schau'n, erschuf der Ewige das All,</l>
+            <l>Das ist der Schmerz des All's, ein Spiegel nur zu</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

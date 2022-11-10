@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vertrauen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-14 2-4</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">594</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vertrauen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Wesen lag von Ewigkeit in einem dunklen Nichts</l>
+            <l>verborgen.</l>
+            <l>Ich habe meinen Cörper nicht, auch meine Seele nicht</l>
+            <l>gemacht.</l>
+            <l>Drum laß ich Den, Der mich, wie, wo, und wenn E</l>
+            <l>wollt, hervorgebracht,</l>
+            <l>Wie es mit mir in dieser Zeit,</l>
+            <l>Jm Tod, auch in der Ewigkeit,</l>
+            <l>Dereinst soll werden, sorgen.</l>
+            <l>Nur einzig Deine Lieb’, o ew’ge Lieb’, allein</l>
+            <l>Soll in der allgemeinen Dämmrung, der Meynung Dunst,</l>
+            <l>des Zweifels Nacht,</l>
+            <l>Und Ungewißheit aller Dinge, allein mein Licht und Leit-</l>
+            <l>Stern seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube, hätt’ Er von mir wollen,</l>
+            <l>Daß ich ein mehres wissen sollen;</l>
+            <l>Er hätt’ in diesem meinen Leben</l>
+            <l>Mir mehr Erkenntniß noch gegeben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

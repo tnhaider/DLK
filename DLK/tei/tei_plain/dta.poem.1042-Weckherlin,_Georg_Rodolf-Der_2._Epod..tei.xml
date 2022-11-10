@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der 2. Epod.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">103</measure>
+        <measure type="tokens">65</measure>
+        <measure type="characters">369</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1618</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20628-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der 2. Epod.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Götter zu vnserm frommen</l>
+            <l>Wolten das jhr zarte schoß/</l>
+            <l>Verachtend Amors geschoß/</l>
+            <l>Von Hymen wurd eingenommen/</l>
+            <l>Damit sie in disem land</l>
+            <l>Jhre wunder macht bekant.</l>
+            <l>Wan vns dan die Götter lieben/</l>
+            <l>Solle man sich nicht enttrüben</l>
+            <l>Zu einer solchen ankunft?</l>
+            <l>So laß vns zu jhren füssen</l>
+            <l>Nu werfen in einer zunft/</l>
+            <l>Vnd sie demühtig begrüssen</l>
+            <l>Mit dem süssen music klang/</l>
+            <l>Vnd einem frewden gesang.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

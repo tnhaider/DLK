@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vive le Roi   !</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">242</measure>
+        <measure type="tokens">157</measure>
+        <measure type="characters">934</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vive le Roi   !</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit diesem Lügenwunsch ihn doch berauscht!</l>
+            <l>Wie gierig haben stets bei seinen F</l>
+            <l>Furcht, Interesse, Eitelkeit gelauscht!</l>
+            <l>Ich mag den Herren ihre Kreuze gönnen,</l>
+            <l>Wenn ich sie so zu Hofe traben seh',</l>
+            <l>Und steh' bei Seit', um rufen noch zu können:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Hochmut eines Erdengotts gefröhnt;</l>
+            <l>Wie ward ihr lauter Jubel doch so leise,</l>
+            <l>Als drauf der Leoniden Ruf ertönt!</l>
+            <l>O heil'ger Ruf, der noch in unsern Tagen</l>
+            <l>So prächtig klingt, wie bei Thermopilä;</l>
+            <l>Auch unsre Fahne soll als Wahlspruch tragen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von unsern Burgen, wenn am eignen Herd</l>
+            <l>In ihres Fürsten Namen die Vasallen</l>
+            <l>Erwürgte unsrer gnäd'gen Herren Schwert!</l>
+            <l>Noch heben nächtlich sie bei Mondenschimmer</l>
+            <l>Die blut'gen Klingen fluchend in die Höh',</l>
+            <l>Doch lächelnd schreibt der Wandrer auf die Trümmer:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Rache Ruf im eitelen Refrain;</l>
+            <l>Daß ja das ew'ge Kind recht ruhig schlafe,</l>
+            <l>Seht ihr, </l>
+            <l>Doch bricht das Wetter aus, so lang beschworen,</l>
+            <l>Ist er verlassen, ohne Schmeichler — Weh!</l>
+            <l>Dann donnert ihm vernichtend in die Ohren:</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

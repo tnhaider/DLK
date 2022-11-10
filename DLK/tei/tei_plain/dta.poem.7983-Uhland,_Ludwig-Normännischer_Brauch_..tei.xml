@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Normännischer Brauch .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">637</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Normännischer Brauch .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl sitzt am Meeresstrande</l>
+            <l>Ein zartes Jungfräulein,</l>
+            <l>Sie angelt manche Stunde,</l>
+            <l>Kein Fischlein beißt ihr ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie hat ’nen Ring am Finger</l>
+            <l>Mit rothem Edelstein,</l>
+            <l>Den bindt sie an die Angel,</l>
+            <l>Wirft ihn in’s Meer hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da hebt sich aus der Tiefe</l>
+            <l>’ne Hand, wie Elfenbein,</l>
+            <l>Die läßt am Finger blinken</l>
+            <l>Das goldne Ringelein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da hebt sich aus dem Grunde</l>
+            <l>Ein Ritter, jung und fein,</l>
+            <l>Er prangt in goldnen Schuppen</l>
+            <l>Und spielt im Sonnenschein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Mägdlein spricht erschrocken:</l>
+            <l>„nein, edler Ritter, nein!</l>
+            <l>Laß du mein Ringlein golden!</l>
+            <l>Gar nicht begehrt’ ich dein.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„man angelt nicht nach Fischen</l>
+            <l>Mit Gold und Edelstein,</l>
+            <l>Das Ringlein lass’ ich nimmer,</l>
+            <l>Mein eigen mußt du seyn.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

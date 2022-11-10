@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">23.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">624</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1896</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>23.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schenk ein, liebe Sonne, dein Licht, dein Licht,</l>
+            <l>Ich will es trinken wie Wein,</l>
+            <l>Und wenn mich mein Herz dann zu packen kriegt,</l>
+            <l>Dann werden wir beide betrunken sein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann dreht die Welt sich rund um uns rum</l>
+            <l>Und die Nachtigall singt wie ein Buch:</l>
+            <l>Wie ist doch der Hansel so dumm, so dumm,</l>
+            <l>Und die Grethel so klug, so klug!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schenk ein, liebe Sonne, dein Licht, dein Licht,</l>
+            <l>Ich will es trinken wie Wein,</l>
+            <l>Und wenn mich mein Herz dann zu packen kriegt,</l>
+            <l>Dann werden wir beide betrunken sein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann dreht die Welt sich rund um uns rum</l>
+            <l>Und die Nachtigall singt wie ein Buch:</l>
+            <l>Wie ist doch der Hansel so dumm, so dumm,</l>
+            <l>Und die Grethel so klug, so klug!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

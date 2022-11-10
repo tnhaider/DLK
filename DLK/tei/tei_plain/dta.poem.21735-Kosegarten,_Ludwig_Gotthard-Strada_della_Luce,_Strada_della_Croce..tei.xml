@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Strada della Luce, Strada della Croce.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">699</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Strada della Luce, Strada della Croce.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch das Kreuz zum Glanz!</l>
+            <l>Wem gebührt der Kranz?</l>
+            <l>Wer getrost gelitten,</l>
+            <l>Wer mit Kraft gestritten,</l>
+            <l>Dem gebührt der Kranz.</l>
+            <l>Durch das Kreuz zum Glanz!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch die Nacht zum Licht!</l>
+            <l>Herz, verzage nicht,</l>
+            <l>Ob von Nacht umschauert,</l>
+            <l>Erd' und Himmel trauert —</l>
+            <l>Schau der Ost erglüht,</l>
+            <l>Und das Dunkel flieht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch den Schweiss zum Schlaf!</l>
+            <l>Stach die Sonne, traf</l>
+            <l>Dich des Mittags Schwüle;</l>
+            <l>Abends lullt die Kühle</l>
+            <l>In gewünschten Schlaf,</l>
+            <l>Wen die Schwüle traf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch den Kampf zum Sieg!</l>
+            <l>Krieg geboten, Krieg</l>
+            <l>Sey der Welt, der Schnöden!</l>
+            <l>Schande deckt den Blöden.</l>
+            <l>Drum sey bis zum Sieg</l>
+            <l>Krieg die Losung, Krieg!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch den Krieg zum Kranz!</l>
+            <l>Durch das Kreuz zum Glanz!</l>
+            <l>Durch Gehenna's Grauen</l>
+            <l>Hin zu Zions Auen!</l>
+            <l>Selig, wer beharrt,</l>
+            <l>Ob das Herz auch starrt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

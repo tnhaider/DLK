@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Kranich .</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">584</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Kranich .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rauh ging der Wind, der Regen troff,</l>
+            <l>Schon war ich naß und kalt;</l>
+            <l>Ich macht’ auf einem Bauerhof</l>
+            <l>Im Schutz des Zaunes Halt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit abgestutzten Flügeln schritt</l>
+            <l>Ein Kranich drin umher,</l>
+            <l>Nur seine Sehnsucht trug ihn mit</l>
+            <l>Den Brüdern über’s Meer;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit seinen Brüdern, deren Zug</l>
+            <l>Jetzt hoch in Lüften stockt,</l>
+            <l>Und deren Schrei auch ihn zum Flug</l>
+            <l>Gen Süden ruft und lockt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sieh, er hat sich aufgerafft,</l>
+            <l>Es gilt ja Lenz und Glück;</l>
+            <l>Umsonst, der Schwinge fehlt die Kraft</l>
+            <l>Und ach, er sinkt zurück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur Hahn und Huhn zum Schabernack</l>
+            <l>Umkrähn ihn jetzt voll Freud: —</l>
+            <l>Es jubelt stets das Hühnerpack</l>
+            <l>Bei eines Kranichs Leid.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

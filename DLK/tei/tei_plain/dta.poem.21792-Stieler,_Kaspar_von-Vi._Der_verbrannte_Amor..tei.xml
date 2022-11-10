@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi.  
+  Der verbrannte Amor.</title>
+        <author>
+          <persName>
+            <surname>Stieler</surname>
+            <forename>Kaspar von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-6</measure>
+        <measure type="syllables">170</measure>
+        <measure type="tokens">125</measure>
+        <measure type="characters">642</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1660</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20586-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi.  
+  Der verbrannte Amor.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Solt' Amor wol geflügelt sein?</l>
+            <l>ich bild es mir nicht ein.</l>
+            <l>Längst ist er bey mir eingezogen</l>
+            <l>nie ist er wieder fort geflogen/</l>
+            <l>ich bild’ es mir nicht ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es macht uns zwar Apelles Hand</l>
+            <l>den Amor so bekand.</l>
+            <l>Hätt’ aber er ie können fliegen</l>
+            <l>er würde so nicht stille liegen.</l>
+            <l>Ja wol geflügelt sein</l>
+            <l>ich bild’ es mir nicht ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch/ st! aniezt besinn’ ich mich:</l>
+            <l>er hatte was an sich</l>
+            <l>Als er zu mir kahm eingefahren/</l>
+            <l>mich dünket/ daß es Federn waren.</l>
+            <l>Er muß wol halten Stand</l>
+            <l>die Federn sind verbrannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er aber hat selbst Schuld daran</l>
+            <l>daß er nicht weiter kan.</l>
+            <l>Er hat ein Feur in meinem Herzen</l>
+            <l>entzündet mit der Liebes-Kerzen.</l>
+            <l>ich gönnt’ es/ Amor/ dir/</l>
+            <l>wärstu nur erst auß mir.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

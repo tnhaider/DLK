@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Mitleid.</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">706</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Mitleid.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer hat ein reizender Gesicht,</l>
+            <l>Als Jungfer Marjonette?</l>
+            <l>Allein wer hört wohl, daß sie spricht,</l>
+            <l>Wie man vermuthet hätte?</l>
+            <l>Sie neigt sich artig, und steht da,</l>
+            <l>Und sagt aufs höchste: Was? und Ja.</l>
+            <l>Ach! sie ist noch Monade!</l>
+            <l>Wahrhaftig, das ist Schade!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Finettens Puppenangesicht</l>
+            <l>Kan noch von fern entzücken.</l>
+            <l>Sie hat viel Narren, wie sie spricht,</l>
+            <l>In ihren Liebesstricken.</l>
+            <l>Der Kluge geht vorbey, und lacht.</l>
+            <l>Sie macht, mit ihrer Flitterpracht,</l>
+            <l>Der Gasse nur Parade.</l>
+            <l>Wahrhaftig, das ist Schade!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Fräulein Hey ist frey im Scherz,</l>
+            <l>Und sanft in ihrer Gnade.</l>
+            <l>Sie liebt mein bürgerliches Herz</l>
+            <l>In ziemlich hohem Grade.</l>
+            <l>Allein ich weiß nicht, wie das ist,</l>
+            <l>Daß sie den Adelstand vergißt —</l>
+            <l>Die Lieb ist wohl nur Gnade.</l>
+            <l>Wahrhaftig, das ist Schade.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

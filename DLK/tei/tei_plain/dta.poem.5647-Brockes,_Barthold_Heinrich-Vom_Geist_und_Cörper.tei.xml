@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vom Geist und Cörper</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">586</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vom Geist und Cörper</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sorten allzumal,</l>
+            <l>Der unterschiedlichen Gestallten ohne Zahl,</l>
+            <l>Auf so viel Art verschrenck’t,</l>
+            <l>Die man in Cörpern glaubt zu finden,</l>
+            <l>Und alles, was man meint von ihnen zu ergründen,</l>
+            <l>Bestehet eigentlich nur in dem Geist, der dencket.</l>
+            <l>So manche Art und Eigenschafften,</l>
+            <l>Die, wie man meint, an Cörpern hafften;</l>
+            <l>So manche Eigenschaft, und manche Art zu seyn,</l>
+            <l>Trifft man allein</l>
+            <l>In unsern Geistern an: Und der Veränderungen</l>
+            <l>So mannichfaltige Beschaffenheit</l>
+            <l>Und Unterschiedlichkeit,</l>
+            <l>So aus den Cörpern je entsprungen,</l>
+            <l>Die blos Bewegungen der Sinnen sind,</l>
+            <l>Die werden blos im Geist das, was der Mensch empfindt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

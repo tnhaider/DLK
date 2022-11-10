@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frisch auf !</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">440</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frisch auf !</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und hoch über dem allerschönsten Wald</l>
+            <l>Machte sie lächelnd auf einmal Halt.</l>
+            <l>Da sah ich erschrocken zwischen den Bäumen</l>
+            <l>Meine Heimath unten wie in Träumen,</l>
+            <l>Das Schloß, den Garten und die stille Luft,</l>
+            <l>Die blauen Berge dahinter im Duft</l>
+            <l>Und alle die schöne alte Zeit</l>
+            <l>In der wundersamen Einsamkeit.</l>
+            <l>Und als ich mich wandte, war ich allein,</l>
+            <l>Das Roß nur wiehert' in den Morgen hinein,</l>
+            <l>Mir aber war's als wär' ich wieder jung,</l>
+            <l>Und wußte der Lieder noch genung!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

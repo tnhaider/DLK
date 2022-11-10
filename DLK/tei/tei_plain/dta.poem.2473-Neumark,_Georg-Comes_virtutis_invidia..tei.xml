@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Comes virtutis invidia.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">101</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">404</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Comes virtutis invidia.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn nur vom Fett' und Blut uns Leib und Adern</l>
+            <l>schwellen</l>
+            <l>So hat man unnütz Vieh zu treuen Mitgesellen</l>
+            <l>Fällt aber nur der Mensch in eine Todensucht/</l>
+            <l>Dann weichen sie von ihm/ und geben bald die Flucht;</l>
+            <l>So sieht man eben auch/ wenn Glükk und Wollfahrt blü-</l>
+            <l>hen/</l>
+            <l>Daß Freunde hier und dar zu dienen sich bemühen</l>
+            <l>Wenn aber das Gelükk’ uns seinen Rükken weist/</l>
+            <l>So höhrt die Freundschafft auff/ die Diener sind ver-</l>
+            <l>reiß.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

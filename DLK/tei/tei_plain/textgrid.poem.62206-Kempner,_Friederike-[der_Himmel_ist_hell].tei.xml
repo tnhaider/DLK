@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[der Himmel ist hell]</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">106</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">410</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[der Himmel ist hell]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Himmel ist hell,</l>
+            <l>Das Feld, es ist weiß,</l>
+            <l>Es leuchten so kalt in der Ferne</l>
+            <l>Unzählige silberne Sterne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Nacht ist lang,</l>
+            <l>Der Traum ist bang,</l>
+            <l>Viel Geister, sie fehlen hienieden,</l>
+            <l>Geb' Gott den Fehlenden Frieden!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Himmel ist hell,</l>
+            <l>Das Feld, es ist weiß,</l>
+            <l>Es leuchten so kalt in der Ferne</l>
+            <l>Unzählige silberne Sterne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Nacht ist lang,</l>
+            <l>Der Traum ist bang,</l>
+            <l>Viel Geister, sie fehlen hienieden,</l>
+            <l>Geb' Gott den Fehlenden Frieden!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

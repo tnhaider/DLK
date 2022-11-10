@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abschieds-körbe.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">145</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">586</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1709</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20283-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abschieds-körbe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer auf die freyth will gehn,</l>
+            <l>Muß stets in sorgen stehn,</l>
+            <l>Daß man ihm nicht den tantz versage,</l>
+            <l>Und mit dem korbe weiter jage.</l>
+            <l>Wo einmahl sich die körbe hingewöhnen,</l>
+            <l>Da pflegen sie vor mehr den weg zu bähnen.</l>
+            <l>Doch ists noch gut, daß sie nicht sichtbar seyn;</l>
+            <l>Sonst würden gar die mägdgen</l>
+            <l>Vor einem solchen korbe-träger</l>
+            <l>Wie vor dem pop-hans schreyn.</l>
+            <l>Ach! kämen nur die moden auf,</l>
+            <l>Daß selbst die mägdgen müsten gehn</l>
+            <l>Auf diesen liebes-kauff!</l>
+            <l>Was gilts? es würd’ um sie vielleicht noch schlimmer</l>
+            <l>stehn.</l>
+            <l>Viel mägdgen würden sich gantz lahm an körben tragen:</l>
+            <l>Nach angebotner gunst pflegt niemand viel zu fragen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

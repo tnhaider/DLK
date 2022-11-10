@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dem Sieger von Aspern.</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">216</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">864</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dem Sieger von Aspern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was der verwegenen Hand gebot in die Saiten zu
+schlagen,</l>
+            <l>Was mein jugendlich Herz tief in Entzückung getaucht,</l>
+            <l>Dieser Begeisterung Sturm, er schlummert nirgends, es</l>
+            <l>Nie der Brust das Gefühl, nur dem Gefühle das Wort.</l>
+            <l>Manche schweigen wohl auch, weil die Zeit das Schweigen</l>
+            <l>Weil der drängende Tag scheuche den glücklichen Muth.</l>
+            <l>Aber die Zeit will ich sehn, und den Tag, der gebieten kann,</l>
+            <l>Kalt und besonnen zu seyn, wenn mich Entzückung durch-</l>
+            <l>Wenn mein germanischer Stolz sich beugt dem germanischen</l>
+            <l>Der auf dem Altar des Siegs, Funken und Flammen</l>
+            <l>Darum riß es mich fort, ich griff in die rauschenden Saiten,</l>
+            <l>Sang es laut, was sich sonst wortlos im Herzen vergrub.</l>
+            <l>Aber der Held verzeihe der armen Kunst seines Barden,</l>
+            <l>Die mit frevelndem Muth sich an das Höchste gewagt.</l>
+            <l>Zürnt doch der Sturm, der den Donner der brechenden Eiche</l>
+            <l>Drum dem Schilfe nicht, das ihm entgegengerauscht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

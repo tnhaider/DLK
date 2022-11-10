@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XlIII.  Ebenbildt vnsers Lebens.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-3</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">771</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XlIII.  Ebenbildt vnsers Lebens.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mensch das spiel der zeit/ spielt weil er alhie lebt. </l>
+            <l>Jm Schaw-platz dieser welt; er sitzt/ vnd doch nicht feste.</l>
+            <l>Der steigt vnd jener fält/ der suchet die Paläste/ </l>
+            <l>Vnd der ein schlechtes dach/ der herscht vnd jener webt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was gestern war ist hin/ was jtzt das glück erhebt;</l>
+            <l>Wirdt morgen vntergehn/ die vorhin grünen äste</l>
+            <l>Sindt nunmehr dür vnd todt/ wir armen sindt nur gäste</l>
+            <l>Ob den ein scharffes schwerdt an zarter seide schwebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir sindt zwar gleich am fleisch/ doch nicht von gleichem</l>
+            <l>stande</l>
+            <l>Der trägt ein purpur-kleidt/ vnd jener gräbt im Sande/</l>
+            <l>Biß nach entraubtem schmuck/ der Tod vns gleiche macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Spilt denn dis ernste spiel: weil es die zeit noch leidet.</l>
+            <l>Vnd lernt: das wenn man vom pancket des lebens scheidet:</l>
+            <l>Kron/ weisheit/ stärck vnd gut/ sey ein geborgter pracht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

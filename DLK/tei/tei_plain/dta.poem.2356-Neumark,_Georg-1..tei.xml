@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">156</measure>
+        <measure type="characters">922</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>An Deinem Wort' am höchsten Gut'/</l>
+            <l>Hab' Ich Gott mein Ergetzen/</l>
+            <l>Denn wenn mich wil mein Fleisch und Blut</l>
+            <l>Ins Sündenfinstre setzen/</l>
+            <l>So muß es eintzig und allein</l>
+            <l>Mein Lebenslicht und Fakkel seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach diesem soll mein Hertze sich</l>
+            <l>In wahrer Demuht richten/</l>
+            <l>Dein guter Geist nur leite mich/</l>
+            <l>Damit mein Thun und Tichten/</l>
+            <l>Sey eintzig und allein geziehlt</l>
+            <l>Dahin/ wo mir dein Wort befiehlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>BaRBArisch auf die Sündenbahn/</l>
+            <l>Pflegt mich die Welt zu leiten/</l>
+            <l>Wenn aber Ich Dein Wort seh' an/</l>
+            <l>Merk' Ich die Eitelkeiten/</l>
+            <l>Dadurch die Seele wird gekränkt/</l>
+            <l>Und in den hellschen Pfuhl versenkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Raubt Mir ein Unglük die Geduld/</l>
+            <l>Daß mein Vertrauen hinket</l>
+            <l>An Deiner väterlichen Huld/</l>
+            <l>Und mein Gemühte sinket/</l>
+            <l>So ist Mir dein liebreiches Wort/</l>
+            <l>Ein süßer Trost und starker Hort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>VoN manchem groben Sündenwust'</l>
+            <l>Ich kan befreyet bleiben/</l>
+            <l>Des frechen Fleisches schnöde Lust/</l>
+            <l>Kan Ich dadurch vertreiben.</l>
+            <l>Denn wenn durchs Wort der Geist obsiegt/</l>
+            <l>Gar bald das Sündenfteisch erliegt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

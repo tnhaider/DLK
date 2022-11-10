@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Heidenlied.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">48</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8 6-8</measure>
+        <measure type="syllables">326</measure>
+        <measure type="tokens">225</measure>
+        <measure type="characters">1292</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1843</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192440"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Heidenlied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie lebten doch die Heiden</l>
+            <l>So herrlich und so froh!</l>
+            <l>Das war ein Volk von Seiden,</l>
+            <l>Wir sind ein Volk von Stroh;</l>
+            <l>Entführt' ein Ochs ein schönes Kind</l>
+            <l>Zuweilen auch — doch glaubet mir:</l>
+            <l>Sie Heiden waren nicht so blind</l>
+            <l>Nicht halb so blind, als wir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Heiden, 's ist doch schade</l>
+            <l>Um solch </l>
+            <l>Sie hießen Vier gerade</l>
+            <l>Und nahmen Fünf für krumm;</l>
+            <l>Auch hatt' die Jungferschaft ein End',</l>
+            <l>Sobald die Magd ein Kind gebar,</l>
+            <l>Dieweil das N. T.</l>
+            <l>Noch nicht erfunden war.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie thaten, was sie mochten,</l>
+            <l>Die Frechheit war enorm;</l>
+            <l>Sie siegten, wenn sie fochten,</l>
+            <l>Auch ohne Uniform;</l>
+            <l>Sie hatten keine Polizei</l>
+            <l>Und tranken lieber Wein, als Bier;</l>
+            <l>Wie waren doch die Heiden frei,</l>
+            <l>Die Heiden! — aber Ihr?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und von Achill und Hektor,</l>
+            <l>Wie's im Homerus steht,</l>
+            <l>Bis zu dem letzten Rektor</l>
+            <l>Der Universität,</l>
+            <l>Da gab's kein Buch in ganz Athen —</l>
+            <l>O schreckliche Verworfenheit!</l>
+            <l>Man wurde vom Spazierengeh'n</l>
+            <l>Und von der Luft gescheidt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie wußten sie die Tatzen</l>
+            <l>Den Pfaffen abzuhau'n!</l>
+            <l>Die durften nur nach Spatzen,</l>
+            <l>Nicht nach den Weibern schau'n;</l>
+            <l>Den Prinzen gar erging es schlecht,</l>
+            <l>Die fanden kaum ein Nachtquartier;</l>
+            <l>Wie hatten doch die Heiden recht,</l>
+            <l>Die Heiden! — aber Ihr?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Heiden, ach! die Heiden,</l>
+            <l>Die keine Christen sind,</l>
+            <l>Sie spinnen doch die Seiden</l>
+            <l>Für manch ein Christenkind;</l>
+            <l>Drum lebe hoch das Heidenpack,</l>
+            <l>Und jeder ächte Heidenstrick,</l>
+            <l>Homerus mit dem Bettelsack</l>
+            <l>Und ihre Republik!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

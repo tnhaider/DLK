@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Stöpselzieher.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">211</measure>
+        <measure type="tokens">143</measure>
+        <measure type="characters">789</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Stöpselzieher.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn es keine Flaschen gäbe,</l>
+            <l>Würden keine Stöpsel sein,</l>
+            <l>Und wie einst dem Zeus die Hebe</l>
+            <l>So kredenzt' ich dir den Wein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber leider wird gezogen</l>
+            <l>Jetzt auf Flaschen nur der Wein</l>
+            <l>Und wie einen Demagogen</l>
+            <l>Sperret man den Edlen ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein Stöpsel hält die Wache</l>
+            <l>Wie ein Scherge Tag und Nacht,</l>
+            <l>Und er sitzt ihm auf dem Dache,</l>
+            <l>Daß er sich nicht mausig macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch dein Rächer ist vorhanden,</l>
+            <l>Nur Geduld, du edler Wein!</l>
+            <l>Und er wird aus deinen Banden</l>
+            <l>Dich zu rechter Zeit befrein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie heißt der brave Rächer,</l>
+            <l>Der den Wein befreien kann?</l>
+            <l>O ihr wisst es, frohe Zecher,</l>
+            <l>Stöpselzieher heißt der Mann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stöpselzieher! hoch erheben</l>
+            <l>Lasst uns ihn bei Sang und Wein:</l>
+            <l>Alle, alle sollen leben,</l>
+            <l>Stöpselzieher groß und klein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein jeder Hauswirth denke</l>
+            <l>Heuer und zu jeder Frist,</l>
+            <l>Daß kein ordentlich Getränke</l>
+            <l>Ohne Stöpselzieher ist.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er liebet sie über alles.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">189</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">756</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er liebet sie über alles.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lebe bloß in dir mein auserwähltes Leben;</l>
+            <l>So lange mir die Lufft wird Geist und Oden geben/</l>
+            <l>So lange soll mein Hertz/ mein Kind beständig seyn/</l>
+            <l>Es reist noch Noht noch Tod die veste Treue ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einander mag sein Glück auf Gold und Silber setzen/</l>
+            <l>Ich suche bloß in dir mein eintziges Ergötzen/</l>
+            <l>Das Gold der reinen Gunst macht mich vor allen reich/</l>
+            <l>Und vor der Liljen-Brust wird helles Silber bleich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie der </l>
+            <l>Wie nach dem Agtstein sich ein leichtes Spreu bemühet/</l>
+            <l>So kehrt mein Hertze sich zu deiner Schönheit hin/</l>
+            <l>Und zeiget/ daß ich dir als Knecht ergeben bin/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wie dein Auge will/ so lasse ich mich führen/</l>
+            <l>So wie ein Schiff das Steur muß lencken und regieren/</l>
+            <l>So wird mein Hertz geführt durch deiner Schönheit-Zier/</l>
+            <l>Du bist mein Seelen-Licht ich lebe bloß in dir.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

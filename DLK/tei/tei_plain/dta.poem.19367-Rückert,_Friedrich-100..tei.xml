@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">100.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">497</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>100.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wol gibt es zwischen Recht und Unrecht scharfe Gränzen,</l>
+            <l>Doch deinen Scharfsinn laß nicht in der Schärfe glänzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gewis bestimmter als dis zweifelhaft Gebiet</l>
+            <l>Ist zwischen Acker hier und dort der Unterschied.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch hält der Ackersmann von hier und der von dort</l>
+            <l>Ein wenig seinen Pflug zurück vom äußern Ort;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß lieber ungebaut ein Streifchen zwischenliege,</l>
+            <l>Als daß sich Pflug und Pflug begegnen dort zum Kriege.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So halt den Fuß zurück von der Versuchung Rand,</l>
+            <l>Und setz' im Zweifelsfall in Ruhstand deine Hand.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

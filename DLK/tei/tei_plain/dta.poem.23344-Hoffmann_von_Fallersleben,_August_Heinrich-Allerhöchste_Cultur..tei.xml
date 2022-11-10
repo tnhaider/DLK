@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Allerhöchste Cultur.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">391</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Allerhöchste Cultur.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwar immer tragen wir noch Kleider</l>
+            <l>Und gehn in Stiefeln und in Schuh'n,</l>
+            <l>Wo aber sind anjetzt die Schneider?</l>
+            <l>Wo aber sind die Schuster nun?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Schuster einst von Gottes Gnaden</l>
+            <l>Heißt jetzt ein Stiefelfabrikant,</l>
+            <l>Und eines Schneiders Höll' und Laden</l>
+            <l>Wird jetzt ein Magazin genannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So werden wir denn noch erleben</l>
+            <l>Ein Kleideranpassungs-Bureau</l>
+            <l>Und ganz gewiß auch noch daneben</l>
+            <l>Ein Fußbedeckungsstück-Depot.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

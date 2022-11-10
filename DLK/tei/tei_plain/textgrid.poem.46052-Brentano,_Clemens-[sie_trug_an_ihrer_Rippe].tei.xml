@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[sie trug an ihrer Rippe]</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">108</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">418</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[sie trug an ihrer Rippe]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie trug an ihrer Rippe</l>
+            <l>Den schönsten Blumenstrauß,</l>
+            <l>Der Tod mit seiner Hippe,</l>
+            <l>Der tanzte ihr voraus;</l>
+            <l>Und als sie an den Brunnen kam,</l>
+            <l>Da tat sie einen Sprung,</l>
+            <l>Und träumte einen Nonnentraum,</l>
+            <l>Und war gleich wieder jung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie trug an ihrer Rippe</l>
+            <l>Den schönsten Blumenstrauß,</l>
+            <l>Der Tod mit seiner Hippe,</l>
+            <l>Der tanzte ihr voraus;</l>
+            <l>Und als sie an den Brunnen kam,</l>
+            <l>Da tat sie einen Sprung,</l>
+            <l>Und träumte einen Nonnentraum,</l>
+            <l>Und war gleich wieder jung.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

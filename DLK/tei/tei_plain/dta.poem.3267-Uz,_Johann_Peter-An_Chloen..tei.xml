@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Chloen.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">271</measure>
+        <measure type="tokens">176</measure>
+        <measure type="characters">1074</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Chloen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weis Chloe mein geheim Verlangen?</l>
+            <l>Verrieth mein Auge mich vielleicht,</l>
+            <l>Das nach den Rosen ihrer Wangen</l>
+            <l>Durch manchen Umweg lüstern schleicht?</l>
+            <l>Jhr Blick begegnet meinem Blicke:</l>
+            <l>Jhr Auge sieht mich schalkhaft an,</l>
+            <l>Oft nur im Flug und schnell zurücke;</l>
+            <l>Doch daß ich es bemerken kann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft blitzen, von Gefahr begleitet,</l>
+            <l>Die blauen Augen frey auf mich,</l>
+            <l>Aus welchen Amor mich bestreitet,</l>
+            <l>Der stets aus ihnen siegreich wich.</l>
+            <l>Ich kann die Grazien darinnen</l>
+            <l>Ein schmeichelnd Lächeln bilden sehn:</l>
+            <l>Das überraschet meine Sinnen;</l>
+            <l>Wie kann das Herz ihm widerstehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Schnee gleicht ihres Armes Weisse,</l>
+            <l>Der vor dem Fenster in der Luft,</l>
+            <l>Mit einem ungewohnten Fleisse,</l>
+            <l>So sinnreich meiner Sehnsucht ruft!</l>
+            <l>Nun schaut sie rückwärts, doch gestrecket,</l>
+            <l>Bis sich die volle Brust empört,</l>
+            <l>Und halb entwischt, und, unverdecket,</l>
+            <l>Auch eines Cato Runzeln stört.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich aber steh und strampf und glühe,</l>
+            <l>Flieg in Gedancken hin zu ihr,</l>
+            <l>Und sehe, mit verlohrner Mühe,</l>
+            <l>Mich unstät, aber immer hier:</l>
+            <l>Weil, bis mich Glück und Freundschaft retten,</l>
+            <l>Die oft ein langer Schlaf befällt;</l>
+            <l>Mich hier mit diamantnen Ketten</l>
+            <l>Das Schicksal angefesselt hält.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

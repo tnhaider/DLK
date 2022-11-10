@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Cupido.</title>
+        <author>
+          <persName>
+            <surname>Mühlpfort</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-6</measure>
+        <measure type="syllables">75</measure>
+        <measure type="tokens">48</measure>
+        <measure type="characters">283</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1686</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20414-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Cupido.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sehe freylich hier die schönen Sorten an/</l>
+            <l>Zeug/ in den bloß allein die Venus einzukleiden;</l>
+            <l>Gewebe/ das gemacht ist von der besten Seiden.</l>
+            <l>Jedoch was meine Hand vor Arbeit wircken kan/</l>
+            <l>Sticht das Gespenste weg/ das uns Venedig schicket/</l>
+            <l>Womit sich Pisa rühmt und Genua sonst schmücket.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

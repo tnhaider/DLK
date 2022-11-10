@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D es  G rafen von  V illa  M edi-  
+ na/ welcher der Spanischen Königin an  
+ die Füssen gegriffen/ und deswe-  
+ gen erschossen wurde.</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-6</measure>
+        <measure type="syllables">67</measure>
+        <measure type="tokens">48</measure>
+        <measure type="characters">261</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1702</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197766"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>D es  G rafen von  V illa  M edi-  
+ na/ welcher der Spanischen Königin an  
+ die Füssen gegriffen/ und deswe-  
+ gen erschossen wurde.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stürtzt Phaeton/ wenn er zur Sonnen denckt zu steigen/</l>
+            <l>So stiege meine Gluth hergegen in das Thal.</l>
+            <l>Man darff sich sonst gebückt zu hohen Füssen neigen/</l>
+            <l>Doch diese D</l>
+            <l>Muß jener nun zu hoch/ und ich zu tieff erkalten/</l>
+            <l>So bleibt das Sicherste: man sol das Mittel halten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

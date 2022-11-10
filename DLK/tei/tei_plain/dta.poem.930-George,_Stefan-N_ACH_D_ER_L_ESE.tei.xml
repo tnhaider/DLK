@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N ACH   D ER   L ESE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">692</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N ACH   D ER   L ESE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr rufe junger jahre die befahlen               </l>
+            <l>Nach IHR zu suchen unter diesen zweigen               </l>
+            <l>Ich muss vor euch die stirn verneinend neigen               </l>
+            <l>Denn meine liebe schl&amp;#228;ft im land der strahlen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch schickt ihr Sie mir wieder die im brennen               </l>
+            <l>Des sommers und im flattern der Eroten               </l>
+            <l>Sich als geleit mir sch&amp;#252;chtern dargeboten               </l>
+            <l>Ich will sie diesmal freudig anerkennen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die reifen trauben g&amp;#228;hren in den b&amp;#252;tten               </l>
+            <l>Doch will ich alles was an edlen trieben               </l>
+            <l>Und schöner saat vom sommer mir geblieben               </l>
+            <l>Aus vollen h&amp;#228;nden vor ihr niedersch&amp;#252;tten.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

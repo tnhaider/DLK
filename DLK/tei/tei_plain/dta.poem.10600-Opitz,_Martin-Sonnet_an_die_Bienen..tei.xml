@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet an die Bienen.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">171</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">667</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet an die Bienen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Honigvögelein/ die jhr von den Violen/</l>
+            <l>Vnd Rosen abgemeit den wundersüssen Safft/</l>
+            <l>Die jhr dem grünen Klee entzogen seine Krafft/</l>
+            <l>Die jhr das schöne Feldt so offt vnd viel bestohlen/</l>
+            <l>Ihr Feldt einwohnerin/ was wollet jhr doch holen</l>
+            <l>Das/ so euch noch zur Zeit hat wenig nutz geschafft/</l>
+            <l>Weil jhr mit Dienstbarkeit deß Menschen seit behafft/</l>
+            <l>Vnd jhnen mehrentheils das Honig müsset Zollen?</l>
+            <l>Kompt/ kompt zu meinem Lieb/ auff jhren Rosenmundt/</l>
+            <l>Der mir mein kranckes Hertz gantz jnniglich verwundt/</l>
+            <l>Da solt jhr Himmelspeiß vnd vberflüssig brechen:</l>
+            <l>Wann aber jemandt ja sich vnderstehen kundt</l>
+            <l>Ihr vbel anzuthun/ dem sollet jhr zur stundt</l>
+            <l>Für Honig Galle sein/ vnd jhn zu tode stechen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

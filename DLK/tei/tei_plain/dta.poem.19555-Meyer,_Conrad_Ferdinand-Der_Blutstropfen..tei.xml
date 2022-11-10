@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Blutstropfen.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-23 2-3</measure>
+        <measure type="syllables">263</measure>
+        <measure type="tokens">161</measure>
+        <measure type="characters">1019</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Blutstropfen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zur Zeit der Lese war's im Winzerhaus</l>
+            <l>Des Herdes goldne Flamme prasselte,</l>
+            <l>Die Fensterscheiben überhauchten sich</l>
+            <l>Und draußen scholl das Evoë geisterhaft</l>
+            <l>Aus Nebeldämmer. Becher klangen. Jung</l>
+            <l>Und Alt empfand die bacchische Gewalt.</l>
+            <l>Mit einem zarten Schimmer röteten</l>
+            <l>Selbst ihr die Wangen sich, die unser Gast</l>
+            <l>Und dieser Erde Gast nicht lange war,</l>
+            <l>Ein stilles, scheues, ungezähmtes Kind.</l>
+            <l>Zum Reigen rief Lyaeus. Jene schlich</l>
+            <l>Sich weg. Ins Freie blickte sie hinaus</l>
+            <l>Durchs Fenster. Dann beschrieb sie träumerisch,</l>
+            <l>Die ganz sich unbeachtet Wähnende,</l>
+            <l>Die Scheibe mit dem Finger. Weh! umstellt,</l>
+            <l>Belauert wurde sie von einem Schwarm</l>
+            <l>Und überfallen. Rasch in Trümmer schlug,</l>
+            <l>Das Antlitz glutbedeckt, die Scheibe sie,</l>
+            <l>Sich selbst verwundend. Dieses Tüchlein hier,</l>
+            <l>Das als Reliquie mir im Schreine liegt,</l>
+            <l>Fing, über die verletzte Hand gelegt,</l>
+            <l>Das Quellen eines Tropfen Blutes auf,</l>
+            <l>Der warm ihr eben erst im Herzen rann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jung schwand sie hin, und kein Lebend'ger weiß,</l>
+            <l>Was dort geschrieben auf der Scheibe stand —</l>
+            <l>Als dieser bleiche Tropfen Bluts vielleicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

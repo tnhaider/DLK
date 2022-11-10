@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">63.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">509</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>63.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Maulwurf nennst du blind, weil er, wenn du ans Licht</l>
+            <l>Ihn ziehst, geblendet scheint, blind aber ist er nicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vielmehr es ist so fein sein Auge, daß es fühlet</l>
+            <l>Das Licht im dunkeln Grund, wo er die Gänge wühlet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum, grabend, gräbt er stets, die Sonn' im Rücken habend,</l>
+            <l>Am Morgen gegen West, und gegen Ost am Abend;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Sonne, die er doch nicht siehet, abgewendet,</l>
+            <l>Damit nicht in der Nacht ihr scharfer Glanz ihn blendet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Sohn, oft ist von Unempfindlichkeit der Schein</l>
+            <l>Nur eine äußerste Empfindlichkeit allein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

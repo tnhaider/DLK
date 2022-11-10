@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Candore et Odore.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">139</measure>
+        <measure type="characters">808</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Candore et Odore.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehst du der Lilie weisses Kleid</l>
+            <l>Aus dunkler Ferne winken?</l>
+            <l>Ihr Licht besiegt die Dunkelheit,</l>
+            <l>Wie Lunens Silberblinken.</l>
+            <l>O Blume, die in Eden spross,</l>
+            <l>In Eden sich zuerst erschloss,</l>
+            <l>Dich trübet keine Makel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die ihr der Giglio's Blume führt</l>
+            <l>In Wappen und Panieren;</l>
+            <l>Begnügt euch nicht, was jene ziert,</l>
+            <l>In Schild und Ring zu führen.</l>
+            <l>Der Giglio's Sinn ist lilienklar</l>
+            <l>Und lilienrein! Seyd treu und wahr</l>
+            <l>Auch ihr in Red' und Thaten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Spürst du der Lilie Ambraduft</l>
+            <l>Von dort herüberschweben?</l>
+            <l>Spürst rings um dich in lauer Luft</l>
+            <l>Die Wohlgerüche weben?</l>
+            <l>O Blume, die das Aug' entzückt,</l>
+            <l>O Blume, die das Herz erquickt,</l>
+            <l>O Blume, sey gepriesen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Giglio's Söhne, offenbart</l>
+            <l>Der Giglio's Seelenadel!</l>
+            <l>Der Giglio's Töchter, ach bewahrt</l>
+            <l>Der Giglio s Ruf vor Tadel!</l>
+            <l>Lasst eurer Tugend süssen Duft,</l>
+            <l>Des Vaterlands, des Auslands Luft</l>
+            <l>Bis an die Sterne würzen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

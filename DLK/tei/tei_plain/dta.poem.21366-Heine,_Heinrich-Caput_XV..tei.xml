@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XV.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">531</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er sprach mit schmunzelndem Gesicht,</l>
+            <l>Als ich ihn ansah verwundert:</l>
+            <l>„ich zahle einen Dukaten per Mann,</l>
+            <l>Als Sold, nach jedem Jahrhundert.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Saale wo die Pferde stehn</l>
+            <l>In langen, schweigenden Reihen,</l>
+            <l>Da rieb der Kaiser sich die Händ’,</l>
+            <l>Schien sonderbar sich zu freuen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er zählte die Gäule, Stück vor Stück,</l>
+            <l>Und klätschelte ihnen die Rippen;</l>
+            <l>Er zählte und zählte, mit ängstlicher Hast</l>
+            <l>Bewegten sich seine Lippen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„das ist noch nicht die rechte Zahl“ –</l>
+            <l>Sprach er zuletzt verdrossen –</l>
+            <l>„soldaten und Waffen hab’ ich genung,</l>
+            <l>Doch fehlt es noch an Rossen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

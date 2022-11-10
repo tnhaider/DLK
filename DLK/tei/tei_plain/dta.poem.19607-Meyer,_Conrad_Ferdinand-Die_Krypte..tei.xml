@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Krypte.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">602</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Krypte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Baut junge Meister, bauet hell und weit</l>
+            <l>Der Macht, dem Muth, der That, der Gunst der Stunde,</l>
+            <l>Der Dinge wahr und tief geschöpfter Kunde,</l>
+            <l>Dem ganzen Genienkreis der neuen Zeit!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Lebens unerschöpften Kräften weiht</l>
+            <l>Die freud'ge, lichtdurchfluthete Rotunde —</l>
+            <l>Baut auch die Krypte drunter, wo das wunde</l>
+            <l>Gemüth sich flüchten darf in Einsamkeit:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vergeßt die Krypte nicht! Dort soll sich neigen</l>
+            <l>Das heil'ge Haupt, das Dornen scharf umwinden!</l>
+            <l>Ich glaube: Ein'ge werden niedersteigen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort unten werden Ein'ge Trost empfinden.</l>
+            <l>Wir mögen, wenn die Leiden uns umnachten,</l>
+            <l>Nicht Glück noch Ruhm, nur größern Schmerz betrachten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

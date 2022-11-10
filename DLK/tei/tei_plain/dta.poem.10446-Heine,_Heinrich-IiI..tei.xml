@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">IiI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">687</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>IiI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Herz, mein Herz ist traurig,</l>
+            <l>Doch lustig leuchtet der Mai;</l>
+            <l>Ich stehe, gelehnt an der Linde,</l>
+            <l>Hoch auf der alten Bastei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da drunten fließt der blaue</l>
+            <l>Stadtgraben in stiller Ruh';</l>
+            <l>Ein Knabe fährt im Kahne,</l>
+            <l>Und angelt und pfeift dazu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jenseits erheben sich freundlich,</l>
+            <l>In winziger, bunter Gestalt,</l>
+            <l>Lusthäuser, und Gärten, und Menschen,</l>
+            <l>Und Ochsen, und Wiesen, und Wald.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Mädchen bleichen Wäsche,</l>
+            <l>Und springen im Gras' herum;</l>
+            <l>Das Mühlrad stäubt Diamanten,</l>
+            <l>Ich höre sein fernes Gesumm'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am alten grauen Thurme</l>
+            <l>Ein Schilderhäuschen steht;</l>
+            <l>Ein rothgeröckter Bursche</l>
+            <l>Dort auf und nieder geht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er spielt mit seiner Flinte,</l>
+            <l>Die funkelt im Sonnenroth,</l>
+            <l>Er präsentirt und schultert —</l>
+            <l>Ich wollt', er schösse mich todt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

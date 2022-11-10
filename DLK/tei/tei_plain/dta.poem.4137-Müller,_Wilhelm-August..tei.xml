@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">August.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-3 4-3</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">558</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>August.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann sich die hohen goldnen Halme neigen,</l>
+            <l>Wann um den Aehrenkranz in wilden Reigen</l>
+            <l>Die Schnitter mit den Schnitterinnen springen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann will ein Jeder um die Stirne schlingen</l>
+            <l>Ein buntes Band, und sich als Mäher zeigen;</l>
+            <l>Wer ist so arm, daß er sich nicht zu eigen</l>
+            <l>Ein Saatenfeld und Saamen könnt' erringen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Hoffnung pflügt für Alle das Gefilde,</l>
+            <l>Und flinke Wünsche streun mit vollen Händen</l>
+            <l>Die Körner in den weichen Schooß der Erden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir ist das Jahr mit den zwölf Monden milde,</l>
+            <l>Drum will ich dir die schärfste Sichel spenden,</l>
+            <l>Die nimmer stumpf soll in der Ernte werden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

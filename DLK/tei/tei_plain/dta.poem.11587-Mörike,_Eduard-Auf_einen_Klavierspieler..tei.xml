@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf einen Klavierspieler.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">81</measure>
+        <measure type="characters">461</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf einen Klavierspieler.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die alte, klepperdürre Mähre,</l>
+            <l>An der ihr jede Rippe zählen könnt,</l>
+            <l>Verwandelt sich im Griffe dieses Knaben</l>
+            <l>Zu einem Pferd von wilder, edler Art,</l>
+            <l>Das in Arabiens Gluth geboren ward!</l>
+            <l>Es will nicht Zeug, noch Zügel haben,</l>
+            <l>Es bäumt den Leib, zeigt wiehernd seine Zähne,</l>
+            <l>Dann schüttelt sich die weiße Mähne,</l>
+            <l>Wie Schaum des Meers zum Himmel sprizt,</l>
+            <l>Bis ihm, besiegt von dem gelass'nen Reiter,</l>
+            <l>Im Aug' die bittre Thräne blizt —</l>
+            <l>O horch! nun tanzt es sanft auf goldner Töne Leiter!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

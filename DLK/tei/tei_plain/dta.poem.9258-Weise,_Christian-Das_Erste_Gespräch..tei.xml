@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Erste Gespräch.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">42</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6 6-6 7-6</measure>
+        <measure type="syllables">307</measure>
+        <measure type="tokens">221</measure>
+        <measure type="characters">1208</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Erste Gespräch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach du unverhoffte stunde!</l>
+            <l>Bringstu nun den herben schluß/</l>
+            <l>Daß ich aussen mit dem munde</l>
+            <l>Mich zu was versprechen muß/</l>
+            <l>Da mein hertz in furcht und list</l>
+            <l>Weit davon entfernet ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. Steht es oben angeschrieben?</l>
+            <l>Und befihlt der himmel wol/</l>
+            <l>Daß man ein gemüthe lieben</l>
+            <l>Und ein anders hassen soll?</l>
+            <l>Oder ist der süsse stand</l>
+            <l>Nur ein blosser menschen-tand?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>3. Ach ich zweiffle daß von oben</l>
+            <l>Solcher zwang entspringen kan.</l>
+            <l>Wenn die sterne was verloben</l>
+            <l>Locken sie die sehnsucht an/</l>
+            <l>Daß die lieb in rath und that</l>
+            <l>Einen gleichen willen hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>4. Aber hier wil man verbinden</l>
+            <l>Was sich nicht zusammen schickt/</l>
+            <l>Ich sol eine lust empfinden/</l>
+            <l>Welche mich im hertzen drückt:</l>
+            <l>Und das absehn meiner treu</l>
+            <l>Ist umsonst und geht vorbey.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>5. Was ich liebe sol ich hassen.</l>
+            <l>Was ich hasse fällt mir zu/</l>
+            <l>Was ich halte sol ich lassen/</l>
+            <l>Mein verdruß soll meine ruh</l>
+            <l>Meine gunst soll meine pein</l>
+            <l>Und mein todt mein leben seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>6. Doch was wil ich weiter sagen</l>
+            <l>Nun es nicht zu ändern steht/</l>
+            <l>Und was sol ich ferner klagen</l>
+            <l>Denn es geht schon wie es geht:</l>
+            <l>Hab ich selbsten keine schuld</l>
+            <l>Nun so leid ichs mit gedult.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>7. Zwar wenn ich die lust zu büssen</l>
+            <l>Werde zu derselben gehn/</l>
+            <l>Will ich mir die augen schliessen</l>
+            <l>Und in den gedancken stehn/</l>
+            <l>Daß dieselbe/ die mich küst/</l>
+            <l>Mein erwünschtes liebgen ist.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

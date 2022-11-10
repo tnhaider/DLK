@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem menschlichen elende.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">217</measure>
+        <measure type="tokens">158</measure>
+        <measure type="characters">889</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1709</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20283-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem menschlichen elende.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schließt der arme mensch, wenn er den lebens-lauff</l>
+            <l>In dieser welt beginnt, vielmehr zu bittrem weinen,</l>
+            <l>Als um das licht zu sehn, die müden augen auf:</l>
+            <l>Er fühlt die sclaverey alsbald an arm und beinen:</l>
+            <l>Die windeln fesseln ihn: Und wenn ihn dann die brust</l>
+            <l>Der mutter nicht mehr säugt, so wird ihm seine lust</l>
+            <l>Mit ruthen eingetränckt, durch strenge zucht vergället.</l>
+            <l>Hat ihn die mannbarkeit auf freyen fuß gestellet,</l>
+            <l>So machen lieb und glück aus ihm ein gauckelspiel:</l>
+            <l>Er muß sein brod im schweiß und thränen essen:</l>
+            <l>Und offt erlangt er kaum so viel,</l>
+            <l>Wenn kranckheit, feind und noth ihn auf das schärffste pressen.</l>
+            <l>Bricht dann zuletzt das alter ein,</l>
+            <l>So stützet er mit einem morschen stabe</l>
+            <l>Den abgezehrten leib, und hincket so zu seinem grabe:</l>
+            <l>Drauf deckt den rest ein schmaler stein.</l>
+            <l>Was ist nun, armer mensch! dein trost und dein vergnügen?</l>
+            <l>Nichts, als nur diß allein,</l>
+            <l>Daß wieg und grab nah bey einander liegen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

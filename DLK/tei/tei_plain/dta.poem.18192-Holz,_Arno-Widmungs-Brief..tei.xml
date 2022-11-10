@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Widmungs-Brief.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-4 4-4 5-3</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">569</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Widmungs-Brief.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nimm's mir nicht krumm und verzeihe,</l>
+            <l>Wenn ich, ein winziger lyrischer Zwerg,</l>
+            <l>Dir dieses Liederbuch weihe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>'s ist nur ein spätnachhinkender Dank</l>
+            <l>Eines gealterten Jungen,</l>
+            <l>Der als Pennäler einst unter der Bank</l>
+            <l>Deine Dämonen verschlungen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unterm Diarium ganz heimlich der „Scherr“!</l>
+            <l>Ach, und auf dem Katheder</l>
+            <l>Gerbte ein alter, vertrockneter Herr</l>
+            <l>Altlateinisches Leder!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ehrlichen, eisernen Haß der Dressur,</l>
+            <l>Flammen, die nimmer erkalten —</l>
+            <l>Damals war's, daß ich's heilig mir schwur,</l>
+            <l>Gelt, und ich hab es gehalten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schreib mir </l>
+            <l>Daß ich, ein winziger lyrischer Zwerg,</l>
+            <l>Dir dieses Liederbuch weihe!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

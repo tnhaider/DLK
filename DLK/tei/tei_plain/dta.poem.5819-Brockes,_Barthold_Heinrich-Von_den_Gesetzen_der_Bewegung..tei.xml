@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Gesetzen der Bewegung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">88</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">349</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Gesetzen der Bewegung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn der bewegte Cörper nun</l>
+            <l>In seiner Fahrt mehr Hinderniß verspüret;</l>
+            <l>Wird er viel eher ruhn,</l>
+            <l>Da nemlich sich sein starcker Trieb verlieret.</l>
+            <l>So wird aus einem Stück die Kugel in der Erden,</l>
+            <l>Wenn sie dieselbe trifft, sehr schnell gehemmet werden,</l>
+            <l>Die, wenn sie in der Lufft, die weich, ohn Einhalt flöge;</l>
+            <l>Von ihrem Flug die Strich viel weit- und länger zöge.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

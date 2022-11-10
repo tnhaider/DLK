@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViII.  
+  Der Phönix.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">529</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViII.  
+  Der Phönix.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Mastbaum gelehnt, auf dem hohen Verdeck,</l>
+            <l>Stand ich und hört' ich des Vogels Gesang.</l>
+            <l>Wie schwarzgrüne Rosse mit silbernen Mähnen,</l>
+            <l>Sprangen die weißgekräuselten Wellen,</l>
+            <l>Wie Schwänenzüge schifften vorüber,</l>
+            <l>Mit schimmernden Segeln, die Helgolander,</l>
+            <l>Die kecken Nomaden der Nordsee;</l>
+            <l>Ueber mein Haupt, im ewigen Blau,</l>
+            <l>Hinflatterte weißes Gewölk</l>
+            <l>Und prangte die ewige Sonne,</l>
+            <l>Die Rose des Himmels, die feuerblühende,</l>
+            <l>Die freudvoll sich im Meer bespiegelte;</l>
+            <l>Und Himmel und Meer und mein eignes Herz</l>
+            <l>Ertönten im Nachhall:</l>
+            <l>Sie liebt ihn! sie liebt ihn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

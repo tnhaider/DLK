@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nachts.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-5 2-7</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">434</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nachts.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und klingend jezt den jungen Hain durchläuft!</l>
+            <l>Da noch der freche Tag verstummt,</l>
+            <l>Hört man der Erdenkräfte flüsterndes Gedränge,</l>
+            <l>Das aufwärts in die zärtlichen Gesänge</l>
+            <l>Der reingestimmten Lüfte summt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie ein Gewebe zuckt die Luft manchmal,</l>
+            <l>Durchsicht'ger stets und leichter aufzuwehen,</l>
+            <l>Dazwischen hört man weiche Töne gehen,</l>
+            <l>Von sel'gen Feen, die im Sternensaa!</l>
+            <l>Beim Sphärenklang,</l>
+            <l>Und fleißig mit Gesang</l>
+            <l>Die goldnen Spindeln hin und wieder drehen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

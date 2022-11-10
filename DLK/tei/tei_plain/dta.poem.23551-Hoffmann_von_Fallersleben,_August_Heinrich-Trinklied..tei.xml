@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trinklied.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">221</measure>
+        <measure type="tokens">165</measure>
+        <measure type="characters">898</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trinklied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Glas in der Rechten,</l>
+            <l>Die Flasch' in der Linken,</l>
+            <l>So wollen wir fechten,</l>
+            <l>Nicht wanken, nicht sinken!</l>
+            <l>Krieg dem Durst und Krieg dem Kummer!</l>
+            <l>Und ein Bündniß mit dem Wein!</l>
+            <l>Krieg der Nacht und Krieg dem Schlummer!</l>
+            <l>Schenkt mir Muth und Feuer ein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Glas in der Rechten,</l>
+            <l>Die Flasch' in der Linken,</l>
+            <l>So wollen wir fechten,</l>
+            <l>Nicht wanken, nicht sinken!</l>
+            <l>Wohlig sitzen wir im Weinhaus,</l>
+            <l>Unser Krieg ist wie ein Traum;</l>
+            <l>Selbst die Welt, das alte Beinhaus,</l>
+            <l>Hat Respect und rührt sich kaum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Glas in der Rechten,</l>
+            <l>Die Flasch' in der Linken,</l>
+            <l>So wollen wir fechten,</l>
+            <l>Nicht wanken, nicht sinken!</l>
+            <l>Eine Flasche hat geschlagen</l>
+            <l>Unsre Feinde kreuz und quer;</l>
+            <l>Und da stehen wir und fragen:</l>
+            <l>Giebt's denn keine Feinde mehr?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Glas in der Rechten,</l>
+            <l>Die Flasch' in der Linken,</l>
+            <l>So wollen wir fechten,</l>
+            <l>Nicht wanken, nicht sinken!</l>
+            <l>Und das Ende von dem Liede?</l>
+            <l>Ei, was machen wir uns draus!</l>
+            <l>Alles Strebens Frucht ist Friede —</l>
+            <l>Wir, wir gehn im Sturm nach Haus.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Der Lenz schwebt hernieder</title>
+        <author>
+          <persName>
+            <surname>Hensel</surname>
+            <forename>Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">88</measure>
+        <measure type="tokens">64</measure>
+        <measure type="characters">374</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Der Lenz schwebt hernieder</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Lenz schwebt hernieder</l>
+            <l>Aus schimmernder Luft,</l>
+            <l>Bringt Farben und Lieder</l>
+            <l>Und Wärme und Duft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und willst du mich ziehen? –</l>
+            <l>Bin zierlich und fein; –</l>
+            <l>So lieblich mein Blühen,</l>
+            <l>Mein Duften so rein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Lenz schwebt hernieder</l>
+            <l>Aus schimmernder Luft,</l>
+            <l>Bringt Farben und Lieder</l>
+            <l>Und Wärme und Duft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und willst du mich ziehen? –</l>
+            <l>Bin zierlich und fein; –</l>
+            <l>So lieblich mein Blühen,</l>
+            <l>Mein Duften so rein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

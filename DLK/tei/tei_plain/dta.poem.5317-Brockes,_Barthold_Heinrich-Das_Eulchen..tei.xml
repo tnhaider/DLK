@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Eulchen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">247</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">970</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1736</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198582"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Eulchen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Abend saß ich jüngst, gelassen und in Ruh,</l>
+            <l>In einem kleinem Garten-Zimmer,</l>
+            <l>Und sah durchs Fenster-Glas, wie sich des Tages Schim-</l>
+            <l>mer</l>
+            <l>Gemach verringerte: Die Schatten nahmen zu.</l>
+            <l>Indem erblicket’ ich ein ämsiges Geschwebe.</l>
+            <l>Von einer Spinnen war ein ziemlich starck Gewebe</l>
+            <l>Jm Zimmer, vor den Scheiben her, gespannt,</l>
+            <l>Und, zwischen dieser falschen Wand,</l>
+            <l>Sah ich am Scheiben-Glas’ ein weisses Eulchen fliegen</l>
+            <l>Stets auf und nieder, hin und her.</l>
+            <l>Es schien, ob sucht’ es blos am Lichte sein Vergnügen,</l>
+            <l>Und, daß es blos dadurch gesichert wär.</l>
+            <l>Jhr schwartzer Feind, die Spinne, ruhte nicht,</l>
+            <l>Sie lieff’ bald in die läng’, bald in die qver,</l>
+            <l>Mit offuen Klauen, doch des Himmels Licht,</l>
+            <l>Des Eulchens Augenmerck, wodurch es nicht zurücke,</l>
+            <l>Und nur stets vorwerts flog, befreit es von dem Stricke</l>
+            <l>Und seinem Untergang, indem es ungefehr,</l>
+            <l>Nach langem Flattern, in der Scheibe</l>
+            <l>An eine Spalte kam,</l>
+            <l>Und durch dieselbige sich seinem Tod’ entzog,</l>
+            <l>Die Freyheit frölich nahm,</l>
+            <l>Und nach dem lang gesuchten Lichte flog.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Des Dichters Abendgang .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">519</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Des Dichters Abendgang .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ergehst du dich im Abendlicht, —</l>
+            <l>Das ist die Zeit der Dichterwonne —</l>
+            <l>So wende stets dein Angesicht</l>
+            <l>Zum Glanze der gesunknen Sonne!</l>
+            <l>In hoher Feier schwebt dein Geist,</l>
+            <l>Du schauest in des Tempels Hallen,</l>
+            <l>Wo alles Heil’ge sich erschleußt</l>
+            <l>Und himmlische Gebilde wallen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann aber um das Heiligthum</l>
+            <l>Die dunkeln Wolken niederrollen:</l>
+            <l>Dann ist’s vollbracht, du kehrest um,</l>
+            <l>Beseligt von dem Wundervollen.</l>
+            <l>In stiller Rührung wirst du gehn,</l>
+            <l>Du trägst in dir des Liedes Segen;</l>
+            <l>Das Lichte, das du dort gesehn,</l>
+            <l>Umglänzt dich mild auf finstern Wegen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

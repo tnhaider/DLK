@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ii.</title>
+        <author>
+          <persName>
+            <surname>Baudelaire</surname>
+            <forename>Charles</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">534</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ii.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den trunknen Blick dem Tag erschlossen,</l>
+            <l>Sah meiner Kammer Elend ich,</l>
+            <l>Und vom Bewußtsein neu durchflossen,</l>
+            <l>Fühlt ich der Sorgen grimmen Stich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Uhr mit ihren dumpfen Schlägen</l>
+            <l>Schlug Mittag, und vom Himmelszelt</l>
+            <l>Sank finsteres Gewölk und Regen</l>
+            <l>Auf diese frosterstarrte Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den trunknen Blick dem Tag erschlossen,</l>
+            <l>Sah meiner Kammer Elend ich,</l>
+            <l>Und vom Bewußtsein neu durchflossen,</l>
+            <l>Fühlt ich der Sorgen grimmen Stich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Uhr mit ihren dumpfen Schlägen</l>
+            <l>Schlug Mittag, und vom Himmelszelt</l>
+            <l>Sank finsteres Gewölk und Regen</l>
+            <l>Auf diese frosterstarrte Welt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

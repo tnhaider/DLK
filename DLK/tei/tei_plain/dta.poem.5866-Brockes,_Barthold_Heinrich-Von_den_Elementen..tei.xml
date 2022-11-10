@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Elementen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">746</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Elementen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube gleichwol doch von Geistern, die so klug,</l>
+            <l>Daß jeder seinen Satz, mit gutem Grund und Fug,</l>
+            <l>Vertheidiget und unterstützet;</l>
+            <l>Und daß die so gelehrten Lehren,</l>
+            <l>Wol etwan zu vereinen wären;</l>
+            <l>Wenn man nur wie man billig sollte,</l>
+            <l>Die Doppel-Deutigkeit der Wörter ändern wollte.</l>
+            <l>Es sey die Lufft, es sey die Gluht,</l>
+            <l>Es sey die Erd’, es sey die Fluht,</l>
+            <l>So man zum Grunde setzt der Welt, und aller Sachen;</l>
+            <l>Sie sind Materie, aus welcher sie zu machen.</l>
+            <l>Es kommt darauf nur an, mit Sorgfalt nachzusehn,</l>
+            <l>Wie eigentlich das, was sie Elementen</l>
+            <l>In ihren Lehren nennten,</l>
+            <l>Und so verschiedentlich vermischten; zu verstehn.</l>
+            <l>Man nehm in seiner Lehr</l>
+            <l>Von Elementen, eins, man nehme mehr;</l>
+            <l>So kan man, wie vorhin, durch künsteln, drehen, dichten,</l>
+            <l>Ein neues Lehr-Gebäu daraus errichten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

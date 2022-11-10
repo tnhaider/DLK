@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet auf eine Hochzeit.</title>
+        <author>
+          <persName>
+            <surname>Mühlpfort</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">129</measure>
+        <measure type="characters">719</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1686</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20414-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet auf eine Hochzeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun will Cupido sich mit Myrten wieder schmücken/</l>
+            <l>Er legt die Wermuth hin so nur bey Gräbern nützt/</l>
+            <l>Und weil die Mutter selbst im Sternen Schmucke blitzt/</l>
+            <l>So ist er auch bemüht sich zu dem Fest zu schicken/</l>
+            <l>Er sieht die schöne Braut mit höchster Anmuth blicken/</l>
+            <l>Und wie der holde Glantz des Liebsten Hertze ritzt.</l>
+            <l>Er lacht/ daß er so scharff hat seinen Pfeil gespitzt/</l>
+            <l>Und ihn so meisterlich kan in das Hertze drücken.</l>
+            <l>Was will sie/ Jungfer Braut/ noch ihre Glut verdecken?</l>
+            <l>Die Liebe deckt man nicht wie sehr man sie verhelt/</l>
+            <l>Jhr ewig Zunder brennt im Mittelpunct der Seel/</l>
+            <l>Die nichts als Gegengunst des Liebsten kan erstecken.</l>
+            <l>Und weil sie der gewiß/ so mag sie sich drauf freuen/</l>
+            <l>Die Venus selbsten will umbs Bette Blumen streuen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

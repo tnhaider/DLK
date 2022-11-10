@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Eidgenossen.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">127</measure>
+        <measure type="characters">700</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Eidgenossen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es war einmal ein arm Schulmeisterlein,</l>
+            <l>Der wollt' in seinem Lohn verbessert sein.</l>
+            <l>Doch war sein Dorf nur klein und, Gott erbarm!</l>
+            <l>Die Bauern waren alle gar zu arm.</l>
+            <l>Drum ging zum reichen Dorf der arme Mann!</l>
+            <l>Trug dort den Bauern seine Dienste an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er pries den Leuten seine Tüchtigkeit,</l>
+            <l>Auch könn' er Wetter machen jederzeit.</l>
+            <l>Da sprachen sie: das ist für uns der Mann!</l>
+            <l>Und nahmen ihn sogleich zum Meßner an.</l>
+            <l>Doch blieb das Wetter immer wie es war,</l>
+            <l>Heut neblicht, regnicht, morgen hell und klar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da sagten sie: ist das nun unser Lohn?</l>
+            <l>Solch Wetter hatten wir ja immer schon.</l>
+            <l>Ja, sprach er, ja, sobald ihr einig seid,</l>
+            <l>Bin ich zum Wettermachen gleich bereit.</l>
+            <l>Doch war von Einigkeit nicht eine Spur,</l>
+            <l>Denn jeder wollte stets </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

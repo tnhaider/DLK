@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">PsALM</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">37</measure>
+        <measure type="verses_per_stanza">1-9 2-9 3-9 4-9 5-1</measure>
+        <measure type="syllables">612</measure>
+        <measure type="tokens">356</measure>
+        <measure type="characters">2298</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>PsALM</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist ein Licht, das der Wind ausgelöscht hat.</l>
+            <l>Es ist ein Heidekrug, den am Nachmittag ein Betrunkener verläßt.</l>
+            <l>Es ist ein Weinberg, verbrannt und schwarz mit Löchern voll Spinnen.</l>
+            <l>Es ist ein Raum, den sie mit Milch getüncht haben.</l>
+            <l>Der Wahnsinnige ist gestorben. Es ist eine Insel der Südsee,</l>
+            <l>Den Sonnengott zu empfangen. Man rührt die Trommeln.</l>
+            <l>Die Männer führen kriegerische Tänze auf.</l>
+            <l>Die Frauen wiegen die Hüften in Schlinggewächsen und Feuerblumen,</l>
+            <l>Wenn das Meer singt. O unser verlorenes Paradies.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Nymphen haben die goldenen Wälder verlassen.</l>
+            <l>Man begräbt den Fremden. Dann hebt ein Flimmerregen an.</l>
+            <l>Der Sohn des Pan erscheint in Gestalt eines Erdarbeiters,</l>
+            <l>Der den Mittag am glühenden Asphalt verschläft.</l>
+            <l>Es sind kleine Mädchen in einem Hof in Kleidchen voll herzzerreißender Armut!</l>
+            <l>Es sind Zimmer, erfüllt von Akkorden und Sonaten.</l>
+            <l>Es sind Schatten, die sich vor einem erblindeten Spiegel umarmen.</l>
+            <l>An den Fenstern des Spitals wärmen sich Genesende.</l>
+            <l>Ein weißer Dampfer am Kanal trägt blutige Seuchen herauf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die fremde Schwester erscheint wieder in jemands bösen Träumen.</l>
+            <l>Ruhend im Haselgebüsch spielt sie mit seinen Sternen.</l>
+            <l>Der Student, vielleicht ein Doppelgänger, schaut ihr lange vom Fenster nach.</l>
+            <l>Hinter ihm steht sein toter Bruder, oder er geht die alte Wendeltreppe herab.</l>
+            <l>Im Dunkel brauner Kastanien verblaßt die Gestalt des jungen Novizen.</l>
+            <l>Der Garten ist im Abend. Im Kreuzgang flattern die Fledermäuse umher.</l>
+            <l>Die Kinder des Hausmeisters hören zu spielen auf und suchen das Gold des Himmels.</l>
+            <l>Endakkorde eines Quartetts. Die kleine Blinde läuft zitternd durch die Allee,</l>
+            <l>Und später tastet ihr Schatten an kalten Mauern hin, umgeben vom Märchen und heiligen               Legenden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist ein leeres Boot, das am Abend den schwarzen Kanal heruntertreibt.</l>
+            <l>In der Düsternis des alten Asyls verfallen menschliche Ruinen.</l>
+            <l>Die toten Waisen liegen an der Gartenmauer.</l>
+            <l>Aus grauen Zimmern treten Engel mit kotgefleckten Flügeln.</l>
+            <l>Würmer tropfen von ihren vergilbten Lidern.</l>
+            <l>Der Platz vor der Kirche ist finster und schweigsam, wie in den Tagen der               Kindheit.</l>
+            <l>Auf silbernen Sohlen gleiten frühere Leben vorbei</l>
+            <l>Und die Schatten der Verdammten steigen zu den seufzenden Wassern nieder.</l>
+            <l>In seinem Grab spielt der weiße Magier mit seinen Schlangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schweigsam über der Schädelstätte öffnen sich Gottes goldene Augen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

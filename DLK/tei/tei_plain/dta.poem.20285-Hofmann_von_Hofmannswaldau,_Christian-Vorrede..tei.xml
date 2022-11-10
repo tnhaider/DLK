@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorrede.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">668</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorrede.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn so viel zucker wär/ als schnee/</l>
+            <l>Und so viel bienen/ als der fliegen;</l>
+            <l>Wenn alle berge Hyblens klee/</l>
+            <l>Und des Hymettus kräuter trügen/</l>
+            <l>Aus allen eichen trieff’ ein honig von Athen/</l>
+            <l>Und man auff dörnern nichts als feigen sähe stehn;</l>
+            <l>Wenn milch in allen ströhmen fließ’/</l>
+            <l>Und reben-safft aus allen qvellen;</l>
+            <l>Wenn alle schleen wären süß/</l>
+            <l>Im meere lauter nectar-wellen;</l>
+            <l>Wenn nur jaßminen-oel der wolcken nässe wär/</l>
+            <l>Der monde nichts als thau von zimmet flößte her;</l>
+            <l>Wenn die gestirne schwitzten safft/</l>
+            <l>Der Würtz und balsam überstiege/</l>
+            <l>Und dieser süßigkeiten krafft/</l>
+            <l>In einen geist und kern gediege/</l>
+            <l>So würde dieser doch bey liebe wermuth seyn:</l>
+            <l>Denn diese zuckert auch das bittre sterben ein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

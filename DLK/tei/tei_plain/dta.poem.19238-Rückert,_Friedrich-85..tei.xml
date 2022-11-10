@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">85.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">602</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>85.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der höchsten Liebe Bild, die Henne sieh, die brütet,</l>
+            <l>Wie mit der Flügel Schild sie ihre Brut behütet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie hat der Küchlein viel, doch jedes ist gezählt,</l>
+            <l>Und ruhig ist sie nicht, wenn ihr nur eines fehlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Versammeln unter sich wird sie den ganzen Haufen,</l>
+            <l>Wie weit auch sich von ihr die einzelnen verlaufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie angelegen läßt sie sich es seyn, zu locken;</l>
+            <l>Kanst du, verlaufne Brut, dagegen dich verstocken?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und lockt dich nicht herbei der Mutterliebe Schrei,</l>
+            <l>So schrecke dich von dort mit dem Gekreisch der Weih.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kriech unter, und du bist vor dem Gekreisch geborgen,</l>
+            <l>Und für dein Futter laß der Mutter Liebe sorgen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

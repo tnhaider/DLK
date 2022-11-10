@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die 2. Strophe.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">502</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1618</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20628-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die 2. Strophe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie/ grosser freund/ Was will dzsagt</l>
+            <l>Das du allein in diser fraid</l>
+            <l>Runtzlest dein angesicht mit laid/</l>
+            <l>Als ob du ein vrsach zuklagen?</l>
+            <l>Oder mag es wol müglich sein/</l>
+            <l>Das dein gehör noch nicht vernommen/</l>
+            <l>Wie dise stund alher soll kommen</l>
+            <l>Der augen lust/ der sehlen schein?</l>
+            <l>Es ist ein Fürstin ausserkoren/</l>
+            <l>Von königlichem blut geboren/</l>
+            <l>Die gröste Zier auß Engelland/</l>
+            <l>Nu aber die erst in Teutschland.</l>
+            <l>Der Pöfelpfleget Sie zu nennen</l>
+            <l>Die Churfürstin Elisabeth/</l>
+            <l>Die aber so sie besser kennen</l>
+            <l>Der Schön/ vnd Keuschheit Mayesteth.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

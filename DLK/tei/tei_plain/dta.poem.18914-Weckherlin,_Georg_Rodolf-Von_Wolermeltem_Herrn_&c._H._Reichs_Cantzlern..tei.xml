@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von Wolermeltem Herrn   &amp;c.  
+  H. Reichs Cantzlern.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-4 4-5</measure>
+        <measure type="syllables">167</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">658</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von Wolermeltem Herrn   &amp;c.  
+  H. Reichs Cantzlern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er kan mit solcher krafft/ vnd wunderreichẽ schein</l>
+            <l>Die forcht in vnserm feind/ den muht in Vns</l>
+            <l>vermehren/</l>
+            <l>Dz jn als eine Soñ/ nicht einen </l>
+            <l>Mit wunder möniglich muß sehen/ segnen/ ehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zuflüchtig suchen jhn reich vnd arm/ groß vñ klein/</l>
+            <l>Die pleget seines rahts vñ trosts Er zugewehren;</l>
+            <l>Daß Er als der Welt </l>
+            <l>haupt zu sein</l>
+            <l>(allfähig) allein wehrt zu rühmen/ zu begehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darumb verbleibet Er (ein wunder aller zeit)</l>
+            <l>Durch seiner Gotsforcht/ Trew vnnd Weißheit</l>
+            <l>edle thaten/</l>
+            <l>Der inhalt aller lehr; der probstein weyser leut;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Fridens lehr vnd lieb; ein beyspil der Soldaten;</l>
+            <l>Der Spiegel guter Räht; Sigweyser in dem</l>
+            <l>streit;</l>
+            <l>Der Tugent gantze Sum; Lehrbuch der Poten-</l>
+            <l>taten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

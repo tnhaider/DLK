@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxIV.  
+  An die Clio.</title>
+        <author>
+          <persName>
+            <surname>Czepko</surname>
+            <forename>Daniel von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">480</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20871-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxIV.  
+  An die Clio.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nu trit/ O Clio/ ab/ hier ist dein End vnd Ziel;</l>
+            <l>Ob vntern Sternen du der </l>
+            <l>Die du dir vorgesatzt/ bleibst du doch vnten liegen;</l>
+            <l>Der Ruhm der macht dich stum/ der scham bezwingt dein Spiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vnd wo der </l>
+            <l>Sein </l>
+            <l>Kanst du die Andacht nicht/ die in dir brennt/ bezeigen/</l>
+            <l>Denckst du gleich noch so tieff vnd sinckst auff beyde Knie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich muß es ja gestehn/ diß Werck trifft hie nicht ein/</l>
+            <l>Doch wo der </l>
+            <l>Daß bey mir Marspiter/ der wilde Gast/ gelegen/</l>
+            <l>Als du es auff gesatzt wirst du entschuldigt sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

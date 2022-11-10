@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XXV.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">531</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XXV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch unsre schöne Poesie</l>
+            <l>Erlischt, sie ist schon ein wenig</l>
+            <l>Erloschen; mit andern Königen stirbt</l>
+            <l>Auch Freiligraths Mohrenkönig.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„der Enkel wird essen und trinken genug,</l>
+            <l>Doch nicht in beschaulicher Stille;</l>
+            <l>Es poltert heran ein Spektakelstück,</l>
+            <l>Zu Ende geht die Idylle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„o, könntest du schweigen, ich würde dir</l>
+            <l>Das Buch des Schicksals entsiegeln,</l>
+            <l>Ich ließe dir spätere Zeiten seh’n</l>
+            <l>In meinen Zauberspiegeln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„was ich den sterblichen Menschen nie</l>
+            <l>Gezeigt, ich möcht’ es dir zeigen:</l>
+            <l>Die Zukunft deines Vaterlands –</l>
+            <l>Doch ach! du kannst nicht schweigen!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

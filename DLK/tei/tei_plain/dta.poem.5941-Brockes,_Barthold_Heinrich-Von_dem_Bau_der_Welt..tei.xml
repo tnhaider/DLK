@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Bau der Welt.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">599</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Bau der Welt.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jedoch spricht die Vernunft das Urtheil gegen ihn.</l>
+            <l>Wofern er will in Zweifel ziehn</l>
+            <l>Ein Wesen, das geschickt die Stäubgen zu regieren,</l>
+            <l>Die er in leeren Raum lässt allenthalben wallen;</l>
+            <l>Wie können Cörper doch, die immer abwärts fallen,</l>
+            <l>Um ungezählte Welte zu formiren,</l>
+            <l>Sich zu vereinen sich bemühn?</l>
+            <l>Wie kan er doch mit Recht verlangen und gedencken,</l>
+            <l>Daß sie, indem sie sich gerad herunter sencken,</l>
+            <l>Sich selber könnten abwerts lencken?</l>
+            <l>Sie hätten sonder End herunter sincken müssen,</l>
+            <l>Ohn im geringsten sich zu binden und zu schlüssen,</l>
+            <l>Wofern man nicht auf solch ein Wesen dencket,</l>
+            <l>Das mit Bedacht sie abwerts lencket.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

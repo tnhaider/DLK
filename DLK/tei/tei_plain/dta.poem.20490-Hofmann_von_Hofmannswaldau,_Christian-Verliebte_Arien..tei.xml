@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verliebte Arien.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">250</measure>
+        <measure type="tokens">166</measure>
+        <measure type="characters">969</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verliebte Arien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll Solimene meine glut/</l>
+            <l>Die mir versehret marck und blut/</l>
+            <l>Gantz ohne deine rettung brennen?</l>
+            <l>Du äscherst meine brust ja ein/</l>
+            <l>Mein hertze muß entzündet seyn/</l>
+            <l>Und du wilst keine flammen kennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Befrage selbst das heisse licht/</l>
+            <l>Das aus den hellen augen bricht/</l>
+            <l>Was feuer es in mir erwecket.</l>
+            <l>Es schmeltzt der seelen hartes eiß/</l>
+            <l>Und machet Salamander heiß/</l>
+            <l>Und ich soll seyn unangestecket.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein auge hat mich so verführt/</l>
+            <l>Mich hat dein plitz durchaus gerührt/</l>
+            <l>Den ich nicht konte sehen kommen/</l>
+            <l>Ich dachte wolcken anzusehn/</l>
+            <l>Mit wasser-qvellen umzugehn/</l>
+            <l>Und bin dadurch der ruh benommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kan nicht wider den betrug/</l>
+            <l>Wer ist bey solchen flammen klug?</l>
+            <l>Sie können bienen nur vertreiben.</l>
+            <l>Der mensch/ der leichte feuer fängt/</l>
+            <l>Ist wie die motte die sich sengt/</l>
+            <l>Und doch nicht kan vom feuer bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verleugne nicht/ was du vollbracht/</l>
+            <l>Du hast durch feur mich arm gemacht/</l>
+            <l>Wilstu den mordbrand nicht bekennen?</l>
+            <l>So wisse doch/ daß alle welt</l>
+            <l>Dir das gerechte urthel fällt:</l>
+            <l>Wer andre brennt/ muß wieder brennen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

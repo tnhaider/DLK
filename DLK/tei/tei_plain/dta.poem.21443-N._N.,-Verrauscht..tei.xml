@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verrauscht.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">93</measure>
+        <measure type="tokens">63</measure>
+        <measure type="characters">371</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verrauscht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sturmwolken mir zu Häupten zieh’n,</l>
+            <l>Verweht der Vögel Melodien</l>
+            <l>Nach Südens Zauberlande;</l>
+            <l>Nur einige Blumen einsam blüh’n,</l>
+            <l>Im Sonnenstrahl sie nicht erglüh’n,</l>
+            <l>Nun welken sie im Sande.</l>
+            <l>Wirr braut der Nebel auf dem Fluß,</l>
+            <l>Verrauscht ist längst der Liebe Kuß,</l>
+            <l>Wie schwand der Lenz so balde!</l>
+            <l>Rauh breitet nun sein Leichentuch</l>
+            <l>Der Winter. Und ein düst’rer Fluch</l>
+            <l>Legt sich auf Flur und Halde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

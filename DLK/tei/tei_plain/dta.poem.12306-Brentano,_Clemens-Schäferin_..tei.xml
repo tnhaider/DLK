@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schäferin .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">555</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schäferin .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schlaf allhie,               </l>
+            <l>Bey meinem Vieh,</l>
+            <l>Ich schlaf im Moos,</l>
+            <l>Dem Glück im Schoos;</l>
+            <l>Dein Schloß ich schau,</l>
+            <l>Es liegt vor mir,</l>
+            <l>Zu sagen schier,</l>
+            <l>Wie kühler Thau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt Morgenroth</l>
+            <l>So lob ich Gott,</l>
+            <l>Das Feldgeschrey</l>
+            <l>Wird jubelnd neu</l>
+            <l>Beym goldnen Lohn,</l>
+            <l>Die Morgenstund</l>
+            <l>Hat Gold im Mund,</l>
+            <l>Baut mir den Thron.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Schloß ich zieh,</l>
+            <l>Zu dir ich flieh,</l>
+            <l>Lieb Schäferin,</l>
+            <l>Nach deinem Sinn</l>
+            <l>Mein Scepter wird</l>
+            <l>Ein Hirtenstab,</l>
+            <l>Und was ich hab,</l>
+            <l>Dich Schäfrin ziert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich Schäferin,</l>
+            <l>Mit leichtem Sinn,</l>
+            <l>Sing ruhig fort</l>
+            <l>Mein sinnig Wort:</l>
+            <l>Ein jeder bleib</l>
+            <l>Bey seiner Heerd,</l>
+            <l>Den König ehrt</l>
+            <l>Kein Schäferweib.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

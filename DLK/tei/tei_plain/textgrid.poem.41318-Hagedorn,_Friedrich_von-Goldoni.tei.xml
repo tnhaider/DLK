@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Goldoni</title>
+        <author>
+          <persName>
+            <surname>Hagedorn</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">784</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1731</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Goldoni</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von vielen, die sich jetzt Thalien zugesellen,</l>
+            <l>Kennt keiner, so wie er, was bessert und gefällt.</l>
+            <l>Der Schauplatz und die heut'ge Welt</l>
+            <l>Sind seiner Fabeln stete Quellen.</l>
+            <l>Wie lehrreich rühren uns, durch ihn,</l>
+            <l>Bettina, und ihr Pasqualin!</l>
+            <l>Die Kleinigkeiten selbst, die nur zu spielen scheinen,</l>
+            <l>Auch die sieht man von ihm empfindlich angebracht,</l>
+            <l>Und wer nicht beim Goldoni lacht,</l>
+            <l>Der kann beim Holberg weinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von vielen, die sich jetzt Thalien zugesellen,</l>
+            <l>Kennt keiner, so wie er, was bessert und gefällt.</l>
+            <l>Der Schauplatz und die heut'ge Welt</l>
+            <l>Sind seiner Fabeln stete Quellen.</l>
+            <l>Wie lehrreich rühren uns, durch ihn,</l>
+            <l>Bettina, und ihr Pasqualin!</l>
+            <l>Die Kleinigkeiten selbst, die nur zu spielen scheinen,</l>
+            <l>Auch die sieht man von ihm empfindlich angebracht,</l>
+            <l>Und wer nicht beim Goldoni lacht,</l>
+            <l>Der kann beim Holberg weinen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

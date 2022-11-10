@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der graue Geist</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">214</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">840</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der graue Geist</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Morgen leuchtet voll Vertrauen,</l>
+            <l>Die Höhen friedlich sich beschauen.</l>
+            <l>Dort auf dem Bergkamm</l>
+            <l>Auf dem frischbetauten Rasen</l>
+            <l>Drei blanke Kühe ernst geruhsam grasen,</l>
+            <l>Stehn aufgerichtet kühn,</l>
+            <l>Am Abgrund ragen sie vermessen.</l>
+            <l>Die Wolken an der Wälder Spitzen fressen,</l>
+            <l>Im Nebelduft verwandelt sich das Grün.</l>
+            <l>Der Nebel schließt des Grundes schroffe Kluft.</l>
+            <l>Es wandert durch den Morgen stillen Mundes</l>
+            <l>Der graue Geist, der heißt: »Vergessen«.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Morgen leuchtet voll Vertrauen,</l>
+            <l>Die Höhen friedlich sich beschauen.</l>
+            <l>Dort auf dem Bergkamm</l>
+            <l>Auf dem frischbetauten Rasen</l>
+            <l>Drei blanke Kühe ernst geruhsam grasen,</l>
+            <l>Stehn aufgerichtet kühn,</l>
+            <l>Am Abgrund ragen sie vermessen.</l>
+            <l>Die Wolken an der Wälder Spitzen fressen,</l>
+            <l>Im Nebelduft verwandelt sich das Grün.</l>
+            <l>Der Nebel schließt des Grundes schroffe Kluft.</l>
+            <l>Es wandert durch den Morgen stillen Mundes</l>
+            <l>Der graue Geist, der heißt: »Vergessen«.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

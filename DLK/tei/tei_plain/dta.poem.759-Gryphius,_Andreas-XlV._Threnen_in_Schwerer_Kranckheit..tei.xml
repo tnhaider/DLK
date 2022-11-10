@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XlV.  Threnen in Schwerer Kranckheit.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">722</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XlV.  Threnen in Schwerer Kranckheit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mjr ist ich weiß nicht wie/ ich seufftze für vnd für. </l>
+            <l>Ich weyne tag vnd nacht/ ich sitz in tausend schmertzen; </l>
+            <l>Vnd tausend fürcht ich noch/ die krafft in meinem hertzen</l>
+            <l>Verschwind/ der geist verschmacht/ die hände sincken mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die wangen werden bleich/ der schönen Augen zier </l>
+            <l>Vergeht/ gleich als der Schnee der schon verbrandten kertzen</l>
+            <l>Die Seele wird besturmbt gleich wie die </l>
+            <l>Was ist diß leben doch</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was bilden wir vns eyn! was wündschen wir zu haben?</l>
+            <l>Jtzt sindt wir hoch vnd groß/ vnd morgen schon vergraben:</l>
+            <l>Jtzt Blumen/ morgen kot/ wir sindt ein windt/ ein schaum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Nebel/ eine Bach/ ein reiff/ ein Taw’ ein schaten.</l>
+            <l>Jtzt was vnd morgen nichts/ vnd was sind vnser thaten?</l>
+            <l>Als ein/ mit herber angst durchauß vermischter Traum.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

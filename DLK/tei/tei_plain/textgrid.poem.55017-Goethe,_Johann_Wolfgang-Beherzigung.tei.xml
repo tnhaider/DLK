@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Beherzigung</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-4 3-8 4-4</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">734</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1776</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Beherzigung</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, was soll der Mensch verlangen?</l>
+            <l>Ist es besser, ruhig bleiben?</l>
+            <l>Klammernd fest sich anzuhangen?</l>
+            <l>Ist es besser, sich zu treiben?</l>
+            <l>Soll er sich ein Häuschen bauen?</l>
+            <l>Soll er unter Zelten leben?</l>
+            <l>Soll er auf die Felsen trauen?</l>
+            <l>Selbst die festen Felsen beben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eines schickt sich nicht für alle!</l>
+            <l>Sehe jeder, wie er's treibe,</l>
+            <l>Sehe jeder, wo er bleibe,</l>
+            <l>Und wer steht, daß er nicht falle!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, was soll der Mensch verlangen?</l>
+            <l>Ist es besser, ruhig bleiben?</l>
+            <l>Klammernd fest sich anzuhangen?</l>
+            <l>Ist es besser, sich zu treiben?</l>
+            <l>Soll er sich ein Häuschen bauen?</l>
+            <l>Soll er unter Zelten leben?</l>
+            <l>Soll er auf die Felsen trauen?</l>
+            <l>Selbst die festen Felsen beben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eines schickt sich nicht für alle!</l>
+            <l>Sehe jeder, wie er's treibe,</l>
+            <l>Sehe jeder, wo er bleibe,</l>
+            <l>Und wer steht, daß er nicht falle!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

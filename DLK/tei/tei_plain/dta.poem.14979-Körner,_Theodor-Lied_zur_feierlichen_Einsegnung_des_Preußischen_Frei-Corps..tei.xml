@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lied zur feierlichen Einsegnung des Preußischen  
+ Frei-Corps.</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-5</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">680</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lied zur feierlichen Einsegnung des Preußischen  
+ Frei-Corps.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit frommen Muth zusammen.</l>
+            <l>Uns ruft die Pflicht zum Kampf hinaus,</l>
+            <l>Und alle Herzen flammen.</l>
+            <l>Doch was uns mahnt zu Sieg und Schlacht,</l>
+            <l>Hat Gott ja selber angefacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Herr ist unsre Zuversicht,</l>
+            <l>Wie schwer der Kampf auch werde!</l>
+            <l>Wir streiten ja für Recht und Pflicht,</l>
+            <l>Und für die heil'ge Erde.</l>
+            <l>Drum retten wir das Vaterland,</l>
+            <l>So that's der Herr durch unsre Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bricht der freche Uebermuth</l>
+            <l>Der Tyranney zusammen;</l>
+            <l>Es soll der Freiheit heil'ge Gluth,</l>
+            <l>In allen Herzen flammen.</l>
+            <l>Drum frisch in Kampfes Ungestüm!</l>
+            <l>Gott ist mit uns und wir mit ihm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er weckt uns jetzt mit Siegerlust</l>
+            <l>Für die gerechte Sache,</l>
+            <l>Er rief es selbst in unsre Brust:</l>
+            <l>Und führt uns wärs auch durch den Tod</l>
+            <l>Zu seiner Freiheit Morgenroth.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">109.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">532</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>109.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer mit geschickter Hand die heilge Schrift abschreibt,</l>
+            <l>Kein Zweifel ist daß er ein fromm Geschäft betreibt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn an der Abschrift kann ein Frommer sich erbaun,</l>
+            <l>Sich freuen Gottes Wort so klar vor sich zu schaun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wenn der Schreiber selbst nichts weiter thut wan schreiben,</l>
+            <l>So wird, was andern frommt, ihm selbst unfruchtbar bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und also, wenn du machst dein eignes Seyn und Leben</l>
+            <l>Zu einem schönen Buch, um es der Welt zu geben;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn es auch alle Welt mit Lust und Andacht schaut,</l>
+            <l>Was nützt es dir, wenn es dich selber nicht erbaut?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

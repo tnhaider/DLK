@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">2.</title>
+        <author>
+          <persName>
+            <surname>Heyse</surname>
+            <forename>Paul</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-2 3-2 4-4 5-2 6-2</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">680</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1872</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>2.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir war's, ich hört' es an der Türe pochen,</l>
+            <l>Und fuhr empor, als wärst du wieder da</l>
+            <l>Und sprächest wieder, wie du oft gesprochen,</l>
+            <l>Mit Schmeichelton: Darf ich hinein, Papa?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und da ich abends ging am steilen Strand,</l>
+            <l>Fühlt' ich dein Händchen warm in meiner Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wo die Flut Gestein herangewälzt,</l>
+            <l>Sagt' ich ganz laut: Gib acht, daß du nicht fällst!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir war's, ich hört' es an der Türe pochen,</l>
+            <l>Und fuhr empor, als wärst du wieder da</l>
+            <l>Und sprächest wieder, wie du oft gesprochen,</l>
+            <l>Mit Schmeichelton: Darf ich hinein, Papa?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und da ich abends ging am steilen Strand,</l>
+            <l>Fühlt' ich dein Händchen warm in meiner Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wo die Flut Gestein herangewälzt,</l>
+            <l>Sagt' ich ganz laut: Gib acht, daß du nicht fällst!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

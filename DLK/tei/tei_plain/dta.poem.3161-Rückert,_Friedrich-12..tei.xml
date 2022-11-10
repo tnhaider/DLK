@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">12.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">662</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>12.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft zu verspotten scheint das Schicksal unsern Plan,</l>
+            <l>Doch wir verspotten es, es ist uns unterthan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit Liebe dacht' ich dein an einem stillen Abend,</l>
+            <l>Den Lebensabend malt' ich dir so still und labend.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du solltest leben, bis ich meinen Sohn vermählte,</l>
+            <l>Und ein Urenkel noch ein Mährchen dir erzählte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das sollte trösten dich für jeglichen Verlust,</l>
+            <l>Und blüh'n seh'n solltest du noch einmal deine Lust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am selben Abende, mir ungeahnet, fern,</l>
+            <l>Bist du gegangen, abgerufen von dem Herrn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ward von dem Schlage so der Lebensbaum vernichtet?</l>
+            <l>So wenig nichtig ist, was Liebe je gedichtet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In einem Augenblick hab' ich ein langes Leben</l>
+            <l>Mit dir gelebt, und kann der Gruft dich ruhig geben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

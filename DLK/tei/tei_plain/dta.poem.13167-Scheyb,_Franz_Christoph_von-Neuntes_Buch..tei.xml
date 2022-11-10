@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neuntes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">685</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neuntes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Inzwischen stellte sich ein stolzer Herold dar,</l>
+            <l>Wodurch die Gegenwart noch mehr erfreuet war.</l>
+            <l>Er trat mit Ansehn auf, als wann er was gebiete;</l>
+            <l>Er gieng mit schwerem Schritt noch nicht biß in die Mitte,</l>
+            <l>Sieh da! welch neuer Glanz kam seiner Ankunft nach,</l>
+            <l>330Der jedes Herz ergriff, das Lispeln unterbrach.</l>
+            <l>O Wunder-volle Schaar! man kann es nicht erachten,</l>
+            <l>Was Pomp und Majestät, was Ansehn und was Prachten</l>
+            <l>Des Hofs Vortrefflichkeit den Augen vorgestellt;</l>
+            <l>Was vor Annehmlichkeit dem Staat sich beygesellt.</l>
+            <l>335Ein Chor von zärtlichstem geschmücktem Frauenzimmer</l>
+            <l>Verdoppelte die Lust durch ihrer Kleider Schimmer:</l>
+            <l>Drauf kam das Kronen-Haus, mit ihm </l>
+            <l>An der man gleich den Werth der wahren Hoheit sah.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eifersucht und Stolz.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">560</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eifersucht und Stolz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eilst du voll Zorn dem frechen Bruder Jäger nach?</l>
+            <l>Kehr' um, kehr' um, und schilt erst deine Müllerin,</l>
+            <l>Für ihren leichten, losen, kleinen Flattersinn.</l>
+            <l>Sahst du sie gestern Abend nicht am Thore stehn,</l>
+            <l>Mit langem Halse nach der großen Straße sehn?</l>
+            <l>Wenn von dem Fang der Jäger lustig zieht nach Haus,</l>
+            <l>Da steckt kein sittsam Kind den Kopf zum Fenster 'naus.</l>
+            <l>Geh', Bächlein, hin und sag' ihr das, doch sag' ihr nicht,</l>
+            <l>Hörst du, kein Wort, von meinem traurigen Gesicht;</l>
+            <l>Sag' ihr: Er schnitzt bei mir sich eine Pfeif' aus Rohr,</l>
+            <l>Und bläst den Kindern schöne Tänz' und Lieder vor.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

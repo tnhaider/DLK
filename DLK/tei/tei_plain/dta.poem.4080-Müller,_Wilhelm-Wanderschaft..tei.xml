@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wanderschaft.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-5 4-5 5-5</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">583</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wanderschaft.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Wandern!</l>
+            <l>Das muß ein schlechter Müller sein,</l>
+            <l>Dem niemals fiel das Wandern ein,</l>
+            <l>Das Wandern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Wasser haben wir's gelernt,</l>
+            <l>Vom Wasser!</l>
+            <l>Das hat nicht Rast bei Tag und Nacht,</l>
+            <l>Ist stets auf Wanderschaft bedacht,</l>
+            <l>Das Wasser.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das sehn wir auch den Rädern ab,</l>
+            <l>Den Rädern!</l>
+            <l>Die gar nicht gerne stille stehn,</l>
+            <l>Die sich mein Tag nicht müde drehn,</l>
+            <l>Die Räder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Steine selbst, so schwer sie sind,</l>
+            <l>Die Steine!</l>
+            <l>Sie tanzen mit den muntern Reihn</l>
+            <l>Und wollen gar noch schneller sein,</l>
+            <l>Die Steine.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Wandern, Wandern, meine Lust,</l>
+            <l>O Wandern!</l>
+            <l>Herr Meister und Frau Meisterin,</l>
+            <l>Laßt mich in Frieden weiter ziehn</l>
+            <l>Und wandern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Recept zur Stärkungschokolade .</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">118</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">472</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Recept zur Stärkungschokolade .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Provisor mengt geschwinde                 </l>
+            <l>Euch zwo Theilchen Teufelsmist,</l>
+            <l>Und ein Theilchen Chinarinde,</l>
+            <l>Fein wie dies Gemengsel ist,</l>
+            <l>Hier im Pülverchen zu schauen;</l>
+            <l>Rühmenswerth ist seine Kraft,</l>
+            <l>Weils den Männern und den Frauen</l>
+            <l>Wieder junge Kräfte schafft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In ein Schälchen Chokolade</l>
+            <l>Nehmt ihr einer Erbse groß,</l>
+            <l>Daß es dem Geschmack nicht schade.</l>
+            <l>Delicat und tadelloß</l>
+            <l>Schmeckt euch diese Chokolade,</l>
+            <l>Stärkt euch Nerven und Gebein,</l>
+            <l>Wenn ihr schon am Styxgestade</l>
+            <l>Schatten wähnt zu seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

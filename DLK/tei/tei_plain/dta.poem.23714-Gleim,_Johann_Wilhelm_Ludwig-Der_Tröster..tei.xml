@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Tröster.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Tröster.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als Barinchen ihren Liebling,</l>
+            <l>In dem leichten Todtenkleide,</l>
+            <l>Auf der Baare liegen sahe:</l>
+            <l>Stiegen aus dem schönsten Busen</l>
+            <l>Tausend Ach, und tausend Seufzer.</l>
+            <l>Von den Wangen, die an Farbe</l>
+            <l>Dem erblaßten Todten glichen,</l>
+            <l>Flossen tausend heisse Tränen.</l>
+            <l>Und es rief das arme Mädchen</l>
+            <l>Tausendmal: Gerechter Himmel,</l>
+            <l>Grausamer gerechter Himmel,</l>
+            <l>Gib mir meinen Liebling wieder!</l>
+            <l>Aber der gerechte Himmel</l>
+            <l>Gab den Liebling doch nicht wieder.</l>
+            <l>Ich beiammerte das Mädchen.</l>
+            <l>Und ich bat den harten Himmel:</l>
+            <l>Laß doch nur Geliebte leben.</l>
+            <l>Himmel, wenn Geliebte sterben,</l>
+            <l>Müssen treue Mädchen weinen.</l>
+            <l>Ach, wie wird mein treues Mädchen</l>
+            <l>Einst bei meiner Leiche weinen!</l>
+            <l>Ach wie traurig wird es seufzen!</l>
+            <l>Ach wer wird, wenn ich einst sterbe,</l>
+            <l>Mein getreues Mädchen trösten?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

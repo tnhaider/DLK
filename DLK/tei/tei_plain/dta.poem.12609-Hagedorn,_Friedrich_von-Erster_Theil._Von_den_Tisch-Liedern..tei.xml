@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erster Theil.  
+ Von den Tisch-Liedern.</title>
+        <author>
+          <persName>
+            <surname>Hagedorn</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">85</measure>
+        <measure type="tokens">60</measure>
+        <measure type="characters">351</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199128"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erster Theil.  
+ Von den Tisch-Liedern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Spieß, ein Schwerdt, ein schöner Schild,</l>
+            <l>Der meinen Leib beschützet,</l>
+            <l>Sind mir ein grosser Schatz.</l>
+            <l>Denn hiedurch kann ich pflügen, erndten,</l>
+            <l>Die süssen Trauben keltern,</l>
+            <l>Und Herr in meinem Hause seyn.</l>
+            <l>Die aber es nicht wagen,</l>
+            <l>Spieß, Schwerdt und Schild zu tragen,</l>
+            <l>Die alle fallen vor mir nieder,</l>
+            <l>Verehren mich, als ihren Herrn,</l>
+            <l>Und nennen mich gar einen König,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

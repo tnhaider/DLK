@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet  
+ Auf die beerdigung Hn. D. D. Heimbürgers/  
+ Archidiaconi zu Berlin; nach anleitung des  
+ Evangelii vom ungerechten  
+ haußhalter.  
+ C. E.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">697</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet  
+ Auf die beerdigung Hn. D. D. Heimbürgers/  
+ Archidiaconi zu Berlin; nach anleitung des  
+ Evangelii vom ungerechten  
+ haußhalter.  
+ C. E.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wje redlich hastu doch dem Herren haußgehalten/</l>
+            <l>Der die geheimniß dir des himmels anvertraut:</l>
+            <l>O theurer seelen-artzt! wer hat dich nicht geschaut</l>
+            <l>Mit unermüdtem fleiß dein schweres amt verwalten?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann so viel donner-wort’ aus deinem mund erschallten/</l>
+            <l>Welch hartes felsen-hertz ward nicht dadurch erbaut?</l>
+            <l>Jtzt aber da du schweigst/ erschüttert uns die haut/</l>
+            <l>Und unser hertz will schier samt deinem leid erkalten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du legst die rechnung ab vor GOttes lichtem thron/</l>
+            <l>Und überkommst daselbst den theuren gnaden-lohn/</l>
+            <l>Die engel nehmen dich in ihren frommen orden:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und da dein leib hier nicht mehr häuß auff erden hält/</l>
+            <l>Verläst als pilgrim du die hütten dieser welt/</l>
+            <l>Und bist nunmehr daheim ein himmels-bürger worden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

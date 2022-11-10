@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ehedem</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">300</measure>
+        <measure type="tokens">178</measure>
+        <measure type="characters">1144</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ehedem</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Könnt ich so schön, wie du warst, o Venedig, und wär's nur für Einen</l>
+            <l>Einzigen Tag, dich schaun, Eine vergängliche Nacht!</l>
+            <l>Wieder von Gondeln belebt, von unzähligen, diese Kanäle</l>
+            <l>Schaun und des Reichtums Pomp neben des Handels Erwerb!</l>
+            <l>Diese Paläste, verödet und leer und mit Brettern verschlossen,</l>
+            <l>Deren Balkone sich einst füllten mit herrlichen Fraun,</l>
+            <l>Wären sie wieder beseelt von Gitarren und fröhlichem Echo,</l>
+            <l>Oder von Siegsbotschaft, oder von Liebe zumal!</l>
+            <l>Still, wie das Grab, nun spiegelt und schwermutsvoll in der Flut sich</l>
+            <l>Gotischen Fenstergebälks schlanker und zierlicher Bau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Könnt ich so schön, wie du warst, o Venedig, und wär's nur für Einen</l>
+            <l>Einzigen Tag, dich schaun, Eine vergängliche Nacht!</l>
+            <l>Wieder von Gondeln belebt, von unzähligen, diese Kanäle</l>
+            <l>Schaun und des Reichtums Pomp neben des Handels Erwerb!</l>
+            <l>Diese Paläste, verödet und leer und mit Brettern verschlossen,</l>
+            <l>Deren Balkone sich einst füllten mit herrlichen Fraun,</l>
+            <l>Wären sie wieder beseelt von Gitarren und fröhlichem Echo,</l>
+            <l>Oder von Siegsbotschaft, oder von Liebe zumal!</l>
+            <l>Still, wie das Grab, nun spiegelt und schwermutsvoll in der Flut sich</l>
+            <l>Gotischen Fenstergebälks schlanker und zierlicher Bau.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

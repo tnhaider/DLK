@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Hitze und von der Kälte.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">536</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Hitze und von der Kälte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn sich in solchen Gruben, Flüße</l>
+            <l>Und gar zu enge Röhren finden.</l>
+            <l>Das Wasser, so daselbst ein Kercker fest verschleusst,</l>
+            <l>Indem es mit Gewalt der Bande sich entreisst;</l>
+            <l>So nimmt es, nebst den kleinen Theilen,</l>
+            <l>Von Mineralien und rollenden Metallen,</l>
+            <l>Auch von den Cörpern mit, die durch ein stetes Wallen,</l>
+            <l>Durch ein beständigs Regen,</l>
+            <l>Und unaufhörliches Bewegen,</l>
+            <l>Sich selber innerlich entzünden,</l>
+            <l>Wodurch wir äusserlich viel Feuer-Brunnen finden,</l>
+            <l>Wovon wir offt erstaunt, daselbst, wo sie entstehn,</l>
+            <l>Die Gluht und nebst dem Rauch ihr sprudelnd Kochen sehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

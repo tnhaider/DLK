@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den klugen Jungfrauen.</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-11 2-8 3-4</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">645</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den klugen Jungfrauen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wachet auf, ruft uns die Stimme               </l>
+            <l>Der Wächter sehr hoch auf der Zinne,</l>
+            <l>Wach auf du Stadt Jerusalem,</l>
+            <l>Mitternacht heißt diese Stunde,</l>
+            <l>Sie rufen uns mit hellem Munde:</l>
+            <l>„wohlan der Bräutigam kömmt,</l>
+            <l>„steht auf, die Lampen nehmt!</l>
+            <l>„halleluja!</l>
+            <l>„macht euch bereit</l>
+            <l>„zu der Hochzeit,</l>
+            <l>„ihr müsset ihm entgegen gehn.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie hörn die Wächter singen,</l>
+            <l>Die Herzen all vor Freuden springen,</l>
+            <l>Sie wachen und stehn eilend auf;</l>
+            <l>Ihr Freund der kommt vom Himmel prächtig,</l>
+            <l>Von Gnaden stark, von Wahrheit mächtig,</l>
+            <l>Ihr Licht wird hell, ihr Stern geht auf.</l>
+            <l>„nun komm du werthe Kron,</l>
+            <l>„herr Jesu, Gottes Sohn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„hostana:</l>
+            <l>„wir folgen all,</l>
+            <l>„zum Freuden-Saal,</l>
+            <l>„und halten mit das Abendmahl.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

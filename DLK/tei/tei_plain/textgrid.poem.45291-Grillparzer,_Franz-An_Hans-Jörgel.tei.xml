@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Hans-Jörgel</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">448</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Hans-Jörgel</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Fürsten, der uns allen teuer,</l>
+            <l>Veranstaltest du eine Leichenfeier.</l>
+            <l>Nicht übel fürwahr, und grade jetzt!</l>
+            <l>Sein Körper ward längst schon beigesetzt,</l>
+            <l>Doch mag er ein neues Begängnis haben.</l>
+            <l>Sie wollen ja jetzt seine Seele begraben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Fürsten, der uns allen teuer,</l>
+            <l>Veranstaltest du eine Leichenfeier.</l>
+            <l>Nicht übel fürwahr, und grade jetzt!</l>
+            <l>Sein Körper ward längst schon beigesetzt,</l>
+            <l>Doch mag er ein neues Begängnis haben.</l>
+            <l>Sie wollen ja jetzt seine Seele begraben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

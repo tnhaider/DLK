@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die drei Lieder .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">205</measure>
+        <measure type="tokens">147</measure>
+        <measure type="characters">817</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die drei Lieder .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der hohen Hall’ saß König Sifrid:</l>
+            <l>„ihr Harfner! wer weiß mir das schönste Lied?“</l>
+            <l>Und ein Jüngling trat aus der Schaar behende,</l>
+            <l>Die Harf’ in der Hand, das Schwerdt an der Lende.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„drei Lieder weiß ich; den ersten Sang,</l>
+            <l>Den hast du ja wohl vergessen schon lang:</l>
+            <l>Meinen Bruder hast du meuchlings erstochen!</l>
+            <l>Und aber: hast ihn meuchlings erstochen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das andre Lied, das hab’ ich erdacht</l>
+            <l>In einer finstern, stürmischen Nacht:</l>
+            <l>Mußt mit mir fechten auf Leben und Sterben!</l>
+            <l>Und aber: mußt fechten auf Leben und Sterben!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da lehnt’ er die Harfe wohl an den Tisch,</l>
+            <l>Und sie zogen Beide die Schwerdter frisch,</l>
+            <l>Und fochten lange mit wildem Schalle,</l>
+            <l>Bis der König sank in der hohen Halle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„nun sing’ ich das dritte, das schönste Lied,</l>
+            <l>Das werd’ ich nimmer zu singen müd:</l>
+            <l>König Sifrid liegt in seim rothen Blute!</l>
+            <l>Und aber: liegt in seim rothen Blute!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

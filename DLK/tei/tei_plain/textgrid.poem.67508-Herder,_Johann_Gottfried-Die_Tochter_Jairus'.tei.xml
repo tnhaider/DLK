@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Tochter Jairus'</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">642</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1793</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Tochter Jairus'</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schaut den himmlischen Arzt! mit stillem Blicke berührt er</l>
+            <l>Die erstorbene Hand, richtend die Tochter empor</l>
+            <l>In das Leben. Es weint die Mutter. Mutter, o weine</l>
+            <l>Freudenthränen! es lebt wieder Dein zärtliches Kind!</l>
+            <l>Alles freut sich; nur da steht der Eine, der Doctor, sinnend;</l>
+            <l>Seht, er sinnet die Kunst, Todte zu wecken, sich aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schaut den himmlischen Arzt! mit stillem Blicke berührt er</l>
+            <l>Die erstorbene Hand, richtend die Tochter empor</l>
+            <l>In das Leben. Es weint die Mutter. Mutter, o weine</l>
+            <l>Freudenthränen! es lebt wieder Dein zärtliches Kind!</l>
+            <l>Alles freut sich; nur da steht der Eine, der Doctor, sinnend;</l>
+            <l>Seht, er sinnet die Kunst, Todte zu wecken, sich aus.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

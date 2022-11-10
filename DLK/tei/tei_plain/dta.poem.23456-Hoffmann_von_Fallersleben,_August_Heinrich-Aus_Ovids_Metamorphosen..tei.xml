@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aus Ovids Metamorphosen.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">33</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-7 4-7 5-7</measure>
+        <measure type="syllables">253</measure>
+        <measure type="tokens">181</measure>
+        <measure type="characters">1015</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aus Ovids Metamorphosen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es flickt ein Schneider ein Gewand</l>
+            <l>Für eine Majestät,</l>
+            <l>Und wie er's hält in seiner Hand</l>
+            <l>Und in den Falten späht:</l>
+            <l>O Wunder, Wunder! was schaut heraus?</l>
+            <l>Eine Laus, eine Laus, eine königliche Laus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Schneider hüpft vor Freud' empor,</l>
+            <l>Sieht sie mit Wollust an,</l>
+            <l>Und holt sein Messer flugs hervor,</l>
+            <l>Und ach! was macht er dann?</l>
+            <l>O Wunder, Wunder! er spaltet sie,</l>
+            <l>Spaltet sie, spaltet sie, dieses königliche Vieh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„die eine Hälfte bleibet mir</l>
+            <l>Von dieser Königslaus,</l>
+            <l>Es stecket soviel Blut in ihr,</l>
+            <l>Ein Fürst wohl wird noch draus.“</l>
+            <l>O Wunder, Wunder! er speist sie geschwind,</l>
+            <l>Und er wird, und er wird, wird ein fürnehm</l>
+            <l>Fürstenkind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da fragen die Gesellen ihn:</l>
+            <l>„was aber kriegen wir?“</l>
+            <l>„die andre Hälft' ist euch verliehn,</l>
+            <l>Das ist genug für vier.</l>
+            <l>O Wunder, Wunder! aus der halben Laus</l>
+            <l>Kommen noch, kommen noch fünfthalb Grafen wohl</l>
+            <l>heraus.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Lehrjung sah sich Alles an:</l>
+            <l>„herr Meister, sagt mir jetzt,</l>
+            <l>Hier seh' ich kriegt ja jedermann,</l>
+            <l>Was krieg ich denn zuletzt?“</l>
+            <l>„o lecke, lecke das Messer rein,</l>
+            <l>Und du wirst, und du wirst 'n schlechter Edelmann</l>
+            <l>noch sein!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

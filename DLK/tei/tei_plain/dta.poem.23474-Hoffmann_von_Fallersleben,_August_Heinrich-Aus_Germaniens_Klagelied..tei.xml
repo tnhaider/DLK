@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aus Germaniens Klagelied.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-4</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">558</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aus Germaniens Klagelied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was soll ich armes Reich, was soll ich endlich machen,</l>
+            <l>Nun mir genommen ist mein Freuen, Lust und Lachen?</l>
+            <l>Kaum bin ich mehr bei Sinnen</l>
+            <l>In dieser langen Noth.</l>
+            <l>Was soll ich doch beginnen?</l>
+            <l>Nur wünsch' ich mir den Tod.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Kinder so ich selbst erzeuget sind die Schlangen,</l>
+            <l>Die ihre Mutter, mich, zu würgen unterfangen;</l>
+            <l>Die haben mich zerbissen,</l>
+            <l>Daß fast mein ganzer Leib</l>
+            <l>In Stücklein ist zerrissen:</l>
+            <l>O weh, ich armes Weib!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, Lieb' und Treu ist hin, die Gottesfurcht erkaltet;</l>
+            <l>Der Glaub' ist abgethan, Beständigkeit veraltet.</l>
+            <l>Das deutsche Blut bedünget</l>
+            <l>So manches schöne Land;</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

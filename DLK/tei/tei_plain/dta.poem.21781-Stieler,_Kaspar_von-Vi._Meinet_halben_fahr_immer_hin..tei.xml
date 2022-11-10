@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi.  
+  Meinet halben/ fahr immer  
+ hin.</title>
+        <author>
+          <persName>
+            <surname>Stieler</surname>
+            <forename>Kaspar von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3</measure>
+        <measure type="syllables">93</measure>
+        <measure type="tokens">61</measure>
+        <measure type="characters">349</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1660</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20586-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi.  
+  Meinet halben/ fahr immer  
+ hin.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So hat dem nu die eine Nacht</l>
+            <l>ein Tag treu-brüchig dich gemacht.</l>
+            <l>das heißt mit falschen Eydes-schwüren</l>
+            <l>ein allzu gläubig Kind verführen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich war ia noch in Szyten/</l>
+            <l>noch wo ein schwarzes Mohr-gesicht</l>
+            <l>in Afriken im Schweisse fliesset/</l>
+            <l>noch wo der Tyger sich ergiesset.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja/ wenn mein Schiff im Meere stünd</l>
+            <l>und mich ein ungestümer Wind</l>
+            <l>wor hätt’ in Indien getragen</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

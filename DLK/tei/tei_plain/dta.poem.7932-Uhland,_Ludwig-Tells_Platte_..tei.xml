@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Tells Platte .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">557</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Tells Platte .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ist das Felsenriff, drauf Tell aus der Barke gesprungen;</l>
+            <l>Sieh! ein ewiges Mal hebet dem Kühnen sich hier.</l>
+            <l>Nicht die Kapelle dort, wo sie jährliche Messen ihm singen!</l>
+            <l>Nein! des Mannes Gestalt, siehst du, wie herrlich sie steht?</l>
+            <l>Schon mit dem einen Fuße betrat er die heilige Erde,</l>
+            <l>Stößt mit dem andern hinaus weit das verzweifelnde Schiff.</l>
+            <l>Nicht aus Stein ist das Bild, noch von Erz, nicht Arbeit der</l>
+            <l>Hände,</l>
+            <l>Nur dem geistigen Blick Freier erscheinet es klar;</l>
+            <l>Und je wilder der Sturm, je höher brauset die Brandung,</l>
+            <l>Um so mächtiger nur hebt sich die Heldengestalt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

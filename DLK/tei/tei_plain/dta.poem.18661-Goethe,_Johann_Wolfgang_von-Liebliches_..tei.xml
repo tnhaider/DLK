@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Liebliches .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">604</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Liebliches .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was doch buntes dort verbindet</l>
+            <l>Mir den Himmel mit der Höhe?</l>
+            <l>Morgennebelung verblindet</l>
+            <l>Mir des Blickes scharfe Sehe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sind es Zelten des Vessires</l>
+            <l>Die er lieben Frauen baute?</l>
+            <l>Sind es Teppiche des Festes</l>
+            <l>Weil er sich der Liebsten traute?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Roth und weiss, gemischt, gesprenkelt</l>
+            <l>Wüsst’ ich schönres nicht zu schauen;</l>
+            <l>Doch wie Hafis kommt dein Schiras</l>
+            <l>Auf des Nordens trübe Gauen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja es sind die bunten Mohne,</l>
+            <l>Die sich nachbarlich erstrecken,</l>
+            <l>Und, dem Kriegesgott zum Hohne,</l>
+            <l>Felder streifweis freundlich decken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Möge stets so der Gescheute</l>
+            <l>Nutzend Blumenzierde pflegen,</l>
+            <l>Und ein Sonnenschein, wie heute,</l>
+            <l>Klären sie auf meinen Wegen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

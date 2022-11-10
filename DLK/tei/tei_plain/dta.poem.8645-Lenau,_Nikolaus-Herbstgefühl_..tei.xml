@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Herbstgefühl .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">473</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Herbstgefühl .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mürrisch braust der Eichenwald,</l>
+            <l>Aller Himmel ist umzogen,</l>
+            <l>Und dem Wandrer, rauh und kalt,</l>
+            <l>Kommt der Herbstwind nachgeflogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie der Wind in Herbstes Zeit</l>
+            <l>Mordend hinsaust in den Wäldern,</l>
+            <l>Weht mir die Vergangenheit</l>
+            <l>Von des Glückes Stoppelfeldern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An den Bäumen, welk und matt,</l>
+            <l>Schwebt des Laubes lezte Neige,</l>
+            <l>Niedertaumelt Blatt für Blatt,</l>
+            <l>Und verhüllt die Waldessteige;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Immer dichter fällt es, will</l>
+            <l>Mir den Reisepfad verderben,</l>
+            <l>Daß ich lieber halte still,</l>
+            <l>Gleich am Orte hier zu sterben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

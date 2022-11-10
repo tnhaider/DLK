@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">S IEG   D ES   S OMMERS</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">86</measure>
+        <measure type="tokens">58</measure>
+        <measure type="characters">436</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>S IEG   D ES   S OMMERS</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie ein erwachen war zu andrem werden               </l>
+            <l>Als wir vergangenheit in uns geb&amp;#228;ndigt               </l>
+            <l>Und als das leben l&amp;#228;chelnd uns geh&amp;#228;ndigt               </l>
+            <l>Was lang uns einzig ziel erschien auf erden             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf einmal alle stunden so nur galten:               </l>
+            <l>Ein m&amp;#252;hevolles werben um die hohe               </l>
+            <l>Die uns vereinte die in ihrer lohe               </l>
+            <l>Gestalten um uns tilgte und gewalten.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

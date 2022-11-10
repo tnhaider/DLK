@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonntags.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">320</measure>
+        <measure type="tokens">199</measure>
+        <measure type="characters">1251</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonntags.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liebe, Nymphe, deine keusche Flut,</l>
+            <l>Die kühl im allertiefsten Walde ruht.</l>
+            <l>Du spiegelst weder Stadt noch Firneschnee,</l>
+            <l>Den Himmel schimmerst du, mein kleiner See!</l>
+            <l>Dein Antlitz sagt mir Alles, rasch erregt,</l>
+            <l>Was dir das kindliche Gemüth bewegt,</l>
+            <l>Und leicht erhellt, verdunkelt ohne Grund,</l>
+            <l>Macht es mir alle deine Launen kund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Kahn, verborgen tief im Schilfe dort,</l>
+            <l>Gefesselt ist er durch ein Zauberwort.</l>
+            <l>Nie hat gelöst ihn eine trunkne Schaar,</l>
+            <l>Nie hat sich eine Dirn im Flatterhaar,</l>
+            <l>Von rohen Buhlen durch den Wald gehetzt,</l>
+            <l>Vor deinen Spiegel keuchend hingesetzt.</l>
+            <l>Nie hat ein unstet zuckend Fackelrot</l>
+            <l>Dir über deine kühle Stirn geloht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Horch! Stimmen durch den Wald! Ein Lustgeschrei!</l>
+            <l>Gekreisch! Gewieher! Freches Volk, vorbei!</l>
+            <l>Den Gassenhauer, liederlich gejohlt —</l>
+            <l>Schäme dich, Echo! — hast du wiederholt!</l>
+            <l>Verhülle, Nymphe, deiner Augen Schein,</l>
+            <l>Verbirg dich tiefer in den Wald hinein!</l>
+            <l>Und zürnend gegen den Tumult gewandt:</l>
+            <l>„hinweg!“ gebot ich mit erhobner Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„nicht näher!“ Und im Walde ward es Ruh.</l>
+            <l>Der Jubel zog sich einer Schenke zu.</l>
+            <l>Du bliebst in deinem blauen Kleide rein,</l>
+            <l>In deinem grünen Waldesdämmerschein —</l>
+            <l>Indessen hat die Sonne sich geneigt,</l>
+            <l>Wie süß in jedem Blatt die Stille schweigt!</l>
+            <l>In Tannenduft und unter Himmelsruh,</l>
+            <l>Bewacht von meinem Blick, entschlummerst du!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

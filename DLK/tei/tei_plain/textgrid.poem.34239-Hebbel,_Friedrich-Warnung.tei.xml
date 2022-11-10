@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Warnung</title>
+        <author>
+          <persName>
+            <surname>Hebbel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">278</measure>
+        <measure type="tokens">190</measure>
+        <measure type="characters">1126</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Warnung</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Reizt den Dichter nicht! Er kann sich fürchterlich rächen,</l>
+            <l>Und es entzieht ihm den Feind Keiner, nicht einmal der Tod!</l>
+            <l>Denn, so wie sein Kuß dem Freund unsterbliche Ehre</l>
+            <l>Sichert, so sichert sein Tritt diesem unsterbliche Schmach.</l>
+            <l>Denkt an Gözze! Er stach nach Lessing und wollte ihn tödten,</l>
+            <l>Lessing rächt sich, er läßt ewig ihn leben, den Wicht!</l>
+            <l>Ja, und hätte er selbst den leuchtenden Kerker des Nathan,</l>
+            <l>Der ihm den Pfaffen verwahrt, später gerührt und versöhnt,</l>
+            <l>Oeffnen wollen, er hätte den Schlüssel nimmer gefunden,</l>
+            <l>Denn wir sperren nur ein, aber wir lassen nicht aus!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Reizt den Dichter nicht! Er kann sich fürchterlich rächen,</l>
+            <l>Und es entzieht ihm den Feind Keiner, nicht einmal der Tod!</l>
+            <l>Denn, so wie sein Kuß dem Freund unsterbliche Ehre</l>
+            <l>Sichert, so sichert sein Tritt diesem unsterbliche Schmach.</l>
+            <l>Denkt an Gözze! Er stach nach Lessing und wollte ihn tödten,</l>
+            <l>Lessing rächt sich, er läßt ewig ihn leben, den Wicht!</l>
+            <l>Ja, und hätte er selbst den leuchtenden Kerker des Nathan,</l>
+            <l>Der ihm den Pfaffen verwahrt, später gerührt und versöhnt,</l>
+            <l>Oeffnen wollen, er hätte den Schlüssel nimmer gefunden,</l>
+            <l>Denn wir sperren nur ein, aber wir lassen nicht aus!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

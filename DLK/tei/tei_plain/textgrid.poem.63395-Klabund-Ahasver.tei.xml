@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ahasver</title>
+        <author>
+          <persName>
+            <surname>Klabund</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">760</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1909</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ahasver</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ewig bist du Meer und rinnst ins Meer,</l>
+            <l>Quelle, Wolke, Regen – Ahasver...</l>
+            <l>Tor, wer um vertane Stunden träumt,</l>
+            <l>Weiser, wer die Jahre weit versäumt.</l>
+            <l>Trage so die ewige Last der Erde</l>
+            <l>Und den Dornenkranz mit Frohgebärde.</l>
+            <l>Schlägst du deine Welt und dich zusammen,</l>
+            <l>Aus den Trümmern brechen neue Flammen...</l>
+            <l>Tod ist nur ein Wort, damit man sich vergißt...</l>
+            <l>Weh, Sterblicher, daß du unsterblich bist!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ewig bist du Meer und rinnst ins Meer,</l>
+            <l>Quelle, Wolke, Regen – Ahasver...</l>
+            <l>Tor, wer um vertane Stunden träumt,</l>
+            <l>Weiser, wer die Jahre weit versäumt.</l>
+            <l>Trage so die ewige Last der Erde</l>
+            <l>Und den Dornenkranz mit Frohgebärde.</l>
+            <l>Schlägst du deine Welt und dich zusammen,</l>
+            <l>Aus den Trümmern brechen neue Flammen...</l>
+            <l>Tod ist nur ein Wort, damit man sich vergißt...</l>
+            <l>Weh, Sterblicher, daß du unsterblich bist!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

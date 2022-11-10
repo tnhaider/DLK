@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Siebendes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">547</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Siebendes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In solcher Aenderung befande sich der Saal,</l>
+            <l>Bis jemand von dem Rath Gelassenheit befahl.</l>
+            <l>Es war die Majestät, die mit erhabnen Blicken</l>
+            <l>Den Streit zu stillen wußt, die Zungen zu bestricken.</l>
+            <l>Jhr Ernst-erfülltes Aug in ihrer Hoheit Pracht</l>
+            <l>90Wand sich im Kreiß herum und nahm den Streit in acht,</l>
+            <l>Verfinsterte die Stirn, und winckte mit den Händen,</l>
+            <l>Man solle des Gesprächs Unartigkeiten enden.</l>
+            <l>So tief man im Geschwäz, und in dem Eifer war,</l>
+            <l>So bald ward alles still, wie nach dem Regen klar;</l>
+            <l>95Der Saal bequemte sich den Unfug abzulegen:</l>
+            <l>Jmmittelst sahen wir die </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

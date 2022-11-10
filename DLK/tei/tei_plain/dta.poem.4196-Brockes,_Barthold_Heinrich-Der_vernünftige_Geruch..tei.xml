@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der vernünftige Geruch.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-5 2-12 3-7</measure>
+        <measure type="syllables">209</measure>
+        <measure type="tokens">178</measure>
+        <measure type="characters">905</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der vernünftige Geruch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit innniglich-gerührter Brust,</l>
+            <l>Und gleichsam überschwemmt von Lust,</l>
+            <l>Roch ich jüngst mehr als hundertmahl</l>
+            <l>Den kräftig-recht durchwürzten Dust</l>
+            <l>Von der Violen Matronal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Um recht gesättiget zu seyn,</l>
+            <l>Zog ich die balsamirte Luft,</l>
+            <l>Mit stets erneuertem Vergnügen,</l>
+            <l>In kurzen unterbrochnen Zügen,</l>
+            <l>Bald hauchend und bald schnaufend, ein.</l>
+            <l>Um Lust und Dank nun auch zu fügen;</l>
+            <l>Beschloß ich, wenn ich roch und blies,</l>
+            <l>Den Athem zog und von mir ließ,</l>
+            <l>Bey jedem Anziehn, jedem Hauchen</l>
+            <l>Mich einer Sylbe zu gebrauchen</l>
+            <l>Von diesem Liedchen, welches man</l>
+            <l>Auch leicht, wie ich, verrichten kann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir - riech' - ich - die-se - schö-ne - Bluh-me,</l>
+            <l>O - GOtt, - Der - sie - mir - schenkt, - zum - Ruh-me.</l>
+            <l>Ich - riech' - und - freu' - mich - Dein - in - ihr;</l>
+            <l>Denn - Du - al-lein - for-mierst - und - gie-best,</l>
+            <l>Zur - Pro-be, - wie - so - stark - Du - lie-best,</l>
+            <l>Der - Bluh-men - Pracht, - Ge-ruch - und - Zier.</l>
+            <l>Die - Kraft - zu - rie-chen - schenkst - Du - mir.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der vorlaute Ritter .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">42</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6 6-6 7-6</measure>
+        <measure type="syllables">265</measure>
+        <measure type="tokens">187</measure>
+        <measure type="characters">1063</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der vorlaute Ritter .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es waren drey Gesellen,               </l>
+            <l>Die thäten, was sie wöllen,</l>
+            <l>Sie hielten alle drey</l>
+            <l>Viel heimlichen Rath,</l>
+            <l>Wer wohl in dieser Nacht</l>
+            <l>Das beste Mädel hätt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Jüngste der darunter,</l>
+            <l>Der sprach da auch sehr munter,</l>
+            <l>Wie ihm noch gestern spät</l>
+            <l>Ein Mädel zugeredt.</l>
+            <l>Er stiege diese Nacht,</l>
+            <l>Wohl in ihr Federbett.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Mädel kam geschlichen</l>
+            <l>Und wäre fast verblichen,</l>
+            <l>Sie hörte an der Wand,</l>
+            <l>Nur ihre eigne Schand,</l>
+            <l>Sie weinte heimlich aus,</l>
+            <l>Sie lief zurück nach Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Nacht war bis zur Mitten,</l>
+            <l>Der Ritter kam geritten,</l>
+            <l>Er klopfet freundlich an,</l>
+            <l>Mit seinem goldnen Ring:</l>
+            <l>„ey schläf'st du oder wachst,</l>
+            <l>„mein auserwähltes Kind.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„was wäre, wenn ich schliefe,</l>
+            <l>„und dich heut nicht einließe?</l>
+            <l>„du hast mir gestern spät</l>
+            <l>„ein falsche Red gethan.</l>
+            <l>„ich schlafe heute Nacht,</l>
+            <l>„wenn du vorm Fenster wachst.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„wo soll ich denn hinreiten?</l>
+            <l>„es regnet und es schneiet,</l>
+            <l>„es geht ein kühler Wind,</l>
+            <l>„nun schlafen alle Leut</l>
+            <l>„und alle Bürgers Kind,</l>
+            <l>„mach auf du süßes Kind!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„reit du nach jener Straße,</l>
+            <l>„reit du nach jener Heyde,</l>
+            <l>„wo du gekommen bist,</l>
+            <l>„da liegt ein breiter Stein,</l>
+            <l>„den Kopf darauf nur leg,</l>
+            <l>„trägst keine Federn weg.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">18.</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">716</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>18.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Freuden, die rosigen Tänzerinnen,</l>
+            <l>Mit Kränzen und Fackeln, mit Spiel und Gesang,</l>
+            <l>Wie fliehn sie auf schimmernden Sohlen von hinnen!</l>
+            <l>Aber der Kummer hat schleichenden Gang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verhallt ist das Fest und das süße Gelächter</l>
+            <l>Der schwärmenden Dirnen, ach, eh' ich's gedacht;</l>
+            <l>Nun tappt er ums Haus mir, ein grimmiger Wächter,</l>
+            <l>Und ruft mir die langsamen Stunden der Nacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Freuden, die rosigen Tänzerinnen,</l>
+            <l>Mit Kränzen und Fackeln, mit Spiel und Gesang,</l>
+            <l>Wie fliehn sie auf schimmernden Sohlen von hinnen!</l>
+            <l>Aber der Kummer hat schleichenden Gang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verhallt ist das Fest und das süße Gelächter</l>
+            <l>Der schwärmenden Dirnen, ach, eh' ich's gedacht;</l>
+            <l>Nun tappt er ums Haus mir, ein grimmiger Wächter,</l>
+            <l>Und ruft mir die langsamen Stunden der Nacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

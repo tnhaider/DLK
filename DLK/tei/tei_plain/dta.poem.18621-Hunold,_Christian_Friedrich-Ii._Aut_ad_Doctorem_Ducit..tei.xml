@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ii.  
+ Aut ad Doctorem Ducit.</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">503</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1702</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197766"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ii.  
+ Aut ad Doctorem Ducit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wiewohl man hat noch einen Fund ersonnen/</l>
+            <l>Wenn alles nun zerronnen/</l>
+            <l>So sucht ein Luder sich ein liederliches Weib/</l>
+            <l>Das wacker Pfenn'ge hat/</l>
+            <l>Dadurch erkaufft er sich den Doctor Grad.</l>
+            <l>Da träget nun der Esel eine Crone.</l>
+            <l>Ein Ochse kriegt der Weißheit edlen Hut.</l>
+            <l>Ein Schwein erlangt den ersten Rang</l>
+            <l>Seht was der Hencker thut.</l>
+            <l>Wer wolte sich nicht desperat geberden/</l>
+            <l>Wenn man kan Doctor werden.</l>
+            <l>So richtet nun das Sprichwort also ein:</l>
+            <l>Soldate Münch und Doctor Titel</l>
+            <l>Das müssen die extremen Mittel</l>
+            <l>Vor desperate Kerles seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

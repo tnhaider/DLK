@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Traum und Poesie</title>
+        <author>
+          <persName>
+            <surname>Hebbel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">284</measure>
+        <measure type="tokens">176</measure>
+        <measure type="characters">1074</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Traum und Poesie</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Träume und Dichtergebilde sind eng mit einander verschwistert,</l>
+            <l>Beide lösen sich ab oder ergänzen sich still,</l>
+            <l>Aber sie wurzeln nicht bloß im tiefsten Bedürfniß der Seele,</l>
+            <l>Nein, sie wurzeln zugleich in dem unendlichen All.</l>
+            <l>In die wirkliche Welt sind viele mögliche and're</l>
+            <l>Eingesponnen, der Schlaf wickelt sie wieder heraus,</l>
+            <l>Sei es der dunkle der Nacht, der alle Menschen bewältigt,</l>
+            <l>Sei es der helle des Tags, der nur den Dichter befällt,</l>
+            <l>Und so treten auch sie, damit das All sich erschöpfe,</l>
+            <l>Durch den menschlichen Geist in ein verflatterndes Sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Träume und Dichtergebilde sind eng mit einander verschwistert,</l>
+            <l>Beide lösen sich ab oder ergänzen sich still,</l>
+            <l>Aber sie wurzeln nicht bloß im tiefsten Bedürfniß der Seele,</l>
+            <l>Nein, sie wurzeln zugleich in dem unendlichen All.</l>
+            <l>In die wirkliche Welt sind viele mögliche and're</l>
+            <l>Eingesponnen, der Schlaf wickelt sie wieder heraus,</l>
+            <l>Sei es der dunkle der Nacht, der alle Menschen bewältigt,</l>
+            <l>Sei es der helle des Tags, der nur den Dichter befällt,</l>
+            <l>Und so treten auch sie, damit das All sich erschöpfe,</l>
+            <l>Durch den menschlichen Geist in ein verflatterndes Sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

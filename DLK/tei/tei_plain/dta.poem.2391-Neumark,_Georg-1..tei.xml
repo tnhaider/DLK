@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">111</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">442</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein' Augen allzeit von sich giessen/</l>
+            <l>Des bittren Leidens herben Bach/</l>
+            <l>Die Wangen stets mit </l>
+            <l>Der </l>
+            <l>Mein mattes </l>
+            <l>Wenn es O Schikkung an dich dänkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Beweinet doch mein grosses Leiden/</l>
+            <l>Jhr </l>
+            <l>Beklaget meine Noht ihr Haiden/</l>
+            <l>Und du/ du stille Felderruh/</l>
+            <l>Weil meine Götlin </l>
+            <l>Mich armen gar nicht lieben wil.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gleubts nur im </l>
+            <l>Jhr stumme Beum’ all’ ingesamt/</l>
+            <l>Der Angst muß eure Zahl nachgehen/</l>
+            <l>In die ich schmertzlich bin verdammt/</l>
+            <l>Viel mehr sind Ahrten meiner Pein/</l>
+            <l>Als </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

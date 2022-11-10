@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wechsel</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">778</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wechsel</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es fällt nichts vor, mir fällt nichts ein,</l>
+            <l>Ich glaub die Welt steht still,</l>
+            <l>Die Zeit tritt auf so leis und fein,</l>
+            <l>Man weiß nicht, was sie will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf einmal rührt sich's dort und hier –</l>
+            <l>Was das bedeuten mag?</l>
+            <l>Es ist, als hörtst du über dir</l>
+            <l>Einen frischen Flügelschlag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rasch steigen dunkle Wetter auf,</l>
+            <l>Schon blitzt's und rauscht die Rund,</l>
+            <l>Der lust'ge Sturmwind fliegt vorauf –</l>
+            <l>Da atm ich aus Herzensgrund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es fällt nichts vor, mir fällt nichts ein,</l>
+            <l>Ich glaub die Welt steht still,</l>
+            <l>Die Zeit tritt auf so leis und fein,</l>
+            <l>Man weiß nicht, was sie will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf einmal rührt sich's dort und hier –</l>
+            <l>Was das bedeuten mag?</l>
+            <l>Es ist, als hörtst du über dir</l>
+            <l>Einen frischen Flügelschlag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Rasch steigen dunkle Wetter auf,</l>
+            <l>Schon blitzt's und rauscht die Rund,</l>
+            <l>Der lust'ge Sturmwind fliegt vorauf –</l>
+            <l>Da atm ich aus Herzensgrund.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

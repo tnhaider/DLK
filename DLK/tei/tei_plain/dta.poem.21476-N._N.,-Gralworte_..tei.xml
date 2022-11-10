@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gralworte .</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-10</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">799</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gralworte .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ueber dem Dichten und Denken und Träumen,</l>
+            <l>Singen und Bilden und Bauen und Malen</l>
+            <l>Lasset uns nimmer säumen,</l>
+            <l>Uns, vom heiligen Geiste berufen,</l>
+            <l>Näher zu jenes Heiligthums Stufen</l>
+            <l>Die Völker zu führen, aus welchem strahlen</l>
+            <l>Als letzter und schönster Erdenlohn</l>
+            <l>Erlösung und Frieden hienieden schon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der lockende Traum, der uns umtanzt,</l>
+            <l>Von welchem immer die Menschen reden,</l>
+            <l>Als Eldorado, Atlantis, Eden —</l>
+            <l>Er ward uns in die Seele gepflanzt,</l>
+            <l>Daß wir d’ran hangen und d’ran glauben;</l>
+            <l>Nicht Noth,</l>
+            <l>Nicht Tod</l>
+            <l>Soll dieses himmlischste Kleinod rauben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In ihm zu weben,</l>
+            <l>Mit ihm zu streben,</l>
+            <l>Ihn weiter zu geben,</l>
+            <l>Den hehren Gedanken, wie Kerzenlicht,</l>
+            <l>Wann todreif unser Leib zerbricht,</l>
+            <l>Dies sei unser Leben,</l>
+            <l>Unser Ideal,               </l>
+            <l>Heut und morgen, zu jeder Frist,</l>
+            <l>Bis die Erde geworden ist</l>
+            <l>Ein heiliger Riesentempel des Gral!             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

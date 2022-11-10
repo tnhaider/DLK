@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der frohe Wandersmann.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">557</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der frohe Wandersmann.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wem Gott will rechte Gunst erweisen,</l>
+            <l>Den schickt er in die weite Welt,</l>
+            <l>Dem will er seine Wunder weisen</l>
+            <l>In Feld und Wald und Strom und Feld.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Trägen, die zu Hause liegen,</l>
+            <l>Erquicket nicht das Morgenroth,</l>
+            <l>Sie wissen nur vom Kinderwiegen</l>
+            <l>Von Sorgen, Last und Noth um Brodt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Bächlein von den Bergen springen,</l>
+            <l>Die Lerchen schwirren hoch vor Lust,</l>
+            <l>Was sollt' ich nicht mit ihnen singen</l>
+            <l>Aus voller Kehl' und frischer Brust?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den lieben Gott laß ich nur walten;</l>
+            <l>Der Bächlein, Lerchen, Wald und Feld</l>
+            <l>Und Erd' und Himmel will erhalten,</l>
+            <l>Hat auch mein' Sach' aufs Best' bestellt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

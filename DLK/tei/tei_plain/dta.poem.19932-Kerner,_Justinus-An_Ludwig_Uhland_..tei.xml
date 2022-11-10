@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Ludwig Uhland .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">225</measure>
+        <measure type="tokens">160</measure>
+        <measure type="characters">893</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Ludwig Uhland .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Treibt auch für jezt der Menschen Treiben</l>
+            <l>Mich dahin und dich dort hinaus,</l>
+            <l>Muß ich doch immer bey dir bleiben,</l>
+            <l>Ist ja dein Herz schon lang mein Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So kommt es, daß in jeden Nächten</l>
+            <l>Ich jezt in Träumen bin bey dir,</l>
+            <l>Nicht über Rechte wir da rechten,</l>
+            <l>Von Lenz und Liedern sprechen wir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da liegt kein Rechtsbuch aufgeschlagen,</l>
+            <l>Kein Zeitungsblatt auf deinem Tisch,</l>
+            <l>Doch Heldenspiele, bunte Sagen,</l>
+            <l>Und deine Lieder hold und frisch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und hell dein Buch von Freundestreue</l>
+            <l>Dein Ernst, den keine Zeit verweht,</l>
+            <l>Da wird mir alles wieder neue,</l>
+            <l>Bis daß der schöne Traum vergeht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Treibt dann der Menschen Treiben wieder</l>
+            <l>Mich dahin und dich dort hinaus,</l>
+            <l>So rufen fern mir deine Lieder:</l>
+            <l>Nur </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie so oft in Sommertagen</l>
+            <l>Die Rebe wieder Blüthen trägt,</l>
+            <l>Derselbe Wein, den sie getragen,</l>
+            <l>Sehnsüchtig sich im Fasse regt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So regt, so oft als deinem Herzen</l>
+            <l>Neu des Gesanges Blum' erblüht,</l>
+            <l>Es sich in mir mit Lust und Schmerzen:</l>
+            <l>So hat dein </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

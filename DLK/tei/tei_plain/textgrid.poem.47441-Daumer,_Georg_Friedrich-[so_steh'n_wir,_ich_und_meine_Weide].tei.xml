@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[so steh'n wir, ich und meine Weide]</title>
+        <author>
+          <persName>
+            <surname>Daumer</surname>
+            <forename>Georg Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-1 4-1 5-2 6-2 7-1 8-1</measure>
+        <measure type="syllables">108</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">386</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[so steh'n wir, ich und meine Weide]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So steh'n wir, ich und meine Weide,</l>
+            <l>So leider mit einander beide:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie kann ich ihr was thun zu Liebe,</l>
+            <l>Nie kann sie mir was thun zu Leide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit einem Diadem bekleide;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Huld, für ihre Zornbescheide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So steh'n wir, ich und meine Weide,</l>
+            <l>So leider mit einander beide:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie kann ich ihr was thun zu Liebe,</l>
+            <l>Nie kann sie mir was thun zu Leide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit einem Diadem bekleide;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Huld, für ihre Zornbescheide.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

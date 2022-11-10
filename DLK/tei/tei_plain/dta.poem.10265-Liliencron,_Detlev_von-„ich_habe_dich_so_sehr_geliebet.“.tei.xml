@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">„ich habe dich so sehr geliebet.“</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">170</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">657</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>„ich habe dich so sehr geliebet.“</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich war bei hellem Sommerlicht             </l>
+            <l>In eine Dämmergruft gestiegen,</l>
+            <l>Wo Sarkophage, dicht an dicht,</l>
+            <l>Wie Denker in Gedanken, schwiegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Särge Silberschilderei,</l>
+            <l>Wo Nam’ und Wappen eingeschnitten,</l>
+            <l>Umzog barocke Schnörkelei,</l>
+            <l>Nach längst verjährten alten Sitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es traf mein Blick auf einen Sarg,</l>
+            <l>Aus all den andern Schmerzerrettern.</l>
+            <l>Ich wußte, wen die Truhe barg,</l>
+            <l>Aus einer Chronik gelben Blättern:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Jahr nach ihrer Hochzeit schied</l>
+            <l>Die junge Frau mit ihrem Knaben.</l>
+            <l>Und der, der nun die Sonne mied,</l>
+            <l>Sein einzig Glück war hier begraben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schnee fiel in seine Sommerflur,</l>
+            <l>Er war zu tief, zu tief „betrübet.“</l>
+            <l>Ich las auf ihrem Sarge nur:</l>
+            <l>„ich habe dich so sehr geliebet.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

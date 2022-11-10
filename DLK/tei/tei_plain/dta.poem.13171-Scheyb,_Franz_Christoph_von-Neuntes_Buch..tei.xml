@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neuntes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">170</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">665</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neuntes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>An ihrer Seite kam noch eine Majestät:</l>
+            <l>390Thalia sagte mir: Es sey Elisabeth</l>
+            <l>Die grosse Kayserinn, Gemahlinn </l>
+            <l>Woher </l>
+            <l>Groß-Mutter dieses Kinds, der Herrscherinnen Preiß</l>
+            <l>Seit dem der Erde Rund von Kayserinnen weiß.</l>
+            <l>395Man las' auf ihrer Stirn ein zärtliches Vergnügen,</l>
+            <l>Wann sie das theure Pfand, den Enckel sahe ligen.</l>
+            <l>Man sah </l>
+            <l>In ihrem Angesicht und Hergang abgemahlt.</l>
+            <l>Was Wunder, sprachen wir, wann sie von ihr erzogen,</l>
+            <l>400Daß sie nichts als Verstand und Tugend eingesogen!</l>
+            <l>Genug: wer sie nur sah, der bildte sich schon ein,</l>
+            <l>Daß diese Königinn müßt’ ihre Tochter seyn.</l>
+            <l>Die Frucht folgt ihrem Baum; von Eichen kommen Eichen;</l>
+            <l>Die Adler zeugen nichts, was nicht kann Adlern gleichen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

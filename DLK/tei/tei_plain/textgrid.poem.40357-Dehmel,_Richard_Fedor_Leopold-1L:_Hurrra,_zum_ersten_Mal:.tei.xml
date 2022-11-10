@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Hurrra, zum ersten Mal:</title>
+        <author>
+          <persName>
+            <surname>Dehmel</surname>
+            <forename>Richard Fedor Leopold</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">94</measure>
+        <measure type="tokens">58</measure>
+        <measure type="characters">370</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1891</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Hurrra, zum ersten Mal:</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hurrra, zum ersten Mal:</l>
+            <l>Mutter, der Peter,</l>
+            <l>hurra, jetzt geht er!</l>
+            <l>Kuck, ganz alleinechen</l>
+            <l>setzt er die Beinechen,</l>
+            <l>ganz wie zur Reichstagswahl,</l>
+            <l>wie Onkel Wackelpfahl!</l>
+            <l>Aua, Geschrei:</l>
+            <l>bautz, vorbei!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hurrra, zum ersten Mal:</l>
+            <l>Mutter, der Peter,</l>
+            <l>hurra, jetzt geht er!</l>
+            <l>Kuck, ganz alleinechen</l>
+            <l>setzt er die Beinechen,</l>
+            <l>ganz wie zur Reichstagswahl,</l>
+            <l>wie Onkel Wackelpfahl!</l>
+            <l>Aua, Geschrei:</l>
+            <l>bautz, vorbei!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

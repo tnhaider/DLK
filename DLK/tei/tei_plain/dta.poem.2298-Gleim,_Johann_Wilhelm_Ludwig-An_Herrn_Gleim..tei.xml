@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Herrn Gleim.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">193</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">738</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Herrn Gleim.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nimm mich mit, geliebter Damon,</l>
+            <l>Nimm mich mit auf deine Fluren.</l>
+            <l>Laß mich dort den iungen Früling,</l>
+            <l>Und den Glanz der Morgenröte,</l>
+            <l>Und die Thäler voll Violen,</l>
+            <l>Und den Thau auf müden Blumen</l>
+            <l>Und die frühe Venus sehen.</l>
+            <l>Schweig! es lispelt schon ein Zefir</l>
+            <l>Ein vergnügter Freund des Lenzen.</l>
+            <l>Sieh! er wälzt sich auf dem Grase,</l>
+            <l>Und im Wälzen küßt er Blumen,</l>
+            <l>Und die wankende Narzisse,</l>
+            <l>Wird verliebt und küßt ihn wieder.</l>
+            <l>Komm, wir wollen ihn erhaschen,</l>
+            <l>Und es soll sein sanftes Säuseln,</l>
+            <l>Uns bis in den Busch begleiten,</l>
+            <l>Wo wir seinen Freund, den Früling,</l>
+            <l>Unter Linden suchen wollen.</l>
+            <l>Komm, so bald wir ihn gefunden,</l>
+            <l>Wollen wir, in seinen Armen,</l>
+            <l>An dem weichsten Ufer schlummern;</l>
+            <l>Bis uns ein vergnügtes Mädchen,</l>
+            <l>Welches unser Schlummer ärgert,</l>
+            <l>Durch ein Schäferlied erwekket.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

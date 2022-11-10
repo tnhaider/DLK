@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Lauretten.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">249</measure>
+        <measure type="tokens">160</measure>
+        <measure type="characters">1001</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Lauretten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laurette bleibstu ewig stein?</l>
+            <l>Soll forthin unverknüpffet seyn</l>
+            <l>Dein englisch-seyn und dein erbarmen?</l>
+            <l>Komm/ komm/ und öffne deinen schooß</l>
+            <l>Und laß uns beyde nackt und bloß</l>
+            <l>Umgeben seyn mit geist und armen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß mich auff deiner schwanen-brust</l>
+            <l>Die offt-versagte liebes-lust</l>
+            <l>Hier zwischen furcht und scham geniessen.</l>
+            <l>Und laß mich tausend tausendmahl/</l>
+            <l>Nach deiner güldnen haare zahl/</l>
+            <l>Die geister-reichen lippen küssen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß mich den ausbund deiner pracht/</l>
+            <l>Der sammt und rosen nichtig macht/</l>
+            <l>Mit meiner schlechten haut bedecken;</l>
+            <l>Und wenn du deine lenden rührst/</l>
+            <l>Und deinen schooß gen himmel führst/</l>
+            <l>Sich zucker-süsse lust erwecken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und solte durch die heisse brunst/</l>
+            <l>Und deine hohe gegen-gunst</l>
+            <l>Mir auch die seele gleich entfliessen.</l>
+            <l>So ist dein zarter leib die bahr/</l>
+            <l>Die seele wird drey viertel jahr</l>
+            <l>Dein himmels-rundter bauch umschliessen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wer alsdann nach meiner zeit</l>
+            <l>Zu lieben dich wird seyn bereit/</l>
+            <l>Und hören wird/ wie ich gestorben/</l>
+            <l>Wird sagen: Wer also verdirbt/</l>
+            <l>Und in dem zarten schooße stirbt/</l>
+            <l>Hat einen fanfften tod erworben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

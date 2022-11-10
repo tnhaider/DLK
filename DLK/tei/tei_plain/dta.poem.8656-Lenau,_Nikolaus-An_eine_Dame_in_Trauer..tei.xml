@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An eine Dame in Trauer.</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">90</measure>
+        <measure type="tokens">64</measure>
+        <measure type="characters">363</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An eine Dame in Trauer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Grabe deines treuen Mannes</l>
+            <l>Ist noch die Schaufel feucht;</l>
+            <l>O Weib, o nichts von einem Weibe!</l>
+            <l>Dein Aug' ist nicht mehr feucht?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hinab! zuchtloses Blut der Wangen!</l>
+            <l>Ins Herz, du Schandeborn!</l>
+            <l>Kann dich des Gatten Tod nicht jagen,</l>
+            <l>So jage dich mein Zorn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Thränenschild, den Flor herunter!</l>
+            <l>Mit dem du dich behängt;</l>
+            <l>In dieser Kneipe wird die Thräne,</l>
+            <l>Die Edle, nicht geschenkt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

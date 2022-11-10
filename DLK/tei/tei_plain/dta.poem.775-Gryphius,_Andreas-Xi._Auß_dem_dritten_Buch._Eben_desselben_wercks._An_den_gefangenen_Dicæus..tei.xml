@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Xi.  Auß dem dritten Buch.  
+ Eben desselben wercks. An den gefangenen  
+  Dicæus.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">730</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Xi.  Auß dem dritten Buch.  
+ Eben desselben wercks. An den gefangenen  
+  Dicæus.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mutter enger Leib hilt erstlich dich gefangen/ </l>
+            <l>Als deine Seele ward in Fleisch vnd Bein verstrickt:</l>
+            <l>So bald du dieses Licht/ das süße Licht erblickt/</l>
+            <l>Bist du in newe Band vnd Kercker eingegangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist die grosse Welt? ein Blockhauß/ da verlangen/</l>
+            <l>Vnd Angst vnd schwere noth mit strängen fesseln drückt/</l>
+            <l>Wenn vns der freye Todt/ auß diesen Ketten rückt/</l>
+            <l>Denn nimbt die grufft in Hafft/ die gantz erblaßten wangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Waß ist die Freyheit doch/ die nirgend wird gefunden/</l>
+            <l>Du bist eh’ als du bist/ vnd weil du bist gebunden/</l>
+            <l>Du bindest dich selb-selbst in Furcht vnd Sorgen eyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch! wer mit schnellem geist kan durch die Wolcken rennen/</l>
+            <l>Vnd stricke/ die verlust vnd hoffnung/ würckt zutrennen;</l>
+            <l>Kan/ ob jhn Diamant gleich bünde/ freye seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

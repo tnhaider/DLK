@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Tabak</title>
+        <author>
+          <persName>
+            <surname>Eichrodt</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">160</measure>
+        <measure type="characters">940</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1859</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Tabak</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gäb's keine Kartoffeln und gäb's kein Brod,</l>
+            <l>Wie wollt' der gemeine Mann leben?</l>
+            <l>So hören wir jammern in Zeiten der Noth,</l>
+            <l>Als könnt' es nichts Besseres geben.</l>
+            <l>Kartoffeln und Brod,</l>
+            <l>Thut weniger Noth,</l>
+            <l>Aber ohne Tabak, ja das wär' unser Tod.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verhungern, verdursten, wir müßten es längst,</l>
+            <l>Das könnt uns kein Herrgott ersparen,</l>
+            <l>Es hat uns noch niemals ein Mißjahr geängst',</l>
+            <l>Wenn man's nicht am Tabak erfahren.</l>
+            <l>Für Hunger und Durst</l>
+            <l>Ist Wein und Wurst</l>
+            <l>Der dampfende Globen dem Handwerksburst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gäb's keine Kartoffeln und gäb's kein Brod,</l>
+            <l>Wie wollt' der gemeine Mann leben?</l>
+            <l>So hören wir jammern in Zeiten der Noth,</l>
+            <l>Als könnt' es nichts Besseres geben.</l>
+            <l>Kartoffeln und Brod,</l>
+            <l>Thut weniger Noth,</l>
+            <l>Aber ohne Tabak, ja das wär' unser Tod.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verhungern, verdursten, wir müßten es längst,</l>
+            <l>Das könnt uns kein Herrgott ersparen,</l>
+            <l>Es hat uns noch niemals ein Mißjahr geängst',</l>
+            <l>Wenn man's nicht am Tabak erfahren.</l>
+            <l>Für Hunger und Durst</l>
+            <l>Ist Wein und Wurst</l>
+            <l>Der dampfende Globen dem Handwerksburst.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

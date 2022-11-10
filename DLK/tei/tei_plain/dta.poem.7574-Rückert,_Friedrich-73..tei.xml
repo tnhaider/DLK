@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">73.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">377</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>73.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich habe, seit, o Freund, die Götter uns verbanden,</l>
+            <l>Nie deine Weise so, wie meine du, verstanden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist nach deiner Art geübt, an sich zu denken,</l>
+            <l>Und ich, Gedanken nur in Bilder zu versenken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast mir nach und nach geholfen aus dem Traum,</l>
+            <l>Im innern auch zu schaun alswie im äußern Raum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und manches, was ich sonst gethan, weil ich gemußt,</l>
+            <l>Thu' ich mit höherem Genusse nun bewußt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

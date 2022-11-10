@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">König und Dichter.</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">656</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>König und Dichter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stolz flammt ein König dort auf erhabnem Thron,</l>
+            <l>Befehl den Völkern winkt in die Fernen er,</l>
+            <l>Denn scheu vor ihm zurück stets weiter</l>
+            <l>Weichen die Gränzen des Reichs, und weiter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zum nahen Flug jezt lüftet der schnelle Tod</l>
+            <l>Den Fittig, und — was flammte, das glimmt nur mehr;</l>
+            <l>Er rauscht heran — sein starker Flügel</l>
+            <l>Fächelt vom Throne herab die Asche. —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort singt ein Sänger hohe Begeisterung:</l>
+            <l>Die Welle horcht, Wald, Thäler und Berge, selbst</l>
+            <l>Die Götter horchen, seliger, und</l>
+            <l>Sehnen vom hohen Olymp herab sich; —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du winkst, o Tod; — er schweigt; der erstarrten Hand</l>
+            <l>Entsinkt die Leier; doch im Triumfe führt</l>
+            <l>Die Ewigkeit sein Lied davon, das</l>
+            <l>Zürnend die Stärkere dir entrissen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

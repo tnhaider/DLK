@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Allegorisch Sonnet.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">671</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Allegorisch Sonnet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amanda liebstes kind/ du brustlatz kalter hertzen/</l>
+            <l>Der liebe feuerzeug/ goldschachtel edler zier/</l>
+            <l>Der seuffzer blasebalg/ des traurens lösch-papier/</l>
+            <l>Sandbüchse meiner pein/ und baum-öhl meiner schmertzen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du speise meiner lust/ du flamme meiner kertzen/</l>
+            <l>Nachtstülchen meiner ruh/ der Poesie clystier/</l>
+            <l>Des mundes alecant/ der augen lust-revier/</l>
+            <l>Der complementen sitz/ du meisterin zu schertzen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der tugend quodlibet/ calender meiner zeit/</l>
+            <l>Du andachts-fackelchen/ du quell der fröligkeit/</l>
+            <l>Du tieffer abgrund du voll tausend guter morgen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der zungen honigseim/ des hertzens marcipan/</l>
+            <l>Und wie man sonsten dich mein kind beschreiben kan.</l>
+            <l>Lichtputze meiner noth/ und flederwisch der sorgen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

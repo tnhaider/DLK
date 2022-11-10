@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein anders.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">238</measure>
+        <measure type="tokens">167</measure>
+        <measure type="characters">967</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein anders.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! wirff doch einen blick auff deine silber-ballen/</l>
+            <l>Verstockte Sylvia/</l>
+            <l>Sie sind dem tode nah;</l>
+            <l>Die spitzen lassen schon die rosen-blüthe fallen/</l>
+            <l>Die berge ziehn die stoltzen liljen ein/</l>
+            <l>Und werden bald so gleich wie deine wangen seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie/ sind wir/ schreyen sie/ dann darum nur erschaffen/</l>
+            <l>Daß uns ein blinder groll</l>
+            <l>In kercker schliessen soll?</l>
+            <l>Cupido nennet uns ja seine liebes-waffen.</l>
+            <l>Was kommet dich dann für ein eyffer an/</l>
+            <l>Daß du/ o Sylvia! uns in den bann gethan?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr männer helffet uns durch eure macht errteten!</l>
+            <l>Zerreißt das mörder-schloß/</l>
+            <l>Und macht uns wieder loß.</l>
+            <l>Wir lieben keinen zwang/ und leiden keine ketten/</l>
+            <l>Und Franckreichs mod’ und tolle kleider-pracht/</l>
+            <l>Mag seyn für wen sie will/ nur nicht für uns gemacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So klagen/ Sylvia/ die hart-bedrängten Kinder.</l>
+            <l>Ach höre doch ihr schrey’n/</l>
+            <l>Und hilff sie bald befrey’n/</l>
+            <l>Wo nicht/ so schneid sie ab/ und wirff sie vor die rinder.</l>
+            <l>Dann wann sie nur im finstern sollen ruhn/</l>
+            <l>So kan dirs/ wann du willst/ auch wohl ein schuptuch thun.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Blumenchiffer.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">165</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">667</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193310"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Blumenchiffer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blick auf, blick auf zur Sonne</l>
+            <l>O Auge, durch den Thränenflor!</l>
+            <l>Dem Gram entknospt die Wonne.</l>
+            <l>Aus Thränen keimt der Trost empor.</l>
+            <l>Der Iris Farbenfeuer</l>
+            <l>Durchstrahlt den grauen Duft,</l>
+            <l>Es hebt die Brust sich freyer</l>
+            <l>In abgestürmter Luft.</l>
+            <l>Süss mundet uns die Wonne,</l>
+            <l>Die wir mit Quaal bezahlt,</l>
+            <l>Und schöner strahlt die Sonne,</l>
+            <l>Die nach Gewittern strahlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Sonn' entgegen breitet</l>
+            <l>Die Lilie ihre weisse Brust.</l>
+            <l>Von Hoffnung aufgeweitet,</l>
+            <l>Ahnt die Verzweiflung Himmelslust.</l>
+            <l>Die Erde täuscht das Hoffen.</l>
+            <l>Der Durst bleibt ungestillt.</l>
+            <l>Doch steht die Heimath offen,</l>
+            <l>Für die das Herz erschwillt.</l>
+            <l>Was mich ergötzt blüht droben.</l>
+            <l>Nur droben grünt mein Glück.</l>
+            <l>Nach oben drum, nach oben</l>
+            <l>Schaut der bethränte Blick.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

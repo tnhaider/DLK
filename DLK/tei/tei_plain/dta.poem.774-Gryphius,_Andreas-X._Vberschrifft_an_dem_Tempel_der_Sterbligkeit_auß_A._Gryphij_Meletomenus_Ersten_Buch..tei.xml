@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">X.  
+ Vberschrifft an dem Tempel der Sterbligkeit/  
+ auß  A. Gryphij Meletomenus  Ersten  
+ Buch.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-3 4-3</measure>
+        <measure type="syllables">178</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">768</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>X.  
+ Vberschrifft an dem Tempel der Sterbligkeit/  
+ auß  A. Gryphij Meletomenus  Ersten  
+ Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr jrr't in dem jhr lebt die gantz verschränckte bahn </l>
+            <l>Läst keinen richtig gehn. diß was jhr wündscht zu finden</l>
+            <l>Ist jrrthumb: irrthumb ists der euch den Sinn kan binden.</l>
+            <l>Was Ewer Hertz ansteckt/ ist nur ein falscher wahn</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schawt arme/ was jhr sucht. Warumb so viel gethan?</l>
+            <l>Vmb diß was fleisch vnd schweiß vnd blut/ vnd gut/ vnd</l>
+            <l>Sünden</l>
+            <l>Vnd fall/ vnd weh nicht hält; wie plötzlich muß verschwinde</l>
+            <l>Was diesen/ der es hat/ setzt in deß Todes Kahn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr jrr’t in dem jhr schlafft/ jhr jrr’t in dem jhr wachet</l>
+            <l>Jhr jrr’t in dem jhr trawrt/ jhr jrr’t in dem jhr lachet/</l>
+            <l>In dem jhr diß verhöhnt/ vnd das für köstlich acht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dem jhr Freund als feind/ vnd Feind als freunde schätzet/</l>
+            <l>In dem jhr Lust verwerfft/ vnd weh für wollust schätzet/</l>
+            <l>Biß der gefund’ ne Todt eu ch frey vom jrren macht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

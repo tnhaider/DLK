@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Merinos.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">539</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Merinos.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und führt' ich von Lieb' und von Demuth ein Fuder,</l>
+            <l>Und wollt' ich nicht sein so ein Lämmelbruder,</l>
+            <l>Ei so taugt' ich nicht halb mal so viel doch wie sie,</l>
+            <l>Und ich wär nichts nütz' in der Monarchie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und hätt' ich auch Alles den Armen gegeben</l>
+            <l>Und müßt' ich nun selber von Almosen leben,</l>
+            <l>Und wollt' ich kein Lämmelbruder nicht sein,</l>
+            <l>So hielten sie Alles für Trug und für Schein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sollt' ich auch gar mit den englischen Schaaren</l>
+            <l>Leibhaftig vor ihnen gen Himmel auffahren,</l>
+            <l>So glaubten sie alle, sie alle daran nie,</l>
+            <l>Wenn ich wäre kein Lämmelbruder wie sie.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">April</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">410</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1853</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>April</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist die Drossel, die da schlägt,</l>
+            <l>Der Frühling, der mein Herz bewegt;</l>
+            <l>Ich fühle, die sich hold bezeigen,</l>
+            <l>Die Geister aus der Erde steigen.</l>
+            <l>Das Leben fließet wie ein Traum –</l>
+            <l>Mir ist wie Blume, Blatt und Baum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist die Drossel, die da schlägt,</l>
+            <l>Der Frühling, der mein Herz bewegt;</l>
+            <l>Ich fühle, die sich hold bezeigen,</l>
+            <l>Die Geister aus der Erde steigen.</l>
+            <l>Das Leben fließet wie ein Traum –</l>
+            <l>Mir ist wie Blume, Blatt und Baum.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Geistliche Dämmerung</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-3 2-3 3-3 4-3 5-3 6-3 7-3 8-3</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">642</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1900</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Geistliche Dämmerung</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stille begegnet am Saum des Waldes</l>
+            <l>Ein dunkles Wild;</l>
+            <l>Am Hügel endet leise der Abendwind,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verstummt die Klage der Amsel,</l>
+            <l>Und die sanften Flöten des Herbstes</l>
+            <l>Schweigen im Rohr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf schwarzer Wolke</l>
+            <l>Befährst du trunken von Mohn</l>
+            <l>Den nächtigen Weiher,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Sternenhimmel.</l>
+            <l>Immer tönt der Schwester mondene Stimme</l>
+            <l>Durch die geistliche Nacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Stille begegnet am Saum des Waldes</l>
+            <l>Ein dunkles Wild;</l>
+            <l>Am Hügel endet leise der Abendwind,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verstummt die Klage der Amsel,</l>
+            <l>Und die sanften Flöten des Herbstes</l>
+            <l>Schweigen im Rohr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf schwarzer Wolke</l>
+            <l>Befährst du trunken von Mohn</l>
+            <l>Den nächtigen Weiher,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Sternenhimmel.</l>
+            <l>Immer tönt der Schwester mondene Stimme</l>
+            <l>Durch die geistliche Nacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

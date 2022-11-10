@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiV.  
+ An  Faustinen.  In schwerer Kranckheit.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-4 4-3</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">755</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiV.  
+ An  Faustinen.  In schwerer Kranckheit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alß ich mit Blutt bedeckt bey noch nicht hellem Tage </l>
+            <l>Nächst auß dem schlaff euch jagt/ habt jhr mir/ was ver-</l>
+            <l>letzt</l>
+            <l>Verbunden/ vnd was sich den schmertzen widersetzt</l>
+            <l>Hervor bracht/ vnd in eill gewendet weh’ vnd klage.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jtzt nun ich hitz vnd angst vnd ach vnd pein ertrage/</l>
+            <l>Nun sich die grimme noth vnd Seuch auff mich verhetzt/</l>
+            <l>Nun der geruffte todt auff mich die Pfeile wetzt.</l>
+            <l>Sucht jhr bald diß bald das zu wenden meine plage.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn hab ich wol verdien’t/ daß ewre gunst so fest</l>
+            <l>Vnd standhafft bey mir hält nun Freundt vnd feindt mich</l>
+            <l>läst/</l>
+            <l>Wenn werd ich/ vnd mit was/ die wolthat je vergelten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein vntergang ist dar/ mich schmertzt der todt nicht sehr</l>
+            <l>Weil alles doch vergeht/ diß schmertzt mich vielmal mehr.</l>
+            <l>Daß man mich in der grufft noch wird vndanckbar schelten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

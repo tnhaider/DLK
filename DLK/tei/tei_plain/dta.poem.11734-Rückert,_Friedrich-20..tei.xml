@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">20.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">202</measure>
+        <measure type="tokens">137</measure>
+        <measure type="characters">807</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>20.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Knabe steht am Berg und lauscht in stiller Wonne,</l>
+            <l>Weil gegenüber ihm aufgehen will die Sonne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die höchsten Spitzen sieht von Hoffnung er geröthet,</l>
+            <l>Und hört von Lerchenlied den Sieg des Lichts geflötet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch immer will sie selbst noch kommen nicht empor,</l>
+            <l>Und seiner Sehnsucht schiebt sich eine Wolke vor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da faßt ihn Ungeduld: wie lange will sie säumen?</l>
+            <l>Der Sonn' entgegen geht er vorwerts in den Räumen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er geht den Berg hinab, er stand am Bergabhange,</l>
+            <l>Entgegen berghinab geht er dem Sonnaufgange.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und immer schwächer wird um ihn der Morgenschein,</l>
+            <l>Wie tiefer in die Nacht des Thals er geht hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und aus der Schlucht, wo ihm der letzte Schein verglimmt,</l>
+            <l>Sieht er zurück, wie rings in Glanz die Schöpfung schwimmt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sieht denselben Platz, von dem er ausgegangen,</l>
+            <l>Vom hellsten Sonnenstral, den er ersehnt, umfangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

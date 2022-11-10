@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Seance</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-14 2-14</measure>
+        <measure type="syllables">256</measure>
+        <measure type="tokens">154</measure>
+        <measure type="characters">924</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1790</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Seance</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ist's, wo unter eignem Namen</l>
+            <l>Die Buchstaben sonst zusammenkamen.</l>
+            <l>Mit Scharlachkleidern angetan,</l>
+            <l>Saßen die Selbstlauter obenan:</l>
+            <l>A, E, I, O und U dabei,</l>
+            <l>Machten gar ein seltsam Geschrei.</l>
+            <l>Die Mitlauter kamen mit steifen Schritten,</l>
+            <l>Mußten erst um Erlaubnis bitten:</l>
+            <l>Präsident A war ihnen geneigt,</l>
+            <l>Da wurd ihnen denn der Platz gezeigt;</l>
+            <l>Andre aber, die mußten stehn,</l>
+            <l>Als Pe-Ha und Te-Ha und solches Getön.</l>
+            <l>Dann gab's ein Gerede, man weiß nicht wie:</l>
+            <l>Das nennt man eine Akademie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ist's, wo unter eignem Namen</l>
+            <l>Die Buchstaben sonst zusammenkamen.</l>
+            <l>Mit Scharlachkleidern angetan,</l>
+            <l>Saßen die Selbstlauter obenan:</l>
+            <l>A, E, I, O und U dabei,</l>
+            <l>Machten gar ein seltsam Geschrei.</l>
+            <l>Die Mitlauter kamen mit steifen Schritten,</l>
+            <l>Mußten erst um Erlaubnis bitten:</l>
+            <l>Präsident A war ihnen geneigt,</l>
+            <l>Da wurd ihnen denn der Platz gezeigt;</l>
+            <l>Andre aber, die mußten stehn,</l>
+            <l>Als Pe-Ha und Te-Ha und solches Getön.</l>
+            <l>Dann gab's ein Gerede, man weiß nicht wie:</l>
+            <l>Das nennt man eine Akademie.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

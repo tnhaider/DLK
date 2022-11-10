@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Weinlese.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">339</measure>
+        <measure type="tokens">229</measure>
+        <measure type="characters">1321</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Weinlese.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willkommen, Weinles, unsre Freude!</l>
+            <l>Sey ewig unser grosses Fest!</l>
+            <l>Wie jauchzen wir, nach langem Leide,</l>
+            <l>Daß Bacchus uns nicht gar verläßt!</l>
+            <l>Du schenkest uns das Mark der Reben,</l>
+            <l>Den Greis und Jüngling zu erfreun.</l>
+            <l>Ja, ja! nun mag ich wieder leben:</l>
+            <l>Was ist ein Leben ohne Wein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Erdkreis drohte zu vergehen:</l>
+            <l>Denn, ach! die Rebe stund betrübt.</l>
+            <l>Nun fließt ihr Necktar auf den Höhen,</l>
+            <l>Der allem neues Leben giebt.</l>
+            <l>Erfrorne Dichter, singt nun wieder!</l>
+            <l>Will keine Muse günstig seyn?</l>
+            <l>Lyäus lehret bessre Lieder:</l>
+            <l>Nichts ist so sinnreich, als der Wein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verschmachtend lag mit schlaffem Bogen</l>
+            <l>Die matte Liebe hingestreckt.</l>
+            <l>Wie muthig ist sie aufgeflogen,</l>
+            <l>Nachdem sie jungen Wein geschmeckt!</l>
+            <l>Er hilft ihr feine Freunde krönen:</l>
+            <l>Es ist bequem, ihr Weib zu seyn:</l>
+            <l>Sie küssen immer treue Schönen;</l>
+            <l>So überredend ist ihr Wein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jsmenen quält ein träger Gatte,</l>
+            <l>Der ganze Nächte schlafen kann.</l>
+            <l>Weil Amor nicht geholfen hatte,</l>
+            <l>So ruft sie Vater Bacchum an.</l>
+            <l>Der Alte zecht, wird los’ und herzet,</l>
+            <l>Und schläft erst spät und küssend ein.</l>
+            <l>Daß der mit halber Jugend scherzet;</l>
+            <l>O Wunder! thut es nicht der Wein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Wein kann alles möglich machen:</l>
+            <l>Dir, Wein, sey dieser Tag geweiht!</l>
+            <l>Es herrsche Scherz, Gesang und Lachen;</l>
+            <l>Man zech’ aus frommer Dankbarkeit!</l>
+            <l>Was fehlt? Jhr Freunde, nur noch eines!</l>
+            <l>Den frohen Amor ladet ein:</l>
+            <l>Denn Amor ist ein Freund des Weines,</l>
+            <l>Und ohne Küsse schmeckt kein Wein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

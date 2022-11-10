@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verliebte Arien.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">225</measure>
+        <measure type="tokens">147</measure>
+        <measure type="characters">917</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verliebte Arien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo sind die stunden</l>
+            <l>Der süssen zeit/</l>
+            <l>Da ich zuerst empfunden/</l>
+            <l>Wie deine lieblichkeit</l>
+            <l>Mich dir verbunden?</l>
+            <l>Sie sind verrauscht/ es bleibet doch darbey/</l>
+            <l>Daß alle lust vergänglich sey.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das reine schertzen/</l>
+            <l>So mich ergetzt/</l>
+            <l>Und in dem tieffen hertzen</l>
+            <l>Sein merckmahl eingesetzt/</l>
+            <l>Läst mich in schmertzen/</l>
+            <l>Du hast mir mehr als deutlich kund gethan/</l>
+            <l>Daß freundlichkeit nicht anckern kan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das angedencken</l>
+            <l>Der zucker-lust/</l>
+            <l>Will mich in angst versencken.</l>
+            <l>Es will verdammte kost</l>
+            <l>Uns zeitlich kräncken/</l>
+            <l>Was man geschmeckt/ und nicht mehr schmecken soll/</l>
+            <l>Ist freuden-leer und jammer-voll.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Empfangne küsse/</l>
+            <l>Ambrirter safft</l>
+            <l>Verbleibt nicht lange süsse/</l>
+            <l>Und kommt von aller krafft;</l>
+            <l>Verrauschte flüsse</l>
+            <l>Erqvicken nicht was unsern geist erfreut/</l>
+            <l>Entspringt aus gegenwärtigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schwamm in freude/</l>
+            <l>Der liebe hand</l>
+            <l>Spann mir ein kleid von seide/</l>
+            <l>Das blat hat sich gewand/</l>
+            <l>Ich geh’ im leide/</l>
+            <l>Ich wein’ itzund/ daß lieb und sonnenschein</l>
+            <l>Stets voller angst und wolcken seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

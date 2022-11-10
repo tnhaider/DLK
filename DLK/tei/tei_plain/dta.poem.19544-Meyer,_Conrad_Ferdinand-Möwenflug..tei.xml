@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Möwenflug.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-12 2-8</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">752</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Möwenflug.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Möwen sah um einen Felsen kreisen</l>
+            <l>Ich in unermüdlich gleichen Gleisen,</l>
+            <l>Auf gespannter Schwinge schweben bleibend,</l>
+            <l>Eine schimmernd weiße Bahn beschreibend,</l>
+            <l>Und zugleich in grünem Meeresspiegel</l>
+            <l>Sah ich um die selben Felsenspitzen</l>
+            <l>Eine helle Jagd gestreckter Flügel</l>
+            <l>Unermüdlich durch die Tiefe blitzen.</l>
+            <l>Und der Spiegel hatte solche Klarheit,</l>
+            <l>Daß sich anders nicht die Flügel hoben</l>
+            <l>Tief im Meer, als hoch in Lüften oben,</l>
+            <l>Daß sich völlig glichen Trug und Wahrheit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allgemach beschlich es mich wie Grauen,</l>
+            <l>Schein und Wesen so verwandt zu schauen,</l>
+            <l>Und ich fragte mich, am Strand verharrend,</l>
+            <l>Ins gespenstische Geflatter starrend:</l>
+            <l>Und du selber? Bist du ächt beflügelt?</l>
+            <l>Oder nur gemalt und abgespiegelt?</l>
+            <l>Gaukelst du im Kreis mit Fabeldingen?</l>
+            <l>Oder hast du Blut in deinen Schwingen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

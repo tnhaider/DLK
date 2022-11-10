@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">624</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dv Westwind/ der im Lentz den Lust der Felder heget/</l>
+            <l>Den </l>
+            <l>Hastu gar keinen Staub gebracht mit dir anher/</l>
+            <l>Den mein geliebter Buhl an seinen Füssen treget?</l>
+            <l>Ach hastu/ wenn sein Hertz auß Liebe sich bewege</l>
+            <l>Nicht seines Athems was gefangen ohngefehr/</l>
+            <l>Vnd jhn durch deine Lufft geraubt/ als du vnd er</l>
+            <l>Der Venus den Geruch der Lieblichkeit erreget?</l>
+            <l>Viel mehr ist Spanien von mir als Rom geschetzt/</l>
+            <l>Ob es gleich vberal mit vielem Blut genetzt/</l>
+            <l>Weil mein Buhl drinnen ist/ so muß ich es erhöhen.</l>
+            <l>Ach Westwind/ hole mir ein stäublin diser stund/</l>
+            <l>Ein einig seufftzerlin auß seinem roten Mund/</l>
+            <l>Hier thue es in den Brieff/ darauff die Reimen stehen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

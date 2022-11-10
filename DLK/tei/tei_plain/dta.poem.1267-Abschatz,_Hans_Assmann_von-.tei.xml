@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"></title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-3</measure>
+        <measure type="syllables">285</measure>
+        <measure type="tokens">197</measure>
+        <measure type="characters">1134</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head></head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Hoffnung/ welche sich kan nimmer ruhig wissen/</l>
+            <l>Die ists/ die unser Hertz in tausend Stücke theilt.</l>
+            <l>Die Wunden/ welche sonst Gedult und Zeit verheilt/</l>
+            <l>Hat eitles Hoffen mehr als erstlich auffgerissen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im fall nicht Tantalus im Wasser müste stehen/</l>
+            <l>Im fall die Aepffel ihm nicht reichten an den Mund/</l>
+            <l>Da ihm doch Speiß und Tranck zu brauchen nicht ver-</l>
+            <l>So würde seiner Qual ein grosser Theil entgehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr/ die ihr Ruhe sucht in schwerer Angst und Leyden/</l>
+            <l>Wie sehr euch auch beschwert die aufferlegte Pein/</l>
+            <l>Im fall ihr mit der Zeit derselben loß wolt seyn/</l>
+            <l>So müsset ihr die Last der eitlen Hoffnung meiden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Hoffnung/ fremdes Gutt und Ehre zu erlangen/</l>
+            <l>Schickt ein verwegnes Hertz auffs fichtne Wasser-</l>
+            <l>Füllt die erzürnte See mit todten Leichen auß.</l>
+            <l>Die Hoffnung macht das Garn mit reichem Raube pran-</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Hoffnung pfleget sich Bellona zu bedienen/</l>
+            <l>Wenn sie das blancke Feld mit Menschen-Blutte nezt:</l>
+            <l>Im fall die Hoffnung ihr ein langes Ziel gesezt/</l>
+            <l>Soll unbeweget stehn der Bau der Himmel-Büh-</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll Wind und Wetter sich zu ihren Willen schicken/</l>
+            <l>Drum hoffe wahren Trost nur von der Hoffnung nicht:</l>
+            <l>Je mehr du diese nährst/ ie mehr die Last wird drü-</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

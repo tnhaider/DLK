@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Illuminanten.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-5 2-5</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">65</measure>
+        <measure type="characters">421</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Illuminanten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erfindungsreichste Zeit von allen Zeiten!</l>
+            <l>Wir schreiten fort um weiter fortzuschreiten.</l>
+            <l>Benutzt wird alles was uns Gott verliehn,</l>
+            <l>Der ganze Mensch, sein Koth und sein Urin,</l>
+            <l>Sogar sein Leichnam — Lichter draus zu ziehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freut euch, ihr dummen finstern Schafsgesichter!</l>
+            <l>Nach eurem Tode werdet ihr noch Lichter,</l>
+            <l>Und jenen Schatten, den ihr habt gemacht,</l>
+            <l>Bezahlt ihr einst mit Lichtes Glanz und Pracht —</l>
+            <l>Ihr Schafsgesichter, habt ihr </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

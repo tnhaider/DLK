@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">122.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">122</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">495</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>122.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du bist nur halb, o Mensch, wie dich hervorgebracht</l>
+            <l>Hat die Natur, und halb, wie du dich selbst gemacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie hat den festen Grund gelegt, an den du rühren</l>
+            <l>Nicht darfst, dir aber bleibt der Bau drauf auszuführen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bei jenem kanst du nichts, bei diesem alles thun,</l>
+            <l>Und dieses ist genug, um träge nie zu ruhn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie ruhe, bis du gut das was du schlecht gemacht</l>
+            <l>An dir, und was du falsch gemacht, hast recht gemacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dazu ists nie zu früh, dazu ists nie zu spät;</l>
+            <l>Denn stets im Werden, bist du nie geworden stät.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

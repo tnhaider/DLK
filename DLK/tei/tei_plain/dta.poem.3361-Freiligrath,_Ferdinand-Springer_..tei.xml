@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Springer .</title>
+        <author>
+          <persName>
+            <surname>Freiligrath</surname>
+            <forename>Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">203</measure>
+        <measure type="tokens">153</measure>
+        <measure type="characters">843</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1846</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191464"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Springer .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein besser Schachbrett, als die Welt:</l>
+            <l>Zur Limmat rück’ ich von der Schelde!</l>
+            <l>Ihr sprengt mich wohl von Feld zu Feld,</l>
+            <l>Doch schlagt ihr mich nicht aus dem Felde!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ist es eben in dem Schach</l>
+            <l>Der Freien wider die Despoten:</l>
+            <l>Zug über Zug und Schlag auf Schlag,</l>
+            <l>Und Ruh’ wird keine nicht geboten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ist, als müßt’ ich auch von hier</l>
+            <l>Den Stab noch in die Weite setzen;</l>
+            <l>Als würden auch aus Tell’s Revier</l>
+            <l>Die Launen dieses Spiels mich hetzen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin bereit! Noch braust das Meer</l>
+            <l>Um Norweg’s freie Bauernstätten;</l>
+            <l>Noch rasselt es von Frankreich her,</l>
+            <l>Wie Klirren von gebrochnen Ketten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein flüchtig Haupt hat Engelland</l>
+            <l>Von seiner Schwelle noch gewiesen;</l>
+            <l>Noch winkt mir eine Freundeshand</l>
+            <l>Nach des Ohio lust’gen Wiesen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von Dorf zu Dorf, von Stadt zu Stadt,</l>
+            <l>Von Land zu Land — mich schiert es wenig!</l>
+            <l>Kein Zug des Schicksals setzt mich matt: —</l>
+            <l>Matt werden kann ja nur der König!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

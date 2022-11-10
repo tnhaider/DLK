@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">80.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">514</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>80.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich weiß nicht“ hab' ich unbedenklich oft gesagt</l>
+            <l>Dem Kinde, das mich Unbeantwortlichs gefragt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zuletzt hat es gesagt: du weißt auch gar nichts, Vater!</l>
+            <l>Und zu Besinnung hat mich das gebracht, zu spater.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich weiß nicht“ sollst du nie dem Kind auf seine Fragen,</l>
+            <l>Ausweichend ihm vielmehr dies oder jenes sagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich denk'? ich glaub'? ich mein'?“ ei, Gott behüte, nein!</l>
+            <l>Das würd' Unwissenheit in andrer Wendung seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„nicht sagen will ichs dir, du wirst es schon erfahren,</l>
+            <l>Erwarte nur die Zeit, du kannst dein Fragen sparen.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

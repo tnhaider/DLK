@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die neuen Häuser</title>
+        <author>
+          <persName>
+            <surname>Heym</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">254</measure>
+        <measure type="tokens">156</measure>
+        <measure type="characters">976</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1899</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die neuen Häuser</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im grünen Himmel, der manchmal knallt</l>
+            <l>Vor Frost im rostigen Westen,</l>
+            <l>Wo noch ein Baum mit den Ästen</l>
+            <l>Schreit in den Abend, stehen sie plötzlich, frierend und kalt,</l>
+            <l>Wie Pilze gewachsen, und strecken in ihren Gebresten</l>
+            <l>Ihre schwarzen und dünnen Dachsparren himmelan,</l>
+            <l>Klappernd in ihrer Mauern schäbigem Kleid</l>
+            <l>Wie ein armes Volk, das vor Kälte schreit.</l>
+            <l>Und die Diebe schleichen über die Treppen hinan,</l>
+            <l>Springen oben über die Böden mit schlenkerndem Bein,</l>
+            <l>Und manchmal flackert heraus ihr Laternenschein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im grünen Himmel, der manchmal knallt</l>
+            <l>Vor Frost im rostigen Westen,</l>
+            <l>Wo noch ein Baum mit den Ästen</l>
+            <l>Schreit in den Abend, stehen sie plötzlich, frierend und kalt,</l>
+            <l>Wie Pilze gewachsen, und strecken in ihren Gebresten</l>
+            <l>Ihre schwarzen und dünnen Dachsparren himmelan,</l>
+            <l>Klappernd in ihrer Mauern schäbigem Kleid</l>
+            <l>Wie ein armes Volk, das vor Kälte schreit.</l>
+            <l>Und die Diebe schleichen über die Treppen hinan,</l>
+            <l>Springen oben über die Böden mit schlenkerndem Bein,</l>
+            <l>Und manchmal flackert heraus ihr Laternenschein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

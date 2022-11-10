@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput V.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">537</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput V.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Hosen sind roth und nicht mehr weiß,</l>
+            <l>Sie haben auch andere Knöpfe,</l>
+            <l>Sie singen nicht mehr, sie springen nicht mehr,</l>
+            <l>Sie senken nachdenklich die Köpfe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie philosophiren und sprechen jetzt</l>
+            <l>Von Kant, von Fischte und Hegel,</l>
+            <l>Sie rauchen Tabak, sie trinken Bier,</l>
+            <l>Und manche schieben auch Kegel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie werden Philister ganz wie wir</l>
+            <l>Und treiben es endlich noch ärger;</l>
+            <l>Sie sind keine Voltairianer mehr,</l>
+            <l>Sie werden Hengstenberger.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Alphred de Müsset, das ist wahr,</l>
+            <l>Ist noch ein Gassenjunge;</l>
+            <l>Doch fürchte nichts, wir fesseln ihm</l>
+            <l>Die schändliche Spötterzunge.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

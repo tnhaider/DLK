@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Sylvien.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">123</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">507</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Sylvien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was fluchst du/ Sylvia/ wenn meine schwartze hand</l>
+            <l>Um deinen busen spielet?</l>
+            <l>Sie war so weiß als du/ eh’ sie der liebe brand/</l>
+            <l>Und deine macht gefühlet.</l>
+            <l>Flößstu das feuer nun in meine glieder ein/</l>
+            <l>So kan ja meine hand nicht schnee und marmol seyn.</l>
+            <l>Du sprichst: Sie hat hier nichts zu suchen und zu thun.</l>
+            <l>Gar recht; Es soll auch bleiben.</l>
+            <l>Sie suchet nichts als dich/ sie wünschet bloß zu ruhn/</l>
+            <l>Und ihren schertz zu treiben.</l>
+            <l>Was ursach hast du dann/ daß du dich so beklagst?</l>
+            <l>Da du doch diese gunst den flöhen nicht versagst.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

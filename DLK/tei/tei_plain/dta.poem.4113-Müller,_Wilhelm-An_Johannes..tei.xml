@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Johannes.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">157</measure>
+        <measure type="tokens">107</measure>
+        <measure type="characters">622</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Johannes.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verschwieg'ner Liebesflammen Lust und Schmerz,</l>
+            <l>Und von den Klängen fühl' ich nun durchdrungen</l>
+            <l>Mit tiefer Regung fast mein eignes Herz.</l>
+            <l>Der Frühling naht: schon trägt man aus dem Hause</l>
+            <l>Die Blumen an das freie Tageslicht;</l>
+            <l>Und länger bleiben auch in ihrer Klause</l>
+            <l>Die Winterblüthen meiner Muse nicht.</l>
+            <l>Gedeihen muß die Lenzluft ihnen geben</l>
+            <l>Und junges Grün und frischen Knospendrang,</l>
+            <l>Auf daß sie sich befreunden mit dem Leben,</l>
+            <l>Und werben nach der Leute Lob und Dank.</l>
+            <l>So ziehn sie aus im Duft und Glanz des Maien,</l>
+            <l>Bekränzt mit schwarzem Leid und bunter Lust;</l>
+            <l>Und will der Winter sie mit Schnee bestreuen,</l>
+            <l>So flüchten sie zurück in deine Brust.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

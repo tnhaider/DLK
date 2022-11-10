@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">111</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">464</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Burg der sterbligkeit! </l>
+            <l>O Kercker voll von Leidt! </l>
+            <l>O Erden Leichen-volle grufft! </l>
+            <l>O Schlachtbanck/ Stock vnd See/ </l>
+            <l>O Abgrund-tieffes weh'! </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>W</l>
+            <l>Beschwert an deinem Joch? </l>
+            <l>W</l>
+            <l>Der mich mit trost entsetzt/ </l>
+            <l>W</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! meiner Seelen licht! </l>
+            <l>Ach meine zuversicht! </l>
+            <l>Erquicke mich in diesem schmertz! </l>
+            <l>Ernewre die Cedult! </l>
+            <l>Vergiß der alten Schuldt! </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Reiß/ was mich bindt/ entzwey! </l>
+            <l>Vnd mach' auß nöthen frey </l>
+            <l>Ein dir so fest-verlobtes Hertz! </l>
+            <l>Vnd führ auß dieser pein </l>
+            <l>Mich in dein Wonhauß eyn. </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

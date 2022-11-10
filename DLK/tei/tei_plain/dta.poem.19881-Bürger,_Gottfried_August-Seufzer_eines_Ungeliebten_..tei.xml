@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Seufzer  
+ eines Ungeliebten .</title>
+        <author>
+          <persName>
+            <surname>Bürger</surname>
+            <forename>Gottfried August</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">522</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1778</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519672"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Seufzer  
+ eines Ungeliebten .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du nicht Liebe zu gemessen               </l>
+            <l>Dem Leben jeder Kreatur?</l>
+            <l>Warum bin ich allein vergessen,</l>
+            <l>Auch meine Mutter du! Natur?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo lebte wol in Forst und Hürde,</l>
+            <l>Und wo in Luft und Meer ein Thier,</l>
+            <l>Das nimmermehr geliebet würde? —</l>
+            <l>Geliebt wird alles ausser mir!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn gleich in Hain und Wiesenmatten</l>
+            <l>Sich Baum und Staude, Moos und Kraut,</l>
+            <l>Durch Lieb’ und Gegenliebe gatten;</l>
+            <l>Vermält sich mir doch keine Braut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir wächst vom süssesten der Triebe</l>
+            <l>Nie Honigfrucht zur Lust heran.</l>
+            <l>Denn ach! mir mangelt Gegenliebe,</l>
+            <l>Die Eine nur gewären kan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

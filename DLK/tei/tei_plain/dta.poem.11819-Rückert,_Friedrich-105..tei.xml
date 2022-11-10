@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">105.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">137</measure>
+        <measure type="characters">719</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>105.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Bauer hat ein Hun und eine Kuh dazu;</l>
+            <l>Die Schuldigkeit will thun doch weder Hun noch Kuh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hofft, ihm soll ein Ei vom Hun ein Mahl bereiten,</l>
+            <l>Und von der Kuh dabei die Milch den Trunk bestreiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er hofft, es soll ein Ei ein Küchlein auch gebären,</l>
+            <l>Und daß die Kuh ihm sei bereit ein Kalb zu nähren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es fressen ihm die zwei umsonst nur Korn und Kräuter;</l>
+            <l>Das Hun frißt selbst sein Ei, die Kuh trinkt selbst ihr Euter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O schlimme Eigenschaft, sich selbst nur zu beachten,</l>
+            <l>Weder Nachkommenschaft noch Haushalt zu betrachten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was kann im Haus der Bund von Hun und Kuh dir taugen,</l>
+            <l>Die ihre Eier und ihr Euter selbst aussaugen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum sollst du in das Haus so Kuh als Henne schlachten,</l>
+            <l>Und neue kaufen aus dem Geld, das sie dir brachten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

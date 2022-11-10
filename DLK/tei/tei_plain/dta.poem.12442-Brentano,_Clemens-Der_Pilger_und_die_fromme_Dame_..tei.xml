@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Pilger und die fromme Dame .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">317</measure>
+        <measure type="tokens">225</measure>
+        <measure type="characters">1258</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Pilger und die fromme Dame .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es reist ein Pilgersmann nach Morgenland hinaus,               </l>
+            <l>Er kam vor eines Edelmannes Haus,</l>
+            <l>Kam vor sein Haus, vor seine Thür,</l>
+            <l>Trat eine schöne Dam herfür.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er sprach sie an um eine gute Gab,</l>
+            <l>Was eine solche Dam vermag:</l>
+            <l>„ich kann dir halt nichts geben,</l>
+            <l>„in mein Schlafkämmerlein laß ich dich legen.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Pilgersmann war von Herzen froh,</l>
+            <l>Sein Mantel er sogleich auszog,</l>
+            <l>Sie schlafen bey einander die liebe lange Nacht,</l>
+            <l>Bis daß das Hämmerlein sechs Uhr schlägt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ey Bettelmann steh auf, es ist schon Zeit,</l>
+            <l>„die Vögelein singen auf grüner Heid.“</l>
+            <l>„ey laß sie betteln und pfeifen oder nicht,</l>
+            <l>„von meiner Allerliebsten scheid ich nicht.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als der Pilgersmann zum Hof raus kam,</l>
+            <l>Der Edelmann vom Jagen zurücke kam:</l>
+            <l>„ich wünsche euch das ewige Leben,</l>
+            <l>„die Fraue hat mir schon Gab gegeben.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ey Frau, was hast du denn dem Bettelmann gegeben,</l>
+            <l>„daß er mir wünscht das ewge Leben.“</l>
+            <l>„ich hab ihm nichts gegeben als dies oder das,</l>
+            <l>„so viel mein zarter Leib vermag.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ey Frau, laß den Bettelmann fein nimmer in dein Haus,</l>
+            <l>„lang ihm seine Gabe zum Fenster hinaus,</l>
+            <l>„binds ihm an eine lange Stange an,</l>
+            <l>„daß er zu dir nicht langen kann.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ey Mann, er bringt ja Segen in dein Haus,</l>
+            <l>„es geht der fromme Mann ins Morgenland hinaus.“</l>
+            <l>„und zieht er hin, so laß ihn gehn,</l>
+            <l>„er möchte sonst gar stille stehn.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

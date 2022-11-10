@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">2.</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">745</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>2.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwei Fräulein sahn vom Schlosse</l>
+            <l>Hinab in’s tiefe Thal.</l>
+            <l>Ihr Vater kam zu Rosse,</l>
+            <l>Er trug ein Kleid von Stahl.</l>
+            <l>„willkomm, Herr Vater, Gottwillkomm!</l>
+            <l>Was bringst du deinen Kindern?</l>
+            <l>Wir waren beide fromm.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„mein Kind im grünen Kleide!</l>
+            <l>Heut hab’ ich dein gedacht.</l>
+            <l>Die Jagd ist deine Freude</l>
+            <l>Bei Tag und auch bei Nacht.</l>
+            <l>Den Spieß an goldnem Bande hier</l>
+            <l>Nahm ich dem wilden Jäger,</l>
+            <l>Gab ihm den Tod dafür.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie nahm den Spieß zu Händen,</l>
+            <l>Den ihr der Vater bot,</l>
+            <l>Thät in den Wald sich wenden,</l>
+            <l>Ihr Jagdruf war der Tod.</l>
+            <l>Dort in der Linde Schatten traf</l>
+            <l>Sie bei den treuen Bracken</l>
+            <l>Ihr Lieb im tiefen Schlaf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich komme zu der Linde,</l>
+            <l>Wie ich dem Lieb verhieß.“</l>
+            <l>Da stieß sie gar geschwinde</l>
+            <l>In ihre Brust den Spieß.</l>
+            <l>Sie ruhten bei einander kühl,</l>
+            <l>Waldvöglein sangen oben,</l>
+            <l>Grün Laub herunter fiel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

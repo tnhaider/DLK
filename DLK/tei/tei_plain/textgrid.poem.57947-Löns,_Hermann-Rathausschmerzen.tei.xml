@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Rathausschmerzen</title>
+        <author>
+          <persName>
+            <surname>Löns</surname>
+            <forename>Hermann</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">672</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1890</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Rathausschmerzen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie wollten allzu hoch hinaus</l>
+            <l>Schon bei den Außenmauern,</l>
+            <l>Viel weiter hat es nicht gelangt,</l>
+            <l>Nun stehn wir da und trauern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Bauherr ward am Säckel krank,</l>
+            <l>Sein Geld tat ihm zerrinnen,</l>
+            <l>Von außen sieht es protzig aus,</l>
+            <l>Doch klaterig von innen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von außen ist es wundervoll,</l>
+            <l>Von außen ist's beglissen,</l>
+            <l>Von innen aber weniger,</l>
+            <l>Da ist es stark belämmert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie wollten allzu hoch hinaus</l>
+            <l>Schon bei den Außenmauern,</l>
+            <l>Viel weiter hat es nicht gelangt,</l>
+            <l>Nun stehn wir da und trauern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Bauherr ward am Säckel krank,</l>
+            <l>Sein Geld tat ihm zerrinnen,</l>
+            <l>Von außen sieht es protzig aus,</l>
+            <l>Doch klaterig von innen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von außen ist es wundervoll,</l>
+            <l>Von außen ist's beglissen,</l>
+            <l>Von innen aber weniger,</l>
+            <l>Da ist es stark belämmert.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

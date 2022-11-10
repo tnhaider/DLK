@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Unter den Sternen</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">692</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1861</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Unter den Sternen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer in der Sonne kämpft, ein Sohn der Erde,</l>
+            <l>Und feurig geißelt das Gespann der Pferde,</l>
+            <l>Wer brünstig ringt nach eines Zieles Ferne,</l>
+            <l>Von Staub umwölkt – wie glaubte der die Sterne?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch das Gespann erlahmt, die Pfade dunkeln,</l>
+            <l>Die ew'gen Lichter fangen an zu funkeln,</l>
+            <l>Die heiligen Gesetze werden sichtbar.</l>
+            <l>Das Kampfgeschrei verstummt. Der Tag ist richtbar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer in der Sonne kämpft, ein Sohn der Erde,</l>
+            <l>Und feurig geißelt das Gespann der Pferde,</l>
+            <l>Wer brünstig ringt nach eines Zieles Ferne,</l>
+            <l>Von Staub umwölkt – wie glaubte der die Sterne?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch das Gespann erlahmt, die Pfade dunkeln,</l>
+            <l>Die ew'gen Lichter fangen an zu funkeln,</l>
+            <l>Die heiligen Gesetze werden sichtbar.</l>
+            <l>Das Kampfgeschrei verstummt. Der Tag ist richtbar.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

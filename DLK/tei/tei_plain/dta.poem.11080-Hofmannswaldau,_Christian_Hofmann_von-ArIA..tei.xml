@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ArIA.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">722</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1709</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20283-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ArIA.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein verhängniß! soll ich brennen,</l>
+            <l>Und doch ohne flammen seyn?</l>
+            <l>Wird man nicht die asche kennen,</l>
+            <l>Wo man hertzen äschert ein?</l>
+            <l>Ich bin kranck am liebes-fieber,</l>
+            <l>So ich doch verschweigen soll;</l>
+            <l>Geht der mund nicht dessen über,</l>
+            <l>Wessen unser hertze voll?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich liebe, kan ich sehen,</l>
+            <l>Und muß thun, als säh ichs nicht.</l>
+            <l>Mein gemüth darff nicht gestehen,</l>
+            <l>Was aus meinen augen bricht.</l>
+            <l>Uber kälte muß ich klagen,</l>
+            <l>Wenn mich quälet feuers-gluth;</l>
+            <l>Doch ein bloser blick wird sagen,</l>
+            <l>Ich besteh aus fleisch und blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber wie wird meine liebe</l>
+            <l>Durch was sträfliches versucht!</l>
+            <l>Ich bin Adams kind und riebe,</l>
+            <l>Greiffe nach verbotner frucht.</l>
+            <l>Wer ist starck zu widerstreben,</l>
+            <l>Wenn die schönheit auf uns dringt?</l>
+            <l>Der die liebligkeit gegeben,</l>
+            <l>Weiß auch, daß dieselbe zwingt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

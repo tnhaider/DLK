@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">GoTTES Ehre durch Eigen-Liebe  
+ gehindert.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-6</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">635</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>GoTTES Ehre durch Eigen-Liebe  
+ gehindert.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du stellest, lieber A., dir</l>
+            <l>Die Gottheit nicht viel anders für,</l>
+            <l>Als hätte Sie allein, und recht absonderlich</l>
+            <l>Die deinen, deinen Stand, und dich,</l>
+            <l>Zur Absicht ihrer Macht und ihrer Lieb’ erwehlet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn ob es deinem Geist zwar nicht an Kräfften fehlet,</l>
+            <l>Vom Schöpfer würdiger zu dencken;</l>
+            <l>So brauchest du sie doch, aus Eigen-Liebe, nicht.</l>
+            <l>Es wird dir gar zu schwer, dein sorgendes Gesicht</l>
+            <l>Auf etwas ausser dir, und von dir abzulencken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hindert dich dein gar zu liebes Ich,</l>
+            <l>In Ehr-Furcht GOTTES Werck und Grösse zu er-</l>
+            <l>Daß Millionen Welte sich</l>
+            <l>Um Millionen Sonnen regen;</l>
+            <l>Dieß alles würdigst du, auf dich allein erpicht,</l>
+            <l>Des ausehns und bewunderns nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

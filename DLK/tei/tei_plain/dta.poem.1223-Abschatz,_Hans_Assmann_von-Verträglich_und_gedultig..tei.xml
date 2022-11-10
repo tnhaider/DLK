@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verträglich und gedultig.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">249</measure>
+        <measure type="tokens">174</measure>
+        <measure type="characters">985</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verträglich und gedultig.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ardenia/ mein Licht/ was wilt du weiter sagen?</l>
+            <l>Ich küsse mit Gedult die Rutte/ die mich schlägt/</l>
+            <l>Und bet in Demutt an den Feind/ der mich erlegt/</l>
+            <l>Verzehre mich in mir mit Leiden und nicht klagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Hylas will alsbald das volle Jawort wissen/</l>
+            <l>Ich warte biß dein Mund es von sich selber spricht.</l>
+            <l>Ein Filadon verträgt sich mit Gesellschafft nicht/</l>
+            <l>Will/ was er noch nicht hat/ bereits allein genüssen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel andre lieben dich; ich laß es frey geschehen:</l>
+            <l>Ein ieder sucht sein Glück/ und liebt was Liebens werth.</l>
+            <l>Du bist doch einem nur zu seiner Zeit beschert:</l>
+            <l>Man wird mich nie indeß zu dienen müde sehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein kluges Urtheil mag ohn allen Zwang erkennen/</l>
+            <l>Wer deiner Gegen-Gunst am besten würdig sey.</l>
+            <l>Doch suchet deine Wahl ein Hertze voller Treu/</l>
+            <l>So bin ich schon gewiß/ du wirst Silvandern nennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll gleich der Ausspruch nicht auff meine Seite fallen/</l>
+            <l>Ich werde dir darob nicht abhold können seyn.</l>
+            <l>Ich will die keusche Brunst ins Hertze schlüssen ein/</l>
+            <l>Und bleibe biß ins Grab dein Treuster unter allen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

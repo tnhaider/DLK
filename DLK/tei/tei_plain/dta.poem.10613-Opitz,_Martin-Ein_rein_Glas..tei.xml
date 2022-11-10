@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein rein Glas.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">561</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein rein Glas.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freylich/ freylich ist ein Glas/</l>
+            <l>Edle Jungfraw/ alles das/</l>
+            <l>Was in ewrer besten Zier/</l>
+            <l>Als die Sonne/ leuchtet für/</l>
+            <l>Schaut/ wie schön die Sternen all</l>
+            <l>Leuchten auß des Himmels Saal/</l>
+            <l>Wie der Mond sein bleiches Haar</l>
+            <l>Außgebreitet gantz vnd gar/</l>
+            <l>Wie die grosse weite Welt</l>
+            <l>Schläfrig in die Bethe fellt/</l>
+            <l>Wie die Wasser stehen still/</l>
+            <l>Wie sich nichts bewegen will.</l>
+            <l>Eh der Vögel Lobgesang</l>
+            <l>Wiederthönt mit hellem Klang/</l>
+            <l>Eh der liechte Venus Stern</l>
+            <l>Sich läst sehen weit vnd fern/</l>
+            <l>Eh die schöne Morgenröth</l>
+            <l>Auß dem sussen Schlaf vffsteht/</l>
+            <l>Vnd entdecket jhren schein/</l>
+            <l>Wirdt das Glas zubrochen sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

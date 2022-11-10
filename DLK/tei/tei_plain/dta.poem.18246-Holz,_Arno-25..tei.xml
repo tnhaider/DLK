@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">25.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-7 2-8</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">526</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>25.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein ew'ger Wechsel ist die Welt;</l>
+            <l>Der kleinste Stein lehrt's dich auf Erden,</l>
+            <l>Er wächst, er dauert und zerschellt.</l>
+            <l>Und dennoch willst du sie verklagen,</l>
+            <l>Die Parze, die den Faden spinnt,</l>
+            <l>Und meinst du könntest es nicht tragen,</l>
+            <l>Wenn dir ein Traum in Nichts zerrinnt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O sieh, wie hoch sich dir zu Häupten</l>
+            <l>Die Sterne drehn im Sphärentanz;</l>
+            <l>Wer weiß, ob sie nicht längst zerstäubten,</l>
+            <l>Und dennoch blendet dich ihr Glanz.</l>
+            <l>So läßt Erinnrung auch im Busen</l>
+            <l>Dich dein versunknes Eden sehn</l>
+            <l>Und durch die goldne Gunst der Musen</l>
+            <l>In Liedern wieder auferstehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

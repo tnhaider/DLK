@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XXVI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">129</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">495</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XXVI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich denke mit Widerwillen noch</l>
+            <l>An jene schnöden, verfluchten</l>
+            <l>Vorspielgerüche, das schien ein Gemisch</l>
+            <l>Von altem Kohl und Juchten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entsetzlich waren die Düfte, o Gott!</l>
+            <l>Die sich nachher erhuben;</l>
+            <l>Es war als fegte man den Mist</l>
+            <l>Aus sechs und dreißig Gruben. – – –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß wohl was Saint-Just gesagt</l>
+            <l>Weiland im Wohlfahrtsausschuß:</l>
+            <l>Man heile die große Krankheit nicht</l>
+            <l>Mit Rosenöl und Moschus –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch dieser deutsche Zukunftsduft</l>
+            <l>Mocht alles überragen</l>
+            <l>Was meine Nase je geahnt –</l>
+            <l>Ich konnt es nicht länger ertragen – – –</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Für Musik</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">520</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Für Musik</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun die Schatten dunkeln,</l>
+            <l>Stern an Stern erwacht:</l>
+            <l>Welch ein Hauch der Sehnsucht</l>
+            <l>Flutet in der Nacht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch das Meer der Träume</l>
+            <l>Steuert ohne Ruh',</l>
+            <l>Steuert meine Seele</l>
+            <l>Deiner Seele zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die sich dir ergeben,</l>
+            <l>Nimm sie ganz dahin!</l>
+            <l>Ach, du weißt, daß nimmer</l>
+            <l>Ich mein eigen bin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun die Schatten dunkeln,</l>
+            <l>Stern an Stern erwacht:</l>
+            <l>Welch ein Hauch der Sehnsucht</l>
+            <l>Flutet in der Nacht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch das Meer der Träume</l>
+            <l>Steuert ohne Ruh',</l>
+            <l>Steuert meine Seele</l>
+            <l>Deiner Seele zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die sich dir ergeben,</l>
+            <l>Nimm sie ganz dahin!</l>
+            <l>Ach, du weißt, daß nimmer</l>
+            <l>Ich mein eigen bin.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

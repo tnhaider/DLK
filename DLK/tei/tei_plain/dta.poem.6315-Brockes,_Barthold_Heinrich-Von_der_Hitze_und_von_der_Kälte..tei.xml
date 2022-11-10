@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Hitze und von der Kälte.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">181</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">725</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Hitze und von der Kälte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Damit es sich entzünd': auch daß es lange währe;</l>
+            <l>So muß das Feur verborg’ne Nahrung finden</l>
+            <l>Von Theilchen, die sich leicht entbinden,</l>
+            <l>Damit es sich an selben nähre.</l>
+            <l>Allein, muß etwas gleich ihm stets die Nahrung reichen;</l>
+            <l>So muß zugleich die Lufft auch seinem Triebe weichen.</l>
+            <l>Daher bekömmt die Gluht das flüchtige Bewegen,</l>
+            <l>Wodurch die Theilchen sich im Circkel immer regen,</l>
+            <l>Als welche sonst sich nicht erheben könnten,</l>
+            <l>Wofern die Lufft, als die ihr Druck verdringt,</l>
+            <l>Nicht eine andre zwingt</l>
+            <l>Denselben Platz, den sie verlassen,</l>
+            <l>Geschwinde wiederum zu fassen.</l>
+            <l>Die Gluht vertreibet stets die Lufft, so sie umschränckt</l>
+            <l>Durch ihren schnellen Druck.</l>
+            <l>Die Lufft, um ihr nun leicht den Durchgang zu bereiten,</l>
+            <l>Wird zu der Gluht im Circkel stets gelenckt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

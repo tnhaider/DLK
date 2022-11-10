@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Jäger.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-9 2-12</measure>
+        <measure type="syllables">225</measure>
+        <measure type="tokens">158</measure>
+        <measure type="characters">885</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Jäger.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bleib, trotziger Jäger, in deinem Revier!</l>
+            <l>Hier giebt es kein Wild zu jagen für dich,</l>
+            <l>Hier wohnt nur ein Rehlein, ein zahmes, für mich.</l>
+            <l>Und willst du das zärtliche Rehlein sehn,</l>
+            <l>So laß deine Büchsen im Walde stehn,</l>
+            <l>Und laß deine klaffenden Hunde zu Haus,</l>
+            <l>Und laß auf dem Horne den Saus und Braus,</l>
+            <l>Und scheere vom Kinne das struppige Haar,</l>
+            <l>Sonst scheut sich im Garten das Rehlein, fürwahr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch besser, du bliebest im Walde dazu,</l>
+            <l>Und ließest die Mühlen und Müller in Ruh'.</l>
+            <l>Was taugen die Fischlein im grünen Gezweig?</l>
+            <l>Was will denn das Eichhorn im bläulichen Teich?</l>
+            <l>Drum bleibe, du trotziger Jäger, im Hain,</l>
+            <l>Und laß mich mit meinen drei Rädern allein;</l>
+            <l>Und willst meinem Schätzchen dich machen beliebt,</l>
+            <l>So wisse, mein Freund, was ihr Herzchen betrübt:</l>
+            <l>Die Eber, die kommen zu Nacht aus dem Hain</l>
+            <l>Und brechen in ihren Kohlgarten ein,</l>
+            <l>Und treten und wühlen herum in dem Feld:</l>
+            <l>Die Eber, die schieße, du Jägerheld!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

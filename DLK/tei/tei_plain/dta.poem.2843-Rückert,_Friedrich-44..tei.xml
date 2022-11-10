@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">44.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">98</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">375</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>44.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mond am Himmel ist der Sonne beigegeben,</l>
+            <l>Damit sie beid' ein Bild vorhalten unserm Leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Mond bedeutet, daß im Wechsel alles treibt;</l>
+            <l>Die Sonne deutet, was im Wechsel gleich sich bleibt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Monde tröste dich bei Glückes Unbestand,</l>
+            <l>Und um Beständigkeit blick auf zum Sonnenrand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nimm ab und zu an Lust, dem Mond gleich, in Geduld;</l>
+            <l>Und wie die Sonne sei unwandelbar voll Huld.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

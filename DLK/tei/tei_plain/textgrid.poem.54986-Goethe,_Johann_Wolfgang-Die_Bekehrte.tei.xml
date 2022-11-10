@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Bekehrte</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-6 4-5 5-5 6-6</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">156</measure>
+        <measure type="characters">770</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1796</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Bekehrte</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bei dem Glanze der Abendröte</l>
+            <l>Ging ich still den Wald entlang,</l>
+            <l>Damon saß und blies die Flöte,</l>
+            <l>Daß es von den Felsen klang,</l>
+            <l>So la la!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und er zog mich, ach, an sich nieder,</l>
+            <l>Küßte mich so hold, so süß.</l>
+            <l>Und ich sagte: »Blase wieder!«</l>
+            <l>Und der gute Junge blies,</l>
+            <l>So la la!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Ruhe ist nun verloren,</l>
+            <l>Meine Freude floh davon,</l>
+            <l>Und ich höre vor meinen Ohren</l>
+            <l>Immer nur den alten Ton,</l>
+            <l>So la la! le ralla!</l>
+            <l>(usw.)</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bei dem Glanze der Abendröte</l>
+            <l>Ging ich still den Wald entlang,</l>
+            <l>Damon saß und blies die Flöte,</l>
+            <l>Daß es von den Felsen klang,</l>
+            <l>So la la!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und er zog mich, ach, an sich nieder,</l>
+            <l>Küßte mich so hold, so süß.</l>
+            <l>Und ich sagte: »Blase wieder!«</l>
+            <l>Und der gute Junge blies,</l>
+            <l>So la la!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Ruhe ist nun verloren,</l>
+            <l>Meine Freude floh davon,</l>
+            <l>Und ich höre vor meinen Ohren</l>
+            <l>Immer nur den alten Ton,</l>
+            <l>So la la! le ralla!</l>
+            <l>(usw.)</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

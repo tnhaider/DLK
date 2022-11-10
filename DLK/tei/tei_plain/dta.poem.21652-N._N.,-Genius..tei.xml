@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Genius.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">521</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Genius.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir winkt ein Stern, wenn dieser Stern nicht glömme,</l>
+            <l>Mich hüllte schaurig Todesdunkel ein,</l>
+            <l>Mich trägt ein Strom, wenn ich auf ihm nicht schwömme,</l>
+            <l>Im Wüstensand verdorrte mein Gebein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O bleib mir treu, du Leitstern meiner Pfade,</l>
+            <l>Versiege nicht, du Linderin der Gluth!</l>
+            <l>Ihr seid mir Himmel, Seligkeit und Gnade,</l>
+            <l>Darin erschöpft mein ganzes Wesen ruht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr könnt allein des Herzens Sehnsucht kühlen,</l>
+            <l>Du Stern, du Strom herz’eigner Dichterkraft,</l>
+            <l>Nur wenn ich bilde, mag ich Mensch mich fühlen,</l>
+            <l>Und meine Seele lebt nur, wenn sie schafft.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

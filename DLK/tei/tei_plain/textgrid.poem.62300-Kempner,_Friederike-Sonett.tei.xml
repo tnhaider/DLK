@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonett</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-6 4-4 5-4 6-6</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">652</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonett</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Waffen steht die Welt</l>
+            <l>Um Länder und um Geld,</l>
+            <l>Aus Friedensliebe zwar,</l>
+            <l>So heißt es immerdar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur eines ruhig bleibt</l>
+            <l>Und ew'ge Blüten treibt,</l>
+            <l>Im Reich der Poesie,</l>
+            <l>Da streitet man sich nie. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In reinem Element</l>
+            <l>Man keine Feindschaft kennt,</l>
+            <l>Die Mensch vom Menschen trennt.</l>
+            <l>Ob nahe oder weit</l>
+            <l>Man leidet mit, mit Leid –</l>
+            <l>Für jetzt und alle Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Waffen steht die Welt</l>
+            <l>Um Länder und um Geld,</l>
+            <l>Aus Friedensliebe zwar,</l>
+            <l>So heißt es immerdar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur eines ruhig bleibt</l>
+            <l>Und ew'ge Blüten treibt,</l>
+            <l>Im Reich der Poesie,</l>
+            <l>Da streitet man sich nie. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In reinem Element</l>
+            <l>Man keine Feindschaft kennt,</l>
+            <l>Die Mensch vom Menschen trennt.</l>
+            <l>Ob nahe oder weit</l>
+            <l>Man leidet mit, mit Leid –</l>
+            <l>Für jetzt und alle Zeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

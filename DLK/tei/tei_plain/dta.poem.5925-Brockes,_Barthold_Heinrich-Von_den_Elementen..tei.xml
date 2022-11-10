@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Elementen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">625</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Elementen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da haben wir die Ersten Cörper nun.</l>
+            <l>Allein,</l>
+            <l>Da der Materie Partickelchen nicht ruhn,</l>
+            <l>Und so veränderlich in allen Theilen seyn;</l>
+            <l>Ist es nicht ungereimt von ihnen zu gedencken,</l>
+            <l>Daß sie, indem sie sich so gar verschiedlich lencken,</l>
+            <l>Durch die Beweg- und Aendrung der Figur,</l>
+            <l>Sich selbst in die Natur</l>
+            <l>Vom andern Element verändern und verkehren.</l>
+            <l>Vielleicht, daß offt die kleinen Cörperlein</l>
+            <l>Vom erst- und zweyten Element</l>
+            <l>Ins dritte gar verwandelt seyn,</l>
+            <l>Und daß auch dies, indem sichs reibt und trennt,</l>
+            <l>Sich ründet, sich verdünnt,</l>
+            <l>Die Form des anderen gewinnt,</l>
+            <l>Vielleicht erhält es gar, durch seine Schnelligkeit,</l>
+            <l>Des erstern Elements Beschaffenheit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Jägerlied.</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-4 4-5 5-5 6-5</measure>
+        <measure type="syllables">198</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">817</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Jägerlied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Büchse von der Wand!</l>
+            <l>Der Muthige bekämpft die Welt!</l>
+            <l>Frisch auf den Feind! Frisch in das Feld!</l>
+            <l>Fürs deutsche Vaterland!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus Westen, Norden, Süd und Ost</l>
+            <l>Treibt uns der Rache Strahl.</l>
+            <l>Vom Oderflusse, Weser, Main,</l>
+            <l>Vom Elbstrom und vom Vater Rhein</l>
+            <l>Und aus dem Donauthal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch Brüder sind wir allzusammen,</l>
+            <l>Und das schwellt unsern Muth.</l>
+            <l>Uns knüpft der Sprache heilig Band,</l>
+            <l>Uns knüpft </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht zum Erobern zogen wir</l>
+            <l>Vom väterlichen Heerd,</l>
+            <l>Die schändlichste Tyrannenmacht</l>
+            <l>Bekämpfen wir in freud'ger Schlacht,</l>
+            <l>Das ist des Blutes werth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr aber, die uns treu geliebt,</l>
+            <l>Der Herr sey euer Schild,</l>
+            <l>Bezahlen wir's mit unserm Blut,</l>
+            <l>Denn Freiheit ist das höchste Gut,</l>
+            <l>Ob's tausend Leben gilt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum muntre Jäger, frei und flink,</l>
+            <l>Wie auch das Liebchen weint,</l>
+            <l>Gott hilft uns im gerechten Krieg!</l>
+            <l>Frisch in den Kampf! — Tod oder Sieg!</l>
+            <l>Frisch, Brüder, auf den Feind!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

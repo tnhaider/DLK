@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Siebendes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">606</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Siebendes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Anblick fiele mir besonders ins Gesicht;</l>
+            <l>Kein Wunder, dunckte mich, wann sie die Bahne bricht.</l>
+            <l>Schwert, Harnisch, Helm und Schild erhöhten ihr Betragen,</l>
+            <l>100Als wollte sie mit Macht sich in das Mittel schlagen.</l>
+            <l>Mehr Oberherrlichkeit mit Herrsch-Begier gepaart</l>
+            <l>Erkannte man in ihr als wahrer Hoheit Art;</l>
+            <l>Jhr blau-gesticktes Kleid schien alles auszukunden,</l>
+            <l>Weil auf desselben Stoff viel hundert Ohren stunden.</l>
+            <l>105Mich hielte diese Tracht befremdet und entzückt;</l>
+            <l>Die Falten waren auch mit Augen ausgeschmückt,</l>
+            <l>Die Bliz-geschwind den Blick nach allen Seiten schossen,</l>
+            <l>Als hätte sie der Streit und das Getöß verdrossen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Sitz der Sinnlichkeiten.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">108</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">436</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Sitz der Sinnlichkeiten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Glandul sondert hier von Dingen ohne Zahl,</l>
+            <l>Woraus die Drück’ entstehn, den Eindruck auf einmal</l>
+            <l>Schnell von einander ab.</l>
+            <l>Durch Striche des Gesichts,</l>
+            <l>Die ins Gehirn gedrückt,</l>
+            <l>Sind die von dem Gehör auch im geringsten nichts</l>
+            <l>Verhindert noch verrückt.</l>
+            <l>Zween Sinnen sind durch gleiche Krafft gerühret,</l>
+            <l>Ohn daß man einen Raum der Zeit darin verspüret:</l>
+            <l>Durch einen süssen Dunst wird unsre Nas’ ergötzt,</l>
+            <l>Indem das Podagra den Fuß in Schmertzen setzt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

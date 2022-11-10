@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Morgengruß .</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">713</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Morgengruß .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tief getaucht in Sonnengluthen</l>
+            <l>Ragt des Berges Haupt empor,</l>
+            <l>Lichtgewirkte Schleier fluthen,</l>
+            <l>Niederwallt der Silberflor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch am Nacken seh’ ich schwellen</l>
+            <l>Süßer Reben Perlenreihn,</l>
+            <l>Aus den Brüsten seh’ ich quellen</l>
+            <l>Milden, kraftgezeugten Wein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bäume schatten früchteprangend,</l>
+            <l>Vollbelastet deinen Fuß,</l>
+            <l>Frohen Blickes dich umfangend</l>
+            <l>Biet’ ich dir den Morgengruß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sei gegrüßt, vom Morgenstrahle</l>
+            <l>Glanzumwob’nes Vaterland!</l>
+            <l>Leuchtest auf mit einem Male,</l>
+            <l>Seit der Dämm’rung Schatten schwand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ha, wie strebt dein Haupt erhoben</l>
+            <l>Zu des Lichtes Wunderquell’!</l>
+            <l>Reicher Segen strömt von oben,</l>
+            <l>Und die Früchte reifen schnell.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie der Seele bitt’res Leiden</l>
+            <l>Deine Herrlichkeit versüßt!</l>
+            <l>Größ’res ahnend laßt mich scheiden —</l>
+            <l>Deutschland, Mutter, sei gegrüßt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

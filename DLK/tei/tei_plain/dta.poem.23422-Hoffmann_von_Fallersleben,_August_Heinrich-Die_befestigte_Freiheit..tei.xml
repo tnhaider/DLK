@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die befestigte Freiheit.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">101</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">382</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die befestigte Freiheit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie euch die Freiheit doch belästigt!</l>
+            <l>Geduld! bald geht's damit vorbei,</l>
+            <l>Denn ist Paris nur erst befestigt,</l>
+            <l>Befestigt ist die Tyrannei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König wird es anders deuten,</l>
+            <l>Er spricht: mein Volk bleibt ewig frei!</l>
+            <l>Ich aber sag's euch freien Leuten:</l>
+            <l>Befestigt ist die Tyrannei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König lehrt euch von den Schanzen</l>
+            <l>Schön nach Kanonenmelodei</l>
+            <l>Zu eurer Marseillaise tanzen —</l>
+            <l>Befestigt ist die Tyrannei.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Botenlauf.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">269</measure>
+        <measure type="tokens">151</measure>
+        <measure type="characters">1016</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Botenlauf.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blicke gen Himmel gewandt! Gebreitete flehende Arme!</l>
+            <l>Murmeln und schallender Ruf! Knieende Mädchen und</l>
+            <l>„götter, beflügelt den Boten! Entscheidung! Lieber als Bangniß!</l>
+            <l>Seit sich die Sonne erhob, ringen die Stadt und Tarquin.</l>
+            <l>Siehe, die Sonne versinkt! Mitkämpfer, Castor und Pollux!</l>
+            <l>Denkt der verlassenen Fraun! Sendet den Boten geschwind!“</l>
+            <l>Horch! Achthufig Geklirr bergan! Zwei reisige Reiter!</l>
+            <l>Schon am heiligen Quell spülen die Waffen sie rein.</l>
+            <l>Dann, zwei gewaltige Jünglinge, stehn auf der ragenden Burg sie,</l>
+            <l>Gegen die schauernden Fraun hat sich der eine gekehrt:</l>
+            <l>„freude, knospendes Mädchen! Entschlossene Römerin, Freude!</l>
+            <l>Herrlicher Sieg ist erkämpft! Geht ihr entgegen dem Heer?“</l>
+            <l>Einer spricht's und der Andere lauscht, zu dem Bruder gewendet.</l>
+            <l>Jetzt in das bleichende Licht springen die Rosse empor.</l>
+            <l>Einer der Jünglinge schwindet im Abend, es schwindet der andre,</l>
+            <l>Denn wie ein liebendes Paar lassen die Brüder sich nicht.</l>
+            <l>Ueber der römischen Feste gewaltigem dunkelndem Umriß</l>
+            <l>Hebt sich in dämmernder Nacht seliges Doppelgestirn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

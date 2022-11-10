@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[anna Kurzrock ins Stammbuch]</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">118</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">460</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[anna Kurzrock ins Stammbuch]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kam im frostgen November</l>
+            <l>Nach Gräz, der traulichen Stadt,</l>
+            <l>Das Jahr war alt und müde,</l>
+            <l>Und ich war alt und matt,</l>
+            <l>Doch braucht' es nur zwei Blicke,</l>
+            <l>Der Neigung, der Sonne Blick,</l>
+            <l>Und mir und dem alten November</l>
+            <l>Kam Leben und Wärme zurück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kam im frostgen November</l>
+            <l>Nach Gräz, der traulichen Stadt,</l>
+            <l>Das Jahr war alt und müde,</l>
+            <l>Und ich war alt und matt,</l>
+            <l>Doch braucht' es nur zwei Blicke,</l>
+            <l>Der Neigung, der Sonne Blick,</l>
+            <l>Und mir und dem alten November</l>
+            <l>Kam Leben und Wärme zurück.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

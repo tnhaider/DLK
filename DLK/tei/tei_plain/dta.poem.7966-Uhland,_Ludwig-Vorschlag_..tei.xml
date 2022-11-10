@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorschlag .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">599</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorschlag .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Dichter ist der Fernen Bild geblieben,</l>
+            <l>Bei dem er einsam oftmals Trost gefunden,</l>
+            <l>Und hält des Lebens Wirrung ihn umwunden,</l>
+            <l>Er fühlt am Busen doch das Bild der Lieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch was der Dichter sang, sehnsuchtgetrieben,</l>
+            <l>Die Schöne liest es oft in Abendstunden,</l>
+            <l>Und Manches hat so innig sie empfunden,</l>
+            <l>Daß ihr es tief im Herzen steht geschrieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein theures Bild, wohl wirkt es wunderkräftig,</l>
+            <l>Wohl mancher Kummer weicht des Liedes Tönen,</l>
+            <l>Doch ewig bleibt der Trennung Schmerz geschäftig.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Schicksal! wechsle leicht nur mit den Loosen:</l>
+            <l>Den Dichter führe wieder zu der Schönen,</l>
+            <l>Die Lieder mögen mit dem Bilde kosen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

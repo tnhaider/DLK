@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XV.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">522</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XV.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Fahne stäubte er gleichfalls ab,</l>
+            <l>Und er sprach: „mein größter Stolz ist,</l>
+            <l>Daß noch keine Motte die Seide zerfraß,</l>
+            <l>Und auch kein Wurm im Holz ist.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als wir kamen in den Saal,</l>
+            <l>Wo schlafend am Boden liegen</l>
+            <l>Viel tausend Krieger, kampfbereit,</l>
+            <l>Der Alte sprach mit Vergnügen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„hier müssen wir leiser reden und gehn,</l>
+            <l>Damit wir nicht wecken die Leute;</l>
+            <l>Wieder verflossen sind hundert Jahr</l>
+            <l>Und Löhnungstag ist heute.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und siehe! der Kaiser nahte sich sacht</l>
+            <l>Den schlafenden Soldaten,</l>
+            <l>Und steckte heimlich in die Tasch’</l>
+            <l>Jedwedem einen Dukaten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

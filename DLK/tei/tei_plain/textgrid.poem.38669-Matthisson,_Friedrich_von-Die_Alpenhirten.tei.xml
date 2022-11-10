@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Alpenhirten</title>
+        <author>
+          <persName>
+            <surname>Matthisson</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">248</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">958</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1796</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Alpenhirten</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unten im Rauch' und Gerassel der Städte, wie dünkte des Hirten</l>
+            <l>Patriarchalischer Stand oft so beneidenswerth mir!</l>
+            <l>Und ich erklimmte die Berge den Glücklichen selber zu grüßen,</l>
+            <l>Doch da zerflossen wie Dunst plötzlich die Bilder des Wahns.</l>
+            <l>Wißt! auf den Triften der Alpen, treibt heerdengesegnet ein Völkchen</l>
+            <l>Wünschend und fürchtend wie wir, nimmer befriedigt sein Werk.</l>
+            <l>Du, der Genügsamkeit Blume! wo diesseits der Lethe dich finden?</l>
+            <l>Ach! nur im Lande der Fee'n, unter dem singenden Baum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unten im Rauch' und Gerassel der Städte, wie dünkte des Hirten</l>
+            <l>Patriarchalischer Stand oft so beneidenswerth mir!</l>
+            <l>Und ich erklimmte die Berge den Glücklichen selber zu grüßen,</l>
+            <l>Doch da zerflossen wie Dunst plötzlich die Bilder des Wahns.</l>
+            <l>Wißt! auf den Triften der Alpen, treibt heerdengesegnet ein Völkchen</l>
+            <l>Wünschend und fürchtend wie wir, nimmer befriedigt sein Werk.</l>
+            <l>Du, der Genügsamkeit Blume! wo diesseits der Lethe dich finden?</l>
+            <l>Ach! nur im Lande der Fee'n, unter dem singenden Baum.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

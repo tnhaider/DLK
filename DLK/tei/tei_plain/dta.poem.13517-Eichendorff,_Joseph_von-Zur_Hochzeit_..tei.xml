@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zur Hochzeit .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-8 2-4</measure>
+        <measure type="syllables">91</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">373</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zur Hochzeit .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was das für ein Gezwitscher ist!</l>
+            <l>Durch's Blau die Schwalben zucken</l>
+            <l>Und schrei'n: „sie haben sich geküßt!“</l>
+            <l>Vom Baum Rothkehlchen gucken.</l>
+            <l>Der Storch stolzirt von Bein zu Bein;</l>
+            <l>„da muß ich fischen gehen —“</l>
+            <l>Der Abend wie im Traum darein</l>
+            <l>Schaut von den stillen Höhen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wie im Traum von den Höhen</l>
+            <l>Seh' ich Nachts meiner Liebsten Haus,</l>
+            <l>Die Wolken darüber gehen</l>
+            <l>Und löschen die Sterne aus.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

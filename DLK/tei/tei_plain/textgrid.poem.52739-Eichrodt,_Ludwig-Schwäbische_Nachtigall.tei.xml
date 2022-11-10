@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schwäbische Nachtigall</title>
+        <author>
+          <persName>
+            <surname>Eichrodt</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">708</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1859</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schwäbische Nachtigall</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Amsel im Gebüsch,</l>
+            <l>Und ein Liebchen roth und frisch,</l>
+            <l>Und ein blauer Himmel d'rüber,</l>
+            <l>Ist mir auf der Welt nichts lieber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wunnigliche zarte Maid,</l>
+            <l>In der holden Maienzeit,</l>
+            <l>Küssen wollen wir und kosen,</l>
+            <l>Unter Rosmarin und Rosen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du nimmer sein die Braut:</l>
+            <l>Drunten steht ein Kirchlein traut.</l>
+            <l>Dort ist Alles zahm und friedlich –</l>
+            <l>Und ein Grab auch ist gemüthlich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Amsel im Gebüsch,</l>
+            <l>Und ein Liebchen roth und frisch,</l>
+            <l>Und ein blauer Himmel d'rüber,</l>
+            <l>Ist mir auf der Welt nichts lieber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wunnigliche zarte Maid,</l>
+            <l>In der holden Maienzeit,</l>
+            <l>Küssen wollen wir und kosen,</l>
+            <l>Unter Rosmarin und Rosen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du nimmer sein die Braut:</l>
+            <l>Drunten steht ein Kirchlein traut.</l>
+            <l>Dort ist Alles zahm und friedlich –</l>
+            <l>Und ein Grab auch ist gemüthlich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

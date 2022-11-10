@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Es mahnt mich aus Deinem blauen Aug'</title>
+        <author>
+          <persName>
+            <surname>Christen</surname>
+            <forename>Ada</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">486</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1870</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Es mahnt mich aus Deinem blauen Aug'</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es mahnt mich aus Deinem blauen Aug'</l>
+            <l>Ein wüster Jugendtraum;</l>
+            <l>Da nickt ein blasses Mädchengesicht –</l>
+            <l>Ach, ich erkenn' es kaum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein entgötterter Himmel liegt</l>
+            <l>Vor mir – ach, Alles bricht! –</l>
+            <l>Doch mildert das letzte, grellste Bild</l>
+            <l>Das süße blaue Licht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es mahnt mich aus Deinem blauen Aug'</l>
+            <l>Ein wüster Jugendtraum;</l>
+            <l>Da nickt ein blasses Mädchengesicht –</l>
+            <l>Ach, ich erkenn' es kaum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ein entgötterter Himmel liegt</l>
+            <l>Vor mir – ach, Alles bricht! –</l>
+            <l>Doch mildert das letzte, grellste Bild</l>
+            <l>Das süße blaue Licht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

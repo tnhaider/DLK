@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sommer-Betrachtung.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-10 2-4</measure>
+        <measure type="syllables">198</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">752</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sommer-Betrachtung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles stehet ietzt im Licht, alles gläntzet, alles glühet,</l>
+            <l>Alles ist voll Wärm’ und Schimmer: Und der Son-</l>
+            <l>Glimmt und flammet überall. Jedem Vorwurff, den man</l>
+            <l>Flösset ihre Segens-Quelle Fruchtbarkeit und Farben ein.</l>
+            <l>Eine lieblich blaue Gluth füllt das tieffe Firmament,</l>
+            <l>Wann ein Silber-weisses Feuer in bestrahlten Wolcken</l>
+            <l>Eine Purpur-farbne, güldne, eine Rosen-farbne Gluth</l>
+            <l>Brennt in ihnen, ja verdoppelt ihren Glantz in glatter Fluth.</l>
+            <l>Eine lieblich grüne decket Wiesen, Felder, Berg’ und Auen,</l>
+            <l>Wann wir, in gefärbten Flammen, bunte Gärten funckeln</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mögte doch so manches Feur, das wir allenthalben</l>
+            <l>Durch das Aug’ in unsre Brust auch ein Andachts-Feur</l>
+            <l>Mögte doch der Schöpfer dieses auch nicht minder Wunder-</l>
+            <l>Als ein geistig Feuer-Werck, Jhm zur Ehre, brennen sehn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

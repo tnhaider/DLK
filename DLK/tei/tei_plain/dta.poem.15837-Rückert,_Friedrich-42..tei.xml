@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">42.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">410</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>42.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welch ein gesegnet Jahr! wie schön der Frühling war!</l>
+            <l>Nun aber bringt der Herbst geschwellte Füllen dar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An Aesten Birn' und Pflaum', und Trauben an den Reben;</l>
+            <l>Doch Blüten, seh' ich recht? erschließen sich daneben!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Frühlingsnachspiel wird der reife Herbst verschönt;</l>
+            <l>Ein Wunder ist die Frucht von Blüten überkrönt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist ein Alter, das, wie wenige, dich erfreut,</l>
+            <l>Bei deinen Früchten, Herz, die Blüten dir erneut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

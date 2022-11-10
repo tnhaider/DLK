@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sperantzens Grabschrifft.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">472</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sperantzens Grabschrifft.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Jägers Hoffnung ist nun todt/ als sie schloß ihr bejahr-</l>
+            <l>tes Leben/</l>
+            <l>So hat ihr Herr das Wäyde-Werck voll Leyd und Unmutt ü-</l>
+            <l>bergeben.</l>
+            <l>Wer ohne Hoffnung jagt/ wird wenig Wildpret fangen/</l>
+            <l>Verdruß vor seine Müh zum besten Lohn erlangen.</l>
+            <l>Er schrieb mit Trauren bey ihr Grab: Hier liegt der Preiß von</l>
+            <l>tausend Winden/</l>
+            <l>An zarter Schönheit/ Gütt und Treu ist ihres gleichen nicht zu</l>
+            <l>finden.</l>
+            <l>In sechzehn Jahren war ihr wenig Wild entgangen/</l>
+            <l>Izt muß sie selber sich vom Tode lassen fangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">246</measure>
+        <measure type="tokens">163</measure>
+        <measure type="characters">1009</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ja! stell du dir ihn vor, wie man ihn streiten sah,</l>
+            <l>„was Unerschrockenheit er für </l>
+            <l>„und für das Vaterland in seinen Thaten wiese;</l>
+            <l>„wie selbst des Feindes Heer sein Thun und Lassen priese.</l>
+            <l>185”Bewaffnet und zu Pferd mit seinem Krieges-Stab,</l>
+            <l>„wie selber ich ihn dort im Feld gesehen hab,</l>
+            <l>„als er in Eiß und Schnee mit Herz und Großmuth fochte,</l>
+            <l>„den Einfall hintertrieb, womit der Gegner pochte.</l>
+            <l>„kraft, Munterkeit, Vernunft, Geist, Hoheit und Gewalt,</l>
+            <l>190”Ja was ein Held im Krieg durch die Gesichts-Gestallt</l>
+            <l>„dem Heer vor Augen stellt, wollt ich in Marmel hauen;</l>
+            <l>„dieß alles solltest du darinnen lebhaft schauen.</l>
+            <l>„ich streute rings herum die Sieges-Zeichen hin,</l>
+            <l>„mit welchen wir ihn sahn in Feindes Länder ziehn.</l>
+            <l>195”Ich schmückte seine Brust mit jenen Anmuths-Strahlen</l>
+            <l>„die sonsten das Gesicht der Königinn bemahlen.</l>
+            <l>„das Bildnis müßte sich zu seines Lebens Schuz,</l>
+            <l>„des Feindes Heer zur Furcht, desselben Groll zu Truz,</l>
+            <l>„der treuen Krieger Schaar zu der Erweckung zeigen;</l>
+            <l>200”Das Pferd in Majestät mit stolzen Schritten steigen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

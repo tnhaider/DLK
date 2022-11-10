@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verjüngung</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">740</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1824</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verjüngung</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Könnt' ich wieder mich verjüngen!</l>
+            <l>Könnt' ich wachsen wie ein Kind!</l>
+            <l>Jugend! wie bist du verflogen!</l>
+            <l>Alter, wie kamst du geschwind!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hab' Geduld, wirst dich verjüngen!</l>
+            <l>In der allerletzten Stund'</l>
+            <l>Sich verjüngen oft die Züge</l>
+            <l>Sterbender noch um den Mund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hab' Geduld, du wirst noch wachsen!</l>
+            <l>Wenn der Geist verläßt sein Haus,</l>
+            <l>Strecken sich der Leiche Glieder</l>
+            <l>Oft noch wie zum Wachstum aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Könnt' ich wieder mich verjüngen!</l>
+            <l>Könnt' ich wachsen wie ein Kind!</l>
+            <l>Jugend! wie bist du verflogen!</l>
+            <l>Alter, wie kamst du geschwind!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hab' Geduld, wirst dich verjüngen!</l>
+            <l>In der allerletzten Stund'</l>
+            <l>Sich verjüngen oft die Züge</l>
+            <l>Sterbender noch um den Mund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hab' Geduld, du wirst noch wachsen!</l>
+            <l>Wenn der Geist verläßt sein Haus,</l>
+            <l>Strecken sich der Leiche Glieder</l>
+            <l>Oft noch wie zum Wachstum aus.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

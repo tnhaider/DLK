@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-6 2-7 3-6 4-7</measure>
+        <measure type="syllables">234</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">908</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1824</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gedichte sind gemalte Fensterscheiben!</l>
+            <l>Sieht man vom Markt in die Kirche hinein,</l>
+            <l>Da ist alles dunkel und düster;</l>
+            <l>Und so sieht's auch der Herr Philister:</l>
+            <l>Der mag denn wohl verdrießlich sein</l>
+            <l>Und lebenslang verdrießlich bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt aber nur einmal herein,</l>
+            <l>Begrüßt die heilige Kapelle;</l>
+            <l>Da ist's auf einmal farbig helle,</l>
+            <l>Geschicht und Zierat glänzt in Schnelle,</l>
+            <l>Bedeutend wirkt ein edler Schein;</l>
+            <l>Dies wird euch Kindern Gottes taugen,</l>
+            <l>Erbaut euch und ergetzt die Augen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gedichte sind gemalte Fensterscheiben!</l>
+            <l>Sieht man vom Markt in die Kirche hinein,</l>
+            <l>Da ist alles dunkel und düster;</l>
+            <l>Und so sieht's auch der Herr Philister:</l>
+            <l>Der mag denn wohl verdrießlich sein</l>
+            <l>Und lebenslang verdrießlich bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt aber nur einmal herein,</l>
+            <l>Begrüßt die heilige Kapelle;</l>
+            <l>Da ist's auf einmal farbig helle,</l>
+            <l>Geschicht und Zierat glänzt in Schnelle,</l>
+            <l>Bedeutend wirkt ein edler Schein;</l>
+            <l>Dies wird euch Kindern Gottes taugen,</l>
+            <l>Erbaut euch und ergetzt die Augen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

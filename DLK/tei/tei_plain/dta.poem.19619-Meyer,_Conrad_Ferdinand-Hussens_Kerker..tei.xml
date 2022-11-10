@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hussens Kerker.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">739</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hussens Kerker.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es geht mit mir zu Ende,</l>
+            <l>Mein Sach und Spruch ist schon</l>
+            <l>Hoch über Menschenhände</l>
+            <l>Gerückt vor Gottes Thron,</l>
+            <l>Schon schwebt auf einer Wolke,</l>
+            <l>Umringt von seinem Volke,</l>
+            <l>Entgegen mir des Menschen Sohn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Kerker will ich preisen,</l>
+            <l>Der Kerker, der ist gut!</l>
+            <l>Das Fensterkreuz von Eisen</l>
+            <l>Blickt auf die frische Flut</l>
+            <l>Und zwischen seinen Stäben</l>
+            <l>Seh' ich ein Segel schweben,</l>
+            <l>Darob im Blau die Firne ruht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie nah die Flut ich fühle,</l>
+            <l>Als läg' ich drein versenkt,</l>
+            <l>Mit wundersamer Kühle</l>
+            <l>Wird mir der Leib getränkt —</l>
+            <l>Auch seh' ich eine Traube</l>
+            <l>Mit einem rothen Laube,</l>
+            <l>Die tief herab ins Fenster hängt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist die Zeit zu feiern!</l>
+            <l>Es kommt die große Ruh!</l>
+            <l>Dort lenkt ein Zug von Reihern</l>
+            <l>Dem ew'gen Lenze zu,</l>
+            <l>Sie wissen Pfad und Stege,</l>
+            <l>Sie kennen ihre Wege —</l>
+            <l>Was, meine Seele, fürchtest du?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

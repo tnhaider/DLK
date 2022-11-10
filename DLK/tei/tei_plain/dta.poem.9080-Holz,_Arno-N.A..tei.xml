@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-3 4-6 5-1 6-6</measure>
+        <measure type="syllables">110</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">428</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1898</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192685"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus weissen Wolken</l>
+            <l>baut sich ein Schloss.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Spiegelnde Seeen, selige Wiesen,</l>
+            <l>singende Brunnen aus tiefstem Smaragd!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In seinen schimmernden Hallen</l>
+            <l>wohnen</l>
+            <l>die alten Götter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch immer,</l>
+            <l>abends,</l>
+            <l>wenn die Sonne purpurn sinkt,</l>
+            <l>glühn seine Gärten,</l>
+            <l>vor ihren Wundern bebt mein Herz</l>
+            <l>und lange . . . steh ich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sehnsüchtig!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann naht die Nacht,</l>
+            <l>die Luft verlischt,</l>
+            <l>wie zitterndes Silber blinkt das Meer,</l>
+            <l>und über die ganze Welt hin</l>
+            <l>weht ein Duft</l>
+            <l>wie von Rosen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

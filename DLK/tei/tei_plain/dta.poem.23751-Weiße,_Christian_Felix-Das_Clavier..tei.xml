@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Clavier.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">481</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Clavier.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Süßertönendes Clavier,</l>
+            <l>Welche Freuden schaffst du mir!</l>
+            <l>In der Einsamkeit gebricht</l>
+            <l>Mir es an Ergötzen nicht;</l>
+            <l>Du bist, was ich selber will,</l>
+            <l>Bald Erweckung und bald Spiel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Scherz ich, so ertönet mir</l>
+            <l>Ein scherzhaftes Lied von dir;</l>
+            <l>Will ich aber traurig seyn,</l>
+            <l>Klagend stimmst du mit mir ein;</l>
+            <l>Heb ich fromme Lieder an,</l>
+            <l>Wie erhaben klingst du dann!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Niemals öffne meine Brust</l>
+            <l>Sich der Lockung falscher Lust!</l>
+            <l>Meine Freuden müssen rein,</l>
+            <l>So wie deine Saiten seyn,</l>
+            <l>Und mein ganzes Leben nie</l>
+            <l>Ohne süße Harmonie.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

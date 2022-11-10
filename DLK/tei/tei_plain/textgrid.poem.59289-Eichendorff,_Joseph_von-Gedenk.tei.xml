@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gedenk</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">456</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gedenk</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist kein Vöglein so gemein,</l>
+            <l>Es spürt geheime Schauer,</l>
+            <l>Wenn draußen streift der Sonnenschein</l>
+            <l>Vergoldend seinen Bauer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und du hast es vergessen fast</l>
+            <l>In deines Kerkers Spangen,</l>
+            <l>O Menschlein, daß du Flügel hast</l>
+            <l>Und daß du hier gefangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist kein Vöglein so gemein,</l>
+            <l>Es spürt geheime Schauer,</l>
+            <l>Wenn draußen streift der Sonnenschein</l>
+            <l>Vergoldend seinen Bauer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und du hast es vergessen fast</l>
+            <l>In deines Kerkers Spangen,</l>
+            <l>O Menschlein, daß du Flügel hast</l>
+            <l>Und daß du hier gefangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

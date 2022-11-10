@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">37.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">619</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>37.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wol der Gedanke bringt die ganze Welt hervor,</l>
+            <l>Der, welchen Gott gedacht, nicht den du denkst, o Thor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du denkst sie, ohne daß darum entsteht die Welt,</l>
+            <l>Und ohne daß, wenn du sie wegdenkst, sie wegfällt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus Geist entstand die Welt, und gehet auf in Geist,</l>
+            <l>Geist ist der Grund, aus dem, in den zurück sie kreist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Geist ein Aetherduft hat sich in sich gedichtet,</l>
+            <l>Und Sternennebel hat zu Sonnen sich gelichtet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Nebel hat in Luft und Wasser sich zersetzt,</l>
+            <l>Und Schlamm ward Erd' und Stein, und Pflanz' und Thier zuletzt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und menschliche Gestalt, in der der Menschengeist</l>
+            <l>Durch Gottes Hauch erwacht, und Ihn, den Urgeist, preist.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

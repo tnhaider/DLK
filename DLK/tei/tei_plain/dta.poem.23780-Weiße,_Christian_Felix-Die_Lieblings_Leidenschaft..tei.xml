@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Lieblings Leidenschaft.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">573</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Lieblings Leidenschaft.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kleiner Trommelschläger Du,</l>
+            <l>Wenn hörst Du einmal auf zu</l>
+            <l>schwärmen?</l>
+            <l>So sitze doch einmal in Ruh!</l>
+            <l>Kein Ende hat das Stunden lange Lärmen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kleine Puppentändlerinn,</l>
+            <l>Du hast auch wohl zu reden Ehre:</l>
+            <l>Du bringst die Zeit mit Puppen hin,</l>
+            <l>Als ob dieß nicht so gut als Trommeln</l>
+            <l>wäre.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sich zu vergnügen ist auch Pflicht;</l>
+            <l>Doch werd ich damit niemand plagen,</l>
+            <l>Für mich schickt sich das Trommeln nicht:</l>
+            <l>Doch Puppenspiel; das mußt du selber</l>
+            <l>sagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sag, eins ist das andre werth,</l>
+            <l>Du bist so klug, als ich mir scheine;</l>
+            <l>Ein jedes liebt sein Steckenpferd:</l>
+            <l>Die Pupp ist deins, die Trommel ist das</l>
+            <l>meine.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

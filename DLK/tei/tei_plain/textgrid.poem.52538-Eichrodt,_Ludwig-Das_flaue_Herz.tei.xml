@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das flaue Herz</title>
+        <author>
+          <persName>
+            <surname>Eichrodt</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">540</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1859</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das flaue Herz</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du ließest mich in Bethörung,</l>
+            <l>Hinschmachten stets auf's Neue,</l>
+            <l>Nahmst deines Wesens Verehrung</l>
+            <l>Lächelnd hin ohne Scheue,</l>
+            <l>Sahst meiner Seele Verstörung,</l>
+            <l>Und fühltest nimmer Reue.</l>
+            <l>Sprich, Weib, ist es Verschwörung?</l>
+            <l>Sprich, ist es Herzensfläue?</l>
+            <l>O gibt es </l>
+            <l>Für so viel Liebe und Treue!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du ließest mich in Bethörung,</l>
+            <l>Hinschmachten stets auf's Neue,</l>
+            <l>Nahmst deines Wesens Verehrung</l>
+            <l>Lächelnd hin ohne Scheue,</l>
+            <l>Sahst meiner Seele Verstörung,</l>
+            <l>Und fühltest nimmer Reue.</l>
+            <l>Sprich, Weib, ist es Verschwörung?</l>
+            <l>Sprich, ist es Herzensfläue?</l>
+            <l>O gibt es </l>
+            <l>Für so viel Liebe und Treue!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

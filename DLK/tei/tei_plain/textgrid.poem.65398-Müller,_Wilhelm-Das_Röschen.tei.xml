@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Röschen</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">166</measure>
+        <measure type="characters">918</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1810</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Röschen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kleine junge Kellnerin,</l>
+            <l>Warum so gar verlegen?</l>
+            <l>Wer schüttet doch den Wein dahin</l>
+            <l>Um eines Kusses wegen?</l>
+            <l>Komm, daß der Alt' es nur nicht seh';</l>
+            <l>Ich will es auf mich nehmen.</l>
+            <l>Schenk' ein, Gesichtchen in die Höh'!</l>
+            <l>Ich büße dir das Schämen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du schauest in das Glas hinein</l>
+            <l>Mit purpurrothen Wangen:</l>
+            <l>Da schwimmt hoch oben auf dem Wein</l>
+            <l>Ein Röschen unbefangen.</l>
+            <l>Und sieh, ich küss' es, wie ich will,</l>
+            <l>Bis es hinabgesunken.</l>
+            <l>Halt, Röschen, auf der Wange still!</l>
+            <l>Der Wein ist ausgetrunken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du kleine junge Kellnerin,</l>
+            <l>Warum so gar verlegen?</l>
+            <l>Wer schüttet doch den Wein dahin</l>
+            <l>Um eines Kusses wegen?</l>
+            <l>Komm, daß der Alt' es nur nicht seh';</l>
+            <l>Ich will es auf mich nehmen.</l>
+            <l>Schenk' ein, Gesichtchen in die Höh'!</l>
+            <l>Ich büße dir das Schämen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du schauest in das Glas hinein</l>
+            <l>Mit purpurrothen Wangen:</l>
+            <l>Da schwimmt hoch oben auf dem Wein</l>
+            <l>Ein Röschen unbefangen.</l>
+            <l>Und sieh, ich küss' es, wie ich will,</l>
+            <l>Bis es hinabgesunken.</l>
+            <l>Halt, Röschen, auf der Wange still!</l>
+            <l>Der Wein ist ausgetrunken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

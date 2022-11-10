@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der unvorsichtige  Mops.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">464</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der unvorsichtige  Mops.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als jüngst der gute Mops an Jungfern sich ergötzte</l>
+            <l>Lief er nach Haasen-Art die Läng’ und in die Quer</l>
+            <l>Fast alle Gassen durch/ bis daß von ohngefehr</l>
+            <l>Die artge </l>
+            <l>Hier wird man Possen sehen</l>
+            <l>Spracher: und spitzte gleich sein breit </l>
+            <l>Als er nun näher gehen/</l>
+            <l>Und den Rubinen Mund der Schönen wolte küssen/</l>
+            <l>Da fiel der arme Tropff zu ihren zarten Füssen/</l>
+            <l>Und weltzte sich im Koht als ein halb todtes Gaul/</l>
+            <l>An dieser Ebentheur hat </l>
+            <l>Daß Lieben ohn Bedacht in Schimpff und Schanden führt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

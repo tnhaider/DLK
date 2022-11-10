@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wiederhall .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">81</measure>
+        <measure type="characters">504</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wiederhall .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In diesem grünen Wald,               </l>
+            <l>Wir wollen fröhlich singen,</l>
+            <l>Hört wie es wiederhallt,</l>
+            <l>Und fröhlich thut erklingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach wie ein Lieblichkeit</l>
+            <l>Und holdseliges Leben</l>
+            <l>Die schöne Sommerzeit</l>
+            <l>Und helle Sonn thut geben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieweil die Vögel all</l>
+            <l>In Luft und Freuden schweben;</l>
+            <l>Voraus die Nachtigall</l>
+            <l>Ihr Stimmlein thut erheben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Warum soll uns denn nicht,</l>
+            <l>Der Sang aus uns erfreuen;</l>
+            <l>Hört Echo widerspricht,</l>
+            <l>Und will uns überschreien.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Herr vom Himmelsthron</l>
+            <l>Woll seine Gnade geben,</l>
+            <l>Daß wir den Sommer schon</l>
+            <l>Oefter mit Freud erleben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

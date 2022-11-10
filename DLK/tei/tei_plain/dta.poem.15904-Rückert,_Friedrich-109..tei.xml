@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">109.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">110</measure>
+        <measure type="characters">631</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>109.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Freund, laß uns nur nicht so schnell bei Seite schieben</l>
+            <l>Die alten Dichter, weils die neuern höher trieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gar mancher, den man jetzt so vornehm überguckt,</l>
+            <l>Die Achsel mitleidsvoll bei seinem Namen zuckt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist, wenn du bringst die Zeit in Anschlag, gar nicht schlecht,</l>
+            <l>Und, wenn du absiehst von der Zeit, nicht minder echt</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als mancher, der da nun so hoch die Saiten stimmt,</l>
+            <l>Weil er so leicht wie Kork auf Beifallswogen schwimmt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und kann sogar noch jetzt gefallen, wie wol kaum</l>
+            <l>Wird jener können, wann zergangen einst der Schaum.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ist nichts was entzückt, doch auch nichts was verletzt,</l>
+            <l>Und, wenn du mäßig bist, genug was dich ergetzt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

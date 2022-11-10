@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Jugend.</title>
+        <author>
+          <persName>
+            <surname>Hagedorn</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">35</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">150</measure>
+        <measure type="characters">916</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199128"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Jugend.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sollt auch ich durch Gram und Leid</l>
+            <l>Meinen Leib verzehren,</l>
+            <l>Und des Lebens Fröhlichkeit,</l>
+            <l>Weil ich leb’, entbehren?</l>
+            <l>Freunde! nein; es stehet fest,</l>
+            <l>Meiner Jugend Ueberrest</l>
+            <l>Soll mir Lust gewähren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Quellen tausendfacher Lust:</l>
+            <l>Jugend! Schönheit! Liebe!</l>
+            <l>Jhr erweckt in meiner Brust</l>
+            <l>Schmeichelhafte Triebe.</l>
+            <l>Kein Genuß ergrübelt sich;</l>
+            <l>Ich weiß gnug, indem ich mich</l>
+            <l>Jm Empfinden übe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laßt die Schönen dieser Flur</l>
+            <l>Eure Wahl erfahren:</l>
+            <l>Ich besinge Phyllis nur,</l>
+            <l>Die von achtzehn Jahren,</l>
+            <l>Freundlich, sinnreich, schlau zur Lust,</l>
+            <l>Weiß von Stirne, Hals und Brust,</l>
+            <l>Schwarz von Aug und Haaren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der mein Thun zu meistern denkt</l>
+            <l>Predigt tauben Ohren.</l>
+            <l>Schmähen hat mich nie gekränkt:</l>
+            <l>Wo ist der gebohren,</l>
+            <l>Welcher allen wohlgefällt?</l>
+            <l>Und woraus besteht die Welt?</l>
+            <l>Mehrentheils aus Thoren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer den Wehrt der Freyheit kennt,</l>
+            <l>Nimmt aus ihr die Lehre,</l>
+            <l>Daß was die Natur vergönnt</l>
+            <l>Unser Wohl vermehre.</l>
+            <l>Wißt: es bleibt ein freyer Mann,</l>
+            <l>Den kein Klügeln binden kann,</l>
+            <l>Seiner Zeiten Ehre.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

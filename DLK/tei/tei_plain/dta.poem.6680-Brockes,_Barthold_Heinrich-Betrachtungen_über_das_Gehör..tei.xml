@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über das Gehör.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">114</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">434</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über das Gehör.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von dem Vergnügen und Ergetzen,</l>
+            <l>So die Music in uns erweckt,</l>
+            <l>Wenn sie wohl componirt, muß man zum Grunde setzen</l>
+            <l>Geheimer Züge Krafft, so in der Seele steckt.</l>
+            <l>Die sind in unsern Geist natürlich eingegossen,</l>
+            <l>Durch den Gebrauch sind sie vermehret und vergrössert,</l>
+            <l>Durch Müh und Fleiß verbessert:</l>
+            <l>Er wird dadurch, daß er den Wohl-Laut offt genossen,</l>
+            <l>Noch immer fertiger und mehr Erkenntniß kriegen.</l>
+            <l>Es ist nicht cörperlich so zärtliches Vergnügen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

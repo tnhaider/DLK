@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An  Amarillis.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">91</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">362</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An  Amarillis.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amarillis deine Pracht</l>
+            <l>Hat mich verliebt gemacht.</l>
+            <l>Ich schwinde! ich vergeh/</l>
+            <l>Ich werde halb erblaßt</l>
+            <l>Wenn ich dich bey mir seh/</l>
+            <l>Ich weiß du liebst mich auch/</l>
+            <l>Ob gleich dein Angesichte</l>
+            <l>Die Liebe macht zu nichte/</l>
+            <l>So liebet doch mein Hertz/</l>
+            <l>Das frey von allen Schertz</l>
+            <l>In heissen Flammen steht.</l>
+            <l>Denn liest die Liebe man nicht an der Stirne/</l>
+            <l>So ist sie doch im Hertzen und Gehirne.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

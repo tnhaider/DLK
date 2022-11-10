@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">6.</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">171</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">677</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>6.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Braut ist allsobald verschwunden,</l>
+            <l>Umsonst durchspäht man Flur und Wald,</l>
+            <l>Sie hat die Grenze schon gefunden,</l>
+            <l>Und ihrer Brüder Aufenthalt.</l>
+            <l>Schon in des Cheviot wilden Kesseln</l>
+            <l>Hat sie ihr Brautgewand zerfetzt,</l>
+            <l>Und löst die langgetragnen Fesseln,</l>
+            <l>Wie ihre schwarzen Flechten jetzt.</l>
+            <l>Schon lagert Alt und Jung im Kreise</l>
+            <l>Um eines Feuers Flackerbrand,</l>
+            <l>Und ihres Liedes wilde Weise</l>
+            <l>Hallt fort von Fels zu Felsenwand:</l>
+            <l>„zur Wüste wieder will der Löwe,</l>
+            <l>Der Aar zurück in seinen Horst,</l>
+            <l>Nur auf dem Meere jauchzt die Möve, —</l>
+            <l>Und wir allein in Schlucht und Forst.</l>
+            <l>Ihr könnt den Sturzbach nimmer zähmen,</l>
+            <l>Die Wildheit ist sein Wesen nur; —</l>
+            <l>Es heißt uns Luft und Leben nehmen,</l>
+            <l>Nimmt man uns Freiheit und Natur.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

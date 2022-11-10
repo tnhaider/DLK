@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gedancken über Treib-Eis.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-4 2-11</measure>
+        <measure type="syllables">165</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">687</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1735</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20086-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gedancken über Treib-Eis.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wie ein schneller Blitz, aus fahrender Carossen</l>
+            <l>Bestrahltem Spiegel-Glas’, uns schnell ins Ange</l>
+            <l>So blitzt ein glattes Eis, wenn es die Sonn’ erhellt,</l>
+            <l>Und es im regen Fluß gemach herab geflossen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wie in einer heitern Nacht,</l>
+            <l>Wann alles durch der Schatten Heer verdunckelt,</l>
+            <l>Ein Stern der ersten Gröss’, in einer reinen Pracht,</l>
+            <l>Mehr Blitzt und strahlt, als gläntzt und funckelt;</l>
+            <l>So scheinen offt bestrahltes Eises Schollen,</l>
+            <l>Wenn sie im schweren Strohm beweglich vorwärts rollen,</l>
+            <l>Bey Tag’ ein strahlendes Gestirn zu seyn.</l>
+            <l>Welch heller Glantz, der mir ins Auge steigt,</l>
+            <l>Aus diesem in die Höh’ geschobnen glatten Eise,</l>
+            <l>Mir, ihres Schöpfers Macht zum Preise,</l>
+            <l>Die Herrlichkeit des Lichts der Sonnen zeigt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

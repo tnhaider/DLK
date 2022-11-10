@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zu fernerem Bedenken.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">380</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zu fernerem Bedenken.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„zu fernerem Bedenken!“</l>
+            <l>Du altes Reichstagswort!</l>
+            <l>Der Reichstag ist vergangen,</l>
+            <l>Der Bund hat angefangen,</l>
+            <l>Du aber lebst noch fort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im ferneren Bedenken</l>
+            <l>Schlief ein das deutsche Reich:</l>
+            <l>Und weil so süß sein Schlummer,</l>
+            <l>Ganz ohne Sorg' und Kummer,</l>
+            <l>So thut's der Bund ihm gleich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von fernerem Bedenken</l>
+            <l>Erwach', o deutscher Bund!</l>
+            <l>Gieb etwas von Erhebniß,</l>
+            <l>Ein freudiges Ergebniß</l>
+            <l>Den armen Deutschen kund!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

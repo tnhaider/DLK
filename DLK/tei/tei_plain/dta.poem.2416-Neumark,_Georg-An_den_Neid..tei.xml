@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Neid.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">696</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Neid.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wje köm̃ts vergifft er Neid/ du dein stets eigner Henker/</l>
+            <l>Du böses Schlangenkind/ du hellisches Geschlecht/</l>
+            <l>Du Friedenstörer du/ du Teussels Stekkenknecht/</l>
+            <l>Du blauvergalter Mund/ du dein selbst eigner Kränker/</l>
+            <l>Wie kömmt es/ sag’ ich noch du Unglüks angedenker/</l>
+            <l>Daß du must allezeit verüben deine Tükk’</l>
+            <l>Und wetzen deinen Zahn/ wenn wor ein gutes Glütk</l>
+            <l>Der Tugend ist beschehrt? sag an du Ehrversenker.</l>
+            <l>Doch schweig ich weis es schon. Gleich wie dem klahren</l>
+            <l>Liecht/</l>
+            <l>(jm fall der göldne Glantz Apollens zu uns bricht.</l>
+            <l>Und denn der Silberschein von seinen Ehegatten/)</l>
+            <l>Der dunkle Schatten folgt; so folgstu überal</l>
+            <l>Der ädlen Tugend nach. Kurtz/ wisse dieses mal</l>
+            <l>Die Tugend ist das Licht/ du aber schwartzer Schatten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

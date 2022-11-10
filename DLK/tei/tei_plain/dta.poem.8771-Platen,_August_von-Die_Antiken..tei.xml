@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Antiken.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">294</measure>
+        <measure type="tokens">177</measure>
+        <measure type="characters">1095</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Antiken.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht am dumpfigen Ort in Gewölben zu wohnen ge-</l>
+            <l>Denkt doch, was wir und wo wir gewesen, und schenket</l>
+            <l>Dies uralte Gefäß war einst der egyptischen Gärten</l>
+            <l>Zier, und Cleopatra selbst ließ füllen mit Myrtenge-</l>
+            <l>Dieser geschnittene Stein, ein doppelgeschichteter Onyx,</l>
+            <l>Zierte des jungen Antinous Hand, als köstlichen Ring-</l>
+            <l>Trug ihn der schöne, doch ach! zu frühe vergötterte</l>
+            <l>Ich, als Hermes, stand in der Halle des Cäsar Augustus,</l>
+            <l>Wo mich ein Lorbeergewächs mit südlichem Duft an-</l>
+            <l>Und nun habt ihr uns hier aneinandergehäuft und</l>
+            <l>Eines das andre verdrängend, und dies durch jenes</l>
+            <l>Keins am schicklichen Ort, in belebendem Schimmer der</l>
+            <l>Selbst das gelehrte Gesicht des begaffenden Kenners er-</l>
+            <l>Liegen geschichtet wir hier, gleich traurigen Knochen im</l>
+            <l>Und in empfänglicher Brust aufregen wir schmerzliche</l>
+            <l>Nach den Tagen, in denen wir fast wie Lebendige prangten.</l>
+            <l>Zieht nicht Rosen auch ihr, frischblühende Flechte zu</l>
+            <l>Um den etrurischen Krug und die Scheitel der Büste</l>
+            <l>Habt nicht Tempel auch ihr, und schattige Gartenarkaden,</l>
+            <l>Daß ihr uns dorthin pflanzt, in die Nähe des ewigen</l>
+            <l>Jedem Beschauer zur Lust, uns selbst zur süßen Ge-</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

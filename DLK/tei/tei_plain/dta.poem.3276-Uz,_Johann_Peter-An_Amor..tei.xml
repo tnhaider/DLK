@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Amor.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">422</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Amor.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Amor, Vater süsser Lieder,</l>
+            <l>Du mein Phöbus, kehre wieder!</l>
+            <l>Kehre wieder in mein Herze!</l>
+            <l>Komm! doch mit dem schlauen Scherze:</l>
+            <l>Komm und laß zugleich Lyäen</l>
+            <l>Dir zur Seite lachend gehen!</l>
+            <l>Komm mit einem holden Kinde,</l>
+            <l>Das mein träges Herz entzünde,</l>
+            <l>Und durch feuervolle Küsse</l>
+            <l>Zum Horaz mich küssen müsse!</l>
+            <l>Willst du, Gott der Zärtlichkeiten:</l>
+            <l>Laß auch Schmerzen dich begleiten!</l>
+            <l>Ich will lieber deine Schmerzen,</l>
+            <l>Als nicht küssen und nicht scherzen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

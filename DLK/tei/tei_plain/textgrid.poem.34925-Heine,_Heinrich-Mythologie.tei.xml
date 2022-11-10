@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mythologie</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">658</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mythologie</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, Europa ist erlegen –</l>
+            <l>Wer kann Ochsen widerstehen?</l>
+            <l>Wir verzeihen auch Danäen –</l>
+            <l>Sie erlag dem goldnen Regen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Semele ließ sich verführen –</l>
+            <l>Denn sie dachte: eine Wolke,</l>
+            <l>Ideale Himmelswolke,</l>
+            <l>Kann uns nicht kompromittieren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber tief muß uns empören</l>
+            <l>Was wir von der Leda lesen –</l>
+            <l>Welche Gans bist du gewesen,</l>
+            <l>Daß ein Schwan dich konnt betören!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, Europa ist erlegen –</l>
+            <l>Wer kann Ochsen widerstehen?</l>
+            <l>Wir verzeihen auch Danäen –</l>
+            <l>Sie erlag dem goldnen Regen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Semele ließ sich verführen –</l>
+            <l>Denn sie dachte: eine Wolke,</l>
+            <l>Ideale Himmelswolke,</l>
+            <l>Kann uns nicht kompromittieren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber tief muß uns empören</l>
+            <l>Was wir von der Leda lesen –</l>
+            <l>Welche Gans bist du gewesen,</l>
+            <l>Daß ein Schwan dich konnt betören!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

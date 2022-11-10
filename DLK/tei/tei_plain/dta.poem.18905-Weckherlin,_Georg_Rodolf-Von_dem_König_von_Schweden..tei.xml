@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem König von Schweden.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-5 2-1 3-5 4-5</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">594</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem König von Schweden.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Okönig/ dessen haupt/ den Weltkraiß zu regieren/</l>
+            <l>Vnd dessen faust die welt zu sigen/ allein gut;</l>
+            <l>O Herrscher/ dessen hertz/ Herr/ dessen grossen muht</l>
+            <l>Gotsforcht/ Gerechtigkeit/ stärck/ maaß vnd weiß-</l>
+            <l>heit zieren;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Held/ für dessen schwert die verfolger die wuht/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Feinds zorn/ hochmuht/ hassz/ durch macht/ be-</l>
+            <l>trug/ vntrew/</l>
+            <l>Hat schier in dienstbarkeit/ Vnrecht/ Abgötterey/</l>
+            <l>Des Teutschlands freyheit/ Recht vnd Gottes-</l>
+            <l>dienst verkehret;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als ewer haupt/ hertz/ hand/ gantz weiß/ gerecht/ be-</l>
+            <l>wehret/</l>
+            <l>Die Feind bald jhren wohn vnd pracht in hohn</l>
+            <l>vnd rew/</l>
+            <l>Die Freind jhr layd in frewd zuverkehren/ gelehret.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

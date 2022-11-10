@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Heideschenke .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">454</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Heideschenke .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich zog durch's weite Ungerland;</l>
+            <l>Mein Herz fand seine Freude,</l>
+            <l>Als Dorf und Busch und Baum verschwand</l>
+            <l>Auf einer stillen Heide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Heide war so still, so leer,</l>
+            <l>Am Abendhimmel zogen</l>
+            <l>Die Wolken hin, gewitterschwer,</l>
+            <l>Und leise Blitze flogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da hört' ich in der Ferne was,</l>
+            <l>In dunkler, meilenweiter;</l>
+            <l>Ich legte's Ohr an's knappe Gras,</l>
+            <l>Mir war als kämen Reiter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als sie kamen näherwärts,</l>
+            <l>Begann der Grund zu zittern,</l>
+            <l>Stets bänger, wie ein zages Herz</l>
+            <l>Bei nahenden Gewittern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

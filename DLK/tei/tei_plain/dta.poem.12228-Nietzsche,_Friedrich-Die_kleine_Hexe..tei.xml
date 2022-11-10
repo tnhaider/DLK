@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die kleine Hexe.</title>
+        <author>
+          <persName>
+            <surname>Nietzsche</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">1243</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30172-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die kleine Hexe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>             So lang noch hübsch mein Leibchen,</l>
+            <l>             Lohnt sichs schon, fromm zu sein.</l>
+            <l>             Man weiss, Gott liebt die Weibchen,</l>
+            <l>             Die hübschen obendrein.</l>
+            <l>         Er wird’s dem art’gen Mönchlein</l>
+            <l>         Gewisslich gern verzeihn,</l>
+            <l>             Dass er, gleich manchem Mönchlein,</l>
+            <l>             So gern will bei mir sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>             Kein grauer Kirchenvater!</l>
+            <l>         Nein, jung noch und oft roth,</l>
+            <l>         Oft gleich dem grausten Kater</l>
+            <l>             Voll Eifersucht und Noth!</l>
+            <l>             Ich liebe nicht die Greise,</l>
+            <l>             Er liebt die Alten nicht:</l>
+            <l>         Wie wunderlich und weise</l>
+            <l>         Hat Gott dies eingericht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>             Die Kirche weiss zu leben,</l>
+            <l>             Sie prüft Herz und Gesicht.</l>
+            <l>             Stäts will sie mir vergeben: —</l>
+            <l>         Ja wer vergiebt mir nicht!</l>
+            <l>Man lispelt mit dem Mündchen,</l>
+            <l>             Man knixt und geht hinaus</l>
+            <l>             Und mit dem neuen Sündchen</l>
+            <l>             Löscht man das alte aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>         Gelobt sei Gott auf Erden,</l>
+            <l>         Der hübsche Mädchen liebt</l>
+            <l>             Und derlei Herzbeschwerden</l>
+            <l>             Sich selber gern vergiebt!</l>
+            <l>             So lang noch hübsch mein Leibchen,</l>
+            <l>         Lohnt sich’s schon, fromm zu sein:</l>
+            <l>         Als altes Wackelweibchen</l>
+            <l>             Mag mich der Teufel frein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

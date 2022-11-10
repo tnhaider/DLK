@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Traumbild.</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">31</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8 4-8</measure>
+        <measure type="syllables">233</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">902</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Traumbild.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und auf der öden Wildniss,</l>
+            <l>Wo Tannenbäume Dämmrung streun,</l>
+            <l>Umflattert mich das Bildniss.</l>
+            <l>Es tanzt aus jedem Busch hervor,</l>
+            <l>Wo Maienlämmlein grasen,</l>
+            <l>Und wallt, verhüllt in leichten Flor,</l>
+            <l>Auf jedem grünen Rasen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann mich, mit meinem Gram vertraut,</l>
+            <l>Zur Stunde der Gespenster,</l>
+            <l>Der liebe helle Mond beschaut,</l>
+            <l>Bebts durch mein Kammerfenster,</l>
+            <l>Und malt sich an die weisse Wand,</l>
+            <l>Und schwebt vor meinen Blicken,</l>
+            <l>Und winkt mir mit der kleinen Hand,</l>
+            <l>Und lächelt mir Entzücken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein guter Engel, sage mir,</l>
+            <l>Wo Luna sie beflimmert,</l>
+            <l>Und wo, von ihr berührt, von ihr!</l>
+            <l>Die Blume röther schimmert.</l>
+            <l>Erschaff' ihr Bild aus Morgenlicht,</l>
+            <l>Ihr Kleid aus Aetherbläue,</l>
+            <l>Und zeig' in jedem Nachtgesicht</l>
+            <l>Mir meine Vielgetreue.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo pflückt sie, wann der Lenz beginnt,</l>
+            <l>Die ersten Maienklocken?</l>
+            <l>Wo spielst du, lieber Abendwind,</l>
+            <l>Mit ihren blonden Locken?</l>
+            <l>O eilt, o flattert weg von ihr,</l>
+            <l>Geliebte Maienwinde,</l>
+            <l>Und sagt es mir, und sagt es mir,</l>
+            <l>Wo ich das Mädchen finde!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

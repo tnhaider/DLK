@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Weberlied .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">239</measure>
+        <measure type="tokens">171</measure>
+        <measure type="characters">1005</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Weberlied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frühmorgens, wenn der Tag bricht an,               </l>
+            <l>Hört man uns schon mit Freuden</l>
+            <l>Ein schönes Liedlein stimmen an,</l>
+            <l>Und wacker drauf arbeiten.</l>
+            <l>Die Spule die ist unser Pflug,</l>
+            <l>Das Schifflein ist das Pferde,</l>
+            <l>Und damit machen mir gar klug</l>
+            <l>Das schönste Werk auf Erden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gar manche Jungfrau freundlich spricht:</l>
+            <l>Mach mir gut Tuch zu Betten,</l>
+            <l>Das Garn ist auch schon zugericht,</l>
+            <l>Zu Tischtuch und Servietten.</l>
+            <l>Webt mir die schönsten Bilder drein,</l>
+            <l>Macht mir darin kein Neste,</l>
+            <l>Das Trinkgeld sollt ihr haben fein,</l>
+            <l>Webt mirs aufs allerbeste.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn ein Kriegsheld zieht ins Feld</l>
+            <l>Mit seinen Wehr und Waffen,</l>
+            <l>So schlägt er auf ein Leinwandzelt,</l>
+            <l>Darunter thut er schlafen.</l>
+            <l>Die schönste Arbeit weben wir</l>
+            <l>Von Seiden, Flachs und Wolle,</l>
+            <l>Dem Fähndrich weben wir's Panier,</l>
+            <l>Daß ers erhalten solle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ist die Leinwand nichts mehr werth,</l>
+            <l>Und ist die Fahn verloren,</l>
+            <l>So kömmt sie erst in rechten Werth,</l>
+            <l>Papier rauscht vor den Ohren,</l>
+            <l>Man druckt darauf das Gotteswort,</l>
+            <l>Und schreibt darauf mit Dinten,</l>
+            <l>Des Webers Werk währt immer fort,</l>
+            <l>Kein Mensch kann es ergründen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Galathee.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">297</measure>
+        <measure type="tokens">191</measure>
+        <measure type="characters">1170</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Galathee.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fleuch, Galathee! den Stolz verlebter Schönen!</l>
+            <l>Schilt auf die Liebe nicht.</l>
+            <l>Du wirst sie nur mit falschen Lippen höhnen:</l>
+            <l>Dein Auge widerspricht.</l>
+            <l>Es müsse dich die süsse Leyer lehren,</l>
+            <l>Die überredend klingt,</l>
+            <l>Und, wie man glaubt, trotz heuchlerischem Wehren,</l>
+            <l>Von manchem spröden Mund oft manchen Kuß erzwingt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Liebesgott schlief unter Myrthenbüschen,</l>
+            <l>In Bluhmen hingestreckt;</l>
+            <l>Und ließ im Schlaf durch Nymphen sich erwischen,</l>
+            <l>Die er so oft erschreckt.</l>
+            <l>Nur eingedenk, wie Amor sie geplaget,</l>
+            <l>Nicht, wie er sie entzückt,</l>
+            <l>Verübten sie, was niemand noch gewaget:</l>
+            <l>Sie fesselten den Gott, der Götter selbst bestrickt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der schlaue Gott sah, als er schnell erwachte,</l>
+            <l>Den ihm gespielten Streich.</l>
+            <l>O loses Volk! sprach dieser Schalk und lachte;</l>
+            <l>Wie listig rächt ihr euch!</l>
+            <l>Ich läugne nicht, was ich an euch begangen:</l>
+            <l>Ich macht’ euch tausend Pein.</l>
+            <l>Besänftigt euch! nun habt ihr mich gefangen:</l>
+            <l>Jhr werdet ungequält und ungeküsset seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ungeküfst? welch grausamer Gedanke!</l>
+            <l>Man dachte reifer nach,</l>
+            <l>Und sah beschämt, wie dem verwegnen Zanke</l>
+            <l>Das Herze widersprach.</l>
+            <l>Sie thaten ‒‒ was? was alle Mädchen thäten!</l>
+            <l>Sie banden Amorn los,</l>
+            <l>Und Amor flog, da sie um Gnade flehten,</l>
+            <l>Von ihnen lachend weg in seiner Mutter Schoos.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

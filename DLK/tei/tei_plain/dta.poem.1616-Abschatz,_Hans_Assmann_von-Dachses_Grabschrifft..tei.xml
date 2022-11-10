@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dachses Grabschrifft.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">685</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dachses Grabschrifft.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier liegt ein strenger Katzen-Feind/ ein schlauer Hasen-</l>
+            <l>Fänger/</l>
+            <l>Ein Stürmer mancher festen Grufft/ ein kühner Fuchs-Be-</l>
+            <l>dränger/</l>
+            <l>Man sah kaum so viel Haar auff seinen abgelebten Rücken/</l>
+            <l>Als er sein Lebenlang hat Wild zu Grabe helffen schicken.</l>
+            <l>Man wird/ wie er zugleich der Hund und Jäger sey gewesen/</l>
+            <l>Mit Wunder in den Chronicken berühmter Hunde lesen.</l>
+            <l>Die Treue/ die er Lebenslang erzeiget Herr und Frauen/</l>
+            <l>Dieß er an der Gespielin noch in seinem Tode schauen.</l>
+            <l>Wie sie zusammen Wäydewerck ins zehnde Jahr getrieben/</l>
+            <l>So sind sie auch in kurtzer Frist von gleichem Tode blieben.</l>
+            <l>Sieht gleich die Welt kein Ebenbild von seinen Kindern leben/</l>
+            <l>So wird ihm der gestirnte Hund doch seine Stelle geben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

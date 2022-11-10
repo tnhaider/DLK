@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Ring .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">680</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Ring .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein fremder Kavalier</l>
+            <l>Stieg ab vom schwarzen Roß,</l>
+            <l>Trat in den Königssaal,</l>
+            <l>Mit andern Herren groß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Derselbe Kavalier</l>
+            <l>Trug einen Edelstein,</l>
+            <l>Wie man noch keinen sah,</l>
+            <l>Von wundersamen Schein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Stein von hohem Werth</l>
+            <l>In Königs Krone saß,</l>
+            <l>Doch schien vor diesem er</l>
+            <l>Ein mattgeschliffen Glas.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König bot ihm Gold,</l>
+            <l>Er bot ihm Leut und Land,</l>
+            <l>Doch lassen wollt er nicht</l>
+            <l>Den edlen Diamant.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König deß' erbost,</l>
+            <l>Spricht zu dem Hauptmann sein:</l>
+            <l>Bringt mir des Mannes Hand</l>
+            <l>Samt seinem Edelstein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Hauptmann reckt das Schwert,</l>
+            <l>Haut nach des Mannes Hand,</l>
+            <l>Doch statt dem Kavalier</l>
+            <l>Der Teufel vor ihm stand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gluth strömt aus seinem Ring,</l>
+            <l>Zur Hölle wächst der Stein,</l>
+            <l>Schleußt Schloß und König bald</l>
+            <l>Samt allen Dienern ein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

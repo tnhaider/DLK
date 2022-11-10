@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">23.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">504</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>23.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie ich dich kehren mag, du kehrst dich selber zu</l>
+            <l>Dem Licht, o Blütenzweig, mich selbst beschämest du.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und jeder Sproß, verkehrt im Boden eingesenkt,</l>
+            <l>Hat bald das Unterste nach Oben umgelenkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von innerm Drang gedrängt, von äußerm Zug gezogen,</l>
+            <l>Bleibt ihr dem Licht getreu, und bis zum Tod gewogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So haltet ihr das Licht, ihr dunkeln Trieb', in Ehren,</l>
+            <l>Und nur der lichte Geist kann ab zur Nacht sich kehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch kann auch er, indeß ihr bleibt an Wurzeln hangen,</l>
+            <l>Dem Lichte zugewandt, zum Lichte selbst gelangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

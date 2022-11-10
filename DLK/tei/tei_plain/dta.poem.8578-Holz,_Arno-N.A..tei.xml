@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-2 2-3 3-1 4-1 5-4 6-1 7-3 8-3</measure>
+        <measure type="syllables">90</measure>
+        <measure type="tokens">52</measure>
+        <measure type="characters">367</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1899</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192690"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In graues Grün</l>
+            <l>verdämmern Riesenstämme.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von greisen Aesten</l>
+            <l>hängt</l>
+            <l>in langen Bärten Moos.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Irgendwo . . hämmernd . . ein Specht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt der Wolf? Wächst das Wunschkraut hier?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wird auf ihrem weissen Zelter,</l>
+            <l>lächelnd,</l>
+            <l>auf mein klopfendes Herz zu,</l>
+            <l>die Prinzessin reiten?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nichts.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie schwarze Urweltkröten,</l>
+            <l>regungslos,</l>
+            <l>hockt am Weg der Wachholder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwischendurch</l>
+            <l>giftrot</l>
+            <l>leuchten Fliegenpilze.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

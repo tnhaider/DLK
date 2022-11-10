@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nach Süden .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">839</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nach Süden .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort nach Süden zieht der Regen,</l>
+            <l>Winde brausen südenwärts,</l>
+            <l>Nach des Donners fernen Schlägen,</l>
+            <l>Dort nach Süden will mein Herz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort im fernen Ungerlande</l>
+            <l>Freundlich schmuck ein Dörfchen steht,</l>
+            <l>Rings umrauscht von Waldesrande,</l>
+            <l>Mild von Segen rings umweht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An des Dörfchens stillem Saume</l>
+            <l>Ist ein Hüttlein hingestellt,</l>
+            <l>Das in seinem engen Raume</l>
+            <l>Wahret meine Herzenswelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bäume halten es umschlungen</l>
+            <l>Mit den Zweigen inniglich,</l>
+            <l>Bäume, die dem Wald entsprungen,</l>
+            <l>Sehnend nach dem Hüttlein sich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus dem Fenster blickt nun schweigend</l>
+            <l>Lilla nach dem Wald hinaus,</l>
+            <l>Ihr Gesichtchen traurig neigend</l>
+            <l>Blickt sie nach dem Laubgebraus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sie sieht's mit stillem Sinnen,</l>
+            <l>Und sie sieht es bang gerührt,</l>
+            <l>Wie die Wasser niederrinnen,</l>
+            <l>Wie der Wind das Laub entführt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lauter wogt der Bach und trüber,</l>
+            <l>Lauter wird der Lüfte Streit,</l>
+            <l>Hörbar rauscht die Zeit vorüber</l>
+            <l>An des Mädchens Einsamkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

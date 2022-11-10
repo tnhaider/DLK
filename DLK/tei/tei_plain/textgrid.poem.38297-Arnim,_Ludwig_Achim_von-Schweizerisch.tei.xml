@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schweizerisch</title>
+        <author>
+          <persName>
+            <surname>Arnim</surname>
+            <forename>Ludwig Achim von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">670</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schweizerisch</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>S'isch no nit lang daß gregnet hätt,</l>
+            <l>Die Laeubli tröpfle no,</l>
+            <l>I hab e mohl e Schazli ghätt,</l>
+            <l>I wott, i hätt es no.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jez isch er gange go wandere,</l>
+            <l>I wünsch em Löcher in d'Schuh,</l>
+            <l>Jez hab i wieder en andere,</l>
+            <l>Gott gäb mer Glück dazu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>S'isch no nit lang, daß er g'heirat hätt,</l>
+            <l>S'isch gar e kurzi Zyt;</l>
+            <l>Si Röckli ist em loderich,</l>
+            <l>Si Strümpfli sin em z'wyt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>S'isch no nit lang daß gregnet hätt,</l>
+            <l>Die Laeubli tröpfle no,</l>
+            <l>I hab e mohl e Schazli ghätt,</l>
+            <l>I wott, i hätt es no.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jez isch er gange go wandere,</l>
+            <l>I wünsch em Löcher in d'Schuh,</l>
+            <l>Jez hab i wieder en andere,</l>
+            <l>Gott gäb mer Glück dazu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>S'isch no nit lang, daß er g'heirat hätt,</l>
+            <l>S'isch gar e kurzi Zyt;</l>
+            <l>Si Röckli ist em loderich,</l>
+            <l>Si Strümpfli sin em z'wyt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

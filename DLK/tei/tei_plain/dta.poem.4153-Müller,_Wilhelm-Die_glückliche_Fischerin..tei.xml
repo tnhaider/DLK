@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die glückliche Fischerin.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">39</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">253</measure>
+        <measure type="tokens">189</measure>
+        <measure type="characters">1018</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die glückliche Fischerin.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sah's vom Ufer her:</l>
+            <l>In's Netz die Fischlein sprangen,</l>
+            <l>Als ob's zum Tanze wär';</l>
+            <l>Wollt' keins im Meere bleiben,</l>
+            <l>Das Netz war viel zu klein:</l>
+            <l>Sie ließ es sich gefallen,</l>
+            <l>Und dacht', es muß so sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie stieg aus ihrem Boote,</l>
+            <l>Am Strande blieb sie stehn,</l>
+            <l>Da schwoll das Meer und wogte,</l>
+            <l>Als möcht' es mit ihr gehn;</l>
+            <l>Und Muscheln und Korallen</l>
+            <l>Trieb es ihr hinterdrein:</l>
+            <l>Sie hob sie auf vom Boden,</l>
+            <l>Und dacht', es muß so sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich armer Hirtenbube,</l>
+            <l>Was frommt mein Werben mir</l>
+            <l>Mit Blumen und mit Bändern?</l>
+            <l>Die Welt gehöret ihr.</l>
+            <l>Ihr schlagen alle Herzen,</l>
+            <l>Und wären sie von Stein:</l>
+            <l>Sie nimmt's wie Wogenrauschen,</l>
+            <l>Und denkt, es muß so sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Könnt' ich ihr selber bringen</l>
+            <l>Der Sterne Silberlicht,</l>
+            <l>Des Himmels Abendbläue,</l>
+            <l>Was Neues wär' es nicht.</l>
+            <l>Sie hielt's an ihre Augen,</l>
+            <l>Und spräch': es ist ja mein!</l>
+            <l>Vergäße mir zu danken,</l>
+            <l>Und dächt', es muß so sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was frommt dein blödes Klingen,</l>
+            <l>Mein kleines Saitenspiel?</l>
+            <l>Ist auch ihr Fenster offen,</l>
+            <l>Sie hört dich doch nicht viel,</l>
+            <l>Vor allen Jägerhörnern</l>
+            <l>Und Flöten und Schalmei'n;</l>
+            <l>Sie tanzt dazu den Reigen,</l>
+            <l>Und denkt, es muß so sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

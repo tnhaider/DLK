@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Eisbrunn .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">158</measure>
+        <measure type="characters">942</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Eisbrunn .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der du vom nackenden Fels im Krais der finstern Ge-
+büsche</l>
+            <l>Dich sammelst, und in die Wiese dich schlingst;</l>
+            <l>O Quell, der Lieder verdient, so wie Blandusiens Quel-</l>
+            <l>Dich singt mein Lied in die kommende Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon sieht mein heiterer Blick von fern den moosich-</l>
+            <l>Der über den kahlen Felsen sich neigt;</l>
+            <l>Und der durch dürres Gestein, mit halbverdorreten Wur-</l>
+            <l>Zu deinen wohlthätigen Wellen sich dringt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O du krystallener Quell, zu dir komm ich mit Selinen,</l>
+            <l>Dein angenehmes Gestade zu weihn.</l>
+            <l>Mit einem lachenden Strauß will ich den Sonnenhut</l>
+            <l>Von dem die schimmernde Schleife sich krümmt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und aus der silbernen Fluth will ich die Wangen bene-</l>
+            <l>Die ihr mein Blick oft mit Unschuld gefärbt.</l>
+            <l>Zu gleichem Scherze bereit, wird sie mich lächelnd be-</l>
+            <l>Und dankbar küß ich die rächende Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So zählt der Enkel dich einst zu jenen unsterblichen</l>
+            <l>Weil ich die rauschenden Eichen gerühmt,</l>
+            <l>In deren Schatten zuerst ich sanfterröthend Selinen,</l>
+            <l>Die schönste Hand, mit Empfindung geküßt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

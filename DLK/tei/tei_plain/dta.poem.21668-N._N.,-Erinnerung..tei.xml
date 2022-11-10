@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erinnerung.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-8 4-8</measure>
+        <measure type="syllables">260</measure>
+        <measure type="tokens">167</measure>
+        <measure type="characters">1042</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erinnerung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir ritten singend hin im gr&amp;#252;nen Walde,                 </l>
+            <l>Die schneeigen Spitzen nickten fern herüber</l>
+            <l>Im Alpenglühn. Es dämmert trüb und trüber.</l>
+            <l>Vom fernen Föhn erbebt die Bergeshalde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Espe schaudert, flüsternd klagt das Blatt,</l>
+            <l>Die Weide ahnt den Sturm, der sie zerknickt:</l>
+            <l>Sie senkt die Zweige siech und kummersatt.</l>
+            <l>Selbst die Cikade summt nur träg und matt:</l>
+            <l>Natur in sich zurückeschrickt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur einmal, Holde, hab’ ich dich gesehen,</l>
+            <l>Doch werde nimmer deinen Reiz vergessen.</l>
+            <l>Verklungen ist der Sang. Ich muß durchmessen</l>
+            <l>Den rauhen Wald des Lebens und es wehen</l>
+            <l>Herbstblätter nun im Sturme um mich her.</l>
+            <l>Ach, die Erinnerung als Alpenglühen</l>
+            <l>Flammt hinter mir in stiller Nacht nicht mehr.</l>
+            <l>Des Herzens Flammen allgemach versprühen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Bild nur leuchtet wie ein letzter Funken</l>
+            <l>Von höchster Alpe der Vergangenheit,</l>
+            <l>Bis auch dies Alpenglühen matt versunken</l>
+            <l>Tief in den Schluchten der Vergessenheit.</l>
+            <l>Gelassen reit’ ich durch die Felsenflur —</l>
+            <l>Ich bange nicht dem Sturm, wie die Natur.</l>
+            <l>Wenn auch kein Licht mein Auge mehr erblickt —</l>
+            <l>Ein todtes Herz vor Nichts erschrickt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

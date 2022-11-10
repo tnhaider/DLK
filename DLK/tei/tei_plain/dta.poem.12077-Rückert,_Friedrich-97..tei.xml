@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">97.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">55</measure>
+        <measure type="characters">322</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>97.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Spruch: Erkenne dich! sollst du nicht übertreiben;</l>
+            <l>Laß immer unbekannt dir in dir etwas bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Grund, aus welchem quillt dein Daseyn, mußt du fühlen;</l>
+            <l>Zerstören wirst du ihn, wenn du ihn auf willst wühlen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die reine Quelle wird, frech aufgewühlt, ein Sumpf;</l>
+            <l>Nicht wer sie nicht erkennt, wer sich nicht fühlt ist dumpf.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

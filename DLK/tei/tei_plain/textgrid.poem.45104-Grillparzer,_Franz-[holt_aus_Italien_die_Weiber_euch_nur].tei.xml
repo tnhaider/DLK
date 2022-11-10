@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[holt aus Italien die Weiber euch nur]</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">116</measure>
+        <measure type="tokens">66</measure>
+        <measure type="characters">400</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[holt aus Italien die Weiber euch nur]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Holt aus Italien die Weiber euch nur,</l>
+            <l>Ihr seid auf der rechten Straße,</l>
+            <l>Ihr habt schon von dort die Epilepsie,</l>
+            <l>Die Bigotterie, die Nymphomanie,</l>
+            <l>Den Macchiavellismus in Masse,</l>
+            <l>Verbessert nur fort eure Rasse.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Holt aus Italien die Weiber euch nur,</l>
+            <l>Ihr seid auf der rechten Straße,</l>
+            <l>Ihr habt schon von dort die Epilepsie,</l>
+            <l>Die Bigotterie, die Nymphomanie,</l>
+            <l>Den Macchiavellismus in Masse,</l>
+            <l>Verbessert nur fort eure Rasse.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

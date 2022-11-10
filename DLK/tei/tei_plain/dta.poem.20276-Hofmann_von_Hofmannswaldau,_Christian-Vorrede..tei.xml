@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorrede.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">145</measure>
+        <measure type="characters">810</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorrede.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwar köstlich ist es wohl/ ein theil der welt regieren/</l>
+            <l>Herr vieler herren seyn/ das schwerdt und scepter führen/</l>
+            <l>Besitzen gut und blut; doch ist hier minder ruh</l>
+            <l>Als auff der wilden see/ die grimmig ab und zu</l>
+            <l>Mit ihren wellen jagt/ und nie vermag zu stehen.</l>
+            <l>In einen grossen hof/ wo tausend leute gehen</l>
+            <l>Zu suchen gnad und recht/ da schleichen auch hinein</l>
+            <l>Gefahr/ betrug und list. Es führt der grosse schein</l>
+            <l>Viel schatten hinter sich. Die auff dem throne sitzen</l>
+            <l>In voller herrlichkeit/ und also häuffig schwitzen/</l>
+            <l>Was meynstu/ daß es sey? Der sommer thut es nicht/</l>
+            <l>Die sonne kan nicht hin: Was aus der stirne bricht/</l>
+            <l>Ist arbeit und beschwer. So viel hier leute dienen/</l>
+            <l>Sind ihnen mehrentheils zu dienste selbst erschienen:</l>
+            <l>Sie ehren nur die macht des fürsten/ und nicht ihn/</l>
+            <l>Und wenn sein glücke fällt/ so gehn sie auch dahin.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

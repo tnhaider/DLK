@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zu Neujahr</title>
+        <author>
+          <persName>
+            <surname>Busch</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">374</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1870</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zu Neujahr</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Will das Glück nach seinem Sinn</l>
+            <l>Dir was Gutes schenken,</l>
+            <l>Sage Dank und nimm es hin</l>
+            <l>Ohne viel Bedenken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jede Gabe sei begrüßt,</l>
+            <l>Doch vor allen Dingen:</l>
+            <l>Das, warum du dich bemühst,</l>
+            <l>Möge dir gelingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Will das Glück nach seinem Sinn</l>
+            <l>Dir was Gutes schenken,</l>
+            <l>Sage Dank und nimm es hin</l>
+            <l>Ohne viel Bedenken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jede Gabe sei begrüßt,</l>
+            <l>Doch vor allen Dingen:</l>
+            <l>Das, warum du dich bemühst,</l>
+            <l>Möge dir gelingen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

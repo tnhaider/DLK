@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Biene</title>
+        <author>
+          <persName>
+            <surname>Lessing</surname>
+            <forename>Gotthold Ephraim</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">794</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Biene</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als Amor in den goldnen Zeiten</l>
+            <l>Verliebt in Schäferlustbarkeiten</l>
+            <l>Auf bunten Blumenfeldern lief,</l>
+            <l>Da stach den kleinsten von den Göttern,</l>
+            <l>Ein Bienchen, das in Rosenblättern,</l>
+            <l>Wo es sonst Honig holte, schlief.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch diesen Stich ward Amor klüger.</l>
+            <l>Der unerschöpfliche Betrüger</l>
+            <l>Sann einer neuen Kriegslist nach:</l>
+            <l>Er lauscht' in Rosen und Violen;</l>
+            <l>Und kam ein Mädchen sie zu holen,</l>
+            <l>Flog er als Bien' heraus, und stach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als Amor in den goldnen Zeiten</l>
+            <l>Verliebt in Schäferlustbarkeiten</l>
+            <l>Auf bunten Blumenfeldern lief,</l>
+            <l>Da stach den kleinsten von den Göttern,</l>
+            <l>Ein Bienchen, das in Rosenblättern,</l>
+            <l>Wo es sonst Honig holte, schlief.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch diesen Stich ward Amor klüger.</l>
+            <l>Der unerschöpfliche Betrüger</l>
+            <l>Sann einer neuen Kriegslist nach:</l>
+            <l>Er lauscht' in Rosen und Violen;</l>
+            <l>Und kam ein Mädchen sie zu holen,</l>
+            <l>Flog er als Bien' heraus, und stach.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Sonne, den Planeten,  
+ und vom Firmament.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">98</measure>
+        <measure type="tokens">62</measure>
+        <measure type="characters">392</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Sonne, den Planeten,  
+ und vom Firmament.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sonne herrscht, und ist, durch ihre rege Flammen,</l>
+            <l>Der Cörperlichen Welt ihr Leben, Seel und Geist.</l>
+            <l>Es scheinet, als ob sie in ihrem Lauff zusammen,</l>
+            <l>So wol den Jahres-Creys, als Tages-Creys durchreis’t:</l>
+            <l>Nebst der Planeten Heer zeigt das Gestirn der Nacht</l>
+            <l>Sich stets veränderlich: indem am Firmament</l>
+            <l>Der festen Sterne Feur, in wunderbarer Pracht,</l>
+            <l>Als welche sonder Zahl, recht Majestätisch brennt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

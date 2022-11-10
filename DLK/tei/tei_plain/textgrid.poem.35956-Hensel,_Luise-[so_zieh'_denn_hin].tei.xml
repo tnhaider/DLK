@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[so zieh' denn hin]</title>
+        <author>
+          <persName>
+            <surname>Hensel</surname>
+            <forename>Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-4 4-5</measure>
+        <measure type="syllables">178</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">770</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[so zieh' denn hin]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So zieh' denn hin! Dir folgt der Freunde Flehn,</l>
+            <l>Dir schwinde froh der leichten Horen Tanz!</l>
+            <l>Einst eint auch uns gewiß ein Wiedersehn,</l>
+            <l>Ein Wiedersehn – o Freund – im Sternenkranz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort wo der Schmerz aus Lethe's Fluthen trinkt,</l>
+            <l>Wo Seligkeit des Dulders Haupt umkränzt</l>
+            <l>Und jede Perl', die hier dem Aug' entsinkt,</l>
+            <l>Als Demant in der Siegerkrone glänzt;</l>
+            <l>Heil dir! Dort harrt ein Wiedersehn auch uns.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So zieh' denn hin! Dir folgt der Freunde Flehn,</l>
+            <l>Dir schwinde froh der leichten Horen Tanz!</l>
+            <l>Einst eint auch uns gewiß ein Wiedersehn,</l>
+            <l>Ein Wiedersehn – o Freund – im Sternenkranz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort wo der Schmerz aus Lethe's Fluthen trinkt,</l>
+            <l>Wo Seligkeit des Dulders Haupt umkränzt</l>
+            <l>Und jede Perl', die hier dem Aug' entsinkt,</l>
+            <l>Als Demant in der Siegerkrone glänzt;</l>
+            <l>Heil dir! Dort harrt ein Wiedersehn auch uns.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

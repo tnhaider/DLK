@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxI.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-2</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">550</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Freiheit, Freiheit! Nicht wo Hymnen schallen,</l>
+            <l>In reichgeschmückten fürstlichen Arkaden —</l>
+            <l>Freiheit! Du wohnst an einsamen Gestaden,</l>
+            <l>Und liebst die Stille, wie die Nachtigallen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du fliehest das Geräusch der Marmorhallen,</l>
+            <l>Wo trunkne Schlemmer sich im Weine baden,</l>
+            <l>Du läßt in Hütten dich zu Gaste laden,</l>
+            <l>Wo Thränen in die leeren Becher fallen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Engel nahst Du bei verschloßnen Thüren,</l>
+            <l>Stellst lächelnd Dich an Deiner Treuen Bette,</l>
+            <l>Und horchst der himmlischen Musik der Kette.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht stolze Tempel wollen Dir gebühren,</l>
+            <l>Drin wir als Opfer unsern Stolz Dir bieten —</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

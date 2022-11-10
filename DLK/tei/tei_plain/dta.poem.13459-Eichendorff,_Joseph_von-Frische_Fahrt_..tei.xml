@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frische Fahrt .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">484</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frische Fahrt .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laue Luft kommt blau geflossen,</l>
+            <l>Frühling, Frühling soll es seyn!</l>
+            <l>Waldwärts Hörnerklang geschossen,</l>
+            <l>Muth'ger Augen lichter Schein;</l>
+            <l>Und das Wirren bunt und bunter</l>
+            <l>Wird ein magisch wilder Fluß,</l>
+            <l>In die schöne Welt hinunter</l>
+            <l>Lockt dich dieses Stromes Gruß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ich mag mich nicht bewahren!</l>
+            <l>Weit von Euch treibt mich der Wind,</l>
+            <l>Auf dem Strome will ich fahren,</l>
+            <l>Von dem Glanze selig blind!</l>
+            <l>Tausend Stimmen lockend schlagen,</l>
+            <l>Hoch Aurora flammend weht,</l>
+            <l>Fahre zu! ich mag nicht fragen,</l>
+            <l>Wo die Fahrt zu Ende geht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

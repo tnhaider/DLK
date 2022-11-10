@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Poetische Gedancken  
+ über  
+  Sr. Hoch-Weish.  
+ Des  
+  Herrn Lic. Brockes,  
+ Rahts-Herrn in Hamburg,  
+  Gedichte,  
+ Bey der zweyten Ausgabe des dritten Theils  
+ Des  
+  Jrdischen Vergnügens in GOTT.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">68</measure>
+        <measure type="tokens">46</measure>
+        <measure type="characters">269</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Poetische Gedancken  
+ über  
+  Sr. Hoch-Weish.  
+ Des  
+  Herrn Lic. Brockes,  
+ Rahts-Herrn in Hamburg,  
+  Gedichte,  
+ Bey der zweyten Ausgabe des dritten Theils  
+ Des  
+  Jrdischen Vergnügens in GOTT.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwar denck’ ich nicht, ich wills gestehn,</l>
+            <l>Es könne meiner Musen Lallen</l>
+            <l>Noch mehr als etwann Dir gefallen</l>
+            <l>Und Dich durch ihren Werth erhöhn;</l>
+            <l>Es können diese schlechten Reime</l>
+            <l>Der Zeiten Raub Dein Lob entziehn,</l>
+            <l>An dem sich durch Poetsche Träume</l>
+            <l>So viele schon umsonst verschrien.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

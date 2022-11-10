@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das verlorene Schwert.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">201</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">799</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das verlorene Schwert.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Gallier letzte Burg und Stadt erlag</l>
+            <l>Nach einem letzten durchgekämpften Tag</l>
+            <l>Und Julius Cäsar tritt in ihren Hain,</l>
+            <l>In ihren stillen Göttertempel ein.</l>
+            <l>Die Weihgeschenke sieht gehäuft er dort,</l>
+            <l>Von Gold und Silber manchen lichten Hort</l>
+            <l>Und edeln Raub. Doch über Hort und Schatz</l>
+            <l>Hangt ein erbeutet Schwert am Ehrenplatz.</l>
+            <l>Es ist die Römerklinge kurz und schlicht —</l>
+            <l>Des Juliers scharfer Blick verläßt sie nicht,</l>
+            <l>Er haftet auf der Waffe wie gebannt,</l>
+            <l>Sie däucht dem Sieger wunderlich bekannt!</l>
+            <l>Mit einem Lächeln deutet er empor:</l>
+            <l>„ein armer Fechter der sein Schwert verlor!“</l>
+            <l>Da ruft ein junger Gallier aufgebracht:</l>
+            <l>„du selbst verlorest's im Gedräng der Schlacht!“</l>
+            <l>Mit zorn'ger Faust ergreift's ein Legionar —</l>
+            <l>„nein, tapfrer Strabo, laß es dem Altar!</l>
+            <l>Verloren ging's in steilem Siegeslauf</l>
+            <l>Und heißem Ringen. Götter hoben's auf.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

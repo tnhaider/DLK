@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">23.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">627</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>23.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Woher du kamest nicht, und nicht wohin du gehst,</l>
+            <l>Die Stelle kennst du nur zur Noth, wo nun du stehst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So kennst du von der Welt, vom allgemeinen Leben,</l>
+            <l>Auch End' und Anfang nicht, nur kaum der Mitte Schweben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie geht nach einem Ziel, doch scheint es zu entweichen,</l>
+            <l>Du gehst nach einem auch, doch wirst du's nie erreichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Je höher auf du klimmst, je höher steigt die Leiter;</l>
+            <l>Je weiter spielt die Zeit, dehnt sich der Spielraum weiter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So bleibt dir und der Welt statt alles Zielerringens</l>
+            <l>In jedem Nu nur dies Gefühl des Vorwertsdringens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schad' auch um euch, wenn ihr das Ende je gewönnet,</l>
+            <l>Ihr endlichen, die ihr kein Ende denken könnet!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Gesicht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">107</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">427</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Gesicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entstehet nun in unsern Hirn ein Schein,</l>
+            <l>Ohn’ daß von aussen uns was in die Augen fällt;</l>
+            <l>So werden Farben auch darinn erzeuget seyn,</l>
+            <l>Ohn’ daß man sie am Cörper auswerts stellt.</l>
+            <l>Wann früh’ am Horizont sich alles übergüldet,</l>
+            <l>Und durch der Sonnen Strahl sich färbet, gläntzt und bildet;</l>
+            <l>So dencke man nur frey,</l>
+            <l>Daß in den Gegenden, wie grün sie gleich, wie schön,</l>
+            <l>Dennoch der grüne Schmeltz, in welchen wir sie sehn,</l>
+            <l>Nicht anzutreffen sey.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

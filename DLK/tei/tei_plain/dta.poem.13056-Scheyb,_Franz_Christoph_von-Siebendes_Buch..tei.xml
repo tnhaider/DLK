@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Siebendes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">251</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">1021</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Siebendes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„gemach, gemach erblickt ein kleiner Sonnen-Strahl,</l>
+            <l>„der schon der falben Nacht den Abzug anbefahl,</l>
+            <l>„die Krone des Gestirns. Was Freuden in den Sternen?</l>
+            <l>„(Vernehmet, Wertheste! nun könnt ihr etwas lernen)</l>
+            <l>505”Die Schatten wichen ab; die Nacht verschliche sich,</l>
+            <l>„und Luft und Stern’ und Mond ward gäh veränderlich;</l>
+            <l>„je mehr die Sonne stieg, je mehr der Kreiß erblaßte,</l>
+            <l>„indem er sich zum Gruß doch Kummer-voll verfaßte.</l>
+            <l>„die sanfte Dunckelheit ward unvermerckt zu Licht.</l>
+            <l>510”Die Strahlen fielen schon den Sternen ins Gesicht;</l>
+            <l>„die Sonne nahte sich, fieng heimlich an zu lachen,</l>
+            <l>„da sie die Reihe sah um ihren Wagen machen.</l>
+            <l>„es wich was Schatten heißt, von allen Seiten ab,</l>
+            <l>„so daß die Sonne sich ganz hell zu sehen gab.</l>
+            <l>515”O du verblendter Mond! geh! weich mit deinen Sternen!</l>
+            <l>„sie mußten ihr Gesicht vom Sonnen-Feur entfernen;</l>
+            <l>„und als sie sich besahn, war Pracht und Schimmer hin:</l>
+            <l>„sie merckten kaum, wohin die Sonne wurde ziehn;</l>
+            <l>„so ward der Sterne Glanz vernebelt und verhüllet;</l>
+            <l>520”So blieb ihr Wunsch, ihr Gruß, ihr Vorsaz unerfüllet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

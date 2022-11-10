@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An meine Guitarre.</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">10</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4 9-4 10-4</measure>
+        <measure type="syllables">339</measure>
+        <measure type="tokens">225</measure>
+        <measure type="characters">1335</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An meine Guitarre.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Guitarre, wie du hängst so traurig!</l>
+            <l>Die Saiten tönen nimmermehr,</l>
+            <l>Die längst zerrissnen wanken schaurig</l>
+            <l>Im Abendwinde hin und her.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch deine Saiten sind zerrissen,</l>
+            <l>Es schweigt dein süßer Liederklang,</l>
+            <l>Seit in des Busens Finsternissen</l>
+            <l>Mir jede frohe Saite sprang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir sank der Freund voll Jugendblüthe</l>
+            <l>Hinunter in die Todesfluth;</l>
+            <l>Die meiner Lieb' entgegenglühte,</l>
+            <l>Nun bei den kalten Todten ruht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch will ich euch nun frisch besaiten,</l>
+            <l>Dich, meine Leier, dich, mein Herz!</l>
+            <l>Rückbannen die entflohnen Zeiten,</l>
+            <l>Die alte Lust, den alten Schmerz!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hinaus in's Dunkel jener Eichen!</l>
+            <l>Dort findet sich der alte Lauf;</l>
+            <l>Dort stören wir die Liederleichen</l>
+            <l>Aus ihren stillen Gräbern auf!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn erst die Lieder nur erwachen,</l>
+            <l>Dann ruft, dann zieht ihr lauter Chor</l>
+            <l>Die Lieben all' in meinen Nachen</l>
+            <l>Aus dunkler Todesfluth empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es klingt! — doch flieh'n im scheuen Fluge</l>
+            <l>Die Töne auf von meiner Hand;</l>
+            <l>So eilt, verspätet, nach dem Zuge</l>
+            <l>Das Vöglein über's Heideland.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun bin ich meines Herzens Meister!</l>
+            <l>Nun rauscht wie einst der Sturmakkord,</l>
+            <l>Nun springen die versunknen Geister</l>
+            <l>Herauf, herauf an meinen Bord!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O du mein Freund, so treu und bieder!</l>
+            <l>Wohl mir, du bist mir wieder nah!</l>
+            <l>Dein süßes Wort auch hör' ich wieder!</l>
+            <l>Mein holdes Mädchen, bist du da? —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch nein! mich höhnten finstre Mächte!</l>
+            <l>Wo ist der Freund? das blonde Kind?</l>
+            <l>Der Nebel reicht mir keine Rechte;</l>
+            <l>Durch blonde Disteln saust der Wind!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

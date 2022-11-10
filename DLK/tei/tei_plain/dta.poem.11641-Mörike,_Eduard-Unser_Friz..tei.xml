@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Unser Friz.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">34</measure>
+        <measure type="verses_per_stanza">1-6 2-7 3-7 4-7 5-7</measure>
+        <measure type="syllables">232</measure>
+        <measure type="tokens">158</measure>
+        <measure type="characters">908</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Unser Friz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wollt' ein Meislein fangen,</l>
+            <l>Doch weil ihm denselben Tag</l>
+            <l>Keines drein gegangen,</l>
+            <l>Wird dem Friz zu lang die Zeit,</l>
+            <l>Denkt: ich hab' umsonst gestreut,</l>
+            <l>Will ja keine kommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach acht Tagen fällt ihm ein,</l>
+            <l>Im Garten zu spazieren:</l>
+            <l>Es ist schöner Sonnenschein,</l>
+            <l>Man kann nicht erfrieren;</l>
+            <l>Und am alten Apfelbaum</l>
+            <l>Kommt's ihm plötzlich wie im Traum:</l>
+            <l>Ob der Schlag gefallen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ja! es sizt ein Vogel drinn!</l>
+            <l>Aber, weh! o wehe!</l>
+            <l>Das ist trauriger Gewinn:</l>
+            <l>Todt, so viel ich sehe!</l>
+            <l>— Aber was kann ich dafür?</l>
+            <l>Sicher hat das dumme Thier</l>
+            <l>Sich zu todt gefressen!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So tröst't sich dein Mörder wohl,</l>
+            <l>Der dich hungern lassen,</l>
+            <l>Aber ich vor Leid und Groll</l>
+            <l>Weiß mich nicht zu fassen!</l>
+            <l>Hast alle Bröslein aufgepickt,</l>
+            <l>Hast dann vergebens umgeblickt,</l>
+            <l>Wo noch ein Körnlein wäre!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr andern Vöglein allesammt,</l>
+            <l>Wohl unterm blauen Himmel!</l>
+            <l>Ihr habt mit Wehgesang verdammt</l>
+            <l>Den Vogelsteller-Lümmel.</l>
+            <l>Ach, Eines starb so balde, bald!</l>
+            <l>Eben da in Feld und Wald</l>
+            <l>Der Frühling wollte kommen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

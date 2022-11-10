@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Tod.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">785</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Tod.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tod, was wilst du bei den Br&amp;#252;dern?</l>
+            <l>Komst du her mit uns zu trinken?</l>
+            <l>Geh, hier ist für dich kein Rheinwein!</l>
+            <l>Trink aus Heidelberger Fässern;</l>
+            <l>Denn der Durst, in deinen Knochen,</l>
+            <l>Ist mit Maaßen nicht zu löschen!</l>
+            <l>Geh, du möchtest statt der Brüder,</l>
+            <l>Alle Römer ledig trinken!</l>
+            <l>Geh, und laß die Brüder trinken!</l>
+            <l>Denn du wilst sie doch nicht holen?</l>
+            <l>Nein, du holst ia nur die Alten;</l>
+            <l>Denn was soll das Reich der Todten</l>
+            <l>Mit den Schatten, die noch trinken?</l>
+            <l>Du verschonst die muntre Jugend.</l>
+            <l>Tod, weil du der Jugend schonest,</l>
+            <l>Solst du doch den Rheinwein schmekken.</l>
+            <l>Sieh, dort steht ein voller Römer,</l>
+            <l>Hol ihn mit den dürren Händen!</l>
+            <l>Kanst du wol den Römer halten?</l>
+            <l>Trinke, wenn die Brüder trinken;</l>
+            <l>Aber ruf erst mit den Brüdern:</l>
+            <l>Auf, es leben alle Mädchen!</l>
+            <l>Und wenn dir der Rheinwein schmekket,</l>
+            <l>O so iauchze mit den Brüdern,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

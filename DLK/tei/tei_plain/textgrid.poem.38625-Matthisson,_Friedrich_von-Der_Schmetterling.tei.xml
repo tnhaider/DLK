@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Schmetterling</title>
+        <author>
+          <persName>
+            <surname>Matthisson</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">226</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">870</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1789</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Schmetterling</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schöne Sylphide, schweb' in Frühlingsäther!</l>
+            <l>Fleug' von Rose zu Rose! schau im Bache</l>
+            <l>Fröhlich deine Blumengestalt vom zarten</l>
+            <l>Sprößling der Mirthe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heiter sei deines Daseyns Maitag! nimmer</l>
+            <l>Müß' ein Bienchen dich schrecken wo du Nektar</l>
+            <l>Trinkst, und schonend fliege dir stets Cytherens</l>
+            <l>Vogel vorüber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann dich der Orkus aufnimmt, ruh' im Kranze</l>
+            <l>Platons, welcher, wie du der armen Menschheit</l>
+            <l>Wonne, die Entschleyerung Psyches lehrte,</l>
+            <l>Schöne Sylphide!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schöne Sylphide, schweb' in Frühlingsäther!</l>
+            <l>Fleug' von Rose zu Rose! schau im Bache</l>
+            <l>Fröhlich deine Blumengestalt vom zarten</l>
+            <l>Sprößling der Mirthe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heiter sei deines Daseyns Maitag! nimmer</l>
+            <l>Müß' ein Bienchen dich schrecken wo du Nektar</l>
+            <l>Trinkst, und schonend fliege dir stets Cytherens</l>
+            <l>Vogel vorüber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann dich der Orkus aufnimmt, ruh' im Kranze</l>
+            <l>Platons, welcher, wie du der armen Menschheit</l>
+            <l>Wonne, die Entschleyerung Psyches lehrte,</l>
+            <l>Schöne Sylphide!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

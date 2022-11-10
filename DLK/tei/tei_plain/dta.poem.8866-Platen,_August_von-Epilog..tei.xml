@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Epilog.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">29</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-5 4-5 5-5 6-5</measure>
+        <measure type="syllables">233</measure>
+        <measure type="tokens">157</measure>
+        <measure type="characters">887</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Epilog.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer ein heitres Leben lebet:</l>
+            <l>Manches ist ihm ausgeblieben,</l>
+            <l>Doch er hoffet, doch er strebet,</l>
+            <l>Doch er hört nicht auf zu lieben!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn kein Schiffer soll verzagen,</l>
+            <l>Hat ihn auch die Flut betrogen:</l>
+            <l>Was er will, das muß er wagen,</l>
+            <l>Und er gönnt sein Schiff den Wogen,</l>
+            <l>Und er weiß, sie werden tragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was am Höchsten oft erhoben,</l>
+            <l>Lockt am Kühnsten die Verwegnen,</l>
+            <l>Die sich das Versagte loben,</l>
+            <l>Und sie müssen ihm begegnen,</l>
+            <l>Und sie müssen es erproben!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ihr suchet ohne Wanken</l>
+            <l>Was das Leben kann erfrischen,</l>
+            <l>Bleiben jung euch die Gedanken;</l>
+            <l>Weil sie ewig jung nur zwischen</l>
+            <l>Hoffen und Erfüllen schwanken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mögt ihr diesen Sinn bewahren,</l>
+            <l>Die ihr stille Wünsche traget,</l>
+            <l>Trotz Beschwerden, trotz Gefahren:</l>
+            <l>Wenn das Leben was versaget,</l>
+            <l>Müßt ihr's früh genug erfahren!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was uns Der und Jener zeiget,</l>
+            <l>Laßt uns dem das Ohr verstopfen,</l>
+            <l>Bis das Herz im Busen schweiget;</l>
+            <l>Denn beginnt das Herz zu klopfen,</l>
+            <l>Weiß es wohl, wohin sich's neiget!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

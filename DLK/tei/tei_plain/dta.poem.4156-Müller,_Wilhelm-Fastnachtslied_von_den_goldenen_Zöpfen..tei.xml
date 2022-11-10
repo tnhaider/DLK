@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Fastnachtslied  
+ von den goldenen Zöpfen.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">696</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Fastnachtslied  
+ von den goldenen Zöpfen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mägdlein mit dem goldnen Haar!</l>
+            <l>Oder ist es wohl von Seide,</l>
+            <l>Oder ist's von beiden gar?</l>
+            <l>Nenn' ich's goldgediegne Seide?</l>
+            <l>Nenn' ich's seidenfeines Gold?</l>
+            <l>Und welch zartes Elfenhändchen</l>
+            <l>Hat die Flechten dir gerollt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mägdlein mit den goldnen Zöpfen! —</l>
+            <l>Und an jedem hängt ein Herz,</l>
+            <l>Hier ein junges, da ein altes,</l>
+            <l>Hier mit Lust, und da mit Schmerz.</l>
+            <l>Und das meine, ach das meine! —</l>
+            <l>Ist kein einzig Zöpfchen leer?</l>
+            <l>Mägdlein mit den goldnen Zöpfen,</l>
+            <l>Dichterherzen sind nicht schwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die goldnen Zöpfe fliegen</l>
+            <l>Um den Nacken, um den Leib,</l>
+            <l>Und das Fliegen und das Schmiegen</l>
+            <l>Ist der Herzen Zeitvertreib.</l>
+            <l>Einer hat sich fast verirret</l>
+            <l>Um die Schulter ganz allein:</l>
+            <l>Mägdlein, streich' ihn nicht zurücke,</l>
+            <l>Freiheit steht dem Haar so fein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Um Dich .</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">103</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">403</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Um Dich .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich las: „glückselig sind die Reinen,</l>
+            <l>Ihr Sinn ist offen Gott zu schaun;“ —</l>
+            <l>ErEs trieb in reuevollem Weinen</l>
+            <l>Hinaus mich in die Frühlingsaun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie schwach sind unsre besten Gaben:</l>
+            <l>Die Liebe strauchelt und die Treu,</l>
+            <l>Das Beste was wir Menschen haben,</l>
+            <l>Ist unser Wolln und unsre Reu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich rief zu Gott: „woll Du mich leiten,</l>
+            <l>Die Gnade kennt ja kein Zuspät!“</l>
+            <l>Da sah ich Ihn vorüberschreiten,</l>
+            <l>Wie Lenz, in stiller Majestät.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

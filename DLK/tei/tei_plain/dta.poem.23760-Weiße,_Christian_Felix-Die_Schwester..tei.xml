@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Schwester.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">471</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Schwester.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein lieber Bruder, vor dem Jahre</l>
+            <l>War ich, wie du, so schön!</l>
+            <l>Was hatt ich da für schwarze Haare?</l>
+            <l>Du hast sie noch gesehn.</l>
+            <l>Da lobte jedes dieß Gesicht</l>
+            <l>Bewundernd um die Wette,</l>
+            <l>Und schwur, es sey kein Mädchen nicht</l>
+            <l>So schön, als Henriette.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allein die Schönheit ist vergangen.</l>
+            <l>Da kam der Blattern Wuth,</l>
+            <l>Zerriß mir diese glatten Wangen,</l>
+            <l>Löscht aus der Augen Gluth:</l>
+            <l>Doch glaube nicht, daß michs verdrüßt.</l>
+            <l>Nein, es hat mich gelehret,</l>
+            <l>Daß das nur wahre Schönheit ist,</l>
+            <l>Was keine Zeit zerstöret.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

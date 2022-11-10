@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Anathem !</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">59</measure>
+        <measure type="tokens">37</measure>
+        <measure type="characters">298</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Anathem !</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In flammender Empörung</l>
+            <l>Sprech’ ich der </l>
+            <l>Und wenn du tausend Nacken beugst</l>
+            <l>Und tausend Sclavenseelen säugst</l>
+            <l>Mit feilem Judaslohn:</l>
+            <l>Ich trotze deinen Jochen!               </l>
+            <l>Ich hab' den Bann zerbrochen &amp;#8212;               </l>
+            <l>Ich hab' mich freigesprochen:               </l>
+            <l>Ich bin der Freiheit Sohn!             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

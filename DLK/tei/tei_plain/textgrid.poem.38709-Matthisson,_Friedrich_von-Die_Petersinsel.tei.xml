@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Petersinsel</title>
+        <author>
+          <persName>
+            <surname>Matthisson</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">306</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">1114</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1794</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Petersinsel</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl hat, o glückliches Eiland, ein mildes Gestirn dir gelächelt,</l>
+            <l>Als deiner Wildniß der Tag heitrer Entödung erschien.</l>
+            <l>Segnend bekrönte Lyäus mit Reben die sonnigen Hügel,</l>
+            <l>Segnend entwinkte dem Thal Ceres ihr wallendes Gold.</l>
+            <l>Wälder, gebeugt von der Fülle des Herbstes verlieh' dir Pomona</l>
+            <l>Und was dem Wollenvieh frommt spendete Flora der Trift.</l>
+            <l>Eichen, gigantisches Wuchses, gewährte Sylvan, der Bekränzte,</l>
+            <l>Gegen des Boreas Grimm deinem Gefilde zur Wehr.</l>
+            <l>Aber des Waidwerks Geschenke verweigerte Delia klüglich;</l>
+            <l>Nur in den Fernen umher schmettert ihr silbernes Horn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl hat, o glückliches Eiland, ein mildes Gestirn dir gelächelt,</l>
+            <l>Als deiner Wildniß der Tag heitrer Entödung erschien.</l>
+            <l>Segnend bekrönte Lyäus mit Reben die sonnigen Hügel,</l>
+            <l>Segnend entwinkte dem Thal Ceres ihr wallendes Gold.</l>
+            <l>Wälder, gebeugt von der Fülle des Herbstes verlieh' dir Pomona</l>
+            <l>Und was dem Wollenvieh frommt spendete Flora der Trift.</l>
+            <l>Eichen, gigantisches Wuchses, gewährte Sylvan, der Bekränzte,</l>
+            <l>Gegen des Boreas Grimm deinem Gefilde zur Wehr.</l>
+            <l>Aber des Waidwerks Geschenke verweigerte Delia klüglich;</l>
+            <l>Nur in den Fernen umher schmettert ihr silbernes Horn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

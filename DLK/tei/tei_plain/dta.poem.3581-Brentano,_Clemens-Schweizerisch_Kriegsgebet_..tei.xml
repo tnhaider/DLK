@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Schweizerisch Kriegsgebet .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">169</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">623</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Schweizerisch Kriegsgebet .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laßt üs abermal betta               </l>
+            <l>Für üsra Stadt und Flecka,</l>
+            <l>Für üsre Küh und Geissa,</l>
+            <l>Für üsre Wittwa und Weißa,</l>
+            <l>Für üsre Roß und Rinder,</l>
+            <l>Für üsre Weib und Kinder,</l>
+            <l>Für üsre Henna und Hahna,</l>
+            <l>Für üsre Kessel und Pfanna,</l>
+            <l>Für üsre Gäns </l>
+            <l>Für üsre Oberst und Regenta,</l>
+            <l>An insonderheit für üsre liebi Schwitz,</l>
+            <l>Wenn der blutig Krieg wett ko,</l>
+            <l>Wett alls nä, so wetten wir üs treuli wehra,</l>
+            <l>Und ihn niena dura loh,</l>
+            <l>Au den Find gar ztod schloh,</l>
+            <l>Und dann singa;</l>
+            <l>„eia Viktoria! der Find ischt ko, hett alles gno,</l>
+            <l>„hett Fenster i gschlaga, hets Blie drus graba,</l>
+            <l>„hett Kugla drus goßa, und dBaura erschossa;</l>
+            <l>„eia Viktoria! nu ischts us, geht wiedri na Hus.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die kleinen Leute.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">548</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die kleinen Leute.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Lilliput, ich glaub es kaum,</l>
+            <l>Doch Swift erzählts, sind Leute</l>
+            <l>So groß, als ungefähr mein Daum:</l>
+            <l>Man denk erst in der Weite!</l>
+            <l>Da müssen sie gewiß so klein,</l>
+            <l>Als bey uns eine Mücke seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O wär ich dort, wie groß wär ich!</l>
+            <l>Man nennte mich den Riesen,</l>
+            <l>Und mit den Fingern würd auf mich,</l>
+            <l>Wo man mich säh, gewiesen!</l>
+            <l>Dort, sprächen sie, dort gehet er!</l>
+            <l>Und vor mir gieng das Schrecken her.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wenn ich nun nicht klüger wär,</l>
+            <l>Als itzt; sie aber wären</l>
+            <l>Gesitteter, verständiger,</l>
+            <l>Wie! würden sie mich ehren?</l>
+            <l>Ich glaube kaum. Sie würden schreyn:</l>
+            <l>Groß an Gestalt, am Geiste klein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

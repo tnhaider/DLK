@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die 1. Antistrophe.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">524</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1618</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20628-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die 1. Antistrophe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er stost/ vnwissend was geschehen/</l>
+            <l>Sein mosechtes haubt auß dem fluß/</l>
+            <l>Vnd weil er forcht einen verdruß/</l>
+            <l>Will Er/ was solches sey/ bald sehen:</l>
+            <l>Seine horn vnd gebüntzte haar</l>
+            <l>Vil hochspringende bäch außgiessen/</l>
+            <l>Vor seiner nasen vnd bart fliessen</l>
+            <l>Vil wasserzapffen lang vnd klar:</l>
+            <l>Er sihet nu zu seinen seitten</l>
+            <l>Ein hör gleichsam berait zustreitten:</l>
+            <l>Er höret der Trometen klang/</l>
+            <l>Der kuglen fliegendes gesang/</l>
+            <l>Vnd verwundert sich ab dem wunder</l>
+            <l>Wie ein eisiner hagel kompt</l>
+            <l>Mit so starcker kraft macht vnd dunder/</l>
+            <l>Warumb widrumb die Trum nu brompt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

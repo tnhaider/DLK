@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dactylisch Sonnet  
+ an den  
+ Edlen vnd Weltberühmten Herrn  
+ August Buchnern/  
+ Vber die Erfindung der Dactylischen vnd  
+ Anapästischen Verse.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">138</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">522</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1640</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20685-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dactylisch Sonnet  
+ an den  
+ Edlen vnd Weltberühmten Herrn  
+ August Buchnern/  
+ Vber die Erfindung der Dactylischen vnd  
+ Anapästischen Verse.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Höret die Lieder wie artlich sie klingen/</l>
+            <l>Welche Herr </l>
+            <l>Echo sich selbsten in jhnen verliebt/</l>
+            <l>Wolte sie gerne mit freüden nachsingen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vbet sich stetig die Stimme zu schwingen/</l>
+            <l>Aber in dem sie noch hefftig betrübt/</l>
+            <l>Nicht mehr als halbe gebrochne wort giebt;</l>
+            <l>Wälder vnd Felder dem toone nachspringen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Buchner/ so längstẽ vnsterblich gemacht/</l>
+            <l>Jtzo mann ähnlich den Göttern Jhn acht/</l>
+            <l>Weil er Dactylisch zu singen erfunden:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Phöbus verwundert sich selbsten ob Jhn/</l>
+            <l>Orpheüs die Seiten muß anders aufzihn/</l>
+            <l>Cicero schweiget vnd lieget gebunden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

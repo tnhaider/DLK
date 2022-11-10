@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das äußerliche Ansehn.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">534</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das äußerliche Ansehn.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter schön gewachsnen Bäumen</l>
+            <l>Stand ein niedrer krummer Baum:</l>
+            <l>Sie in ihrer Hoheit Träumen,</l>
+            <l>Gönnten ihm das Leben kaum:</l>
+            <l>O kömmt nur der Zimmermann,</l>
+            <l>Sprachen sie, so muß du dran!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch schon kömmt er angestiegen, &amp;#8212;</l>
+            <l>Wie? was fällt dem Thoren ein?</l>
+            <l>Sie bemerkt er mit Vergnügen,</l>
+            <l>Sollts auf sie gemünzet seyn?</l>
+            <l>Himmel! alle haut er um,</l>
+            <l>Dieser bleibt, denn er war krumm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O man trotze nicht auf Erden</l>
+            <l>Auf Gestalt und äußre Pracht:</l>
+            <l>Das kann oft zum Fall uns werden,</l>
+            <l>Was uns stolz und eitel macht.</l>
+            <l>Wer nicht sehr ins Auge fällt,</l>
+            <l>Den beneidet nicht die Welt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

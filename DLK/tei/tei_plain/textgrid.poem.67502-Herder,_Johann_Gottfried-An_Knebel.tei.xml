@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Knebel</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">230</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">860</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1779</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Knebel</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht auf geglättetem grünen Papier, wo der zierliche Weichling,</l>
+            <l>Wie auf smaragdener Au Blumen, die Worte pflanzt,</l>
+            <l>Sondern auf weißem Grunde, wie solches den Frommen geziemet,</l>
+            <l>Sag' ich für Deinen Properz Dir den elegischsten Dank.</l>
+            <l>Morgen am Abend lassen bei uns sich hinter der Kirche</l>
+            <l>Faustus' Teufel zur Lehr' böser Verruchter sehn –</l>
+            <l>Oder hören vielmehr. Sei auch von der heiligen Anzahl,</l>
+            <l>Oder willst Du etwa selbst Mephistopheles sein?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht auf geglättetem grünen Papier, wo der zierliche Weichling,</l>
+            <l>Wie auf smaragdener Au Blumen, die Worte pflanzt,</l>
+            <l>Sondern auf weißem Grunde, wie solches den Frommen geziemet,</l>
+            <l>Sag' ich für Deinen Properz Dir den elegischsten Dank.</l>
+            <l>Morgen am Abend lassen bei uns sich hinter der Kirche</l>
+            <l>Faustus' Teufel zur Lehr' böser Verruchter sehn –</l>
+            <l>Oder hören vielmehr. Sei auch von der heiligen Anzahl,</l>
+            <l>Oder willst Du etwa selbst Mephistopheles sein?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

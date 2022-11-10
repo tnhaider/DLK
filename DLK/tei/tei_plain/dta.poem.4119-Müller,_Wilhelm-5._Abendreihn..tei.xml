@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">5.   Abendreihn.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-4 2-5 3-5 4-5</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">693</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>5.   Abendreihn.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie blickst mir so traulich in's Herz herein?</l>
+            <l>Nun sprich, und laß dich nicht lange fragen,</l>
+            <l>Du hast mir gewiß einen Gruß zu sagen,</l>
+            <l>Einen Gruß von meinem Schatz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>«wie sollt' ich bringen den Gruß zu dir?</l>
+            <l>«du hast ja keinen Schatz bei mir.</l>
+            <l>«und was mir da unten die Bursche sagen,</l>
+            <l>«und was mir die Frauen und Mädchen klagen,</l>
+            <l>«ei, das versteh' ich nicht.»</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast Recht, mein lieber Mondenschein,</l>
+            <l>Du darfst auch Schätzchens Bote nicht sein,</l>
+            <l>Denn thätst du zu tief ihr in's Auge sehn,</l>
+            <l>Du könntest ja nimmermehr untergehn,</l>
+            <l>Schienst ewig nur für sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies Liedchen ist ein Abendreihn,</l>
+            <l>Ein Wandrer sang's im Vollmondschein;</l>
+            <l>Und die es lesen bei Kerzenlicht,</l>
+            <l>Die Leute verstehn das Liedchen nicht,</l>
+            <l>Und ist doch kinderleicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

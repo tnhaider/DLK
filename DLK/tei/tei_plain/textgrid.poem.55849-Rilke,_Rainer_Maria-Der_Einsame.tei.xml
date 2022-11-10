@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Einsame</title>
+        <author>
+          <persName>
+            <surname>Rilke</surname>
+            <forename>Rainer Maria</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">248</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">914</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1900</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Einsame</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie einer, der auf fremden Meeren fuhr,</l>
+            <l>so bin ich bei den ewig Einheimischen;</l>
+            <l>die vollen Tage stehn auf ihren Tischen,</l>
+            <l>mir aber ist die Ferne voll Figur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In mein Gesicht reicht eine Welt herein,</l>
+            <l>die vielleicht unbewohnt ist wie ein Mond,</l>
+            <l>sie aber lassen kein Gefühl allein,</l>
+            <l>und alle ihre Worte sind bewohnt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Dinge, die ich weither mit mir nahm,</l>
+            <l>sehn selten aus, gehalten an das Ihre –:</l>
+            <l>in ihrer großen Heimat sind sie Tiere,</l>
+            <l>hier halten sie den Atem an vor Scham.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie einer, der auf fremden Meeren fuhr,</l>
+            <l>so bin ich bei den ewig Einheimischen;</l>
+            <l>die vollen Tage stehn auf ihren Tischen,</l>
+            <l>mir aber ist die Ferne voll Figur.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In mein Gesicht reicht eine Welt herein,</l>
+            <l>die vielleicht unbewohnt ist wie ein Mond,</l>
+            <l>sie aber lassen kein Gefühl allein,</l>
+            <l>und alle ihre Worte sind bewohnt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Dinge, die ich weither mit mir nahm,</l>
+            <l>sehn selten aus, gehalten an das Ihre –:</l>
+            <l>in ihrer großen Heimat sind sie Tiere,</l>
+            <l>hier halten sie den Atem an vor Scham.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

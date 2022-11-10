@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">83.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">622</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>83.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Liebe Blick ist gut, bös ist der Blick des Neides,</l>
+            <l>Der Liebe Blick thut wohl, der Blick des Neids thut Leides.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Blick des Neides reißt das Haus des Nachbarn ein,</l>
+            <l>Der Blick der Liebe fällt hinein wie Sonnenschein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Blick des Neides zehrt wie Sommerglut die Bronnen,</l>
+            <l>Der Blick der Liebe schwellt das Herz wie Frühlingswonnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Blick der Liebe blickt entgegen Lieb' aus allen,</l>
+            <l>Des Neides Wohlthun ist aufs eigne Herz gefallen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Blick des Neides sieht zu seiner eignen Pein</l>
+            <l>Nur alles fremde groß und alles eigne klein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Blick der Liebe sieht gern alle gut und reich;</l>
+            <l>Denn nur die Liebe macht dem Eignen Fremdes gleich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

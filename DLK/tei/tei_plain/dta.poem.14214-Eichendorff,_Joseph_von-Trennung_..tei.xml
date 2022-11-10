@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trennung .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">121</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">448</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trennung .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein furchtsam Kind, im stillen Haus erzogen</l>
+            <l>Konnt' ich am Abendroth die Blicke weiden,</l>
+            <l>Tiefathmend in die laue Luft vor Freuden.</l>
+            <l>Er hat um diese Stille mich betrogen.</l>
+            <l>Mit stolzen Augen, fremden schönen Worten</l>
+            <l>Lockt er die Wünsche aus dem stillen Hafen</l>
+            <l>Wo sie bei Sternenglanze seelig schlafen,</l>
+            <l>Hinaus ins unbekannte Reich der Wogen;</l>
+            <l>Da kommen Winde buhlend angeflogen,</l>
+            <l>Die zarte Hand zwingt nicht die wilden Wellen,</l>
+            <l>Du mußt, wohin die vollen Segel schwellen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

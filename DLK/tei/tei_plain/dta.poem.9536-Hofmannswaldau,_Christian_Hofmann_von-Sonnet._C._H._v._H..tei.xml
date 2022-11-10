@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet.  
+ C. H. v. H.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">706</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet.  
+ C. H. v. H.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dich Lesbia und mich trug nechst ein geiler wagen/</l>
+            <l>Gleich als die Cynthia begont den lauff der nacht/</l>
+            <l>Die Flora hat ihn selbst zu ihrem fest erdacht/</l>
+            <l>Und der verbuhlte gott das holtz herbey getragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die farben/ so mit fleiß allhier begraben lagen/</l>
+            <l>Die sagten: Adons blut hat uns hieher gebracht;</l>
+            <l>Die Venus hatte selbst die esse heiß gemacht/</l>
+            <l>Als ihn mit gutem stahl ihr krummer mann beschlagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und hat ihn dazumahl ein schwartzes tuch umhüllet/</l>
+            <l>Schwartz störet keinen schertz und stört die liebe nicht/</l>
+            <l>Man schaut wie mancher stern aus schwartzen wolcken bricht/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und itzt ein wahrer reim aus schwartzem munde quillet.</l>
+            <l>Man soll kein wildes pferd nicht ferner mehr bemühen/</l>
+            <l>Den geilen wagen soll die geile taube ziehen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

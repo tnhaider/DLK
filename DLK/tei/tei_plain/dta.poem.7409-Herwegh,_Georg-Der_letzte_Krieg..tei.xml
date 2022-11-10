@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der letzte Krieg.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">31</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8 4-8</measure>
+        <measure type="syllables">213</measure>
+        <measure type="tokens">145</measure>
+        <measure type="characters">844</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der letzte Krieg.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer seine Hände falten kann,</l>
+            <l>Bet' um ein gutes Schwert,</l>
+            <l>Um einen Helden, einen Mann,</l>
+            <l>Den Gottes Zorn bewehrt!</l>
+            <l>Und drin der schönste Sieg,</l>
+            <l>Der letzte Kampf auf Erden,</l>
+            <l>Der letzte heilige Krieg!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herbei, herbei, ihr Völker all,</l>
+            <l>Um euer Schlachtpanier!</l>
+            <l>Die Freiheit ist jetzt Feldmarschall,</l>
+            <l>Und Vorwärts heissen wir.</l>
+            <l>Der Zeiger weist die Stunde,</l>
+            <l>O flieg', mein Polen, flieg',</l>
+            <l>Mit jedem Stern im Bunde,</l>
+            <l>Voran zum heiligen Krieg!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja! vorwärts, bis der Morgen blinkt,</l>
+            <l>Ja! vorwärts, frisch und froh!</l>
+            <l>Vorwärts, bis hinter uns versinkt</l>
+            <l>Die Brut des Pharao!</l>
+            <l>Er wird auch für uns sprechen,</l>
+            <l>Der Herr, der für uns schwieg,</l>
+            <l>Und unsre Ketten brechen</l>
+            <l>Im letzten heiligen Krieg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O walle hin, du Opferbrand,</l>
+            <l>Hin über Land und Meer,</l>
+            <l>Und schling' ein einig Feuerband</l>
+            <l>Um alle Völker her;</l>
+            <l>So wird er uns beschieden,</l>
+            <l>Der große, große Sieg,</l>
+            <l>Der ewige Völker-Frieden, —</l>
+            <l>Frisch auf, zum heiligen Krieg!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

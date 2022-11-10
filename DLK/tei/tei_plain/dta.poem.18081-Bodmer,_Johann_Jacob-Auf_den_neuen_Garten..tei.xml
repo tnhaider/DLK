@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf den neuen Garten.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">205</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">780</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198432"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf den neuen Garten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kanst du wohl glückseliger seyn,</l>
+            <l>O du stets gesegneter Garten?</l>
+            <l>Du darffest auf den Sonnenschein</l>
+            <l>Nicht wie sonst ander Gärten warten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann deiner eignen Sonnen Glantz</l>
+            <l>Kan all deine Gewächs erlaben,</l>
+            <l>Und deine Gäng, Stöck, und Bäum gantz</l>
+            <l>Mit bequemer Jahrs-Zeit begaben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Frühling ihres Angesichts</l>
+            <l>Kan dich mit Gilgen, Rosen, zieren,</l>
+            <l>Daß dir an Blumen mangle nichts,</l>
+            <l>Wann alle Gärten schon gefrieren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wird dein Grund mit grünem Lust,</l>
+            <l>Wo sie nur ihren Fuß hinsetzet,</l>
+            <l>Wie deine Zweig und Aest mit Blust</l>
+            <l>Und Frucht durch ihre Hand ergetzet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sie in dir macht, daß ab dir</l>
+            <l>Sich Himmel und Erden erquicken,</l>
+            <l>Und daß du, aller Gärten Zier,</l>
+            <l>Sie all mit Blumen kanst erquicken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja wann sie, (aller Blumen Ruhm,)</l>
+            <l>In dir deine Gewächs betrachtet,</l>
+            <l>Werden kaum gegen solcher Blum</l>
+            <l>Deine Blumen wie Graß geachtet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

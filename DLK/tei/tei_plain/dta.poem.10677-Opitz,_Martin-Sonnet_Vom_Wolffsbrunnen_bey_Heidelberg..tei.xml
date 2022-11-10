@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet  
+ Vom Wolffsbrunnen bey Heidelberg.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">114</measure>
+        <measure type="characters">676</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet  
+ Vom Wolffsbrunnen bey Heidelberg.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dv edele Fonteyn mit Ruh vnd Lust vmbgeben/</l>
+            <l>Mit Bergen hier vnd dar/ als einer Burg/ vmbringt/</l>
+            <l>Printz aller schönen Quell/ auß welchem Wasser dringt</l>
+            <l>Anmütiger dann Milch/ vnd köstlicher dann Reben/</l>
+            <l>Da vnsers Landes Kron vnd Haupt mit seinem Leben/</l>
+            <l>Der werden Nymf/ offt selbst die Zeit in frewd zubringt/</l>
+            <l>Da jhr manch Vögelein zu ehren lieblich singt/</l>
+            <l>Da nur ergetzligkeit vnd keusche Wollust schweben/</l>
+            <l>Vergeblich bistu nicht in diesem grünen Thal/</l>
+            <l>Von Klippen vnd Gebirg beschlossen vberal/</l>
+            <l>Die künstliche Natur hat darumb dich vmbfangen</l>
+            <l>Mit Felsen vnd Gebüsch/ auff daß man wissen soll</l>
+            <l>Daß alle Fröligkeit sey Müh vnd arbeit voll/</l>
+            <l>Vnd daß auch nichts so schön/ es sey schwer zu erlangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

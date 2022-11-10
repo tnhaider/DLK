@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Soldatenglück .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">619</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Soldatenglück .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frisch auf ins weite Feld!               </l>
+            <l>Zu Wasser und zu Lande</l>
+            <l>Bin ich Soldat für's Geld.</l>
+            <l>Wenn alle Menschen schlafen,</l>
+            <l>Soldaten müssen wachen,</l>
+            <l>Dazu sind sie bestellt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König trägt die Kron,</l>
+            <l>In seiner Hand den Scepter,</l>
+            <l>Wenn er sitzt auf dem Thron,</l>
+            <l>Ein langes Schwerdt zur Seite,</l>
+            <l>Zu gehen mit zum Streite,</l>
+            <l>Auf Frieden und Pardon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Adeliche Dam,</l>
+            <l>Die schläft bei ein'm Soldaten,</l>
+            <l>Aus lauter Liebes-Flamm,</l>
+            <l>Es klingt ihr in den Ohren</l>
+            <l>Soldaten sind gebohren</l>
+            <l>Aus ritterlichem Stamm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soldat du edles Blut,</l>
+            <l>Weil du bist hochgebohren</l>
+            <l>Aus lebensfrischem Muth,</l>
+            <l>Wenn schon die Kugeln sausen</l>
+            <l>Laß dir davor nicht grausen,</l>
+            <l>Wems glückt, der kommt davon.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

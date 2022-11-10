@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vorrede.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">529</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vorrede.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was aber klagt ihr an? Vor gieng ich wenig ein/</l>
+            <l>Itzt leider! nur zuviel/ und muß verdammet seyn.</l>
+            <l>Weil ich das schwerd entblöst/ trug ich beschimpffte bande/</l>
+            <l>Und nun ich frieden will/ laß ich den kopff zum pfande.</l>
+            <l>Habt ihr zum fürsten mich und könig nicht gekrönt?</l>
+            <l>Warum denn werd ich mehr als sclaven itzt verhöhnt?</l>
+            <l>Ich könte frau und kind in wollust bey mir wissen;</l>
+            <l>Itzt muß ich frau und kind und ruh und friede missen.</l>
+            <l>Mir schwur mein unterthan: itzt bin ich mehr denn knecht!</l>
+            <l>Gebt antwort! sprecht frey aus! sind eure sachen recht? rc.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

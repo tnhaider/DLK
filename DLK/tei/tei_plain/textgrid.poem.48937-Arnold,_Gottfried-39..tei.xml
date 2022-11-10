@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">39.</title>
+        <author>
+          <persName>
+            <surname>Arnold</surname>
+            <forename>Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">576</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1690</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>39.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Hunger kan das Lamm so sehr ans Gras verbinden/</l>
+            <l>Der Bienen Honig-Mund weicht von den Blumen nicht/</l>
+            <l>Und iede Creatur kan das Geliebte finden/</l>
+            <l>Da wo dem Hunger und Verlangen gnug geschicht.</l>
+            <l>So saugt auch meine Lieb/ O Saransblum/ das Leben</l>
+            <l>Auß dir/ dein Kuß soll mir die volle Nahrung geben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Hunger kan das Lamm so sehr ans Gras verbinden/</l>
+            <l>Der Bienen Honig-Mund weicht von den Blumen nicht/</l>
+            <l>Und iede Creatur kan das Geliebte finden/</l>
+            <l>Da wo dem Hunger und Verlangen gnug geschicht.</l>
+            <l>So saugt auch meine Lieb/ O Saransblum/ das Leben</l>
+            <l>Auß dir/ dein Kuß soll mir die volle Nahrung geben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Diener der Liebe.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">68</measure>
+        <measure type="characters">419</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Diener der Liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles, Liebe, muß dir dienen,</l>
+            <l>Alles dienet deinen Kindern.</l>
+            <l>Sonnen scheinen, sie zu wärmen,</l>
+            <l>Schatten schweben, sie zu kühlen,</l>
+            <l>Vögel singen, sie zu lokken,</l>
+            <l>Tauben girren, sie zu reitzen,</l>
+            <l>Rosen blühen, sie zu schmükken,</l>
+            <l>Sterne funkeln, sie zu führen,</l>
+            <l>Monde leuchten, sie zu zeigen,</l>
+            <l>Und die Nächte tragen Wolken,</l>
+            <l>Deine Kinder zu verbergen;</l>
+            <l>Liebe, laß doch, wenn ich liebe,</l>
+            <l>Schatten, Rosen, Vögel, Sonnen,</l>
+            <l>Sterne, Mond und Nächte dienen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

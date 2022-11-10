@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Für ermeltes Balleth.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">692</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Für ermeltes Balleth.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Nymfen/ deren blick mit wunderbarem schein</l>
+            <l>Kan vnser hertz zugleich erlaben vnd versehren/</l>
+            <l>Vnd deren angesicht/ ein spiegel aller ehren/</l>
+            <l>Erfüllet Vns mit forcht/ mit hofnung/ lust vnnd</l>
+            <l>pein:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir bringen vnsern Kram von Spieglen klar vnd</l>
+            <l>rein/</l>
+            <l>Mit bit/ jhr wollet euch zu spieglen nicht beschwerē;</l>
+            <l>Die spiegel/ die so klar Vns ewre schönheit lehren/</l>
+            <l>Die lehren euch zumahl barmhertziger zu sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wol. So belieb es Euch mit lieblichen anblicken</l>
+            <l>Erleuchtend freindlich Vns vnd vnsern leichten</l>
+            <l>Dantz</l>
+            <l>Vnd spieglend Euch zumahl in Vns/ Vns zu</l>
+            <l>erquicken;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Solt aber vngefehr Vns ewrer Schönheit glantz/</l>
+            <l>Vnnd ewrer haaren schein verblinden vnnd ver-</l>
+            <l>stricken/</l>
+            <l>So tröste beederseits Euch der Krantz/ Vns die</l>
+            <l>Schantz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViI .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">537</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViI .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit meinem Saitenspiele,</l>
+            <l>Das schön geklungen hat,</l>
+            <l>Komm' ich durch Länder viele</l>
+            <l>Zurück in diese Stadt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich ziehe durch die Gassen,</l>
+            <l>So finster ist die Nacht,</l>
+            <l>Und alles so verlassen,</l>
+            <l>Hatt's anders mir gedacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Brunnen steh ich lange,</l>
+            <l>Der rauscht fort, wie vorher,</l>
+            <l>Kommt mancher wohl gegangen‚</l>
+            <l>Es kennt mich keiner mehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da hört' ich geigen, pfeifen,</l>
+            <l>Die Fenster glänzten weit,</l>
+            <l>Dazwischen drehn und schleifen</l>
+            <l>Viel' fremde, fröhliche Leut'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Herz und Sinne mir brannten‚</l>
+            <l>Mich trieb's in die weite Welt,</l>
+            <l>Es spielten die Musikanten,</l>
+            <l>Da fiel ich hin im Feld.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

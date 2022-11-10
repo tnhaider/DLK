@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eleonore</title>
+        <author>
+          <persName>
+            <surname>Eichrodt</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-8 2-6 3-8 4-6</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">564</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1859</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eleonore</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Grausamer Tod!</l>
+            <l>In deine glühenden Arme</l>
+            <l>Stürz ich ein verlorenes Weib.</l>
+            <l>Aber noch heißer,</l>
+            <l>Aber noch brennender</l>
+            <l>Ist der Schmerz um den entseelten Gatten,</l>
+            <l>Als du,</l>
+            <l>Der aus Flammen lodert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So sprach des Hindu lieberfüllte</l>
+            <l>Gattin.</l>
+            <l>Ich sage: sie kannte Liebe.</l>
+            <l>Sie fühlte,</l>
+            <l>Und ihr Gefühl</l>
+            <l>War keine Sünde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Grausamer Tod!</l>
+            <l>In deine glühenden Arme</l>
+            <l>Stürz ich ein verlorenes Weib.</l>
+            <l>Aber noch heißer,</l>
+            <l>Aber noch brennender</l>
+            <l>Ist der Schmerz um den entseelten Gatten,</l>
+            <l>Als du,</l>
+            <l>Der aus Flammen lodert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So sprach des Hindu lieberfüllte</l>
+            <l>Gattin.</l>
+            <l>Ich sage: sie kannte Liebe.</l>
+            <l>Sie fühlte,</l>
+            <l>Und ihr Gefühl</l>
+            <l>War keine Sünde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

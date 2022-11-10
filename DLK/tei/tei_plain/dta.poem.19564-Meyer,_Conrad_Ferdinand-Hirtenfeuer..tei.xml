@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hirtenfeuer.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">442</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hirtenfeuer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ließest unter uns dich nieder,</l>
+            <l>Liebe, liebenswerthe Frau,</l>
+            <l>Aber heute ziehst du wieder,</l>
+            <l>Wie die Sterne ziehn im Blau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehst den Abendstern du blinken</l>
+            <l>Dort vor seinem Untergang?</l>
+            <l>Einen Augenblick im Sinken</l>
+            <l>Ruht er auf dem Bergeshang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der flüchtigen Minute,</l>
+            <l>In dem eilenden Moment</l>
+            <l>Ist's als ob er gastlich ruhte,</l>
+            <l>Wie ein Hirtenfeuer brennt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber nur die kleinste Weile</l>
+            <l>Bringt er auf der Erde zu,</l>
+            <l>Sieh — er zittert ja vor Eile</l>
+            <l>Und verschwindet, Frau, wie du.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

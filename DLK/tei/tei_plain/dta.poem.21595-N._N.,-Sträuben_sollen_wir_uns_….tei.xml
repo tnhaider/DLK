@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sträuben sollen wir uns …</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">191</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">755</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sträuben sollen wir uns …</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sträuben sollen wir uns wider das Eisenjoch,</l>
+            <l>Dem der Gewohnheit Schmutz Würde des Alters lieh;</l>
+            <l>Wen das steigende Licht grüßt,</l>
+            <l>Nicht sehn’ er die Nacht zurück!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Feigheit knechtet die Zeit, beuget der Nacken Kraft;</l>
+            <l>Wenige wagen nur frei zu gestehen, was</l>
+            <l>Längst ihr kühnerer Blick sah,</l>
+            <l>Längst ihnen im Busen lebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weit noch seltener sind aus der Berufnen Schaar,</l>
+            <l>Die, der Lebendigkeit thätigen Daseins Freund,</l>
+            <l>In die Speichen des Rades</l>
+            <l>Eingreifen mit fester Hand,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heilig gelten der Zeit Rechte des Alters nur:</l>
+            <l>Weil es bestand vordem, ist es bestehenswerth!</l>
+            <l>Heilig gelten der Zeit nicht</l>
+            <l>Treupflichten des eignen Sinns. —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sträuben sollen wir uns wider das Eisenjoch,</l>
+            <l>Dem der Gewohnheit Schmutz Würde des Alters lieh;</l>
+            <l>Wen das steigende Licht grüßt,</l>
+            <l>Nicht sehn’ er die Nacht zurück!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

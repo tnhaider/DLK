@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aus einer Bußtagspredigt  
+  des Herrn O. C. R. Spaldings .</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">90</measure>
+        <measure type="tokens">59</measure>
+        <measure type="characters">367</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aus einer Bußtagspredigt  
+  des Herrn O. C. R. Spaldings .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn alles alles muß zerrinnen,               </l>
+            <l>Was sich der Weltmann hier ersinnen,</l>
+            <l>Erringen und erschleichen kann,</l>
+            <l>Wenn Ruhm und Güter von dem Reichen</l>
+            <l>Am Sterbebette treulos weichen:</l>
+            <l>Wie glücklich lebt alsdann der Mann,</l>
+            <l>Der sich die Furcht vor Gott zur besten Weisheit</l>
+            <l>machte,</l>
+            <l>Und Böses meiden, zum Verstand,</l>
+            <l>Stets recht gethan, stets edel dachte,</l>
+            <l>Und in der Tugend Ruhe fand!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

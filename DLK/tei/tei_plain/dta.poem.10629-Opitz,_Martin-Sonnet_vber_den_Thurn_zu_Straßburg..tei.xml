@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet vber den Thurn zu Straßburg.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">691</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet vber den Thurn zu Straßburg.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Printz aller hohen Thürn/ so jemals wirdt beschawen</l>
+            <l>Der Sonnen klarer Glantz/ vnd auch beschawet hat:</l>
+            <l>Wie recht/ weil Straßburg ist dergleichen schöne Statt/</l>
+            <l>Hat man dich nur in sie alleine müssen bawen/</l>
+            <l>Du rechtes Wunderwerck bist zierlich zwar gehawen/</l>
+            <l>Doch noch bey weitem nicht zugleichen in der That</l>
+            <l>Der feinen Policey/ dem weisen Recht vnd Rhat/</l>
+            <l>Der grossen Höfligkeit der Männer vnd der Frawen/</l>
+            <l>Welch’ vber deine Spitz an Lobe zuerhöhen;</l>
+            <l>Kein orth wirdt jrgendt je gefunden weit vnd breit/</l>
+            <l>Der jhnen gleichen mag an Güt’ vnd Freundligkeit.</l>
+            <l>Wie wohl gibt die Natur hiemit vns zuverstehen/</l>
+            <l>Daß/ ob gleich die Gebew mehr steinern sind/ als Stein/</l>
+            <l>Der Menschen Hertzen doch nicht sollen steinern sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Leztes Toilettengeschenk .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">131</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">539</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Leztes Toilettengeschenk .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zart Aüglein zu winken,               </l>
+            <l>Die Mägdlein jetzund han;</l>
+            <l>Ihr Angesicht zu schminken,</l>
+            <l>Groß Fleiß sie legen an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Haupt thun sie beladen,</l>
+            <l>Mit Gold und Perlen schon;</l>
+            <l>Und sollten sie's bezahlen,</l>
+            <l>Sie brächten nichts davon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie müssen seyn geschmücket,</l>
+            <l>Daß es nur hab groß Schein;</l>
+            <l>Ob sie schon Armuth drücket,</l>
+            <l>Geborget muß es seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß man sie doch lieb habe,</l>
+            <l>(wenn ja solchs hülfe nicht,)</l>
+            <l>So gebens selbst aus Gaben,</l>
+            <l>Wie man erfährt und sicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn sie den Knaben haben,</l>
+            <l>Und jeder bezahlt will seyn;</l>
+            <l>Muß viel zum Juden traben,</l>
+            <l>Was vor gab großen Schein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das vierdte Gespräch.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">221</measure>
+        <measure type="tokens">146</measure>
+        <measure type="characters">875</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das vierdte Gespräch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weil das angenehme glücke</l>
+            <l>Mich zu einen schuldner macht/</l>
+            <l>Hab ich auch in diesem stücke/</l>
+            <l>Meine treue pflicht bedacht/</l>
+            <l>Welche durch den süssen rath</l>
+            <l>Jhre schöne richtschnur hat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. Hier gibt sich die pomerantze/</l>
+            <l>Hier ein schlechtes sträußgen an/</l>
+            <l>Weil ich solches ihrem glantze</l>
+            <l>Nach belieben bringen kan/</l>
+            <l>Denn mein hertze sagt mir zu/</l>
+            <l>Daß ich ihren willen thu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>3. Eins ist rund das andre spitzig/</l>
+            <l>Eins ist frisch das andre nicht/</l>
+            <l>Eins ist kalt das andre hitzig.</l>
+            <l>Also muß auch meine pflicht/</l>
+            <l>Uber ihren zarten schein/</l>
+            <l>Halb erfreut/ halb traurig seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>4. Bald versprechen die gedancken</l>
+            <l>Mir die höchste freundligkeit:</l>
+            <l>Bald gerath ich in das wancken/</l>
+            <l>Weil ich die zufriedenheit</l>
+            <l>Gar zu selten auff der bahn</l>
+            <l>Jhrer freundschafft finden kan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>5. Nun sie nehme diß geschencke/</l>
+            <l>Welches sie erwehlet hat:</l>
+            <l>Sie belieb’ es/ und gedencke</l>
+            <l>Meiner an desselben statt/</l>
+            <l>Biß ihr rath-schluß ordre gibt/</l>
+            <l>Daß ihr etwas mehr beliebt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

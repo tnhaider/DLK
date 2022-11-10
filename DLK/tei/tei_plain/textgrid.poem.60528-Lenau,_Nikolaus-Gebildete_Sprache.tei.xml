@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gebildete Sprache</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">746</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gebildete Sprache</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie das Schlachtroß proprio Marte</l>
+            <l>Plötzlich tanzt und feurig springt,</l>
+            <l>Wenn ihm die Trompete klingt,</l>
+            <l>Und davoneilt zur Standarte;</l>
+            <l>Wie sichs stellt in Reih und Glied</l>
+            <l>Und das Bäuerlein im Bügel</l>
+            <l>Fort muß mit verwirktem Zügel,</l>
+            <l>Gar nicht weiß, wie ihm geschieht:</l>
+            <l>Also trägt das deutsche Wort,</l>
+            <l>Das von Meistern ward geritten,</l>
+            <l>Als sie sich den Kranz erstritten,</l>
+            <l>Manchen Stümper mit sich fort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie das Schlachtroß proprio Marte</l>
+            <l>Plötzlich tanzt und feurig springt,</l>
+            <l>Wenn ihm die Trompete klingt,</l>
+            <l>Und davoneilt zur Standarte;</l>
+            <l>Wie sichs stellt in Reih und Glied</l>
+            <l>Und das Bäuerlein im Bügel</l>
+            <l>Fort muß mit verwirktem Zügel,</l>
+            <l>Gar nicht weiß, wie ihm geschieht:</l>
+            <l>Also trägt das deutsche Wort,</l>
+            <l>Das von Meistern ward geritten,</l>
+            <l>Als sie sich den Kranz erstritten,</l>
+            <l>Manchen Stümper mit sich fort.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

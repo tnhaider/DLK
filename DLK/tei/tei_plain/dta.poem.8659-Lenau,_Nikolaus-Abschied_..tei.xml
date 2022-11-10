@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abschied .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">191</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">798</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abschied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sey mir zum leztenmal gegrüßt,</l>
+            <l>Mein Vaterland, das feige dumm,</l>
+            <l>Die Ferse dem Despoten küßt,</l>
+            <l>Und seinem Wink gehorchet stumm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl schlief das Kind in deinem Arm,</l>
+            <l>Du gabst, was Knaben freuen kann,</l>
+            <l>Der Jüngling fand ein Liebchen warm;</l>
+            <l>Doch keine Freiheit fand der Mann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Hochland streckt der Jäger sich</l>
+            <l>Zu Boden schnell, wenn Wildesschaar</l>
+            <l>Heran sich stürzet fürchterlich,</l>
+            <l>Dann schnaubt vorüber die Gefahr:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Vaterland, so sinkst du hin,</l>
+            <l>Rauscht deines Herrschers Tritt heran,</l>
+            <l>Und lässest ihn vorüberzieh'n,</l>
+            <l>Und hältst den bangen Athem an. —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fleug, Schiff, wie Wolken durch die Luft,</l>
+            <l>Hin, wo die Götterflamme brennt!</l>
+            <l>Spül' mir hinweg, o Meer, die Kluft,</l>
+            <l>Die von der Freiheit noch mich trennt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du neue Welt, du freie Welt,</l>
+            <l>An deren blüthenreichem Strand</l>
+            <l>Die Fluth der Tyrannei zerschellt,</l>
+            <l>Ich grüße dich, mein Vaterland!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

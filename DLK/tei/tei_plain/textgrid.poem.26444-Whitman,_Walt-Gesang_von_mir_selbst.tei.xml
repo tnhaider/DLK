@@ -1,0 +1,1956 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gesang von mir selbst</title>
+        <author>
+          <persName>
+            <surname>Whitman</surname>
+            <forename>Walt</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">366</measure>
+        <measure type="verses">1162</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-3 4-3 5-2 6-4 7-2 8-2 9-3 10-1 11-2 12-5 13-2 14-4 15-2 16-2 17-1 18-3 19-6 20-2 21-2 22-2 23-4 24-5 25-3 26-2 27-3 28-3 29-3 30-2 31-2 32-2 33-2 34-5 35-2 36-2 37-6 38-4 39-4 40-3 41-2 42-5 43-2 44-2 45-5 46-5 47-4 48-2 49-4 50-3 51-2 52-3 53-3 54-3 55-3 56-2 57-3 58-3 59-2 60-12 61-2 62-6 63-2 64-1 65-4 66-2 67-5 68-2 69-2 70-2 71-2 72-5 73-3 74-3 75-2 76-3 77-6 78-2 79-3 80-3 81-2 82-3 83-2 84-2 85-1 86-3 87-7 88-2 89-2 90-3 91-2 92-2 93-14 94-3 95-3 96-2 97-4 98-1 99-5 100-2 101-7 102-3 103-8 104-5 105-2 106-7 107-4 108-1 109-3 110-4 111-2 112-2 113-2 114-3 115-2 116-2 117-5 118-4 119-5 120-5 121-2 122-3 123-2 124-3 125-2 126-1 127-6 128-7 129-2 130-2 131-4 132-4 133-2 134-2 135-2 136-2 137-2 138-3 139-2 140-4 141-2 142-3 143-6 144-5 145-5 146-3 147-2 148-3 149-3 150-6 151-2 152-4 153-2 154-3 155-2 156-2 157-3 158-2 159-3 160-5 161-2 162-3 163-3 164-6 165-3 166-3 167-3 168-2 169-3 170-3 171-5 172-3 173-2 174-4 175-2 176-3 177-4 178-3 179-3 180-2 181-2 182-3 183-3 184-3 185-4 186-3 187-3 188-2 189-4 190-2 191-2 192-3 193-1 194-2 195-5 196-2 197-4 198-2 199-2 200-1 201-3 202-6 203-2 204-2 205-2 206-4 207-5 208-3 209-2 210-3 211-3 212-3 213-2 214-2 215-2 216-2 217-5 218-2 219-2 220-6 221-4 222-4 223-3 224-2 225-5 226-2 227-2 228-5 229-5 230-4 231-2 232-4 233-3 234-2 235-3 236-3 237-3 238-3 239-2 240-3 241-3 242-2 243-12 244-2 245-6 246-2 247-1 248-4 249-2 250-5 251-2 252-2 253-2 254-2 255-5 256-3 257-3 258-2 259-3 260-6 261-2 262-3 263-3 264-2 265-3 266-2 267-2 268-1 269-3 270-7 271-2 272-2 273-3 274-2 275-2 276-14 277-3 278-3 279-2 280-4 281-1 282-5 283-2 284-7 285-3 286-8 287-5 288-2 289-7 290-4 291-1 292-3 293-4 294-2 295-2 296-2 297-3 298-2 299-2 300-5 301-4 302-5 303-5 304-2 305-3 306-2 307-3 308-2 309-1 310-6 311-7 312-2 313-2 314-4 315-4 316-2 317-2 318-2 319-2 320-2 321-3 322-2 323-4 324-2 325-3 326-6 327-5 328-5 329-3 330-2 331-3 332-3 333-6 334-2 335-4 336-2 337-3 338-2 339-2 340-3 341-2 342-3 343-5 344-2 345-3 346-3 347-6 348-3 349-3 350-3 351-2 352-3 353-3 354-5 355-3 356-2 357-4 358-2 359-3 360-4 361-3 362-3 363-2 364-2 365-3 366-3</measure>
+        <measure type="syllables">20274</measure>
+        <measure type="tokens">12114</measure>
+        <measure type="characters">75346</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1855</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gesang von mir selbst</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich feiere mich selbst und singe mich selbst,</l>
+            <l>Und was ich mir anmaße, das sollt ihr euch anmaßen,</l>
+            <l>Denn jedes Atom, das mir gehört, gehört auch euch!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Zunge, jedes Teilchen meines Blutes ist hier aus diesem Boden, aus dieser Luft gebildet,</l>
+            <l>Von Eltern geboren, die hier von ähnlichen Eltern geboren, und diese wieder von ähnlichen Eltern,</l>
+            <l>So beginne ich jetzt, siebenunddreißig Jahre alt, in vollkommener Gesundheit,</l>
+            <l>Und hoffe nicht eher aufzuhören, bis zum Tode.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Häuser und Räume sind voller Wohlgerüche, die Bücherbörter sind voller Düfte,</l>
+            <l>Die ich einatme, die ich kenne und liebe,</l>
+            <l>Die Essenz würde mich berauschen, aber ich lasse es nicht zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie ist immer für meinen Mund; ich bin verliebt in sie,</l>
+            <l>Ich will zum Hügelhang am Walde gehen und unverkleidet und nackt sein,</l>
+            <l>Denn ich lechze danach, mit ihr in Berührung zu kommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hörte die Schwätzer schwatzen vom Anfang und vom Ende,</l>
+            <l>Aber ich rede nicht vom Anfang oder vom Ende.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie war mehr Anfang als jetzt,</l>
+            <l>Nie mehr Jugend oder mehr Alter als jetzt,</l>
+            <l>Nie wird es mehr Vollkommenheit geben als jetzt,</l>
+            <l>Oder mehr Himmel und Hölle als jetzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drängen und Drängen und Drängen –</l>
+            <l>Immer der zeugende Drang der Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus dem Dunkel treten Gleichwertige einander entgegen, immer Stoff und Wachstum, immer Geschlecht,</l>
+            <l>Immer die Verknüpfung der Identität, immer Unterscheidung, immer ein brünstiges Leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es weiter auszugrübeln ist nutzlos. Gelehrte und Ungelehrte fühlen, daß es so ist.</l>
+            <l>Stämmig wie ein Roß, zärtlich, stolz, elektrisch,</l>
+            <l>Ich und dies Geheimnis – hier stehen wir!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Klar und rein ist meine Seele, und klar und rein ist alles, was nicht meine Seele ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fehlt eins, so fehlen beide, und das Ungesehene wird durch das Gesehene bewiesen,</l>
+            <l>Bis dieses wieder zum Unsichtbaren wird und seinerseits Beweise empfängt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Abseits vom Ziehen und Zerren steht, was </l>
+            <l>Vergnügt, gefällig, teilnehmend, müßig, einheitlich,</l>
+            <l>Blickt nieder, steht aufrecht oder stützt den gebogenen Arm auf einen unfaßbaren sicheren Halt,</l>
+            <l>Sieht mit seitlich gewendetem Haupte zu, neugierig was nun kommen mag,</l>
+            <l>In und außer dem Spiel, aufpassend und sich darüber wundernd.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an dich, meine Seele; das andere, das ich bin, darf sich nicht vor dir erniedrigen,</l>
+            <l>Noch darfst du vor dem andern erniedrigt sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich gedenke, wie wir einst an einem so klaren Sommermorgen im Freien lagen,</l>
+            <l>Wie du dein Haupt quer über meine Hüften legtest und dich leise auf mir umkehrtest,</l>
+            <l>Und mir das Hemd am Brustknochen öffnetest und die Zunge in mein bloßgelegtes Herz hineintauchtest,</l>
+            <l>Und hinaufreichtest, bis du meinen Bart fühltest, und hinunter, bis du meine Füße hieltest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Kind sagte: Was ist das Gras? und brachte es mir mit vollen Händen;</l>
+            <l>Wie sollte ich dem Kinde antworten? ich weiß ebensowenig was es ist, wie das Kind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich meine, es muß die Fahne meines eigenen Gemütes sein, aus hoffnungsgrünem Tuch gewoben ...</l>
+            <l>Oder ich meine, das Gras ist selber ein Kindlein, das der Pflanzenwuchs zeugte ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will ihm oder ihr gleich zeigen, daß es ein ebensolches Glück ist, zu sterben, und ich weiß es.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin nicht eine Erde, noch der Anhang einer Erde,</l>
+            <l>Ich bin der Genosse und Gefährte der Menschen, alle ebenso unsterblich und unergründlich wie ich,</l>
+            <l>(sie wissen nicht wie unsterblich sie sind, doch ich weiß es).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jede Art für sich und ihr eigen; für mich die meine, männlich und weiblich,</l>
+            <l>Für mich die, welche Knaben waren und die Frauen lieben,</l>
+            <l>Für mich der Mann, der stolz ist und fühlt wie es sticht, gering geachtet zu werden,</l>
+            <l>Für mich das Liebchen und die alte Jungfer, für mich Mütter und die Mütter von Müttern,</l>
+            <l>Für mich Lippen, die gelächelt haben, Augen, die Tränen vergossen,</l>
+            <l>Für mich Kinder und die Erzeuger von Kindern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Enthülle dich! für mich bist du nicht schuldig, nicht veraltet, noch verworfen,</l>
+            <l>Und bin rings um dich, beharrlich, erobernd, unermüdlich, und lasse mich nicht abschütteln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Junge und das rotbackige Mädchen wenden sich seitwärts zum buschigen Hügel hinan,</l>
+            <l>Ich erspähe sie oben vom Gipfel ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Selbstmörder liegt hingestreckt auf dem blutigen Boden der Schlafstube,</l>
+            <l>Ich betrachte den Leichnam mit den blutbespritzten Haaren, und beachte, wo die Pistole hinfiel ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die weiten Tore der Dorfscheune stehen offen,</l>
+            <l>Das getrocknete Gras der Erntezeit belastet den langsam gezogenen Wagen,</l>
+            <l>Das hellklare Licht spielt über dem Durcheinander von Graubraun und Grün,</l>
+            <l>Die Haufen sind aufgeschichtet, daß ihre Last sich biegt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin da, ich helfe; ich kam, hingestreckt oben auf der Ladung,</l>
+            <l>Ich fühlte ihre sanften Stöße, ein Bein auf dem andern ruhend,</l>
+            <l>Ich springe von dem Querbalken und fasse den Klee und das Zittergras,</l>
+            <l>Und wälze mich kopfüber und verwirre meine Haare in den Rispen!</l>
+            <l>Wandernd, überrascht über meine eigene Behendigkeit und Fröhlichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am späten Nachmittag eine sichere Stelle aufsuchend, um die Nacht zuzubringen,</l>
+            <l>Zünde ich ein Feuer an und brate das frischerlegte Wild,</l>
+            <l>Schlafe auf den zusammengeschichteten Blättern ein, mit meinem Hund und dem Gewehr an der Seite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Yankee-Klipperschiff ist unter den Oberbramsegeln, es durchschneidet das Gefunkel und Geschäume,</l>
+            <l>Meine Augen sehen das Land versinken, ich lehne mich über den Bug oder rufe jubelnd vom Verdeck.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Schiffer und Muschelgräber machten sich früh auf und warteten auf mich,</l>
+            <l>Ich steckte mir die Hose in die Stiefel und ging mit und hatte einen vergnügten Tag,</l>
+            <l>Du hättest an dem Tage bei uns sein sollen, beim Muschel-Kochkessel!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Achtundzwanzig junge Männer baden am Strande;</l>
+            <l>Achtundzwanzig junge Männer, und alle so vertraulich,</l>
+            <l>Achtundzwanzig Jahre keuschen Frauenlebens, und alle so einsam. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie ist Besitzerin des schönen Hauses beim ansteigenden Ufer;</l>
+            <l>Schön und reich gekleidet, lauert sie hinter den Fenstervorhängen.</l>
+            <l>Ach, der alltäglichste von ihnen ist schön in ihren Augen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohin willst denn du, meine Dame? ich sehe dich schon,</l>
+            <l>Du plätscherst mit unten im Wasser, bleibst du auch mäuschenstill in deiner Stube.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tanzend und lachend lief an den Strand die neunundzwanzigste Badende,</l>
+            <l>Die andern sahen sie nicht – aber sie sah die andern und liebte sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Bärte der jungen Männer glitzerten vom Naß, es rann von ihrem langen Haar herab,</l>
+            <l>Kleine Bächlein rieselten ihnen über den Leib.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine unsichtbare Hand strich auch über ihren Leib,</l>
+            <l>Sie glitt zitternd an ihren Schläfen und Rippen herab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schmiede mit geschwärzten und zottigen Brüsten umringen den Amboß,</l>
+            <l>Ein jeder hält seinen Schlaghammer, alle Hammer im Schwung, das Feuer glüht;</l>
+            <l>Von der aschenbestreuten Schwelle folge ich ihren Bewegungen,</l>
+            <l>Von oben herunter schwingen die Hammer, schwingen so langsam hoch, so sicher,</l>
+            <l>Sie hasten nicht, ein jeder schlägt an die richtige Stelle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schaue den malerischen Riesen an und liebe ihn, und halte mich dabei nicht auf,</l>
+            <l>Ich gehe auch mit dem Gespann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Schritt verscheucht Waldenterich und Ente auf meinen entlegenen, tagelangen Streifzügen,</l>
+            <l>Sie fliegen zusammen auf, langsam kreisend.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an diese beflügelten Zweckmäßigkeiten,</l>
+            <l>Und bekenne Rot, Weiß, Gelb, spielend in mir,</l>
+            <l>Und halte das Grün und das Veilchenblau und die Federbuschkrone für absichtlich,</l>
+            <l>Und nenne die Schildkröte nicht wertlos, weil sie nicht etwas anderes ist;</l>
+            <l>Die Elster im Walde hat die Tonleiter nicht studiert und trillert doch gut genug für mich,</l>
+            <l>Und der Anblick der kastanienbraunen Stute treibt beschämend alle Albernheiten aus mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der wilde Gänserich lenkt seinen Flug durch die kühle Nacht,</l>
+            <l>Ja-honk! ruft er, und es klingt mir wie eine Einladung,</l>
+            <l>Die Vorwitzigen mögen es für bedeutungslos halten, ich aber finde, aufhorchend,</l>
+            <l>Daß es seinen Zweck und Platz hat dort oben im winterlichen Himmel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Glück versuchend, meine Habe verschwendend für ungeheuren Gewinn,</l>
+            <l>Mich schmückend, um mich dem ersten Besten, der mich will, hinzugeben,</l>
+            <l>Nicht vom Himmel fordernd, daß er mir zu Gefallen herunterkomme,</l>
+            <l>Sondern ihn ewig mit vollen Händen ausstreuend.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles bekämpfe ich leichter als meine eigene Verschiedenartigkeit,</l>
+            <l>Atme die Luft, doch lasse genug übrig,</l>
+            <l>Bin nicht aufgeblasen und bin da, wohin ich gehöre.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies ist das Gras, das überall wächst, wo Land und Wasser ist,</l>
+            <l>Dies die gemeinsame Luft, in der die Erdkugel sich badet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Lebendigen schlafen ihre Zeit und die Toten schlafen ihre Zeit,</l>
+            <l>Der alte Ehemann schläft bei seinem Weib und der junge Ehemann schläft bei seinem Weib,</l>
+            <l>Diese alle drängen sich hinein zu mir und ich dränge mich aus mir hinaus zu ihnen,</l>
+            <l>Und was es heißt Einer von Diesen zu sein, mehr oder weniger, das bin ich,</l>
+            <l>Und aus einem und allen webe ich den Gesang von mir selbst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit mächtiger Musik komme ich, mit Zinken und Trommeln,</l>
+            <l>Ich spiele Märsche nicht nur für anerkannte Sieger, ich spiele Märsche für Besiegte und Erschlagene.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich trommle und trommle weiter für die Toten.</l>
+            <l>Ich setze an und blase mein Lautestes und Fröhlichstes für sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Hoch für Die, denen es fehlschlug!</l>
+            <l>Für Die, deren Kriegsschiffe in der See versanken,</l>
+            <l>Und für Die, welche selber untergingen,</l>
+            <l>Und allen Generalen, die Schlachten verloren, und allen besiegten Helden!</l>
+            <l>Und den zahllosen unbekannten Helden, gleich den größten Helden, die man kennt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies ist das Mahl für Alle aufs gleiche gerichtet, das Fleisch für den natürlichen Hunger,</l>
+            <l>Ich will, daß keiner gering geschätzt oder übergangen wird,</l>
+            <l>Die Maitresse, der Schmarotzer, der Dieb werden hiermit eingeladen,</l>
+            <l>Der dicklippige Sklave wird geladen, der Geschlechtskranke wird geladen,</l>
+            <l>Es soll kein Unterschied zwischen ihnen und den Andern sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies ist der Druck einer schüchternen Hand, das Wogen und Duften des Haares,</l>
+            <l>Die Berührung meiner Lippen mit den deinen, das Murmeln der Sehnsucht,</l>
+            <l>Die ferne Tiefe und Höhe, mein eigenes Antlitz spiegelnd,</l>
+            <l>Die gedankenvolle Verschmelzung meiner selbst und die Wiederauslösung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dieser Stunde sage ich Dinge im Vertrauen,</l>
+            <l>Nicht jedermann sage ich sie, aber dir will ich sie sagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer geht da? Gierig, grob, mystisch, nackt;</l>
+            <l>Wie kommt es, daß ich Stärke ziehe aus dem Rindfleisch, das ich esse?</l>
+            <l>Allem, was ich als das Meine bezeichne, sollst du ein Deiniges gegenüberstellen,</l>
+            <l>Sonst wäre es verlorene Zeit, mir zuzuhören.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schnüffle nicht umher mit dem Allerwelts-Geschnüffel,</l>
+            <l>Ich wimmere nicht mit dem Allerwelts-Gewimmer,</l>
+            <l>Daß die Monate leer sind und der Boden nur Schlamm und Kot.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In allem Volk sehe ich mich selbst, keiner ist mehr, keiner um ein Gerstenkorn weniger.</l>
+            <l>Das Gute und Böse, das ich von mir selber sage, sage ich von ihnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß, ich bin kerngesund und fest,</l>
+            <l>Zu mir streben alle Dinge des Weltalls in unaufhörlicher Flut,</l>
+            <l>Alle sind an mich geschrieben, und ich muß die Schrift entziffern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin wie ich bin, das ist genug,</l>
+            <l>Wird mich kein andrer in der Welt gewahr, sitze ich hier zufrieden,</l>
+            <l>Und wenn mich jeder und alle bemerken, sitze ich auch zufrieden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Welt wird meiner gewahr, und zwar mir bei weitem die größte Welt, und das bin ich selbst,</l>
+            <l>Und ob ich zu dem Meinigen heute gelange oder nach zehntausend oder zehn Millionen Jahren,</l>
+            <l>So kann ich's getrost jetzt hinnehmen, und ebenso getrost kann ich warten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Stätte, wo ich Fuß fasse, ist fest wie mit Eisenklammern in Granit,</l>
+            <l>Ich verlache Das, was ihr Auflösung nennt,</l>
+            <l>Und ich kenne die Fülle der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bei mir sind die Seligkeiten des Himmels und die Qualen der Hölle,</l>
+            <l>Die ersten veredle und vermehre ich in mir, die letzteren übersetze ich in eine neue Sprache.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin der Dichter des Weibes gleichwie des Mannes,</l>
+            <l>Und ich sage, es ist ebenso groß ein Weib zu sein wie ein Mann,</l>
+            <l>Und ich sage, es gibt nichts Größeres als eine Mutter der Menschen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich singe den Sang des Hochgefühls und des Stolzes,</l>
+            <l>Wir haben uns geduckt und gedemütigt genug,</l>
+            <l>Ich zeige, daß Größe nur Entwicklung ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du die andern überholt? Bist du der Präsident?</l>
+            <l>Es ist eine Kleinigkeit; sie werden alle weiter als bis dahin gelangen, und immer noch weiter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin es, der da wandelt mit der zarten, wachsenden Nacht;</l>
+            <l>Der Erde und dem Meer, von der Nacht halb umfangen, rufe ich zu:</l>
+            <l>Drücke dich fest an mich, bloß-busige Nacht – drücke dich fest an mich, magnetische, nährende Nacht!</l>
+            <l>Nacht der Südwinde – Nacht der wenigen großen Sterne,</l>
+            <l>Stille, nickende Nacht – rasende nackte Sommernacht!</l>
+            <l>Lächle, du wollüstige, kühl angehauchte Erde!</l>
+            <l>Erde der schlummernden, zerfließenden Bäume,</l>
+            <l>Erde nach Sonnenuntergang – Erde der nebelumhüllten Berggipfel,</l>
+            <l>Erde des Glanzes und Schattens, den Spiegel des Flusses bunt besprenkelnd,</l>
+            <l>Erde der durchsichtigen klargrauen Wolken, heller und klarer um meinetwillen,</l>
+            <l>Weitumfassende Erde – reiche Apfelblüten-Erde,</l>
+            <l>Lächle, denn dein Geliebter kommt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verschwenderin! Du hast mir Liebe gegeben – darum gebe auch ich dir Liebe,</l>
+            <l>O unaussprechliche leidenschaftliche Liebe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meer der langgestreckten Grundwogen,</l>
+            <l>Meer, das in breiten, bebenden Zügen atmet,</l>
+            <l>Meer mit dem Salz des Lebens und den nicht gegrabenen, doch immerbereiten Gräbern,</l>
+            <l>Heulende, sturmgepeitschte, launige und liebliche See,</l>
+            <l>Ich bin eins mit dir, ich bin eine Phase und bin alle Phasen!</l>
+            <l>Lobsinger der Liebenden und solcher, die einander in den Armen ruhen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin es, der Sympathie verkündet,</l>
+            <l>(soll ich ein Verzeichnis von den Sachen im Hause machen, und das Haus übersehen, das sie enthält?)</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin nicht nur der Dichter der Güte, ich weigre mich nicht, auch der Dichter des Bösen zu sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was für ein Geplärre über Tugend und Laster!</l>
+            <l>Das Übel treibt mich an und die Verbesserung des Übels treibt mich an, ich stehe unbekümmert,</l>
+            <l>Mein Gang ist nicht der Gang eines Tadlers oder eines Verwerfenden,</l>
+            <l>Ich benetze die Wurzeln von Allem was gewachsen ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du etwa Furcht vor Skrofeln aus der nie erschlaffenden Zeugungsfülle?</l>
+            <l>Vermutest du, die himmlischen Gesetze wären zu überarbeiten und zu berichtigen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich finde die eine Seite als Gegengewicht und die antipodische Seite auch als Gegengewicht,</l>
+            <l>Die sanfte Lehre ebenso hilfreich wie die starke Lehre,</l>
+            <l>Gedanken und Taten der Gegenwart, unser Aufwachen und erstes Ansetzen,</l>
+            <l>Diese Minute, die über die vergangenen Dezillionen zu mir kommt –</l>
+            <l>Es gibt nichts Besseres als sie, und Jetzt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Endlose Entfaltung der Worte der Zeiten,</l>
+            <l>Und meins ein Wort der Modernen, das Wort: Masse!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Wort des Glaubens, das nimmer täuscht,</l>
+            <l>Hier oder fortan, mir ist es gleich, ich vertraue der </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie allein ist ohne Unterbrechung, sie allein rundet und vollendet alles,</l>
+            <l>Dies mystische verwirrende Wunder allein vollendet alles.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich nehme die Wirklichkeit hin und wage nicht, sie in Frage zu ziehen,</l>
+            <l>Durchtränkt von Materialismus von Anfang bis zu Ende.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch lebe die positive Wissenschaft! Es lebe die exakte Demonstration!</l>
+            <l>Man hole Mauerpfeffer gemischt mit Ceder und Fliederzweigen;</l>
+            <l>Dies ist der Lexikograph, dies der Chemiker, dieser machte eine Grammatik der alten Keilschriften,</l>
+            <l>Diese Seeleute lenkten das Schiff durch gefährliche, unbekannte Meere,</l>
+            <l>Dies ist der Geologe, dieser arbeitet mit dem Zergliederungsmesser, und dies ist ein Mathematiker.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Herren! Euch gebühren stets die höchsten Ehren,</l>
+            <l>Eure Tatsachen sind nützlich, doch meine Wohnung sind sie nicht,</l>
+            <l>Durch sie trete ich erst in einen Vorhof meiner Wohnung ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ungestüm, fleischlich, sinnlich, essend, trinkend und zeugend,</l>
+            <l>Kein Überschwänglicher, keiner der über Männern und Weibern steht, oder abseits von ihnen,</l>
+            <l>Nicht bescheiden, noch unbescheiden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schraubt die Schlösser von den Türen los,</l>
+            <l>Schraubt die Türen selber los von ihren Pfosten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer einen andern erniedrigt, erniedrigt mich,</l>
+            <l>Und alles was getan oder gesagt wird, fällt schließlich auf mich zurück.</l>
+            <l>Durch mich wogt und wogt die Geistesflut, durch mich die Strömung und der Zeiger.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch mich verbotene Stimmen,</l>
+            <l>Stimmen der Geschlechter und Begierden, verschleierte Stimmen, ich ziehe den Schleier weg,</l>
+            <l>Unzüchtige Stimmen, durch mich erhellt und verklärt.</l>
+            <l>Ich presse mir nicht den Finger auf den Mund,</l>
+            <l>Ich halte die Eingeweide nicht für geringer als den Kopf und das Herz,</l>
+            <l>Begattung ist für mich nicht brünstiger als der Tod.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an das Fleisch und die Begierden,</l>
+            <l>Gesicht, Gehör, Gefühl sind Wunder, und jeder Teil und Fetzen von mir ist ein Wunder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Göttlich bin ich innen und außen und mache heilig was ich berühre, oder was mich berührt,</l>
+            <l>Der Duft dieser Achselhöhlen ein Aroma feiner als Gebete,</l>
+            <l>Dieses Haupt mehr als Kirchen, Bibeln und alle Glaubensbekenntnisse.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Tagesanbruch zu schauen!</l>
+            <l>Das erste Licht macht die ungeheure und durchsichtige Schattenwelt verblassen,</l>
+            <l>Die Luft schmeckt meinem Gaumen gut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Etwas, das ich nicht sehe, richtet lüsterne Zacken empor,</l>
+            <l>Meere von glänzend hellem Saft überfluten den Himmel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Himmels Verweilen bei der Erde, das tägliche Schließen ihrer Vereinigung,</l>
+            <l>Der Ruf der Herausforderung von Osten her, gerade jetzt über meinem Haupte,</l>
+            <l>Der höhnische Spottruf: Siehe denn, ob du Herr wirst!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blendend und gewaltig, wie schnell würde der Sonnenaufgang mich töten,</l>
+            <l>Könnte ich nicht jetzt und allezeit aus mir selber Sonnenaufgang entsenden!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir gehen auch blendend und gewaltig auf wie die Sonne,</l>
+            <l>Wir fanden unser eigenes Ich, o meine Seele, in der Klarheit und Kühle des Tagesanbruchs!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit einer Drehung meiner Zunge umfange ich Welten und Massen von Welten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sprache ist der Zwilling meines Schauens, sie kann sich selbst nicht messen,</l>
+            <l>Sie reizt mich unaufhörlich, sie spricht spottend:</l>
+            <l>Lieber Walt, du enthältst doch genug, warum gibst du es nicht von dir?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm nur! ich lasse mich nicht necken, du hältst zu viel vom Ausdrücken,</l>
+            <l>Weißt du nicht, o Sprache, wie die Knospen sich in dir entfalten?</l>
+            <l>Wartend im Dunkeln, vom Frost behütet,</l>
+            <l>Der Schmutz zurückweichend vor meinen prophetischen Rufen,</l>
+            <l>Mein Ich, allen Ursachen zu Grunde liegend, um sie endlich ins Gleichgewicht zu bringen,</l>
+            <l>Mein Wissen lebendige Teile von mir, das mit der Bedeutung aller Dinge Schritt hält:</l>
+            <l>Glückseligkeit (wer immer mich hört, Mann oder Weib, mag heute noch aufbrechen, sie zu finden).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schreiben und Reden beweisen mich nicht,</l>
+            <l>Ich trage den reichlichsten Beweis und alles andere in meinem Antlitz,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will jetzt nichts tun als lauschen,</l>
+            <l>Um das, was ich höre, in diesem Liede aufzufangen, damit alle Töne dazu beitragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich höre das Cello (es ist des Jünglings Herzensklage),</l>
+            <l>Ich höre das Klappenhorn, die Töne dringen schnell in mein Ohr</l>
+            <l>Und durchschüttern mit wild-süßen Stößen mir Bauch und Brust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich höre den Chorgesang, eine große Oper,</l>
+            <l>Ach! Das ist wahrhaftig Musik – die stimmt zu mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Tenorstimme, groß und frisch wie die Schöpfung, erfüllt mich,</l>
+            <l>Der bogenförmigen Wölbung seines Mundes entströmt es und füllt mich ganz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist dies eine Berührung? mich durchzuckend zu einem neuen Wesen?</l>
+            <l>Flammen und Äther strömen ein auf meine Adern,</l>
+            <l>Verräterische Fühlhörner, von mir ausgestreckt um ihnen zu helfen,</l>
+            <l>Mein Fleisch und Blut Blitze ausstrahlend, um zu treffen was kaum verschieden von mir ist,</l>
+            <l>Auf allen Seiten ein Jucken und Reizen, das meine Glieder straff werden,</l>
+            <l>Aus meines Herzens Euter preßt es den zurückgehaltenen letzten Tropfen,</l>
+            <l>Benimmt sich schamlos gegen mich, kümmert sich um keine Zurückweisung,</l>
+            <l>Beraubt mich meines Besten, als wäre es mit Vorsatz,</l>
+            <l>Knöpft meine Kleider auf, faßt mich um den bloßen Leib,</l>
+            <l>Täuscht meine Verwirrung mit der Ruhe des Sonnenscheins und der Wiesen,</l>
+            <l>Schleppt meine übrigen Sinne unzüchtig von mir weg,</l>
+            <l>Keine Rücksicht, keine Acht auf meine sinkende Kraft oder auf meinen Zorn,</l>
+            <l>Die übrige Herde herbeiholend, daß sie sich eine Weile ergötzen,</l>
+            <l>Dann alle vereint auf einem Vorsprung stehen, um mich zu verhöhnen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Schildwachen verlassen jeden andern Teil von mir,</l>
+            <l>Sie haben mich hülflos einem roten Räuber ausgeliefert,</l>
+            <l>Sie kommen alle auf den Vorsprung, um gegen mich zu zeugen und mitzuhelfen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin Verrätern preisgegeben!</l>
+            <l>Ich rede verwirrt, ich habe den Verstand verloren, ich bin selbst der größte Verräter,</l>
+            <l>Ich ging selber zuerst auf die Spitze des Vorsprungs, meine eigenen Hände trugen mich dorthin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schurkische Berührung was machst du? der Atem erstickt in meiner Kehle,</l>
+            <l>Öffne deine Fluttore, du bist zu stark für mich!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blinde, liebevolle, ringende Berührung, verhüllte, verkappte, scharfzahnige Berührung!</l>
+            <l>Hat es dir so weh getan, mich loszulassen?</l>
+            <l>Dem Enteilenden auf der Spur folgt das Ankommende, die ewige Zahlung ewigen Darlehns,</l>
+            <l>Reichlich strömt der Regen herunter, und noch reicher wird nachher der Ausgleich sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Landschaften werden da entworfen, männlich volle, goldene Landschaften.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alle Wahrheiten harren in allen Dingen,</l>
+            <l>Sie haben's nicht eilig mit ihrer Befreiung, noch widerstehen sie ihr,</l>
+            <l>Sie bedürfen nicht der Zange des Geburtshelfers.</l>
+            <l>Das Unbedeutende ist mir so wichtig wie irgend etwas,</l>
+            <l>(was ist weniger oder was ist mehr als eine Berührung?).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Logik und Predigten überzeugen niemals,</l>
+            <l>Der feuchte Dunst der Nacht dringt tiefer in meine Seele.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube ein Grashalm ist nicht geringer als das Tagewerk der Sterne,</l>
+            <l>Und die Ameise ist ebenso vollkommen, oder ein Sandkorn, oder des Zaunkönigs Ei,</l>
+            <l>Die Baumkröte ist ein Meisterstück für den Allerhöchsten,</l>
+            <l>Die Brombeer-Ranken könnten die Hallen des Himmels schmücken,</l>
+            <l>Und das schmalste Gelenkband meiner Hand spottet aller Maschinerie,</l>
+            <l>Eine Kuh, mit gesenktem Kopfe wiederkäuend, übertrifft jede Bildsäule,</l>
+            <l>Und eine Maus ist Wunders genug, um unzählige Ungläubige zu bekehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich finde, ich habe Gneis in mir, Kohle, langhaariges Moos, Früchte, Ähren, eßbare Wurzeln,</l>
+            <l>Und bin aus gutem Grunde über das hinausgekommen, was hinter mir liegt,</l>
+            <l>Kann aber, wenn ich will, alles wieder zurückrufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vergebens alle Eile und Scheu!</l>
+            <l>Vergebens stehen die Gegenstände meilenweit voneinander entfernt und nehmen mannigfache Gestalt an,</l>
+            <l>Umsonst sinkt der Ozean in die Höhlung der Wellen und es lauern die Ungeheuer der Tiefe,</l>
+            <l>Vergebens steigt der Mäusefalk in den Himmel,</l>
+            <l>Vergebens verkriecht sich die Schlange unter die Schlingpflanzen und Holzklötze,</l>
+            <l>Vergebens flüchtet das Elch in die innersten Gründe des Waldes,</l>
+            <l>Vergebens segelt der Schermesserschnäbler gen Norden bis Labrador hinauf,</l>
+            <l>Ich bin rasch hinterher, ich klettre ihm nach bis zum Nest in der Felsenritze.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie schwitzen und wimmern nicht über ihre traurige Lage,</l>
+            <l>Sie liegen nicht im Dunkeln wach und weinen über ihre Sünden,</l>
+            <l>Sie erregen in mir keinen Ekel, denn sie debattieren nicht über ihre Pflichten gegen Gott,</l>
+            <l>Kein einziges kniet vor einem andern oder vor seinesgleichen, der vor Tausenden von Jahren lebte,</l>
+            <l>Kein einziges ist »respektabel« oder unglückselig auf der ganzen Erde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So zeigen sie ihre Beziehungen zu mir, und ich erkenne sie an,</l>
+            <l>Sie bringen mir Zeichen von mir selbst und beweisen deutlich ihren Anteil daran.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wundere mich selbst, woher sie diese Zeichen haben können?</l>
+            <l>Bin ich selber dort vor riesigen Zeiträumen vorbeigegangen und habe sie nachlässig hinfallen lassen?</l>
+            <l>Ich selber, vorrückend, damals und jetzt und ewig?</l>
+            <l>Immer mehr sammelnd und offenbarend, mit Schnelligkeit,</l>
+            <l>Unendlich und von allerlei Gattung, gleich wie diese unter ihnen,</l>
+            <l>Nicht zu vornehm gegen diejenigen, die mir meine Erinnerungszeichen geben,</l>
+            <l>Hier suche ich mir einen aus, den ich liebe, und nun gehe ich brüderlich mit ihm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Prachtstück von einem Hengst, lebhaft und empfänglich für meine Liebkosungen,</l>
+            <l>Sein Kopf ist hoch in der Stirn, breit zwischen den Ohren,</l>
+            <l>Die Glieder glänzend und geschmeidig, der Schweif streift den Boden,</l>
+            <l>Die Augen voll funkelnder Bosheit, die Ohren fein geschnitten, geschmeidig in der Bewegung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seine wohlgebauten Glieder beben vor Lust, wenn wir im Kreise herumtoben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich benutze dich nur eine Minute, mein Hengst, dann gebe ich dich frei,</l>
+            <l>Wozu brauche ich deine Sprünge, da ich dich selbst im Galopp überholen kann?</l>
+            <l>Selbst wenn ich sitze oder stehe, komme ich doch schneller weiter als du!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Raum und Zeit – jetzt sehe ich daß es wahr ist, was ich erriet,</l>
+            <l>Da ich müßig auf dem Grase lag,</l>
+            <l>Was ich erriet, als ich allein im Bette lag,</l>
+            <l>Und wieder erriet, als ich wandelte am Meeresgestade, unter den erbleichenden Sternen des Morgens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich fliege den Flug einer flüssigen, trinkenden Seele,</l>
+            <l>Meine Bahn geht tief unter die Messungen des Bleilots!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich nehme mir vom Körperlichen und Unkörperlichen,</l>
+            <l>Keine Wache kann mir den Eintritt verwehren, kein Gesetz mich hindern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur für kurze Zeit liege ich mit meinem Schiff vor Anker,</l>
+            <l>Meine Boote kreuzen beständig oder bringen mir ihre Berichte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ein Freibeuter, ich biwakiere an den Wachtfeuern hereinbrechender Feinde,</l>
+            <l>Ich werfe den Bräutigam aus dem Bett und bleibe selber bei der Braut,</l>
+            <l>Ich presse sie die ganze Nacht an meine Schenkel und Lippen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Stimme ist des Weibes Stimme, der Aufschrei am Treppengeländer,</l>
+            <l>Sie bringen mir meines Mannes Leiche herauf, triefend – ertrunken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich frage den Verwundeten nicht, wie es ihm geht, ich werde selber der Verwundete,</l>
+            <l>Meine Wunden werden brandig, während ich mich auf meinen Stock lehne und zuschaue.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin der zerquetschte Feuerwehrmann mit zerbrochenem Brustbein,</l>
+            <l>Stürzende Mauern begruben mich unter ihren Trümmern,</l>
+            <l>Glut und Rauch atmete ich ein, hörte den gellenden Schrei meiner Kameraden,</l>
+            <l>Hörte das ferne Klickklack ihrer Hacken und Schaufeln,</l>
+            <l>Sie haben die Balken weggeräumt, nun ziehen sie mich sanft hervor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liege in der Nachtluft im roten Hemde, Schweigen herrscht um meinetwillen,</l>
+            <l>Schmerzlos liege ich da, erschöpft, doch nicht unglücklich,</l>
+            <l>Weiß und schön sind die Gesichter, die mich umgeben, die Häupter entblößt von den Feuerhelmen,</l>
+            <l>Die knieende Menge schwindet allmählich mit dem Lichte der Fackeln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ein alter Artillerist, ich erzähle vom Bombardement meiner Festung,</l>
+            <l>Ich bin wieder dort –</l>
+            <l>Wieder der lange Trommelwirbel,</l>
+            <l>Wieder die feindlichen Geschütze, die Mörser,</l>
+            <l>Wieder antworten Kanonen meinen horchenden Ohren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich beteilige mich, sehe und höre alles,</l>
+            <l>Die Rufe, Flüche, das Gebrüll, den Beifall für wohlgezielte Schüsse,</l>
+            <l>Arbeiter, die Beschädigungen untersuchen, machen notwendige Ausbesserungen,</l>
+            <l>Das Einfallen der Granaten durch das zerrissene Dach, das fächerförmige Platzen,</l>
+            <l>Das Sausen von Gliedern, Köpfen, Steinen, Holz, Eisen hoch in der Luft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wieder gurgelt der Mund meines sterbenden Generals, heftig schwenkt er mit der Hand,</l>
+            <l>Und keucht durch das geronnene Blut: »Denkt nicht an mich – denkt – an die Schanzen« ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Möchtest du von einem Seegefecht aus früherer Zeit hören?</l>
+            <l>Möchtest du wissen, wer gewonnen hat beim Lichte des Mondes und der Sterne?</l>
+            <l>Hör' die Geschichte, wie sie mir meines Großvaters Vater, der Matrose, erzählte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Gang von und nach der Pulverkammer ist jetzt durch Wachen gesperrt,</l>
+            <l>Sie sehen manche fremde Gesichter und wissen nicht, wem zu trauen ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unsere Fregatte fängt Feuer,</l>
+            <l>Die andern fragen, ob wir Gnade verlangen,</l>
+            <l>Ob wir die Flagge streichen und das Gefecht aus ist?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun lache ich zufrieden, denn ich höre die Stimme meines Kapitäns:</l>
+            <l>»wir streichen nicht« ruft er gelassen, »wir fangen erst an zu fechten!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie halten tapfer aus während der ganzen Aktion.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Keinen Augenblick Unterbrechung;</l>
+            <l>Die Lecke steigen, schnell trotz der Pumpen, das Feuer frißt nach der Pulverkammer hin,</l>
+            <l>Eine der Pumpen ist weggeschossen, man glaubt allgemein daß wir sinken.</l>
+            <l>Ruhig steht der kleine Kapitän;</l>
+            <l>Er ist nicht in Eile, seine Stimme ist weder laut noch schwach,</l>
+            <l>Seine Augen geben uns mehr Licht als unsere Gefechtslaternen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Lotterbuben dort auf der Wache! seht nach euren Waffen!</l>
+            <l>Herein durch die eroberten Türen drängen sie – Ich bin besessen!</l>
+            <l>Verkörpere in mir alle Wesen, geächtete oder leidende,</l>
+            <l>Sehe mich selbst im Gefängnis in der Gestalt eines andern,</l>
+            <l>Und fühle den dumpfen, ununterbrochenen Schmerz.</l>
+            <l>Meinetwegen schultern die Aufseher der Sträflinge ihre Gewehre und halten Wache,</l>
+            <l>Ich bin es, den man morgens hinausläßt und nachts einsperrt, hinter verriegelten Türen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bittende verkörpern sich in mir, und ich bin in ihnen verkörpert,</l>
+            <l>Ich halte meinen Hut hin, sitze verschämt und bettle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß ich die rinnenden Tränen vergessen könnte, und die Schläge der Keulen und Hammer,</l>
+            <l>Daß ich wie ein Unbeteiligter meine eigene Kreuzigung und blutige Krönung mitansehen könnte!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt erinnere ich mich,</l>
+            <l>Ich nehme die übriggebliebene Bruchzahl wieder auf,</l>
+            <l>Das Felsengrab vervielfacht, was ihm oder irgend einem andern Grabe anvertraut war,</l>
+            <l>Leichen stehen auf, klaffende Wunden heilen, Fesseln fallen von mir ab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich ziehe fort, wieder mit höchster Kraft erfüllt, Einer aus dem allgemeinen unendlichen Zuge,</l>
+            <l>Im Binnenland und am Meeresstrand wandeln wir nun, überschreiten alle Grenzen,</l>
+            <l>Unsere schnellen Verordnungen verbreiten sich über die ganze Erde,</l>
+            <l>Blüten tragen wir auf unsern Hüten, das Wachstum von Jahrtausenden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Zöglinge, ich grüße euch. Kommt nur herbei!</l>
+            <l>Setzt eure Anmerkungen fort, fahrt fort zu fragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieser freundliche und fesselfreie Wilde – wer mag er sein?</l>
+            <l>Wartet er noch auf die Zivilisation, oder läßt er sie hinter sich und meistert sie?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Überall, wo er hingeht, nehmen Männer und Frauen ihn auf und verlangen nach ihm,</l>
+            <l>Sie wollen, daß er sie lieb habe und berühre, sie anspreche, bei ihnen bleibe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flitter des Sonnenscheins, ich brauche dein Leuchten nicht, geh' nur!</l>
+            <l>Du beleuchtest nur die Oberflächen, ich dringe durch Oberflächen wie durch Tiefen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erde, Du scheinst etwas von mir zu erwarten?</l>
+            <l>Sprich, alte Haube, wo fehlt's denn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mann und Weib, ich möchte gern sagen wie lieb ich euch habe, aber ich kann es nicht,</l>
+            <l>Ich möchte sagen was in mir ist, und was in euch ist, aber ich kann es nicht,</l>
+            <l>Ich möchte mein Sehnen künden, den Herzschlag meiner Nächte und Tage.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht! ich gebe keine Vorlesungen oder kleine milde Gaben,</l>
+            <l>Wann ich gebe, gebe ich mich selbst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du da! schlapp, mit schlottrigen Knien,</l>
+            <l>Öffne deine klapprigen Kinnbacken, bis ich dir Mark in die Knochen geblasen!</l>
+            <l>Breite deine Handflächen aus und ziehe die Klappen deiner Taschen heraus,</l>
+            <l>Und was ich habe, verschenke ich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich frage nicht wer du bist – das ist Nebensache,</l>
+            <l>Du kannst nichts tun und nichts sein, ohne daß ich dich umfassen werde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu einem Sterbenden eile ich und drehe den Türknopf,</l>
+            <l>Schlage das Bettzeug zurück bis zum Fußende,</l>
+            <l>Lasse Arzt und Priester nach Hause gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich packe den sinkenden Mann und hebe ihn mit unwiderstehlichem Willen,</l>
+            <l>O Verzweifelnder, hier ist mein Nacken!</l>
+            <l>Bei Gott, du sollst nicht untergehn! Hänge dich mit deinem ganzen Gewicht auf mich,</l>
+            <l>Ich blase dich voll mit gewaltigem Odem, ich mache dich flott,</l>
+            <l>Alle Räume im Hause fülle ich mit einer bewaffneten Macht,</l>
+            <l>Mit denen, die mich lieben – Besiegern des Grabes.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlafe! – Ich und sie halten Wacht die ganze Nacht,</l>
+            <l>Nicht der Zweifel, nicht der Tod soll es wagen, einen Finger an dich zu legen,</l>
+            <l>Ich habe dich umarmt, und fortan besitze ich dich für mich,</l>
+            <l>Und wenn du morgen früh aufstehst, wirst du sehen, daß es so ist, wie ich dir sage.</l>
+            <l>Meine eigene Stimme, vollklingend, entschieden und endgültig.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die kleinen unzähligen Männlein, die in Kragen und Fracks herumhüpfen,</l>
+            <l>Ich weiß wer sie sind (es sind wirklich weder Würmer noch Flöhe),</l>
+            <l>Ich erkenne meine Doppelgänger, der schwächste und seichteste ist unvertilgbar wie ich,</l>
+            <l>Was ich tue und sage, das harrt auch ihrer,</l>
+            <l>Jeder Gedanke, der in mir zappelt, zappelt auch in ihnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Niedergeschlagene Zweifler, trübsinnig und ausgestoßen,</l>
+            <l>Frivol, mürrisch, verdrossen, zornig, gerührt, entmutigt, und atheistisch,</l>
+            <l>Ich kenne euch alle! ich kenne das Meer von Qual, Zweifel, Verzweiflung und Unglauben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, was unversucht ist, und was nachher kommt,</l>
+            <l>Aber ich weiß, es wird sich schon zeigen und ausreichen, es kann nicht fehlen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist Zeit, daß ich mich erkläre – erheben wir uns!</l>
+            <l>Das Bekannte streife ich hinweg,</l>
+            <l>Ich lasse alle Männer und Weiber mit mir vom Stapel laufen, ins </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Uhr zeigt die Minute – aber was zeigt die Ewigkeit?</l>
+            <l>Soweit haben wir schon Trillionen von Sommern und Wintern erschöpft,</l>
+            <l>Es sind noch Trillionen voraus, und diesen wieder Trillionen voraus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geburten haben uns Fülle und Mannigfaltigkeit gebracht,</l>
+            <l>Und wieder andere Geburten werden uns Fülle und Mannigfaltigkeit bringen.</l>
+            <l>Waren die Menschen mordgierig oder eifersüchtig gegen dich, mein Bruder, meine Schwester?</l>
+            <l>Es tut mir leid um dich, gegen mich waren sie nicht mordgierig und eifersüchtig,</l>
+            <l>Alles war sanft zu mir, ich führe keine Rechnung mit der Klage,</l>
+            <l>(was habe ich mit Klagen zu tun?)</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ein Gipfel vollbrachter Dinge und umschließe Dinge, die sein werden.</l>
+            <l>Mein Embryo war niemals erstarrt, nichts konnte ihn erdrücken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seinetwillen verdichtete sich der Sternnebel zu einer Kugel,</l>
+            <l>Erdschichten türmten sich langsam, ihm ein Ruhelager zu geben,</l>
+            <l>Ungeheure Pflanzen gaben ihm Nahrung,</l>
+            <l>Riesige Saurier trugen ihn in ihrem Rachen und setzten ihn sorgsam nieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alle Kräfte wurden beständig benutzt, um mich zu vervollständigen und zu beglücken,</l>
+            <l>Jetzt stehe ich auf dieser Stelle, mit meiner rüstigen Seele.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Spanne der Jugend! Stets vorwärts getriebene Elastizität!</l>
+            <l>O Mannesalter! Im Gleichgewicht, blühend und voll.</l>
+            <l>O Greisenalter, herrlich aufsteigend. O willkommen, unaussprechliche Anmut entschwindender Tage!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jeder Zustand verkündet nicht nur sich selbst, er verkündet auch, was aus ihm und nach ihm entsteht,</l>
+            <l>Und das geheimnisvolle Dunkel verkündet so viel wie nur irgend etwas.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blicke noch so weit – grenzenloser Raum liegt darüber hinaus,</l>
+            <l>Zähle noch so hoch – rundum gibt es grenzenlose Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Stelldichein ist festgesetzt, es ist sicher,</l>
+            <l>Der Herr wird dort sein und warten, bis ich komme unter vollendeten Bedingungen,</l>
+            <l>Der große Camerado, der treu Liebende, nach dem ich mich sehne, wird dort sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht ich, nicht irgend ein anderer kann diese Straße für dich gehen,</l>
+            <l>Du mußt sie selber gehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie liegt nicht weit, sie ist in greifbarer Nähe,</l>
+            <l>Vielleicht bist du von deiner Geburt an darauf gewesen und wußtest es nicht,</l>
+            <l>Oder sie ist überall, zu Wasser und zu Lande.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schultere deine Sachen, lieber Sohn, wie ich die meinen, und laß uns forteilen,</l>
+            <l>Wundervolle Städte und freie Völker erreichen wir unterwegs.</l>
+            <l>Wenn du müde wirst, so laß mir beide Lasten und stütze deine Hand auf meine Hüfte,</l>
+            <l>Du sollst mir ein andermal den gleichen Dienst erweisen,</l>
+            <l>Denn nachdem wir einmal aufgebrochen, ruhn wir nimmer mehr aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du stellst mir auch Fragen, und ich höre dich,</l>
+            <l>Ich antworte, daß ich nicht antworten kann, du mußt es selber herausfinden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lange genug hast du verächtliche Träume geträumt,</l>
+            <l>Jetzt reibe ich dir den Schlaf aus den Augen,</l>
+            <l>Du mußt dich an das Blenden des Lichtes und jedes Augenblickes in deinem Leben gewöhnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin der Lehrer der Athleten,</l>
+            <l>Wer mir eine noch breitere Brust als die meine zeigen kann, beweist die Breite der meinigen,</l>
+            <l>Der ehrt am meisten meinen Stil, der durch ihn lernt, den Lehrer zu vernichten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Knabe, den ich liebe, wird ein Mann nicht durch ererbte Macht, sondern in seinem eigenen Recht,</l>
+            <l>Schlecht lieber als tugendhaft aus Anbequemung oder Furcht;</l>
+            <l>Er liebt sein Schätzchen, verzehrt seinen Braten mit Appetit,</l>
+            <l>Unerwiderte Liebe oder Geringschätzung durchschneidet ihn schärfer als scharfer Stahl,</l>
+            <l>Narben und Bärter und Gesichter mit Blatternarben zieht er den Glattgesichtern vor,</l>
+            <l>Und die von der Sonne verbrannten denen, die im Schatten blieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lehre euch, von mir zu gehen – doch wer kann von mir gehen?</l>
+            <l>Ich folge dir von dieser Stunde an, wer du auch seist,</l>
+            <l>Meine Worte kitzeln dir in den Ohren, bis du sie verstehst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sage diese Dinge nicht für einen Dollar, oder zum Zeitvertreib während ich auf das Boot warte,</l>
+            <l>(du bist es, der spricht, ebensoviel wie ich, ich bin deine Zunge,</l>
+            <l>Gebunden in deinem Munde, in meinem beginnt sie sich zu lösen).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du mich verstehen, so gehe auf die Höhen oder an den Meeresstrand,</l>
+            <l>Die nächste Mücke ist eine Erklärung, ein Tropfen oder eine Wellenbewegung ist ein Schlüssel,</l>
+            <l>Der Schlaghammer, das Ruder, die Handsäge bekräftigen meine Worte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Keine Stube mit geschlossenen Fensterläden, keine Schule kann mit mir verkehren,</l>
+            <l>Rohes Gesindel und kleine Kinder eher noch, als die.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der junge Handwerker steht mir am nächsten, er kennt mich wohl,</l>
+            <l>Der Bauernbursch, der im Felde pflügt, fühlt sich wohl beim Klang meiner Stimme,</l>
+            <l>Auf segelnden Schiffen segeln meine Worte, ich gehe mit Fischern und Matrosen und liebe sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein ist der Soldat im Lager oder auf dem Marsche,</l>
+            <l>In der Nacht vor der Schlacht suchen mich manche auf, und ich enttäusche sie nicht,</l>
+            <l>In jener feierlichen Nacht (vielleicht ihrer letzten) suchen mich die, die mich kennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Gesicht reibt sich an des Jägers Gesicht, wenn er allein sich niederlegt in seiner Decke,</l>
+            <l>Der Fuhrmann, der an mich denkt, achtet nicht auf das Rütteln des Wagens,</l>
+            <l>Die junge Mutter und die alte Mutter begreifen mich,</l>
+            <l>Das Mädchen und die Hausfrau lassen die Nadel einen Augenblick ruhn und vergessen, wo sie sind,</l>
+            <l>Sie und alle möchten wieder durchdenken, was ich ihnen gesagt habe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sage zum Menschengeschlecht: Seid nicht neugierig nach Gott;</l>
+            <l>Denn ich, neugierig nach allem und jedem, bin doch nicht neugierig nach Gott,</l>
+            <l>(kein Wortüberschwang vermag zu sagen, wie ich voll Frieden zu Gott und zum Tode stehe).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich höre und sehe Gott in jedem Gegenstand, doch Gott begreif' ich nicht im mindesten,</l>
+            <l>Noch begreife ich, wer noch merkwürdiger sein kann als ich selber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu seiner Arbeit eilt entschlossen der Geburtshelfer,</l>
+            <l>Ich sehe die helfende Hand, wie sie drückt, empfängt und unterstützt,</l>
+            <l>Ich bücke mich an den Schwellen der feinen, biegsamen Türen</l>
+            <l>Und merke den Ausgang, die Erleichterung und das Entweichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Leben, was dich betrifft, denk' ich, du bist das übrig Gebliebene von vielem Sterben,</l>
+            <l>(ohne Zweifel bin ich schon früher zehntausendmal gestorben).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ist dies Etwas in mir – ich weiß nicht, was es ist, aber ich weiß, es ist in mir.</l>
+            <l>Verzerrt und schweißig – dann wird mein Körper ruhig und kühl,</l>
+            <l>Ich schlafe ... schlafe lange.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kenne es nicht, es ist ohne Namen, ist ein unausgesprochenes Wort,</l>
+            <l>Es ist in keinem Wörterbuch, keiner Lautgebung, keinem Symbol.</l>
+            <l>Es dreht sich auf etwas, das mehr ist als die Erde, mit der ich mich drehe,</l>
+            <l>Ihm ist die Schöpfung der Freund, dessen Umarmung mich weckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich widerspreche mir selbst?</l>
+            <l>Nun gut, ich widerspreche mir selbst.</l>
+            <l>(ich bin ja weiträumig, ich enthalte Vielheiten).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das letzte Leuchten des Tages weilt noch um meinetwillen,</l>
+            <l>Es wirft mein Ebenbild zu den andern, und treu wie nur eines, auf die schattenumwobene Wildnis,</l>
+            <l>Es lockt mich zum Nebel und Dämmerschein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich scheide wie Luft, ich schüttle meine weißen Locken gegen die enteilende Sonne,</l>
+            <l>Ich lasse mein Fleisch in Wirbeln entströmen und in Fäden fortfließen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich vermache mich dem Schmutz, um aus dem Grase, das ich liebe, zu keimen,</l>
+            <l>Brauchst du mich wieder, so suche mich unter deinen Stiefelsohlen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum wirst du wissen, wer ich bin, oder was ich meine,</l>
+            <l>Doch bin ich für dich trotz alledem die Gesundheit,</l>
+            <l>Und kläre und kräftige dein Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kannst du nicht gleich mich erfassen, behalte nur Mut,</l>
+            <l>Triffst du mich nicht an einer Stelle, so suche wo anders,</l>
+            <l>Irgendwo bleib' ich und warte auf dich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich feiere mich selbst und singe mich selbst,</l>
+            <l>Und was ich mir anmaße, das sollt ihr euch anmaßen,</l>
+            <l>Denn jedes Atom, das mir gehört, gehört auch euch!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Zunge, jedes Teilchen meines Blutes ist hier aus diesem Boden, aus dieser Luft gebildet,</l>
+            <l>Von Eltern geboren, die hier von ähnlichen Eltern geboren, und diese wieder von ähnlichen Eltern,</l>
+            <l>So beginne ich jetzt, siebenunddreißig Jahre alt, in vollkommener Gesundheit,</l>
+            <l>Und hoffe nicht eher aufzuhören, bis zum Tode.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Häuser und Räume sind voller Wohlgerüche, die Bücherbörter sind voller Düfte,</l>
+            <l>Die ich einatme, die ich kenne und liebe,</l>
+            <l>Die Essenz würde mich berauschen, aber ich lasse es nicht zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie ist immer für meinen Mund; ich bin verliebt in sie,</l>
+            <l>Ich will zum Hügelhang am Walde gehen und unverkleidet und nackt sein,</l>
+            <l>Denn ich lechze danach, mit ihr in Berührung zu kommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hörte die Schwätzer schwatzen vom Anfang und vom Ende,</l>
+            <l>Aber ich rede nicht vom Anfang oder vom Ende.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie war mehr Anfang als jetzt,</l>
+            <l>Nie mehr Jugend oder mehr Alter als jetzt,</l>
+            <l>Nie wird es mehr Vollkommenheit geben als jetzt,</l>
+            <l>Oder mehr Himmel und Hölle als jetzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drängen und Drängen und Drängen –</l>
+            <l>Immer der zeugende Drang der Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus dem Dunkel treten Gleichwertige einander entgegen, immer Stoff und Wachstum, immer Geschlecht,</l>
+            <l>Immer die Verknüpfung der Identität, immer Unterscheidung, immer ein brünstiges Leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es weiter auszugrübeln ist nutzlos. Gelehrte und Ungelehrte fühlen, daß es so ist.</l>
+            <l>Stämmig wie ein Roß, zärtlich, stolz, elektrisch,</l>
+            <l>Ich und dies Geheimnis – hier stehen wir!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Klar und rein ist meine Seele, und klar und rein ist alles, was nicht meine Seele ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fehlt eins, so fehlen beide, und das Ungesehene wird durch das Gesehene bewiesen,</l>
+            <l>Bis dieses wieder zum Unsichtbaren wird und seinerseits Beweise empfängt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Abseits vom Ziehen und Zerren steht, was </l>
+            <l>Vergnügt, gefällig, teilnehmend, müßig, einheitlich,</l>
+            <l>Blickt nieder, steht aufrecht oder stützt den gebogenen Arm auf einen unfaßbaren sicheren Halt,</l>
+            <l>Sieht mit seitlich gewendetem Haupte zu, neugierig was nun kommen mag,</l>
+            <l>In und außer dem Spiel, aufpassend und sich darüber wundernd.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an dich, meine Seele; das andere, das ich bin, darf sich nicht vor dir erniedrigen,</l>
+            <l>Noch darfst du vor dem andern erniedrigt sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich gedenke, wie wir einst an einem so klaren Sommermorgen im Freien lagen,</l>
+            <l>Wie du dein Haupt quer über meine Hüften legtest und dich leise auf mir umkehrtest,</l>
+            <l>Und mir das Hemd am Brustknochen öffnetest und die Zunge in mein bloßgelegtes Herz hineintauchtest,</l>
+            <l>Und hinaufreichtest, bis du meinen Bart fühltest, und hinunter, bis du meine Füße hieltest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Kind sagte: Was ist das Gras? und brachte es mir mit vollen Händen;</l>
+            <l>Wie sollte ich dem Kinde antworten? ich weiß ebensowenig was es ist, wie das Kind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich meine, es muß die Fahne meines eigenen Gemütes sein, aus hoffnungsgrünem Tuch gewoben ...</l>
+            <l>Oder ich meine, das Gras ist selber ein Kindlein, das der Pflanzenwuchs zeugte ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will ihm oder ihr gleich zeigen, daß es ein ebensolches Glück ist, zu sterben, und ich weiß es.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin nicht eine Erde, noch der Anhang einer Erde,</l>
+            <l>Ich bin der Genosse und Gefährte der Menschen, alle ebenso unsterblich und unergründlich wie ich,</l>
+            <l>(sie wissen nicht wie unsterblich sie sind, doch ich weiß es).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jede Art für sich und ihr eigen; für mich die meine, männlich und weiblich,</l>
+            <l>Für mich die, welche Knaben waren und die Frauen lieben,</l>
+            <l>Für mich der Mann, der stolz ist und fühlt wie es sticht, gering geachtet zu werden,</l>
+            <l>Für mich das Liebchen und die alte Jungfer, für mich Mütter und die Mütter von Müttern,</l>
+            <l>Für mich Lippen, die gelächelt haben, Augen, die Tränen vergossen,</l>
+            <l>Für mich Kinder und die Erzeuger von Kindern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Enthülle dich! für mich bist du nicht schuldig, nicht veraltet, noch verworfen,</l>
+            <l>Und bin rings um dich, beharrlich, erobernd, unermüdlich, und lasse mich nicht abschütteln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Junge und das rotbackige Mädchen wenden sich seitwärts zum buschigen Hügel hinan,</l>
+            <l>Ich erspähe sie oben vom Gipfel ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Selbstmörder liegt hingestreckt auf dem blutigen Boden der Schlafstube,</l>
+            <l>Ich betrachte den Leichnam mit den blutbespritzten Haaren, und beachte, wo die Pistole hinfiel ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die weiten Tore der Dorfscheune stehen offen,</l>
+            <l>Das getrocknete Gras der Erntezeit belastet den langsam gezogenen Wagen,</l>
+            <l>Das hellklare Licht spielt über dem Durcheinander von Graubraun und Grün,</l>
+            <l>Die Haufen sind aufgeschichtet, daß ihre Last sich biegt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin da, ich helfe; ich kam, hingestreckt oben auf der Ladung,</l>
+            <l>Ich fühlte ihre sanften Stöße, ein Bein auf dem andern ruhend,</l>
+            <l>Ich springe von dem Querbalken und fasse den Klee und das Zittergras,</l>
+            <l>Und wälze mich kopfüber und verwirre meine Haare in den Rispen!</l>
+            <l>Wandernd, überrascht über meine eigene Behendigkeit und Fröhlichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am späten Nachmittag eine sichere Stelle aufsuchend, um die Nacht zuzubringen,</l>
+            <l>Zünde ich ein Feuer an und brate das frischerlegte Wild,</l>
+            <l>Schlafe auf den zusammengeschichteten Blättern ein, mit meinem Hund und dem Gewehr an der Seite.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Yankee-Klipperschiff ist unter den Oberbramsegeln, es durchschneidet das Gefunkel und Geschäume,</l>
+            <l>Meine Augen sehen das Land versinken, ich lehne mich über den Bug oder rufe jubelnd vom Verdeck.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Schiffer und Muschelgräber machten sich früh auf und warteten auf mich,</l>
+            <l>Ich steckte mir die Hose in die Stiefel und ging mit und hatte einen vergnügten Tag,</l>
+            <l>Du hättest an dem Tage bei uns sein sollen, beim Muschel-Kochkessel!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Achtundzwanzig junge Männer baden am Strande;</l>
+            <l>Achtundzwanzig junge Männer, und alle so vertraulich,</l>
+            <l>Achtundzwanzig Jahre keuschen Frauenlebens, und alle so einsam. –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie ist Besitzerin des schönen Hauses beim ansteigenden Ufer;</l>
+            <l>Schön und reich gekleidet, lauert sie hinter den Fenstervorhängen.</l>
+            <l>Ach, der alltäglichste von ihnen ist schön in ihren Augen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohin willst denn du, meine Dame? ich sehe dich schon,</l>
+            <l>Du plätscherst mit unten im Wasser, bleibst du auch mäuschenstill in deiner Stube.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tanzend und lachend lief an den Strand die neunundzwanzigste Badende,</l>
+            <l>Die andern sahen sie nicht – aber sie sah die andern und liebte sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Bärte der jungen Männer glitzerten vom Naß, es rann von ihrem langen Haar herab,</l>
+            <l>Kleine Bächlein rieselten ihnen über den Leib.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine unsichtbare Hand strich auch über ihren Leib,</l>
+            <l>Sie glitt zitternd an ihren Schläfen und Rippen herab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schmiede mit geschwärzten und zottigen Brüsten umringen den Amboß,</l>
+            <l>Ein jeder hält seinen Schlaghammer, alle Hammer im Schwung, das Feuer glüht;</l>
+            <l>Von der aschenbestreuten Schwelle folge ich ihren Bewegungen,</l>
+            <l>Von oben herunter schwingen die Hammer, schwingen so langsam hoch, so sicher,</l>
+            <l>Sie hasten nicht, ein jeder schlägt an die richtige Stelle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schaue den malerischen Riesen an und liebe ihn, und halte mich dabei nicht auf,</l>
+            <l>Ich gehe auch mit dem Gespann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Schritt verscheucht Waldenterich und Ente auf meinen entlegenen, tagelangen Streifzügen,</l>
+            <l>Sie fliegen zusammen auf, langsam kreisend.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an diese beflügelten Zweckmäßigkeiten,</l>
+            <l>Und bekenne Rot, Weiß, Gelb, spielend in mir,</l>
+            <l>Und halte das Grün und das Veilchenblau und die Federbuschkrone für absichtlich,</l>
+            <l>Und nenne die Schildkröte nicht wertlos, weil sie nicht etwas anderes ist;</l>
+            <l>Die Elster im Walde hat die Tonleiter nicht studiert und trillert doch gut genug für mich,</l>
+            <l>Und der Anblick der kastanienbraunen Stute treibt beschämend alle Albernheiten aus mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der wilde Gänserich lenkt seinen Flug durch die kühle Nacht,</l>
+            <l>Ja-honk! ruft er, und es klingt mir wie eine Einladung,</l>
+            <l>Die Vorwitzigen mögen es für bedeutungslos halten, ich aber finde, aufhorchend,</l>
+            <l>Daß es seinen Zweck und Platz hat dort oben im winterlichen Himmel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Glück versuchend, meine Habe verschwendend für ungeheuren Gewinn,</l>
+            <l>Mich schmückend, um mich dem ersten Besten, der mich will, hinzugeben,</l>
+            <l>Nicht vom Himmel fordernd, daß er mir zu Gefallen herunterkomme,</l>
+            <l>Sondern ihn ewig mit vollen Händen ausstreuend.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alles bekämpfe ich leichter als meine eigene Verschiedenartigkeit,</l>
+            <l>Atme die Luft, doch lasse genug übrig,</l>
+            <l>Bin nicht aufgeblasen und bin da, wohin ich gehöre.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies ist das Gras, das überall wächst, wo Land und Wasser ist,</l>
+            <l>Dies die gemeinsame Luft, in der die Erdkugel sich badet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Lebendigen schlafen ihre Zeit und die Toten schlafen ihre Zeit,</l>
+            <l>Der alte Ehemann schläft bei seinem Weib und der junge Ehemann schläft bei seinem Weib,</l>
+            <l>Diese alle drängen sich hinein zu mir und ich dränge mich aus mir hinaus zu ihnen,</l>
+            <l>Und was es heißt Einer von Diesen zu sein, mehr oder weniger, das bin ich,</l>
+            <l>Und aus einem und allen webe ich den Gesang von mir selbst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit mächtiger Musik komme ich, mit Zinken und Trommeln,</l>
+            <l>Ich spiele Märsche nicht nur für anerkannte Sieger, ich spiele Märsche für Besiegte und Erschlagene.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich trommle und trommle weiter für die Toten.</l>
+            <l>Ich setze an und blase mein Lautestes und Fröhlichstes für sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Hoch für Die, denen es fehlschlug!</l>
+            <l>Für Die, deren Kriegsschiffe in der See versanken,</l>
+            <l>Und für Die, welche selber untergingen,</l>
+            <l>Und allen Generalen, die Schlachten verloren, und allen besiegten Helden!</l>
+            <l>Und den zahllosen unbekannten Helden, gleich den größten Helden, die man kennt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies ist das Mahl für Alle aufs gleiche gerichtet, das Fleisch für den natürlichen Hunger,</l>
+            <l>Ich will, daß keiner gering geschätzt oder übergangen wird,</l>
+            <l>Die Maitresse, der Schmarotzer, der Dieb werden hiermit eingeladen,</l>
+            <l>Der dicklippige Sklave wird geladen, der Geschlechtskranke wird geladen,</l>
+            <l>Es soll kein Unterschied zwischen ihnen und den Andern sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies ist der Druck einer schüchternen Hand, das Wogen und Duften des Haares,</l>
+            <l>Die Berührung meiner Lippen mit den deinen, das Murmeln der Sehnsucht,</l>
+            <l>Die ferne Tiefe und Höhe, mein eigenes Antlitz spiegelnd,</l>
+            <l>Die gedankenvolle Verschmelzung meiner selbst und die Wiederauslösung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dieser Stunde sage ich Dinge im Vertrauen,</l>
+            <l>Nicht jedermann sage ich sie, aber dir will ich sie sagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer geht da? Gierig, grob, mystisch, nackt;</l>
+            <l>Wie kommt es, daß ich Stärke ziehe aus dem Rindfleisch, das ich esse?</l>
+            <l>Allem, was ich als das Meine bezeichne, sollst du ein Deiniges gegenüberstellen,</l>
+            <l>Sonst wäre es verlorene Zeit, mir zuzuhören.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schnüffle nicht umher mit dem Allerwelts-Geschnüffel,</l>
+            <l>Ich wimmere nicht mit dem Allerwelts-Gewimmer,</l>
+            <l>Daß die Monate leer sind und der Boden nur Schlamm und Kot.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In allem Volk sehe ich mich selbst, keiner ist mehr, keiner um ein Gerstenkorn weniger.</l>
+            <l>Das Gute und Böse, das ich von mir selber sage, sage ich von ihnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß, ich bin kerngesund und fest,</l>
+            <l>Zu mir streben alle Dinge des Weltalls in unaufhörlicher Flut,</l>
+            <l>Alle sind an mich geschrieben, und ich muß die Schrift entziffern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin wie ich bin, das ist genug,</l>
+            <l>Wird mich kein andrer in der Welt gewahr, sitze ich hier zufrieden,</l>
+            <l>Und wenn mich jeder und alle bemerken, sitze ich auch zufrieden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Welt wird meiner gewahr, und zwar mir bei weitem die größte Welt, und das bin ich selbst,</l>
+            <l>Und ob ich zu dem Meinigen heute gelange oder nach zehntausend oder zehn Millionen Jahren,</l>
+            <l>So kann ich's getrost jetzt hinnehmen, und ebenso getrost kann ich warten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Stätte, wo ich Fuß fasse, ist fest wie mit Eisenklammern in Granit,</l>
+            <l>Ich verlache Das, was ihr Auflösung nennt,</l>
+            <l>Und ich kenne die Fülle der Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bei mir sind die Seligkeiten des Himmels und die Qualen der Hölle,</l>
+            <l>Die ersten veredle und vermehre ich in mir, die letzteren übersetze ich in eine neue Sprache.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin der Dichter des Weibes gleichwie des Mannes,</l>
+            <l>Und ich sage, es ist ebenso groß ein Weib zu sein wie ein Mann,</l>
+            <l>Und ich sage, es gibt nichts Größeres als eine Mutter der Menschen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich singe den Sang des Hochgefühls und des Stolzes,</l>
+            <l>Wir haben uns geduckt und gedemütigt genug,</l>
+            <l>Ich zeige, daß Größe nur Entwicklung ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du die andern überholt? Bist du der Präsident?</l>
+            <l>Es ist eine Kleinigkeit; sie werden alle weiter als bis dahin gelangen, und immer noch weiter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin es, der da wandelt mit der zarten, wachsenden Nacht;</l>
+            <l>Der Erde und dem Meer, von der Nacht halb umfangen, rufe ich zu:</l>
+            <l>Drücke dich fest an mich, bloß-busige Nacht – drücke dich fest an mich, magnetische, nährende Nacht!</l>
+            <l>Nacht der Südwinde – Nacht der wenigen großen Sterne,</l>
+            <l>Stille, nickende Nacht – rasende nackte Sommernacht!</l>
+            <l>Lächle, du wollüstige, kühl angehauchte Erde!</l>
+            <l>Erde der schlummernden, zerfließenden Bäume,</l>
+            <l>Erde nach Sonnenuntergang – Erde der nebelumhüllten Berggipfel,</l>
+            <l>Erde des Glanzes und Schattens, den Spiegel des Flusses bunt besprenkelnd,</l>
+            <l>Erde der durchsichtigen klargrauen Wolken, heller und klarer um meinetwillen,</l>
+            <l>Weitumfassende Erde – reiche Apfelblüten-Erde,</l>
+            <l>Lächle, denn dein Geliebter kommt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verschwenderin! Du hast mir Liebe gegeben – darum gebe auch ich dir Liebe,</l>
+            <l>O unaussprechliche leidenschaftliche Liebe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meer der langgestreckten Grundwogen,</l>
+            <l>Meer, das in breiten, bebenden Zügen atmet,</l>
+            <l>Meer mit dem Salz des Lebens und den nicht gegrabenen, doch immerbereiten Gräbern,</l>
+            <l>Heulende, sturmgepeitschte, launige und liebliche See,</l>
+            <l>Ich bin eins mit dir, ich bin eine Phase und bin alle Phasen!</l>
+            <l>Lobsinger der Liebenden und solcher, die einander in den Armen ruhen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin es, der Sympathie verkündet,</l>
+            <l>(soll ich ein Verzeichnis von den Sachen im Hause machen, und das Haus übersehen, das sie enthält?)</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin nicht nur der Dichter der Güte, ich weigre mich nicht, auch der Dichter des Bösen zu sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was für ein Geplärre über Tugend und Laster!</l>
+            <l>Das Übel treibt mich an und die Verbesserung des Übels treibt mich an, ich stehe unbekümmert,</l>
+            <l>Mein Gang ist nicht der Gang eines Tadlers oder eines Verwerfenden,</l>
+            <l>Ich benetze die Wurzeln von Allem was gewachsen ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du etwa Furcht vor Skrofeln aus der nie erschlaffenden Zeugungsfülle?</l>
+            <l>Vermutest du, die himmlischen Gesetze wären zu überarbeiten und zu berichtigen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich finde die eine Seite als Gegengewicht und die antipodische Seite auch als Gegengewicht,</l>
+            <l>Die sanfte Lehre ebenso hilfreich wie die starke Lehre,</l>
+            <l>Gedanken und Taten der Gegenwart, unser Aufwachen und erstes Ansetzen,</l>
+            <l>Diese Minute, die über die vergangenen Dezillionen zu mir kommt –</l>
+            <l>Es gibt nichts Besseres als sie, und Jetzt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Endlose Entfaltung der Worte der Zeiten,</l>
+            <l>Und meins ein Wort der Modernen, das Wort: Masse!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Wort des Glaubens, das nimmer täuscht,</l>
+            <l>Hier oder fortan, mir ist es gleich, ich vertraue der </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie allein ist ohne Unterbrechung, sie allein rundet und vollendet alles,</l>
+            <l>Dies mystische verwirrende Wunder allein vollendet alles.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich nehme die Wirklichkeit hin und wage nicht, sie in Frage zu ziehen,</l>
+            <l>Durchtränkt von Materialismus von Anfang bis zu Ende.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoch lebe die positive Wissenschaft! Es lebe die exakte Demonstration!</l>
+            <l>Man hole Mauerpfeffer gemischt mit Ceder und Fliederzweigen;</l>
+            <l>Dies ist der Lexikograph, dies der Chemiker, dieser machte eine Grammatik der alten Keilschriften,</l>
+            <l>Diese Seeleute lenkten das Schiff durch gefährliche, unbekannte Meere,</l>
+            <l>Dies ist der Geologe, dieser arbeitet mit dem Zergliederungsmesser, und dies ist ein Mathematiker.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Herren! Euch gebühren stets die höchsten Ehren,</l>
+            <l>Eure Tatsachen sind nützlich, doch meine Wohnung sind sie nicht,</l>
+            <l>Durch sie trete ich erst in einen Vorhof meiner Wohnung ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ungestüm, fleischlich, sinnlich, essend, trinkend und zeugend,</l>
+            <l>Kein Überschwänglicher, keiner der über Männern und Weibern steht, oder abseits von ihnen,</l>
+            <l>Nicht bescheiden, noch unbescheiden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schraubt die Schlösser von den Türen los,</l>
+            <l>Schraubt die Türen selber los von ihren Pfosten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer einen andern erniedrigt, erniedrigt mich,</l>
+            <l>Und alles was getan oder gesagt wird, fällt schließlich auf mich zurück.</l>
+            <l>Durch mich wogt und wogt die Geistesflut, durch mich die Strömung und der Zeiger.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch mich verbotene Stimmen,</l>
+            <l>Stimmen der Geschlechter und Begierden, verschleierte Stimmen, ich ziehe den Schleier weg,</l>
+            <l>Unzüchtige Stimmen, durch mich erhellt und verklärt.</l>
+            <l>Ich presse mir nicht den Finger auf den Mund,</l>
+            <l>Ich halte die Eingeweide nicht für geringer als den Kopf und das Herz,</l>
+            <l>Begattung ist für mich nicht brünstiger als der Tod.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube an das Fleisch und die Begierden,</l>
+            <l>Gesicht, Gehör, Gefühl sind Wunder, und jeder Teil und Fetzen von mir ist ein Wunder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Göttlich bin ich innen und außen und mache heilig was ich berühre, oder was mich berührt,</l>
+            <l>Der Duft dieser Achselhöhlen ein Aroma feiner als Gebete,</l>
+            <l>Dieses Haupt mehr als Kirchen, Bibeln und alle Glaubensbekenntnisse.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Tagesanbruch zu schauen!</l>
+            <l>Das erste Licht macht die ungeheure und durchsichtige Schattenwelt verblassen,</l>
+            <l>Die Luft schmeckt meinem Gaumen gut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Etwas, das ich nicht sehe, richtet lüsterne Zacken empor,</l>
+            <l>Meere von glänzend hellem Saft überfluten den Himmel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Himmels Verweilen bei der Erde, das tägliche Schließen ihrer Vereinigung,</l>
+            <l>Der Ruf der Herausforderung von Osten her, gerade jetzt über meinem Haupte,</l>
+            <l>Der höhnische Spottruf: Siehe denn, ob du Herr wirst!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blendend und gewaltig, wie schnell würde der Sonnenaufgang mich töten,</l>
+            <l>Könnte ich nicht jetzt und allezeit aus mir selber Sonnenaufgang entsenden!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir gehen auch blendend und gewaltig auf wie die Sonne,</l>
+            <l>Wir fanden unser eigenes Ich, o meine Seele, in der Klarheit und Kühle des Tagesanbruchs!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit einer Drehung meiner Zunge umfange ich Welten und Massen von Welten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sprache ist der Zwilling meines Schauens, sie kann sich selbst nicht messen,</l>
+            <l>Sie reizt mich unaufhörlich, sie spricht spottend:</l>
+            <l>Lieber Walt, du enthältst doch genug, warum gibst du es nicht von dir?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm nur! ich lasse mich nicht necken, du hältst zu viel vom Ausdrücken,</l>
+            <l>Weißt du nicht, o Sprache, wie die Knospen sich in dir entfalten?</l>
+            <l>Wartend im Dunkeln, vom Frost behütet,</l>
+            <l>Der Schmutz zurückweichend vor meinen prophetischen Rufen,</l>
+            <l>Mein Ich, allen Ursachen zu Grunde liegend, um sie endlich ins Gleichgewicht zu bringen,</l>
+            <l>Mein Wissen lebendige Teile von mir, das mit der Bedeutung aller Dinge Schritt hält:</l>
+            <l>Glückseligkeit (wer immer mich hört, Mann oder Weib, mag heute noch aufbrechen, sie zu finden).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schreiben und Reden beweisen mich nicht,</l>
+            <l>Ich trage den reichlichsten Beweis und alles andere in meinem Antlitz,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will jetzt nichts tun als lauschen,</l>
+            <l>Um das, was ich höre, in diesem Liede aufzufangen, damit alle Töne dazu beitragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich höre das Cello (es ist des Jünglings Herzensklage),</l>
+            <l>Ich höre das Klappenhorn, die Töne dringen schnell in mein Ohr</l>
+            <l>Und durchschüttern mit wild-süßen Stößen mir Bauch und Brust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich höre den Chorgesang, eine große Oper,</l>
+            <l>Ach! Das ist wahrhaftig Musik – die stimmt zu mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Tenorstimme, groß und frisch wie die Schöpfung, erfüllt mich,</l>
+            <l>Der bogenförmigen Wölbung seines Mundes entströmt es und füllt mich ganz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist dies eine Berührung? mich durchzuckend zu einem neuen Wesen?</l>
+            <l>Flammen und Äther strömen ein auf meine Adern,</l>
+            <l>Verräterische Fühlhörner, von mir ausgestreckt um ihnen zu helfen,</l>
+            <l>Mein Fleisch und Blut Blitze ausstrahlend, um zu treffen was kaum verschieden von mir ist,</l>
+            <l>Auf allen Seiten ein Jucken und Reizen, das meine Glieder straff werden,</l>
+            <l>Aus meines Herzens Euter preßt es den zurückgehaltenen letzten Tropfen,</l>
+            <l>Benimmt sich schamlos gegen mich, kümmert sich um keine Zurückweisung,</l>
+            <l>Beraubt mich meines Besten, als wäre es mit Vorsatz,</l>
+            <l>Knöpft meine Kleider auf, faßt mich um den bloßen Leib,</l>
+            <l>Täuscht meine Verwirrung mit der Ruhe des Sonnenscheins und der Wiesen,</l>
+            <l>Schleppt meine übrigen Sinne unzüchtig von mir weg,</l>
+            <l>Keine Rücksicht, keine Acht auf meine sinkende Kraft oder auf meinen Zorn,</l>
+            <l>Die übrige Herde herbeiholend, daß sie sich eine Weile ergötzen,</l>
+            <l>Dann alle vereint auf einem Vorsprung stehen, um mich zu verhöhnen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Schildwachen verlassen jeden andern Teil von mir,</l>
+            <l>Sie haben mich hülflos einem roten Räuber ausgeliefert,</l>
+            <l>Sie kommen alle auf den Vorsprung, um gegen mich zu zeugen und mitzuhelfen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin Verrätern preisgegeben!</l>
+            <l>Ich rede verwirrt, ich habe den Verstand verloren, ich bin selbst der größte Verräter,</l>
+            <l>Ich ging selber zuerst auf die Spitze des Vorsprungs, meine eigenen Hände trugen mich dorthin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schurkische Berührung was machst du? der Atem erstickt in meiner Kehle,</l>
+            <l>Öffne deine Fluttore, du bist zu stark für mich!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blinde, liebevolle, ringende Berührung, verhüllte, verkappte, scharfzahnige Berührung!</l>
+            <l>Hat es dir so weh getan, mich loszulassen?</l>
+            <l>Dem Enteilenden auf der Spur folgt das Ankommende, die ewige Zahlung ewigen Darlehns,</l>
+            <l>Reichlich strömt der Regen herunter, und noch reicher wird nachher der Ausgleich sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Landschaften werden da entworfen, männlich volle, goldene Landschaften.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alle Wahrheiten harren in allen Dingen,</l>
+            <l>Sie haben's nicht eilig mit ihrer Befreiung, noch widerstehen sie ihr,</l>
+            <l>Sie bedürfen nicht der Zange des Geburtshelfers.</l>
+            <l>Das Unbedeutende ist mir so wichtig wie irgend etwas,</l>
+            <l>(was ist weniger oder was ist mehr als eine Berührung?).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Logik und Predigten überzeugen niemals,</l>
+            <l>Der feuchte Dunst der Nacht dringt tiefer in meine Seele.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube ein Grashalm ist nicht geringer als das Tagewerk der Sterne,</l>
+            <l>Und die Ameise ist ebenso vollkommen, oder ein Sandkorn, oder des Zaunkönigs Ei,</l>
+            <l>Die Baumkröte ist ein Meisterstück für den Allerhöchsten,</l>
+            <l>Die Brombeer-Ranken könnten die Hallen des Himmels schmücken,</l>
+            <l>Und das schmalste Gelenkband meiner Hand spottet aller Maschinerie,</l>
+            <l>Eine Kuh, mit gesenktem Kopfe wiederkäuend, übertrifft jede Bildsäule,</l>
+            <l>Und eine Maus ist Wunders genug, um unzählige Ungläubige zu bekehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich finde, ich habe Gneis in mir, Kohle, langhaariges Moos, Früchte, Ähren, eßbare Wurzeln,</l>
+            <l>Und bin aus gutem Grunde über das hinausgekommen, was hinter mir liegt,</l>
+            <l>Kann aber, wenn ich will, alles wieder zurückrufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vergebens alle Eile und Scheu!</l>
+            <l>Vergebens stehen die Gegenstände meilenweit voneinander entfernt und nehmen mannigfache Gestalt an,</l>
+            <l>Umsonst sinkt der Ozean in die Höhlung der Wellen und es lauern die Ungeheuer der Tiefe,</l>
+            <l>Vergebens steigt der Mäusefalk in den Himmel,</l>
+            <l>Vergebens verkriecht sich die Schlange unter die Schlingpflanzen und Holzklötze,</l>
+            <l>Vergebens flüchtet das Elch in die innersten Gründe des Waldes,</l>
+            <l>Vergebens segelt der Schermesserschnäbler gen Norden bis Labrador hinauf,</l>
+            <l>Ich bin rasch hinterher, ich klettre ihm nach bis zum Nest in der Felsenritze.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie schwitzen und wimmern nicht über ihre traurige Lage,</l>
+            <l>Sie liegen nicht im Dunkeln wach und weinen über ihre Sünden,</l>
+            <l>Sie erregen in mir keinen Ekel, denn sie debattieren nicht über ihre Pflichten gegen Gott,</l>
+            <l>Kein einziges kniet vor einem andern oder vor seinesgleichen, der vor Tausenden von Jahren lebte,</l>
+            <l>Kein einziges ist »respektabel« oder unglückselig auf der ganzen Erde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So zeigen sie ihre Beziehungen zu mir, und ich erkenne sie an,</l>
+            <l>Sie bringen mir Zeichen von mir selbst und beweisen deutlich ihren Anteil daran.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wundere mich selbst, woher sie diese Zeichen haben können?</l>
+            <l>Bin ich selber dort vor riesigen Zeiträumen vorbeigegangen und habe sie nachlässig hinfallen lassen?</l>
+            <l>Ich selber, vorrückend, damals und jetzt und ewig?</l>
+            <l>Immer mehr sammelnd und offenbarend, mit Schnelligkeit,</l>
+            <l>Unendlich und von allerlei Gattung, gleich wie diese unter ihnen,</l>
+            <l>Nicht zu vornehm gegen diejenigen, die mir meine Erinnerungszeichen geben,</l>
+            <l>Hier suche ich mir einen aus, den ich liebe, und nun gehe ich brüderlich mit ihm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Prachtstück von einem Hengst, lebhaft und empfänglich für meine Liebkosungen,</l>
+            <l>Sein Kopf ist hoch in der Stirn, breit zwischen den Ohren,</l>
+            <l>Die Glieder glänzend und geschmeidig, der Schweif streift den Boden,</l>
+            <l>Die Augen voll funkelnder Bosheit, die Ohren fein geschnitten, geschmeidig in der Bewegung.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seine wohlgebauten Glieder beben vor Lust, wenn wir im Kreise herumtoben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich benutze dich nur eine Minute, mein Hengst, dann gebe ich dich frei,</l>
+            <l>Wozu brauche ich deine Sprünge, da ich dich selbst im Galopp überholen kann?</l>
+            <l>Selbst wenn ich sitze oder stehe, komme ich doch schneller weiter als du!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Raum und Zeit – jetzt sehe ich daß es wahr ist, was ich erriet,</l>
+            <l>Da ich müßig auf dem Grase lag,</l>
+            <l>Was ich erriet, als ich allein im Bette lag,</l>
+            <l>Und wieder erriet, als ich wandelte am Meeresgestade, unter den erbleichenden Sternen des Morgens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich fliege den Flug einer flüssigen, trinkenden Seele,</l>
+            <l>Meine Bahn geht tief unter die Messungen des Bleilots!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich nehme mir vom Körperlichen und Unkörperlichen,</l>
+            <l>Keine Wache kann mir den Eintritt verwehren, kein Gesetz mich hindern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur für kurze Zeit liege ich mit meinem Schiff vor Anker,</l>
+            <l>Meine Boote kreuzen beständig oder bringen mir ihre Berichte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ein Freibeuter, ich biwakiere an den Wachtfeuern hereinbrechender Feinde,</l>
+            <l>Ich werfe den Bräutigam aus dem Bett und bleibe selber bei der Braut,</l>
+            <l>Ich presse sie die ganze Nacht an meine Schenkel und Lippen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Meine Stimme ist des Weibes Stimme, der Aufschrei am Treppengeländer,</l>
+            <l>Sie bringen mir meines Mannes Leiche herauf, triefend – ertrunken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich frage den Verwundeten nicht, wie es ihm geht, ich werde selber der Verwundete,</l>
+            <l>Meine Wunden werden brandig, während ich mich auf meinen Stock lehne und zuschaue.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin der zerquetschte Feuerwehrmann mit zerbrochenem Brustbein,</l>
+            <l>Stürzende Mauern begruben mich unter ihren Trümmern,</l>
+            <l>Glut und Rauch atmete ich ein, hörte den gellenden Schrei meiner Kameraden,</l>
+            <l>Hörte das ferne Klickklack ihrer Hacken und Schaufeln,</l>
+            <l>Sie haben die Balken weggeräumt, nun ziehen sie mich sanft hervor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich liege in der Nachtluft im roten Hemde, Schweigen herrscht um meinetwillen,</l>
+            <l>Schmerzlos liege ich da, erschöpft, doch nicht unglücklich,</l>
+            <l>Weiß und schön sind die Gesichter, die mich umgeben, die Häupter entblößt von den Feuerhelmen,</l>
+            <l>Die knieende Menge schwindet allmählich mit dem Lichte der Fackeln.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ein alter Artillerist, ich erzähle vom Bombardement meiner Festung,</l>
+            <l>Ich bin wieder dort –</l>
+            <l>Wieder der lange Trommelwirbel,</l>
+            <l>Wieder die feindlichen Geschütze, die Mörser,</l>
+            <l>Wieder antworten Kanonen meinen horchenden Ohren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich beteilige mich, sehe und höre alles,</l>
+            <l>Die Rufe, Flüche, das Gebrüll, den Beifall für wohlgezielte Schüsse,</l>
+            <l>Arbeiter, die Beschädigungen untersuchen, machen notwendige Ausbesserungen,</l>
+            <l>Das Einfallen der Granaten durch das zerrissene Dach, das fächerförmige Platzen,</l>
+            <l>Das Sausen von Gliedern, Köpfen, Steinen, Holz, Eisen hoch in der Luft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wieder gurgelt der Mund meines sterbenden Generals, heftig schwenkt er mit der Hand,</l>
+            <l>Und keucht durch das geronnene Blut: »Denkt nicht an mich – denkt – an die Schanzen« ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Möchtest du von einem Seegefecht aus früherer Zeit hören?</l>
+            <l>Möchtest du wissen, wer gewonnen hat beim Lichte des Mondes und der Sterne?</l>
+            <l>Hör' die Geschichte, wie sie mir meines Großvaters Vater, der Matrose, erzählte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Gang von und nach der Pulverkammer ist jetzt durch Wachen gesperrt,</l>
+            <l>Sie sehen manche fremde Gesichter und wissen nicht, wem zu trauen ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unsere Fregatte fängt Feuer,</l>
+            <l>Die andern fragen, ob wir Gnade verlangen,</l>
+            <l>Ob wir die Flagge streichen und das Gefecht aus ist?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun lache ich zufrieden, denn ich höre die Stimme meines Kapitäns:</l>
+            <l>»wir streichen nicht« ruft er gelassen, »wir fangen erst an zu fechten!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie halten tapfer aus während der ganzen Aktion.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Keinen Augenblick Unterbrechung;</l>
+            <l>Die Lecke steigen, schnell trotz der Pumpen, das Feuer frißt nach der Pulverkammer hin,</l>
+            <l>Eine der Pumpen ist weggeschossen, man glaubt allgemein daß wir sinken.</l>
+            <l>Ruhig steht der kleine Kapitän;</l>
+            <l>Er ist nicht in Eile, seine Stimme ist weder laut noch schwach,</l>
+            <l>Seine Augen geben uns mehr Licht als unsere Gefechtslaternen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Lotterbuben dort auf der Wache! seht nach euren Waffen!</l>
+            <l>Herein durch die eroberten Türen drängen sie – Ich bin besessen!</l>
+            <l>Verkörpere in mir alle Wesen, geächtete oder leidende,</l>
+            <l>Sehe mich selbst im Gefängnis in der Gestalt eines andern,</l>
+            <l>Und fühle den dumpfen, ununterbrochenen Schmerz.</l>
+            <l>Meinetwegen schultern die Aufseher der Sträflinge ihre Gewehre und halten Wache,</l>
+            <l>Ich bin es, den man morgens hinausläßt und nachts einsperrt, hinter verriegelten Türen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bittende verkörpern sich in mir, und ich bin in ihnen verkörpert,</l>
+            <l>Ich halte meinen Hut hin, sitze verschämt und bettle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß ich die rinnenden Tränen vergessen könnte, und die Schläge der Keulen und Hammer,</l>
+            <l>Daß ich wie ein Unbeteiligter meine eigene Kreuzigung und blutige Krönung mitansehen könnte!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt erinnere ich mich,</l>
+            <l>Ich nehme die übriggebliebene Bruchzahl wieder auf,</l>
+            <l>Das Felsengrab vervielfacht, was ihm oder irgend einem andern Grabe anvertraut war,</l>
+            <l>Leichen stehen auf, klaffende Wunden heilen, Fesseln fallen von mir ab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich ziehe fort, wieder mit höchster Kraft erfüllt, Einer aus dem allgemeinen unendlichen Zuge,</l>
+            <l>Im Binnenland und am Meeresstrand wandeln wir nun, überschreiten alle Grenzen,</l>
+            <l>Unsere schnellen Verordnungen verbreiten sich über die ganze Erde,</l>
+            <l>Blüten tragen wir auf unsern Hüten, das Wachstum von Jahrtausenden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Zöglinge, ich grüße euch. Kommt nur herbei!</l>
+            <l>Setzt eure Anmerkungen fort, fahrt fort zu fragen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieser freundliche und fesselfreie Wilde – wer mag er sein?</l>
+            <l>Wartet er noch auf die Zivilisation, oder läßt er sie hinter sich und meistert sie?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Überall, wo er hingeht, nehmen Männer und Frauen ihn auf und verlangen nach ihm,</l>
+            <l>Sie wollen, daß er sie lieb habe und berühre, sie anspreche, bei ihnen bleibe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flitter des Sonnenscheins, ich brauche dein Leuchten nicht, geh' nur!</l>
+            <l>Du beleuchtest nur die Oberflächen, ich dringe durch Oberflächen wie durch Tiefen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erde, Du scheinst etwas von mir zu erwarten?</l>
+            <l>Sprich, alte Haube, wo fehlt's denn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mann und Weib, ich möchte gern sagen wie lieb ich euch habe, aber ich kann es nicht,</l>
+            <l>Ich möchte sagen was in mir ist, und was in euch ist, aber ich kann es nicht,</l>
+            <l>Ich möchte mein Sehnen künden, den Herzschlag meiner Nächte und Tage.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht! ich gebe keine Vorlesungen oder kleine milde Gaben,</l>
+            <l>Wann ich gebe, gebe ich mich selbst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du da! schlapp, mit schlottrigen Knien,</l>
+            <l>Öffne deine klapprigen Kinnbacken, bis ich dir Mark in die Knochen geblasen!</l>
+            <l>Breite deine Handflächen aus und ziehe die Klappen deiner Taschen heraus,</l>
+            <l>Und was ich habe, verschenke ich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich frage nicht wer du bist – das ist Nebensache,</l>
+            <l>Du kannst nichts tun und nichts sein, ohne daß ich dich umfassen werde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu einem Sterbenden eile ich und drehe den Türknopf,</l>
+            <l>Schlage das Bettzeug zurück bis zum Fußende,</l>
+            <l>Lasse Arzt und Priester nach Hause gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich packe den sinkenden Mann und hebe ihn mit unwiderstehlichem Willen,</l>
+            <l>O Verzweifelnder, hier ist mein Nacken!</l>
+            <l>Bei Gott, du sollst nicht untergehn! Hänge dich mit deinem ganzen Gewicht auf mich,</l>
+            <l>Ich blase dich voll mit gewaltigem Odem, ich mache dich flott,</l>
+            <l>Alle Räume im Hause fülle ich mit einer bewaffneten Macht,</l>
+            <l>Mit denen, die mich lieben – Besiegern des Grabes.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schlafe! – Ich und sie halten Wacht die ganze Nacht,</l>
+            <l>Nicht der Zweifel, nicht der Tod soll es wagen, einen Finger an dich zu legen,</l>
+            <l>Ich habe dich umarmt, und fortan besitze ich dich für mich,</l>
+            <l>Und wenn du morgen früh aufstehst, wirst du sehen, daß es so ist, wie ich dir sage.</l>
+            <l>Meine eigene Stimme, vollklingend, entschieden und endgültig.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die kleinen unzähligen Männlein, die in Kragen und Fracks herumhüpfen,</l>
+            <l>Ich weiß wer sie sind (es sind wirklich weder Würmer noch Flöhe),</l>
+            <l>Ich erkenne meine Doppelgänger, der schwächste und seichteste ist unvertilgbar wie ich,</l>
+            <l>Was ich tue und sage, das harrt auch ihrer,</l>
+            <l>Jeder Gedanke, der in mir zappelt, zappelt auch in ihnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Niedergeschlagene Zweifler, trübsinnig und ausgestoßen,</l>
+            <l>Frivol, mürrisch, verdrossen, zornig, gerührt, entmutigt, und atheistisch,</l>
+            <l>Ich kenne euch alle! ich kenne das Meer von Qual, Zweifel, Verzweiflung und Unglauben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, was unversucht ist, und was nachher kommt,</l>
+            <l>Aber ich weiß, es wird sich schon zeigen und ausreichen, es kann nicht fehlen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist Zeit, daß ich mich erkläre – erheben wir uns!</l>
+            <l>Das Bekannte streife ich hinweg,</l>
+            <l>Ich lasse alle Männer und Weiber mit mir vom Stapel laufen, ins </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Uhr zeigt die Minute – aber was zeigt die Ewigkeit?</l>
+            <l>Soweit haben wir schon Trillionen von Sommern und Wintern erschöpft,</l>
+            <l>Es sind noch Trillionen voraus, und diesen wieder Trillionen voraus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geburten haben uns Fülle und Mannigfaltigkeit gebracht,</l>
+            <l>Und wieder andere Geburten werden uns Fülle und Mannigfaltigkeit bringen.</l>
+            <l>Waren die Menschen mordgierig oder eifersüchtig gegen dich, mein Bruder, meine Schwester?</l>
+            <l>Es tut mir leid um dich, gegen mich waren sie nicht mordgierig und eifersüchtig,</l>
+            <l>Alles war sanft zu mir, ich führe keine Rechnung mit der Klage,</l>
+            <l>(was habe ich mit Klagen zu tun?)</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ein Gipfel vollbrachter Dinge und umschließe Dinge, die sein werden.</l>
+            <l>Mein Embryo war niemals erstarrt, nichts konnte ihn erdrücken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seinetwillen verdichtete sich der Sternnebel zu einer Kugel,</l>
+            <l>Erdschichten türmten sich langsam, ihm ein Ruhelager zu geben,</l>
+            <l>Ungeheure Pflanzen gaben ihm Nahrung,</l>
+            <l>Riesige Saurier trugen ihn in ihrem Rachen und setzten ihn sorgsam nieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alle Kräfte wurden beständig benutzt, um mich zu vervollständigen und zu beglücken,</l>
+            <l>Jetzt stehe ich auf dieser Stelle, mit meiner rüstigen Seele.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Spanne der Jugend! Stets vorwärts getriebene Elastizität!</l>
+            <l>O Mannesalter! Im Gleichgewicht, blühend und voll.</l>
+            <l>O Greisenalter, herrlich aufsteigend. O willkommen, unaussprechliche Anmut entschwindender Tage!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jeder Zustand verkündet nicht nur sich selbst, er verkündet auch, was aus ihm und nach ihm entsteht,</l>
+            <l>Und das geheimnisvolle Dunkel verkündet so viel wie nur irgend etwas.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blicke noch so weit – grenzenloser Raum liegt darüber hinaus,</l>
+            <l>Zähle noch so hoch – rundum gibt es grenzenlose Zeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Stelldichein ist festgesetzt, es ist sicher,</l>
+            <l>Der Herr wird dort sein und warten, bis ich komme unter vollendeten Bedingungen,</l>
+            <l>Der große Camerado, der treu Liebende, nach dem ich mich sehne, wird dort sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht ich, nicht irgend ein anderer kann diese Straße für dich gehen,</l>
+            <l>Du mußt sie selber gehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie liegt nicht weit, sie ist in greifbarer Nähe,</l>
+            <l>Vielleicht bist du von deiner Geburt an darauf gewesen und wußtest es nicht,</l>
+            <l>Oder sie ist überall, zu Wasser und zu Lande.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schultere deine Sachen, lieber Sohn, wie ich die meinen, und laß uns forteilen,</l>
+            <l>Wundervolle Städte und freie Völker erreichen wir unterwegs.</l>
+            <l>Wenn du müde wirst, so laß mir beide Lasten und stütze deine Hand auf meine Hüfte,</l>
+            <l>Du sollst mir ein andermal den gleichen Dienst erweisen,</l>
+            <l>Denn nachdem wir einmal aufgebrochen, ruhn wir nimmer mehr aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du stellst mir auch Fragen, und ich höre dich,</l>
+            <l>Ich antworte, daß ich nicht antworten kann, du mußt es selber herausfinden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lange genug hast du verächtliche Träume geträumt,</l>
+            <l>Jetzt reibe ich dir den Schlaf aus den Augen,</l>
+            <l>Du mußt dich an das Blenden des Lichtes und jedes Augenblickes in deinem Leben gewöhnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin der Lehrer der Athleten,</l>
+            <l>Wer mir eine noch breitere Brust als die meine zeigen kann, beweist die Breite der meinigen,</l>
+            <l>Der ehrt am meisten meinen Stil, der durch ihn lernt, den Lehrer zu vernichten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Knabe, den ich liebe, wird ein Mann nicht durch ererbte Macht, sondern in seinem eigenen Recht,</l>
+            <l>Schlecht lieber als tugendhaft aus Anbequemung oder Furcht;</l>
+            <l>Er liebt sein Schätzchen, verzehrt seinen Braten mit Appetit,</l>
+            <l>Unerwiderte Liebe oder Geringschätzung durchschneidet ihn schärfer als scharfer Stahl,</l>
+            <l>Narben und Bärter und Gesichter mit Blatternarben zieht er den Glattgesichtern vor,</l>
+            <l>Und die von der Sonne verbrannten denen, die im Schatten blieben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich lehre euch, von mir zu gehen – doch wer kann von mir gehen?</l>
+            <l>Ich folge dir von dieser Stunde an, wer du auch seist,</l>
+            <l>Meine Worte kitzeln dir in den Ohren, bis du sie verstehst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sage diese Dinge nicht für einen Dollar, oder zum Zeitvertreib während ich auf das Boot warte,</l>
+            <l>(du bist es, der spricht, ebensoviel wie ich, ich bin deine Zunge,</l>
+            <l>Gebunden in deinem Munde, in meinem beginnt sie sich zu lösen).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Willst du mich verstehen, so gehe auf die Höhen oder an den Meeresstrand,</l>
+            <l>Die nächste Mücke ist eine Erklärung, ein Tropfen oder eine Wellenbewegung ist ein Schlüssel,</l>
+            <l>Der Schlaghammer, das Ruder, die Handsäge bekräftigen meine Worte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Keine Stube mit geschlossenen Fensterläden, keine Schule kann mit mir verkehren,</l>
+            <l>Rohes Gesindel und kleine Kinder eher noch, als die.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der junge Handwerker steht mir am nächsten, er kennt mich wohl,</l>
+            <l>Der Bauernbursch, der im Felde pflügt, fühlt sich wohl beim Klang meiner Stimme,</l>
+            <l>Auf segelnden Schiffen segeln meine Worte, ich gehe mit Fischern und Matrosen und liebe sie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein ist der Soldat im Lager oder auf dem Marsche,</l>
+            <l>In der Nacht vor der Schlacht suchen mich manche auf, und ich enttäusche sie nicht,</l>
+            <l>In jener feierlichen Nacht (vielleicht ihrer letzten) suchen mich die, die mich kennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Gesicht reibt sich an des Jägers Gesicht, wenn er allein sich niederlegt in seiner Decke,</l>
+            <l>Der Fuhrmann, der an mich denkt, achtet nicht auf das Rütteln des Wagens,</l>
+            <l>Die junge Mutter und die alte Mutter begreifen mich,</l>
+            <l>Das Mädchen und die Hausfrau lassen die Nadel einen Augenblick ruhn und vergessen, wo sie sind,</l>
+            <l>Sie und alle möchten wieder durchdenken, was ich ihnen gesagt habe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sage zum Menschengeschlecht: Seid nicht neugierig nach Gott;</l>
+            <l>Denn ich, neugierig nach allem und jedem, bin doch nicht neugierig nach Gott,</l>
+            <l>(kein Wortüberschwang vermag zu sagen, wie ich voll Frieden zu Gott und zum Tode stehe).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich höre und sehe Gott in jedem Gegenstand, doch Gott begreif' ich nicht im mindesten,</l>
+            <l>Noch begreife ich, wer noch merkwürdiger sein kann als ich selber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu seiner Arbeit eilt entschlossen der Geburtshelfer,</l>
+            <l>Ich sehe die helfende Hand, wie sie drückt, empfängt und unterstützt,</l>
+            <l>Ich bücke mich an den Schwellen der feinen, biegsamen Türen</l>
+            <l>Und merke den Ausgang, die Erleichterung und das Entweichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Leben, was dich betrifft, denk' ich, du bist das übrig Gebliebene von vielem Sterben,</l>
+            <l>(ohne Zweifel bin ich schon früher zehntausendmal gestorben).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ist dies Etwas in mir – ich weiß nicht, was es ist, aber ich weiß, es ist in mir.</l>
+            <l>Verzerrt und schweißig – dann wird mein Körper ruhig und kühl,</l>
+            <l>Ich schlafe ... schlafe lange.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich kenne es nicht, es ist ohne Namen, ist ein unausgesprochenes Wort,</l>
+            <l>Es ist in keinem Wörterbuch, keiner Lautgebung, keinem Symbol.</l>
+            <l>Es dreht sich auf etwas, das mehr ist als die Erde, mit der ich mich drehe,</l>
+            <l>Ihm ist die Schöpfung der Freund, dessen Umarmung mich weckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich widerspreche mir selbst?</l>
+            <l>Nun gut, ich widerspreche mir selbst.</l>
+            <l>(ich bin ja weiträumig, ich enthalte Vielheiten).</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das letzte Leuchten des Tages weilt noch um meinetwillen,</l>
+            <l>Es wirft mein Ebenbild zu den andern, und treu wie nur eines, auf die schattenumwobene Wildnis,</l>
+            <l>Es lockt mich zum Nebel und Dämmerschein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich scheide wie Luft, ich schüttle meine weißen Locken gegen die enteilende Sonne,</l>
+            <l>Ich lasse mein Fleisch in Wirbeln entströmen und in Fäden fortfließen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich vermache mich dem Schmutz, um aus dem Grase, das ich liebe, zu keimen,</l>
+            <l>Brauchst du mich wieder, so suche mich unter deinen Stiefelsohlen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum wirst du wissen, wer ich bin, oder was ich meine,</l>
+            <l>Doch bin ich für dich trotz alledem die Gesundheit,</l>
+            <l>Und kläre und kräftige dein Blut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kannst du nicht gleich mich erfassen, behalte nur Mut,</l>
+            <l>Triffst du mich nicht an einer Stelle, so suche wo anders,</l>
+            <l>Irgendwo bleib' ich und warte auf dich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

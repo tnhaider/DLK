@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-3 4-3</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">797</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Monde/ dessen blasser Schein bey der braunen nacht sich</l>
+            <l>zeiget/</l>
+            <l>und jhr güldnen Him̃els-Lichter/ gönnet uns doch euer licht/</l>
+            <l>schim̃ert doch mit euren strahlen/ biß der frühe tag anbricht/</l>
+            <l>wolt jhr nicht? hier ist der glantz/ wo mich nicht jhr blitz betreu-</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>so aus jhren augen geht und in mein gesichte steiget/ (get/</l>
+            <l>bleib </l>
+            <l>sicht/</l>
+            <l>das den Liljen/ das den Rosen/ ja der Sonnen weichet nicht;</l>
+            <l>Bleibe bey uns diese Nacht/ da das süße Lafft-volck schweiget/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>da die Sonne nicht mehr scheinet und das traurẽ uns besitzt/</l>
+            <l>sey mein Licht und meine Soñe/ wetl so lieblich zu mir blitzt</l>
+            <l>deiner augen güldnes Licht/ wenn der Abend köm̃t gegangen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>wen die trübe nacht hergehet und das schwartze trauer kleid/</l>
+            <l>ümb den braunen Körper hüllet: zeige deine liebligkeit/</l>
+            <l>dein gewohntes freundlich-sehn/ zeige deine Rosen-wangen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

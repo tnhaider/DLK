@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trauer-Vers über jemands Absterben</title>
+        <author>
+          <persName>
+            <surname>Zäunemann</surname>
+            <forename>Sidonia Hedwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">68</measure>
+        <measure type="characters">386</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1727</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trauer-Vers über jemands Absterben</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun danket alle Gott,</l>
+            <l>Weil dieser Mann erblichen,</l>
+            <l>Der uns mit vielem Spott</l>
+            <l>Und Lästern überstrichen.</l>
+            <l>Nun ist der Feinde Rott</l>
+            <l>Geringer, samt der Quaal,</l>
+            <l>Drum sing ich noch einmahl:</l>
+            <l>Nun danket alle Gott.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun danket alle Gott,</l>
+            <l>Weil dieser Mann erblichen,</l>
+            <l>Der uns mit vielem Spott</l>
+            <l>Und Lästern überstrichen.</l>
+            <l>Nun ist der Feinde Rott</l>
+            <l>Geringer, samt der Quaal,</l>
+            <l>Drum sing ich noch einmahl:</l>
+            <l>Nun danket alle Gott.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Drei Bitten</title>
+        <author>
+          <persName>
+            <surname>Geibel</surname>
+            <forename>Emanuel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">180</measure>
+        <measure type="characters">970</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1833</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Drei Bitten</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drei Bitten hab' ich für des Himmels Ohr,</l>
+            <l>Die send' ich täglich früh und spät empor:</l>
+            <l>Zum ersten, daß der Liebe reiner Born</l>
+            <l>Mir nie versieg' in Ungeduld und Zorn;</l>
+            <l>Zum zweiten, daß mir, was ich auch vernahm,</l>
+            <l>Ein Echo weck', ein Lied in Lust und Gram;</l>
+            <l>Zum dritten, wenn das letzte Lied verhallt,</l>
+            <l>Und wenn der Quell der Liebe leiser wallt,</l>
+            <l>Daß dann der Tod mich schnell mit sanfter Hand</l>
+            <l>Hinüberführ' in jenes bessere Land,</l>
+            <l>Wo ewig ungetrübt die Liebe quillt,</l>
+            <l>Und wo das Lied als einz'ge Sprache gilt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drei Bitten hab' ich für des Himmels Ohr,</l>
+            <l>Die send' ich täglich früh und spät empor:</l>
+            <l>Zum ersten, daß der Liebe reiner Born</l>
+            <l>Mir nie versieg' in Ungeduld und Zorn;</l>
+            <l>Zum zweiten, daß mir, was ich auch vernahm,</l>
+            <l>Ein Echo weck', ein Lied in Lust und Gram;</l>
+            <l>Zum dritten, wenn das letzte Lied verhallt,</l>
+            <l>Und wenn der Quell der Liebe leiser wallt,</l>
+            <l>Daß dann der Tod mich schnell mit sanfter Hand</l>
+            <l>Hinüberführ' in jenes bessere Land,</l>
+            <l>Wo ewig ungetrübt die Liebe quillt,</l>
+            <l>Und wo das Lied als einz'ge Sprache gilt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ArIA</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">626</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1709</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20283-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ArIA</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Werthes vergnügen! umarme mich doch!</l>
+            <l>Schlag der sorgen hartes joch,</l>
+            <l>Die mein hertze sonst erdrücken,</l>
+            <l>Doch zu tausend stücken!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wütende stürme! besänfftiget euch!</l>
+            <l>Laßt, auf wilder wellen streich,</l>
+            <l>Mich bey stiller fluth und winden</l>
+            <l>Einst den stillen hafen finden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sternen! beglückt mein vernünfftiges ziel!</l>
+            <l>Glaubt, ich wünsche nicht zu viel;</l>
+            <l>Denn ich such’ auf so viel leiden</l>
+            <l>Keinen port der freuden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hüpffende lüste begleitet verdruß:</l>
+            <l>Und ein allzusüsser kuß,</l>
+            <l>Da sich seel und seele gatten,</l>
+            <l>Pflegt nur abzumatten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wahres vergnügen! dich such’ ich allein.</l>
+            <l>Wie glücklich würd ich seyn,</l>
+            <l>Hätt’ ich nur, statt freud und schmertzen,</l>
+            <l>Deine ruh im hertzen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

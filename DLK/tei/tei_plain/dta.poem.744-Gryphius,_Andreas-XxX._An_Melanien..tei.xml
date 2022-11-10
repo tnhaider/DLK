@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxX.  An  Melanien.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-3 4-3</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">717</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxX.  An  Melanien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr glaubet warlich nicht wie schön' es sey zu sehen </l>
+            <l>Wenn jhr den krummen Hals noch dreymal krümmer </l>
+            <l>macht.</l>
+            <l>Vnd durch den weiten Mund so wunderlieblich lacht</l>
+            <l>Der sonst nichts kan/ denn nur frisch ligen vnd gut schmähen. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Euch dünckt der wisse nicht/ wie jhm doch sey geschehen:</l>
+            <l>Der zihe närrisch auff mit seiner newen Tracht </l>
+            <l>So hab euch jener nicht deß grusses wehrt geacht </l>
+            <l>Dem must jhr seine sprach vnd jedes wort bejähen/ </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem mangelts an der Stirn/ vnd jener siht nicht recht </l>
+            <l>Vnd der ist gar zu schön/ vnd dieser gar zu schlecht/</l>
+            <l>Der kan den Degen nicht recht an die Seite binden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Habt jhr den Spiegel auch der dort hing ander wandt </l>
+            <l>Melanie wol je genommen in die Handt? </l>
+            <l>Ey liebe! schawt hinein/ da ist was guts zu finden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">3.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-11 2-4 3-8</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">749</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192665"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>3.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf moos'ger Bank am Buchenhag</l>
+            <l>Und sann beglückt und selbstvergessen</l>
+            <l>Dem Räthsel deines Wesens nach!</l>
+            <l>Dann sang am waldverschwiegnen Orte</l>
+            <l>Ihr hohes Lied die Maienfee,</l>
+            <l>Und jedes ihrer süßen Worte</l>
+            <l>Fiel mir ins Herz wie Blüthenschnee;</l>
+            <l>Und jedes ihrer süßen Worte</l>
+            <l>Klang mir wie Deutung deines Seins</l>
+            <l>Und golden that sich auf die Pforte</l>
+            <l>Und ich und du, wir waren Eins!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und doch; wenn du dann kamst und lächelnd</l>
+            <l>Die Anmuth dir zur Seite ging,</l>
+            <l>Und süßer als der Maiwind fächelnd</l>
+            <l>Dein weicher Odem mich umfing:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann war dahin, was kaum gewesen</l>
+            <l>Und was nur dunkel mir geschwant,</l>
+            <l>In deinen Augen konnt ich's lesen,</l>
+            <l>Von Wundern, die ich nie geahnt;</l>
+            <l>In deinen Augen konnt ich's lesen,</l>
+            <l>Was ich gewann, was ich verlor,</l>
+            <l>Und süßerschreckt schien mir dein Wesen</l>
+            <l>Nur räthselhafter als zuvor!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

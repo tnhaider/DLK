@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wilhelm Tell .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">637</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wilhelm Tell .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wilhelm bin ich der Telle,               </l>
+            <l>Von Heldenmuth und Blut,</l>
+            <l>Mit meinem G'schoß und Pfeile</l>
+            <l>Hab ich die Freiheit gut</l>
+            <l>Dem Vaterland erworben,</l>
+            <l>Vertrieben Tyranney,</l>
+            <l>Einen festen Bund geschworen</l>
+            <l>Haben unsre Gesellen drey.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Uri, Schweiz und Unterwald,</l>
+            <l>Befreiet von dem Reich,</l>
+            <l>Litten großen Zwang und Gewalt</l>
+            <l>Von Vögten unbillig.</l>
+            <l>Kein Landmann durft nicht sprechen,</l>
+            <l>Dies ist mein eigen Gut,</l>
+            <l>Man nahm ihm also freche</l>
+            <l>Die Ochsen von dem Pflug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem der sich wollte rächen,</l>
+            <l>Und stellen in die Wehr,</l>
+            <l>Thät man die Augen ausstechen,</l>
+            <l>Und hörte Bosheit mehr.</l>
+            <l>Zu Altdorf bei der Linden</l>
+            <l>Der Vogt steckt auf sein Hut,</l>
+            <l>Er sprach, den will ich finden,</l>
+            <l>Der ihm kein Ehr' anthut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

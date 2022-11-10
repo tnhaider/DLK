@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Meine Braut.</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">179</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Meine Braut.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>An der duftverlornen Gränze</l>
+            <l>Jener Berge tanzen hold</l>
+            <l>Abendwolken ihre Tänze,</l>
+            <l>Leichtgeschürzt im Strahlengold.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich nach den lichten Räumen</l>
+            <l>Jener Berg' hinüberseh',</l>
+            <l>Ueberschleicht mich's wie ein Träumen,</l>
+            <l>Faßt mein Herz ein dunkles Weh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und mir ist, als wohne drüben</l>
+            <l>Meine Braut und harre bang,</l>
+            <l>Daß ich komme, sie zu lieben,</l>
+            <l>Eh' verblüht ist Herz und Wang'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Plötzlich treibt ein wildes Sehnen</l>
+            <l>Nach den Bergen mich, zu ihr,</l>
+            <l>Fluchtverstreute Wonnethränen</l>
+            <l>Stürzen aus dem Auge mir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch die Berge sich verdunkeln,</l>
+            <l>Und die Wolken werden Nacht;</l>
+            <l>Nicht ein Sternlein seh' ich funkeln,</l>
+            <l>Und der Sturm ist aufgewacht;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Scheltend ruft er mir entgegen:</l>
+            <l>Heißer Narr, wohin? verzeuch!</l>
+            <l>Deine Braut heißt Qual, — den Segen</l>
+            <l>Spricht das Unglück über euch!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

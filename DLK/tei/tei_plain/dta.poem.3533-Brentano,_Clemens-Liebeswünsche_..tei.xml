@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Liebeswünsche .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">265</measure>
+        <measure type="tokens">202</measure>
+        <measure type="characters">1154</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Liebeswünsche .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf der Welt hab ich kein Freud,               </l>
+            <l>Ich hab ein Schatz und der ist weit;</l>
+            <l>Wenn ich nur mit ihm reden könnt,</l>
+            <l>So wär mein ganzes Herz gesund.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frau Nachtigall, Frau Nachtigall!</l>
+            <l>Grüß meinen Schatz viel tausendmal;</l>
+            <l>Grüß ihn so hübsch, grüß ihn so fein,</l>
+            <l>Sag ihm er soll mein eigen seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und komm ich vor ein Goldschmidtshaus,</l>
+            <l>Der Goldschmidt schaut zum Fenster raus;</l>
+            <l>Ach Goldschmidt, liebster Goldschmidt mein!</l>
+            <l>Schmied mir ein feines Ringelein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schmied's nicht zu groß, schmied's nicht zu klein,</l>
+            <l>Schmied's für ein schönes Fingerlein;</l>
+            <l>Auch schmied mir meinen Namen dran,</l>
+            <l>Es solls mein Herzallerliebster han.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hätt ich ein Schlüssel von rothem Gold,</l>
+            <l>Mein Herz ich dir aufschliessen wollt,</l>
+            <l>Ein schönes Bild das ist darein,</l>
+            <l>Mein Schatz es muß dein eignes seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich nur ein klein Waldvöglein wär,</l>
+            <l>So säß ich auf dem grünen Zweig;</l>
+            <l>Und wenn ich genug gepfiffen hätt,</l>
+            <l>Flög ich zu dir, mein Schatz ins Reich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich zwey Taubenflügel hätt,</l>
+            <l>Wollt fliegen über die ganze Welt;</l>
+            <l>Ich wollt fliegen über Berg und Thal,</l>
+            <l>Hin wo mein Herzallerliebster wär.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wann ich endlich bey dir wär,</l>
+            <l>Und du redst dann kein Wort mit mir;</l>
+            <l>Müßt ich in Trauren wieder fort,</l>
+            <l>Adje mein Schatz, adje von dir.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">683</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Behramgur, sagt man, hat den Reim erfunden,</l>
+            <l>Er sprach entzückt aus reiner Seele Drang;</l>
+            <l>Dilara schnell, die Freundinn seiner Stunden,</l>
+            <l>Erwiederte mit gleichem Wort und Klang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und so, Geliebte! warst du mir beschieden</l>
+            <l>Des Reims zu finden holden Lustgebrauch,</l>
+            <l>Dass auch Behramgur ich, den Sassaniden,</l>
+            <l>Nicht mehr beneiden darf: mir ward es auch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast mir diess Buch geweckt, du hast’s gegeben:</l>
+            <l>Denn was ich froh, aus vollem Herzen, sprach,</l>
+            <l>Das klang zurück aus deinem holden Leben,</l>
+            <l>Wie Blick dem Blick, so Reim dem Reime nach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun tön’ es fort zu dir, auch aus der Ferne</l>
+            <l>Das Wort erreicht, und schwände Ton und Schall</l>
+            <l>Ist’s nicht der Mantel noch gesäter Sterne?</l>
+            <l>Ist’s nicht der Liebe hochverklärtes All?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

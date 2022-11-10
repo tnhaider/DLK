@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Des Siechen Flehgesang.</title>
+        <author>
+          <persName>
+            <surname>Kosegarten</surname>
+            <forename>Ludwig Gotthard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">163</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">612</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193300"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Des Siechen Flehgesang.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf welchen Fluren wandelt Odalia?               </l>
+            <l>In welchen Lüften athmet die Herrliche?</l>
+            <l>Wo trinkt ihr dunkelblaues Auge</l>
+            <l>Friedlich und liebend das Licht des Himmels?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O komm' in deiner rührenden Mädchenhuld!</l>
+            <l>In deiner herzgewinnenden Milde, komm!</l>
+            <l>In meinen Adern lodern Flammen;</l>
+            <l>Blitze durchzücken die siechen Schläfe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O komm' in deiner freundlichen Innigkeit!</l>
+            <l>In deiner unentheiligten Reine, komm'!</l>
+            <l>Denn deine Stirn' umleuchtet Ruhe,</l>
+            <l>Heilung entträufelt den Honiglippen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Augenblick Hinsinkens an deine Brust,</l>
+            <l>Ein Augenblick Umschlingens von deinem Arm,</l>
+            <l>Erlabt mich, wie dein Flügelwehen,</l>
+            <l>Engel des Heiles und des Genesens.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

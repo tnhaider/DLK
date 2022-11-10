@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auff die schwartzen augen derMarilis.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">199</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">778</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auff die schwartzen augen derMarilis.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist das schwartze doch/ mein kind/</l>
+            <l>Das sich in deinen augen findt?</l>
+            <l>Sag/ ob ich irre/ wann mich düncket/</l>
+            <l>Daß dir das ferne Morenland</l>
+            <l>So schwartze farben zugesandt/</l>
+            <l>Mit welchen du dein aug geschmincket.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der schönen augen schwartze pracht</l>
+            <l>Entwirfft das bild der mitternacht/</l>
+            <l>Die solch unsichtbar eisen nehret;</l>
+            <l>Zu dem sich stetig der magnet</l>
+            <l>Verliebter welt und seelen dreht/</l>
+            <l>Und gleichsam wie gezwungen kehret.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie aber wird mir umb das hertz?</l>
+            <l>Bey diesen augen ist kein schertz/</l>
+            <l>Ich sehe dunckle wolcken blitzen/</l>
+            <l>Ich sehe sonnen in der nacht</l>
+            <l>Und spüre/ daß mit aller macht</l>
+            <l>Auch ausgelöschte kohlen hitzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O schwartzes aug/ so alles brennt!</l>
+            <l>O nacht/ die selbst die sonne blendt!</l>
+            <l>O finsterniß bey stetem lichte!</l>
+            <l>O licht bey dicker finsterniß!</l>
+            <l>Wo bleib ich/ meine Marilis/</l>
+            <l>Forthin vor deinem angesichte?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Wahl.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">716</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198996"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Wahl.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Könt ich nur wie Orpheus spielen,</l>
+            <l>Alle Knaben soltens fühlen,</l>
+            <l>Und wenn ich ein Stükk gespielet,</l>
+            <l>Und wenn sie den Reitz gefühlet,</l>
+            <l>Solten sie, bei Spiel und Singen,</l>
+            <l>Alle tanzen, alle springen;</l>
+            <l>Könt ich wie Apelles schildern,</l>
+            <l>O so solt es meinen Bildern</l>
+            <l>Nicht an Reitz und Schönheit fehlen,</l>
+            <l>Lauter Knaben wolt ich wählen;</l>
+            <l>Könt ich künstlich, wie Propheten,</l>
+            <l>Menschen wekken, Menschen tödten,</l>
+            <l>O so wolt ich Geist und Leben</l>
+            <l>Allen Knaben wieder geben.</l>
+            <l>Aber könt ich meinen Willen</l>
+            <l>Durch ein mächtig Wort erfüllen,</l>
+            <l>Einer solte nach dem andern</l>
+            <l>Wieder zu den Todten wandern;</l>
+            <l>Vieler Knaben Schildereien</l>
+            <l>Solten brennend mich erfreuen;</l>
+            <l>Viele solten, unzufrieden,</l>
+            <l>Gleich vom ersten Tanz ermüden,</l>
+            <l>Stille sitzen, stille stehen,</l>
+            <l>Und die andern tanzen sehen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

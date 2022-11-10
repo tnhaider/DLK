@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eins und Alles.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">110</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">460</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eins und Alles.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deutschland erst in sich vereint!</l>
+            <l>Auf! wir wollen uns verbinden,</l>
+            <l>Und wir können jeden Feind</l>
+            <l>Treuverbunden überwinden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deutschland erst in sich vereint!</l>
+            <l>Lasset Alles, Alles schwinden</l>
+            <l>Was ihr wünschet, hofft und meint!</l>
+            <l>Alles andre wird sich finden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deutschland erst in sich vereint!</l>
+            <l>Danach strebet, danach ringet!</l>
+            <l>Daß der schöne Tag erscheint,</l>
+            <l>Der uns Einheit wiederbringet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deutschland erst in sich vereint!</l>
+            <l>Wenn uns </l>
+            <l>Hat die Welt noch einen Feind,</l>
+            <l>Der uns wiederum bezwinget?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

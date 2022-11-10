@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Kein Mittel seh' ich zu entkommen</title>
+        <author>
+          <persName>
+            <surname>Paoli</surname>
+            <forename>Betty</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">566</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1854</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Kein Mittel seh' ich zu entkommen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Mittel seh' ich zu entkommen</l>
+            <l>Dem fest in sich verschlung'nen Kreis:</l>
+            <l>Des Dichters Lied kann Keinem frommen,</l>
+            <l>Der nicht, was Jener singt, schon weiß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Wissenden bedünkt hinwieder,</l>
+            <l>Das Wort so dürftig und so hohl! –</l>
+            <l>Ach! wozu singt man dann noch Lieder?</l>
+            <l>Und wozu nützt der Dichter wohl?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Mittel seh' ich zu entkommen</l>
+            <l>Dem fest in sich verschlung'nen Kreis:</l>
+            <l>Des Dichters Lied kann Keinem frommen,</l>
+            <l>Der nicht, was Jener singt, schon weiß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Wissenden bedünkt hinwieder,</l>
+            <l>Das Wort so dürftig und so hohl! –</l>
+            <l>Ach! wozu singt man dann noch Lieder?</l>
+            <l>Und wozu nützt der Dichter wohl?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

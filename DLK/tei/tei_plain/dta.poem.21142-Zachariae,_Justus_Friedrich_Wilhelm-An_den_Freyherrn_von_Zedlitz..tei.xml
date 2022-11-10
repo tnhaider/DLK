@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An den Freyherrn von Zedlitz.</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">285</measure>
+        <measure type="tokens">190</measure>
+        <measure type="characters">1101</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An den Freyherrn von Zedlitz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Zedlitz, wie glücklich bist du im Umgang der
+lehrenden Todten!</l>
+            <l>Die Noth des Dummkopfs kennest du nicht,</l>
+            <l>Wenn ihn in seinem Pallast die Langeweile verfolget;</l>
+            <l>Wenn sie zu hirnlosen Schönen ihn scheucht;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn er im wilden Basset die leeren Nächte durchwa-</l>
+            <l>Und in dem traurigen Lomberspiel gähnt;</l>
+            <l>Wenn seinem ekelnden Sinn so wenig sein Pferd, als</l>
+            <l>Noch Maskerade zum Zeitvertreib wird;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn er das Leere nun fühlt, mit dem das Schicksal</l>
+            <l>Das ihm zwar Ahnen und Reichthümer gab;</l>
+            <l>Doch welches dagegen ihn auch der hohen Gaben berau-</l>
+            <l>Die man nicht immer von Ahnen ererbt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann, Zedlitz, findet man dich im Krais der bärtigen</l>
+            <l>Und bey den Helden des blühenden Roms.</l>
+            <l>Du wagest kühn auch alsdann dich zu tiefsinnigen Brit-</l>
+            <l>Und zu der gallischen Dichter Gesang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo bleibt alsdann dir der Tag, wo bleibt der Abend</l>
+            <l>Rauscht er mit eilendem Fittig nicht fort?</l>
+            <l>Und hat der Morgen nicht oft dich bey der vertrauli-</l>
+            <l>Auf Miltons Gesänge horchend gesehn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welch ein entzückender Trost ist die Gesellschaft der Mu-</l>
+            <l>Sie folgen selber im Unglück uns nach.</l>
+            <l>Sie lassen uns niemals allein; und sind sowohl in der</l>
+            <l>Als in bevölkerten Städten bey uns.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

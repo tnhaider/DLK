@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lapidarstil.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">605</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lapidarstil.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist das Deutsch schon so verdorben,</l>
+            <l>Daß man's kaum noch schreiben kann?</l>
+            <l>Oder ist es ausgestorben,</l>
+            <l>Daß man's spricht nur dann und wann?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oder habet ihr vernommen,</l>
+            <l>Daß es bald zu Ende geht?</l>
+            <l>Daß die Zeiten nächstens kommen,</l>
+            <l>Wo kein Mensch mehr deutsch versteht?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jedes Denkmal wird frisieret</l>
+            <l>Von der Philologen Hand,</l>
+            <l>Und so haben sie beschmieret</l>
+            <l>Erz und Stein und Tisch und Wand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo man hinschaut, strotzt und glotzet</l>
+            <l>Eine Inschrift in Latein,</l>
+            <l>Die sich trotzig hat schmarotzet</l>
+            <l>In das Denkmal mit hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deutsches Volk, du musst studieren</l>
+            <l>Und vor allem das Latein,</l>
+            <l>Niemals kannst du sonst capieren</l>
+            <l>Was dein eigner Ruhm soll sein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

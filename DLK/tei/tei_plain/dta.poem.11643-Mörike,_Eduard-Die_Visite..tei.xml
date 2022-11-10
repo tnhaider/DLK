@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Visite.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">268</measure>
+        <measure type="tokens">179</measure>
+        <measure type="characters">1071</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Visite.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Philister kommen angezogen:</l>
+            <l>Man sucht im Garten mich und Haus;</l>
+            <l>Doch war der Vogel ausgeflogen</l>
+            <l>Zum vielgeliebten Wald hinaus.</l>
+            <l>Sie kommen, mich auch da zu stören;</l>
+            <l>Schon heißt es: Horcht! die Nachtigall!</l>
+            <l>— Gleich lass' ich mich als Gukuk hören,</l>
+            <l>Bin nirgends und bin überall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So führt' ich sie, nur wie im Traume,</l>
+            <l>Als Puck im ganzen Wald herum;</l>
+            <l>Ich pfiff und sang von jedem Baume,</l>
+            <l>Sie sahn sich fast die Hälse krumm.</l>
+            <l>Nun schalten sie: Verfluchte Possen!</l>
+            <l>Der Sonderling, der Grobian!</l>
+            <l>Da komm' ich grunzend angeschossen,</l>
+            <l>Ein Eber, mit gefletschtem Zahn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit Schrei'n, als wenn der Boden brennte,</l>
+            <l>Zerstob ein Theil im wilden Lauf,</l>
+            <l>Die Andern kletterten behende</l>
+            <l>Den nächsten besten Baum hinauf;</l>
+            <l>Sie krochen weislich bis zum Wipfel,</l>
+            <l>Und sahen nicht einmal zurück,</l>
+            <l>Doch ich als Eichhorn saß im Gipfel:</l>
+            <l>Ich grüße sie und wünsche Glück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ei, welch ein allerliebstes Späßchen!</l>
+            <l>Gott grüß' euch, schöne Fraun und Herrn!</l>
+            <l>Sie kommen, hoff' ich, auf ein Täßchen</l>
+            <l>Eichel-Kaffee? Von Herzen gern!“</l>
+            <l>— Allein sie fanden's nicht gemüthlich</l>
+            <l>In dieser ungewohnten Höh'.</l>
+            <l>So schieden wir für heute gütlich;</l>
+            <l>Doch wehe meiner Renomm</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

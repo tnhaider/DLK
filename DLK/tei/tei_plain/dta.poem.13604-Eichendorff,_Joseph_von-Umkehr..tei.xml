@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Umkehr.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">705</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Umkehr.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leben kann man nicht von Tönen,</l>
+            <l>Poesie geht ohne Schuh,</l>
+            <l>Und so wandt' ich denn der Schönen</l>
+            <l>Endlich auch den Rücken zu:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lange durch die Welt getrieben</l>
+            <l>Hat mich nun die irre Hast,</l>
+            <l>Immer doch bin ich geblieben</l>
+            <l>Nur ein ungeschickter Gast.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ueberall zu spät zum Schmause</l>
+            <l>Kam ich, wenn die andern voll,</l>
+            <l>Trank die Neigen vor dem Hause,</l>
+            <l>Wußt' nicht, wem ich's trinken soll.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mußt' mich vor Fortuna bücken</l>
+            <l>Ehrfurchtsvoll bis auf die Zeh'n,</l>
+            <l>Vornehm wandt' sie mir den Rücken,</l>
+            <l>Ließ mich so gebogen stehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als ich mich aufgerichtet</l>
+            <l>Wieder frisch und frei und stolz,</l>
+            <l>Sah ich Berg' und Thal gelichtet,</l>
+            <l>Blühen jedes dürre Holz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welt hat eine plumpe Pfote,</l>
+            <l>Wandern kann man ohne Schuh —</l>
+            <l>Deck' mit Deinem Morgenrothe</l>
+            <l>Wieder nur den Wandrer zu!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

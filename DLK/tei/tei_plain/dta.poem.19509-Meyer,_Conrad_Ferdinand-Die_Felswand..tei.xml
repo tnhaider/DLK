@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Felswand.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">517</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Felswand.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gigantisch, wildzerissen steigt die Felswand.</l>
+            <l>Das Auge schrickt zurück. Dann irrt es unstät</l>
+            <l>Daran herum. Bang sucht es wo es hafte.</l>
+            <l>Dort! Ueber einem Abgrund schwebt ein Brücklein</l>
+            <l>Wie Spinnweb. Höher um die scharfe Kante</l>
+            <l>Sind Stapfen eingehaun, ein Bruchstück Weges!</l>
+            <l>Fast oben ragt ein Thor mit blauer Füllung:</l>
+            <l>Dort klimmt der Weg empor zu Licht und Höhe!</l>
+            <l>Nicht ruht das Aug, bis ihn es aufgefunden:</l>
+            <l>Den ganzen Weg entlang die ganze Felswand.</l>
+            <l>Feindselig blickte sie. Nun blickt sie gastlich,</l>
+            <l>Geeinigt im Zusammenhang des Pfades!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

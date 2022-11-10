@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Brissach von Höchstermeltem Helden  
+  &amp;c.   Bernhard Hertzogen zu  
+ Sachsen   &amp;c.  
+ Eingenommen.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-4 2-7 3-4 4-4</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">129</measure>
+        <measure type="characters">711</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Brissach von Höchstermeltem Helden  
+  &amp;c.   Bernhard Hertzogen zu  
+ Sachsen   &amp;c.  
+ Eingenommen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja/ Brissach/ dein verlust ist dein gewin vnd preyß;</l>
+            <l>Du hast/ in dem du dich verloren/ dich gefunden;</l>
+            <l>Du hast/ von disem schwert erobert/ vberwunden;</l>
+            <l>Vnd vneinnehmlich nu wirst du auff dise weiß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dan diser Fürst/ Held/ Mars (dein Siger) ist so weiß/</l>
+            <l>So gütig/ mächtig/ groß/ daß dein verdruß ver-</l>
+            <l>schwunden/</l>
+            <l>Alßbald dich seine faust zu seinem dienst verbun-</l>
+            <l>den/</l>
+            <l>Darumb mit frewd vnd danck gehorsam dich er-</l>
+            <l>weiß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sih doch/ bedenck vnd merck/ wie herrlich Er dich</l>
+            <l>zieret/</l>
+            <l>Vñ du mit nichten Jhn; wie durch jhn Got in dir/</l>
+            <l>Als durch Got vber dich Er (sigreich) triumfieret!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So lern nu seine lehr (vnd gib jhm danck darfür)</l>
+            <l>Weil Got den Fürsten selbs/ wie der Fürst dich/</l>
+            <l>regieret/</l>
+            <l>Daß jhm allzeit der Sig/ vnd Got die ehr/ gebihr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

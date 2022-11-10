@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die drei gemalten Ritter.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">11</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2 9-2 10-2 11-2</measure>
+        <measure type="syllables">191</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">802</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die drei gemalten Ritter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„frau Berte, hört: Ihr dürftet nun</l>
+            <l>Mir einmal einen Gefallen thun!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>— „Was denkt Ihr, Graf? Wohin denket Ihr?</l>
+            <l>Vor den drei gemalten Rittern hier?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drei Ritter prahlen auf der Wand</l>
+            <l>Mit rollenden Augen, am Dolch die Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„wer, Frau, ist diese Ritterschaft?“</l>
+            <l>— „Drei Vettern und alle drei tugendhaft!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gelobt Ihr, Graf, die Ehe mir</l>
+            <l>Bei den drei gemalten Rittern hier,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Will ich — Ihr laßt es doch nicht ruhn —</l>
+            <l>Euch einmal einen Gefallen thun.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Gräflein zwinkert den Rittern zu.</l>
+            <l>(„Frau Berte, welch eine Gans bist du!“)</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Gräflein hebt die Finger flink.</l>
+            <l>(„Frau Berte, du bist ein dummes Ding!“)</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„trautlieb, ich schwör' und beschwör' es dir</l>
+            <l>Bei den drei gemalten Rittern hier!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt rufen aus einem Mund die Drei:</l>
+            <l>„es ist geredet und bleibt dabei!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Wand versinkt: dahinter stehn</l>
+            <l>Drei gült'ge Zeugen. So ist's geschehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

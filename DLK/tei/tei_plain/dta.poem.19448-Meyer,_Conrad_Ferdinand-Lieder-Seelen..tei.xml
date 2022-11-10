@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lieder-Seelen.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">611</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lieder-Seelen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Nacht, die die Bäume mit Blüten deckt,</l>
+            <l>Ward ich von süßen Gespenstern erschreckt,</l>
+            <l>Ein Reigen schwang im Garten sich,</l>
+            <l>Den ich mit leisem Fuß beschlich;</l>
+            <l>Wie zarter Elfen Chor im Ring</l>
+            <l>Ein weißer, lebendiger Schimmer ging.</l>
+            <l>Die Schemen hab' ich keck befragt:</l>
+            <l>Wer seid ihr, luftige Wesen? Sagt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich bin ein Wölkchen, gespiegelt im See.“</l>
+            <l>„ich bin eine Reihe von Stapfen im Schnee.“</l>
+            <l>„ich bin ein Seufzer gen Himmel empor!“</l>
+            <l>„ich bin ein Geheimnis, geflüstert ins Ohr.“</l>
+            <l>„ich bin ein frommes, gestorbenes Kind.“</l>
+            <l>„ich bin ein üppiges Blumengewind —“</l>
+            <l>„und die du wählst, und der's beschied</l>
+            <l>Die Gunst der Stunde, die wird ein Lied.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

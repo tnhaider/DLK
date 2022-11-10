@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">26.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">63</measure>
+        <measure type="characters">387</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>26.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie dir auf nächt'ger Fahrt die nächste Reih der Bäume</l>
+            <l>Am Weg vorüber eilt, als wären's deine Träume,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dahinter langsamer dahin die Bergflur schreitet,</l>
+            <l>Und hinter ihr der Mond nur deinen Lauf begleitet;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So fliehn am schnellsten auch auf deines Lebens Fahrt</l>
+            <l>Dir die Erscheinungen vorbei der Gegenwart,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Langsam die größeren Gestalten ferner Zeiten,</l>
+            <l>Und nur die Ewigkeit bleibt ewig dir zur Seiten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

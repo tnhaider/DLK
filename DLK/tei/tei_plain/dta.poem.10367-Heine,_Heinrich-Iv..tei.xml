@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Iv.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">146</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">589</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Iv.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Hirn spukt mir ein Mährchen wunderfein,</l>
+            <l>Und in dem Mährchen klingt ein feines Lied,</l>
+            <l>Und in dem Liede lebt und webt und blüht</l>
+            <l>Ein wunderschönes, zartes Mägdelein.</l>
+            <l>Und in dem Mägdlein wohnt ein Herzchen klein,</l>
+            <l>Doch in dem Herzchen keine Liebe glüht;</l>
+            <l>In dieses lieblos frostige Gemüth</l>
+            <l>Kam Hochmuth nur und Uebermuth hinein.</l>
+            <l>Hörst du wie mir im Kopf' das Mährchen klinget?</l>
+            <l>Und wie das Liedchen summet ernst und schaurig?</l>
+            <l>Und wie das Mägdlein kichert leise, leise?</l>
+            <l>Ich fürchte nur, daß mir der Kopf zerspringet:</l>
+            <l>Und, ach! da wär's doch gar entsetzlich traurig,</l>
+            <l>Käm' der Verstand mir aus dem alten Gleise.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

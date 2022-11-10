@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Bei Hamburgs Brand.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-8 2-9 3-9</measure>
+        <measure type="syllables">224</measure>
+        <measure type="tokens">156</measure>
+        <measure type="characters">904</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1843</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192440"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Bei Hamburgs Brand.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein freies Wort in Hamburgs Flammen!</l>
+            <l>Denn in den Flammen seht ihr's gern;</l>
+            <l>Es wird mich Fürst und Volk verdammen</l>
+            <l>Und doch — ich find' kein Lied, ihr Herrn;</l>
+            <l>Kaum will ein Laut sich in mir regen,</l>
+            <l>Ein Laut für den Philistersegen,</l>
+            <l>Der aus der heißen Asche bricht;</l>
+            <l>Laßt mich ein Sprüchlein niederlegen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr wißt, ich bin ein schlechter Reimer,</l>
+            <l>Dieß liegt trotz eurer Nacht am Tag;</l>
+            <l>Doch ist mein Vers kein Wassereimer,</l>
+            <l>Den man zum Löschen füllen mag;</l>
+            <l>Ich jauchzte, als die Feuerzungen</l>
+            <l>Jüngst so beredt durch's Land geklungen,</l>
+            <l>Ja, Feuer! rief noch mein Gedicht;</l>
+            <l>Ich hab' den Stürmen zugesungen:</l>
+            <l>Bewahrt das Feuer und das Licht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Manch trocken Auge ward gefeuchtet,</l>
+            <l>Manch kalte Seele wurde heiß,</l>
+            <l>Und glühend hat das Eis geleuchtet,</l>
+            <l>Das starre, deutsche Gletschereis;</l>
+            <l>Der Bund der Eintracht ward beschworen,</l>
+            <l>Das Feuer hat uns neu geboren,</l>
+            <l>Des Rheines Wasser konnt' es nicht —</l>
+            <l>O sei kein Funke drum verloren:</l>
+            <l>Bewahrt das Feuer und das Licht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

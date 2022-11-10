@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Pont du Carrousel</title>
+        <author>
+          <persName>
+            <surname>Rilke</surname>
+            <forename>Rainer Maria</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-6 2-4 3-6 4-4</measure>
+        <measure type="syllables">208</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">774</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1900</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Pont du Carrousel</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der blinde Mann, der auf der Brücke steht,</l>
+            <l>grau wie ein Markstein namenloser Reiche,</l>
+            <l>er ist vielleicht das Ding, das immer gleiche,</l>
+            <l>um das von fern die Sternenstunde geht,</l>
+            <l>und der Gestirne stiller Mittelpunkt.</l>
+            <l>Denn alles um ihn irrt und rinnt und prunkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist der unbewegliche Gerechte,</l>
+            <l>in viele wirre Wege hingestellt;</l>
+            <l>der dunkle Eingang in die Unterwelt</l>
+            <l>bei einem oberflächlichen Geschlechte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der blinde Mann, der auf der Brücke steht,</l>
+            <l>grau wie ein Markstein namenloser Reiche,</l>
+            <l>er ist vielleicht das Ding, das immer gleiche,</l>
+            <l>um das von fern die Sternenstunde geht,</l>
+            <l>und der Gestirne stiller Mittelpunkt.</l>
+            <l>Denn alles um ihn irrt und rinnt und prunkt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er ist der unbewegliche Gerechte,</l>
+            <l>in viele wirre Wege hingestellt;</l>
+            <l>der dunkle Eingang in die Unterwelt</l>
+            <l>bei einem oberflächlichen Geschlechte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

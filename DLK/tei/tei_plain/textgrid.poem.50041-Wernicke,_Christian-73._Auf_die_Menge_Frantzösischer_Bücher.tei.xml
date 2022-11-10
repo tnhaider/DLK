@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">73. Auf die Menge Frantzösischer Bücher</title>
+        <author>
+          <persName>
+            <surname>Wernicke</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">78</measure>
+        <measure type="tokens">60</measure>
+        <measure type="characters">342</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1693</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>73. Auf die Menge Frantzösischer Bücher</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dass ein </l>
+            <l>Manch </l>
+            <l>In Holland uns beschert;</l>
+            <l>Dass er uns nicht sein </l>
+            <l>Dass Jahr durch </l>
+            <l>Ist nicht Verwundernswehrt;</l>
+            <l>Er macht kaum seine Feder nass,</l>
+            <l>Und künstelt ohne Müh':</l>
+            <l>Wahr ist's, </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dass ein </l>
+            <l>Manch </l>
+            <l>In Holland uns beschert;</l>
+            <l>Dass er uns nicht sein </l>
+            <l>Dass Jahr durch </l>
+            <l>Ist nicht Verwundernswehrt;</l>
+            <l>Er macht kaum seine Feder nass,</l>
+            <l>Und künstelt ohne Müh':</l>
+            <l>Wahr ist's, </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

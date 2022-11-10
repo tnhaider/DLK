@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An ein verwelktes Röschen</title>
+        <author>
+          <persName>
+            <surname>Miller</surname>
+            <forename>Johann Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-4 2-7 3-4 4-7</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">632</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1771</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An ein verwelktes Röschen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Röschen, wie beneid' ich dich!</l>
+            <l>Glücklich warest du vor allen;</l>
+            <l>Daphnen hattest du gefallen,</l>
+            <l>Daphne sah und wählte dich!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allen Jünglingen zur Lust,</l>
+            <l>Blühtest du an ihrer Brust;</l>
+            <l>Und dann war dein Tod so süß!</l>
+            <l>Als du abends welktest, ließ</l>
+            <l>Sie auf dich ein Thränchen fallen;</l>
+            <l>O wie neid' ich dich vor allen!</l>
+            <l>O wie war dein Tod so süß!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Röschen, wie beneid' ich dich!</l>
+            <l>Glücklich warest du vor allen;</l>
+            <l>Daphnen hattest du gefallen,</l>
+            <l>Daphne sah und wählte dich!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allen Jünglingen zur Lust,</l>
+            <l>Blühtest du an ihrer Brust;</l>
+            <l>Und dann war dein Tod so süß!</l>
+            <l>Als du abends welktest, ließ</l>
+            <l>Sie auf dich ein Thränchen fallen;</l>
+            <l>O wie neid' ich dich vor allen!</l>
+            <l>O wie war dein Tod so süß!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

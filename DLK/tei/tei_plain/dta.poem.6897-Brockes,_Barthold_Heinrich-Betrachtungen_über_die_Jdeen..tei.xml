@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über die Jdeen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">736</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über die Jdeen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn die Jdeen sind in unsrer Seele,</l>
+            <l>Und zwar in selbiger viel eher noch formirt,</l>
+            <l>Bevor ein Strich, ein Druck, vom Cörper sie berührt.</l>
+            <l>Es sind gantz unterschiedne Sachen.</l>
+            <l>Wenn Gegenwürff’ uns einen Eindruck machen;</l>
+            <l>Empfängt man ihrer Bilder Heer,</l>
+            <l>Auf eine Tafel, welche leer:</l>
+            <l>Hierdurch ist aber uns noch vom Verstand</l>
+            <l>Nicht die geringste Spur bekannt.</l>
+            <l>Wodurch erkennet man in der Empfindlichkeit</l>
+            <l>So unterschiedner Ding so grossen Unterscheid?</l>
+            <l>Wenn unser Werckzeug blos gerührt ist durchs Bewegen;</l>
+            <l>So spüret man, wie sich zum Schluß und Uberlegen</l>
+            <l>Verschiedene Jdeen in uns regen:</l>
+            <l>Wovon die ersten blos in unserm Geist gebohren:</l>
+            <l>Die, für vernünfftige Geschöpffe nur erkohren,</l>
+            <l>Sich immer an und bey einander finden,</l>
+            <l>Jedoch sich nie mit unsern Sinnen binden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

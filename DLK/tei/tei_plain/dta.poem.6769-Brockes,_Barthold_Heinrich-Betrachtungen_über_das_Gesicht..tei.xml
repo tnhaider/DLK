@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über das Gesicht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">447</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über das Gesicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es leitet das Gesicht, es folgt ihm der Verstand.</l>
+            <l>Vom Cörper, der sehr groß, wird seine Gröss’ erkannt,</l>
+            <l>Weil, wann man seine Gröss’ erkennen will und wissen,</l>
+            <l>Wir unsrer Augen Stand verändern müssen,</l>
+            <l>Um selben gantz zu übersehn.</l>
+            <l>Man wird, auf welche Weis’ er sich beweget,</l>
+            <l>Durch sichre Folge bald verstehn,</l>
+            <l>Wenn sich, um ihn zu sehn, das Auge mit ihm reget.</l>
+            <l>Wie oder wo es stets am ersten Ort sich bindet,</l>
+            <l>Der Vorwurff schnell aus unsern Blick verschwindet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

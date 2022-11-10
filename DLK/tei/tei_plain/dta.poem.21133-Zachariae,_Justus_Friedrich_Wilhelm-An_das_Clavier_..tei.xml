@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An das Clavier .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">714</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An das Clavier .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Zeitvertreib so mancher jungen Schöne,</l>
+            <l>Und manches jungen Herrn, der dir sein Opfer bringt,</l>
+            <l>Wenn er, entzückt in ungefühlte Töne,</l>
+            <l>Ein welsches Ach in zwanzig Tacten singt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf dir war nie ein welsches Lied erklungen,</l>
+            <l>Du warst noch von dem Tand der ewgen Triller frey.</l>
+            <l>Das, was ich sang, ward immer deutsch gesungen;</l>
+            <l>Doch mein Geschmack bleibt dir nicht mehr so treu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dir hat der Schwung der Oper schon gefallen.</l>
+            <l>Es fesselt dich nicht mehr der deutschen Tonkunst Zwang.</l>
+            <l>Du fängst schon an, die Triller nachzulallen,</l>
+            <l>Die bis ins Herz die Pompeati sang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie voll bist du von neuen Zärtlichkeiten,</l>
+            <l>O siegendes Clavier, da dich die Oper hebt.</l>
+            <l>Die Symphonie rauscht schon durch deine Saiten;</l>
+            <l>Der Unmuth flieht, und alles ist belebt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

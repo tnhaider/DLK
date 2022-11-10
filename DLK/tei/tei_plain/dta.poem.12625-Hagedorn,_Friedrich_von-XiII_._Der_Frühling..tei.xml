@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiII .  
+  Der Frühling.</title>
+        <author>
+          <persName>
+            <surname>Hagedorn</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">623</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199128"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiII .  
+  Der Frühling.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Schmelz der bunten Wiesen!</l>
+            <l>Du neu-begrünte Flur!</l>
+            <l>Sey stets von mir gepriesen,</l>
+            <l>Du Schmelz der bunten Wiesen!</l>
+            <l>Es schmückt dich und Cephisen</l>
+            <l>Der Lenz und die Natur.</l>
+            <l>Du Schmelz der bunten Wiesen!</l>
+            <l>Du neu- begrünte Flur!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Stille voller Freuden!</l>
+            <l>Du Reitzung süsser Lust!</l>
+            <l>Wie bist du zu beneiden,</l>
+            <l>Du Stille voller Freuden!</l>
+            <l>Du mehrest in uns beyden</l>
+            <l>Die Sehnsucht treuer Brust,</l>
+            <l>Du Stille voller Freuden!</l>
+            <l>Du Reitzung süsser Lust!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr schnellen Augenblicke!</l>
+            <l>Macht euch des Frühlings wehrt.</l>
+            <l>Daß euch ein Kuß beglücke,</l>
+            <l>Jhr schnellen Augenblicke!</l>
+            <l>Daß uns der Kuß entzücke,</l>
+            <l>Den uns die Liebe lehrt.</l>
+            <l>Jhr schnellen Augenblicke!</l>
+            <l>Macht euch des Frühlings wehrt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

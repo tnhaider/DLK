@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Furcht.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">103</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">426</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Furcht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier in diesen dunkeln Sträuchen</l>
+            <l>Will ich, ganz allein,</l>
+            <l>Meine Grillen mir verscheuchen,</l>
+            <l>Mich des Frühlings freun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Philomele soll mich lehren</l>
+            <l>Was sie singen kann;</l>
+            <l>Und ich stimm auch ihr zu Ehren</l>
+            <l>Wohl ein Liedgen an! —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch was hör ich sich bewegen?</l>
+            <l>Ah! was rauschet dort? —</l>
+            <l>Schrecklich rauscht es mir entgegen, —</l>
+            <l>Wär ich dießmal fort! —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O! ich zittre! ich vergehe,</l>
+            <l>Weh mir Armen! Weh!</l>
+            <l>Jetzund kommt es — ja, ich sehe —</l>
+            <l>Ach! — ein kleines Reh.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

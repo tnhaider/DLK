@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eine Gesundheit .</title>
+        <author>
+          <persName>
+            <surname>Karsch</surname>
+            <forename>Anna Luise</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">67</measure>
+        <measure type="tokens">38</measure>
+        <measure type="characters">269</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1792</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193016"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eine Gesundheit .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vor alten Zeiten war's Gebrauch,               </l>
+            <l>Den Namen weltberühmter Todten</l>
+            <l>Zu nennen bei den Gastgeboten.</l>
+            <l>Wir wollen die Gewohnheit auch</l>
+            <l>Bei unserm Tafelrund erneuern.</l>
+            <l>Hebt eure Becher in die Höh,</l>
+            <l>Den großen Namen hoch zu feiern:</l>
+            <l>Friedrich der Einzige &amp;#8212;             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

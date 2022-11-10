@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Luchs.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">608</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Luchs.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch der Luchs ist schön und schädlich. Er ist voller</l>
+            <l>Raubbegier;</l>
+            <l>Aber dennoch ist es uns ebenfalls ein nützlichs Thier.</l>
+            <l>Zwischen Katzen und dem Tiger scheints ein Mittelthier</l>
+            <l>zu seyn:</l>
+            <l>Seine Haut ist gelblichfleckig, auch wohl etwas grau zu-</l>
+            <l>weilen:</l>
+            <l>Sie sind aus der Maaßen fertig, ihre Speise zu ereilen,</l>
+            <l>Sehn so scharf, als sonst kein Thier. Zwischen Bergen,</l>
+            <l>Fels und Stein</l>
+            <l>Leben meist die Katzenlüchse, wenn die Kälberlüchs’ hin-</l>
+            <l>gegen</l>
+            <l>In den dickverwachs’nen Wäldern insgemein zu wohnen</l>
+            <l>pflegen.</l>
+            <l>Für die Schwerenoth und Krampf wird die Luchsklau</l>
+            <l>uns verschrieben;</l>
+            <l>Und mit ihren Bälgen werden große Handlungen ge-</l>
+            <l>trieben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

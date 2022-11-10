@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Montag.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">238</measure>
+        <measure type="tokens">156</measure>
+        <measure type="characters">956</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Montag.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„wenn ich Montags früh erwache,</l>
+            <l>Wird mir's ganz behaglich gleich;</l>
+            <l>Montag hat so eigne Sache</l>
+            <l>In dem kleinen Wochenreich.</l>
+            <l>Denn die Predigt liegt noch ferne,</l>
+            <l>Alle Sorgen scheinen leicht;</l>
+            <l>Keiner kömmt am Montag gerne,</l>
+            <l>Sey's zur Trauung, sey's zur Beicht.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„und man darf mir's nicht verdenken,</l>
+            <l>Will ich in des Amtes Frist</l>
+            <l>Dem ein freies Stündchen schenken,</l>
+            <l>Was doch auch zu loben ist.</l>
+            <l>So erwacht denn, ihr Gesellen</l>
+            <l>Meiner fleiß'gen Jugendzeit!</l>
+            <l>Wollt' in Reih' und Glied euch stellen,</l>
+            <l>Alte Bilder, eingeschneit!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ilion will ich bekriegen,</l>
+            <l>Mit Horaz auf Reisen geh'n,</l>
+            <l>Will mit Alexander siegen</l>
+            <l>Und an Memnons Säule steh'n.</l>
+            <l>Oder auch vergnügt ergründen,</l>
+            <l>Was das Vaterland gebracht,</l>
+            <l>Mich mit Kant und Wolf verbünden,</l>
+            <l>Zieh'n mit Laudon in die Schlacht.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf der Bücherleiter traben</l>
+            <l>Sieh den Pfarrer, lustentbrannt,</l>
+            <l>Sich verschanzen, sich vergraben</l>
+            <l>Unter Heft und Foliant.</l>
+            <l>Blättern sieh ihn — nicken — spüren —</l>
+            <l>Ganz versunken sitzen dann,</l>
+            <l>Daß mit einer Linie rühren</l>
+            <l>Du das Buch magst und den Mann.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

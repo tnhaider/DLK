@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">T RAURIGE   T ÄNZE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">690</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>T RAURIGE   T ÄNZE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob schwerer nebel in den w&amp;#228;ldern h&amp;#228;ngt               </l>
+            <l>Du sollst im weiterschreiten drum nicht zaudern               </l>
+            <l>Sprich mit den bleichen bildern ohne schaudern               </l>
+            <l>Schon regen sie sich sacht hinangedr&amp;#228;ngt             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn gras und furche auf dem pfad versteinen               </l>
+            <l>Geh&amp;#228;ufter reif die wipfel beugt versteh               </l>
+            <l>Zu lauschen auf der winterwinde weh               </l>
+            <l>Die mit den welken einsamkeiten weinen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So h&amp;#228;ltst du immer wach die m&amp;#252;de stirn               </l>
+            <l>Und gleitest nicht herab von steiler bösche               </l>
+            <l>Ob auch das matt erhellte ziel verlösche               </l>
+            <l>Und &amp;#252;ber dir das einzige gestirn.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

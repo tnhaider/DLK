@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Arbeit für Doris.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">81</measure>
+        <measure type="characters">467</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Arbeit für Doris.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebstes M&amp;#228;dchen, sei nicht m&amp;#252;ßig!</l>
+            <l>Fürchtest du dich denn für Arbeit?</l>
+            <l>Laß dich doch dazu nicht treiben,</l>
+            <l>Denn wir sind zur Müh erschaffen!</l>
+            <l>Komm, du must nicht müßig gehen,</l>
+            <l>Komm, du must für Arbeit schwitzen!</l>
+            <l>Liebstes Mädchen, sei nicht müßig!</l>
+            <l>Liebstes Mädchen, gib mir Küsse!</l>
+            <l>Gib mir hundert, gib mir tausend,</l>
+            <l>Gib mir neun und neunzig tausend,</l>
+            <l>Gib mir volle hundert tausend!</l>
+            <l>Küsse, bis ich nicht mehr zäle,</l>
+            <l>Küsse heute, küsse morgen;</l>
+            <l>Denn du solst nichts thun als küssen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

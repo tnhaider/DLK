@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Diß ist das wunder-bild des theuren Danckelmann.</title>
+        <author>
+          <persName>
+            <surname>Neukirch</surname>
+            <forename>Benjamin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">612</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Diß ist das wunder-bild des theuren Danckelmann.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diß ist das wunder-bild des theuren Danckelmann.</l>
+            <l>Hoff/ Musen/ land und volck fieng einen wett-streit an.</l>
+            <l>Und jeder sehnte sich nach ihm und seinen gaben.</l>
+            <l>Drum trat Apollo selbst als richter auff/ und sprach:</l>
+            <l>Es soll ihn Friederich dem leib und geiste nach/</l>
+            <l>Die Musen in der schrifft/ das volck im kupffer haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diß ist das wunder-bild des theuren Danckelmann.</l>
+            <l>Hoff/ Musen/ land und volck fieng einen wett-streit an.</l>
+            <l>Und jeder sehnte sich nach ihm und seinen gaben.</l>
+            <l>Drum trat Apollo selbst als richter auff/ und sprach:</l>
+            <l>Es soll ihn Friederich dem leib und geiste nach/</l>
+            <l>Die Musen in der schrifft/ das volck im kupffer haben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

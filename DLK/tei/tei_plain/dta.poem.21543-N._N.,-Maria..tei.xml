@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Maria.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-11 2-9</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">812</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Maria.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach Monden stand ich wieder vor dem Hause,</l>
+            <l>Das einst dich, süße Huldgestalt, umfing.</l>
+            <l>Wie war doch Alles anders wie vordem,</l>
+            <l>Tiefbange Stille herrschte rings umher,</l>
+            <l>Die Bäume standen schläfrig, müde da,</l>
+            <l>Der Springquell, der uns einst das süße Lied,</l>
+            <l>Das Zauberlied von Glück und Liebe sang,</l>
+            <l>Er rauschte nicht; und stumm und traurig hockte</l>
+            <l>Gott Amor selbst, der Schelm, auf seinem Stein.</l>
+            <l>Todt lag der Park, todt Haus und todt der Hof,</l>
+            <l>Denn ach die Seele, du, du warst entfloh’n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lang’ lehnt ich an des Gartenthores Gitter</l>
+            <l>Und starrte auf die Stätte meines todten,</l>
+            <l>Verlor’nen Glückes; auf die Erde glitten</l>
+            <l>Mir Hut und Stab; der Nachtwind flatterte</l>
+            <l>Mir durch das Haar und kühlte das vom Schmerze,</l>
+            <l>Von tiefem Weh durchzuckte, heiße Hirn.</l>
+            <l>Dann wand’ ich trauernd meinen Fuß und ging,</l>
+            <l>In Thränen dacht’ ich dein, entschlafene</l>
+            <l>Maria . . . .</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zu spät !</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">580</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zu spät !</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon hat der Lenz verblüht und ausgesungen,</l>
+            <l>Die holden Träume, seligen Gefühle</l>
+            <l>Erstarben in der bangen Sommerschwüle,</l>
+            <l>Mit der das Thatenleben angedrungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„das Roß gespornt! die Wehre frisch geschwungen!“</l>
+            <l>So heißt es nun im heißen Kampfgewühle,</l>
+            <l>Bis mir der Sabbath fächelt seine Kühle,</l>
+            <l>Wann müden mich des Todes Arm umschlungen. —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir war's versagt, in jenen Blüthentagen,</l>
+            <l>O Mädchen meiner Sehnsucht, dich zu finden‚</l>
+            <l>Es suchten dich vergebens meine Klagen! —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch taucht mir hier und dort aus Kampfeswogen</l>
+            <l>Dein Bild herauf, doch muß es wieder schwinden‚</l>
+            <l>Bald hat die Brandung es hinabgezogen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

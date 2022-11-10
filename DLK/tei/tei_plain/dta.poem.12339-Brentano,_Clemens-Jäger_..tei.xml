@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Jäger .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">134</measure>
+        <measure type="characters">734</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Jäger .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie kommts, daß du so traurig bist,               </l>
+            <l>Und gar nicht einmal lachst? :,:</l>
+            <l>Ich seh dir's an den Augen an,</l>
+            <l>Daß du geweinet hast.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn ich auch geweinet hab,</l>
+            <l>Was geht es dich denn an? :,:</l>
+            <l>Ich wein', daß du es weißt, um Freud,</l>
+            <l>Die mir nicht werden kann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich in Freuden leben will,</l>
+            <l>Geh' ich in grünen Wald, :,:</l>
+            <l>Vergeht mir all mein Traurigkeit,</l>
+            <l>Und leb wie's mir gefällt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Schatz ein wackrer Jäger ist,</l>
+            <l>Er trägt ein grünes Kleid, :,:</l>
+            <l>Er hat ein zart roth Mündelein,</l>
+            <l>Das mir mein Herz erfreut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Schatz ein holde Schäfrin ist,</l>
+            <l>Sie trägt ein weißes Kleid, :,:</l>
+            <l>Sie hat zwei zarte Brüstelein,</l>
+            <l>Die mir mein Herz erfreun.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So bin ich's wohl, so bist du's wohl</l>
+            <l>Feins Lieb, schöns Engelskind,</l>
+            <l>So ist uns allen beiden wohl,</l>
+            <l>Da wir beisammen sind.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

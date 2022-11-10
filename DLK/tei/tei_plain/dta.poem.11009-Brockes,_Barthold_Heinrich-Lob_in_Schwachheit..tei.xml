@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lob in Schwachheit.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">94</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">391</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lob in Schwachheit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herr! wunderbar sind deine Werke;</l>
+            <l>Ich selbst, indem ich sie bemerke,</l>
+            <l>Da ich dein Werk; bin wunderbar.</l>
+            <l>Ob ich nun gleich fast nichts ergründe;</l>
+            <l>Gnug, daß ich einer Gottheit Kraft,</l>
+            <l>Die alles im Erhalten schafft,</l>
+            <l>Und, im Geschöpf, den Schöpfer finde.</l>
+            <l>Der Fund geschicht in Schwachheit zwar,</l>
+            <l>Ich kann ihn hier nicht anders sehen;</l>
+            <l>Doch ist auch dieß nicht minder wahr:</l>
+            <l>Es kann auch Schwachheit Gott erhöhen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

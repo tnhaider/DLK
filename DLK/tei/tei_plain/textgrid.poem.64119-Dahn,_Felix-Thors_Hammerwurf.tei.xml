@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Thors Hammerwurf</title>
+        <author>
+          <persName>
+            <surname>Dahn</surname>
+            <forename>Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">824</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1873</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Thors Hammerwurf</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thor stand am Mitternachtende der Welt,</l>
+            <l>Die Streitaxt warf er, die schwere:</l>
+            <l>»so weit der sausende Hammer fällt,</l>
+            <l>Sind mein das Land und die Meere!« –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und es flog der Hammer aus seiner Hand,</l>
+            <l>Flog über die ganze Erde,</l>
+            <l>Fiel nieder an fernsten Südens Rand,</l>
+            <l>Daß alles sein eigen werde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seitdem ist's freudig Germanenrecht,</l>
+            <l>Mit dem Hammer Land zu erwerben:</l>
+            <l>Wir sind von des Hammergottes Geschlecht</l>
+            <l>Und wollen sein Weltreich erben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Thor stand am Mitternachtende der Welt,</l>
+            <l>Die Streitaxt warf er, die schwere:</l>
+            <l>»so weit der sausende Hammer fällt,</l>
+            <l>Sind mein das Land und die Meere!« –</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und es flog der Hammer aus seiner Hand,</l>
+            <l>Flog über die ganze Erde,</l>
+            <l>Fiel nieder an fernsten Südens Rand,</l>
+            <l>Daß alles sein eigen werde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seitdem ist's freudig Germanenrecht,</l>
+            <l>Mit dem Hammer Land zu erwerben:</l>
+            <l>Wir sind von des Hammergottes Geschlecht</l>
+            <l>Und wollen sein Weltreich erben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

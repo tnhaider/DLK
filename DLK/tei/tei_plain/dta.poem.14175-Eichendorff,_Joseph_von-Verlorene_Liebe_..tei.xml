@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verlorene Liebe .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">84</measure>
+        <measure type="tokens">61</measure>
+        <measure type="characters">337</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verlorene Liebe .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Locken hatte sie wie deine,</l>
+            <l>Bleiche Wangen, Lippen roth —</l>
+            <l>Ach, du bist ja doch nicht meine,</l>
+            <l>Und </l>
+            <l>Hättest du nur nicht gesprochen</l>
+            <l>Und so frech geblickt nach mir,</l>
+            <l>Das hat ganz den Traum zerbrochen</l>
+            <l>Und nun grauet mir vor dir.</l>
+            <l>Da nimm Geld, kauf Putz und Flimmern,</l>
+            <l>Fort und lache nicht so wild!</l>
+            <l>O ich möchte dich zertrümmern,</l>
+            <l>Schönes, lügenhaftes Bild!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

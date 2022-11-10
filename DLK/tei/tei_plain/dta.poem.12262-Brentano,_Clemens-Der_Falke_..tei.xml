@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Falke .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">185</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">765</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Falke .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wär ich ein wilder Falke,               </l>
+            <l>Ich wollt mich schwingen auf,</l>
+            <l>Und wollt mich niederlassen</l>
+            <l>Vor meines Grafen Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wollt mit starken Flügel,</l>
+            <l>Da schlagen an Liebchens Thür,</l>
+            <l>Daß springen sollt der Riegel,</l>
+            <l>Mein Liebchen trät herfür.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„hörst du die Schlüssel klingen,</l>
+            <l>„dein Mutter ist nicht weit,</l>
+            <l>„so zieh mit mir von hinnen</l>
+            <l>„wohl über die Heide breit.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wollt in ihrem Nacken</l>
+            <l>Die goldnen Flechten schön</l>
+            <l>Mit wilden Schnabel packen,</l>
+            <l>Sie tragen zu dieser Höhn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja wohl zu dieser Höhen,</l>
+            <l>Hier wär ein schönes Nest,</l>
+            <l>Wie ist mir doch geschehen,</l>
+            <l>Daß ich gesetzet fest.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja trüg ich sie im Fluge,</l>
+            <l>Mich schöß der Graf nicht todt,</l>
+            <l>Sein Töchterlein zum Fluche,</l>
+            <l>Das fiele sich ja todt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So aber sind die Schwingen</l>
+            <l>Mir allesamt gelähmt,</l>
+            <l>Wie hell ich ihr auch singe,</l>
+            <l>Mein Liebchen sich doch schämt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

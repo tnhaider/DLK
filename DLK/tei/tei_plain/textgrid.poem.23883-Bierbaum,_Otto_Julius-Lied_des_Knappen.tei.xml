@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lied des Knappen</title>
+        <author>
+          <persName>
+            <surname>Bierbaum</surname>
+            <forename>Otto Julius</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">162</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">638</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1887</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lied des Knappen</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist mein schlankes, blankes,</l>
+            <l>Mein gutes grades Schwert,</l>
+            <l>Das halt ich lieb wie eine Braut</l>
+            <l>Und über alles wert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das soll mir dich gewinnen,</l>
+            <l>Du Garten dieser Welt,</l>
+            <l>In dem die rote Blume Glück</l>
+            <l>Den Kelch mir offen hält.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das soll mir dich gewinnen,</l>
+            <l>Die ganz im Glanze steht,</l>
+            <l>Du Blanke, Schlanke, Schöne, der</l>
+            <l>Mein Stolz entgegengeht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist mein schlankes, blankes,</l>
+            <l>Mein gutes grades Schwert,</l>
+            <l>Das halt ich lieb wie eine Braut</l>
+            <l>Und über alles wert.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das soll mir dich gewinnen,</l>
+            <l>Du Garten dieser Welt,</l>
+            <l>In dem die rote Blume Glück</l>
+            <l>Den Kelch mir offen hält.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das soll mir dich gewinnen,</l>
+            <l>Die ganz im Glanze steht,</l>
+            <l>Du Blanke, Schlanke, Schöne, der</l>
+            <l>Mein Stolz entgegengeht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

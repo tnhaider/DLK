@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Wir müssen auseinander, Kind,</title>
+        <author>
+          <persName>
+            <surname>Christen</surname>
+            <forename>Ada</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">514</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1870</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Wir müssen auseinander, Kind,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir müssen auseinander, Kind,</l>
+            <l>Mich drängt es in die Fluth hinaus.</l>
+            <l>Still wie Dein Wesen war Dein Haus,</l>
+            <l>Ich sehne mich nach Sturm und Wind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bekränze doch Dein Flammenhaar,</l>
+            <l>Sing' einem Anderen Dein Lied;</l>
+            <l>Der heute ruhig von Dir schied,</l>
+            <l>Ging wie er kam, der Liebe bar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir müssen auseinander, Kind,</l>
+            <l>Mich drängt es in die Fluth hinaus.</l>
+            <l>Still wie Dein Wesen war Dein Haus,</l>
+            <l>Ich sehne mich nach Sturm und Wind.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bekränze doch Dein Flammenhaar,</l>
+            <l>Sing' einem Anderen Dein Lied;</l>
+            <l>Der heute ruhig von Dir schied,</l>
+            <l>Ging wie er kam, der Liebe bar.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Trinker.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">25</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5 5-5</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">798</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Trinker.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit Narren sollt ich mich erfreun?</l>
+            <l>Jhr Wein schmeckt ekelhaft gemein,</l>
+            <l>Wie Wasser, das die Musen scheuchet;</l>
+            <l>Und wär es auch der beste Wein,</l>
+            <l>Der an der Mosel bleichet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kann ich mit Klugen mich erfreun;</l>
+            <l>So schmeckt auch Wasser ungemein</l>
+            <l>Und gleich burgundischem Lyäen.</l>
+            <l>Doch, Freunde! seht, wir haben Wein!</l>
+            <l>Wer wollte Wein verschmähen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es müsse kühne Völlerey</l>
+            <l>Nicht, unter bäurischem Geschrey,</l>
+            <l>Mit ihrem Thyrsus hier gebiethen!</l>
+            <l>O Bacchus! gehe still vorbey,</l>
+            <l>Und rase bey den Scythen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie fürcht' ich deinen trunknen Blick!</l>
+            <l>Wie droht manch fliegend Felsenstück!</l>
+            <l>Seh ich die wüthende Mänade?</l>
+            <l>Welch rauher Jubel brüllt zurück</l>
+            <l>Vom Thrazischen Gestade!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Trinkt nicht, von wilder Lust entbrannt,</l>
+            <l>Bis an des Rausches welker Hand</l>
+            <l>Der blinde Bacchus taumlend schleichet!</l>
+            <l>Sonst flieh ich schneller, als der Sand</l>
+            <l>Vom Wirbelwind entweichet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

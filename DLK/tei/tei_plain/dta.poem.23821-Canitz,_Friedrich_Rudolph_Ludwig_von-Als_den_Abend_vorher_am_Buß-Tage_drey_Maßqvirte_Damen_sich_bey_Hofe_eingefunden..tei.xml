@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Als den Abend vorher am Buß-Tage  
+ drey Maßqvirte Damen sich bey Hofe  
+ eingefunden.</title>
+        <author>
+          <persName>
+            <surname>Canitz</surname>
+            <forename>Friedrich Rudolph Ludwig von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">152</measure>
+        <measure type="tokens">103</measure>
+        <measure type="characters">589</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1700</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197532"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Als den Abend vorher am Buß-Tage  
+ drey Maßqvirte Damen sich bey Hofe  
+ eingefunden.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als gestern unsre Stadt/ wie ehmahls Ninive/</l>
+            <l>Im Sack und Asche lag/ und ihre Fasten hielte/</l>
+            <l>Geschah’ es bey der Nacht/ daß zwischen Ach und Weh/</l>
+            <l>Das schon betrübte Volck ein neues Schrecken fühlte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drey Maßqven liessen sich in fremdem Zierrath sehn/</l>
+            <l>Ich weiß nicht ob sie uns vielleicht zum Trost erschienẽ.</l>
+            <l>Sie sahen denen gleich/ die hin zum Paris gehn/</l>
+            <l>Durch seinen Richter-Spruch den Apffel zu verdienen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Propheteten die ihr sonst die Geister prüfen könnt/</l>
+            <l>Und ob es solche sind die GOtt den HErren loben/</l>
+            <l>Ihr die ihr jedes Ding bey seinen Nahmen nennt</l>
+            <l>Sagt kamen diese drey von unten oder oben!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der 142. Psalm.</title>
+        <author>
+          <persName>
+            <surname>Canitz</surname>
+            <forename>Friedrich Rudolph Ludwig von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">173</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">708</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1700</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197532"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der 142. Psalm.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich schrey/ O HErr/ aus Ungedult und Schmertzen/</l>
+            <l>Ich flehe dich nur an/ und schütte von dem Hertzen</l>
+            <l>Was mich so hefftig drückt/ in deinen Vater Schooß/</l>
+            <l>Du hast mich ja wol ehr gemacht von Aengsten loß.</l>
+            <l>Itzt thu ich keinen Schritt so find ich neue Stricke/</l>
+            <l>Beruf ich mich auf Recht/ so stößt man mich zurücke.</l>
+            <l>Die Flucht ist mir gesperrt. Die Seele leidet Noth/</l>
+            <l>Du bist mein Lebens-Theil/ und ich bin gleichsam todt.</l>
+            <l>Ich traue ja auf dich/ wie kanst du mich vergessen/</l>
+            <l>Herr höre mein Geschrey/ die Feinde die mich pressen/</l>
+            <l>Sind mir sonst gar zu starck. Reiß doch das Band</l>
+            <l>Das meine Seele spührt/ so rühm ich deine Treu.</l>
+            <l>Und thust du mir itzt wohl/ so werden alle Frommen/</l>
+            <l>An mir ein Zeichen sehn und freudig zu dir kommen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

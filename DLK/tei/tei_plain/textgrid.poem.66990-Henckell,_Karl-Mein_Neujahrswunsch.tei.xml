@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mein Neujahrswunsch</title>
+        <author>
+          <persName>
+            <surname>Henckell</surname>
+            <forename>Karl</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">182</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">692</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1896</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mein Neujahrswunsch</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich erwünsche vom neuen Jahre?</l>
+            <l>Daß ich die Wurzel der Kraft mir wahre,</l>
+            <l>Festzustehen im Grund der Erden,</l>
+            <l>Nicht zu lockern und morsch zu werden,</l>
+            <l>Mit den frisch ergrünenden Blättern</l>
+            <l>Wieder zu trotzen Wind und Wettern,</l>
+            <l>Mag es ächzen und mag es krachen,</l>
+            <l>Stark zu rauschen, ruhig zu lachen,</l>
+            <l>So in Regen wie Sonnenschein</l>
+            <l>Freunden ein Baum des Lebens zu sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich erwünsche vom neuen Jahre?</l>
+            <l>Daß ich die Wurzel der Kraft mir wahre,</l>
+            <l>Festzustehen im Grund der Erden,</l>
+            <l>Nicht zu lockern und morsch zu werden,</l>
+            <l>Mit den frisch ergrünenden Blättern</l>
+            <l>Wieder zu trotzen Wind und Wettern,</l>
+            <l>Mag es ächzen und mag es krachen,</l>
+            <l>Stark zu rauschen, ruhig zu lachen,</l>
+            <l>So in Regen wie Sonnenschein</l>
+            <l>Freunden ein Baum des Lebens zu sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

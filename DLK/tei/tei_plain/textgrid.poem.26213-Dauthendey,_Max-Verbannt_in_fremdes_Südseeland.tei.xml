@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verbannt in fremdes Südseeland</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">592</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verbannt in fremdes Südseeland</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verbannt in fremdes Südseeland,</l>
+            <l>Muß ich von ferne schauen,</l>
+            <l>Wie täglich sich die Leichenberge Europas höher bauen,</l>
+            <l>Wie täglich Heldentaten, große, tausendfach geschehen,</l>
+            <l>Wie kleine Bäche hochgefüllt mit Blut jetzt gehen,</l>
+            <l>Und wie vorm Tränenfall der Trauernden daheim</l>
+            <l>Kein Himmelsblau bald mehr zu sehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verbannt in fremdes Südseeland,</l>
+            <l>Muß ich von ferne schauen,</l>
+            <l>Wie täglich sich die Leichenberge Europas höher bauen,</l>
+            <l>Wie täglich Heldentaten, große, tausendfach geschehen,</l>
+            <l>Wie kleine Bäche hochgefüllt mit Blut jetzt gehen,</l>
+            <l>Und wie vorm Tränenfall der Trauernden daheim</l>
+            <l>Kein Himmelsblau bald mehr zu sehen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

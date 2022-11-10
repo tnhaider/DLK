@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Graue.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">320</measure>
+        <measure type="tokens">228</measure>
+        <measure type="characters">1317</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Graue.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es war um die Septemberzeit,</l>
+            <l>Als, schürend des Kamines Brand,</l>
+            <l>Gebückt, in regenfeuchtem Kleid,</l>
+            <l>Der Hausherr in der Halle stand,</l>
+            <l>Er und die Gäste, All' im Rauch;</l>
+            <l>Van Neelen, Redel, Verney, Dahm,</l>
+            <l>Und dann der blonde Waller auch,</l>
+            <l>Der eben erst aus Smyrna kam.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Schlote schnob der Wind, es goß</l>
+            <l>Der Regen sprudelnd sich vom Dach,</l>
+            <l>Und wenn am Brand ein Flämmchen schoß,</l>
+            <l>Schien doppelt öde das Gemach.</l>
+            <l>Die Gäste waren all' zur Hand,</l>
+            <l>Erleichternd ihres Wirthes Müh';</l>
+            <l>Van Neelen nur am Fenster stand,</l>
+            <l>Und schimpfte auf die Landparthie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch nach und nach mag's besser gehn,</l>
+            <l>Schon hat der Wind die Glut gefacht,</l>
+            <l>Den Regen läßt man draußen stehn,</l>
+            <l>Champagnerflaschen sind gebracht.</l>
+            <l>Die Leuchter hatten wenig Werth,</l>
+            <l>Es gieng wie beim Studentenfest:</l>
+            <l>Sobald die Flasche ist geleert,</l>
+            <l>Wird eine Kerze drauf gepreßt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Je mehr es fehlt, so mehr man lacht,</l>
+            <l>Der Wein ist heiß, die Kost gewählt,</l>
+            <l>Manch' derbes Späßchen wird gemacht,</l>
+            <l>Und mancher feine Streich erzählt.</l>
+            <l>Zuletzt von Wein und Reden glüh,</l>
+            <l>Rückt seinen Stuhl der Herr vom Haus:</l>
+            <l>„ich lud Euch zu 'ner Landparthie,</l>
+            <l>Es ward 'ne Wasserfahrt daraus.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„doch da die allerschönste Fracht</l>
+            <l>Am Ende nach dem Hafen schifft,</l>
+            <l>So, meine Herren, gute Nacht!</l>
+            <l>Und nehmt vorlieb, wie es sich trifft.“</l>
+            <l>Da lachend nach den Flaschen greift</l>
+            <l>Ein Jeder. — Thüren auf und zu. —</l>
+            <l>Und Waller, noch im Gehen, streift</l>
+            <l>Aus seinem Frack den Ivanhoe.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

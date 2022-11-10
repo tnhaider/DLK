@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trinklied.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">542</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trinklied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Stöpsel weg! und schenket ein!</l>
+            <l>Schenkt ein, daß unser Herz erglühe,</l>
+            <l>Und wie die Blum' am Sonnenschein,</l>
+            <l>So an der Glut des Weins erblühe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Stöpsel weg! dann wird es klar:</l>
+            <l>Was sich in einem Nu gefunden,</l>
+            <l>Das ist sogleich für jedes Jahr,</l>
+            <l>Ja für die Ewigkeit verbunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So recht! jetzt werft den Stöpsel fort!</l>
+            <l>Ei, der verfluchte Kerkermeister,</l>
+            <l>Der wollt' uns zwingherrn Wein und Wort,</l>
+            <l>Und trennen alle guten Geister!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Stöpsel war Philisterei,</l>
+            <l>Die uns nichts Gutes wollte gönnen —</l>
+            <l>Die Flasch' und unser Herz ist frei,</l>
+            <l>Und wir, wir zeigen was wir können.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

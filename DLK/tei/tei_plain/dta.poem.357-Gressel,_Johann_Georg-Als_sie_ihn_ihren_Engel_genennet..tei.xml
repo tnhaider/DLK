@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Als sie ihn ihren Engel genennet.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">585</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Als sie ihn ihren Engel genennet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich/ Lysette, soll dein lieber Engel seyn</l>
+            <l>So habe ich zwar nichts dagegen einzuwenden/</l>
+            <l>Allein! verzeihe doch/ mir fält noch etwas ein;</l>
+            <l>Kan auch ein Engel wol an anderm Ort und Enden</l>
+            <l>Als in den Himmel seyn? ich hör/ dein Hertze spricht/</l>
+            <l>Nein! wer ein Engelist/ muß einen Himmel haben/</l>
+            <l>Wohlan! dein eigner Schluß ist wider dich gericht/</l>
+            <l>Mir fehlt das Paradies/ mich will kein Himmel laben.</l>
+            <l>Doch du kanst/ so du wilt/ mir bald ein Paradies/</l>
+            <l>Das meine Wohnung sey/ und lieblich ist gewehren.</l>
+            <l>Du bist der Ort/ und must/ glaub’s nur mir gantz gewiß/</l>
+            <l>Soll ich dein Engel seyn/ als Himmel zugehören.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

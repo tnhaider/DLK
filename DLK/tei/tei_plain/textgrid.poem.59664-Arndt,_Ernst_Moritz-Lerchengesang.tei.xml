@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lerchengesang</title>
+        <author>
+          <persName>
+            <surname>Arndt</surname>
+            <forename>Ernst Moritz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">216</measure>
+        <measure type="tokens">150</measure>
+        <measure type="characters">836</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lerchengesang</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du noch einen Ton, du altes Herz,</l>
+            <l>So spann' ihn auf, und laß es klingen,</l>
+            <l>Laß deine Liebe, deinen Schmerz</l>
+            <l>Ihr volles Leid den Sternen singen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was hoch empor schlug, hallet tief zurück,</l>
+            <l>Es hallt in deinem Busen wieder,</l>
+            <l>Es weiß kein Lied vom Erdenglück,</l>
+            <l>Von Engelwonnen singt es Lieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Empor, du Lerche, zur gestirnten Höh'!</l>
+            <l>Was flatterst du im Erdgewimmel?</l>
+            <l>Dort klingt ein Echo für dein Weh:</l>
+            <l>Du bist vom Himmel, suche Himmel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du noch einen Ton, du altes Herz,</l>
+            <l>So spann' ihn auf, und laß es klingen,</l>
+            <l>Laß deine Liebe, deinen Schmerz</l>
+            <l>Ihr volles Leid den Sternen singen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was hoch empor schlug, hallet tief zurück,</l>
+            <l>Es hallt in deinem Busen wieder,</l>
+            <l>Es weiß kein Lied vom Erdenglück,</l>
+            <l>Von Engelwonnen singt es Lieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Empor, du Lerche, zur gestirnten Höh'!</l>
+            <l>Was flatterst du im Erdgewimmel?</l>
+            <l>Dort klingt ein Echo für dein Weh:</l>
+            <l>Du bist vom Himmel, suche Himmel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

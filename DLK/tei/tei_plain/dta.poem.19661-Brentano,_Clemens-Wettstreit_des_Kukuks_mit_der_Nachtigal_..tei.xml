@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wettstreit des Kukuks mit der Nachtigal .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">232</measure>
+        <measure type="tokens">171</measure>
+        <measure type="characters">959</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wettstreit des Kukuks mit der Nachtigal .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einsmals in einem tiefen Thal               </l>
+            <l>Der Kukuk und die Nachtigal</l>
+            <l>Thäten ein Wett anschlagen,</l>
+            <l>Zu singen um das Meisterstück:</l>
+            <l>„gewinn es Kunst, gewinn es Glück,</l>
+            <l>„dank soll er davon tragen.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Kukuk sprach: So dirs gefällt,</l>
+            <l>Ich hab zur Sach ein Richter wählt,</l>
+            <l>Und thät den Esel nennen,</l>
+            <l>Denn weil er hat zwey Ohren groß,</l>
+            <l>So kann er hören desto bas,</l>
+            <l>Und was recht ist, erkennen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie flogen vor den Richter bald,</l>
+            <l>Wie ihm die Sache ward erzählt,</l>
+            <l>Schuf er, sie sollten singen:</l>
+            <l>Die Nachtigal sang lieblich aus,</l>
+            <l>Der Esel sprach, du machst mirs kraus,</l>
+            <l>Ich kanns in Kopf nicht bringen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Kukuk drauf anfing geschwind</l>
+            <l>Kukuk! sein Sang durch Terz, Quart, Quint</l>
+            <l>Und thät die Noten brechen;</l>
+            <l>Er lacht auch drein nach seiner Art,</l>
+            <l>Dem Esel gefiels, er sagt, nun wart,</l>
+            <l>Ein Urtheil will ich sprechen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl sungen hast du Nachtigal,</l>
+            <l>Aber Kukuk singst gut Choral,</l>
+            <l>Und hältst den Takt fein innen;</l>
+            <l>Das sprech ich nach mein hohen Verstand,</l>
+            <l>Und kostets gleich ein ganzes Land,</l>
+            <l>So laß ich dichs gewinnen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

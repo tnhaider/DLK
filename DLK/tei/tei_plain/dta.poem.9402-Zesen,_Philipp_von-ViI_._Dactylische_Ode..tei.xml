@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViI .  
+  Dactylische Ode.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">84</measure>
+        <measure type="tokens">47</measure>
+        <measure type="characters">287</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViI .  
+  Dactylische Ode.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heute sol Freude die Stunde verjagen/</l>
+            <l>Heute sol Freude regieren den Tag/</l>
+            <l>Freude so sonsten in Traurigkeit lag/</l>
+            <l>Freude sol heute verjagen das Klagen/</l>
+            <l>Klagen und zagen sich endet hierbey:</l>
+            <l>Heute sol Phöbus und alle Göttinnen</l>
+            <l>Oden und schöne Gesänge beginnen/</l>
+            <l>Lauten und Geigen erklingen auch frey!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

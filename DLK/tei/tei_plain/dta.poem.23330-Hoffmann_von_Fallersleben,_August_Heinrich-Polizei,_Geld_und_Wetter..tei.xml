@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Polizei, Geld und Wetter.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">718</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Polizei, Geld und Wetter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freier Mensch mit göttlichen Entwürfen,</l>
+            <l>Voll von hohen himmlischen Ideen,</l>
+            <l>Aus dem Born der Schöpfung kannst du schlürfen,</l>
+            <l>Und ins Angesicht der Gottheit sehn.</l>
+            <l>Aber ohne Paß, da bist du kaum ein Thier,</l>
+            <l>Freier Mensch, es tauscht kein Hund mit dir.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freier Mensch voll hoher Gottesgaben,</l>
+            <l>Kannst du alles hören, alles sehn,</l>
+            <l>Kannst genießen alles, alles haben,</l>
+            <l>Darfst nicht unbefriedigt weiter gehn.</l>
+            <l>Aber ohne Geld, du giebst es selber zu,</l>
+            <l>Freier Mensch, ein Schaf ist mehr als du.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Freier Mensch, setz auf die Pudelmütze,</l>
+            <l>Daß dich Kopfweh nicht und Zahnschmerz plagt;</l>
+            <l>Nimm den Schirm, er ist dir heute nütze,</l>
+            <l>Weil das Wetter doch nach dir nicht fragt;</l>
+            <l>Denn das Wetter ist wie Geld und Polizei,</l>
+            <l>Freier Mensch, leb wohl! und werd' erst — frei!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

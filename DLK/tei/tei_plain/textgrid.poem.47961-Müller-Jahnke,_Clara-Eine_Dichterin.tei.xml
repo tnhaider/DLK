@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eine Dichterin</title>
+        <author>
+          <persName>
+            <surname>Müller-Jahnke</surname>
+            <forename>Clara</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">270</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">1046</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eine Dichterin</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>An Meeresstrand bist du geboren,</l>
+            <l>umrauscht von seinem frischen Wind,</l>
+            <l>erblühtest du, der Welt verloren,</l>
+            <l>der Freiheit unentwegtes Kind!</l>
+            <l>Dein Wiegenlied schon sang der Wogen</l>
+            <l>geheimnisvolle Melodie –</l>
+            <l>so ward, in ihrem Hauch erzogen,</l>
+            <l>dein Traum und Sinnen Poesie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun wogt die See durch deine Lieder,</l>
+            <l>ein unergründlich tiefes Meer:</l>
+            <l>Die Welle flieht und kehret wieder</l>
+            <l>und glitzernd sprüht der Schaum umher,</l>
+            <l>erbrausend schlägt sie auf am Strande,</l>
+            <l>doch nur des Kenners Blick allein</l>
+            <l>erspäht im feuchten Ufersande</l>
+            <l>der Perle Glanz im Muschelschrein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An Meeresstrand bist du geboren,</l>
+            <l>umrauscht von seinem frischen Wind,</l>
+            <l>erblühtest du, der Welt verloren,</l>
+            <l>der Freiheit unentwegtes Kind!</l>
+            <l>Dein Wiegenlied schon sang der Wogen</l>
+            <l>geheimnisvolle Melodie –</l>
+            <l>so ward, in ihrem Hauch erzogen,</l>
+            <l>dein Traum und Sinnen Poesie.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun wogt die See durch deine Lieder,</l>
+            <l>ein unergründlich tiefes Meer:</l>
+            <l>Die Welle flieht und kehret wieder</l>
+            <l>und glitzernd sprüht der Schaum umher,</l>
+            <l>erbrausend schlägt sie auf am Strande,</l>
+            <l>doch nur des Kenners Blick allein</l>
+            <l>erspäht im feuchten Ufersande</l>
+            <l>der Perle Glanz im Muschelschrein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

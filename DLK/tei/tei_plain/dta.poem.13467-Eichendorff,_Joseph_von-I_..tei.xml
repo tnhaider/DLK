@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">I .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">121</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">482</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>I .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wandern lieb' ich für mein Leben,</l>
+            <l>Lebe eben wie ich kann,</l>
+            <l>Wollt' ich mir auch Mühe geben,</l>
+            <l>Paßt' es mir doch gar nicht an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schöne alte Lieder weiß ich,</l>
+            <l>In der Kälte, ohne Schuh'</l>
+            <l>Draußen in die Saiten reiß' ich,</l>
+            <l>Weiß nicht, wo ich Abend's ruh'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Manche Schöne macht wohl Augen,</l>
+            <l>Meinet, ich gefiel' ihr sehr,</l>
+            <l>Wenn ich nur was wollte taugen,</l>
+            <l>So ein armer Lump nicht wär'. —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mag dir Gott ein'n Mann bescheeren,</l>
+            <l>Wohl mit Haus und Hof versehn!</l>
+            <l>Wenn wir zwei zusammen wären,</l>
+            <l>Möcht' mein Singen mir vergehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

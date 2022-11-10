@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Rangstreit.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">98</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">406</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Rangstreit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wilst du? sprach mein M&amp;#228;dchen.</l>
+            <l>Ich sprach: Ich will dich küssen.</l>
+            <l>Da that das Mädchen böse,</l>
+            <l>Und sprach: Laß mich erst küssen!</l>
+            <l>Da zankten wir uns beide.</l>
+            <l>Da nannt es mich: Du Falscher!</l>
+            <l>Und sprach: Ich liebe stärker,</l>
+            <l>Drum muß ich dich erst küssen.</l>
+            <l>Da hört ich auf zu zanken.</l>
+            <l>Da küßte mich mein Mädchen.</l>
+            <l>Da merkt ich, als es küßte,</l>
+            <l>Es sei kein Rang im Küssen;</l>
+            <l>Denn, wenn sich zweene küssen,</l>
+            <l>Ist ieglicher der Erste.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

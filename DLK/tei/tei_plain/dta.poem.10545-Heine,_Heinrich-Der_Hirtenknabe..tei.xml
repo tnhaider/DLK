@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Hirtenknabe.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">207</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">790</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Hirtenknabe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>König ist der Hirtenknabe,</l>
+            <l>Grüner Hügel ist sein Thron,</l>
+            <l>Ueber seinem Haupt die Sonne</l>
+            <l>Ist die große, goldne Kron'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihm zu Füßen liegen Schafe,</l>
+            <l>Weiche Schmeichler, rothbekreuzt;</l>
+            <l>Kavaliere sind die Kälber,</l>
+            <l>Und sie wandeln stolzgespreizt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hofschauspieler sind die Böcklein,</l>
+            <l>Und die Vögel </l>
+            <l>Mit den Flöten, mit den Glöcklein,</l>
+            <l>Sind die Kammermusizi.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und das klingt und singt so lieblich,</l>
+            <l>Und so lieblich rauschen drein</l>
+            <l>Wasserfall und Tannenbäume,</l>
+            <l>Und der König schlummert ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unterdessen muß regieren</l>
+            <l>Der Minister, jener Hund,</l>
+            <l>Dessen knurriges Gebelle</l>
+            <l>Wiederhallet in der Rund'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schläfrig lallt der junge König:</l>
+            <l>„das Regieren ist so schwer,</l>
+            <l>Ach, ich wollt', daß ich zu Hause</l>
+            <l>Schon bei meiner Kön'gin wär'!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„in den Armen meiner Kön'gin</l>
+            <l>Ruht mein Königshaupt so weich,</l>
+            <l>Und in ihren lieben Augen</l>
+            <l>Liegt mein unermeßlich Reich!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

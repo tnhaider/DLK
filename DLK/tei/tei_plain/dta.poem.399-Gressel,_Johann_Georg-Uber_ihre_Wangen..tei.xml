@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Uber ihre Wangen.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">103</measure>
+        <measure type="characters">604</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Uber ihre Wangen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Rosen-Wangen sind recht unvergleichlich schön/</l>
+            <l>Zinnober kan man da bey feinem Purpur sehn/</l>
+            <l>Die Nelcke mag nicht so mit bunten Farben prahlen/</l>
+            <l>Ein Scarlach muß das Feld so Tag als Nacht bemahlen.</l>
+            <l>Jhr Rosen Indiens hült eure Blätter ein</l>
+            <l>Eur Wunder wird hier nichts bey diesen Blumen seyn;</l>
+            <l>Der Atlas/ welcher euch am hellen Morgen zieret </l>
+            <l>Der Scarlach/ welchen ihr des Mittags bey euch führet/</l>
+            <l>Die schwartze Mohren Farb’/ so euch des Abends deckt/</l>
+            <l>Die sind zu einer Zeit zur Schau hier ausgesteckt.</l>
+            <l>Die schöne Stirn ist weis/ ein Purpur ziert die Wangen/</l>
+            <l>Die Augen/ gleich der Nacht/ mit schwartzer Farben prangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

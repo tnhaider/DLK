@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Nacht.</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-14 3-6</measure>
+        <measure type="syllables">254</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">1008</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Nacht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Nacht! und du, o feyerliche Stille!</l>
+            <l>Indem ich mich in eure Schatten hülle,</l>
+            <l>Fall ich hin in den Staub vor dem, der</l>
+            <l>mich gemacht.
+Von dieser Unterwelt Getümmel
+Hebt unser Herz nichts mehr zum Hunmel
+Als deine Majestät, o Nacht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie kömmt! Jhr helles Sternenkleid</l>
+            <l>Fließt über ihren prächtgen Wagen,</l>
+            <l>Begeistert von der Macht der dunkeln Einsamkeit,</l>
+            <l>Steht ietzt der Christ, durch sie geweiht,</l>
+            <l>Und denket seine Sterblichkeit.</l>
+            <l>Er hört die Todtenglocke schlagen,</l>
+            <l>Indem er unter Gräbern irrt,</l>
+            <l>Und auf den Staub hinweint, der er auch werden</l>
+            <l>Doch welcher Trost stralt in die bange Seele?</l>
+            <l>Umsonst schreckt ihn des Grabes dunkle Höhle;</l>
+            <l>Von jedem Stern ruft ihm ein Engel zu,</l>
+            <l>Daß er unsterblich ist. Er schmeckt des Trostes</l>
+            <l>Weit hinter jener Nacht sieht er den Vorhang</l>
+            <l>Und Palmen, ihm bestimmt, und Seraphim ihm</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie wird des Grabes Nacht entweichen,</l>
+            <l>Wenn über Schrecken, Graus und Leichen,</l>
+            <l>Des Christen ewger Morgen glänzt!</l>
+            <l>Sein Auge wird den Finsternissen,</l>
+            <l>Sein Geist der Sterblichkeit entrissen;</l>
+            <l>Und seine Seligkeit ist rein, und unbegränzt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

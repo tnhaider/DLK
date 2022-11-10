@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Nur Jesu Blut versöhnet meine Sünd',</title>
+        <author>
+          <persName>
+            <surname>Tersteegen</surname>
+            <forename>Gerhard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">544</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1733</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Nur Jesu Blut versöhnet meine Sünd',</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur Jesu Blut versöhnet meine Sünd',</l>
+            <l>Die Lieb'stinktur zerbricht des Grimmes Machten,</l>
+            <l>Labt meinen Geist, der sonst im Feu'r muß schmachten,</l>
+            <l>Belebt aufs neu, was alt und tot sich find't!</l>
+            <l>Doch wenn es mich in Angst und Not soll stillen,</l>
+            <l>So muß der Brunn in meinem Herzen quillen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur Jesu Blut versöhnet meine Sünd',</l>
+            <l>Die Lieb'stinktur zerbricht des Grimmes Machten,</l>
+            <l>Labt meinen Geist, der sonst im Feu'r muß schmachten,</l>
+            <l>Belebt aufs neu, was alt und tot sich find't!</l>
+            <l>Doch wenn es mich in Angst und Not soll stillen,</l>
+            <l>So muß der Brunn in meinem Herzen quillen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

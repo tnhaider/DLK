@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">131</measure>
+        <measure type="characters">718</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Cvpido sodu bist nichts anders als ein Kindt/</l>
+            <l>Wie kompts daß ich von dir so vilmahl sagen hören/</l>
+            <l>Daß König vnd groß Herrn bey Tag vnd Nacht dich ehren?</l>
+            <l>Wie kompts daß deine Handt so sehr viel vberwindt?</l>
+            <l>Cupido/ so du bist/ wie man dich mahlet/ blindt/</l>
+            <l>Vnd die Poeten selbst/ dein eigne Diener/ lehren/</l>
+            <l>Wie kanstu dann dein Reich so mechtiglich vermehren/</l>
+            <l>Wie daß dein Pfeil so just mir in mein Hertze findt?</l>
+            <l>Nein/ Nein du Hurensohn/ du kanst mit deinen Henden</l>
+            <l>Der Menschen stärck vnd Krafft/ wie dirs geliebet/ wenden/</l>
+            <l>Nein/ nein du bist ein Gott dem alles ist bekandt.</l>
+            <l>Ey triff nur auch das Hertz der liebesten Freundinne/</l>
+            <l>Daß Sie mich/ wie ich sie/ auch wider lieb gewinne/</l>
+            <l>So sag ich/ du schießt recht mit Vrtheil vnd Verstandt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ehestand der Freude .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">572</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ehestand der Freude .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lasset uns scherzen               </l>
+            <l>Blühende Herzen,</l>
+            <l>Lasset uns lieben</l>
+            <l>Ohne Verschieben,</l>
+            <l>Lauten und Geigen</l>
+            <l>Sollen nicht schweigen,</l>
+            <l>Kommet zum Tanze,</l>
+            <l>Pflücket vom Kranze.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drücket die Hände,</l>
+            <l>Legt euch zum Ende,</l>
+            <l>Gebet Euch Küsse,</l>
+            <l>Tretet die Füße,</l>
+            <l>Machet euch fröhlich,</l>
+            <l>Machet euch ehlich,</l>
+            <l>Lasset die Narren</l>
+            <l>Einsam verharren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ehlich zu werden</l>
+            <l>Dienet der Erden,</l>
+            <l>Ledige Leute</l>
+            <l>Mangeln der Freude;</l>
+            <l>Jeder muß sterben,</l>
+            <l>Machet euch Erben</l>
+            <l>Euerem Gute,</l>
+            <l>Namen und Blute.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lasset der Grauen</l>
+            <l>Murren und Schauen,</l>
+            <l>Rathen und Wissen,</l>
+            <l>Wenig erspriessen;</l>
+            <l>Eben sie selber</l>
+            <l>Waren auch Kälber,</l>
+            <l>Blühende Herzen</l>
+            <l>Lasset uns scherzen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

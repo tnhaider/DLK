@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Goethe</title>
+        <author>
+          <persName>
+            <surname>Däubler</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3 5-4 6-4 7-3 8-3</measure>
+        <measure type="syllables">294</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">1074</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1905</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Goethe</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Höhen Unerreichbarer, o Goethe,</l>
+            <l>Gewahrte einst dein Blick den Taurer-Strand,</l>
+            <l>Und Iphigenia im Trauerland</l>
+            <l>Verklärte sich der Heimat Abendröte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Lorbeerhain entzückte Klang der Flöte;</l>
+            <l>Gegeistert von des Geigers ferner Hand,</l>
+            <l>Verrauchte Ilion, nach zerhauchtem Brand,</l>
+            <l>Als ob sein Fächeln Hellas Ruhe böte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch Helena stand auf vor deiner Größe,</l>
+            <l>Du hast mit Würdigem das Weib betraut,</l>
+            <l>Doch schon Verleiblichung wird Göttern Blöße;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ist zu Hades Helena entblaut;</l>
+            <l>Wer kennt der Minne-Dienenden Verstöße?</l>
+            <l>Der Bräute Scham hast, Goethe, du geschaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Höhen Unerreichbarer, o Goethe,</l>
+            <l>Gewahrte einst dein Blick den Taurer-Strand,</l>
+            <l>Und Iphigenia im Trauerland</l>
+            <l>Verklärte sich der Heimat Abendröte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Lorbeerhain entzückte Klang der Flöte;</l>
+            <l>Gegeistert von des Geigers ferner Hand,</l>
+            <l>Verrauchte Ilion, nach zerhauchtem Brand,</l>
+            <l>Als ob sein Fächeln Hellas Ruhe böte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch Helena stand auf vor deiner Größe,</l>
+            <l>Du hast mit Würdigem das Weib betraut,</l>
+            <l>Doch schon Verleiblichung wird Göttern Blöße;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ist zu Hades Helena entblaut;</l>
+            <l>Wer kennt der Minne-Dienenden Verstöße?</l>
+            <l>Der Bräute Scham hast, Goethe, du geschaut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

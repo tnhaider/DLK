@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf  Solindens  Nahmens-Tag.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">95</measure>
+        <measure type="tokens">63</measure>
+        <measure type="characters">362</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf  Solindens  Nahmens-Tag.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Sonne! die du pflegst beständig zu erfreuen</l>
+            <l>Dis grosse Rund der Welt/ zieh deine Strahlen ein/</l>
+            <l>O Sonne! die du pflegst die Erde zu erfreuen/</l>
+            <l>Heut muß zurücke stehn dein angenehmer Schein.</l>
+            <l>Heut geht die Sonne auf die uns </l>
+            <l>Indem ein holder Glantz aus ihren Augen bricht/</l>
+            <l>Der Nahme kommt dazu/ einjeder der sie liebet/</l>
+            <l>Spricht/ Sonne weiche doch vor diesem Wunder-Licht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

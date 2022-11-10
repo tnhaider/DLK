@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">48.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">526</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>48.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube nicht daß ich im Mittelpunkte stehe,</l>
+            <l>Und die Unendlichkeit um mich sich dienstbar drehe;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch glaub' ich, daß ich darf mir ordnen zum Vergnügen</l>
+            <l>Bilder der Fantasie aus ew'gen Sternenzügen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bald als Verliebter sehn ein Blatt mit goldnen Schriften,</l>
+            <l>Und bald als Kind ein Dach, besetzt mit goldnen Stiften.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allein vom Halse soll die Wissenschaft mir bleiben,</l>
+            <l>Die, was ich treib' im Spiel, als trocknen Ernst will treiben,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die kindisch wird, wenn ihr aus Selbstsucht es bedunkt,</l>
+            <l>Im All ihr Pünktchen sei vom All der Mittelpunkt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

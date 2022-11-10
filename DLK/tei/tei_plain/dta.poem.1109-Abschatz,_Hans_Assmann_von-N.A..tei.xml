@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">165</measure>
+        <measure type="tokens">115</measure>
+        <measure type="characters">985</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Schweinitz/                             hast Du dich zum ersten                         </l>
+            <l>mahl beflissen/                         </l>
+            <l>Ein rohes Schäffer-Kind zu führen in die Welt/</l>
+            <l>Wiewohl es sich zu weit gewagt ins offne Feld/)</l>
+            <l>So wird dichs billich auch zum andern mahl be-</l>
+            <l>grüssen.                         </l>
+            <l>Es kommen Blumen mit/ die sahst du theils ent-</l>
+            <l>sprissen;                         </l>
+            <l>Auch hat sich ihm anizt ein Lands-Mann zugesellt/</l>
+            <l>Wie er aus fremder Sprach ein Teutsch Sonnet</l>
+            <l>gestellt.                         </l>
+            <l>Wird dein geübter Geist den Spruch zu fällen                             wis-</l>
+            <l>sen.                         </l>
+            <l>Sie kommen nicht umsonst: Es fürchtet unser                             Land/</l>
+            <l>Wo nicht ein </l>
+            <l>Den wohlerworbnen Ruhm der Dicht-Kunst zu</l>
+            <l>verlieren:                         </l>
+            <l>Daß du ihn retten kanst beruht in deiner Hand.</l>
+            <l>Kan ich/ was diese schrieb/ der klugen Welt erlan</l>
+            <l>gen/                         </l>
+            <l>So ist mein Hirten-Knecht glückselig                             ausgegangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

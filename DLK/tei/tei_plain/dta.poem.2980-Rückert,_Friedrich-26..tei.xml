@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">26.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">595</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195108"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>26.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Europäer, wenn du einen Weg dir bahnen</l>
+            <l>Zur Achtung willst und Anerkennung beim Brahmanen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mußt du von deinen Vorurteilen erst dich heilen,</l>
+            <l>Und Anstoß nehmen nicht an seinen Vorurteilen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht das ihm heil'ge Rind mußt du zur Malzeit schlachten,</l>
+            <l>Wenn er nicht soll ein Thier ein reißendes dich achten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht duften darf dein Mund von Rauschgetränkes Duft,</l>
+            <l>Damit nicht schon dein Hauch verunreint seine Luft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wird dann Unmäßigkeit vom Himmelstrich gerochen,</l>
+            <l>Von seinen Göttern glaubt er dir den Tod gesprochen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und du, jemehr dir all die Götter sind ein Spott,</l>
+            <l>Je weniger bekehrst du ihn zum einen Gott.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

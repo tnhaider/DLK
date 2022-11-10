@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Seestrand bey  Terracina.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">265</measure>
+        <measure type="tokens">167</measure>
+        <measure type="characters">1035</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Seestrand bey  Terracina.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier/ wo die wilde Flutt mit stoltzen Wellen spielet/</l>
+            <l>Und Eurus seinen Grimm am nassen Ufer kühlet/</l>
+            <l>Wo Einsamkeit ist Wirth und Gast ein Wandersmann/</l>
+            <l>Der voller Furcht betritt die Schrecken-reiche Bahn/</l>
+            <l>Schneidt seine treue Faust in Stein</l>
+            <l>Den Nahmen meiner Liebsten ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es darff den Demant nicht der Vöcke Blutt umschlüssen/</l>
+            <l>Noch scharff-gesäurter Wein den harten Fels begiessen/</l>
+            <l>Kein zugespizter Stahl/ kein Hammer schwer von Last/</l>
+            <l>Kein Eisen Mulcibers wird in die Hand gefast/</l>
+            <l>Wo Amor einen Bau giebt an/</l>
+            <l>Der Neid und Zeit besitzen kan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Getreuer Hertzen Blutt/ die Thränen reiner Seelen</l>
+            <l>Sind mächtig ieden Stein und Felsen auszuhölen.</l>
+            <l>Was dieser Eßig-Safft/ diß Scheide-Wasser nezt/</l>
+            <l>Wird durch Cupidens Pfeil/ als Meißel/ ausgeäzt:</l>
+            <l>Mit solchem schreibet meine Hand</l>
+            <l>Diß edle Zeichen an den Strand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du/ den der Reisen Lauff in diese Gegend führet/</l>
+            <l>Verehre solche Schrifft/ wie deiner Pflicht gebühret/</l>
+            <l>Und/ hast du anders was aus reinem Hertzen lieb/</l>
+            <l>So wünsche/ daß der Hand/ die diese Worte schrieb:</l>
+            <l>Lisille möge linder seyn</l>
+            <l>Als dieser rauhe Felsen-Stein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Schwere und der Leichte,  
+ von der Fluht und Ebbe  
+ des Meeres.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-11</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">503</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Schwere und der Leichte,  
+ von der Fluht und Ebbe  
+ des Meeres.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was auch noch deutlicher uns den Zusammenhang,</l>
+            <l>Des Mondes mit der Lufft, der Lufft mit unserm Meer</l>
+            <l>Vor Augen legt, ist dies: wenn sich des Mondes Gang</l>
+            <l>In beyden Tropiets befindet, wird der Drang</l>
+            <l>In weiten Schooß des Welt-Meers starck: daher</l>
+            <l>Entsteht daselbst ein Wallen, dessen Schwall,</l>
+            <l>Als allgemein in Welt-Meer, überall,</l>
+            <l>Die Ebb und Fluht des Tages zweymal bringet.</l>
+            <l>Die Wasser gleiten dann gen Süd- und Norden fort,</l>
+            <l>Man spürt sie weniger und mehr; nachdem ein Ort,</l>
+            <l>Auch weniger und mehr von Ufern ist umringet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Poesie des sechszehnten  
+ Jahrhunderts.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">82</measure>
+        <measure type="tokens">63</measure>
+        <measure type="characters">333</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198462"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Poesie des sechszehnten  
+ Jahrhunderts.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie lieb der Mensch lebendig sey,</l>
+            <l>Er ist nach Tod Beywohnung frey.</l>
+            <l>Der Bauch ist gar ein b&amp;#339;ser Sack</l>
+            <l>Er verh&amp;#339;nt aller W&amp;#252;rtze Geschmack.</l>
+            <l>Wer Muscatnuss nimt in den Mund</l>
+            <l>Und es wieder austhet zu Stund;</l>
+            <l>Sie waer ihm darnach ungezaem,</l>
+            <l>Daß er sie in Mund wieder naem.</l>
+            <l>Seit wir uns selber widerstahn,</l>
+            <l>Wer soll uns dann vor sauber han?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

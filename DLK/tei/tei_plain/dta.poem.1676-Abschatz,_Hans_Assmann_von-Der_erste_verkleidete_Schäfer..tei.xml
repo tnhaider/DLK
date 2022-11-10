@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der erste verkleidete Schäfer.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-13</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">616</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der erste verkleidete Schäfer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hat mich meine Braut geziert mit mancherley:</l>
+            <l>Der rothen Mütze Schmuck deckt mein Gold-gelbes</l>
+            <l>Haar/</l>
+            <l>Das nechst bey Sonnenschein vor roth verdächtig war.</l>
+            <l>Der steiffe Kragen steht geziert mit schönem Bande/</l>
+            <l>Und mein geförmelt Peltz ist wohl der schönst im Lande.</l>
+            <l>Das Leder hält den Stich/ von dem ich Hosen trage/</l>
+            <l>Was meynt ihr das ich von den schmucken Stiefeln sage?</l>
+            <l>Der Kober ist mir gutt/ den Käß hinein zu stecken;</l>
+            <l>Ich weiß/ ihr esst mit mir auff meinen Wolle-Säcken.</l>
+            <l>Die Keule schüzt mich auch für Unthier und für Dieben.</l>
+            <l>Jedoch mit alle dem ist was vergessen blieben/</l>
+            <l>Das/ leider/ mir noch fehlt: Rath’t alle/ was es sey?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

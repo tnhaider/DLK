@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der gelbe Reiter</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">742</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der gelbe Reiter</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schnell hinter dem Regen ritt fiebernd ein Reiter,</l>
+            <l>Hell hinter den Wolken auf graunassen Wegen.</l>
+            <l>Dem leuchteten gelb die Wangen, die blassen,</l>
+            <l>Wie die Gelbblüten, die an den Büschen saßen.</l>
+            <l>Und Mann mit Pferd flog eilend weiter,</l>
+            <l>Als wäre nur Ferne dem Fieber heilend,</l>
+            <l>Als ob ihn ein Feuer blind vorwärts trieb,</l>
+            <l>Auf allen Büschen wie Schwefel weilend</l>
+            <l>Am Weg des Reiters Blässe blieb.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schnell hinter dem Regen ritt fiebernd ein Reiter,</l>
+            <l>Hell hinter den Wolken auf graunassen Wegen.</l>
+            <l>Dem leuchteten gelb die Wangen, die blassen,</l>
+            <l>Wie die Gelbblüten, die an den Büschen saßen.</l>
+            <l>Und Mann mit Pferd flog eilend weiter,</l>
+            <l>Als wäre nur Ferne dem Fieber heilend,</l>
+            <l>Als ob ihn ein Feuer blind vorwärts trieb,</l>
+            <l>Auf allen Büschen wie Schwefel weilend</l>
+            <l>Am Weg des Reiters Blässe blieb.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

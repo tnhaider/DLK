@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">König Abels Tod.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">616</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>König Abels Tod.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwei Ritter, mit schwarzem Panzer bewehrt,</l>
+            <l>Der Page gürtet dem König das Schwert</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Lager lärmt es. Des Himmels Zier</l>
+            <l>„die Hengste vor. Der Friesenstier</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König ruft es, die Sonne glitzt,</l>
+            <l>Des Königs goldene Rüstung blitzt,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dicht drängt Wulff Bokwoldt den Schecken heran,</l>
+            <l>Heut wird er ein Ritter, heut wird er ein Mann,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Friesen kämpfen für Herd und Weib,</l>
+            <l>Die schwarzen Ritter strecken den Leib,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der König allein, er irrt auf dem Deich,</l>
+            <l>Ringsum der Feind. Keinen Sünder bleich,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In die Friesen trug er sein Schwert Hilfnot,</l>
+            <l>Wessel Hummer aus Pellworm schlug ihn tot</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Page, wo blieb der Page klein,</l>
+            <l>Um seine weißen Glieder fein</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

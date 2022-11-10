@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">193.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-1</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">539</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>193.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Armen Anblick ist ein stummer Vorwurf dir,</l>
+            <l>O Reicher, frage dich: Wer gab den Vorzug mir?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der dir den Vorzug hat gegeben vor den Armen,</l>
+            <l>Gab er nicht auch für sie dir in die Seel' Erbarmen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und sind sie dankbarer für ihre Blöße gar,</l>
+            <l>Als du für deine Pracht, wie bist du undankbar!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn an freudigem Vertraun sie dich beschämen,</l>
+            <l>So braucht zur Strafe dir Gott nicht den Schatz zu nehmen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er lasse dir den Schatz, damit du wie die Schlange,</l>
+            <l>Die schätzehütende, dich kümmerst zag und bange,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß es die Armuth seh' und nicht solch Glück verlange.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

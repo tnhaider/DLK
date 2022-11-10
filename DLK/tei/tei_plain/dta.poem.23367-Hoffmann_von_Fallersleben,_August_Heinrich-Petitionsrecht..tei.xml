@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Petitionsrecht.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">622</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Petitionsrecht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Beten und das Bitten ist erlaubt,</l>
+            <l>Ja, und erlaubt ist Alles überhaupt,</l>
+            <l>Was niemals nützt den armen Unterthanen.</l>
+            <l>Wenn wie an ein Versprechen etwa mahnen,</l>
+            <l>Gesetzlich bitten, was wir fordern können,</l>
+            <l>Da will man uns das Bitten auch nicht gönnen,</l>
+            <l>Man weist uns ab mit kaltem Hohn zuletzt:</l>
+            <l>Ihr habt die Form verletzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Herr der Welten höret unser Flehn,</l>
+            <l>Er naht und ist bereit uns beizustehn,</l>
+            <l>Er fordert was wir bitten kaum noch wollten,</l>
+            <l>Erfüllt was wir nach Recht verlangen sollten.</l>
+            <l>Zu jenen, die ihr heiligstes Versprechen</l>
+            <l>Gebrochen haben und noch heute brechen,</l>
+            <l>Spricht er ein allerhöchstes Wort zuletzt:</l>
+            <l>Ihr habt das Recht verletzt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Suleika .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">191</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">732</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Suleika .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was bedeutet die Bewegung?</l>
+            <l>Bringt der Ost mir frohe Kunde?</l>
+            <l>Seiner Schwingen frische Regung</l>
+            <l>Kühlt des Herzens tiefe Wunde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kosend spielt er mit dem Staube,</l>
+            <l>Jagt ihn auf in leichten Wölkchen,</l>
+            <l>Treibt zur sichern Rebenlaube</l>
+            <l>Der Insecten frohes Völkchen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lindert sanft der Sonne Glühen,</l>
+            <l>Kühlt auch mir die heissen Wangen,</l>
+            <l>Küsst die Reben noch im Fliehen,</l>
+            <l>Die auf Feld und Hügel prangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und mir bringt sein leises Flüstern</l>
+            <l>Von dem Freunde tausend Grüsse;</l>
+            <l>Eh noch diese Hügel düstern</l>
+            <l>Grüssen mich wohl tausend Küsse.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und so kannst du weiter ziehen!</l>
+            <l>Diene Freunden und Betrübten.</l>
+            <l>Dort wo hohe Mauern glühen</l>
+            <l>Find’ ich bald den Vielgeliebten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! die wahre Herzenskunde,</l>
+            <l>Liebeshauch, erfrischtes Leben</l>
+            <l>Wird mir nur aus seinem Munde,</l>
+            <l>Kann mir nur sein Athem geben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

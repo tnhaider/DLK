@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Geplagt .</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">65</measure>
+        <measure type="characters">379</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1860</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191007"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Geplagt .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weh dem Knaben, der zwei Herrinnen hat!</l>
+            <l>Verloren ist er, verloren!</l>
+            <l>Ruft die Stimme und ruft sie dort:</l>
+            <l>„komm, binde mir die Sandalen!</l>
+            <l>Gib den Schleier; — nun eile fort,</l>
+            <l>Vom Markte Narde zu holen!“</l>
+            <l>Durch die Menge irrt er umher</l>
+            <l>Wie ein armer verscheuchter Vogel,</l>
+            <l>Wie ein armes zerrissnes Gewand,</l>
+            <l>Geflickt von tausend Händen.</l>
+            <l>Wehe dem Knaben, der zwei Herrinnen hat!</l>
+            <l>Verloren ist er, verloren!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

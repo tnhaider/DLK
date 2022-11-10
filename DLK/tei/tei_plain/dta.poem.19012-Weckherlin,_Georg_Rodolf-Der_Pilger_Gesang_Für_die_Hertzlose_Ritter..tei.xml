@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Pilger Gesang  
+ Für die Hertzlose Ritter.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">493</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Pilger Gesang  
+ Für die Hertzlose Ritter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Göttin zart/ jhr deren herrlichkeit</l>
+            <l>Die Götter selbs nicht könden widerstreben/</l>
+            <l>Ach stehet ab von ewrer härtigkeit</l>
+            <l>Vnd lasset doch den Rittern hie das leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr junges hertz ließ sich durch der Lieb brunst/</l>
+            <l>Die ewer aug erwöcket/ schnell verzöhren:</l>
+            <l>Jedoch nach lust durch eines anblicks gunst</l>
+            <l>Könt jhnen jhr ein newes hertz beschören.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So tröstet sie mit einem süssen blick</l>
+            <l>Damit sie nicht hie länger hertzloß ligen:</l>
+            <l>Dan ewer ist das Lob/ vnd Jhr das Glick</l>
+            <l>Wan sie durch Euch behertzet/ muhtig sigen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

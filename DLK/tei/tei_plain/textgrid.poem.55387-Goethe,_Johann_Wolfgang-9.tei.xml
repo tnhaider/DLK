@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">9</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">476</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1824</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>9</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwer, in Waldes Busch und Wuchse</l>
+            <l>Füchsen auf die Spur gelangen;</l>
+            <l>Hält's der Jäger mit dem Fuchse,</l>
+            <l>Ist's unmöglich, ihn zu fangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und so wäre manches Wunder</l>
+            <l>Wie A B, Ab auszusprechen,</l>
+            <l>Über welches wir jetzunder</l>
+            <l>Kopf und Hirn im Kopf zerbrechen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwer, in Waldes Busch und Wuchse</l>
+            <l>Füchsen auf die Spur gelangen;</l>
+            <l>Hält's der Jäger mit dem Fuchse,</l>
+            <l>Ist's unmöglich, ihn zu fangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und so wäre manches Wunder</l>
+            <l>Wie A B, Ab auszusprechen,</l>
+            <l>Über welches wir jetzunder</l>
+            <l>Kopf und Hirn im Kopf zerbrechen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

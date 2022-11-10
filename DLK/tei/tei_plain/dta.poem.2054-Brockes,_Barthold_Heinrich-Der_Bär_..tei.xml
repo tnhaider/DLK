@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Bär .</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">550</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Bär .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus den dickverwachs’nen Hölen gehet dieses wilde</l>
+            <l>Thier,</l>
+            <l>In dem ganzen langen Winter, schlaf- und säugend,</l>
+            <l>nicht herfür.</l>
+            <l>Ist dieß nicht bewundernswerth,</l>
+            <l>Daß sich solch gefräßig Thier sonder Speise dennoch</l>
+            <l>nährt,</l>
+            <l>Und dadurch, da er nicht raubet, sondern unaufhörlich</l>
+            <l>ruht,</l>
+            <l>Fast die halbe Zeit des Lebens, so viel minder Schaden</l>
+            <l>thut?</l>
+            <l>Seine Gall’, sein Fett, und Auge brauchet man in Arze-</l>
+            <l>neyen,</l>
+            <l>Seine Pfoten und sein Kopf nützen uns auf Gastereyen;</l>
+            <l>Auch der Jungen Fleisch ist eßbar. Dienet also auch</l>
+            <l>der Bär,</l>
+            <l>Seiner Wildheit ungeachtet, uns zum Nutzen, Gott</l>
+            <l>zur Ehr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

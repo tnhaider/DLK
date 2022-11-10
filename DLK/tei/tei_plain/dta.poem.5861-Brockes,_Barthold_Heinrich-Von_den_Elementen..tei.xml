@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von den Elementen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-24</measure>
+        <measure type="syllables">219</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">780</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von den Elementen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch kamen endlich Weise, die</l>
+            <l>Mit unabläßlich grosser Müh</l>
+            <l>Der Creatur Geheimniß auszufinden,</l>
+            <l>Und zu ergründen</l>
+            <l>Sich stets bestrebeten. Allein,</l>
+            <l>Indem sie sich gedachten zu erklären;</l>
+            <l>So stimmten ihre Lehren</l>
+            <l>Nicht mit einander überein.</l>
+            <l>Man hör’ Hesiodum, er spricht: Es werden</l>
+            <l>Die Elementen all’ erzeuget aus der Erden.</l>
+            <l>Hingegen Thales will, daß aus der Fluht allein</l>
+            <l>Dieselbigen entstanden seyn.</l>
+            <l>Anaximenes spricht: die Lufft hat sie gemacht,</l>
+            <l>Das Feur, spricht Heraclit, hat sie hervor gebracht.</l>
+            <l>Pythagoras erbauet sie</l>
+            <l>Aus Zahlen und der Harmonie,</l>
+            <l>Der setzet Nacht und Licht, Gerad und Ungerad;</l>
+            <l>Da Anaxagoras, Leucippus, Epieur,</l>
+            <l>Die Sonnen-Stäubgen nur</l>
+            <l>Zum Urquell aller Dinge hat.</l>
+            <l>Wenn Aristoteles die Lufft, die Fluht,</l>
+            <l>Die Erde, sammt der Gluht,</l>
+            <l>Zu seinem Grunde setzt; hat Plato die Jdee</l>
+            <l>Und die Materie.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

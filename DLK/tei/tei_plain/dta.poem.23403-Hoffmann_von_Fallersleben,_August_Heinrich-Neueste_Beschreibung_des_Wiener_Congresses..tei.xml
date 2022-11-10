@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neueste Beschreibung des Wiener Congresses.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">143</measure>
+        <measure type="characters">829</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neueste Beschreibung des Wiener Congresses.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was sie jeden Tag vollbrachten,</l>
+            <l>Ob sie scherzten, ob sie lachten,</l>
+            <l>Wird genau erzählt;</l>
+            <l>Wie sie standen, wie sie saßen,</l>
+            <l>Daß sie tranken, daß sie aßen,</l>
+            <l>Wird auch nicht verhehlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann sie hin zu Balle gingen,</l>
+            <l>Wann sie an zu tanzen fingen,</l>
+            <l>Wird genau erzählt;</l>
+            <l>Ob das Schauspiel sie zerstreute,</l>
+            <l>Ob sie das Ballett erfreute,</l>
+            <l>Wird auch nicht verhehlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie sie glänzend bankettierten,</l>
+            <l>Wie sie ritterlich turnierten,</l>
+            <l>Wird genau erzählt;</l>
+            <l>Ob sie große Heerschau hielten,</l>
+            <l>Oder Schach und Dame spielten,</l>
+            <l>Wird auch nicht verhehlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ob sie ritten, ob sie fuhren,</l>
+            <l>Ob im Frack, ob in Monturen,</l>
+            <l>Wird genau erzählt;</l>
+            <l>Wie sie sich der Menge zeigten,</l>
+            <l>Wie sie gnädigst sich verneigten,</l>
+            <l>Wird auch nicht verhehlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ihr sonstig Thun und Rathen —</l>
+            <l>Was sie für die Völker thaten,</l>
+            <l>Wird genau verhehlt;</l>
+            <l>Ob sie sonst was Gutes dachten,</l>
+            <l>Ueberhaupt was Gutes machten,</l>
+            <l>Wird auch nie erzählt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

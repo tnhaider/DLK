@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi .  
+ Die Sechste Abtheilung.  
+ Die Jungfrauen.</title>
+        <author>
+          <persName>
+            <surname>Zesen</surname>
+            <forename>Philipp von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">81</measure>
+        <measure type="tokens">48</measure>
+        <measure type="characters">291</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20684-8"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi .  
+ Die Sechste Abtheilung.  
+ Die Jungfrauen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kehre doch wider/ kom̃ wider zu rücke/</l>
+            <l>Kehre doch wieder/ was steuchstu für mier?</l>
+            <l>Gönne mir deine verliebete blücke/</l>
+            <l>Eyle mein Leben/ mein’ einige zier:</l>
+            <l>Laß sehen und schauen</l>
+            <l>Die lustigen auen/</l>
+            <l>Die schöne gestalt;</l>
+            <l>Seht! wie mich mein Leben</l>
+            <l>Den banden begeben;</l>
+            <l>Gleichet den Heeren/ der Krieges-gewalt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

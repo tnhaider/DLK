@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Fei.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">223</measure>
+        <measure type="tokens">170</measure>
+        <measure type="characters">986</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Fei.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mondnacht und Flut. Sie hangt am Kiel,</l>
+            <l>Umklammert mit den Armen ihn,</l>
+            <l>Sie treibt ein grausam lüstern Spiel,</l>
+            <l>Den Nachen in den Grund zu ziehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Ferge stöhnt: „In Seegesträuch</l>
+            <l>Reißt nieder uns der blanke Leib!</l>
+            <l>Rasch, Herr! Von Sünde reinigt Euch,</l>
+            <l>Begehrt Ihr heim zu Kind und Weib!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Ritter hält den Schwertesgriff</l>
+            <l>Sich als das heil'ge Zeichen vor —</l>
+            <l>Aus dunkeln Haaren lauscht am Schiff</l>
+            <l>Ein schmerzlich bleiches Haupt empor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„herr Christ! Ich beichte Ritterthat,</l>
+            <l>Streit, Flammenschein und strömend Blut,</l>
+            <l>Doch nichts von Frevel noch Verrat,</l>
+            <l>Denn Treu und Glauben hielt ich gut.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er küßt das Kreuz. Gell schreit die Fee!</l>
+            <l>Auflangen sieht er eine Hand</l>
+            <l>Am Steuer, blendend weiß wie Schnee,</l>
+            <l>Und starrt darauf, von Graun gebannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„herr Christ! Ich beichte Missethat!</l>
+            <l>Ich brach den Glauben und die Treu,</l>
+            <l>Ich übt' an einem Lieb Verrat.</l>
+            <l>Es starb. Ich thue Leid und Reu!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie löst die Arme. Sie versinkt.</l>
+            <l>Das Ruder schlägt. Der Nachen fliegt.</l>
+            <l>Vom Strand das Licht des Erkers winkt,</l>
+            <l>Wo Weib und Kind ihm schlummernd liegt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

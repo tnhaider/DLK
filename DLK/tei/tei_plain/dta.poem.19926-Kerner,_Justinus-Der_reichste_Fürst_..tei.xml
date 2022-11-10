@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der reichste Fürst .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">195</measure>
+        <measure type="tokens">137</measure>
+        <measure type="characters">795</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der reichste Fürst .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Preißend mit viel schönen Reden</l>
+            <l>Ihrer Länder Werth und Zahl.</l>
+            <l>Saßen viele deutsche Fürsten</l>
+            <l>Einst zu Worms im Kaisersaal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herrlich, sprach der Fürst von Sachsen,</l>
+            <l>Ist mein Land und seine Macht,</l>
+            <l>Silber hegen seine Berge</l>
+            <l>Wohl in manchem tiefen Schacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht mein Land in üpp'ger Fülle,</l>
+            <l>Sprach der Churfürst von dem Rhein,</l>
+            <l>Goldne Saaten in den Thälern,</l>
+            <l>Auf den Bergen edlen Wein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Große Städte, reiche Klöster,</l>
+            <l>Ludwig Herr zu Bayern sprach,</l>
+            <l>Schaffen, daß mein Land den euren</l>
+            <l>Wohl nicht steht an Schätzen nach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eberhardt, der mit dem Barte,</l>
+            <l>Würtembergs geliebter Herr,</l>
+            <l>Sprach: mein Land hat kleine Städte</l>
+            <l>Trägt nicht Berge silberschwer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch </l>
+            <l>Daß in Wäldern noch so groß</l>
+            <l>Ich mein Haupt kann kühnlich legen</l>
+            <l>Jedem Unterthan' in Schooß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und es rief der Herr von Sachsen,</l>
+            <l>Der von Bayern, der vom Rhein.</l>
+            <l>Graf im Bart! </l>
+            <l>Euer Land trägt </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

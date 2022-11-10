@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Schöne in der Einbildung.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">92</measure>
+        <measure type="tokens">67</measure>
+        <measure type="characters">376</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Schöne in der Einbildung.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auch diesem Fall ich bey/ dein Hals ist Marmor-Stein</l>
+            <l>Der mit dem Eben-Holtz noch vor dem Richter steht/</l>
+            <l>Die Brust/ die ist so weis/ als die Citronen seyn/</l>
+            <l>Damit die Trödel-Frau von Thür zu Thüren geht.</l>
+            <l>Dann gehts/ schaut die schönen Brüste</l>
+            <l>Und die Lüste</l>
+            <l>So deren Kosten zeugt/ die Buhlers nie geschmecket/</l>
+            <l>Weil sie von mir verstecket</l>
+            <l>Als solche Schätze sind/</l>
+            <l>Die man nicht jeden günnt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

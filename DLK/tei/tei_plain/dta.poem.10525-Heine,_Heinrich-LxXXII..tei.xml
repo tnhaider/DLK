@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">LxXXII.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-4 2-4</measure>
+        <measure type="syllables">84</measure>
+        <measure type="tokens">57</measure>
+        <measure type="characters">323</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>LxXXII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum sahen wir uns, und an Augen und Stimme</l>
+            <l>Merkt' ich, daß du mir gewogen bist;</l>
+            <l>Und stand nicht dabei die Mutter, die schlimme,</l>
+            <l>Ich glaube, wir hätten uns gleich geküßt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und morgen verlasse ich wieder das Städtchen,</l>
+            <l>Und eile fort im alten Lauf;</l>
+            <l>Dann lauert am Fenster mein blondes Mädchen,</l>
+            <l>Und freundliche Grüße werf' ich hinauf.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

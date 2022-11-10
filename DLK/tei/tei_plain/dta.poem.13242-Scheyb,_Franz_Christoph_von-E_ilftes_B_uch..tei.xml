@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">E ilftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">733</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>E ilftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„erlaube Königinn! daß ich der Heer-Fürst seye,</l>
+            <l>„dem Volck befehl’, und uns von diesem Feind befreye.</l>
+            <l>„ich spreche mir dadurch noch Thron noch Zepter zu;</l>
+            <l>150”Doch, wer mir in der Welt ihn geben kann, bist du;</l>
+            <l>„nein: dieß ist nicht mein Ziel, daß ich den Thron betrete;</l>
+            <l>„das eben wär, warum ich solchen Plaz verschmähte.</l>
+            <l>„die Würde, die ich mir dadurch von GOtt erbitt’,</l>
+            <l>„(Nach diesem richtet sich mein Sähnen und Gemüth)</l>
+            <l>155”Ist, GOtt mit uns, und dich mit deinem Feind versöhnen,</l>
+            <l>„dein Lorber-reiches Haupt mit Friedens-Palmen krönen.</l>
+            <l>„ja meiner Liebe Macht prägt mir den Eifer ein,</l>
+            <l>„verfechter deines Rechts und deines Throns zu seyn.</l>
+            <l>„mein Wunsch geht nur dahin, dem Vaterland zu nüzen;</l>
+            <l>160”Dein Volck, Theresia! dein Haus und dich zu schüzen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

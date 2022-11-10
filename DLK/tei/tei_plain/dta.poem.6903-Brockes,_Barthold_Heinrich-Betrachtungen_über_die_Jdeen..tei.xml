@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über die Jdeen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">159</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">635</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über die Jdeen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Seelen, welche sich weit übern Cörper heben,</l>
+            <l>Die können ihrem Recht und Vorzug nichts vergeben.</l>
+            <l>Vernunfft ist doch Vernunfft, es mag dieselbe seyn</l>
+            <l>Gezogen, oder wild: dies Gut ist nur gemein</l>
+            <l>Der Menschheit. Würcklich sind zu allen Zeiten,</l>
+            <l>Es mögen auch</l>
+            <l>Die Sitten, der Gebrauch</l>
+            <l>Noch so verschiedlich seyn, und mit einander streiten;</l>
+            <l>Die Menschen überführt von einem Wahrheits-Glantz:</l>
+            <l>Ob keiner desfalls gleich den andern je um Rath</l>
+            <l>Gefragt, und sich mit ihm verstanden hat.</l>
+            <l>Denn daß ein Theil so groß nicht, als sein Gantz;</l>
+            <l>Ist eine Wahrheit, die man von sich selber spüret.</l>
+            <l>Es braucht es der aus China nicht,</l>
+            <l>Daß er davon den Lappen überführet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">In der Wüste .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>In der Wüste .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist's nicht eitel und vergebens,</l>
+            <l>Lieben Freunde, saget an!</l>
+            <l>Durch den Wüstensand des Lebens</l>
+            <l>Sich zu wühlen eine Bahn?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Streut auch unser Fuß im Staube</l>
+            <l>Spuren aus von seinem Lauf,</l>
+            <l>Gleich, wie Geier nach dem Raube,</l>
+            <l>Kommt ein Sturm und frißt sie auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einsam und in Karavanen</l>
+            <l>Treibt es nach dem Land der Ruh',</l>
+            <l>Und es flattern tausend Fahnen</l>
+            <l>Hier und dort der Ferne zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir auch wandern vielverbündet</l>
+            <l>Nach der Räthselferne aus;</l>
+            <l>Doch der Strahl der Wüste zündet</l>
+            <l>Sehnsucht nach dem kühlen Haus;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zündet heißer stets das Sehnen</l>
+            <l>In die Gruft aus diesem Land,</l>
+            <l>Wo, nie satt, nach unsern Thränen</l>
+            <l>Lechzt empor der dürre Sand.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

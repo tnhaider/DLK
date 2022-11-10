@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Zukunft ist ein Würfelbecher,</title>
+        <author>
+          <persName>
+            <surname>Wille</surname>
+            <forename>Bruno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">480</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1894</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Zukunft ist ein Würfelbecher,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zukunft ist ein Würfelbecher,</l>
+            <l>Der ein Würfelpaar bedeckt.</l>
+            <l>Längst gefallen sind die Würfel;</l>
+            <l>Doch der Wurf ist noch versteckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zukunft ist ein Würfelbecher:</l>
+            <l>Längst gefallen ist dein Loos. –</l>
+            <l>Darum blicke auf den Becher</l>
+            <l>Ohne Furcht – und hoffnungslos.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zukunft ist ein Würfelbecher,</l>
+            <l>Der ein Würfelpaar bedeckt.</l>
+            <l>Längst gefallen sind die Würfel;</l>
+            <l>Doch der Wurf ist noch versteckt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zukunft ist ein Würfelbecher:</l>
+            <l>Längst gefallen ist dein Loos. –</l>
+            <l>Darum blicke auf den Becher</l>
+            <l>Ohne Furcht – und hoffnungslos.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

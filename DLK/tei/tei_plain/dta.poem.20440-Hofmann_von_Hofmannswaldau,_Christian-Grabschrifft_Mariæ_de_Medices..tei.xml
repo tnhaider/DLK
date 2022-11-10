@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Grabschrifft  
+  Mariæ de Medices.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">703</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Grabschrifft  
+  Mariæ de Medices.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Florentiner schloß gab mir die wiegen ein/</l>
+            <l>Und der Pariser burg ließ meinen ruhm erheben/</l>
+            <l>Mein liebster und sein ruhm wird in den wolcken schweben/</l>
+            <l>Durch aller zeiten lauff mit des gestirnes schein.</l>
+            <l>Zwey meiner eydame sah’ ich gekrönet seyn/</l>
+            <l>Und meinen ältsten sohn in den geschichten leben/</l>
+            <l>In solcher würdigkeit (wer wird mir beyfall geben?)</l>
+            <l>Starb ich in schnöder flucht: Cölln wird mein grabestein.</l>
+            <l>Cölln aller städte licht/ so sich in Deutschland finden;</l>
+            <l>Steh’ stille/ wandersmann; wo iemand will ergründen</l>
+            <l>Den traurigen verlauff der noth/ so mich berührt/</l>
+            <l>Der wisse/ daß das grab/ muß ein behältniß werden/</l>
+            <l>Der Fürstin/ derer blut die gantze welt regiert/</l>
+            <l>Und endlich nicht besaß auch einer hand voll erden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

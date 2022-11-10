@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Lied vom bißchen Sonnenschein</title>
+        <author>
+          <persName>
+            <surname>Bierbaum</surname>
+            <forename>Otto Julius</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">698</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1887</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Lied vom bißchen Sonnenschein</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist ein bißchen Sonnenschein</l>
+            <l>Auf meinen Weg gefallen,</l>
+            <l>Da hört ich gleich des Glücks Schalmein</l>
+            <l>Aus allen Himmeln hallen</l>
+            <l>Und glaubte gleich,</l>
+            <l>Das Himmelreich,</l>
+            <l>Das Himmelreich sei mein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Sonnenschein ist weggeglänzt,</l>
+            <l>Er galt nicht meinem Wege,</l>
+            <l>Ich habe mich zu früh bekränzt,</l>
+            <l>Nun kreischt des Grames Säge:</l>
+            <l>Der Winter naht,</l>
+            <l>Der Potentat,</l>
+            <l>Es hat sich ausgelenzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ist ein bißchen Sonnenschein</l>
+            <l>Auf meinen Weg gefallen,</l>
+            <l>Da hört ich gleich des Glücks Schalmein</l>
+            <l>Aus allen Himmeln hallen</l>
+            <l>Und glaubte gleich,</l>
+            <l>Das Himmelreich,</l>
+            <l>Das Himmelreich sei mein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Sonnenschein ist weggeglänzt,</l>
+            <l>Er galt nicht meinem Wege,</l>
+            <l>Ich habe mich zu früh bekränzt,</l>
+            <l>Nun kreischt des Grames Säge:</l>
+            <l>Der Winter naht,</l>
+            <l>Der Potentat,</l>
+            <l>Es hat sich ausgelenzt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

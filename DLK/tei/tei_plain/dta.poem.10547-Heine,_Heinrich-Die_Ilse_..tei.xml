@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Ilse .</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">234</measure>
+        <measure type="tokens">153</measure>
+        <measure type="characters">905</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Ilse .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin die Prinzessin Ilse,</l>
+            <l>Und wohne im Ilsenstein;</l>
+            <l>Komm mit nach meinem Schlosse,</l>
+            <l>Wir wollen selig seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein Haupt will ich benetzen</l>
+            <l>Mit meiner klaren Well',</l>
+            <l>Du sollst deine Schmerzen vergessen,</l>
+            <l>Du sorgenkranker Gesell!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In meinen weißen Armen,</l>
+            <l>An meiner weißen Brust,</l>
+            <l>Da sollst du liegen und träumen</l>
+            <l>Von alter Mährchenlust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will dich küssen und herzen</l>
+            <l>Wie ich geherzt und geküßt</l>
+            <l>Den lieben Kaiser Heinrich,</l>
+            <l>Der nun gestorben ist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es bleiben todt die Todten,</l>
+            <l>Und nur der Lebendige liebt;</l>
+            <l>Und ich bin schön und blühend,</l>
+            <l>Mein lachendes Herze bebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und bebt mein Herz dort unten,</l>
+            <l>So klingt mein kristallenes Schloß,</l>
+            <l>Es tanzen die Fräulein und Ritter,</l>
+            <l>Es jubelt der Knappentroß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es rauschen die seidenen Schleppen,</l>
+            <l>Es klirren die Eisenspor'n,</l>
+            <l>Die Zwerge trompeten und pauken,</l>
+            <l>Und fiedeln und blasen das Horn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch dich soll mein Arm umschlingen</l>
+            <l>Wie er Kaiser Heinrich umschlang;</l>
+            <l>Ich hielt ihm zu die Ohren,</l>
+            <l>Wenn die Trompet' erklang.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

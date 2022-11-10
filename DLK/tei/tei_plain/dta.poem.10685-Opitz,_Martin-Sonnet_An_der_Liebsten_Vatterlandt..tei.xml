@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet  
+ An der Liebsten Vatterlandt.</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">686</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197859"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet  
+ An der Liebsten Vatterlandt.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dv aller schönster Ort der Flüß vnd kalten Bronnen/</l>
+            <l>Dahin sich alle Zier vnd Lust hat eingestalt/</l>
+            <l>Dahin sich alles Gut begeben mannigfalt/</l>
+            <l>So jemals worden ist beschienen von der Sonnen/</l>
+            <l>Du aller schönste Statt/ du Hauß der Frewd vnd Wonnen/</l>
+            <l>Printzeßin aller Stätt an Reichthumb vnd Gewalt/</l>
+            <l>Doch mehr/ weil du erzeygt meins Lebens vffenthalt/</l>
+            <l>Der keine Schätze nicht verglichen werden können/</l>
+            <l>Verzeihe mir du Statt darinnen ich geboren/</l>
+            <l>Hier hab ich mir zu sein ins künfftig auß erkoren/</l>
+            <l>Hieher hab ich allein mein Hertz vnd sinn gewandt.</l>
+            <l>Vnd ob es mir gleich schwer/ daß ich dich werde meiden/</l>
+            <l>Will dennoch ich von dir/ als ihr/ viel lieber scheiden.</l>
+            <l>Dann wo mein Leben ist/ da ist mein Vatterland.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

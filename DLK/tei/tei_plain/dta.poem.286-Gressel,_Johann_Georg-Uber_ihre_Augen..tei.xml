@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Uber ihre Augen.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">210</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">812</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Uber ihre Augen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weich Sonne/ hier blitzen gedoppelte Strahlen/</l>
+            <l>Und wollen des Angesichts-Himmel bemahlen/</l>
+            <l>Sie strenen die Flammen der Lieb lichkeit aus;</l>
+            <l>Sie brennen die Hertzen mit himmlischen Flammen/</l>
+            <l>Und führen die Triebe der Liebe zusammen/</l>
+            <l>Sie streuen die Flammen der Lieblichkeit aus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier blitzen nur lauter erquickende Blicke/</l>
+            <l>Und häuffen mit Anmuth der Liebenden Glücke/</l>
+            <l>Sie tödten und heilen durch kräfftigen Strahl;</l>
+            <l>Sie lindern die Wunden und hemmen den Schmertzen/</l>
+            <l>Sie machen Vergnügen den sterbenden Hertzen/</l>
+            <l>Sie tödten und heilen durch kräfftigen Strahl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Augen/ ihr Lichter der liebenden Seelen/</l>
+            <l>Jhr seyd es/ die hemmen und fördern das Quählen/</l>
+            <l>Jhr machet die Liebe/ und brennet das Hertz/</l>
+            <l>Jhr setzet in Flammen/ und löschet die Gluhten/</l>
+            <l>Und bleibet doch feurig in saltzernen Fluhten</l>
+            <l>Jhr machet die Liebe/ und brennet das Hertz.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

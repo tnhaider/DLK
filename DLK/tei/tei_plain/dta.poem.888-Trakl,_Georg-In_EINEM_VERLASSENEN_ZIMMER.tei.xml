@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">In EINEM VERLASSENEN ZIMMER</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">570</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>In EINEM VERLASSENEN ZIMMER</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fenster, bunte Blumenbeeten,</l>
+            <l>Eine Orgel spielt herein.</l>
+            <l>Schatten tanzen an Tapeten,</l>
+            <l>Wunderlich ein toller Reihn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lichterloh die Büsche wehen</l>
+            <l>Und ein Schwarm von Mücken schwingt,</l>
+            <l>Fern im Acker Sensen mähen</l>
+            <l>Und ein altes Wasser singt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wessen Atem kommt mich kosen?</l>
+            <l>Schwalben irre Zeichen ziehn.</l>
+            <l>Leise fließt im Grenzenlosen</l>
+            <l>Dort das goldne Waldland hin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Flammen flackern in den Beeten.</l>
+            <l>Wirr verzückt der tolle Reihn</l>
+            <l>An den gelblichen Tapeten.</l>
+            <l>Jemand schaut zur Tür herein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weihrauch duftet süß und Birne</l>
+            <l>Und es dämmern Glas und Truh.</l>
+            <l>Langsam beugt die heiße Stirne</l>
+            <l>Sich den weißen Sternen zu.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

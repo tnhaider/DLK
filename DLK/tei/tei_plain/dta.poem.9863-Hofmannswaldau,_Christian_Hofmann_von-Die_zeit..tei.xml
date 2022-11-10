@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die zeit.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">250</measure>
+        <measure type="tokens">182</measure>
+        <measure type="characters">1029</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die zeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ist die edle zeit/ die allezeit vergehet?</l>
+            <l>Ein kleiner punct/ worauf der grosse welt-kreiß stehet:</l>
+            <l>Ein schneller blick/ der uns weist/ daß sie etwas sey:</l>
+            <l>Nichts/ ehe sie kommt an; nichts/ wenn sie schon vorbey.</l>
+            <l>Jhr wesen läst die zeit nicht blöde sinnen kennen/</l>
+            <l>Das kluge seelen kaum verstehen recht zu nennen;</l>
+            <l>Sie giebt in der natur den anfang und beschluß/</l>
+            <l>Lehrt/ was verschwunden ist/ zeigt/ was geschehen muß.</l>
+            <l>Wenn sie vergangen ist/ wer kan sie wieder bringen?</l>
+            <l>Wer kan/ wenn sie noch fern/ sie bald zu kom̃en zwingen?</l>
+            <l>Wie starck ist ihre krafft? sie bricht den stein und stahl/</l>
+            <l>Verändert städt und leut’/ ist mächtig überall.</l>
+            <l>Wohl dem/ wer in die zeit sich allzeit weiß zu schicken/</l>
+            <l>Und/ was zukünfftig ist/ bey zeiten kan erblicken.</l>
+            <l>Wer seine zeit auf GOtt wendt in der sterbligkeit/</l>
+            <l>Der macht ihm hier und dort aus böser gute zeit.</l>
+            <l>Wie lang ist unser zeit? spricht der betrübten klage/</l>
+            <l>Weil kummer/ kranckheit/ angst uns macht aus stunden tage.</l>
+            <l>Wie kurtz ist bey der lust die zeit der ewigkeit/</l>
+            <l>Wo tausend jahre sind nur eines tages zeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

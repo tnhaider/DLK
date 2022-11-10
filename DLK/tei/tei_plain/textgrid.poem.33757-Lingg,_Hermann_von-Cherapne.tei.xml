@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Cherapne</title>
+        <author>
+          <persName>
+            <surname>Lingg</surname>
+            <forename>Hermann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">730</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1862</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Cherapne</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In </l>
+            <l>Mit Menelaos' hohem Ruhm</l>
+            <l>Schläft Helena. Versöhnte Schatten,</l>
+            <l>Wie sanft ist euer Heiligtum!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ruhn die Lanzen und die Schalen,</l>
+            <l>Der Schilde schwarzgewölbter Bauch;</l>
+            <l>Es ruhen hier auch die Sandalen,</l>
+            <l>Die Lydischen, vom Flötenhauch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ammen vor dem Tempel singen:</l>
+            <l>»kommt, Kinder, nicht dem Grab zu nah!</l>
+            <l>Sie könnte sich der Gruft entringen,</l>
+            <l>Und der wird elend, der sie sah.«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In </l>
+            <l>Mit Menelaos' hohem Ruhm</l>
+            <l>Schläft Helena. Versöhnte Schatten,</l>
+            <l>Wie sanft ist euer Heiligtum!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier ruhn die Lanzen und die Schalen,</l>
+            <l>Der Schilde schwarzgewölbter Bauch;</l>
+            <l>Es ruhen hier auch die Sandalen,</l>
+            <l>Die Lydischen, vom Flötenhauch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ammen vor dem Tempel singen:</l>
+            <l>»kommt, Kinder, nicht dem Grab zu nah!</l>
+            <l>Sie könnte sich der Gruft entringen,</l>
+            <l>Und der wird elend, der sie sah.«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Teutschland.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">797</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Teutschland.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So muß das glücke dann das steuer-ruder führen/</l>
+            <l>So offt ein Cäsar sich der wilden see vertrau’t?</l>
+            <l>Und mein durchleuchter Held kan nichts als wohlseyn spüren/</l>
+            <l>Wann bey den Britten er die Majestäten schau’t.</l>
+            <l>Des grossen Wilhelms gunst/ Mariens gnaden-blicke/</l>
+            <l>Die wie das morgen-licht die welt erfreuen kan/</l>
+            <l>Sind seiner tugend lohn/ ein köstliches gesticke;</l>
+            <l>Denn adler sehen nur der sonnen strahlen an.</l>
+            <l>Da wird sein treuer geist auch auff mein bestes dencken/</l>
+            <l>Und über meine ruh’ offt mit zu rathe geh’n/</l>
+            <l>Der Höchste/ dessen hand mir ihn hat wollen schencken/</l>
+            <l>Der laß ihn mich vergnügt in kurtzen wieder seh’n.</l>
+            <l>Euch aber/ die ihr ietzt dem glück im schosse sitzet/</l>
+            <l>Und aus der sichern ruh’ der göldnen zeiten lacht/</l>
+            <l>Beschwer ich bey der treu/ die unser bündnis stützet/</l>
+            <l>Daß meinen fürsten ihr zu lieben seyd bedacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

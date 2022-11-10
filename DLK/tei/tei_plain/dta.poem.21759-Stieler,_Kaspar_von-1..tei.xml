@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Stieler</surname>
+            <forename>Kaspar von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">37</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-7 4-8 5-7</measure>
+        <measure type="syllables">242</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">959</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1660</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20586-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die göldne Nacht-Laterne</l>
+            <l>mit ihrem Sternen-Chorr</l>
+            <l>erstarret und höret gerne/</l>
+            <l>wie süß der Filidor</l>
+            <l>auff seiner Flöten spielet/</l>
+            <l>auch so/ daß alle Welt</l>
+            <l>die süsse Flamme fühlet</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Lieben ist ein Kriegen</l>
+            <l>und zwar ein süsser Streit.</l>
+            <l>Wer nicht wil unten liegen/</l>
+            <l>der muß in Freundligkeit</l>
+            <l>tag-täglich nur verschiessen</l>
+            <l>vor Pulver/ Lipppen-safft.</l>
+            <l>Mit lautern kurzen Spiessen</l>
+            <l>wird hier der Sieg geschafft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Filidor/ dein Singen</l>
+            <l>gefiel dem Mavors wohl/</l>
+            <l>der Pindus must’ erklingen/</l>
+            <l>auch so/ daß selbst der Pohl/</l>
+            <l>du nahmst den Feder-kiel</l>
+            <l>und schriebst von süssen schnäbeln</l>
+            <l>und von dem Venus-Spiel’.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ei! laß dich weiter hören/</l>
+            <l>mein süsser Filidor/</l>
+            <l>du kanst den Krieg verstören.</l>
+            <l>Mars hält die Faust empor/</l>
+            <l>und wil der Venus schenken</l>
+            <l>die Blut besprützte Fahn’/</l>
+            <l>er wil nicht mehr gedencken</l>
+            <l>an Schwerdt und Pusikan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum schreib doch nur was kekker/</l>
+            <l>Mein Edler Filidor/</l>
+            <l>dir spricht der kleine Lekker</l>
+            <l>was heimlich in das Ohr.</l>
+            <l>Du must ja nichts verschweigen</l>
+            <l>Man nimt dich an zum Zeugen</l>
+            <l>von solcher süssen Schlacht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

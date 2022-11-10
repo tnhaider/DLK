@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Crucifixus</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">204</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">784</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1865</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Crucifixus</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Kreuz hing sein gequält Gebeine,</l>
+            <l>Mit Blut besudelt und geschmäht;</l>
+            <l>Dann hat die stets jungfräulich reine</l>
+            <l>Natur das Schreckensbild verweht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch die sich seine Jünger nannten,</l>
+            <l>Die formten es in Erz und Stein,</l>
+            <l>Und stellten's in des Tempels Düster</l>
+            <l>Und in die lichte Flur hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So, jedem reinen Aug ein Schauder,</l>
+            <l>Ragt es herein in unsre Zeit;</l>
+            <l>Verewigend den alten Frevel,</l>
+            <l>Ein Bild der Unversöhnlichkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Kreuz hing sein gequält Gebeine,</l>
+            <l>Mit Blut besudelt und geschmäht;</l>
+            <l>Dann hat die stets jungfräulich reine</l>
+            <l>Natur das Schreckensbild verweht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch die sich seine Jünger nannten,</l>
+            <l>Die formten es in Erz und Stein,</l>
+            <l>Und stellten's in des Tempels Düster</l>
+            <l>Und in die lichte Flur hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So, jedem reinen Aug ein Schauder,</l>
+            <l>Ragt es herein in unsre Zeit;</l>
+            <l>Verewigend den alten Frevel,</l>
+            <l>Ein Bild der Unversöhnlichkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

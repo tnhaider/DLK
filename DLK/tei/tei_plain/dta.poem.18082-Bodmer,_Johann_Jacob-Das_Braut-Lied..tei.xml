@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Braut-Lied.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">776</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198432"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Braut-Lied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als Filander mit grossem Lust</l>
+            <l>Die lang-begehrte edle Blust</l>
+            <l>Seiner standhafften Lieb errungen:</l>
+            <l>Hat ein Hauff Liebelein gar laut</l>
+            <l>Dem Bräutigam und seiner Braut</l>
+            <l>Zu Ehren dieses Lied gesungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O daß ihr möget allezeit</l>
+            <l>Einig, in keinem andern Streit,</l>
+            <l>Dann nur in Liebes-Streite, leben,</l>
+            <l>Darinnen eines jeden Hertz</l>
+            <l>Dem andern mög Wollust und Schertz</l>
+            <l>Für Schertz und Wollust wieder geben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Durch Küß von süssem Nectar feucht</l>
+            <l>Das Hertz und Seel von Freuden leicht</l>
+            <l>Solt ihr euch nehmen und mittheilen:</l>
+            <l>Jhr solt durch tiefwundende Küß,</l>
+            <l>Jhr solt durch süßheilende Biß,</l>
+            <l>Verwunden euch und wieder heilen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des einen Mund, soll mit Wollust</l>
+            <l>Des andern Hertz auf seiner Brust</l>
+            <l>Zu nehmen, ihm die Brust aufspalten.</l>
+            <l>Des andern Hertz soll mit dem Mund</l>
+            <l>Durch süsse Küß verwundend wund</l>
+            <l>Der andern Brust sich nicht enthalten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

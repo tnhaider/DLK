@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">854</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll Doris ich denn stets in banden gehn/</l>
+            <l>Soll schertz und schmertz stets an der spitze stehn/</l>
+            <l>Soll seel und mund so hart gekräncket seyn/</l>
+            <l>So fällt gewiß der liebe grundstein ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Entbinde mich durch deiner schönheit macht/</l>
+            <l>Und sprich mich frey von dieser trüben nacht:</l>
+            <l>Denn wo dein aug nicht pol und leitstern ist/</l>
+            <l>So hat mein mast den schiffbruch schon erkist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dein mund der ist ein nachen von rubin/</l>
+            <l>Der meiner seelen schiff kan an sich ziehn/</l>
+            <l>Die muscheln/ so der hafen in sich trägt/</l>
+            <l>Hat die natur mit perlen angelegt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allein mir ist mein mund durch dich verhüllt/</l>
+            <l>Der zucker/ der aus deinen lippen qvillt/</l>
+            <l>Muß ein vergälltes gifft vor artzney seyn/</l>
+            <l>So stürtzt man mich ins todten-hauß hinein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum schönstes kind/ entbinde mich von mir/</l>
+            <l>Und nim/ als unterthan/ mich gantz zu dir:</l>
+            <l>Ein sclave/ den der ketten klang bewegt/</l>
+            <l>Trägt durch gedult viel leichter was er trägt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

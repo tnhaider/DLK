@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Pferd.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">107</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">446</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Pferd.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als der Glieder Symmetrie, ernstlich und bedachtsam</l>
+            <l>sehn,</l>
+            <l>Wenn wir, daß sein frecher Geist doch sich zähmen läßt,</l>
+            <l>betrachten,</l>
+            <l>Wenn wir auf den vielen Nutzen, den dieß Thier uns</l>
+            <l>bringet, achten,</l>
+            <l>Sollten wir denn nicht den Schöpfer zu bewundern Ursach</l>
+            <l>finden?</l>
+            <l>Sollten wir nicht, auch bey Pferden, Denken, Lust und</l>
+            <l>Dank verbinden?</l>
+            <l>Sollten wir darinn nicht Weisheit, Macht, und Liebes-</l>
+            <l>spuren sehn,</l>
+            <l>Und die Weisheit, Macht und Liebe durch Bewundrung</l>
+            <l>nicht erhöhn?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

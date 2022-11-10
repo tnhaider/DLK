@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Besuch in Urach.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-7 2-8 3-8</measure>
+        <measure type="syllables">247</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">992</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Besuch in Urach.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß ich in dies geliebte Thal verirrt;</l>
+            <l>Kein Wunder ist, was meine Augen sehen,</l>
+            <l>Doch schwankt der Boden, Luft und Staude schwirrt,</l>
+            <l>Aus tausend grünen Spiegeln scheint zu gehen</l>
+            <l>Vergang'ne Zeit, die lächelnd mich verwirrt,</l>
+            <l>Die Wahrheit selber wird hier zum Gedichte,</l>
+            <l>Mein eigen Bild ein fremd und hold Gesichte!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da seyd ihr alle wieder aufgerichtet,</l>
+            <l>Besonnte Felsen, alte Wolkenstühle!</l>
+            <l>Auf Wäldern schwer, wo kaum der Mittag lichtet</l>
+            <l>Und Schatten mischt mit balsamreicher Schwüle;</l>
+            <l>Kennt ihr mich noch, der sonst hieher geflüchtet,</l>
+            <l>Im Moose bei süß-schläferndem Gefühle,</l>
+            <l>Der Mücke Sumsen hier ein Ohr geliehen,</l>
+            <l>Ach, kennt ihr mich, und wollt nicht vor mir fliehen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier wird ein Strauch, ein jeder Halm zur Schlinge,</l>
+            <l>Die mich in liebliche Betrachtung fängt,</l>
+            <l>Kein Mäuerchen, kein Holz ist so geringe,</l>
+            <l>Daß nicht mein Blick voll Wehmuth an ihm hängt;</l>
+            <l>Ein jedes spricht mir halbvergeßne Dinge,</l>
+            <l>Ich fühle, wie von Schmerz und Lust gedrängt</l>
+            <l>Die Thräne stockt, indeß ich ohne Weile,</l>
+            <l>Unschlüssig, satt und durstig, weiter eile.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

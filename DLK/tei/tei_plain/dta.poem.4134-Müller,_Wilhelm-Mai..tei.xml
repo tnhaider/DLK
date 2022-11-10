@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mai.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-3 4-3</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">91</measure>
+        <measure type="characters">517</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mai.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gehüllt in süße, bange Dämmerungen:</l>
+            <l>Es wird so viel zu meinem Preis gesungen,</l>
+            <l>Daß mir die Lust am Liede fast vergangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wärst du so heiß von seligem Verlangen,</l>
+            <l>Wie eine Lilie, deren weiße Zungen</l>
+            <l>Den langen Tag nach kühlem Trost gerungen,</l>
+            <l>Bis daß sie müd' und matt zur Erde hangen:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm her zu mir, ich gebe dir zu trinken,</l>
+            <l>So viel du magst, mein treuer deutscher Zecher,</l>
+            <l>Aus meinem bodenlosen Liebesbecher!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehst du die hellen Thauestropfen blinken</l>
+            <l>Dort an den Lilien in der Morgensonne?</l>
+            <l>Wie mäßig schaltet ihr mit meiner Wonne!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

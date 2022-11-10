@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">245</measure>
+        <measure type="tokens">165</measure>
+        <measure type="characters">955</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Freyheit habe ich verlohren/</l>
+            <l>Mit steten Seuffzen quähl ich mich</l>
+            <l>Um eine/ die so schön gebohren/</l>
+            <l>Daß alle Welt verwundert sich</l>
+            <l>Wie sie so schön/ doch hart darneben</l>
+            <l>Vor den/ der sich ihr hat ergeben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kaum hatten ihre Kostbarkeiten</l>
+            <l>Der Jugend Anmuhts-Lentz erreicht/</l>
+            <l>Als </l>
+            <l>Der sich auf ihren Wangen zeigt;</l>
+            <l>Die Rosen/ so da herrlich prangen/</l>
+            <l>Die nehmen meinen Geist gefangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! hätt sie nicht so schöne Augen/</l>
+            <l>Und wär’ ihr Hals so artig nicht/</l>
+            <l>So dürffte niemand Flammen saugen/</l>
+            <l>Und auf ihr wär’ kein Hertz gericht.</l>
+            <l>Ach! daß die holden Schönheits Strahlen</l>
+            <l>Der </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich brenne durch den Strahl entzündet/</l>
+            <l>Der aus so schönen Augen fährt.</l>
+            <l>Die Marter/ so mein Hertz empfindet/</l>
+            <l>Jhr strenges Grausahm-seyn vermehrt/</l>
+            <l>Sie lachet wenn ich mich beklage/</l>
+            <l>Daß ich so schwere Banden trage.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch mehr/ ich soll so gar verbrennen/</l>
+            <l>Und in der Noht verschwiegen seyn;</l>
+            <l>Sie zürnt/ will ich den Ursprung nennen</l>
+            <l>Der ungemeinen Liebes-Pein.</l>
+            <l>So muß ich an der Schönen ehren/</l>
+            <l>Was mir die Stoltze wil verwehren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

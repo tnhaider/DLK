@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wer hat dies Liedlein erdacht .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5</measure>
+        <measure type="syllables">118</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">469</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wer hat dies Liedlein erdacht .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort oben in dem hohen Haus,               </l>
+            <l>Da guckt ein wacker Mädel raus,</l>
+            <l>Es ist nicht dort daheime,</l>
+            <l>Es ist des Wirths sein Töchterlein,</l>
+            <l>Es wohnt auf grüner Heide.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wer das Mädel haben will,</l>
+            <l>Muß tausend Thaler finden,</l>
+            <l>Und muß sich auch verschwören,</l>
+            <l>Nie mehr zu Wein zu gehn,</l>
+            <l>Des Vaters Gut verzehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer hat denn das schöne Liedel erdacht,</l>
+            <l>Es habens drei Gäns übers Wasser gebracht,</l>
+            <l>Zwei graue und eine weisse;</l>
+            <l>Und wer das Liedlein nicht singen kann,</l>
+            <l>Dem wollen sie es pfeifen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

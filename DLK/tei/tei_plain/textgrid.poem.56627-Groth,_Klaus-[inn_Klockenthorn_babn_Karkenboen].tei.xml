@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[inn Klockenthorn babn Karkenboen]</title>
+        <author>
+          <persName>
+            <surname>Groth</surname>
+            <forename>Klaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">182</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">658</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1859</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[inn Klockenthorn babn Karkenboen]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Inn Klockenthorn babn Karkenbœn</l>
+            <l>Dar geit en Rad mit isern Tähn,</l>
+            <l>Un wenn de ole, de dowe, de Küster ni weer,</l>
+            <l>So keem der keen starbens Minsch, vunne ganze Eer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>De Möllerbursch sitt ganz alleen,</l>
+            <l>He süht in dat Rad, dat drift de Steen</l>
+            <l>Un wenn de ole, de dowe, de Küster sin Dochder ni weer,</l>
+            <l>Wat kunn der so lusti sik dreihn oppe ganze Eer?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Inn Klockenthorn babn Karkenbœn</l>
+            <l>Dar geit en Rad mit isern Tähn,</l>
+            <l>Un wenn de ole, de dowe, de Küster ni weer,</l>
+            <l>So keem der keen starbens Minsch, vunne ganze Eer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>De Möllerbursch sitt ganz alleen,</l>
+            <l>He süht in dat Rad, dat drift de Steen</l>
+            <l>Un wenn de ole, de dowe, de Küster sin Dochder ni weer,</l>
+            <l>Wat kunn der so lusti sik dreihn oppe ganze Eer?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

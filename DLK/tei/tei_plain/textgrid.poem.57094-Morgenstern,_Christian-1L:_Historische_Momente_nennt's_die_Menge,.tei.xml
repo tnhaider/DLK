@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Historische Momente nennt's die Menge,</title>
+        <author>
+          <persName>
+            <surname>Morgenstern</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-5 2-2 3-2 4-5 5-2 6-2</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">608</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Historische Momente nennt's die Menge,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Historische Momente nennt's die Menge,</l>
+            <l>wenn über schwärzlichem Gedränge</l>
+            <l>ein toter Papst die Hände hält ...</l>
+            <l>Als ob man sie nicht besser kennte,</l>
+            <l>die wirklichen »historischen Momente«!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch haben sie noch ganz die Liebe</l>
+            <l>der Weiblein und der Taschendiebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welch glänzender Theatercoup!</l>
+            <l>Man hat doch ein Billett dazu?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Historische Momente nennt's die Menge,</l>
+            <l>wenn über schwärzlichem Gedränge</l>
+            <l>ein toter Papst die Hände hält ...</l>
+            <l>Als ob man sie nicht besser kennte,</l>
+            <l>die wirklichen »historischen Momente«!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch haben sie noch ganz die Liebe</l>
+            <l>der Weiblein und der Taschendiebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welch glänzender Theatercoup!</l>
+            <l>Man hat doch ein Billett dazu?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Unser Friede.</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">265</measure>
+        <measure type="tokens">173</measure>
+        <measure type="characters">1035</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Unser Friede.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Sommertag, wo man zu tiefer</l>
+            <l>Siesta sich verpflichtet hält,</l>
+            <l>Wo Mücken nur und Ungeziefer</l>
+            <l>So recht lebendig in der Welt,</l>
+            <l>Wo giftger Pesthauch auf zum Himmel</l>
+            <l>Aus stehenden Gewässern steigt,</l>
+            <l>In deren Schlamm sich das Gewimmel</l>
+            <l>Vielbeinigen Gewürmes zeigt:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist der Friede, der uns schlimmer</l>
+            <l>Als je ein Krieg zu werden droht,</l>
+            <l>Als je ein Krieg, der uns noch immer</l>
+            <l>Ein offen Feld für Thaten bot;</l>
+            <l>Genüssler hegt jetzt unsre Jugend,</l>
+            <l>Und Stockgelehrte allenfalls,</l>
+            <l>Doch jeder Kraft und Männertugend</l>
+            <l>Brach dieser Friede schon den Hals. —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wird die Sonn’ erst unerträglich,</l>
+            <l>Und dörrt den Wald, und sengt die Flur,</l>
+            <l>Da hilft sich, auf gut-sommertäglich,</l>
+            <l>Mit einem Schlage die Natur:</l>
+            <l>Die Donnerwolke blitzt und wettert,</l>
+            <l>Und nimmt der Luft den giftgen Hauch,</l>
+            <l>Und wird auch mancher Baum zerschmettert,</l>
+            <l>In faule Sümpfe schlägt es auch.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Welch Friede </l>
+            <l>Die Sonn’ im Westen untergeht,</l>
+            <l>Und dunkle Purpurrosen malend,</l>
+            <l>Der Himmel wie in Flammen steht!</l>
+            <l>Wir baden uns im Hauch der Frische,</l>
+            <l>Wie neugeboren ist das All,</l>
+            <l>Und in des Baumes Blätternische</l>
+            <l>Schlägt lieblicher die Nachtigall.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

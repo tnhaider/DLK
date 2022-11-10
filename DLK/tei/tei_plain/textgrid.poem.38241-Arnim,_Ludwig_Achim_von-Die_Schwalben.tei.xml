@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Schwalben</title>
+        <author>
+          <persName>
+            <surname>Arnim</surname>
+            <forename>Ludwig Achim von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">810</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Schwalben</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es fliegen zwei Schwalben ins Nachbar sein Haus,</l>
+            <l>Sie fliegen bald hoch und bald nieder;</l>
+            <l>Aufs Jahr, da kommen sie wieder,</l>
+            <l>Und suchen ihr voriges Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie gehen jezt fort ins neue Land,</l>
+            <l>Und ziehen jezt eilig hinüber;</l>
+            <l>Doch kommen sie wieder herüber,</l>
+            <l>Das ist einem jeden bekannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und kommen sie wieder zu uns zurück,</l>
+            <l>Der Baur geht ihnen entgegen;</l>
+            <l>Sie bringen ihm vielmahl den Segen,</l>
+            <l>Sie bringen ihm Wohlstand und Glück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es fliegen zwei Schwalben ins Nachbar sein Haus,</l>
+            <l>Sie fliegen bald hoch und bald nieder;</l>
+            <l>Aufs Jahr, da kommen sie wieder,</l>
+            <l>Und suchen ihr voriges Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie gehen jezt fort ins neue Land,</l>
+            <l>Und ziehen jezt eilig hinüber;</l>
+            <l>Doch kommen sie wieder herüber,</l>
+            <l>Das ist einem jeden bekannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und kommen sie wieder zu uns zurück,</l>
+            <l>Der Baur geht ihnen entgegen;</l>
+            <l>Sie bringen ihm vielmahl den Segen,</l>
+            <l>Sie bringen ihm Wohlstand und Glück.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

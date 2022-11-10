@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mein Herz .  
+ 1840.</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">568</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191321"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mein Herz .  
+ 1840.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der stolzen Sonne, heiß und glühend,</l>
+            <l>Dem stillen Monde trüb und bleich,</l>
+            <l>— Sehnsüchtig tausend Sterne sprühend —</l>
+            <l>Mein Herz, mein Herz ist beiden gleich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Himmel, klar und rein und blauend,</l>
+            <l>Der Wolke, — jetzt gewitterreich</l>
+            <l>Und jetzt in Thränen niederthauend, —</l>
+            <l>Mein Herz, mein Herz ist beiden gleich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Nachtigall voll frischer Lieder,</l>
+            <l>Der Rose — blüthen- — dornenreich,</l>
+            <l>Dem Frühling und dem Winter wieder,</l>
+            <l>Mein Herz es ist dem Allen gleich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur Einem gleicht es nicht auf Erden:</l>
+            <l>Nie will in seinem kleinen Reich</l>
+            <l>Der langersehnte Friede werden,</l>
+            <l>Drum ist es nie sich selber gleich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

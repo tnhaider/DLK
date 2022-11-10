@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frühlingsandacht.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">537</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frühlingsandacht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Frühlings Stürme durchbrausen das Land …</l>
+            <l>Meine Seele durchlodert der Sehnsucht Brand.</l>
+            <l>Es treibt mich hinaus in der Einsamkeit Dom,</l>
+            <l>Ich kühle die Gluth in der Winde Strom.</l>
+            <l>Versunken liegt die Erinnerung weit:</l>
+            <l>Mich grüßt die Sonne der Ewigkeit.</l>
+            <l>Die Bäche rauschen mir liebend zu,</l>
+            <l>Die Vögel singen: sei glücklich auch du.</l>
+            <l>Die Bäume neigen sich zum Willkomm’,</l>
+            <l>Süße Andacht erfüllt mich: Ich bin fromm.</l>
+            <l>Tiefheiliger Schauer mich durchweht:</l>
+            <l>Es weiht mich der Schöpfung Majestät.</l>
+            <l>Ich sauge den Odem der Gottheit ein,</l>
+            <l>Eins bin ich mit dem allewigen Sein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

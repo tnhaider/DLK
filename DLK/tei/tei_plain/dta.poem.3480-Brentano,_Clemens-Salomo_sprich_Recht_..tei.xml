@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Salomo sprich Recht .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">510</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Salomo sprich Recht .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es waren einmal zwei Gespielen,               </l>
+            <l>Sie giengen ins Feld spazieren.</l>
+            <l>Die eine die war so munter und wohl auf,</l>
+            <l>Die andre trauret sehre, ja sehre.</l>
+            <l>Wir beide haben einen Knaben so lieb,</l>
+            <l>Den können wir nicht theilen, ja theilen.</l>
+            <l>Ach Gespielin liebe meine,</l>
+            <l>Laß mir den Knaben alleine.</l>
+            <l>Ich will dir meinen Bruder geben,</l>
+            <l>Meines Vaters Gut zum Theile, ja Theile.</l>
+            <l>Ei deinen Bruder mag ich nicht,</l>
+            <l>Deines Vaters Gut veracht ich nicht.</l>
+            <l>Ich wollt nicht nehmen Silber und Gold,</l>
+            <l>Daß ich den Knaben lassen sollt, ja lassen sollt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

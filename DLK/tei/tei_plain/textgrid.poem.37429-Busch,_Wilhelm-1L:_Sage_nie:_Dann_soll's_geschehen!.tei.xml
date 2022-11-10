@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Sage nie: Dann soll's geschehen!</title>
+        <author>
+          <persName>
+            <surname>Busch</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">494</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1870</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Sage nie: Dann soll's geschehen!</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sage nie: Dann soll's geschehen!</l>
+            <l>Öffne dir ein Hinterpförtchen</l>
+            <l>Durch »Vielleicht«, das nette Wörtchen,</l>
+            <l>Oder sag: Ich will mal sehen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denk an des Geschickes Walten.</l>
+            <l>Wie die Schiffer auf den Plänen</l>
+            <l>Ihrer Fahrten stets erwähnen:</l>
+            <l>Wind und Wetter vorbehalten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sage nie: Dann soll's geschehen!</l>
+            <l>Öffne dir ein Hinterpförtchen</l>
+            <l>Durch »Vielleicht«, das nette Wörtchen,</l>
+            <l>Oder sag: Ich will mal sehen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denk an des Geschickes Walten.</l>
+            <l>Wie die Schiffer auf den Plänen</l>
+            <l>Ihrer Fahrten stets erwähnen:</l>
+            <l>Wind und Wetter vorbehalten!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

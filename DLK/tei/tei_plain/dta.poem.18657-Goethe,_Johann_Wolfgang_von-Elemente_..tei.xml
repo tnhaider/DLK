@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Elemente .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">735</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Elemente .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus wie vielen Elementen</l>
+            <l>Soll ein ächtes Lied sich nähren?</l>
+            <l>Dass es Layen gern empfinden,</l>
+            <l>Meister es mit Freuden hören.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liebe sey vor allen Dingen</l>
+            <l>Unser Thema, wenn wir singen;</l>
+            <l>Kann sie gar das Lied durchdringen,</l>
+            <l>Wird’s um desto besser klingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann muss Klang der Gläser tönen,</l>
+            <l>Und Rubin des Weins erglänzen:</l>
+            <l>Denn für Liebende, für Trinker</l>
+            <l>Winkt man mit den schönsten Kränzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Waffenklang wird auch gefodert,</l>
+            <l>Dass auch die Trommete schmettre;</l>
+            <l>Dass, wenn Glück zu Flammen lodert,</l>
+            <l>Sich im Sieg der Held vergöttre.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dann zuletzt ist unerlässlich,</l>
+            <l>Dass der Dichter manches hasse,</l>
+            <l>Was unleidlich ist und hässlich</l>
+            <l>Nicht wie Schönes leben lasse.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weiss der Sänger dieser Viere</l>
+            <l>Urgewalt’gen Stoff zu mischen,</l>
+            <l>Hafis gleich wird er die Völker</l>
+            <l>Ewig freuen und erfrischen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

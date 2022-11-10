@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ii.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">117</measure>
+        <measure type="characters">671</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ii.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich weiß nicht, was soll es bedeuten,</l>
+            <l>Daß ich so traurig bin;</l>
+            <l>Ein Mährchen aus alten Zeiten,</l>
+            <l>Das kommt mir nicht aus dem Sinn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Luft ist kühl und es dunkelt,</l>
+            <l>Und ruhig fließt der Rhein;</l>
+            <l>Der Gipfel des Berges funkelt</l>
+            <l>Im Abendsonnenschein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die schönste Jungfrau sitzet</l>
+            <l>Dort oben wunderbar</l>
+            <l>Ihr gold'nes Geschmeide blitzet,</l>
+            <l>Sie kämmt ihr gold'nes Haar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie kämmt es mit gold'nem Kamme,</l>
+            <l>Und singt ein Lied dabei;</l>
+            <l>Das hat eine wundersame,</l>
+            <l>Gewaltige Melodei.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Schiffer im kleinen Schiffe</l>
+            <l>Ergreift es mit wildem Weh;</l>
+            <l>Er schaut nicht die Felsenriffe,</l>
+            <l>Er schaut nur hinauf in die Höh'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich glaube, die Wellen verschlingen</l>
+            <l>Am Ende Schiffer und Kahn;</l>
+            <l>Und das hat mit ihrem Singen</l>
+            <l>Die Lore-Ley gethan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">DeR GEWITTERABEND</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">129</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">503</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30357-9"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>DeR GEWITTERABEND</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O die roten Abendstunden!</l>
+            <l>Flimmernd schwankt am offenen Fenster</l>
+            <l>Weinlaub wirr ins Blau gewunden,</l>
+            <l>Drinnen nisten Angstgespenster.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Staub tanzt im Gestank der Gossen.</l>
+            <l>Klirrend stößt der Wind in Scheiben.</l>
+            <l>Einen Zug von wilden Rossen</l>
+            <l>Blitze grelle Wolken treiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laut zerspringt der Weiherspiegel.</l>
+            <l>Möven schrein am Fensterrahmen.</l>
+            <l>Feuerreiter sprengt vom Hügel</l>
+            <l>Und zerschellt im Tann zu Flammen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kranke kreischen im Spitale.</l>
+            <l>Bläulich schwirrt der Nacht Gefieder.</l>
+            <l>Glitzernd braust mit einem Male</l>
+            <l>Regen auf die Dächer nieder.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

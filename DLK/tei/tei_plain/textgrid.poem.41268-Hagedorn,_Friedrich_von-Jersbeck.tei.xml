@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Jersbeck</title>
+        <author>
+          <persName>
+            <surname>Hagedorn</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">192</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">776</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1731</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Jersbeck</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier seh' ich mehr als das, was jenen Kaiser trieb,</l>
+            <l>Der Rückkehr zu dem Thron die Gärten vorzusetzen:</l>
+            <l>Ein Reich, das er gepflanzt, wo Freiheit voll Ergötzen,</l>
+            <l>Zum täglichen Triumph, sein Sieg im Alter blieb.</l>
+            <l>Hier herrschet diese Lust im würdigsten Gebiete:</l>
+            <l>Groß ist die Anmuth hier, die jede Gegend schmückt,</l>
+            <l>Groß jedes Werk der Kunst, und durch die Wahl beglückt;</l>
+            <l>Doch größer des Besitzers Güte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier seh' ich mehr als das, was jenen Kaiser trieb,</l>
+            <l>Der Rückkehr zu dem Thron die Gärten vorzusetzen:</l>
+            <l>Ein Reich, das er gepflanzt, wo Freiheit voll Ergötzen,</l>
+            <l>Zum täglichen Triumph, sein Sieg im Alter blieb.</l>
+            <l>Hier herrschet diese Lust im würdigsten Gebiete:</l>
+            <l>Groß ist die Anmuth hier, die jede Gegend schmückt,</l>
+            <l>Groß jedes Werk der Kunst, und durch die Wahl beglückt;</l>
+            <l>Doch größer des Besitzers Güte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

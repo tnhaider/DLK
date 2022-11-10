@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Soldatenlied</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">702</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Soldatenlied</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein scheckiges Pferd,</l>
+            <l>Ein blankes Gewehr</l>
+            <l>Und ein hölzernes Schwert,</l>
+            <l>Was braucht man denn mehr?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ein Soldat,</l>
+            <l>Man sieht's mir wohl an,</l>
+            <l>Ich maschire schon grad',</l>
+            <l>Halt' Schritt wie ein Mann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit trotzigem Muth</l>
+            <l>Zieh' Morgens ich aus,</l>
+            <l>Kehre freundlich und gut</l>
+            <l>Um Mittag nach Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wird exercirt</l>
+            <l>Zum Abend noch spat,</l>
+            <l>Bis der Schlaf commandirt:</l>
+            <l>»zu Bett, Kamerad!«</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein scheckiges Pferd,</l>
+            <l>Ein blankes Gewehr</l>
+            <l>Und ein hölzernes Schwert,</l>
+            <l>Was braucht man denn mehr?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin ein Soldat,</l>
+            <l>Man sieht's mir wohl an,</l>
+            <l>Ich maschire schon grad',</l>
+            <l>Halt' Schritt wie ein Mann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit trotzigem Muth</l>
+            <l>Zieh' Morgens ich aus,</l>
+            <l>Kehre freundlich und gut</l>
+            <l>Um Mittag nach Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wird exercirt</l>
+            <l>Zum Abend noch spat,</l>
+            <l>Bis der Schlaf commandirt:</l>
+            <l>»zu Bett, Kamerad!«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

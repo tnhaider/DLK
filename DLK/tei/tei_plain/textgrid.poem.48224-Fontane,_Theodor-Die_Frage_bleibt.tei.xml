@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Frage bleibt</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">68</measure>
+        <measure type="characters">436</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1887</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Frage bleibt</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Halte dich still, halte dich stumm,</l>
+            <l>Nur nicht forschen, warum? warum?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur nicht bittre Fragen tauschen,</l>
+            <l>Antwort ist doch nur wie Meeresrauschen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie's dich auch aufzuhorchen treibt,</l>
+            <l>Das Dunkel, das Rätsel, die Frage bleibt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Halte dich still, halte dich stumm,</l>
+            <l>Nur nicht forschen, warum? warum?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur nicht bittre Fragen tauschen,</l>
+            <l>Antwort ist doch nur wie Meeresrauschen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie's dich auch aufzuhorchen treibt,</l>
+            <l>Das Dunkel, das Rätsel, die Frage bleibt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

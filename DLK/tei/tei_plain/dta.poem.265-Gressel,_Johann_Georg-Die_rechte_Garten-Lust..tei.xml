@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die rechte Garten-Lust.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">514</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die rechte Garten-Lust.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Gärtner mag das Hertze lachen</l>
+            <l>Wenn er in seinem Garten geht/</l>
+            <l>Wo ihm die Lufft von allen Sachen</l>
+            <l>Schon den Geruch entgegen weht.</l>
+            <l>Da blicket er die Blumen-Felder</l>
+            <l>Gewißlich recht vergnüget an/</l>
+            <l>Und freut sich wenn er seine Wälder</l>
+            <l>Voll Obst und Früchte schauen kan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er lächelt/ wenn auf den </l>
+            <l>Er ein verirrtes Bienchen sieht.</l>
+            <l>Zu riechen muß die Ros’ ihm dienen/</l>
+            <l>Er küßt die süsse Nelcken-Blüth;</l>
+            <l>Zur Liljen spricht er: Seht wie nette</l>
+            <l>Daß ihre weisse Blätter stehn/</l>
+            <l>Die Nacht-Viol setzt er vors Bette</l>
+            <l>Wenn er jetzt will zur Ruhe gehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

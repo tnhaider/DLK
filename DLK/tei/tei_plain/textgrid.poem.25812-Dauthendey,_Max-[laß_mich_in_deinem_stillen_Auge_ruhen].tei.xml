@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[laß mich in deinem stillen Auge ruhen]</title>
+        <author>
+          <persName>
+            <surname>Dauthendey</surname>
+            <forename>Max</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-3 4-2 5-2 6-3</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">468</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[laß mich in deinem stillen Auge ruhen]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß mich in deinem stillen Auge ruhen,</l>
+            <l>Dein Auge ist der stillste Fleck auf Erden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es liegt sich gut in deinem dunkeln Blick,</l>
+            <l>Dein Blick ist gütig wie der weiche Abend.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom dunkeln Horizont der Erde</l>
+            <l>Ist nur </l>
+            <l>In deinem Auge endet meine Erde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß mich in deinem stillen Auge ruhen,</l>
+            <l>Dein Auge ist der stillste Fleck auf Erden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es liegt sich gut in deinem dunkeln Blick,</l>
+            <l>Dein Blick ist gütig wie der weiche Abend.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom dunkeln Horizont der Erde</l>
+            <l>Ist nur </l>
+            <l>In deinem Auge endet meine Erde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

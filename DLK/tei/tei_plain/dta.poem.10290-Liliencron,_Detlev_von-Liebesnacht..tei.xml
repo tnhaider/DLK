@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Liebesnacht.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">536</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Liebesnacht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun lös' ich sanft die lieben H&amp;#228;nde,             </l>
+            <l>Die du mir um den Hals gelegt.</l>
+            <l>Daß ich in deinen Augen finde,</l>
+            <l>Was dir das kleine Herz bewegt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O sieh die Nacht, die wundervolle,</l>
+            <l>In ferne Länder zog der Tag.</l>
+            <l>Der Birke Zischellaub verstummte,</l>
+            <l>Hörst du den Nachtigallenschlag?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der weiße Schlehdorn uns zu Häupten,</l>
+            <l>Es ist die liebste Blüte mir.</l>
+            <l>Trenn’ ab ein Zweiglein eh’ wir scheiden,</l>
+            <l>Zu dein’ und meines Hutes Zier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laß, Mädchen, uns die Nacht genießen,</l>
+            <l>Allein gehört sie mir und dir.</l>
+            <l>Die Blüte will ich aufbewahren</l>
+            <l>An diese Frühlingsstunde hier.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

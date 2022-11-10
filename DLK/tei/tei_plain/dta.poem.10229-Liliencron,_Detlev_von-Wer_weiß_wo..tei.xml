@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wer weiß wo.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">838</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wer weiß wo.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Blut und Leichen, Schutt und Qualm,             </l>
+            <l>Auf roßzerstampften Sommerhalm</l>
+            <l>Die Sonne schien.</l>
+            <l>Es sank die Nacht. Die Schlacht ist aus,</l>
+            <l>Und mancher kehrte nicht nach Haus</l>
+            <l>Einst von Kolin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Junker auch, ein Knabe noch,</l>
+            <l>Der heut das erste Pulver roch,</l>
+            <l>Er mußt’ dahin.</l>
+            <l>Wie hoch er auch die Fahne schwang,</l>
+            <l>Der Tod in seinen Arm ihn zwang,</l>
+            <l>Er mußt’ dahin.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihm nahe lag ein frommes Buch,</l>
+            <l>Das stets der Junker bei sich trug,</l>
+            <l>Am Degenknauf.</l>
+            <l>Ein Grenadier von Bevern fand</l>
+            <l>Den kleinen erdbeschmutzten Band</l>
+            <l>Und hob ihn auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und brachte heim mit schnellem Fuß</l>
+            <l>Dem Vater diesen letzten Gruß,</l>
+            <l>Der klang nicht froh.</l>
+            <l>Es schrieb hinein die Zitterhand:</l>
+            <l>„kolin. Mein Sohn verscharrt im Sand,</l>
+            <l>Wer weiß wo.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und der gesungen dieses Lied,</l>
+            <l>Und der es liest, im Leben zieht</l>
+            <l>Noch frisch und froh.</l>
+            <l>Doch einst bin ich, und bist auch du,</l>
+            <l>Verscharrt im Sand, in ewiger Ruh,</l>
+            <l>Wer weiß wo.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

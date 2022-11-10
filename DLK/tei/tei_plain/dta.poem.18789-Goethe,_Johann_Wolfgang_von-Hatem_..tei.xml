@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hatem .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">119</measure>
+        <measure type="characters">729</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hatem .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bräunchen komm! Es wird schon gehen.</l>
+            <l>Zöpfe, Kämme gross und kleine,</l>
+            <l>Zieren Köpfchens nette Reine</l>
+            <l>Wie die Kuppel ziert Moscheen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Blondinchen bist so zierlich,</l>
+            <l>Aller Weis’ und Weg’ so nette,</l>
+            <l>Man gedenkt nicht ungebührlich</l>
+            <l>Also gleich der Minarette.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du dahinten hast der Augen</l>
+            <l>Zweyerley, du kannst die beyden,</l>
+            <l>Einzeln, nach Belieben brauchen.</l>
+            <l>Doch ich sollte d</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leichtgedrückt die Augenlieder</l>
+            <l>Eines, die den Stern bewhelmen</l>
+            <l>Deutet auf den Schelm der Schelmen,</l>
+            <l>Doch das andre schaut so bieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dies, wenn jen’s verwundend angelt,</l>
+            <l>Heilend, nährend wird sich’s weisen.</l>
+            <l>Niemand kann ich glücklich preisen</l>
+            <l>Der des Doppelblicks ermangelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und so könnt’ ich alle loben</l>
+            <l>Und so könnt’ ich alle lieben:</l>
+            <l>Denn so wie ich euch erhoben</l>
+            <l>War die Herrin mit beschrieben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

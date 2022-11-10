@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">599</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„so lang der Gnaden-Quell der Allmacht es erlaubt,</l>
+            <l>„so lang ist nichts das mich von meinem Amt beraubt.</l>
+            <l>645”Was aber meiner Macht in der Natur verborgen,</l>
+            <l>„um dieses lassen wir den höchsten Arzt nur sorgen.</l>
+            <l>„sonst bleib ich im Besiz, und stehe nimmer ab;</l>
+            <l>„jhr kennet, was vor Kraft ihr meine Tugend gab.</l>
+            <l>„wann manche von dem Kreiß am sichersten geschlafen,</l>
+            <l>650”Da fand ich jederzeit am mehresten zu schaffen.</l>
+            <l>„stets war ich um das Herz der Königinn besorgt;</l>
+            <l>„wie manche Stund hab ich, ihr beyzustehn, geborgt:</l>
+            <l>„damit wann ihr Gemüth ein Trauren überwände,</l>
+            <l>„es weder Angst noch Schmerz, noch Bitterkeit empfände.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

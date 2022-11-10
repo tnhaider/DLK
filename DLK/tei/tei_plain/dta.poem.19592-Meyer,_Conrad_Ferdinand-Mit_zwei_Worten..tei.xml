@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mit zwei Worten.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">292</measure>
+        <measure type="tokens">192</measure>
+        <measure type="characters">1181</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mit zwei Worten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am Gestade Palästina's, auf und nieder, Tag um Tag,</l>
+            <l>„london?“ frug die Sarazenin, wo ein Schiff vor Anker lag.</l>
+            <l>„london!“ bat sie lang vergebens, nimmer ward sie müd und zag,</l>
+            <l>Bis zuletzt an Bord sie brachte eines Bootes Ruderschlag.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie betrat das Deck des Seglers und ihr wurde nicht gewehrt.</l>
+            <l>Meer und Himmel. „London?“ frug sie, von der Heimath abgekehrt,</l>
+            <l>Suchte, blickte, durch des Schiffers ausgestreckte Hand belehrt,</l>
+            <l>Nach den Küsten wo die Sonne sich in Abendgluth verzehrt ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„gilbert?“ fragt die Sarazenin im Gedräng der großen Stadt,</l>
+            <l>Und die Menge lacht und spottet, bis sie dann Erbarmen hat.</l>
+            <l>„tausend Gilbert giebt's in London!“ Doch sie schreitet nimmer</l>
+            <l>„labe dich mit Trank und Speise!“ Doch sie wird von Thränen satt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„gilbert!“ „Nichts als Gilbert? weißt du keine andern</l>
+            <l>„gilbert!“ ... „Hört, das wird der weiland Pilger Gilbert</l>
+            <l>Den gebräunt in Sklavenketten glüher Wüste Sonnenschein —</l>
+            <l>Dem die Bande löste heimlich eines Emirs Töchterlein —“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„pilgrim Gilbert Becket!“ dröhnt es, braust es längs der Themse</l>
+            <l>Sieh, da kommt er ihr entgegen, von des Volkes Mund genannt,</l>
+            <l>Ueber seine Schwelle führt er, die das Ziel der Reise fand.</l>
+            <l>Liebe wandert mit zwei Worten gläubig über Meer und Land.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

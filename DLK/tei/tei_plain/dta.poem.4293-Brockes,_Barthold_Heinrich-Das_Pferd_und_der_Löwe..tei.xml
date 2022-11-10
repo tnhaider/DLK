@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Pferd und der Löwe.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">107</measure>
+        <measure type="tokens">75</measure>
+        <measure type="characters">433</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Pferd und der Löwe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach, rettet dieses schöne Thier, das des Tyrannen Last</l>
+            <l>erdrückt!</l>
+            <l>Es steckt schon in des Löwen Rachen! Der Schmerz, zu-</l>
+            <l>sammt der Angst, erfüllen</l>
+            <l>Jhm alle Muskeln, alle Sehnen! Die aufgeriß’nen Adern</l>
+            <l>quillen!</l>
+            <l>Jhm sieht der Tod schon aus den Augen; mich deucht, es</l>
+            <l>ist bereits zerstückt!</l>
+            <l>Ich wollte dieses edle Thier und seinen harten Fall bekla-</l>
+            <l>gen;</l>
+            <l>Von dir, o </l>
+            <l>sagen:</l>
+            <l>Allein dein Löwe bleckt mich an; ich stutz’, und selbst mein</l>
+            <l>Kiel erschrickt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

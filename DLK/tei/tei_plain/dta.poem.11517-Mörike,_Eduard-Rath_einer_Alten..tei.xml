@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Rath einer Alten.</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">27</measure>
+        <measure type="verses_per_stanza">1-4 2-6 3-5 4-4 5-8</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">490</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1838</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193969"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Rath einer Alten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bin jung gewesen,</l>
+            <l>Kann auch mit reden,</l>
+            <l>Und alt geworden,</l>
+            <l>Drum gilt mein Wort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schön reife Beeren</l>
+            <l>Am Bäumchen hangen:</l>
+            <l>Nachbar, da hilft kein</l>
+            <l>Zaun um den Garten;</l>
+            <l>Lustige Vögel</l>
+            <l>Wissen den Weg.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber, mein Dirnchen,</l>
+            <l>Du laß dir rathen:</l>
+            <l>Halte dein Schätzchen</l>
+            <l>Wohl in der Liebe,</l>
+            <l>Wohl im Respekt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit den zwei Fädlein,</l>
+            <l>In Eins gedrehet,</l>
+            <l>Ziehst du am kleinen</l>
+            <l>Finger ihn nach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aufrichtig Herze,</l>
+            <l>Doch schweigen können,</l>
+            <l>Früh mit der Sonne</l>
+            <l>Muthig zur Arbeit,</l>
+            <l>Gesunde Glieder,</l>
+            <l>Saubere Linnen,</l>
+            <l>Das machet Mädchen</l>
+            <l>Und Weibchen werth.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

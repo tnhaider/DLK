@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kunstzopf.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">205</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">800</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Kunstzopf.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus deinem eignen Haar gewunden</l>
+            <l>Ward dir ein ungeheurer Zopf.</l>
+            <l>Schon hundert Jahre sind verschwunden,</l>
+            <l>Dir aber blieb der Zopf am Kopf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel große Meister sahn ihn hangen,</l>
+            <l>Und jeder nahm dir ab ein Stück,</l>
+            <l>Sie alle sind dann heimgegangen,</l>
+            <l>Dir aber blieb der Zopf zurück.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geheimnißvoll und zaubrisch schwebet</l>
+            <l>Der Zopf ob allen Staffelein,</l>
+            <l>Und keiner der da lebt und webet</l>
+            <l>Will dich, o freie Kunst, befrei'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was dir noch blieb, wird werthgehalten</l>
+            <l>In allen Kunstakademien;</l>
+            <l>Die Alten bleiben gern beim Alten,</l>
+            <l>Und keiner darf ein Haar draus ziehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum mag's dich auch nicht weiter quälen,</l>
+            <l>Wir alle tragen unser Leid;</l>
+            <l>An Zöpfen wird's der Welt nicht fehlen</l>
+            <l>Von nun an bis in Ewigkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wird dein alter Kopfschmuck schwinden,</l>
+            <l>Dann sind die Meister gleich bereit,</l>
+            <l>Dir einen neuen Zopf zu winden,</l>
+            <l>Wie er sich passt für unsre Zeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

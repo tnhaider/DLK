@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">50.</title>
+        <author>
+          <persName>
+            <surname>Czepko von Reigersfeld</surname>
+            <forename>Daniel</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">198</measure>
+        <measure type="tokens">134</measure>
+        <measure type="characters">814</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1632</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>50.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Griffel ziehet hier die stachlicht' Arbeit ein:</l>
+            <l>Denn das lateinsche L wird iedes Buch beschließen.</l>
+            <l>Wo Momus drüber wird die schwartze Galle gießen:</l>
+            <l>Sol es ihm umgekehrt ein Griechsches Γ seyn:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber solst dadurch, wie durch ein Winckel Scheid,</l>
+            <l>Im Schrancken, lieber Freund, der starcken Tugend stehen:</l>
+            <l>Auff Laster laß ich bloß des Grieffels Schärffe gehen,</l>
+            <l>Nicht ich, es hat hiervon dein Leben dich befreit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Griffel ziehet hier die stachlicht' Arbeit ein:</l>
+            <l>Denn das lateinsche L wird iedes Buch beschließen.</l>
+            <l>Wo Momus drüber wird die schwartze Galle gießen:</l>
+            <l>Sol es ihm umgekehrt ein Griechsches Γ seyn:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber solst dadurch, wie durch ein Winckel Scheid,</l>
+            <l>Im Schrancken, lieber Freund, der starcken Tugend stehen:</l>
+            <l>Auff Laster laß ich bloß des Grieffels Schärffe gehen,</l>
+            <l>Nicht ich, es hat hiervon dein Leben dich befreit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

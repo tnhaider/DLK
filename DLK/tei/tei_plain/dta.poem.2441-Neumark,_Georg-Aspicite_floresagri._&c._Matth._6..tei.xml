@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aspicite floresagri. &amp;c.  Matth.  6.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">101</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">383</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aspicite floresagri. &amp;c.  Matth.  6.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kommt ihr Bekümmerten/ ihr sorgen volle Sinnen/</l>
+            <l>Schaut in das weite Feld/ mein/ seht die Blumen</l>
+            <l>an/</l>
+            <l>Wie sie gekleidet stehn/ da keine doch kan spinnen/</l>
+            <l>So gehet doch in euch/ und dänket wol daran/</l>
+            <l>Wie weit ihr besser seit last eure Müh zerrinnen/</l>
+            <l>Und wandelt nur getrost in rechter Lebensbahn</l>
+            <l>Gott siehet eure Noht last ihn davor nur sorgen;</l>
+            <l>Gibt er es heute nicht so hoffet auff den Morgen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

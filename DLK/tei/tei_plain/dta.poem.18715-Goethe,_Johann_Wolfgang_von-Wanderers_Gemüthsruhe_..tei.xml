@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wanderers Gemüthsruhe .</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">76</measure>
+        <measure type="tokens">49</measure>
+        <measure type="characters">297</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1819</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191692"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Wanderers Gemüthsruhe .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ueber’s Niederträchtige</l>
+            <l>Niemand sich beklage;</l>
+            <l>Denn es ist das Mächtige,</l>
+            <l>Was man dir auch sage.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In dem Schlechten waltet es</l>
+            <l>Sich zu Hochgewinne,</l>
+            <l>Und mit Rechtem schaltet es</l>
+            <l>Ganz nach seinem Sinne.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wandrer! — Gegen solche Noth</l>
+            <l>Wolltest du dich sträuben?</l>
+            <l>Wirbelwind und trocknen Koth</l>
+            <l>Lass sie drehn und stäuben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Tirsanders Christenthum.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">583</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Tirsanders Christenthum.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es scheint der wilden Thiere Grimm gerechter noch,</l>
+            <l>als unsre Wut,</l>
+            <l>Sie spornt die Noth nur gegen andre, wir wüten gegen</l>
+            <l>unser Blut,</l>
+            <l>Aus Hunger nicht, aus Geiz und Stolz. Sie sind auch</l>
+            <l>in der That noch größer,</l>
+            <l>Den Vorzug, eine größre Macht und Kraft schenkt ihnen</l>
+            <l>die Natur,</l>
+            <l>Ein Reicher aber ist bey uns so wenig größer als auch</l>
+            <l>besser,</l>
+            <l>Und dennoch ist er mächtiger: Man schmiegt sich vor</l>
+            <l>ihm überall,</l>
+            <l>Um seiner eignen Größe nicht: ein wenig glänzendes</l>
+            <l>Metall,</l>
+            <l>Das er besitzt, macht ihn nur groß. Verliert er die-</l>
+            <l>ses, ist er klein</l>
+            <l>An Ehr und Größ’, er wird gleich dumm, verächtlich</l>
+            <l>und ein Narre seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Andreas Hofer's Tod.</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-7 2-6</measure>
+        <measure type="syllables">137</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">579</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Andreas Hofer's Tod.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Treu wolltest du dein altes Gut erfechten,</l>
+            <l>Der Freiheit ihren ew'gen Bund zu flechten,</l>
+            <l>Betratst du kühn die große Heldenbahn.</l>
+            <l>Und treu kam auch dein Volk zu dir heran,</l>
+            <l>Ob sie der Väter Glück erkämpfen                                 möchten;</l>
+            <l>Ach! wer vermag's, mit Gottes Spruch zu rechten? —</l>
+            <l>Der schöne Glaube war ein schöner Wahn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es fangen dich die Sklaven des Tyrannen,</l>
+            <l>Doch wie zum Siege blickst du Himmelwärts,</l>
+            <l>Der Freiheit Weg geht durch des Todes Schmerz!</l>
+            <l>Und ruhig siehst du ihre Büchsen spannen,</l>
+            <l>Sie schlagen an, die Kugel trifft in's Herz,</l>
+            <l>Und deine freie Seele fliegt von dannen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

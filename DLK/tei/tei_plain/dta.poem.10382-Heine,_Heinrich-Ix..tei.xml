@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ix.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">569</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ix.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf Flügeln des Gesanges,</l>
+            <l>Herzliebchen trag' ich dich fort,</l>
+            <l>Fort nach den Fluren des Ganges,</l>
+            <l>Dort weiß ich den schönsten Ort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort liegt ein rothblühender Garten</l>
+            <l>Im stillen Mondenschein;</l>
+            <l>Die Lotosblumen erwarten</l>
+            <l>Ihr trautes Schwesterlein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Veilchen kichern und kosen,</l>
+            <l>Und schau'n nach den Sternen empor;</l>
+            <l>Heimlich erzählen die Rosen</l>
+            <l>Sich duftende Mährchen in's Ohr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hüpfen herbei und lauschen</l>
+            <l>Die frommen, klugen Gazell'n;</l>
+            <l>Und in der Ferne rauschen</l>
+            <l>Des heiligen Stromes Well'n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort wollen wir niedersinken</l>
+            <l>Unter dem Palmenbaum,</l>
+            <l>Und Liebe und Ruhe trinken,</l>
+            <l>Und träumen seligen Traum.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

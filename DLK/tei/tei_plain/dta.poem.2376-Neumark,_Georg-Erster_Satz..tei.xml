@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erster Satz.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">131</measure>
+        <measure type="characters">788</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erster Satz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der ist Selig welcher bald auf Heyraht dänket/</l>
+            <l>Und auf dessen süsses Thun die Sinnen lenket/</l>
+            <l>Selig der ihm vorgenommen/</l>
+            <l>Bey noch frischer Zeit/</l>
+            <l>In den süssen Stand zu kommen/</l>
+            <l>Aller Liebligkeit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er kan da in stoltzer Ruh die Sinnen weiden/</l>
+            <l>Und sein Leid verzukkeren mit süssen Freuden/</l>
+            <l>Er kan sich mit Lust erwarmen/</l>
+            <l>Achtet keine Pein/</l>
+            <l>Schleust sich in der Liebsten Armen/</l>
+            <l>Und schläfft sicher ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn die Weiderwertigkeit auf ihn wil stürmen/</l>
+            <l>Steht sein treuer Mitgenoß/ und hilfft beschirmen/</l>
+            <l>Sie kan durch ein freundlichs Lachen/</l>
+            <l>Sein betrübtes Hertz</l>
+            <l>Und sein’ Arbeit süsse machen/</l>
+            <l>Durch verliebten Schertz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lieb und Leid kan Er allzeit mit ihr vertheilen.</l>
+            <l>Denn die Last liegt halb so schwer auf zweyen Seulen/</l>
+            <l>Männlich hilffet Sie ihm tragen/</l>
+            <l>Alles Eheleid/</l>
+            <l>Sie ist in den Freudentagen/</l>
+            <l>Sein’ Ergetzligkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

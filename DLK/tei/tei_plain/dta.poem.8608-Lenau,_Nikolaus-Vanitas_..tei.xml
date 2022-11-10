@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vanitas   .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">151</measure>
+        <measure type="characters">861</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vanitas   .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eitles Trachten, eitles Ringen</l>
+            <l>Frißt dein bischen Leben auf,</l>
+            <l>Bis die Abendglocken klingen,</l>
+            <l>Still dann steht der tolle Lauf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gastlich bot dir auf der Reise</l>
+            <l>Die Natur ihr Heiligthum;</l>
+            <l>Doch du stäubtest fort im Gleise,</l>
+            <l>Sahst nach ihr dich gar nicht um.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blüthenduft und Nachtigallen,</l>
+            <l>Mädchenkuß und Freundeswort</l>
+            <l>Riefen dich in ihre Hallen;</l>
+            <l>Doch du jagtest fort und fort.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eine Thörin dir zur Seite</l>
+            <l>Trieb mit dir ein arges Spiel,</l>
+            <l>Wies dir stets ins graue Weite:</l>
+            <l>„siehst du, Freund, dort glänzt das Ziel!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>War es Gold, war's Macht und Ehre,</l>
+            <l>Was sie schmeichelnd dir verhieß:</l>
+            <l>Kunstgriff war's nur der Hetäre,</l>
+            <l>Eitel Tand ist das und dieß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieh! noch winkt sie dir ins Weite,</l>
+            <l>Und du wardst ein alter Knab!</l>
+            <l>Nun entschlüpft dir dein Geleite,</l>
+            <l>Und du stehst allein — am Grab.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kannst nicht trocknen mehr die Stirne,</l>
+            <l>Da du mit dem Tode ringst;</l>
+            <l>Hörst nur ferne noch der Dirne</l>
+            <l>Hohngelächter — und versinkst!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

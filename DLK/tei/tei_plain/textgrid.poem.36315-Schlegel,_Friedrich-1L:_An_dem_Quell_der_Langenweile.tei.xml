@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: An dem Quell der Langenweile</title>
+        <author>
+          <persName>
+            <surname>Schlegel</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">160</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">584</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1800</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: An dem Quell der Langenweile</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>An dem Quell der Langenweile</l>
+            <l>Lag die Dichtkunst hingegossen.</l>
+            <l>Ihre Kinder, die Vokale,</l>
+            <l>Brachten große Wasserblumen;</l>
+            <l>Aus den Blumen Funken wurden,</l>
+            <l>Kleine Lichter funkelnd kamen,</l>
+            <l>Die zu Wasser bald erloschen,</l>
+            <l>Als Romanzen talwärts eilen,</l>
+            <l>Die nun fließen, die nun funkeln,</l>
+            <l>Auf des Klanges leichten Spuren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An dem Quell der Langenweile</l>
+            <l>Lag die Dichtkunst hingegossen.</l>
+            <l>Ihre Kinder, die Vokale,</l>
+            <l>Brachten große Wasserblumen;</l>
+            <l>Aus den Blumen Funken wurden,</l>
+            <l>Kleine Lichter funkelnd kamen,</l>
+            <l>Die zu Wasser bald erloschen,</l>
+            <l>Als Romanzen talwärts eilen,</l>
+            <l>Die nun fließen, die nun funkeln,</l>
+            <l>Auf des Klanges leichten Spuren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

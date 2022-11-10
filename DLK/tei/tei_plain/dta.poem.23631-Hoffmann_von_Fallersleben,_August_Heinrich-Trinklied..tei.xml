@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Trinklied.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">145</measure>
+        <measure type="tokens">113</measure>
+        <measure type="characters">617</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Trinklied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ja, lustig bin ich, das ist wahr!</l>
+            <l>Wie's Lämmlein auf der Au.</l>
+            <l>Die ganze Welt ist Sonnenschein,</l>
+            <l>Ich fange hier den Regen ein</l>
+            <l>Und trinke Himmelthau.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Stein der Weisen find' ich noch;</l>
+            <l>Margret, ein Schöpplein Wein!</l>
+            <l>Ich mach' aus Wein noch Gold und Geld,</l>
+            <l>Potz Velten! noch die ganze Welt,</l>
+            <l>'s Darf nur kein Krätzer sein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>He! reiß den Zeiger von der Uhr!</l>
+            <l>Was kümmert uns die Zeit?</l>
+            <l>Lass laufen was nicht bleiben kann!</l>
+            <l>Was geht denn mich ein andrer an?</l>
+            <l>Trink, Bruder, gieb Bescheid!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Bänk' und Tische nehmt's nicht krumm!</l>
+            <l>Ein Lied gar bald entflieht.</l>
+            <l>Als ihr noch grünbelaubet wart,</l>
+            <l>Da sangen Vöglein mancher Art</l>
+            <l>Euch auch gar manches Lied.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

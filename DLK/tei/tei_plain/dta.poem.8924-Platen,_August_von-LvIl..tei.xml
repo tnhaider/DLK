@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">LvIl.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">13</measure>
+        <measure type="verses_per_stanza">1-3 2-4 3-3 4-3</measure>
+        <measure type="syllables">143</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">528</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>LvIl.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gestirne schnell und unbewußt erbleichen,</l>
+            <l>Erliegen möcht' ich einst des Todes Streichen,</l>
+            <l>Wie Sagen uns vom Pindaros berichten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich will ja nicht im Leben oder Dichten</l>
+            <l>Den großen Unerreichlichen erreichen,</l>
+            <l>Ich möcht', o Freund, ihm nur im Tode gleichen;</l>
+            <l>Doch höre nun die schönste der Geschichten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er saß im Schauspiel, vom Gesang beweget,</l>
+            <l>Und hatte, der Ermüdete, die Wangen</l>
+            <l>Auf seines Lieblings schönes Knie geleget:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als nun der Chöre Melodien verklangen,</l>
+            <l>Will wecken ihn, der ihn so sanft geheget,</l>
+            <l>Doch zu den Göttern war er heimgegangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Du ruhst in meinem Schoße ...</title>
+        <author>
+          <persName>
+            <surname>Löns</surname>
+            <forename>Hermann</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">158</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">610</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1890</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Du ruhst in meinem Schoße ...</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die grünen Buchenblätter</l>
+            <l>Schatten so schwer und dicht,</l>
+            <l>Auf rotem Vorjahrslaube</l>
+            <l>Spielt blau das Sonnenlicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du ruhst in meinem Schoße,</l>
+            <l>Dein Atem geht so leis,</l>
+            <l>Es fiel aus deinen Händen</l>
+            <l>Der Strauß von Ehrenpreis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Duft aus deinem Blondhaar</l>
+            <l>Berauschend mich umweht,</l>
+            <l>Um meine seligen Lippen</l>
+            <l>Ein stilles Lächeln geht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die grünen Buchenblätter</l>
+            <l>Schatten so schwer und dicht,</l>
+            <l>Auf rotem Vorjahrslaube</l>
+            <l>Spielt blau das Sonnenlicht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du ruhst in meinem Schoße,</l>
+            <l>Dein Atem geht so leis,</l>
+            <l>Es fiel aus deinen Händen</l>
+            <l>Der Strauß von Ehrenpreis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Duft aus deinem Blondhaar</l>
+            <l>Berauschend mich umweht,</l>
+            <l>Um meine seligen Lippen</l>
+            <l>Ein stilles Lächeln geht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

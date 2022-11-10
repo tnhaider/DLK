@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">IiI.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">171</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">656</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198462"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>IiI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Löwe war an Jahren alt,</l>
+            <l>An Tugenden und Kräften kalt,</l>
+            <l>Als ihm von Feinden weh geschah.</l>
+            <l>Da ihn ein Eber liegen sah,</l>
+            <l>Dacht er an seinen alten Schaden,</l>
+            <l>Und biß den Löwen in die Waden.</l>
+            <l>Der Ochs kam auch daher gerannt,</l>
+            <l>Wo er den alten Löwen fand</l>
+            <l>Er übt an ihm auch seine Rach’,</l>
+            <l>Indem er ihn mit beyden Hörnern stach.</l>
+            <l>Mit andern Thieren kam zugleich</l>
+            <l>Der Esel auch hinzu, und gab ihm manchen Streich</l>
+            <l>An seine krancke Stirn. Das ist für die Untugend,</l>
+            <l>Die du mir vor der Zeit erzeigt in deiner Jugend;</l>
+            <l>Sprach er. Der Löwe fieng mit einem Seufzer an:</l>
+            <l>„ich litt es, schlüge mich ein Mann,</l>
+            <l>„daß mich ein Esel schlägt, schmerzt mehr als alle</l>
+            <l>(noth,</l>
+            <l>„so weh thut nicht der bittre Tod.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

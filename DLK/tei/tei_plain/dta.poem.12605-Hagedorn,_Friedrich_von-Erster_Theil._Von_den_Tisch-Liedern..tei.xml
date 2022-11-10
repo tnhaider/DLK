@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erster Theil.  
+ Von den Tisch-Liedern.</title>
+        <author>
+          <persName>
+            <surname>Hagedorn</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7 2-7</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">417</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1744</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199128"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erster Theil.  
+ Von den Tisch-Liedern.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brüder! warum trinkt ihr nicht?</l>
+            <l>Was erwartet ihr das Licht?</l>
+            <l>Denkt, wie bald ein Tag verflossen.</l>
+            <l>Gebet uns geschwinde Wein!</l>
+            <l>Grosse Becher bringt herein,</l>
+            <l>Die verschiedner Weite seyn,</l>
+            <l>Und vom Weine vollgegossen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Trinkt den Reben-Saft, und denkt,</l>
+            <l>Wozu Bacchus ihn geschenkt;</l>
+            <l>Auf! vergesset Noth und Plagen.</l>
+            <l>Eins, zwey, drey und mehrmal leer!</l>
+            <l>Und wird euch der Kopf zu schwer,</l>
+            <l>Gut! so trinket immer mehr.</l>
+            <l>Ein Glas soll das andre jagen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Wohl kann ich nicht stürmend mit bloßem Schwert</title>
+        <author>
+          <persName>
+            <surname>Strachwitz</surname>
+            <forename>Moritz von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">134</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">528</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1834</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Wohl kann ich nicht stürmend mit bloßem Schwert</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl kann ich nicht stürmend mit bloßem Schwert</l>
+            <l>Aufdonnern im Kampfesflug,</l>
+            <l>Doch kann ich singen der Helden Wert</l>
+            <l>Im wirbelnden Windeszug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch will ich spotten dem Minnedank</l>
+            <l>Im brausenden Liedergeroll,</l>
+            <l>Doch will ich singen und sagen frank,</l>
+            <l>Wie das mutige Herz mir schwoll.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl kann ich nicht stürmend mit bloßem Schwert</l>
+            <l>Aufdonnern im Kampfesflug,</l>
+            <l>Doch kann ich singen der Helden Wert</l>
+            <l>Im wirbelnden Windeszug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch will ich spotten dem Minnedank</l>
+            <l>Im brausenden Liedergeroll,</l>
+            <l>Doch will ich singen und sagen frank,</l>
+            <l>Wie das mutige Herz mir schwoll.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

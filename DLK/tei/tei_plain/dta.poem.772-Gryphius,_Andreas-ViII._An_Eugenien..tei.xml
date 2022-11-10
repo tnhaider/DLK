@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViII.  An  Eugenien.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">133</measure>
+        <measure type="characters">737</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViII.  An  Eugenien.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn meine Seel in Euch/ mein Licht? wie kan ich leben? </l>
+            <l>Nun das verhängnüß mich so ferne von euch reißt.</l>
+            <l>Wie kan ich frölich seyn/ wenn jhr mir Ewren geist</l>
+            <l>Nicht für den meinen woll’t/ (den jhr gefangen) geben?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Man siht mich hier/ doch nur alß ein Gespenste schweben.</l>
+            <l>Alß ein verzaubert Bild/ das sich beweglich weißt</l>
+            <l>Durch frembder künste macht/ diß was man sterben heißt</l>
+            <l>Kan meine Schẽrtzen wol/ nicht meine flamm’ aufheben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Klagt euch das Hertze nicht das jhr in bande legt</l>
+            <l>Wie scharff die Geissel sey die meine glieder schlägt/</l>
+            <l>Doch nein es ist zu schwach/ sein Elend auß zusprechen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es weiß nichts mehr von mir/ Es kennt euch nur allein/</l>
+            <l>Es frew’t sich seiner Angst/ vnd wündschet diese pein</l>
+            <l>Der Bande/ durch ein band/ das ewig sey/ zu brechen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lehrgedicht</title>
+        <author>
+          <persName>
+            <surname>Eichrodt</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">236</measure>
+        <measure type="tokens">172</measure>
+        <measure type="characters">932</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1859</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lehrgedicht</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kurz nur ist das Menschenleben</l>
+            <l>Und die Kunst ist lang allein,</l>
+            <l>Jedem ist es nicht gegeben,</l>
+            <l>In der Feder gut zu sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber Jeder könnte nehmen</l>
+            <l>Gute Bücher in die Hand,</l>
+            <l>Daß er nicht sich braucht schämen,</l>
+            <l>Wenn man spricht von allerhand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bildung ziert den Freigebornen,</l>
+            <l>Hebt den Jüngling, ehrt den Mann,</l>
+            <l>Und von Hinten und von Vornen</l>
+            <l>Sieht man Jedem Bildung </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darum legt Euch an den Laden,</l>
+            <l>Aber lest nicht viel bei Licht,</l>
+            <l>Denn es möcht' den Augen schaden</l>
+            <l>Und das möcht' ich selber nicht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kurz nur ist das Menschenleben</l>
+            <l>Und die Kunst ist lang allein,</l>
+            <l>Jedem ist es nicht gegeben,</l>
+            <l>In der Feder gut zu sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber Jeder könnte nehmen</l>
+            <l>Gute Bücher in die Hand,</l>
+            <l>Daß er nicht sich braucht schämen,</l>
+            <l>Wenn man spricht von allerhand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bildung ziert den Freigebornen,</l>
+            <l>Hebt den Jüngling, ehrt den Mann,</l>
+            <l>Und von Hinten und von Vornen</l>
+            <l>Sieht man Jedem Bildung </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darum legt Euch an den Laden,</l>
+            <l>Aber lest nicht viel bei Licht,</l>
+            <l>Denn es möcht' den Augen schaden</l>
+            <l>Und das möcht' ich selber nicht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

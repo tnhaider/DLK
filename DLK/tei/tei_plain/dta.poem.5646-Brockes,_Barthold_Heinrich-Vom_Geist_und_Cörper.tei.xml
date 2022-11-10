@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vom Geist und Cörper</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">775</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vom Geist und Cörper</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus dieser Gleichheit nun entsteht</l>
+            <l>Die Meinung, welche falsch, wodurch man gröblich irret,</l>
+            <l>Die Stoff und Geist vermischet und verwirret.</l>
+            <l>Wie man sich nie erinnern kann,</l>
+            <l>Daß sonder Cörper je die Seele was gethan;</l>
+            <l>So glanben wir, man könne sie nicht scheiden.</l>
+            <l>Es ist der Jrrthum fast nicht zu vermeiden,</l>
+            <l>Zu glauben, daß sie einerley,</l>
+            <l>Und eine wie die andre sey.</l>
+            <l>Der Geist, statt daß er sich,</l>
+            <l>Wenn er recht handeln wollte,</l>
+            <l>Vom Cörper unterscheiden sollte;</l>
+            <l>Macht sich selbst cörperlich.</l>
+            <l>Elendes Vorurtheil! so wir in unsrer Wiegen,</l>
+            <l>Mit einem schwachen Leib von Jugend auf schon fügen,</l>
+            <l>Zur steten Nahrungs-Sorg’ ohn Aufschub angetrieben.</l>
+            <l>Man sieht, daß Seel und Stoff bey uns vermischet seyn.</l>
+            <l>Dem Cörper, welcher doch ein Werckzeug nur allein,</l>
+            <l>Wird die Empfindungs-Krafft mit Unrecht zugeschrieben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

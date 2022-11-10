@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Siebendes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">250</measure>
+        <measure type="tokens">168</measure>
+        <measure type="characters">1066</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Siebendes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„welch unverzagtes Volck? erweget nicht die Zahl!</l>
+            <l>„nur dessen Streitbarkeit, Herz, Antliz, Muth und Wahl!</l>
+            <l>„ist es nicht eine Reih von unbesiegten Rittern,</l>
+            <l>„die nur, wann sich der Feind entfernt, für Rache zittern?</l>
+            <l>325”Habt ihr nicht jenes Barts, des dick bewachsnen Kinns,</l>
+            <l>„des scheelen Augenblicks, des starren Krieger-Sinns</l>
+            <l>„lebendiges Gerüst, das Waffen-Haus gesehen?</l>
+            <l>„mit was vor Muth und Lust es pflegt zum Kampf zu gehen?</l>
+            <l>„es schmiegt, verbirget sich, steckt in dem Wald bereit;</l>
+            <l>330”Eh sich der Feind versieht, wirfft es sich in den Streit,</l>
+            <l>„schießt, hauet, schlägt und sticht, stürmt, hagelt, stürzt und wittert,</l>
+            <l>„daß für der Gräßlichkeit sich Erd und Luft erschüttert.</l>
+            <l>„wie viele des Geschlechts bewaffnen nicht die Faust,</l>
+            <l>„daß es den Helden selbst für solchen Helden graußt?</l>
+            <l>335”Sie lassen Heerd und Pflug auf ihren Feldern stehen,</l>
+            <l>„für ihre Königinn ins Krieges-Feld zu gehen.</l>
+            <l>„ist Eisen oder Stahl zum Ackerbau geschmidt,</l>
+            <l>„so wird es hingerafft, es muß zum Kämpfen mit.</l>
+            <l>„da denckt man nimmermehr den Bauren-Hof zu hütten;</l>
+            <l>340”Nein: sondern Königen in Schlachten zu gebieten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

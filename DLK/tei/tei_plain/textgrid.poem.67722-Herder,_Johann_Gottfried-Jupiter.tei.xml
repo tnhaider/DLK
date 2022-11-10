@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Jupiter</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">604</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1773</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Jupiter</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liegt bergunter! Götter! wie der Hyder Geifer</l>
+            <l>Durchbricht! Aeol, den Du kaum beugst!</l>
+            <l>Seht, wie die Hölle seines Bauchs felsichte Fluthenfeuer</l>
+            <l>Ausheult! (Jupiter schüttelt.) Ach! nun ächzt er entathmend,</l>
+            <l>Krümmt sich. – Bebendes Land! Dir donnr' Aetna's Rauch,</l>
+            <l>Eh Du von Jupiter's rachsiegendem Blitz brennst!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liegt bergunter! Götter! wie der Hyder Geifer</l>
+            <l>Durchbricht! Aeol, den Du kaum beugst!</l>
+            <l>Seht, wie die Hölle seines Bauchs felsichte Fluthenfeuer</l>
+            <l>Ausheult! (Jupiter schüttelt.) Ach! nun ächzt er entathmend,</l>
+            <l>Krümmt sich. – Bebendes Land! Dir donnr' Aetna's Rauch,</l>
+            <l>Eh Du von Jupiter's rachsiegendem Blitz brennst!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Keuzlein .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">663</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Keuzlein .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich armes Keuzlein kleine,               </l>
+            <l>Wo soll ich fliegen aus,</l>
+            <l>Bey Nacht so gar alleine,</l>
+            <l>Bringt mir so manchen Graus:</l>
+            <l>Das macht der Eulen Ungestalt,</l>
+            <l>Ihr Trauern mannigfalt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wills Gefieder schwingen</l>
+            <l>Gen Holz in grünen Wald,</l>
+            <l>Die Vöglein hören singen</l>
+            <l>In mancherley Gestalt.</l>
+            <l>Vor allen lieb ich Nachtigal,</l>
+            <l>Vor allen liebt mich Nachtigal.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Kinder unten glauben,</l>
+            <l>Ich deute Böses an,</l>
+            <l>Sie wollen mich vertreiben,</l>
+            <l>Daß ich nicht schreien kann:</l>
+            <l>Wenn ich was deute, thut mir's leid,</l>
+            <l>Und was ich schrei, ist keine Freud.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Ast ist mir entwichen,</l>
+            <l>Darauf ich ruhen sollt,</l>
+            <l>Sein Blättlein all verblichen,</l>
+            <l>Frau Nachtigal geholt:</l>
+            <l>Das schafft der Eulen falsche Tück,</l>
+            <l>Die störet all mein Glück.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

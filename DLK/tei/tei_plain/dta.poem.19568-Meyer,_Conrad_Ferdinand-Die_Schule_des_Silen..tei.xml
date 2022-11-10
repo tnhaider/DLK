@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Schule des Silen.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-3 2-3 3-3 4-3 5-3 6-3 7-3</measure>
+        <measure type="syllables">250</measure>
+        <measure type="tokens">141</measure>
+        <measure type="characters">908</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Schule des Silen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der schattendunkeln Laube gab Silen, der weise, Stunde,</l>
+            <l>Der ihm weich ans Knie geschmiegte Bacchus hing an seinem Munde,</l>
+            <l>Lieblich lauschend.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unter seinem krausen Barte lachte freundlich der Ergraute,</l>
+            <l>Da er in das milde Feuer junger Götteraugen schaute,</l>
+            <l>Dann begann er:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„kind, betrachte dieses Antlitz, die gedankenschweren Lider!</l>
+            <l>Kind, in jedem greisen Zecher ehre du die Züge wieder</l>
+            <l>Deines Lehrers.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft, wo die Veliten wankten, jene prahlerischen Knaben,</l>
+            <l>Sind es die Triarier, Liebling, die das Feld behauptet haben</l>
+            <l>Unerschüttert!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn auf Chios mit dem Mädchen theilt den Becher der Ephebe,</l>
+            <l>Laß sie nippen, laß sie kosen — mit der vollsten Schale schwebe</l>
+            <l>Du vorüber.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lenke deine götterleichten Schritte zu Homer dem alten,</l>
+            <l>Netze seine heil'gen Lippen, glätte seiner Stirne Falten,</l>
+            <l>Wunderthäter!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lös ihm jeder Erdenschwere Fessel mit der Hand, der milden,</l>
+            <l>Fülle du des Blinden Auge mit unsterblichen Gebilden,</l>
+            <l>Ewig schönen!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

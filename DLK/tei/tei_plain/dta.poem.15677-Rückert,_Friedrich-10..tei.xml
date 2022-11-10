@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">10.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">174</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">675</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>10.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der wird nicht wirken viel mit allen seinen Werken,</l>
+            <l>Wer gleich bei jedem Werk die Wirkung will bemerken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du wirke fort und fort in deinen Werkbezirken!</l>
+            <l>Wirkt nicht das Einzelne, doch wird das Ganze wirken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ist Eines abgethan, so fang' ein Anders an,</l>
+            <l>Und warte nicht bis erst dein Erstes Lohn empfahn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie der Zitronenbaum zu neuer Blüte greift,</l>
+            <l>Ohn' abzuwarten bis zur Frucht die alte reift.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als Knabe ließ ich so gestellte Dohnen hangen</l>
+            <l>Und blieb nicht stehn dabei, bis etwas sich gefangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich that nach anderm Ziel indessen einen Gang</l>
+            <l>Und hob beim Heimweg aus den Dohnen meinen Fang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo müßig lauernd ich mich hätt' im Busch versteckt,</l>
+            <l>Hätt' ich mir selber nur die Vögel weggeschreckt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

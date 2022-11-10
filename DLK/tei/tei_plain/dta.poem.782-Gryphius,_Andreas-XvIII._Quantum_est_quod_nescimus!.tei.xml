@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XvIII.  
+ Quantum est quod nescimus!</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-1 5-2</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">123</measure>
+        <measure type="characters">726</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XvIII.  
+ Quantum est quod nescimus!</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jsts! oder ists ein wahn! daß anverwandter Blutt </l>
+            <l>Sey kräfftig vnsern Geist durch frembde macht zu rühren:</l>
+            <l>Soll wenn mein freundt betrübt/ ich mich bekümmert spüren?</l>
+            <l>Ob schon mir nicht endeckt wird seiner schmertzen glutt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Soll/ wenn sein Cörper fault/ mein hochbestürtzter mutt</l>
+            <l>In vnbekandt er angst sich kräncken vnd verlieren?</l>
+            <l>Soll mich sein bild zu nacht in lust vnd schrecken führen.</l>
+            <l>Vnd trösten in der pein/ vnd rathen was mir gutt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Bruder/ ehe man mir deinen todt entdecket:</l>
+            <l>Hast du drey Nachte mich auß meinem schlaff erwecket</l>
+            <l>Vnd mein vnendlich leid zu lindern dich bemüht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast mir zeit vnd Ortt der abgelegnen reisen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da ich nicht reisen wolt’ außdrücklich wollen weisen;</l>
+            <l>Ists! oder wissen wir/ weit minder alß man stht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

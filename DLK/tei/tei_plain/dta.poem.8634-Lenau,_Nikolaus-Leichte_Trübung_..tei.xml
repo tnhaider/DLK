@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Leichte Trübung .</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-4 2-14</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">609</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Leichte Trübung .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Woher dies plötzliche Verstummen?</l>
+            <l>Und diese Wolken, kummerschwer,</l>
+            <l>Die mir dein Angesicht vermummen,</l>
+            <l>Das erst so froh gestrahlt, woher?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„siehst du den blauen Berg dort ragen,</l>
+            <l>Der Felsen in die Lüfte hebt,</l>
+            <l>An welchen selbst die Gemsen zagen,</l>
+            <l>Und der erschrockne Jäger bebt? —</l>
+            <l>Von seinem Gipfel schleudre du</l>
+            <l>Ein Steinchen spielend in die Tiefen:</l>
+            <l>Du störst der Lüfte schwanke Ruh,</l>
+            <l>Und Nebel steigen, die dort schliefen.</l>
+            <l>So warfst du, seine Kraft nicht ahnend,</l>
+            <l>Ein Wörtchen mir in meine Brust,</l>
+            <l>Ein Wörtchen, leise, aber mahnend,</l>
+            <l>Und sieh, nun stieg der trübe Wust</l>
+            <l>Von Nebelbildern alter Kränkung</l>
+            <l>Aus ihrer stillen Nachtversenkung.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

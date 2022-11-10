@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XxVI.</title>
+        <author>
+          <persName>
+            <surname>Platen</surname>
+            <forename>August von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-9</measure>
+        <measure type="syllables">91</measure>
+        <measure type="tokens">64</measure>
+        <measure type="characters">351</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1828</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194597"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XxVI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie reihen sich zu ganzen Schaaren an!</l>
+            <l>Als Unerfahrner ward ich eingeschifft,</l>
+            <l>Und kam im Hafen unerfahren an!</l>
+            <l>Wenn du besuchen willst der Liebe Markt,</l>
+            <l>So triffst du stets von meinen Waaren an;</l>
+            <l>Vertrödelt hab' ich früherhin das Herz,</l>
+            <l>D'rum fing ich späterhin zu sparen an.</l>
+            <l>O Glück, wenn je du kommst, so thu' es jezt,</l>
+            <l>Du triffst mich noch bey jungen Jahren an!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

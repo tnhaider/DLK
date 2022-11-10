@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">6.</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">157</measure>
+        <measure type="tokens">103</measure>
+        <measure type="characters">625</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>6.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm', Bräut'gam! kommt, ihr Gäste!</l>
+            <l>Schon steht im Hochzeitkleid</l>
+            <l>Die bleiche Braut bereit,</l>
+            <l>Erwartend euch zum Feste.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herbey! herbey! zum Tanz</l>
+            <l>Die bleiche Braut zu führen, —</l>
+            <l>Seht! ihre Haare zieren</l>
+            <l>So Ros' als Lilienkranz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So Mond und Sterne kränzen</l>
+            <l>Lichtvoll das dunkle Thal,</l>
+            <l>Lampen im Hochzeitsaal,</l>
+            <l>Die Leichensteine glänzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und weil nach Tanz und Lauf</l>
+            <l>Der Ruh wir nöthig hätten, —</l>
+            <l>Schloß ich zu Schlummerstätten</l>
+            <l>Die stillen Gräber auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht! eure Betzte kränzet</l>
+            <l>Der Rosen stolze Art,</l>
+            <l>Doch eine Lilie zart</l>
+            <l>Am Bett' der Braut erglänzet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Hochzeit ist bereit,</l>
+            <l>Komm', Bräut'gam! kommt, ihr Gäste</l>
+            <l>Es öffnen sich zum Feste</l>
+            <l>Die schwarzen Thore weit!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

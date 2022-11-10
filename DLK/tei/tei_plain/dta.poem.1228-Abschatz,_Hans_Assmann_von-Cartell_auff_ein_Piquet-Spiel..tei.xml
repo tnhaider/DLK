@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Cartell auff ein Piquet-Spiel.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">165</measure>
+        <measure type="characters">953</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Cartell auff ein Piquet-Spiel.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doris/ dir ist unvergessen/</l>
+            <l>Was du jüngster Zeit gethan/</l>
+            <l>Wie dein Mund sich hat vermessen/</l>
+            <l>Mich als Feind zu greiffen an:</l>
+            <l>Wie man vor bekandten Ohren</l>
+            <l>Mir Capoth und Martsch geschworen/</l>
+            <l>Wie man eyfrig war bedacht</l>
+            <l>Mir zu lieffern eine Schlacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weil denn ohn Verlust der Ehren</l>
+            <l>Und nach Cavalieres-Pflicht/</l>
+            <l>Ich nicht schweigend kan verhören/</l>
+            <l>Was man mir zu Hohne spricht/</l>
+            <l>Weil wir/ sonder uns zu schlagen/</l>
+            <l>Nimmer können seyn vertragen/</l>
+            <l>So sey/ Doris/ nur bereit</l>
+            <l>Dich zu finden in den Streit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwar/ indem ich bin geruffen/</l>
+            <l>Stünde mir das Wählen frey/</l>
+            <l>Doch/ damit du nicht darffst hoffen</l>
+            <l>Daß ich abzuschrecken sey/</l>
+            <l>Wie dein Mund mir wird beschreiben</l>
+            <l>Ort und Art/ so soll es bleiben/</l>
+            <l>Wenn dirs wird gelegen seyn/</l>
+            <l>So will ich mich finden ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wisse/ daß ohn Ehr-erwerben</l>
+            <l>Ich nicht von dem Platze weich/</l>
+            <l>Liegen/ siegen/ leben/ sterben/</l>
+            <l>Soll mir alles gelten gleich/</l>
+            <l>Auch/ Cupiden ausgenommen/</l>
+            <l>Mag/ wer will/ vor Beystand kommen.</l>
+            <l>Solt ich gleich drob büssen ein/</l>
+            <l>Hertzen wird mein Rummel seyn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

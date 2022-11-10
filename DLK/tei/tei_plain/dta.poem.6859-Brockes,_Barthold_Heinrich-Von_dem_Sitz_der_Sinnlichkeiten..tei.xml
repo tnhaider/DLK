@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Sitz der Sinnlichkeiten.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">119</measure>
+        <measure type="tokens">79</measure>
+        <measure type="characters">474</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Sitz der Sinnlichkeiten.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Seele, die hiermit durchs Werckzeug sich beschäfftigt,</l>
+            <l>Will, daß die Sinnlichkeit in unserm Cörper sey,</l>
+            <l>Statt daß sie von dem Fehl der dummen Kindheit frey</l>
+            <l>Und sich entfernen sollt, wird sie darin bekräfftigt.</l>
+            <l>Und da sie alles glaubt von aussen her zu kriegen,</l>
+            <l>Hält sie sich stets gerührt von äusserlichen Zügen.</l>
+            <l>Indem man fühlt, daß uns des tieffen Himmels Zelt,</l>
+            <l>Zusammt dem weiten Reich der flüssenden Crystallen,</l>
+            <l>Gebürge, Thäler, Wald und Feld,</l>
+            <l>Auf einmal in die Augen fallen;</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

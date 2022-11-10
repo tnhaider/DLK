@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">19.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">87</measure>
+        <measure type="characters">488</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>19.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Garten sah ich Bäum' auf eigne Art benutzt,</l>
+            <l>Die Seitenäste samt dem Wipfel weggestutzt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verwundert fragt' ich, was die Stümmlung soll bedeuten?</l>
+            <l>Und angegeben ward der Grund mir von den Leuten:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nach dieser Seite fiel das Obst dem Waldbach zu,</l>
+            <l>Und oben kam allein des Vogels Flug dazu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wir von Aesten hier und droben weggenommen,</l>
+            <l>Auf andern Seiten wird es uns zu Statten kommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir ziehn nicht unsern Baum zur Schönheit wild und frei;</l>
+            <l>Wir ziehn für uns das Obst, wie schief der Astwuchs sei.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

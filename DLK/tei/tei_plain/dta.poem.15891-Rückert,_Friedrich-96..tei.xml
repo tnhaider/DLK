@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">96.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">560</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>96.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ei wie! an einem Tag verschlingst du alle Speise,</l>
+            <l>Womit ein Lebenlang den Geist genährt der Weise,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den du dir eben heut vornahmest zu verdaun;</l>
+            <l>Die Unersättlichkeit, erweckt sie dir kein Graun?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber deutest nur aus deiner innern Welt</l>
+            <l>Hin auf die äußere, die ebenso es hält;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da auch ein Prasser ja verpraßt an einem Tage</l>
+            <l>Mehr als erkarget hat des Kargers Jahresplage.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur ist der Unterschied, daß hier sich von den Aehren</l>
+            <l>Der armen Fleißigen die faulen Reichen nähren,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch du ein Aermerer zehrst von den geistig reichen.</l>
+            <l>Mög' es zu deines Geists Bereicherung gereichen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

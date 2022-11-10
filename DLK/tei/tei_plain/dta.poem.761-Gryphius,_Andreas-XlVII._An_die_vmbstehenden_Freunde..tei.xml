@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XlVII.  An die vmbstehenden Freunde.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">719</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XlVII.  An die vmbstehenden Freunde.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr libsten/ die jhr mich das wohn-hauß grimmer noht/ </l>
+            <l>Den abgezehrten Leib/ vnd die verdorten hände/ </l>
+            <l>Diß sterbende gesicht/ vnd mein betrübtes ende/ </l>
+            <l>Mit nassen Augen schawt; trawrt nicht vmb meinen Tod: </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da als der welt ade der Wehrte Bruder bott/ </l>
+            <l>Nach dem ich jeden tag viel tausendt seuftzer sende/</l>
+            <l>Mit dem die Schwester schied’ als meiner libsten wände</l>
+            <l>In flammen gingen ein/ vnd wurden grauß vnd kot/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da fiel mein leben hin. Mein fleisch der </l>
+            <l>Ligt nunmehr schon vnd fault in nicht nur einem grabe/</l>
+            <l>Dis was jhr für euch seht/ ist ein gespenst vnd dunst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Diß Feber kompt zu spät. Der todt wird hier nichts finden/ </l>
+            <l>Was acht ich seinen pfeil/ ich muß ohn diß verschwinden.</l>
+            <l>Jtzt nun mein tag anbricht. Habt danck für ewre gunst.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

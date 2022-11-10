@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vi.  
+ Auf eine Frühlings-Hochzeit.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">92</measure>
+        <measure type="tokens">56</measure>
+        <measure type="characters">351</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Vi.  
+ Auf eine Frühlings-Hochzeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Haben sich die süssen stunden</l>
+            <l>Nach dem winter eingefunden/</l>
+            <l>Jetzt da alles lebt und lacht/</l>
+            <l>Solt ihr nun vergnüget werden/</l>
+            <l>Da die zier der gantzen erden/</l>
+            <l>Allenthalben hochzeit macht?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>2. Sucht einander liebzukosen/</l>
+            <l>Weil die süssen frühlings-rosen</l>
+            <l>An dem jungen stocke stehn/</l>
+            <l>Weil ihr mit verliebten füssen</l>
+            <l>Könnt auff lilgen und narcissen</l>
+            <l>Zu der lust spatziren gehn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

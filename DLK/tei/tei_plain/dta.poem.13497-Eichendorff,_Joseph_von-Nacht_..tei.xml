@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nacht .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">157</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">634</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nacht .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie schön hier zu verträumen</l>
+            <l>Die Nacht im stillen Wald,</l>
+            <l>Wenn in den dunklen Bäumen</l>
+            <l>Das alte Mährchen hallt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Berg' im Mondesschimmer</l>
+            <l>Wie in Gedanken stehn,</l>
+            <l>Und durch verworrne Trümmer</l>
+            <l>Die Quellen klagend gehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Denn müd ging auf den Matten</l>
+            <l>Die Schönheit nun zur Ruh,</l>
+            <l>Es deckt mit kühlen Schatten</l>
+            <l>Die Nacht das Liebchen zu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist das irre Klagen</l>
+            <l>In stiller Waldespracht,</l>
+            <l>Die Nachtigallen schlagen</l>
+            <l>Von ihr die ganze Nacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Stern' gehn auf und nieder—</l>
+            <l>Wann kommst du, Morgenwind,</l>
+            <l>Und hebst die Schatten wieder</l>
+            <l>Von dem verträumten Kind?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schon rührt sich's in den Bäumen,</l>
+            <l>Die Lerche weckt sie bald —</l>
+            <l>So will ich treu verträumen</l>
+            <l>Die Nacht im stillen Wald.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

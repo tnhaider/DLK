@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Spring-Brunn.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">571</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1727</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198599"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Spring-Brunn.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Grosser GOtt! aus Dessen Willen</l>
+            <l>Alle Meer’, als Bächlein, qvillen,</l>
+            <l>Und durch Dessen Wort allein</l>
+            <l>Sich die unergründ’ten Gründe,</l>
+            <l>Aller Tiefen dunk’le Schlünde,</l>
+            <l>Mit dem Schwall der Wasser füllen;</l>
+            <l>Dieses kleine Wasser-Spiel</l>
+            <l>Zeigt mir viel.</l>
+            <l>Du nur hast der weichen Flut,</l>
+            <l>Deiner Creatur zu gut,</l>
+            <l>Diese Wunder-Eigenschaft,</l>
+            <l>Daß sie flüssig ist, gegeben,</l>
+            <l>Und durch eig’ner Schwere Kraft</l>
+            <l>Auch geschickt ist, sich zu heben,</l>
+            <l>Um dann durch ihr strenges Senken</l>
+            <l>Füglicher die Welt zu tränken:</l>
+            <l>Wie wir auf der Berge Höh’n</l>
+            <l>Lauter Wasser-Künste sehn.</l>
+            <l>Alle Wasser-Fäll’ und Meere</l>
+            <l>Spielen, HErr, zu deiner Ehre.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

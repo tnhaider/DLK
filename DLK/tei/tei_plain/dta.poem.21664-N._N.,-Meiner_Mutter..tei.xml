@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Meiner Mutter.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">626</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Meiner Mutter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mutter, aus der Ferne eilst Du,</l>
+            <l>Deinen Sohn zu sehen,</l>
+            <l>Ach, die kranke Seele heilst Du,</l>
+            <l>Linderst ihre Wehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bin zermartert, bin zerschlagen</l>
+            <l>Wie im Sturm die Eiche,</l>
+            <l>Doch bei Dir vergeht mein Klagen,</l>
+            <l>Gute, Milde, Weiche!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer der Zeit Meduse schaute</l>
+            <l>Schon mit jungen Jahren,</l>
+            <l>Wem’s in Höllentiefen graute,</l>
+            <l>Früh hinabgefahren:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wen zu Eis der Frost des Lebens</l>
+            <l>Oft das Herz erstarrt hat,</l>
+            <l>Wen der Irrthum dunklen Strebens</l>
+            <l>Trügerisch genarrt hat:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Laßt ihn in die treuen Augen</l>
+            <l>Seiner Mutter blicken,</l>
+            <l>Heiße Wonne wird er saugen</l>
+            <l>Und sich heiß erquicken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mutter, aus der Ferne eilst Du,</l>
+            <l>Deinen Sohn zu sehen,</l>
+            <l>Ach, die kranke Seele heilst Du,</l>
+            <l>Linderst ihre Wehen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

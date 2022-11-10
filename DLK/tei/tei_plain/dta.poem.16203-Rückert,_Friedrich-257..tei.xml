@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">257.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">124</measure>
+        <measure type="tokens">85</measure>
+        <measure type="characters">493</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>257.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein gutes Werkzeug braucht zur Arbeit ein Arbeiter,</l>
+            <l>Und gute Waffen auch zum Waffenstreit ein Streiter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du Streiter Gottes und Arbeiter, merk's, o Geist,</l>
+            <l>Daß deines eignen Leibs du nicht unachtsam seist.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist dein Arbeitszeug, das ist dein Streitgewaffen;</l>
+            <l>Das halte wohl in Stand, zu streiten und zu schaffen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O wie du dich bethörst, wenn du den Leib zerstörst,</l>
+            <l>Der dir so angehört, wie du Gott angehörst.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie du Gott angehörst, gehört dein Leib dir an,</l>
+            <l>Und ohne deinen Leib bist du kein Gottesmann.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

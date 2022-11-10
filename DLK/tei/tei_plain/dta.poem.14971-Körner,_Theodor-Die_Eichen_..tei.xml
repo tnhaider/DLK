@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Eichen .</title>
+        <author>
+          <persName>
+            <surname>Körner</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-8 2-7</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">570</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1814</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193258"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Eichen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ihr habt bestanden! — Unter allen</l>
+            <l>Grünt ihr frisch und kühn mit starkem Muth.</l>
+            <l>Wohl kein Pilger wird vorüber wallen,</l>
+            <l>Der in euerm Schatten nicht geruht.</l>
+            <l>Und wenn herbstlich eure Blätter fallen,</l>
+            <l>Todt auch sind sie euch ein köstlich Gut,</l>
+            <l>Denn verwesend werden eure Kinder</l>
+            <l>Eurer nächsten Frühlingspracht Begründer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schönes Bild von alter deutscher Treue,</l>
+            <l>Wie sie bess're Zeiten angeschaut;</l>
+            <l>Wo in freudig kühner Todesweihe,</l>
+            <l>Bürger ihre Staaten festgebaut. —</l>
+            <l>Ach was hilft's, daß ich den Schmerz erneue?</l>
+            <l>Sind doch alle diesem Schmerz vertraut!</l>
+            <l>Deutsches Volk, du herrlichstes vor allen,</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

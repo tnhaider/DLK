@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Vorwitz das Künftige  
+ zu wissen.</title>
+        <author>
+          <persName>
+            <surname>Weiße</surname>
+            <forename>Christian Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">73</measure>
+        <measure type="characters">420</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1767</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20643-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Vorwitz das Künftige  
+ zu wissen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gütig hüllt in Finsternissen</l>
+            <l>Gott die Zukunft ein:</l>
+            <l>Deutlich sie voraus zu wissen</l>
+            <l>Würde Strafe seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Säh ich Glück auf meinem Wege;</l>
+            <l>Würd ich stolz mich blähn,</l>
+            <l>Und leichtsinnig oder träge</l>
+            <l>Meinen Zweck versehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Säh ich Unglück; würd ich zittern:</l>
+            <l>Und die künftge Zeit</l>
+            <l>Würde mir das Glück verbittern,</l>
+            <l>Das mich ietzt erfreut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was ich habe, will ich nützen,</l>
+            <l>Fernen Gram nicht scheun:</l>
+            <l>Und soll ich ein Glück besitzen,</l>
+            <l>Meines Glücks mich freun.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gleichgewinn</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-12 2-12</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">678</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gleichgewinn</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht einer mit dem andern hin</l>
+            <l>Und auch wohl vor dem andern;</l>
+            <l>Drum laßt uns treu und brav und kühn</l>
+            <l>Die Lebenspfade wandern.</l>
+            <l>Es fällt ein jüngerer Soldat</l>
+            <l>Wohl in den ersten Schlachten;</l>
+            <l>Der andre muß ins Alter spat</l>
+            <l>Im Biwak übernachten.</l>
+            <l>Doch weiß er eifrig seinen Ruhm</l>
+            <l>Und seines Herrn zu mehren,</l>
+            <l>So bleibt sein letztes Eigentum</l>
+            <l>Gewiß das Bett der Ehren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geht einer mit dem andern hin</l>
+            <l>Und auch wohl vor dem andern;</l>
+            <l>Drum laßt uns treu und brav und kühn</l>
+            <l>Die Lebenspfade wandern.</l>
+            <l>Es fällt ein jüngerer Soldat</l>
+            <l>Wohl in den ersten Schlachten;</l>
+            <l>Der andre muß ins Alter spat</l>
+            <l>Im Biwak übernachten.</l>
+            <l>Doch weiß er eifrig seinen Ruhm</l>
+            <l>Und seines Herrn zu mehren,</l>
+            <l>So bleibt sein letztes Eigentum</l>
+            <l>Gewiß das Bett der Ehren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

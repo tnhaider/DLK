@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die beste Dankbarkeit.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-21</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">128</measure>
+        <measure type="characters">715</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1727</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198599"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die beste Dankbarkeit.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich seh das lieblich-grüne Gras,</l>
+            <l>Wenn es vom Thau des Morgens naß,</l>
+            <l>Als wie im bunten Feuer glimmen.</l>
+            <l>Ich seh der Sonne güld’ne Gluht</l>
+            <l>Auf reiner Bäche glatter Flut,</l>
+            <l>Als wie ein fliessend Silber, schwimmen.</l>
+            <l>Durch diesen Schein, durch dieses Glänzen</l>
+            <l>Entreisset sich die frohe Sele</l>
+            <l>Aus ihres ird’schen Cörpers Höle,</l>
+            <l>Aus den ihr sonst gewohnten Grenzen.</l>
+            <l>Durch dieses Feuers bunten Schein</l>
+            <l>Wird sie recht als auf einem Wagen</l>
+            <l>Von Feu’r und Glanz empor getragen.</l>
+            <l>Sie steigt durch die so schönen Flammen</l>
+            <l>Zu Dem, aus Dessen tiefem Meer</l>
+            <l>Von Lieb’ und Licht so manches Heer</l>
+            <l>Von Sonnen und von Welten stammen.</l>
+            <l>Sie zündet Jhm der Andacht Kerze,</l>
+            <l>Zu Seiner Ehr’, in Ehrfurcht an,</l>
+            <l>Und, weil sie sonst nichts geben kann,</l>
+            <l>So gibt sie Jhm im Dank ihr Herze.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

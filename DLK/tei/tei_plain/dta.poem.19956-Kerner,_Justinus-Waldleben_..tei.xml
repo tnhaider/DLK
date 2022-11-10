@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Waldleben .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">196</measure>
+        <measure type="tokens">135</measure>
+        <measure type="characters">780</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Waldleben .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sey willkommen, Wandersmann,</l>
+            <l>In des Waldes Einsamkeit!</l>
+            <l>Was ein armes Leben freut,</l>
+            <l>Hier man einzig finden kann.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>An der Quelle ruht das Reh,</l>
+            <l>Drossel übet freien Sang;</l>
+            <l>Waldesnacht mach' dir nicht bang,</l>
+            <l>Grün thut keinem Auge weh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bach und Thau giebt kühlen Schein,</l>
+            <l>Blume blühet ungepflückt,</l>
+            <l>Tief in Klüften, nie erblickt,</l>
+            <l>Schlummert Gold und Edelstein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Eile nicht zu Stadt und Thal!</l>
+            <l>Eine Mühle treibt der Quell:</l>
+            <l>Drossel, so gesungen hell,</l>
+            <l>Sizt im Bauer stumm und kahl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus der Erde stillem Schooß</l>
+            <l>Reißen sie den Edelstein;</l>
+            <l>Wie ein Auge giebt er Schein,</l>
+            <l>Das von Thränen überfloß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Armer, armer Wandersmann!</l>
+            <l>Weil' o weil' in Waldesnacht!</l>
+            <l>Draußen Mond und Sonne wacht,</l>
+            <l>Sieht dich jeder fragend an.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aber hier in Waldesschooß</l>
+            <l>Gehst du einsam mit dem Quell,</l>
+            <l>Siehet dich kein Auge hell,</l>
+            <l>Als der Thau auf Blum' und Moos.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

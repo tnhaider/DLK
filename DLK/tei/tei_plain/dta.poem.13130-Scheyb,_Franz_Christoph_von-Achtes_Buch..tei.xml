@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">813</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„die Schlange, dieser Hahn bedeuten meine Kraft,</l>
+            <l>660”Weil meine Macht so viel als ihre Tugend schafft,</l>
+            <l>„da diese Thiere nichts, was Schwachheit heisset, blödet.</l>
+            <l>„wo man von Wachsamkeit für die Gesundheit redet;</l>
+            <l>„der Schlange gleicht mein Herz; es ist, wie sie, gesund;</l>
+            <l>„dem Hahne jener Arzt, den meine Vorsicht fund;</l>
+            <l>665”Damit, wann ich vielleicht in Wanckelmuth verfalle,</l>
+            <l>„(Der Sachen Unbestand und Wechsel trifft uns alle)</l>
+            <l>„er meine Sorge trag’ und kluge Wachsamkeit;</l>
+            <l>„für mich, was mir ersprießt, ergründ’ und zubereit.</l>
+            <l>„ich hab aus Tausenden denselbigen erkohren,</l>
+            <l>670”Fleiß und Natur hat ihn zu diesem Ziel gebohren.</l>
+            <l>„wer jene Kräfte stärckt, womit man Kronen trägt,</l>
+            <l>„dem wird auch der Verdienst der Bürde beygelegt.</l>
+            <l>„der Arm, der ohne mich muß einen Zepter tragen,</l>
+            <l>„ist, wie ein schwaches Schiff bey bestem Wind, zu klagen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

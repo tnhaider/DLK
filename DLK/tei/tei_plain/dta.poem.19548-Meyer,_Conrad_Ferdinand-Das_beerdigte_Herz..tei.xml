@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das beerdigte Herz.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">89</measure>
+        <measure type="characters">478</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das beerdigte Herz.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich denkt es eines alten Traums.</l>
+            <l>Es war in meiner dumpfen Zeit,</l>
+            <l>Da junge Wildheit in mir gohr.</l>
+            <l>Bekümmert war die Mutter oft.</l>
+            <l>Da kam einmal ein schlimmer Brief.</l>
+            <l>(was er enthielt errieth ich nie.)</l>
+            <l>Die Mutter fuhr sich mit der Hand</l>
+            <l>Zum Herzen, fast als stürb' es ihr.</l>
+            <l>Die Nacht darauf hatt' ich den Traum:</l>
+            <l>Die Mutter sah verstohlen ich</l>
+            <l>Nach unserm Tannenwinkel gehn,</l>
+            <l>Den Spaten in der zarten Hand,</l>
+            <l>Sie grub ein Grab und legt' ein Herz</l>
+            <l>Hinunter sacht. Sie ebnete</l>
+            <l>Die Erde dann und schlich davon.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

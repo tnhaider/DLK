@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eisen-Hüttel.</title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">209</measure>
+        <measure type="tokens">143</measure>
+        <measure type="characters">816</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Eisen-Hüttel.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun ist es Zeit zu wachen </l>
+            <l>Eh Deutschlands Freyheit stirbt/</l>
+            <l>Und in dem weiten Rachen</l>
+            <l>Des Crocodils verdirbt.</l>
+            <l>Herbey/ daß man die Krötten/</l>
+            <l>Die unsern Rhein betretten/</l>
+            <l>Mit aller Macht zurücke</l>
+            <l>Zur Son und Seine schicke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Feind braucht Gold und Eisen</l>
+            <l>Wendt Stahl und Silber an/</l>
+            <l>Der deutschen Welt zu weisen/</l>
+            <l>Was List und Hochmutt kan;</l>
+            <l>Last euch das Geld in Händen</l>
+            <l>Die Augen nicht verblenden/</l>
+            <l>Damit euch hinterm Rücken</l>
+            <l>Die Fässel nicht bestricken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lasst Lerch und Falcken fliegen/</l>
+            <l>Sezt alle Kräffte bey/</l>
+            <l>Mit ihnen zu besiegen</l>
+            <l>Des Hahnes Pralerey.</l>
+            <l>Er prangt mit euren Federn/</l>
+            <l>Drum müsst ihr ihn entädern/</l>
+            <l>Und ieder sich bemühen</l>
+            <l>Das Seine weg zu ziehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wollt ihr euch unterwinden</l>
+            <l>Zu thun was sich gebührt/</l>
+            <l>Ein Hermann wird sich finden/</l>
+            <l>Der euch an Reihen führt.</l>
+            <l>Lasst euch verstellten Frieden</l>
+            <l>Zum Schlaffe nicht ermüden.</l>
+            <l>Mit </l>
+            <l>Muß man die Ruh erjagen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Der alte Kampf ist ausgekämpft;</title>
+        <author>
+          <persName>
+            <surname>Christen</surname>
+            <forename>Ada</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">506</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1870</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Der alte Kampf ist ausgekämpft;</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der alte Kampf ist ausgekämpft;</l>
+            <l>Weit hinter mir liegt jede Qual,</l>
+            <l>Es fiel in meines Lebens Frost</l>
+            <l>Der erste warme Sonnenstrahl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weit hinter mir liegt Groll und Leid</l>
+            <l>Durch milde Thränen aufgethaut.</l>
+            <l>Mein Auge hat zum ersten Mal</l>
+            <l>Die Wahrheit und das Glück geschaut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der alte Kampf ist ausgekämpft;</l>
+            <l>Weit hinter mir liegt jede Qual,</l>
+            <l>Es fiel in meines Lebens Frost</l>
+            <l>Der erste warme Sonnenstrahl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weit hinter mir liegt Groll und Leid</l>
+            <l>Durch milde Thränen aufgethaut.</l>
+            <l>Mein Auge hat zum ersten Mal</l>
+            <l>Die Wahrheit und das Glück geschaut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

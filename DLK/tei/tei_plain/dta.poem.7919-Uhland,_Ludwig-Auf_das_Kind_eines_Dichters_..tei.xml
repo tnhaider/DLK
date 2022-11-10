@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf das Kind eines Dichters .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">166</measure>
+        <measure type="tokens">94</measure>
+        <measure type="characters">624</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf das Kind eines Dichters .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sey uns willkommen, Dichterkind,</l>
+            <l>An deines Lebens goldner Pforte!</l>
+            <l>Wohl ziemen dir zum Angebind</l>
+            <l>Sich Lieder und prophet’sche Worte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In großer Zeit erblühest du,</l>
+            <l>In ernsten Tagen, wundervollen,</l>
+            <l>Wo über deiner kind’schen Ruh</l>
+            <l>Des heil’gen Krieges Donner rollen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du aber schlummre selig hin</l>
+            <l>In angestammten Dichterträumen</l>
+            <l>Von Himmelsglanz und Waldesgrün,</l>
+            <l>Von Sternen, Blumen, Blüthenbäumen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Derweil verrauschet der Orkan,</l>
+            <l>Es weicht der blut’gen Zeiten Trübe;</l>
+            <l>Wohl blühst als </l>
+            <l>Du kündest so das Reich der Liebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was einst als Ahnung, Sehnsucht nur</l>
+            <l>Durchdrungen deines Vaters Lieder,</l>
+            <l>Das sinkt von sel’ger Himmelsflur</l>
+            <l>Als reiches Leben dir hernieder.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

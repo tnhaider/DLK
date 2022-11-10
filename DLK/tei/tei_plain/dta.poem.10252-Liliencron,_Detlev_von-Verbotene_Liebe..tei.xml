@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Verbotene Liebe.</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">81</measure>
+        <measure type="tokens">56</measure>
+        <measure type="characters">345</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197184"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Verbotene Liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Nacht ist rauh und einsam,             </l>
+            <l>Die Bäume stehen entlaubt.</l>
+            <l>Es ruht an meiner Schulter</l>
+            <l>Dein kummerschweres Haupt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Fuchs trollt durch die Felder,</l>
+            <l>Wie ferne ist der Feind.</l>
+            <l>Gleichgültig glänzen die Sterne,</l>
+            <l>Dein schönes Auge weint.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du brichst ein dürres Ästlein,</l>
+            <l>Das ist so knospenleer,</l>
+            <l>Und reichst mir dann die Hände —</l>
+            <l>Wir sahen uns nimmermehr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

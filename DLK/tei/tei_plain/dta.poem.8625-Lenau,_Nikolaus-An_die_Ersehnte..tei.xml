@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Ersehnte.</title>
+        <author>
+          <persName>
+            <surname>Lenau</surname>
+            <forename>Nikolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">264</measure>
+        <measure type="tokens">158</measure>
+        <measure type="characters">1001</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1832</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Ersehnte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Umsonst! du bist auf immer mir verloren!</l>
+            <l>Laut rufend in den dunkeln Wald des Lebens,</l>
+            <l>Hat ohne Rast die Sehnsucht dich beschworen;</l>
+            <l>Ihr Ruf durchklang die Einsamkeit vergebens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tief ist mein Herz erkrankt an einer Ahnung,</l>
+            <l>Von der ich nimmer wohl genesen werde,</l>
+            <l>Es flüstert mir mein Herz die trübe Mahnung;</l>
+            <l>„noch ist sie nicht geboren dieser Erde!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„die Stunden, die mit frohen Wandersängen</l>
+            <l>„das Mädchen einst durchs Erdenthal geleiten,</l>
+            <l>„sie schlummern in der Zukunft Schattengängen</l>
+            <l>„bei ihrer Bürde noch von Seligkeiten,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„von Seligkeiten, die mit leichten Händen</l>
+            <l>„die wachen einst entgegenstreuen Allen,</l>
+            <l>„an welche sie die schöne Gunst verschwenden,</l>
+            <l>„mit ihrer Königin vorbeizuwallen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„die eine aber von den Schläferinnen</l>
+            <l>„wird locken sie zur Kühle von Cypressen,</l>
+            <l>„und führen sie, versenkt in stilles Sinnen,</l>
+            <l>„an deinen Hügel, moosig und vergessen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„dann irrt dein Geist um deine Asche bange,</l>
+            <l>„dann zittern Geist und Staub sich zu vereinen;</l>
+            <l>„das Mädchen aber wird am Grabeshange,</l>
+            <l>„geheim ergriffen, stille stehn — und weinen.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

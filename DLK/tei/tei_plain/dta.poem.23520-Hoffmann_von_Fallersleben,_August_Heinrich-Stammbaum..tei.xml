@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Stammbaum.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">209</measure>
+        <measure type="tokens">145</measure>
+        <measure type="characters">840</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Stammbaum.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O des Schicksals böse Tücke,</l>
+            <l>O das böse Spiel der Zeit!</l>
+            <l>Einst wohl saßen wir im Glücke,</l>
+            <l>Jetzo sitzen wir im Leid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur der Anblick meiner Felder,</l>
+            <l>Meiner Wiesen ist noch mein;</l>
+            <l>Längst verkauft sind meine Wälder,</l>
+            <l>Nur ein Baum blieb mir allein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ich diesen Baum umklammre,</l>
+            <l>Heg' ich Hoffnung, schöpf' ich Muth;</l>
+            <l>Wenn ich vor ihm wein' und jammre,</l>
+            <l>Fühl' ich neue Lebensglut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nein, ich habe nicht vergebens</l>
+            <l>Meine Tage hingebracht!</l>
+            <l>Seht, da steht der Baum des Lebens</l>
+            <l>Und in voller Blüthenpracht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und die Menschheit wird beglücken</l>
+            <l>Das was ich hienieden that:</l>
+            <l>Denn mit diesen Blüthen schmücken</l>
+            <l>Wird sich mancher Hof und Staat.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O du Baum aus altem Samen,</l>
+            <l>Wie beruhigst du mein Herz!</l>
+            <l>Schon vor deinem stolzen Namen</l>
+            <l>Schwindet aller Gram und Schmerz.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Grünt, ihr jungen Sommerlatten,</l>
+            <l>Wachst in fröhlichem Gedeihn!</l>
+            <l>Und in meines Stammbaums Schatten</l>
+            <l>Schlaf' ich sanft und selig ein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"></title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">121</measure>
+        <measure type="tokens">77</measure>
+        <measure type="characters">456</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head></head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hoffnung gleichet einem Wilde/</l>
+            <l>Das ein ieder fangen kan/</l>
+            <l>Sie ist allen Hertzen milde/</l>
+            <l>Wer sie will/ der trifft sie an/</l>
+            <l>Aehnlicht einem Schatten-Bilde/</l>
+            <l>Folget der Begierden Bahn.</l>
+            <l>Hoffnung gleichet einem Wilde/</l>
+            <l>Das ein ieder fangen kan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Solche Freude quillt vom Hoffen/</l>
+            <l>Die bey allen kehret ein.</l>
+            <l>Keiner/ der nach ihr geruffen/</l>
+            <l>Höret ein betrübtes Nein/</l>
+            <l>Wer ihr Ohr und Hertz hält offen/</l>
+            <l>Kan allzeit vergnüget seyn.</l>
+            <l>Solche Freude quillt vom Hoffen/</l>
+            <l>Die bey allen kehret ein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

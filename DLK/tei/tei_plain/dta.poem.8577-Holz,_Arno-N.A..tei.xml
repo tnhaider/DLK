@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">N.A.</title>
+        <author>
+          <persName>
+            <surname>Holz</surname>
+            <forename>Arno</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-3 2-6 3-2 4-1 5-3 6-3 7-1 8-2</measure>
+        <measure type="syllables">177</measure>
+        <measure type="tokens">88</measure>
+        <measure type="characters">654</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1899</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192690"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>N.A.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In den Grunewald,</l>
+            <l>seit fünf Uhr früh,</l>
+            <l>spie Berlin seine Extrazüge.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ueber die Brücke von Halensee,</l>
+            <l>über Spandau, Schmargendorf, über den Pichelsberg,</l>
+            <l>von allen Seiten,</l>
+            <l>zwischen trommelnden Turnerzügen, zwischen Kremsern mit Musik,</l>
+            <l>entlang die schimmernde Havel,</l>
+            <l>kilometerten sich die Chausseeflöhe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„pankow, Pankow, Pankow, Kille, Kille“„Rixdorfer“ „Schunkelwalzer“</l>
+            <l>„holzauktion!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jetzt ist es Nacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Noch immer</l>
+            <l>aas der Hundequäle</l>
+            <l>quietscht und empört sich der Leierkasten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hinter den Bahndamm, zwischen die dunklen Kuscheln,</l>
+            <l>verschwindet</l>
+            <l>eine brennende Cigarre, ein Pfingstkleid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Luna: lächelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zwischen weggeworfnem Stullenpapier und Eierschalen</l>
+            <l>suchen sie die blaue Blume!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

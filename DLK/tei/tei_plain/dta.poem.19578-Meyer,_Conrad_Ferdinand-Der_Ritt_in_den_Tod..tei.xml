@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Ritt in den Tod.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">135</measure>
+        <measure type="tokens">81</measure>
+        <measure type="characters">501</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Ritt in den Tod.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„greif' aus, du mein junges, mein feuriges Thier!</l>
+            <l>Noch einmal verwachs' ich centaurisch mit dir!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Umschmettert mich, Tuben! Erhebet den Ton!</l>
+            <l>Den Latiner besiegte des Manlius Sohn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Voran die Trophä'n! Der latinische Speer!</l>
+            <l>Der eroberte Helm! Die erbeutete Wehr!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Duell ist bei Strafe des Beiles verpönt ...</l>
+            <l>Doch er liegt der die römische Wölfin gehöhnt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lictoren, erfüllet des Vaters Gebot!</l>
+            <l>Ich besitze den Kranz und verdiene den Tod —</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bevor es sich rollend im Sande bestaubt,</l>
+            <l>Erheb' ich in ewigem Jubel das Haupt!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

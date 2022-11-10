@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein goldner Kaisertraum.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">266</measure>
+        <measure type="tokens">173</measure>
+        <measure type="characters">1061</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein goldner Kaisertraum.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kennst du das Zaubereiland,</l>
+            <l>Das fern im Süden liegt,</l>
+            <l>Das leis’ in ew’gen Schlummer</l>
+            <l>Die Meereswelle wiegt?</l>
+            <l>Hier blüht noch der Orangen</l>
+            <l>Und Myrten Hain so schön,</l>
+            <l>Hier schimmert noch so blendend weiß</l>
+            <l>Der Schnee auf Bergeshöh’n.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O siehst du, wie die Welle</l>
+            <l>Als wie ein kleines Kind</l>
+            <l>Umkos’t, umspielt das Eiland</l>
+            <l>So weich, so schmeichelnd lind?</l>
+            <l>Wohl liegt der Schnee so blendend</l>
+            <l>Hoch um des Aetna Firn’,</l>
+            <l>Und doch wie Trauer, still und groß,</l>
+            <l>Umwebt’s der Insel Stirn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo blieb, der einst hier ragte</l>
+            <l>Am Meere, der Palast,</l>
+            <l>Der jeden Gott begrüßte</l>
+            <l>Als hochwillkomm’nen Gast?</l>
+            <l>Wo blieb, das ihn durchrauschte,</l>
+            <l>Das purpurne Gewand,</l>
+            <l>Darauf so stolz in goldnem Grund</l>
+            <l>Ein rother Löwe stand?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verschollen sind die Lieder</l>
+            <l>Des deutschen Minnesangs,</l>
+            <l>Verblichen auf dem Eiland</l>
+            <l>Des Orient’s Mährchenglanz;</l>
+            <l>Der Minnehof der Schönheit,</l>
+            <l>Die Weisheit hochgelehrt,</l>
+            <l>Sie wichen, seit verrostete</l>
+            <l>Das Hohenstaufenschwert!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und hörst du, was die Welle</l>
+            <l>Noch heute traurig singt?</l>
+            <l>Was traurig wiederhallend</l>
+            <l>Zum hohen Norden klingt?</l>
+            <l>„hier schlummert in zwei Särgen</l>
+            <l>Ein goldner Kaisertraum,</l>
+            <l>Der einst umspannen wollte</l>
+            <l>Den ganzen Erdenraum.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">23.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">600</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>23.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als Blütenalter ist die Jugend wol bekannt,</l>
+            <l>Mir aber sei hinfort das Alter so genannt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die junge Pflanz' ist grün; wielang muß sie sich mühn</l>
+            <l>Durch Blatt und Zweig hindurch, bis ihr gelingt zu blühn!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr letztes ist das Blühn, nicht erstes, zweifelsohne;</l>
+            <l>Dann stirbt sie wann sie aufgesetzt die Blütenkrone.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie in der Jugend auch als Raupe kriecht, im Alter</l>
+            <l>Die blütengleiche Schwing' entfaltet der Zwiefalter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch fragst du wo denn sei des Alters Schwing' und Blüte?</l>
+            <l>So sag' ich: außen nicht, doch innen im Gemüte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist die Blüte, die hier athmet Seelenduft,</l>
+            <l>Dis Silfenflügelpaar trägt über Welt und Gruft.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

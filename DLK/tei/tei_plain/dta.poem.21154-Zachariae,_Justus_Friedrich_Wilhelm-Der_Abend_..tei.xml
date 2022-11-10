@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Abend .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4</measure>
+        <measure type="syllables">273</measure>
+        <measure type="tokens">190</measure>
+        <measure type="characters">1110</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Abend .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Abendstern winkt unsrer Erde</l>
+            <l>Die Ruh am Horizont herauf;</l>
+            <l>Des Tages Arbeit und Beschwerde</l>
+            <l>Hört auf dem stillen Erdkrais auf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Landmann, dessen stille Hütte</l>
+            <l>Der Gott des Schlafes gern bewohut,</l>
+            <l>Tritt vor die Thür mit schwerem Schritte,</l>
+            <l>Und sieht mit Gähnen in den Mond.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch in der Stadt im weiten Zimmer</l>
+            <l>Spült man die großen Gläser aus,</l>
+            <l>Und bey des Wachslichts stolzem Schimmer</l>
+            <l>Erhebet sich der Abendschmaus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da schimmern Westen bey den Hauben,</l>
+            <l>Da herrscht und jauchzt der freye Spaß;</l>
+            <l>Und treuer Saft aus rheinschen Trauben</l>
+            <l>Stürzt unaufhörlich in das Glas.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch, Freund, was machst du mit dem Weine,</l>
+            <l>Der schlechtgenützt sein Lager drückt?</l>
+            <l>Und warum hat ihn von dem Rheine</l>
+            <l>Der milde Weingott dir geschickt?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich seh schon, wie auf deinem Saale</l>
+            <l>Die Trunkenheit, nicht Bacchus, rauscht;</l>
+            <l>Freund, man entheiligt die Pokale,</l>
+            <l>Wenn man sich so, wie ihr, berauscht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O! daß in ungewürzten Zügen</l>
+            <l>Der edle Saft verschwendet wird;</l>
+            <l>Und daß der Mensch auch im Vergnügen</l>
+            <l>Zu seiner Schande strafbar irrt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur Freunde, die sich glücklich dünken,</l>
+            <l>Wenn sie dem Becher Lieder weihn;</l>
+            <l>Wir, Freund, wir müßten mit dir trinken,</l>
+            <l>So würde dir dein Wein, erst Wein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">81.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2</measure>
+        <measure type="syllables">203</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">799</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>81.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwer ist im Wechselnden zu sehn ein Bleibendes,</l>
+            <l>Im Umgetriebenen ein ruhig Treibendes.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von außen ist es schwer, und schwerer noch von innen,</l>
+            <l>Wo Bild in Bild wie Wog' in Woge scheint zu rinnen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Liegts an den Dingen, liegt an dir nur das Gebrechen,</l>
+            <l>Daß immer anders dich die äußern Ding' ansprechen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie geben Antwort, wie du fragst, und anders nicht;</l>
+            <l>Drum liegt es wol am Geist, wie er die Ding' anspricht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Darum ists Noth, in dir dich selber zu vereinen,</l>
+            <l>Um nicht in jedem Nu ein andrer dir zu scheinen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Spiegel und kein Wachs, darein sich wechselnd drückt</l>
+            <l>Dies Bild und jenes, das verunziert oder schmückt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In der Vorstellungen, in der Eindrücke Schwanken</l>
+            <l>Zu fühlen einen Kern feststehender Gedanken;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß du derselbe heut, in andrer Form verborgen,</l>
+            <l>Bist, der du gestern warst, und der du seyn wirst morgen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

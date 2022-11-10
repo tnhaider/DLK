@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er entsaget der Liebe.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7</measure>
+        <measure type="syllables">194</measure>
+        <measure type="tokens">132</measure>
+        <measure type="characters">734</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er entsaget der Liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was soll ich im Lieben hoffen</l>
+            <l>Freude/ oder Angst und Pein?</l>
+            <l>Ist das weisse Ziel getroffen</l>
+            <l>Oder wirds das schwartze seyn?</l>
+            <l>Scheinet mir das Licht des Lebens</l>
+            <l>Oder hoffe ich vergebens.</l>
+            <l>Echo. Vergebens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Echo wilt du mit mir schertzen;</l>
+            <l>Hast du deine Lust daran/</l>
+            <l>Daß mein Hertz vor Angst und Schniertzen</l>
+            <l>Niemahls freudig werden kan?</l>
+            <l>Wilt du daß es mir soll gehen</l>
+            <l>Wie es ist mit dir geschehen?</l>
+            <l>Echo. Geschehen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nymphe bin ich schon verlohren</l>
+            <l>Und </l>
+            <l>Küßt ein ander </l>
+            <l>Gelte ich bey ihr nicht viel?</l>
+            <l>Bringet mir das süsse Lieben</l>
+            <l>Vor Vergnügen nur Betrüben?</l>
+            <l>Echo. Betrüben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ha/ nun mag ich nicht mehr lieben</l>
+            <l>Amor weg aus meiner Brust.</l>
+            <l>Bringt das Lieben nur Betrüben</l>
+            <l>Was versprichst du denn vor Lust?</l>
+            <l>Freyheit wird von mir verehret</l>
+            <l>Bis mein Lauff zum Grabe kehret</l>
+            <l>Echo. Bekehret.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

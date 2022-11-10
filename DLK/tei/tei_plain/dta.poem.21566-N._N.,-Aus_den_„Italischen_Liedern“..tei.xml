@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aus den „Italischen Liedern“.</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aus den „Italischen Liedern“.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weißt Du noch, Du mein toskanisch Kind,</l>
+            <l>Wie wir im flüsternden Abendwind</l>
+            <l>Ueber das Meer gefahren,</l>
+            <l>Bis in der sternespiegelnden See</l>
+            <l>Fels und Stadt Portovenere</l>
+            <l>Leise versunken waren?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weißt Du, Luisella, wie liebeberauscht,</l>
+            <l>Nur von der Fluth und dem Himmel belauscht,</l>
+            <l>Unsere Seelen sich fanden,</l>
+            <l>Lippe auf Lippe lodernd gebrannt</l>
+            <l>Und Du dem Sohn aus dem nordischen Land</l>
+            <l>Seligst Geheimniß gestanden?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weißt Du auch, daß ich besser nie</l>
+            <l>Dich hätte gehört in Lerici</l>
+            <l>Süß zur Guitarre singen?</l>
+            <l>Nach der Heimath ruft mich neidisch Geschick:</l>
+            <l>Fahr wohl, fahr wohl, du Traum von Glück —</l>
+            <l>In Weh will das Herz mir zerspringen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

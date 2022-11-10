@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über das Gesicht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">155</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">624</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über das Gesicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von unserem Begriff die grosse Fertigkeit</l>
+            <l>Macht, daß wir so geneigt, dem Werckzeug ihn zu schencken,</l>
+            <l>Und daß wir, durch Gewohnheit und durch Zeit,</l>
+            <l>Zu fühlen glauben, ohn zu dencken.</l>
+            <l>Die Seel ist allemal dabey,</l>
+            <l>Wenn, daß sie gegenwärtig sey,</l>
+            <l>Sie selber gleich nicht glaubt. Jhr heimlichs Uberlegen,</l>
+            <l>So durch Gewohnheit wir noch zu verstärcken pflegen;</l>
+            <l>Begleitet allemal die Sinnen</l>
+            <l>Auch dann schon, wenn wir kaum zu seyn beginnen.</l>
+            <l>Doch fügt man zum Begriff, der einfach, schnell entsteht,</l>
+            <l>Noch einen andern meist, der tieffer geht,</l>
+            <l>Und welcher uns so leicht nicht irren lässt. Es bindet</l>
+            <l>Sich der Verstand mit dem, was man zuerst empfindet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

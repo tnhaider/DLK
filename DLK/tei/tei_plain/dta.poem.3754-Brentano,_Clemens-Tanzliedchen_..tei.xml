@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Tanzliedchen .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">19</measure>
+        <measure type="verses_per_stanza">1-19</measure>
+        <measure type="syllables">99</measure>
+        <measure type="tokens">65</measure>
+        <measure type="characters">413</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Tanzliedchen .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Bin ich nit ein Bürschlein               </l>
+            <l>In der Welt?</l>
+            <l>Spring ja wie ein Hirschlein,</l>
+            <l>In dem Feld?</l>
+            <l>In dem Feld, im grünen Holz,</l>
+            <l>Begegnet mir ein Jungfrau stolz.</l>
+            <l>Guten Morgen, Jungfrau!</l>
+            <l>Mach geschwind,</l>
+            <l>Du sollst mit mir tanzen,</l>
+            <l>Munter Kind!</l>
+            <l>Bischen auf und abgeschwenkt,</l>
+            <l>Und ein Gläschen eingeschenkt.</l>
+            <l>Schöne Musikanten</l>
+            <l>Spielet auf!</l>
+            <l>Spielet mir ein Tänzlein</l>
+            <l>Oben drauf;</l>
+            <l>Aufgepuzt, eingeschnürt,</l>
+            <l>Lustig dann zum Tanz geführt.</l>
+            <l>Heisasa.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

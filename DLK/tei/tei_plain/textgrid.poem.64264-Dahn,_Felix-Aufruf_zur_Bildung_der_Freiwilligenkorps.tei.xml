@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aufruf zur Bildung der Freiwilligenkorps</title>
+        <author>
+          <persName>
+            <surname>Dahn</surname>
+            <forename>Felix</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">654</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1873</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aufruf zur Bildung der Freiwilligenkorps</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Hörnerschall, wie schmetternde Fanfaren</l>
+            <l>Zum Reiterangriff ladender Trompeten</l>
+            <l>Ertönt der Ruf: »Freiwillige, hervor!«</l>
+            <l>Das Maß ist voll! Ein Gottesurteil hat,</l>
+            <l>Ein Eis- und Schneeordal, auf Rußlands Feldern</l>
+            <l>Gerichtet den Tyrannen: er erlag!</l>
+            <l>Es fällt die Zwingherrschaft, die Welt wird frei!</l>
+            <l>Voran, ihr Preußen: Euer ist der Vorstritt!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie Hörnerschall, wie schmetternde Fanfaren</l>
+            <l>Zum Reiterangriff ladender Trompeten</l>
+            <l>Ertönt der Ruf: »Freiwillige, hervor!«</l>
+            <l>Das Maß ist voll! Ein Gottesurteil hat,</l>
+            <l>Ein Eis- und Schneeordal, auf Rußlands Feldern</l>
+            <l>Gerichtet den Tyrannen: er erlag!</l>
+            <l>Es fällt die Zwingherrschaft, die Welt wird frei!</l>
+            <l>Voran, ihr Preußen: Euer ist der Vorstritt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

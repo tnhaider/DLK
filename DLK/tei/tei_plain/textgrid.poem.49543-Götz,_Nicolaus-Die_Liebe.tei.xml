@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Liebe</title>
+        <author>
+          <persName>
+            <surname>Götz</surname>
+            <forename>Nicolaus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">122</measure>
+        <measure type="characters">718</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1751</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Liebe</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Vögel, ist's Aurorens Strahl,</l>
+            <l>Der euch erweckete, zu singen?</l>
+            <l>Er ist es nicht. Aurorens Strahl</l>
+            <l>Kann diese Myrthen nicht durchdringen.</l>
+            <l>Die Lieb' allein, die Lieb' erweckt euch hie.</l>
+            <l>Ich kann euch diese Liebe gönnen!</l>
+            <l>Mich aber weckt dieselbe nie.</l>
+            <l>Wie wollte die mich wecken können:</l>
+            <l>Die mich, seitdem der West in junge Rosen blies,</l>
+            <l>Nie schlafen lies, nie schlafen lies?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr Vögel, ist's Aurorens Strahl,</l>
+            <l>Der euch erweckete, zu singen?</l>
+            <l>Er ist es nicht. Aurorens Strahl</l>
+            <l>Kann diese Myrthen nicht durchdringen.</l>
+            <l>Die Lieb' allein, die Lieb' erweckt euch hie.</l>
+            <l>Ich kann euch diese Liebe gönnen!</l>
+            <l>Mich aber weckt dieselbe nie.</l>
+            <l>Wie wollte die mich wecken können:</l>
+            <l>Die mich, seitdem der West in junge Rosen blies,</l>
+            <l>Nie schlafen lies, nie schlafen lies?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

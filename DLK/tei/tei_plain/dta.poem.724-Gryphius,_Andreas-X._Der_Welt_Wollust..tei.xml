@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">X.  Der Welt Wollust.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">158</measure>
+        <measure type="tokens">121</measure>
+        <measure type="characters">653</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>X.  Der Welt Wollust.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo Lust ist/ da ist angst; wo Frewd' ist/ da ist klagen. </l>
+            <l>Wer schöne Rosen sieht/ siht Dornen nur dabey</l>
+            <l>Kein stand/ kein ort/ kein Mensch ist seines Creutzes frey.</l>
+            <l>Wer lacht; fühlt wenn er lacht im Hertzen tausend plagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer hoch in Ehren sitzt/ mus hohe sorgen tragen.</l>
+            <l>Wer ist der/ Reichthumb acht’/ vnd loß von kummer sey?</l>
+            <l>Wo Armut ist; ist noht. wer kennt wie mancherley</l>
+            <l>Trawrwürmer vns die Seel vnd matte </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich red’ es offenbahr/ so lang als </l>
+            <l>Vom Himmel ab bestralt/ mein bleiches Angesicht</l>
+            <l>Ist mir noch nie ein Tag/ der gantz ohn angst bescheret:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Welt du Threuen thal! recht seelig wird geschätzt;</l>
+            <l>Der eh er einen Fus/ hin auff die Erden setzt/ </l>
+            <l>Bald auß der </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

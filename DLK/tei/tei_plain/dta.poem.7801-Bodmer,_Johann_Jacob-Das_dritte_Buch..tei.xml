@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das dritte Buch.</title>
+        <author>
+          <persName>
+            <surname>Bodmer</surname>
+            <forename>Johann Jacob</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">560</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198429"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das dritte Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieß Lob gefiele Saul, er nahm es gütig auf,</l>
+            <l>Thalmais grüste er und der Matronen Hauf</l>
+            <l>Ward freundlich angesehn von ihrem frohen König.</l>
+            <l>Indeme Michal nun verzogen noch ein wenig,</l>
+            <l>Hebt an ihr Saitenspiel, Saul siehet nach ihr hin,</l>
+            <l>Begierig daß er auch von ihr ein Lob gewinn.</l>
+            <l>Sie aber fähet an. Seynd tausend Mann geblieben</l>
+            <l>Durch unsers Königs Hand, so hat noch mehr vertrieben</l>
+            <l>Der Held von Bethlehem; du Sieger sey gegrüst,</l>
+            <l>Dich hat Jsraels Gott zu unserm Heil erkiest.</l>
+            <l>Willkommen kühner Held, was solln wir von dir sagen,</l>
+            <l>Du edler David hast zehn tausend Mann erschlagen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

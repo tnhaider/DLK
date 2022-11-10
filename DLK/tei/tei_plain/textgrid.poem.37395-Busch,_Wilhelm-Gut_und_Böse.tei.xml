@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gut und Böse</title>
+        <author>
+          <persName>
+            <surname>Busch</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">82</measure>
+        <measure type="characters">480</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1870</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Gut und Böse</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tugend will, man soll sie holen,</l>
+            <l>Ungern ist sie gegenwärtig;</l>
+            <l>Laster ist auch unbefohlen</l>
+            <l>Dienstbereit und fix und fertig.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gute Tiere, spricht der Weise,</l>
+            <l>Mußt du züchten, mußt du kaufen;</l>
+            <l>Doch die Ratten und die Mäuse</l>
+            <l>Kommen ganz von selbst gelaufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tugend will, man soll sie holen,</l>
+            <l>Ungern ist sie gegenwärtig;</l>
+            <l>Laster ist auch unbefohlen</l>
+            <l>Dienstbereit und fix und fertig.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gute Tiere, spricht der Weise,</l>
+            <l>Mußt du züchten, mußt du kaufen;</l>
+            <l>Doch die Ratten und die Mäuse</l>
+            <l>Kommen ganz von selbst gelaufen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

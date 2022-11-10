@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">47.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">120</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">504</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>47.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Siehst du, wie der Planet sich um sich selber dreht,</l>
+            <l>Und still dabei im Kreis um seine Sonne geht?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was um die Sonn' ihn zwingt, und was um sich ihn schwingt,</l>
+            <l>Ist nicht verschieden, eins durchs andre ist bedingt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das ist des Mannes Muth, der auf der Liebe ruht,</l>
+            <l>Der selbst sich thut den Dienst, den er dem andern thut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dagegen ein Trabant ist jener Stern genant,</l>
+            <l>Der seinem Hauptstern sich zuwendet unverwandt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er kehrt in Dienstespflicht ihm zu sein Angesicht,</l>
+            <l>Und dreht sich so um ihn, doch um sich selber nicht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

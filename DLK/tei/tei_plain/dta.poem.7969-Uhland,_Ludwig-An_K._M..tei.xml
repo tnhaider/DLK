@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An K. M.</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">261</measure>
+        <measure type="tokens">166</measure>
+        <measure type="characters">970</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An K. M.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann die Natur will knüpfen und erbauen,</l>
+            <l>Dann liebt in stillen Tiefen sie zu walten;</l>
+            <l>Geweihten einzig ist vergönnt, zu schauen,</l>
+            <l>Wie ihre Hand den Frühling mag gestalten,</l>
+            <l>Wie sie erzieht zu Eintracht und Vertrauen</l>
+            <l>Die Kinder früh in dunkeln Aufenthalten.</l>
+            <l>Nur wenn sie will zerstören und erschüttern,</l>
+            <l>Erbraust sie in Orkanen und Gewittern.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So übet auch die Liebe tief und leise</l>
+            <l>Im Reich der Geister ihre Wundermacht;</l>
+            <l>Sie zieht unsichtbar ihre Zauberkreise</l>
+            <l>Am goldnen Abend, in der Sternennacht;</l>
+            <l>Sie weckt durch feierlicher Lieder Weise</l>
+            <l>Verwandte Chöre in der Geister Schacht;</l>
+            <l>Sie weiß durch stiller Augen Strahl die Seelen</l>
+            <l>Zu knüpfen und auf ewig zu vermählen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort in des Stromes wild empörte Wogen</l>
+            <l>Warf sich ein Jüngling, voll von raschen Gluten,</l>
+            <l>Doch jene Wallung, die ihn fortgezogen,</l>
+            <l>Sie mußt’ ihn wieder an das Ufer fluten.</l>
+            <l>Ich aber sah es, wie des Himmels Bogen,</l>
+            <l>Der Erde Glanz im stillen Teiche ruhten:</l>
+            <l>Da sank ich hin, von sanfter Wonne trunken,</l>
+            <l>Ich sank und bin auf ewig nun versunken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

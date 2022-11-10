@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Alte Heimat .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">413</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Alte Heimat .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In einem dunklen Thal,</l>
+            <l>Lag ich jüngst träumend nieder,</l>
+            <l>Da sah ich einen Stral</l>
+            <l>Von meiner Heimat wieder.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf morgenrother Au</l>
+            <l>War Vaters Haus gelegen;</l>
+            <l>Wie war der Himmel blau!</l>
+            <l>Die Flur, wie reich an Segen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie war mein Heimatland</l>
+            <l>Voll Gold und Rosenhelle!</l>
+            <l>Doch bald der Traum verschwand,</l>
+            <l>Schmerz trat an seine Stelle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da irr't ich weit hinaus</l>
+            <l>In's öde Land voll Sehnen;</l>
+            <l>Noch irr' ich, such das Haus,</l>
+            <l>Und find es nicht vor Thränen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

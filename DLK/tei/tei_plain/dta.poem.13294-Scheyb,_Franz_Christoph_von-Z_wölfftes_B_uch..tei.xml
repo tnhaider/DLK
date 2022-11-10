@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z wölfftes  B uch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="syllables">131</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">520</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Z wölfftes  B uch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Alte </l>
+            <l>150Und wies, daß er sich Ehr und Ansehn geben kann,</l>
+            <l>Dann alles wurde still. Er, ohne zu verziehen</l>
+            <l>Fieng mit den Worten an: „Nun hat man uns verliehen,</l>
+            <l>„was keine von dem Kreiß sich eingebildet hat;</l>
+            <l>„das ist: </l>
+            <l>155”Beglückte Gegenwart! fast alles ward ermessen,</l>
+            <l>„so gar weswegen wir beysammen seynd gesessen.</l>
+            <l>„was geben also wir noch mehr Erwegung Statt,</l>
+            <l>„da sie den Tugend-Streit schon selbst entschieden hat?</l>
+            <l>„jedoch damit wir uns mit einem Schluß vergnügen,</l>
+            <l>160”So fahr du, Wahrheit! fort; sprich! wem gebührt zu siegen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

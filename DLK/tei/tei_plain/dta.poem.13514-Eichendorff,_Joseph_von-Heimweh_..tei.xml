@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Heimweh .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">93</measure>
+        <measure type="characters">518</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Heimweh .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer in die Fremde will wandern,</l>
+            <l>Der muß mit der Liebsten gehn,</l>
+            <l>Es jubeln und lassen die Andern</l>
+            <l>Den Fremden alleine stehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was wisset Ihr, dunkele Wipfeln,</l>
+            <l>Von der alten schönen Zeit?</l>
+            <l>Ach, die Heimath hinter den Gipfeln,</l>
+            <l>Wie liegt sie von hier so weit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Am liebsten betracht' ich die Sterne,</l>
+            <l>Die schienen, wenn ich ging zu ihr,</l>
+            <l>Die Nachtigall hör' ich so gerne,</l>
+            <l>Sie sang vor der Liebsten Thür.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Morgen, das ist meine Freude!</l>
+            <l>Da steig' ich in stiller Stund'</l>
+            <l>Auf den höchsten Berg in die Weite,</l>
+            <l>Grüß Dich Deutschland aus Herzensgrund!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

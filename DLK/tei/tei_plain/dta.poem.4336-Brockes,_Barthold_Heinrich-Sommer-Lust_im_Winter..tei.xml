@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sommer-Lust im Winter.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-16 2-6</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">138</measure>
+        <measure type="characters">808</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1743</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20083-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sommer-Lust im Winter.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Leser! denke nicht,</l>
+            <l>Ob sey dieß Kleinigkeit, und nicht der Mühe wehrt:</l>
+            <l>O nein! es lässet die Figur</l>
+            <l>Der Blätter, die den Bäumen gleich, die nette Arbeit der</l>
+            <l>Natur</l>
+            <l>Vom Grossen uns im Kleinen sehn;</l>
+            <l>Und was die Anmuht noch vermehrt</l>
+            <l>Ist, daß zugleich die Farben schön.</l>
+            <l>Zumahlen, wenn der Schnee dem, was so lieblich grünt,</l>
+            <l>Zu einem weissen Grunde dient.</l>
+            <l>Die holde Schönheit geht so weit,</l>
+            <l>Das frische, recht durchlauchtge Grün</l>
+            <l>Ist von so reizender und frischer Lieblichkeit,</l>
+            <l>Daß auch unaufmerksame Augen,</l>
+            <l>Sich kaum von ihrem Schmuck zu ziehn,</l>
+            <l>Von ihrem Glanz sich wegzuwenden, taugen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer wollte denn ohn’ Aufwand, sonder Geld,</l>
+            <l>Und ohne Müh’, was uns so wohl gefällt,</l>
+            <l>Den Sommer nicht im Winter sehn?</l>
+            <l>Wer wollte, mit erlaubter Augen-Lust,</l>
+            <l>Und mit dadurch gerührter Brust,</l>
+            <l>Auch selbst im Frost, mit Lust, den Schöpfer nicht erhöhn?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

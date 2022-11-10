@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Friedenslied .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">302</measure>
+        <measure type="tokens">208</measure>
+        <measure type="characters">1249</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Friedenslied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Süße, liebe Friedenstaube,               </l>
+            <l>Die du schnell den Oehlzweig bringst,</l>
+            <l>Wenn du vor des Geyers Raube,</l>
+            <l>Frey den kleinen Fittig schwingst!</l>
+            <l>Ist es wahr, daß du den Klüften</l>
+            <l>Deines Elends dich entziehst,</l>
+            <l>Und von Hoffnung aus den Lüften,</l>
+            <l>Froh auf unsre Fluren siehst?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm, verzeuch nicht, laß dich nieder,</l>
+            <l>Unsre Herzen öffnen sich,</l>
+            <l>Gieb uns Fried und Eintracht wieder,</l>
+            <l>Und du findest sie für dich.</l>
+            <l>Laß das holde Zweiglein fallen!</l>
+            <l>Denn, sobald es Wurzeln schlägt,</l>
+            <l>Sehn wir Heil und Wohlgefallen</l>
+            <l>In den Früchten, die es trägt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wo es blüht, tönt durch die Wälder</l>
+            <l>Kein entheilgend Beil zum Fall,</l>
+            <l>Und die saatenreiche Felder</l>
+            <l>Thürmt kein Spat zu Schanz und Wall.</l>
+            <l>Süße Frühlingsblümchen sprießen,</l>
+            <l>Unzertreten, vor uns auf,</l>
+            <l>Und die Bäche, die hier fließen,</l>
+            <l>Färbt kein Blut in ihrem Lauf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schmachtend seufzt nach seinem Schatten,</l>
+            <l>Das von Gram versenkte Glück,</l>
+            <l>Zarten Müttern, treuen Gatten,</l>
+            <l>Bringt er ihren Wunsch zurück;</l>
+            <l>Väter, vaterlosen Kleinen,</l>
+            <l>Und den Jüngling seiner Braut;</l>
+            <l>Alle, wo sie ja noch weinen,</l>
+            <l>Weinen vor Entzücken laut.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun, du holde Friedenstaube!</l>
+            <l>Die du uns den Oehlzweig bringst,</l>
+            <l>Wenn du vor des Geyers Raube,</l>
+            <l>Frey den kleinen Fittig schwingst!</l>
+            <l>Komm, verzeuch nicht! Laß dich nieder!</l>
+            <l>Unsre Herzen öffnen sich,</l>
+            <l>Gib der Welt den Frieden wieder,</l>
+            <l>Und nimm ihn dann auch für dich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

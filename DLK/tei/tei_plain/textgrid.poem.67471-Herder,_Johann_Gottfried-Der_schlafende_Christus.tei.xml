@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der schlafende Christus</title>
+        <author>
+          <persName>
+            <surname>Herder</surname>
+            <forename>Johann Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">112</measure>
+        <measure type="characters">652</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1793</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der schlafende Christus</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schläfst Du, liebliches Kind? Erwach und höre der Engel</l>
+            <l>Hohes, himmlisches Lied, das Dich auf Erden empfängt,</l>
+            <l>Glück weissagend! es wird Dich über Mangel und Krippe</l>
+            <l>Trösten; es singet Dir Freude der Himmel ins Herz.</l>
+            <l>Doch Du schlummerst! Du willst den Empfang der Erde nicht ansehn,</l>
+            <l>Und der Engel Gesang singt in der Seele Dir schon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schläfst Du, liebliches Kind? Erwach und höre der Engel</l>
+            <l>Hohes, himmlisches Lied, das Dich auf Erden empfängt,</l>
+            <l>Glück weissagend! es wird Dich über Mangel und Krippe</l>
+            <l>Trösten; es singet Dir Freude der Himmel ins Herz.</l>
+            <l>Doch Du schlummerst! Du willst den Empfang der Erde nicht ansehn,</l>
+            <l>Und der Engel Gesang singt in der Seele Dir schon.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auff die krönung des Römischen Kö-  
+ nigs Josephi.</title>
+        <author>
+          <persName>
+            <surname>Hofmann von Hofmannswaldau</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">127</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">489</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197751"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auff die krönung des Römischen Kö-  
+ nigs Josephi.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Europa zanckte sich und wolte gerne wissen/</l>
+            <l>Wer in Germanien noch würde könig seyn.</l>
+            <l>Der stoltze Ludewig war äusserst drauff beflissen/</l>
+            <l>Wie er das deutsche reich möcht aus einander streun:</l>
+            <l>Drüm spahrt’ er weder geld/ noch müh und schmeicheleyen/</l>
+            <l>Und both sein eignes kind zu einem käyser an:</l>
+            <l>Wer/ sprach er/ wird euch mehr/ als dieser Printz erfreuen/</l>
+            <l>Der so wie ich/ die kunst sich zu vergrössern kan?</l>
+            <l>Allein der himmel rieff: Behalte deine gaben/</l>
+            <l>Ich will ein Josephs-Hertz und keinen Nero hal en.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

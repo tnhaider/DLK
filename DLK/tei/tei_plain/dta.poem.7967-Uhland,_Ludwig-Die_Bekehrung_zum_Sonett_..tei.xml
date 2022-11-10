@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Bekehrung zum Sonett .</title>
+        <author>
+          <persName>
+            <surname>Uhland</surname>
+            <forename>Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">593</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1815</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196438"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Bekehrung zum Sonett .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der du noch jüngst von deinem krit’schen Stuhle</l>
+            <l>Uns arme Sonettisten abgehudelt,</l>
+            <l>Der du von Gift und Galle recht gesprudelt</l>
+            <l>Und uns verflucht zum tiefsten Höllenpfuhle:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du reines Hermelin der alten Schule,</l>
+            <l>Wie hast du nun dein weisses Fell besudelt!</l>
+            <l>Ja! ein Sonettlein hast du selbst gedudelt,</l>
+            <l>Ein schnalzend Seufzerlein an deine Buhle.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hast du die selbstgesteckten Warnungszeichen,</l>
+            <l>Hast du, was halb mit Spott und halb mit Knirschen</l>
+            <l>Altmeister Voß gepredigt, all vergessen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Fürwahr! du bist dem Lehrer zu vergleichen,</l>
+            <l>Der seinen Zögling ob gestohlnen Kirschen</l>
+            <l>Ausschalt und scheltend selber sie gefressen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

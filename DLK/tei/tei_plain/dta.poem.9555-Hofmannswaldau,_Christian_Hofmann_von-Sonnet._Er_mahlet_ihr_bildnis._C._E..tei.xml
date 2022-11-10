@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet.  
+ Er mahlet ihr bildnis.  
+ C. E.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">667</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet.  
+ Er mahlet ihr bildnis.  
+ C. E.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein antlitz/ welches nur dem himmel ähnlich stehet/</l>
+            <l>Das angebohrne pracht vor tausenden erhöht/</l>
+            <l>Und das kein pinsel sich zu mahlen untersteht/</l>
+            <l>Ist meine feder hier zu bilden höchst bemühet.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der wangen blumen-kreyß/ der voller rosen blühet/</l>
+            <l>Der augen himmel-blau/ des mundes purpur-röth/</l>
+            <l>Der stirne helffenbein/ die über marmel geht/</l>
+            <l>Die brust/ die auch dem schnee den silber-glantz entziehet/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des geistes sittsamkeit/ den englischen verstand/</l>
+            <l>Und so viel tugenden/ die aller welt bekant/</l>
+            <l>Darff man in ewigkeit von keinem mahler hoffen;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die kunst ist ihm zu hoch: ich sag’ es ohne scheu.</l>
+            <l>Wer aber siehet nicht/ daß diß Libore sey/</l>
+            <l>Und daß mein feder-kiel sie gantz genau getroffen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">748</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„die Wercke meiner Kunst seynd mahlen, schnizen, bauen,</l>
+            <l>„die Nachwelt kann darinn der Vorwelt Thaten schauen;</l>
+            <l>„da meine Schwester nur Red-lose Blätter schreibt,</l>
+            <l>„wodurch der Nachwelt nichts zu lernen überbleibt;</l>
+            <l>315”Weil an dem Innhalt nichts als stumme Farben kleben,</l>
+            <l>„die durch das bunte Licht ein Schatten-Spiel erheben.</l>
+            <l>„wie trüge sie das Recht, die List, den Meineyd vor?</l>
+            <l>„wie mahlte sie, wie man dort Staat und Land verlohr?</l>
+            <l>„wie der mit Freundschaft prahlt, wann er den Haß verhöhlet?</l>
+            <l>320”Wie der zu seiner Hilff nicht Menschen, GOtt erwählet?</l>
+            <l>„was unserm Aug entgeht, entwirfft der Pensel nicht.</l>
+            <l>„was man nicht sehen kann, ist weder grau noch licht.</l>
+            <l>„so wißt ihr wie die Kunst der Farben eingeschräncket,</l>
+            <l>„wogegen mein Gesang erzählt, was man gedencket.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

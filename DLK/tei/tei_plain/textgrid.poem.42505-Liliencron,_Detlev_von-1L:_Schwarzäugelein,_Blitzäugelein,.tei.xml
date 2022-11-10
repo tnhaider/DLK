@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1L: Schwarzäugelein, Blitzäugelein,</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">556</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1876</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1L: Schwarzäugelein, Blitzäugelein,</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwarzäugelein, Blitzäugelein,</l>
+            <l>Wo ist dein Mutter, wo ist dein Vater.</l>
+            <l>Zu dem alt Weib bist ausgetan,</l>
+            <l>Zum Gespielen hast nur den grauen Kater.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Klag sie nicht an, klag sie nicht an,</l>
+            <l>Dein lieb Mutter, dein lieb Vater.</l>
+            <l>Die Sommernacht war gar zu warm,</l>
+            <l>So schön warm wie dein grauer Kater.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwarzäugelein, Blitzäugelein,</l>
+            <l>Wo ist dein Mutter, wo ist dein Vater.</l>
+            <l>Zu dem alt Weib bist ausgetan,</l>
+            <l>Zum Gespielen hast nur den grauen Kater.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Klag sie nicht an, klag sie nicht an,</l>
+            <l>Dein lieb Mutter, dein lieb Vater.</l>
+            <l>Die Sommernacht war gar zu warm,</l>
+            <l>So schön warm wie dein grauer Kater.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

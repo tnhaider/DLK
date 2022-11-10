@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Arme .</title>
+        <author>
+          <persName>
+            <surname>N. N.</surname>
+            <forename></forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-20</measure>
+        <measure type="syllables">171</measure>
+        <measure type="tokens">116</measure>
+        <measure type="characters">685</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1885</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905196929"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Arme .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Armuth gab ihm dieses Leben</l>
+            <l>Zur Armuth und zur blassen Pein —</l>
+            <l>Im Kothe war einst seine Wiege,</l>
+            <l>Und wird sein Sterbebett auch sein.</l>
+            <l>Vom ersten Schrei verdammt zur Dummheit</l>
+            <l>Und ausgeschlossen von dem Licht —</l>
+            <l>Für ihn erschien ja der Erlöser,</l>
+            <l>Der milde Gott der Künste, nicht.</l>
+            <l>Mit Stumpfheit durft’ er nur verkehren,</l>
+            <l>An Rohheit war er festgebannt,</l>
+            <l>Er stank nach Schnaps und kaute Tabak —</l>
+            <l>Roh wie sein Kittel der Verstand.</l>
+            <l>Und seine Lippen lernten Fluchen,</l>
+            <l>Stets blieb er stumpf, stets blieb er dumm —</l>
+            <l>Die langen Jahre hast’ger Arbeit,</l>
+            <l>Die drückten seinen Rücken krumm;</l>
+            <l>Und kraftlos wurden seine Hände</l>
+            <l>Und betteln mußt’ der arme Mann — —</l>
+            <l>Daß selbst ein ganzes ems’ges Leben</l>
+            <l>Kein ruhiges Sterben geben kann!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">IiI.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">137</measure>
+        <measure type="characters">738</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>IiI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Aus Hütten einzig kommt das Heil der Welt,</l>
+            <l>Im härnen Mantel predigt der Prophete —</l>
+            <l>So ward auch Blei, und nicht das Gold, bestellt,</l>
+            <l>Daß tausendzüngig jede Wahrheit rede.</l>
+            <l>Ein böser Geist der Tiefe haust im Gold,</l>
+            <l>Es ist ein Knecht und gibt sich gern in Sold;</l>
+            <l>Wie Porzia, faßt das Beste man in Blei,</l>
+            <l>Und reimt man drauf, so reimt man immer: Frei!</l>
+            <l>Das schwere Blei wird in des Meisters Hand</l>
+            <l>Der Elfengeister luftiges Gewand;</l>
+            <l>Er läßt es nicht als Todeskugel fliegen,</l>
+            <l>Er führet es als Wort von Sieg zu Siegen,</l>
+            <l>Und wo die beste Waffe fehlt von Erz,</l>
+            <l>Da trifft ein Wort des rechten Mannes Herz;</l>
+            <l>Es zittert nicht vor des Tyrannen Miene —</l>
+            <l>Was will die Flocke gegen die Lawine?</l>
+            <l>Kein Censor fällt der Wahrheit in die Zügel,</l>
+            <l>Er hat nur Federn, doch die Wahrheit Flügel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

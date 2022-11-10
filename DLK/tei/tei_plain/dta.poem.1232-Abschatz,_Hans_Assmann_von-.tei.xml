@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"></title>
+        <author>
+          <persName>
+            <surname>Abschatz</surname>
+            <forename>Hans Assmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">322</measure>
+        <measure type="tokens">205</measure>
+        <measure type="characters">1250</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1704</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199889"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head></head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du angenehmer Häyn voll stiller Einsamkeiten/</l>
+            <l>Wie süß und lieblich bist du mir!</l>
+            <l>Was mein betrübter Mund verschweigen muß bey Leuten/</l>
+            <l>Das bringt er ohne Scheu den stummen Bäumen für.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein andrer sey bemüht zu bergen seine Plagen/</l>
+            <l>Verschliesse schweigend seine Zeit;</l>
+            <l>Ich werde dir hinfort mit heller Stimme sagen/</l>
+            <l>Was meinen Geist versenckt in schweres Hertzeleid.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Kinder leichter Lufft/ so um die Bäume stecken/</l>
+            <l>Wenn ich beginn ein Trauer-Lied/</l>
+            <l>Verändern ihren Schall alsbald auff deinen Hecken/</l>
+            <l>Seyn zu beklagen mich durch gleichen Thon bemüht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der heisre Widerhall in deinen Wüsteneyen</l>
+            <l>Verdoppelt seinen Leid-Gesang/</l>
+            <l>Nicht/ daß er seine Lieb und Schmertzen will beschreyen/</l>
+            <l>Nur daß er meine Klag und Seufftzer mache lang.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Bäche welche sonst in ihrer Ordnung fliessen</l>
+            <l>Durch das begrünte Blumen-Feld/</l>
+            <l>Die sieht man von sich selbst die Wiesen übergiessen/</l>
+            <l>Als wären sie von mir mit Thränen auffgeschwellt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Eichen fester Stamm/ die Last der harten Steine/</l>
+            <l>Bewegt durch meine Pein und Qual/</l>
+            <l>Zerreist in Stück und springt in Drümmer/ wenn ich weine/</l>
+            <l>Zum Zeichen/ daß sie mich beklagen allzumahl.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drum/ angenehmer Wald/ du Trotz der rauhen Winde/</l>
+            <l>Wie süß und lieblich bist du mir!</l>
+            <l>Dieweil ich überall bey dir Erbarmen finde/</l>
+            <l>So leg ich iederzeit mein Seufftzen ab bey dir.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

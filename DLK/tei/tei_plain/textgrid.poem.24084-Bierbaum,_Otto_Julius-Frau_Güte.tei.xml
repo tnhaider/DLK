@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Frau Güte</title>
+        <author>
+          <persName>
+            <surname>Bierbaum</surname>
+            <forename>Otto Julius</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-8 2-3 3-8 4-3</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">134</measure>
+        <measure type="characters">712</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1887</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Frau Güte</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heut sagte ich die ganze Nacht</l>
+            <l>Im Traum: Ich wollt, ich wäre tot.</l>
+            <l>Doch, als ich morgens aufgewacht,</l>
+            <l>Begrüßten mich zwei Lippen rot.</l>
+            <l>Frau Güte hat mich angelacht</l>
+            <l>Und flüsterte: Es hat nicht not,</l>
+            <l>Beiseite ist das Gift gebracht,</l>
+            <l>Da, nimm und iß des Lebens Brot!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den ganzen Tag hab ich gelacht:</l>
+            <l>Herr Meister Tod, gut Nacht, gut Nacht!</l>
+            <l>Es ist nicht not! Es ist nicht not!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Heut sagte ich die ganze Nacht</l>
+            <l>Im Traum: Ich wollt, ich wäre tot.</l>
+            <l>Doch, als ich morgens aufgewacht,</l>
+            <l>Begrüßten mich zwei Lippen rot.</l>
+            <l>Frau Güte hat mich angelacht</l>
+            <l>Und flüsterte: Es hat nicht not,</l>
+            <l>Beiseite ist das Gift gebracht,</l>
+            <l>Da, nimm und iß des Lebens Brot!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den ganzen Tag hab ich gelacht:</l>
+            <l>Herr Meister Tod, gut Nacht, gut Nacht!</l>
+            <l>Es ist nicht not! Es ist nicht not!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

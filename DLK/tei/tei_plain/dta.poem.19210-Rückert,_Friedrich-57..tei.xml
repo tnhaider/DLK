@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">57.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">103</measure>
+        <measure type="characters">621</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>57.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie mittheilt ein Magnet die eigne Eigenschaft</l>
+            <l>Dem Eisen, ohne daß er selbst verliert an Kraft,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weil, was er mittheilt, nicht ist seiner Kraft Bewegung,</l>
+            <l>Vielmehr die Richtung nur und gleicher Kraft Anregung;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht, wie ein Feuchtes, wenn man drein ein Trocknes taucht,</l>
+            <l>Ein Theilchen Feuchte fühlt vom Trocknen aufgebraucht,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und Warmes kälter wird, das Kaltes machet wärmer;</l>
+            <l>So wird ein Reicher, der dem Armen reicht, wol ärmer,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ärmer werden soll kein Geist, wenn angehaucht</l>
+            <l>Von ihm ein andrer auch nun brennet oder raucht:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Klagst du, daß etwas durch Mittheilung dir entgeht,</l>
+            <l>O schäme dich, du bist ein Schwamm, und kein Magnet.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Graue.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">249</measure>
+        <measure type="tokens">177</measure>
+        <measure type="characters">1040</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Graue.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Im Walde steht die kleine Burg,</l>
+            <l>Aus rohem Quaderstein gefugt,</l>
+            <l>Mit Schart' und Fensterlein, wodurch</l>
+            <l>Der Doppelhaken einst gelugt;</l>
+            <l>Am Teiche rauscht des Rohres Speer,</l>
+            <l>Die Brücke wiegt und knarrt im Sturm,</l>
+            <l>Und in des Hofes Mitte, schwer,</l>
+            <l>Plump wie ein Mörser, steht der Thurm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da siehst du jetzt umher gestellt</l>
+            <l>Manch' feuerrothes Ziegeldach,</l>
+            <l>Und wie der Stempel steigt und fällt,</l>
+            <l>So pfeift die Dampfmaschine nach;</l>
+            <l>Es knackt die Form, der Bogen schrillt,</l>
+            <l>Es dunstet Scheidewassers Näh',</l>
+            <l>Und über'm grauen Wappenschild</l>
+            <l>Liest man: </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wie der Kessel quillt und schäumt,</l>
+            <l>Den Brüß'ler Kaufherrn freut es kaum,</l>
+            <l>Der hatte einmal sich geträumt</l>
+            <l>Von Land und Luft den feinsten Traum;</l>
+            <l>Das war so recht ein Fleckchen, sich</l>
+            <l>Zu retten aus der Zahlen Haft!</l>
+            <l>Nicht groß, und doch ganz adelich,</l>
+            <l>Und brauchte wenig Dienerschaft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch eine Nacht nur macht er sich</l>
+            <l>Bequem es — oder unbequem —</l>
+            <l>In seinem Schlößchen, und er strich</l>
+            <l>Nur wie ein Vogel dran seitdem.</l>
+            <l>Sah dann er zu den Fenstern auf,</l>
+            <l>Verschlossen wie die Sakristei'n,</l>
+            <l>So zog er wohl die Schultern auf,</l>
+            <l>Mit einem Seufzer, oder zwei'n.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

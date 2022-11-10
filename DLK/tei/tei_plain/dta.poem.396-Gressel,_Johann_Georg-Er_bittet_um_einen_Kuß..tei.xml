@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er bittet um einen Kuß.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">64</measure>
+        <measure type="characters">430</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er bittet um einen Kuß.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schöne Bella laß den Mund deiner Brüste Perlen küssen/</l>
+            <l>Wo die süsse Wollust schläffet/ und die reine Keuschheit</l>
+            <l>wacht/</l>
+            <l>Laß aus dieser Purpur-Frucht/ </l>
+            <l>Die Corallen und Rubinen in der Schönheit schaam-roth</l>
+            <l>macht/</l>
+            <l>Ein entflam̃ter Liebes-Trieb treibt mich zu den Lust-Narcissen.</l>
+            <l>Zarte Rosen Knospen blühen bey der Liljen Silber-Pracht/</l>
+            <l>Wollust-Aepffel kan man da in beliebter Lust geniessen</l>
+            <l>Und das angenehme Wesen mit vergnügter Anmuth lacht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

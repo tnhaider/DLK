@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das einzige Kind.</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">133</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">543</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1860</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191007"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das einzige Kind.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>O schau, wie um ihr W&amp;#228;ngelein</l>
+            <l>Ein träumendes Lächeln bebt,</l>
+            <l>Sieht sie nicht aus wie ein Engelein,</l>
+            <l>Das über der Krippe schwebt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Oft fürcht’ ich, sie sei für die Welt zu gut,</l>
+            <l>Sprich, Liebe, sind wir wohl blind?</l>
+            <l>Ein wenig blind für das eigne Blut,</l>
+            <l>Unser liebendes, einziges Kind?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Gatte fühlt den Meister und Herrn,</l>
+            <l>Giebt allen Mängeln ihr Recht,</l>
+            <l>Wie spielt er den Philosophen so gern</l>
+            <l>Und wie geräth er ihm schlecht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nennt es ein Murmelchen anderen gleich,</l>
+            <l>Dran gar nichts zu loben ist,</l>
+            <l>Indeß er streichelt die Löckchen reich</l>
+            <l>Und ihm die Fingerchen küßt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dusle Dusle  und Babeli .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">246</measure>
+        <measure type="tokens">177</measure>
+        <measure type="characters">971</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dusle Dusle  und Babeli .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hätte ein Bauer ein Töchterli,               </l>
+            <l>Mit Name hieß es Babeli,</l>
+            <l>Es hätt ein Paar Zöpfle, sie sind wie Gold,</l>
+            <l>Drum ist ihm auch der Dusle hold.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Dusle lief dem Vater nach:</l>
+            <l>„o Vater, wollt ihr mir's Babele lahn?“</l>
+            <l>„das Babele ist noch viel zu klein,</l>
+            <l>„es schläft dies Jahr noch wohl allein.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Dusle lief in einer Stund,</l>
+            <l>Lief abe bis gen Solothurn,</l>
+            <l>Er lief die Stadt wohl auf und ab,</l>
+            <l>Bis er zum öbersten Hauptmann kam:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„o Hauptmann lieber Hauptmann mein,</l>
+            <l>„ich will mich dingen in Flandern ein.“</l>
+            <l>Der Hauptmann zog die Seckelschnur,</l>
+            <l>Gab dem Dusle drey Thaler draus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Dusle lief wohl wieder heim,</l>
+            <l>Heim zu sein'm liebe Babelein:</l>
+            <l>„o Babele liebes Babele mein,</l>
+            <l>„jezt hab i' mi' dungen in Flandern ein.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Babele lief wohl hinters Haus,</l>
+            <l>Es greint sich schier sein Aeugele aus:</l>
+            <l>„o Babele, thu doch nit so sehr,</l>
+            <l>„i' will ja wieder kommen zu dir!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„und komm ich übers Jahr nit heim,</l>
+            <l>„so will ich dir schreiben ein Briefelein.</l>
+            <l>„darinnen soll geschrieben stehn:</l>
+            <l>„ich will min Babele wieder sehn!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

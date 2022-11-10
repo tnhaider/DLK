@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnenblicke .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-5 2-5 3-5 4-5</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">615</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnenblicke .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Sommer und der Sonnenschein,               </l>
+            <l>Ganz lieblich mir das Herze mein</l>
+            <l>Erquicken und erfreuen;</l>
+            <l>Daß ich mit Lust im grünen Gras</l>
+            <l>Mag springen an dem Reihen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des lacht die Allerliebste mein,</l>
+            <l>Wollt Gott, ich sollt heut bei ihr seyn,</l>
+            <l>In Züchten und in Ehren;</l>
+            <l>Das wär meins Herzens größte Freud,</l>
+            <l>Darauf darf ich wohl schwören.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Demselben wackren Mägdelein,</l>
+            <l>Schickt neulich ich ein Kränzelein,</l>
+            <l>Mit rothem Gold umwunden;</l>
+            <l>Dabei sie mein gedenken sollt,</l>
+            <l>Zu hunderttausend Stunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich ritt durch einen grünen Wald,</l>
+            <l>Da sangen die Vöglein wohlgestalt,</l>
+            <l>Frau Nachtigall mit ihnen;</l>
+            <l>Nun singt ihr klein Waldvögelein,</l>
+            <l>Um meines Buhlen willen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

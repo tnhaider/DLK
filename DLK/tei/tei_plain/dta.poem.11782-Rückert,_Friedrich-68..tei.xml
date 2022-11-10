@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">68.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">103</measure>
+        <measure type="characters">600</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>68.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich sprach am Abend, als ich meinen Stock begoß:</l>
+            <l>Sag' an, warum sich heut nicht diese Blüt' erschloß?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geröthet hat ihr Mund der Sonne Kuß empfangen,</l>
+            <l>Ihr Busen schwoll; warum ist sie nicht aufgegangen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da wiegte sanft der Stock sein Haupt im Abendwinde,</l>
+            <l>Und sprach: Ich hab' es selbst gerathen meinem Kinde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sie wäre heut nur unvollkommen aufgeblüht,</l>
+            <l>Denn viele schloß ich auf, und meine Kraft ist müd.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir wollen sammeln ihr im Schlummer frischen Duft,</l>
+            <l>Und morgen würzen soll ihr Hauch die Morgenluft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So sprach der Strauch; ich gieng und hielt in mir zum Glück</l>
+            <l>Ein halberschlossnes Lied auf morgen auch zurück.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

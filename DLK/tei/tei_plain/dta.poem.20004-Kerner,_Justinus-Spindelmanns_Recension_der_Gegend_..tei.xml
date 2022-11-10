@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Spindelmanns Recension der Gegend .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">104</measure>
+        <measure type="characters">595</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Spindelmanns Recension der Gegend .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Näher muß ich jezt betrachten</l>
+            <l>Diese Gegend durch das Glas,</l>
+            <l>Sie ist nicht ganz zu verachten,</l>
+            <l>Nur die Fern ist allzublaß.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jene Burg auf steiler Höhe</l>
+            <l>Nenn' ich abgeschmackt und dumm,</l>
+            <l>Meinem Auge thut sie wehe,</l>
+            <l>Wie der Fluß, der gänzlich krumm.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jene Mühl' in wüsten Klüften</l>
+            <l>Giebt mir gar zu rohen Schall,</l>
+            <l>Aber ein gesundes Düften</l>
+            <l>Weht aus ihrem Eselsstall.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß hier Schlüsselblumen stehen,</l>
+            <l>Hätt' ich das nur eh' gewußt!</l>
+            <l>Muß sie schnell zu pflücken gehen:</l>
+            <l>Denn sie dienen meiner Brust.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kräuter, die zwar farbig blühen,</l>
+            <l>Doch zu Thee nicht dienlich sind,</l>
+            <l>Doch nicht brauchbar sind zu Brühen,</l>
+            <l>Ueberlass' ich gern dem Wind.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

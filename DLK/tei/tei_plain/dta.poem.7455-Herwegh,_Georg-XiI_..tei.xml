@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XiI .</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">595</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XiI .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Ihr voll Mut zu schleudern euch nicht scheutet</l>
+            <l>Ein blitzend Wort in unsres Lebens Schwüle,</l>
+            <l>O Glück, wenn ihr euch auf dem Sterbepfühle</l>
+            <l>Vom Neid zerstückter Kränze noch erfreutet!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie haben Ruhm in Scheffeln sich erbeutet,</l>
+            <l>Die ruhig trabten ihren Weg zur Mühle</l>
+            <l>Und immer hübsch die trunkensten Gefühle</l>
+            <l>Gleich tauben Blüten aus dem Korn gereutet!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Brauch' deine Hand, die ist der Welt genug,</l>
+            <l>Und Kopf und Herz sind beide überflüssig;</l>
+            <l>Man will den Flaum vom Vogel, nicht den Flug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kannst du nur dichten, gehe lieber müssig;</l>
+            <l>Die Welt, die stets das Ungereimte trug,</l>
+            <l>Ist des Gereimten schnell sehr überdrüssig.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

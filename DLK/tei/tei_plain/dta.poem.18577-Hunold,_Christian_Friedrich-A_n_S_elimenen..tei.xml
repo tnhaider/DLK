@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">A n  S elimenen.</title>
+        <author>
+          <persName>
+            <surname>Hunold</surname>
+            <forename>Christian Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">117</measure>
+        <measure type="characters">647</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1702</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197766"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>A n  S elimenen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So wolt ihr mich getreue Sinnen quälen/</l>
+            <l>Und stellt mir stets ein Englisch Bildniß für?</l>
+            <l>Ihr küsset zwar die Schönste meiner Seelen/</l>
+            <l>Allein mich reist des Schicksals Macht von ihr:</l>
+            <l>Ach küsset sie und martert mich dabey/</l>
+            <l>Ihr seyd getreu.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr seyd getreu der schönen Selimenen/</l>
+            <l>Die meine Brust vor ihre Göttin hält.</l>
+            <l>Ach muß ich mich nach dir vergeblich sehnen!</l>
+            <l>Verbanst du mich noch endlich aus der Welt?</l>
+            <l>So thu es nur/ du bist mein ander ich/</l>
+            <l>Verbanne mich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Verbanne mich auch zu den wilden Mohren/</l>
+            <l>Ja heiß mich gar in öde Wüsten gehn:</l>
+            <l>Ich habe mich als Sclave dir verschworen/</l>
+            <l>Und bins bereit gehorsamst auszustehn.</l>
+            <l>Doch siehe nur bey meinen Elend an/</l>
+            <l>Was Gnade kan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

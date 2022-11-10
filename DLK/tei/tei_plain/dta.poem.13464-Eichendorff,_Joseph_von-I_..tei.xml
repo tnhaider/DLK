@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">I .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6 2-6</measure>
+        <measure type="syllables">92</measure>
+        <measure type="tokens">64</measure>
+        <measure type="characters">362</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>I .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wandre durch die stille Nacht,</l>
+            <l>Da schleicht der Mond so heimlich sacht</l>
+            <l>Oft aus der dunklen Wolkenhülle,</l>
+            <l>Und hin und her im Thal</l>
+            <l>Erwacht die Nachtigall,</l>
+            <l>Dann wieder alles grau und stille.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O wunderbarer Nachtgesang:</l>
+            <l>Von fern im Land der Ströme Gang,</l>
+            <l>Leis Schauern in den dunklen Bäumen —</l>
+            <l>Wirr'st die Gedanken mir,</l>
+            <l>Mein irres Singen hier</l>
+            <l>Ist wie ein Rufen nur aus Träumen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

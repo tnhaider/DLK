@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Winterlied.</title>
+        <author>
+          <persName>
+            <surname>Hölty</surname>
+            <forename>Ludwig Christoph Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-6</measure>
+        <measure type="syllables">123</measure>
+        <measure type="tokens">76</measure>
+        <measure type="characters">467</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1783</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192568"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Winterlied.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur das Wintergrün</l>
+            <l>Blickt durch Silberhüllen;</l>
+            <l>Nur das Fenster füllen</l>
+            <l>Blümchen, roth und weiss,</l>
+            <l>Aufgeblüht aus Eis.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach! kein Vogelsang</l>
+            <l>Tönt mit frohem Klang;</l>
+            <l>Nur die Winterweise</l>
+            <l>Jener kleinen Meise,</l>
+            <l>Die am Fenster schwirrt,</l>
+            <l>Und um Futter girrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Minne flieht den Hain,</l>
+            <l>Wo die Vögelein</l>
+            <l>Sonst im grünen Schatten</l>
+            <l>Ihre Nester hatten;</l>
+            <l>Minne flieht den Hain,</l>
+            <l>Kehrt ins Zimmer ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kalter Januar,</l>
+            <l>Hier werd' ich fürwahr</l>
+            <l>Unter Minnespielen,</l>
+            <l>Deinen Frost nicht fühlen!</l>
+            <l>Walte immerdar,</l>
+            <l>Kalter Januar!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

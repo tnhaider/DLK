@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Linde .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8 5-8</measure>
+        <measure type="syllables">261</measure>
+        <measure type="tokens">172</measure>
+        <measure type="characters">987</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Linde .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du majestätsche Linde,</l>
+            <l>Worunter oft Lucinde</l>
+            <l>Mit ruhigem Gemüth</l>
+            <l>Der Nacht entgegen sieht;</l>
+            <l>O schütte von den Aesten,</l>
+            <l>Bewegt von sanften Westen,</l>
+            <l>Der Blüthen süßen Duft</l>
+            <l>In die gekühlte Luft.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die einsame Lucinde</l>
+            <l>Genießt dich nur, o Linde,</l>
+            <l>Und kömmt, als Nachbarin,</l>
+            <l>In deinen Schatten hin.</l>
+            <l>Von Blüthen überdecket</l>
+            <l>Hast du ihr Herz erwecket;</l>
+            <l>Wie oft hat deine Pracht</l>
+            <l>Sie nicht entzückt gemacht!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So bald die ersten Stralen</l>
+            <l>Die wilden Hügel malen,</l>
+            <l>Grüßt dich der Vögel Ton,</l>
+            <l>Und auch Lucinde schon.</l>
+            <l>Und wenn, mit trägen Rossen,</l>
+            <l>Der Ackersmann verdrossen</l>
+            <l>Nach seinen Hütten zieht,</l>
+            <l>Grüßt dich ihr muntres Lied.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O blühe für Lucinden!</l>
+            <l>Jhr Herz nur kan empfinden,</l>
+            <l>Durch wessen starke Macht</l>
+            <l>Dein Haupt in Wolken lacht.</l>
+            <l>Mehr kan ein Kleist nicht fühlen,</l>
+            <l>Wenn er, am Bach im Kühlen,</l>
+            <l>Auf Thomsons Laute spielt,</l>
+            <l>Als hier Lucinde fühlt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es schleicht mit stillen Schritten</l>
+            <l>Der Abend um die Hütten,</l>
+            <l>Der hohe Wald wird grau,</l>
+            <l>Und Wiesen tränkt der Thau;</l>
+            <l>O schicke durch die Lüfte</l>
+            <l>Viel tausend süße Düfte,</l>
+            <l>Zum Anwunsch sanfter Ruh,</l>
+            <l>Lucindens Fenster zu!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

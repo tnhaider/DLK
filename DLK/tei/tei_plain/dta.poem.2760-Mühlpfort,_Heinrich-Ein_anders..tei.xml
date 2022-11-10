@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein anders.</title>
+        <author>
+          <persName>
+            <surname>Mühlpfort</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">279</measure>
+        <measure type="tokens">191</measure>
+        <measure type="characters">1112</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1686</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20414-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein anders.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin vergnügt/ dein schöner Rosen-Mund</l>
+            <l>Hat meinen Geist und Seele recht erquicket;</l>
+            <l>Dein Kuß macht mir des Hertzens Meynung kund/</l>
+            <l>Und gleicher Trieb hat meine Seel entzücket.</l>
+            <l>Ich sage diß/ du hast nun obgesiegt;</l>
+            <l>Ich bin vergnügt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin vergnügt/ dein Hertze erquickend Kuß</l>
+            <l>Begegnet stets der Gegenwart der Seele/</l>
+            <l>Eh’ diese noch zurücke lauffen muß</l>
+            <l>Wart meiner schon in der Corallen-Höle.</l>
+            <l>Ich fühle wol/ woran mir alles ligt/</l>
+            <l>Ich bin vergnügt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin vergnügt/ dein heisser Kuß entdecket/</l>
+            <l>Wie treu du liebst! wie redlich deine Flammen!</l>
+            <l>Es brennt ein Feur/ das im Verborgnen steckt/</l>
+            <l>Biß endlich schlägt die lichte Loh zusammen:</l>
+            <l>So auch ein Hertz/ das alles überwiegt/</l>
+            <l>Ich bin vergnügt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin vergnügt/ in deinem süssen Kuß’</l>
+            <l>Hab ich noch mehr als Ambrosin geschmecket/</l>
+            <l>Es ist fürwahr der Anmuth Uberfluß.</l>
+            <l>Ein Aufboth/ der stets neue Lust erwecket.</l>
+            <l>Ein ander denck/ ob er dergleichen kriegt/</l>
+            <l>Ich bin vergnügt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich bin vergnügt/ und ruh in deiner Schoß/</l>
+            <l>Hyelle Schatz und Sammelplatz der Freuden/</l>
+            <l>Die Liebe macht mich aller Sorgen loß.</l>
+            <l>Ich will bey dir in nichts als Rosen weiden/</l>
+            <l>Und sage stets/ weil es der Himmel fügt/</l>
+            <l>Ich bin vergnügt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Achtes Buch.</title>
+        <author>
+          <persName>
+            <surname>Scheyb</surname>
+            <forename>Franz Christoph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">772</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1746</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20535-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Achtes Buch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>„geduld! was redest du? was soll der Einspruch seyn?</l>
+            <l>215”Mit dem du mein Gespräch noch unbefragt verwirrest?</l>
+            <l>„da du mit deinem Weiß und Grau darunter girrest?</l>
+            <l>Sie schien uns fast erzürnt: sie wiederhohlte das</l>
+            <l>Was sie gesagt, und sprach: „Du redest ohne Maß.</l>
+            <l>(es gieng die Bau-Kunst an, die wollte sie noch fragen:)</l>
+            <l>220”Wie kannst du nun so frey von einem Vorzug sagen?</l>
+            <l>„mit was du dich geprahlt, das kommt von oben her;</l>
+            <l>„nicht dein, des Himmels ist der Wercke Kunst und Ehr.</l>
+            <l>„das was dein Winckelmaß und deine Richtschnur bauet,</l>
+            <l>„ist stumm, wann man darauf nicht meine Zierden schauet.</l>
+            <l>225”Das Helden-Bild, das ich dir erst beschrieben hab,</l>
+            <l>„gäb mehr als ein Gebäu von tausend Säulen ab.</l>
+            <l>„es würde von Metall, Gold oder Erz gegossen,</l>
+            <l>„mit Sieges-Rüstungen und Kriegs-Geräth umschlossen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Venus.</title>
+        <author>
+          <persName>
+            <surname>Uz</surname>
+            <forename>Johann Peter</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">26</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-5 4-4 5-4 6-4</measure>
+        <measure type="syllables">251</measure>
+        <measure type="tokens">164</measure>
+        <measure type="characters">988</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1755</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20614-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Venus.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ogöttinn, die in Amathunt</l>
+            <l>Und über Paphos herrscht, du Mutter süsser Kla-</l>
+            <l>gen!</l>
+            <l>Wie lang soll ieder rauher Mund</l>
+            <l>Jm Ton Anakreons dich zu besingen wagen?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn manche deutsche Muse nun</l>
+            <l>Von Lieb und Küssen singt; wie eckelt mir vor Küssen!</l>
+            <l>Gib acht, wie, wann sie artig thun</l>
+            <l>Und schalkhaft tändeln will, die Mädchen gähnen müssen!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr ist Lyäus unbekannt;</l>
+            <l>Sie sieht so nüchtern aus, als Wasser, ihr Getränke.</l>
+            <l>Doch jauchzt sie, als vom Wein entbrannt,</l>
+            <l>Und jauchzt, wie ein Student in schwarzberauchter Schen-</l>
+            <l>ke.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Unleidlich sträubt sich ieder Ton:</l>
+            <l>Jhr träger Witz gebiert nur wörterreiche Sätze.</l>
+            <l>Nie war dein Freund Anakreon</l>
+            <l>So schwatzhaft, obgleich ält; und Amor hasst Geschwätze.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Vätter dieser Lieder-Brut,</l>
+            <l>Die Affen deines Gleims, o schöne Göttinn! strafe.</l>
+            <l>Von Lieb entbrenn’ ihr kaltes Blut!</l>
+            <l>Jhr Mädchen les’ ihr Lob, ihr frostig Lob und schlafe!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nie schall' ihr ungerathnes Lied,</l>
+            <l>Bey sanftem Saitenspiel, von Lippen kluger Schönen,</l>
+            <l>Noch wo der junge Bacchus glüht,</l>
+            <l>Wenn ihn die Grazien mit ihren Rosen krönen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

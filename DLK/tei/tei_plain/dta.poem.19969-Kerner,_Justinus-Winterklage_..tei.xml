@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Winterklage .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">183</measure>
+        <measure type="tokens">111</measure>
+        <measure type="characters">702</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Winterklage .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wann in lichten Sommertagen</l>
+            <l>Leiden dieses Herz getragen,</l>
+            <l>Schlug es bald am Wiesenbach,</l>
+            <l>Bald in Waldes Dämmerungen,</l>
+            <l>Wo die Nachtigall gesungen,</l>
+            <l>Mildern Melodien nach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jezt in trüben Wintertagen,</l>
+            <l>Ach! wer stillet seine Klagen?</l>
+            <l>Nachtigall und Wiesenbach?</l>
+            <l>Wiesenbach liegt eng gebunden,</l>
+            <l>Nachtigall hat Tod gefunden,</l>
+            <l>Singt nicht mehr die Blumen wach.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blumen auch sind rings verdorben,</l>
+            <l>Mutter Erde ist gestorben,</l>
+            <l>Und ihr Kind verwaist, allein.</l>
+            <l>Einsam blickt's in blaue Ferne,</l>
+            <l>Komm! so rufen alle Sterne,</l>
+            <l>Hier ist ew'ger Maienschein!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Herz! so hör' denn auf zu schlagen!</l>
+            <l>Sieh! in diesen trüben Tagen</l>
+            <l>Singt kein Vogel, wallt kein Bach.</l>
+            <l>Willst dich nicht gefangen geben,</l>
+            <l>Treibst mit schmerzlich bangem Beben</l>
+            <l>Eine Well' der andern nach!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

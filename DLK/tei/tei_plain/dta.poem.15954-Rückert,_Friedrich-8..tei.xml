@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">8.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2</measure>
+        <measure type="syllables">126</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">498</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>8.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Glück des Mannes kann nicht Etwas seyn, o Sohn,</l>
+            <l>Wo einer wenig hat und einer viel davon.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Glück muß etwas seyn wie Luft und Licht und Leben,</l>
+            <l>Das allen allgemein, ist allen gleich gegeben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht Reichthum kann es seyn und Macht und solche Gaben,</l>
+            <l>Wovon den einen fehlt soviel die andern haben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht Weisheit kann es seyn und Kunst, zu deren Stufen</l>
+            <l>Die wen'gen kommen, die besonders sind berufen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur gut seyn ohne Groll ist höchstes Gut des Manns,</l>
+            <l>Weil gut seyn jeder soll, und wer es will, der kanns.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

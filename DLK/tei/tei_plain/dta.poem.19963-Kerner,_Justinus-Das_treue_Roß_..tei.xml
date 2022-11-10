@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das treue Roß .</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">11</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2 9-2 10-2 11-2</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">763</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das treue Roß .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Graf Turneck kam nach hartem Strauß</l>
+            <l>Bei Nacht wohl vor ein Gotteshaus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Haus, das lag im Walde tief,</l>
+            <l>In seiner Gruft ein König schlief.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hier auszuruhn gedenkt der Graf,</l>
+            <l>Er weiß nicht, daß ein Pfeil ihn traf.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Graf steigt ab vom weißen Roß;</l>
+            <l>„gras', bis ich wieder komm', im Moos!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf fährt das Thor mit dumpfem Schall,</l>
+            <l>Dann schweigt es in der weiten Hall'.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Graf tappt hin an kalter Wand</l>
+            <l>Bald einen alten Sarg er fand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„der müde Leib soll rasten hier;</l>
+            <l>Versteinert Holz! brichst nicht mit mir.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Graf sich legt, so lang er war,</l>
+            <l>Wol auf dieselbe Todtenbahr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Sonn' kam über Berge roth,</l>
+            <l>Der Graf kam nicht, der Graf war todt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seitdem verstrich manch hundert Jahr,</l>
+            <l>Sein harrt das Roß noch immerdar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vor'm Gotteshaus steht noch ein Stein,</l>
+            <l>Dran grast das Roß im Mondenschein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

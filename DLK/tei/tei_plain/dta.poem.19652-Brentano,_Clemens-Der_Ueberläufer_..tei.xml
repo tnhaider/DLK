@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Ueberläufer .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">139</measure>
+        <measure type="tokens">99</measure>
+        <measure type="characters">548</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519168"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Ueberläufer .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In den Garten wollen wir gehen,               </l>
+            <l>Wo die schönen Rosen stehen,</l>
+            <l>Da stehen der Rosen gar zu viel,</l>
+            <l>Brech ich mir eine, wo ich will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir haben gar öfters beysammen gesessen,</l>
+            <l>Wie ist mir mein Schatz so treu gewesen,</l>
+            <l>Das hat ich mir nicht gebildet ein,</l>
+            <l>Daß mein Schatz so falsch könnt seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hört ihr nicht den Jäger blasen,</l>
+            <l>In dem Wald auf grünem Rasen?</l>
+            <l>Den Jäger mit dem grünen Huth,</l>
+            <l>Der meinen Schatz verführen thut?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hört ihr nicht den Trompeter blasen,</l>
+            <l>In der Stadt auf der Parade?</l>
+            <l>Der Trompeter mit dem Federbusch,</l>
+            <l>Der mir meinen Schatz verrathen thut.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

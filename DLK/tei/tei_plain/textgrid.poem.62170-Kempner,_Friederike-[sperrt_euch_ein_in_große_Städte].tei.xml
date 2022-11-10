@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[sperrt euch ein in große Städte]</title>
+        <author>
+          <persName>
+            <surname>Kempner</surname>
+            <forename>Friederike</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-9 2-9</measure>
+        <measure type="syllables">132</measure>
+        <measure type="tokens">80</measure>
+        <measure type="characters">478</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1868</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>[sperrt euch ein in große Städte]</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sperrt euch ein in große Städte,</l>
+            <l>Atmet ein die dicke Luft,</l>
+            <l>Die ein And'rer ausgeatmet –</l>
+            <l>Unbeschreiblich süßer Duft!</l>
+            <l>Brauchet dann noch eine Kur,</l>
+            <l>Eine Morphium-Mixtur,</l>
+            <l>Und ihr bauet eine Kluft</l>
+            <l>Zwischen euch und der Natur:</l>
+            <l>Ach, ihr bauet eure Gruft!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sperrt euch ein in große Städte,</l>
+            <l>Atmet ein die dicke Luft,</l>
+            <l>Die ein And'rer ausgeatmet –</l>
+            <l>Unbeschreiblich süßer Duft!</l>
+            <l>Brauchet dann noch eine Kur,</l>
+            <l>Eine Morphium-Mixtur,</l>
+            <l>Und ihr bauet eine Kluft</l>
+            <l>Zwischen euch und der Natur:</l>
+            <l>Ach, ihr bauet eure Gruft!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

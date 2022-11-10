@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">3.</title>
+        <author>
+          <persName>
+            <surname>Kerner</surname>
+            <forename>Justinus</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">153</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">632</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>3.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Glocken haben ausgeklungen,</l>
+            <l>Die schwarzen Kleider zog man aus,</l>
+            <l>Und Blum' und Blüthe ist gedrungen</l>
+            <l>Glanzreich an's Licht aus dunklem Haus.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mag noch so bunt die Aue prangen,</l>
+            <l>Steht paradiesisch Feld und Hain,</l>
+            <l>Der Schmerz, daß Sie von uns gegangen,</l>
+            <l>Der dringt in's Herz durch Blüthen ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ist's, als käm von </l>
+            <l>Der Blüthenhimmel reich und klar,</l>
+            <l>Wie </l>
+            <l>Die Heilige im Leidensjahr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch ist's, als flöß, was noch von Segen</l>
+            <l>Des Himmels fühlt dieß arme Land:</l>
+            <l>Mondlicht und Sonnenschein und Regen</l>
+            <l>Herab aus </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was Menschen thun kann nimmer frommen,</l>
+            <l>Uns retten Gottes Engel nur;</l>
+            <l>Nie wird ein Hungerjahr mehr kommen, —</l>
+            <l>Sie schwebt ein Schutzgeist ob der Flur.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

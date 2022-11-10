@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Neue Jahr.  
+ Sonnet.</title>
+        <author>
+          <persName>
+            <surname>Canitz</surname>
+            <forename>Friedrich Rudolph Ludwig von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-3 4-3</measure>
+        <measure type="syllables">167</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">688</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1700</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197532"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Neue Jahr.  
+ Sonnet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>So bleibt auf ewig nun das alte Jahr zurücke;</l>
+            <l>Wie theilt der Soñen-Lauf so schnell die Zeiten ab!</l>
+            <l>Wie schleppet uns so bald das Alter in das Grab!</l>
+            <l>Das heißt wol schlecht gelebt; Die wenig Augenblicke/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In welchẽ viel Verdruß vermischt mit schlechtem Glücke/</l>
+            <l>Und lauter Unbestand sich zu erkennen gab;</l>
+            <l>Das heißt wol schlecht gewohnt/ wenn uns der Wan-</l>
+            <l>Nie aus den Händen kömmt; Wenn wir durch List und</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hinstraucheln in der Nacht/ da wenig Licht zu sehn/</l>
+            <l>Und Licht dem allemahl nicht sicher nachzugehn.</l>
+            <l>Denn so der Höchste nicht ein eignes Licht wil weisen/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das/ wenn wir uns verwirrt/ uns Sinn und Auge</l>
+            <l>Ist alles Licht ein Licht das zur Verdamniß führt:</l>
+            <l>O gar zu kurtze Zeit! O gar zu schweres Reisen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

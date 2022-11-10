@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Elise .</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">203</measure>
+        <measure type="tokens">130</measure>
+        <measure type="characters">776</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1860</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191007"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Elise .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das war gewiß ein andrer M&amp;#228;rz,</l>
+            <l>Ein Mond, den Blüthenkränz’ umhegten,</l>
+            <l>Als Engel dich, geliebtes Herz,</l>
+            <l>In deine erste Wiege legten;</l>
+            <l>Das war gewiß ein Tag so frei,</l>
+            <l>So frisch vom Sonnenstrahl umglommen!</l>
+            <l>Doch auch im Wintermantel sei</l>
+            <l>Er, wie der schönste, mir willkommen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ward ein schlimmrer Mond zu Theil,</l>
+            <l>Um den kein Vogel je gesungen,</l>
+            <l>Nur Eiseszapfen blank und steil</l>
+            <l>Das kalte Diadem geschlungen;</l>
+            <l>Ach anders wirken Schnee und Eis!</l>
+            <l>Und anders wohl der Sonnen Güte!</l>
+            <l>Ich steh’, ein düstres Tannenreis,</l>
+            <l>Du eine zarte Veilchenblüte.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch fest zusammen, fest im Raum</l>
+            <l>Gehalten in des Winters Stürmen,</l>
+            <l>Du schmücke mich zum Weihnachtsbaum</l>
+            <l>Und ich will deine Blüte schirmen;</l>
+            <l>Dann muß uns willig oder nicht</l>
+            <l>Das Leben reiche Gaben zählen,</l>
+            <l>Und niemals wird das Himmelslicht,</l>
+            <l>Der Poesie Beleuchtung fehlen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

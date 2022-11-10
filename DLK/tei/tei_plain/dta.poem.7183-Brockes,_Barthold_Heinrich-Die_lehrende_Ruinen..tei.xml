@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die lehrende Ruinen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">151</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">597</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die lehrende Ruinen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nachdem ich bey dem Kern und Auszug kluger Geister,</l>
+            <l>Dem Welt-bekannten Burgermeister,</l>
+            <l>Dem theuren </l>
+            <l>Von tausend Wundern sah: und tausend Seltenheiten,</l>
+            <l>Womit Sein Haus erfüllt, recht als ein Sammel-Platz</l>
+            <l>Von dem, was sonst in den verborgnen Gründen</l>
+            <l>Der Erden und der See zu finden,</l>
+            <l>(von deren Ordnung, Meng’ und Trefflichkeiten</l>
+            <l>Ich künfftig mehr zu melden Willens bin)</l>
+            <l>Bewundernd angeschaut, mit fast erstauntem Sinn,</l>
+            <l>Und bald darauf daselbst, von einer fremden Hand,</l>
+            <l>Ein Wunderwerck der Kunst in raren Rissen fand;</l>
+            <l>Bin ich bey dem, was ich gesehn, gehört, gelesen,</l>
+            <l>Mehr als vergnügt, mehr als erstaunt, gewesen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

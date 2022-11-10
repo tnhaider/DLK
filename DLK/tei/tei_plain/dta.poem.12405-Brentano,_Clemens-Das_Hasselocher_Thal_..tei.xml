@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Hasselocher Thal .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6 6-6</measure>
+        <measure type="syllables">221</measure>
+        <measure type="tokens">175</measure>
+        <measure type="characters">983</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Hasselocher Thal .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des reichen Schlossers Knab,               </l>
+            <l>Ging mit dem Müller aus,</l>
+            <l>Ging Abends spät nach Haus</l>
+            <l>Durchs Hasselocher Thal,</l>
+            <l>Bey Haßloch durch den Wald,</l>
+            <l>Wohl durch den dicken Wald.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Knab holt Nägel her,</l>
+            <l>Ein hundert aus der Stadt,</l>
+            <l>Die Tasche war ihm schwer,</l>
+            <l>Ein Groschen noch drein hat:</l>
+            <l>„im Hundert, lustig spricht,</l>
+            <l>„find ichs klein Gröschel nicht.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Müller denket schnell,</l>
+            <l>Er denkt der Nägel nicht,</l>
+            <l>Die Nägel klingern hell,</l>
+            <l>Zum armen Knaben spricht:</l>
+            <l>„es ist wohl schwer dein Geld,</l>
+            <l>„ich nehm dir ab dein Geld.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der junge Knabe spricht:</l>
+            <l>„die hundert Gulden Geld,</l>
+            <l>„die trage ich noch selbst.“</l>
+            <l>Der böse Müller spricht:</l>
+            <l>„so must du sterben bald,</l>
+            <l>„must sterben hier im Wald.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er gab ihm keine Bitt,</l>
+            <l>Er gab ihm gleich drey Stich:</l>
+            <l>„ach Vetter, liebster mein,</l>
+            <l>„kann es nicht anders seyn,</l>
+            <l>„gedenk an Berg und Thal,</l>
+            <l>„wo wir gegangen her durch Berg und Thal.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„ich seh nicht Berg und Thal,</l>
+            <l>„ich seh dran meine Qual,</l>
+            <l>„die hundert Gulden schnell</l>
+            <l>„verwandelt in Nägel schwarz,</l>
+            <l>„ich find den Nagel bald,</l>
+            <l>„daß ich mich häng im Wald!“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

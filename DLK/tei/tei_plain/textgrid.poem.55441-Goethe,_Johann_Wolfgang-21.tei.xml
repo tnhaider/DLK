@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">21</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-6 2-5 3-6 4-5</measure>
+        <measure type="syllables">240</measure>
+        <measure type="tokens">162</measure>
+        <measure type="characters">956</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1818</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>21</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Scheidenden ist jede Gabe wert,</l>
+            <l>Ein dürres Blatt, ein Moos, ein Steinchen aus der Quelle,</l>
+            <l>Daß er des Freunds gedenke, jener Stelle,</l>
+            <l>Wohin er ewig hin und hin begehrt:</l>
+            <l>Ein Zeuge bleibt's, wie sinnig sie gewandelt.</l>
+            <l>So wird ein Nichts zum höchsten Schatz verwandelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn aber solche Gabe tiefen Wert,</l>
+            <l>Gestaltet, mit sich führt, für sich allein</l>
+            <l>Dem Sinn des Künstlers wünschenswert begegnete,</l>
+            <l>Wie muß das nun ein Schatz der Schätze sein,</l>
+            <l>Wenn ihn der Freund im Scheiden treulich segnete!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dem Scheidenden ist jede Gabe wert,</l>
+            <l>Ein dürres Blatt, ein Moos, ein Steinchen aus der Quelle,</l>
+            <l>Daß er des Freunds gedenke, jener Stelle,</l>
+            <l>Wohin er ewig hin und hin begehrt:</l>
+            <l>Ein Zeuge bleibt's, wie sinnig sie gewandelt.</l>
+            <l>So wird ein Nichts zum höchsten Schatz verwandelt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn aber solche Gabe tiefen Wert,</l>
+            <l>Gestaltet, mit sich führt, für sich allein</l>
+            <l>Dem Sinn des Künstlers wünschenswert begegnete,</l>
+            <l>Wie muß das nun ein Schatz der Schätze sein,</l>
+            <l>Wenn ihn der Freund im Scheiden treulich segnete!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

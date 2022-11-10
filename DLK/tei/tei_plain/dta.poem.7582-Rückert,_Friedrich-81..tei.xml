@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">81.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">6</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2</measure>
+        <measure type="syllables">78</measure>
+        <measure type="tokens">53</measure>
+        <measure type="characters">303</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1836</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195073"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>81.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Pflüger kehrt vom Grund das Unterste nach oben,</l>
+            <l>Und seine Gründlichkeit wird einst die Ernte loben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Obere verstockt in Trocknis, und das Untere</l>
+            <l>In Feuchtnis; rüttl' es um, daß eins das andr' ermuntere.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Reg' ein Vermögen, Geist, stets mit dem andern an</l>
+            <l>Daß wechselnd jedes sei für jedes Glut und Span.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

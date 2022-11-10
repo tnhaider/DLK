@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nach einem Niederländer.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">171</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">719</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nach einem Niederländer.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Meister malt ein kleines zartes Bild,</l>
+            <l>Zurückgelehnt, beschaut er's liebevoll.</l>
+            <l>Es pocht. „Herein.“ Ein vlämischer Junker ist's</l>
+            <l>Mit einer drallen, aufgedonnerten Dirn,</l>
+            <l>Der vor Gesundheit fast die Wange birst.</l>
+            <l>Sie rauscht von Seide, flimmert von Geschmeid.</l>
+            <l>„wir haben's eilig, lieber Meister. Wißt,</l>
+            <l>Ein wackrer Schelm stiehlt mir das Töchterlein.</l>
+            <l>Morgen ist Hochzeit. Malet mir mein Kind!“</l>
+            <l>„zur Stunde, Herr! Nur noch den Pinselstrich!“</l>
+            <l>Sie treten lustig vor die Staffelei:</l>
+            <l>Auf einem blanken Kissen schlummernd liegt</l>
+            <l>Ein feiner Mädchenkopf. Der Meister setzt</l>
+            <l>Des Blumenkranzes tiefste Knospe noch</l>
+            <l>Auf die verblichne Stirn mit leichter Hand.</l>
+            <l>— „Nach der Natur?“ — „Nach der Natur. Mein Kind.</l>
+            <l>Gestern beerdigt. Herr, ich bin zu Dienst.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

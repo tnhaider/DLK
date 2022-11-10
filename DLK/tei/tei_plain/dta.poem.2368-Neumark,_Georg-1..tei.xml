@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Neumark</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">34</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-6 4-5 5-5 6-5 7-4</measure>
+        <measure type="syllables">318</measure>
+        <measure type="tokens">182</measure>
+        <measure type="characters">1212</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1652</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20428-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sey gegrüsset schöne Göttinn/ Tugenl fatkel dieser</l>
+            <l>Stadt</l>
+            <l>Von Dem/ welcher deinẽ Nahmen allzeit hochgeehret hat/</l>
+            <l>Vernim was Er dir itzo bringt/</l>
+            <l>Was Er von deinen Gaben singt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kallibelle keusche Seele vierde Charis dieser Zeit/</l>
+            <l>Zehnde Göttinn unsrer Künste deine hohe Trefligkeit</l>
+            <l>Und deine Himmelswerthe Pracht/</l>
+            <l>Dieh Schöneste zur Göttinn macht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deiner hellen Augenstrahlen flinkern gleich dem Sternen-</l>
+            <l>Licht'/</l>
+            <l>Ich wil glauben daß dem Föbus solcher schöne Glantz ge-</l>
+            <l>bricht/</l>
+            <l>Der Liebholdinnen Majestät/</l>
+            <l>In deinen Liebesaugen steht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deiner Wangen Liebesfelder scheinen lauter Milch und</l>
+            <l>Blut/</l>
+            <l>Deiner Lippẽ zukkerhonig ziehet nach sich Hertz und Muht/</l>
+            <l>Kein weisser Schnee/ kein Heiffenbein/</l>
+            <l>Kan deinen Händchen gleicher sein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn du deine Seiten rührest wird ein mattes Hertz er-</l>
+            <l>quikkt/</l>
+            <l>Höret man denn deine Stimme stehet man als wie entzükkt!</l>
+            <l>Kalliope wird selbst bethört/</l>
+            <l>Wann sie dich/ Schönste/ spielen hört.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Jhr Athenschen Junggesellen stellt nur an ein Frenden-</l>
+            <l>spiet/</l>
+            <l>Lasset Agaristen bleiben hier ist eures Spieles ziehl.</l>
+            <l>Denn Kallibellen Zierligkeit/</l>
+            <l>Geht über Agaristen weit.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hettestu nur Kallibellen in Beotien ersehn/</l>
+            <l>Grosser Juppiter du hettest dein’ Eginen lassen stehn/</l>
+            <l>Eginen/ derer süsse Gunst/</l>
+            <l>Dich hat versetzt in Feuersbrunst.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Caput XI.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">144</measure>
+        <measure type="tokens">78</measure>
+        <measure type="characters">520</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-30602-6"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Caput XI.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In unserem Vaterland herrschten jetzt</l>
+            <l>Nur römische Sprache und Sitten,</l>
+            <l>Vestalen gäb’ es in München sogar,</l>
+            <l>Die Schwaben hießen Quiriten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Hengstenberg wär’ ein Haruspex</l>
+            <l>Und grübelte in den Gedärmen</l>
+            <l>Von Ochsen. Neander wär’ ein Augur,</l>
+            <l>Und schaute nach Vögelschwärmen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Birch-Pfeifer söffe Terpentin,</l>
+            <l>Wie einst die römischen Damen.</l>
+            <l>(man sagt, daß sie dadurch den Urin</l>
+            <l>Besonders wohlriechend bekamen.)</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Raumer wäre kein deutscher Lump,</l>
+            <l>Er wäre ein röm’scher Lumpazius.</l>
+            <l>Der Freiligrath dichtete ohne Reim,</l>
+            <l>Wie weiland Flaccus Horazius.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

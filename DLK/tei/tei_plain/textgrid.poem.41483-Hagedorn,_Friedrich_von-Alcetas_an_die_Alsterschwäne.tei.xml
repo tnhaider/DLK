@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Alcetas an die Alsterschwäne</title>
+        <author>
+          <persName>
+            <surname>Hagedorn</surname>
+            <forename>Friedrich von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">136</measure>
+        <measure type="tokens">102</measure>
+        <measure type="characters">558</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1731</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Alcetas an die Alsterschwäne</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie sehr ist euch das Schicksal hold,</l>
+            <l>Ihr Schwäne, die ich fast beneide!</l>
+            <l>Ihr Säufer trinkt so viel ihr wollt,</l>
+            <l>Und bleibt auch dann der Schönen Freude.</l>
+            <l>Ich weiß es, Bacchus schenkte mir</l>
+            <l>Den Epheu, welcher ihm gehöret,</l>
+            <l>Hätt' ich so einen Hals, wie ihr,</l>
+            <l>Den ihr durch Wasser doch entehret.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie sehr ist euch das Schicksal hold,</l>
+            <l>Ihr Schwäne, die ich fast beneide!</l>
+            <l>Ihr Säufer trinkt so viel ihr wollt,</l>
+            <l>Und bleibt auch dann der Schönen Freude.</l>
+            <l>Ich weiß es, Bacchus schenkte mir</l>
+            <l>Den Epheu, welcher ihm gehöret,</l>
+            <l>Hätt' ich so einen Hals, wie ihr,</l>
+            <l>Den ihr durch Wasser doch entehret.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

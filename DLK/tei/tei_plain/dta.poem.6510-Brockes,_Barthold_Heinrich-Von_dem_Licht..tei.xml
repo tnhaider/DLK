@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Licht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">105</measure>
+        <measure type="characters">631</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Licht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von aller Himmels-Lufft ist ihre Gluht umringt,</l>
+            <l>Die sie umgrentzt und ihr sich stets entgegen leget,</l>
+            <l>Daß sie nicht aus einander dringt.</l>
+            <l>Jhr würckend Feur, da es gedrenget wird, erreget</l>
+            <l>Ein Zittern in der Lufft und in des Himmels Feld,</l>
+            <l>Wodurch denn alles sich in einer Ründ’ erhellt.</l>
+            <l>Vom andern Element, die Kügelchen gedruckt,</l>
+            <l>Und ausgedehnt, und von sich weggeschickt,</l>
+            <l>Die letzten öffnen sich in unsre Augen-Thüren,</l>
+            <l>Und wie es blos in einem Druck besteht,</l>
+            <l>Der vom gespanneten zu der Bewegung geht,</l>
+            <l>So ohne Zeit-Verlust geschwinde zu verspüren;</l>
+            <l>Daher erleuchtet uns der Sonnen Glantz so schnell,</l>
+            <l>Und wird im Augenblick der Creis der Erden hell.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

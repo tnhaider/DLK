@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">In das Gutenberg-Album</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">34</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-4 4-4 5-5 6-4 7-4 8-4</measure>
+        <measure type="syllables">220</measure>
+        <measure type="tokens">166</measure>
+        <measure type="characters">910</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>In das Gutenberg-Album</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du lichte, schwarze Kunst!</l>
+            <l>Ob Gutenbergs, ob Fausts,</l>
+            <l>War man mit Recht in Zweifel;</l>
+            <l>Denn halb stammst du von Gott,</l>
+            <l>Und halb hat dich der Teufel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch laßt, wie sehr besorgt,</l>
+            <l>Vom Feind euch nicht erschrecken,</l>
+            <l>Gott hat ihm Macht geborgt,</l>
+            <l>Er dient nur Gottes Zwecken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Acker ist so weit,</l>
+            <l>Wer will ihn überblicken,</l>
+            <l>Die Sichel hält die Zeit,</l>
+            <l>Sie wird ihn schon beschicken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn auch Unkraut wächst,</l>
+            <l>So hütet euch vor Jäten,</l>
+            <l>Ihr könntet im Bemühn</l>
+            <l>Die gute Saat zertreten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du lichte, schwarze Kunst!</l>
+            <l>Ob Gutenbergs, ob Fausts,</l>
+            <l>War man mit Recht in Zweifel;</l>
+            <l>Denn halb stammst du von Gott,</l>
+            <l>Und halb hat dich der Teufel.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch laßt, wie sehr besorgt,</l>
+            <l>Vom Feind euch nicht erschrecken,</l>
+            <l>Gott hat ihm Macht geborgt,</l>
+            <l>Er dient nur Gottes Zwecken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Acker ist so weit,</l>
+            <l>Wer will ihn überblicken,</l>
+            <l>Die Sichel hält die Zeit,</l>
+            <l>Sie wird ihn schon beschicken.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn auch Unkraut wächst,</l>
+            <l>So hütet euch vor Jäten,</l>
+            <l>Ihr könntet im Bemühn</l>
+            <l>Die gute Saat zertreten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

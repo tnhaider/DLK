@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dem   deutschen   Volk.</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">33</measure>
+        <measure type="verses_per_stanza">1-7 2-7 3-7 4-7 5-5</measure>
+        <measure type="syllables">244</measure>
+        <measure type="tokens">169</measure>
+        <measure type="characters">996</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192430"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dem   deutschen   Volk.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Deutschland, o zerrissen Herz,</l>
+            <l>Das zu Ende bald geschlagen,</l>
+            <l>Nur um Dich noch will ich klagen</l>
+            <l>Und in einer Brust von Erz</l>
+            <l>Schweigend meinen kleinen Schmerz,</l>
+            <l>Meinen kleinen Jammer tragen,</l>
+            <l>Vaterland, um Dich nur klagen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Lustig grünt Dein Nadelholz,</l>
+            <l>Lustig rauschen Deine Eichen;</l>
+            <l>In den sechs und dreißig Reichen</l>
+            <l>Fehlt ein einzig Körnchen Golds:</l>
+            <l>Freier Bürger hoher Stolz</l>
+            <l>Fehlt im Lande sonder Gleichen,</l>
+            <l>In den sechs und dreißig Reichen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wenn ein Sänger für Dich focht,</l>
+            <l>Wenn ein Mann ein Schwert geschwungen,</l>
+            <l>Hast Du scheu nur mitgesungen,</l>
+            <l>Hast Du schüchtern mitgepocht;</l>
+            <l>Und man hat Dich unterjocht,</l>
+            <l>Hat Dich in den Staub gezwungen,</l>
+            <l>Weil Du gar so still gesungen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ihr beweinet's und bereut's —</l>
+            <l>Und das nennt ihr deutsche Treue?</l>
+            <l>Laßt die Thränen, laßt die Reue,</l>
+            <l>Soll nicht einst der Enkel Teut's</l>
+            <l>Sterben an der Zwietracht Kreuz,</l>
+            <l>Kämpf' und handle, Volk, auf's Neue,</l>
+            <l>Denn der Teufel ist die Reue!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Tritt in Deiner Fürsten Reihn!</l>
+            <l>Sprich: die sechs und dreißig Lappen</l>
+            <l>Sollen wieder besser klappen</l>
+            <l>Und </l>
+            <l>Helf' uns Gott — so soll es klappen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

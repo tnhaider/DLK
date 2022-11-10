@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sonnet.</title>
+        <author>
+          <persName>
+            <surname>Mühlpfort</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">176</measure>
+        <measure type="tokens">124</measure>
+        <measure type="characters">725</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1686</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20414-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sonnet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Seht mich Melandern an/ wie ich so mager worden/</l>
+            <l>Wie kaum die welcke Haut die dürren Knochen deckt.</l>
+            <l>Seht/ die ihr mich geliebt/ nur daß ihr nicht erschreckt</l>
+            <l>Denn als ich flüchtig ward/ verließ der Menschen Orden/</l>
+            <l>Hat sich ein rauher Sturm von dem beeisten Norden/</l>
+            <l>Auf meinen Kopff gemacht/ weil mich kein Dach bedeckt.</l>
+            <l>Selbst die Verfolgung hat bey mir die Reu erweckt/</l>
+            <l>So daß ich bitten muß/ man woll mich nicht ermorden.</l>
+            <l>Ich will nach Jauchendorff/ umb dort zu büssen/ ziehn.</l>
+            <l>Beym Gerber mag ich nicht des Lebens Rest beschliessen.</l>
+            <l>Seht meine Augen an/ wie sie mit Thränen fliessen!</l>
+            <l>Ich will im neuen Jahr all Ubelthaten fliehn.</l>
+            <l>Nun Breßlau gute Nacht/ ich komme schwerlich wieder/</l>
+            <l>Such einst zu Jauchendorff die hinterbliebnen Glieder.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

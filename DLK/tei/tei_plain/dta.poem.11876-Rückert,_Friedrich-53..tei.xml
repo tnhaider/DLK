@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">53.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">102</measure>
+        <measure type="tokens">71</measure>
+        <measure type="characters">395</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195119"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>53.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Solange du nur denkst, ohn' es in dir zu fühlen,</l>
+            <l>Wird ein Gedanke nur den andern weiter spülen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht wahr ist was du denkst, nur was du fühlst ist wahr;</l>
+            <l>Durchs Denken machst du dir nur das Gefühlte klar.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Was du Gefühltes denkst, das wirst du auch behalten,</l>
+            <l>Und im Gedächtnis wird dirs ewig nicht veralten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das seinen Namen zwar vom Denken hat empfangen,</l>
+            <l>Doch nur Gefühltes bleibt im Angedenken hangen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

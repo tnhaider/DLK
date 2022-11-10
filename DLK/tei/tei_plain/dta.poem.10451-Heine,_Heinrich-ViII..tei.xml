@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">ViII.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">81</measure>
+        <measure type="tokens">61</measure>
+        <measure type="characters">333</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>ViII.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du schönes Fischermädchen,</l>
+            <l>Treibe den Kahn an's Land;</l>
+            <l>Komm zu mir und setze dich nieder,</l>
+            <l>Wir kosen Hand in Hand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leg' an mein Herz dein Köpfchen.</l>
+            <l>Und fürchte dich nicht zu sehr,</l>
+            <l>Vertrau'st du dich doch sorglos</l>
+            <l>Täglich dem wilden Meer.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mein Herz gleicht ganz dem Meere,</l>
+            <l>Hat Sturm und Ebb' und Fluth,</l>
+            <l>Und manche schöne Perle</l>
+            <l>In seiner Tiefe ruht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

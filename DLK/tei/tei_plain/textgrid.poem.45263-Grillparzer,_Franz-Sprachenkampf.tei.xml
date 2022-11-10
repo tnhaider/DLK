@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sprachenkampf</title>
+        <author>
+          <persName>
+            <surname>Grillparzer</surname>
+            <forename>Franz</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10 2-10</measure>
+        <measure type="syllables">200</measure>
+        <measure type="tokens">134</measure>
+        <measure type="characters">762</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1831</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sprachenkampf</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu Äsops Zeiten sprachen die Tiere,</l>
+            <l>Die Bildung der Menschen ward so die ihre,</l>
+            <l>Da fiel ihnen aber mit einmal ein,</l>
+            <l>Die Stammesart sollte das Höchste sein.</l>
+            <l>»ich will wieder brummen«, sprach der Bär,</l>
+            <l>Zu heulen war des Wolfs Begehr,</l>
+            <l>»mich lüstets zu blöken«, sagte das Schaf,</l>
+            <l>Nur einer, der bellt, schien dem Hunde brav.</l>
+            <l>Da wurden allmählich sie wieder Tiere,</l>
+            <l>Und ihre Bildung der Bestien ihre.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu Äsops Zeiten sprachen die Tiere,</l>
+            <l>Die Bildung der Menschen ward so die ihre,</l>
+            <l>Da fiel ihnen aber mit einmal ein,</l>
+            <l>Die Stammesart sollte das Höchste sein.</l>
+            <l>»ich will wieder brummen«, sprach der Bär,</l>
+            <l>Zu heulen war des Wolfs Begehr,</l>
+            <l>»mich lüstets zu blöken«, sagte das Schaf,</l>
+            <l>Nur einer, der bellt, schien dem Hunde brav.</l>
+            <l>Da wurden allmählich sie wieder Tiere,</l>
+            <l>Und ihre Bildung der Bestien ihre.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

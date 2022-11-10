@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von dem Gesicht.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">68</measure>
+        <measure type="characters">392</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von dem Gesicht.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Allein, wie fuss't man sich auf solchen eitlen Grillen?</l>
+            <l>Warum wil man das Gantz der Lüffte</l>
+            <l>Mit fliegenden Chymeren füllen?</l>
+            <l>Wer solte doch die leichten Düffte</l>
+            <l>Der unfühlbahren Bilder führen?</l>
+            <l>Wer sie, so in der Näh’ als in der Fern, regieren?</l>
+            <l>Und wie kan doch ein Werck, das voll Zerbrechlichkeiten,</l>
+            <l>Bis ins Gehirn sich einen Weg bereiten,</l>
+            <l>Ohn’ aus einander sich zu setzen</l>
+            <l>Und seine Theile zu verletzen?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

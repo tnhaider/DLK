@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Gebet.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">69</measure>
+        <measure type="tokens">45</measure>
+        <measure type="characters">276</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Gebet.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du seltner Pilger, laß Dich warnen!</l>
+            <l>Aus ird'scher Lust und Zauberei,</l>
+            <l>Die freud- und leidvoll Dich umgarnen,</l>
+            <l>Strecke zu Gott die Arme frei!</l>
+            <l>Nichts mehr mußt Du hienieden haben,</l>
+            <l>Himmlisch betrübt, verlassen, arm,</l>
+            <l>Ein treues Kind, dem Vater klagen</l>
+            <l>Die ird'sche Lust, den ird'schen Harm.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

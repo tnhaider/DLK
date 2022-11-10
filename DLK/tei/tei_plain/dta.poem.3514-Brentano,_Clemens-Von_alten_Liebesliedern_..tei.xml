@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von alten Liebesliedern .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">190</measure>
+        <measure type="tokens">144</measure>
+        <measure type="characters">800</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von alten Liebesliedern .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Spazieren wollt ich reiten,               </l>
+            <l>Der Liebsten vor die Thür,</l>
+            <l>Sie blickt nach mir von weitem,</l>
+            <l>Und sprach mit großen Freuden:</l>
+            <l>„seht dort meines Herzens Zier,</l>
+            <l>„wie trabt er her zu mir.</l>
+            <l>„trab Rößlein trab,</l>
+            <l>„trab für und für.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Zaum, den ließ ich schiessen,</l>
+            <l>Und sprengte hin zu ihr,</l>
+            <l>Ich thät sie freundlich grüssen,</l>
+            <l>Und sprach mit Worten süß:</l>
+            <l>„mein Schatz, mein höchste Zier,</l>
+            <l>„was macht ihr vor der Thür?</l>
+            <l>„trab Rößlein trab</l>
+            <l>„trab her zu ihr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Rößlein mein ich sprange,</l>
+            <l>Und band es an die Thür,</l>
+            <l>Thät freundlich sie umfangen,</l>
+            <l>Die Zeit ward uns nicht lange,</l>
+            <l>In Garten giengen wir</l>
+            <l>Mit liebender Begier;</l>
+            <l>Trab Rößlein trab,</l>
+            <l>Trab leis herfür.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wir sezten uns da nieder</l>
+            <l>Wohl in das grüne Gras,</l>
+            <l>Und sangen hin und wieder</l>
+            <l>Die alten Liebeslieder,</l>
+            <l>Bis uns die Aeuglein naß,</l>
+            <l>Wegen der Kläffer Haß.</l>
+            <l>Trab Rößlein trab,</l>
+            <l>Trab, trab fürbas.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

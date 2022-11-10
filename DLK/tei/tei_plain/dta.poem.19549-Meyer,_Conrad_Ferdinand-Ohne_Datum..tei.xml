@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ohne Datum.</title>
+        <author>
+          <persName>
+            <surname>Meyer</surname>
+            <forename>Conrad Ferdinand</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">334</measure>
+        <measure type="tokens">213</measure>
+        <measure type="characters">1307</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1882</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905193933"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ohne Datum.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du scherzest, daß ein Datum ich vergaß,</l>
+            <l>Und meinst, ich dürfte bei dem Stundenmaß</l>
+            <l>Mit einem Federstriche mich verweilen.</l>
+            <l>Du schreibst: „Datire künftig deine Zeilen!“</l>
+            <l>Doch war das Zählen meine Sache nie,</l>
+            <l>Nach dem Wievielten such' ich stets vergebens,</l>
+            <l>Auch diese Zeilen, wie datir' ich sie?</l>
+            <l>„aus allen Augenblicken meines Lebens!“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kurz ist und eilig eines Menschen Tag,</l>
+            <l>Er drängt, er pulst, er flutet, Schlag um Schlag,</l>
+            <l>Wie eines Herzens ungestümes Klopfen ...</l>
+            <l>Wer teilt die Jagd des Bluts und seiner Tropfen?</l>
+            <l>Es ist ein Sturm, der nie zur Rüste geht,</l>
+            <l>Die Wechselglut des Nehmens und des Gebens,</l>
+            <l>Und meine Haare flattern windverweht</l>
+            <l>In allen Augenblicken meines Lebens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Zu ruhn ist mir versagt, es treibt mich fort,</l>
+            <l>Die Stunde rennt — doch hab' ich einen Hort,</l>
+            <l>Den keine mir entführt, in deiner Treue;</l>
+            <l>Sie ist die alte wie die ewig neue,</l>
+            <l>Sie ist die Rast in dieser Flucht und Flut,</l>
+            <l>Ein fromm Geleite leisen Flügelschwebens,</l>
+            <l>Sie ist der Segen, der beständig ruht</l>
+            <l>Auf allen Augenblicken meines Lebens.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich hemme die beschwingten Rosse nicht,</l>
+            <l>Ich freue mich, mit jedem neuen Licht</l>
+            <l>Das Feld gestreckten Laufes zu durchmessen —</l>
+            <l>Ein fernes, dunkles Gestern zu vergessen —</l>
+            <l>Ich fliege — hinter mir versinkt die Zeit —</l>
+            <l>Im Morgensonnenstrahl verjüngten Strebens! ...</l>
+            <l>Vorbei! ... Nur du allein weißt noch Bescheid</l>
+            <l>Von allen Augenblicken meines Lebens.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

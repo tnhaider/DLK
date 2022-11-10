@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Wort.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">128</measure>
+        <measure type="tokens">101</measure>
+        <measure type="characters">525</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192634"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Wort.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Uns blieb nur Eine Waffe noch:</l>
+            <l>Frisch auf! sie ist uns gut genug!</l>
+            <l>Mit ihr zerhau'n wir jedes Joch,</l>
+            <l>Und jeden Lug und jeden Trug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Wort ist unser Schild und Helm,</l>
+            <l>Das Wort ist unser Schwert und Speer.</l>
+            <l>Trotz jedem Schurken, jedem Schelm!</l>
+            <l>Dem Satan Trotz und seinem Heer!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Uns blieb nur eine Waffe noch:</l>
+            <l>Frisch auf! sie ist uns gut genug!</l>
+            <l>Mit ihr zerhau'n wir jedes Joch,</l>
+            <l>Und jeden Lug und jeden Trug.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und wenn die Welt voll Teufel wär',</l>
+            <l>Wir ziehn hinaus und kämpfen doch:</l>
+            <l>Das Kämpfen fällt uns nicht so schwer,</l>
+            <l>Uns blieb ja Eine Waffe noch.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

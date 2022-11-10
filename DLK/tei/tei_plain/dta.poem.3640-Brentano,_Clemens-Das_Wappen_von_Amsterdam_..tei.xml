@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Wappen von Amsterdam .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">129</measure>
+        <measure type="tokens">97</measure>
+        <measure type="characters">547</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Wappen von Amsterdam .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich gieng einmal nach Amsterdam,               </l>
+            <l>Auf der Faullenzer Straße,</l>
+            <l>Man fragt mich, ob ich faullenzen kann,</l>
+            <l>Ich sagte nein, und meint doch ja,</l>
+            <l>Ich sezt mich nieder und faullenzt da,</l>
+            <l>Es war wohl tausend Gulden werth,</l>
+            <l>Dafür kauft ich ein schönes Pferd,</l>
+            <l>Wars kein junges, wars ein alts,</l>
+            <l>Ohne Kopf und ohne Hals,</l>
+            <l>Ohne Schenkel, ohne Bein,</l>
+            <l>Auf dem Pferd ritt ich allein,</l>
+            <l>Auf dem Pferd ritt ich so lang,</l>
+            <l>Bis ihm gar der Bauch zersprang.</l>
+            <l>Flog heraus ein Göckerlein,</l>
+            <l>Krähte grob und krähte fein,</l>
+            <l>Hatt auf seinem Kopf ein Kamm,</l>
+            <l>Drauf stand das Wappen von Amsterdam.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

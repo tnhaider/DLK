@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der deutsche Zollverein.</title>
+        <author>
+          <persName>
+            <surname>Hoffmann von Fallersleben</surname>
+            <forename>August Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">117</measure>
+        <measure type="tokens">74</measure>
+        <measure type="characters">488</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1840</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192626"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der deutsche Zollverein.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Schwefelhölzer, Fenchel, Bricken,</l>
+            <l>Kühe, Käse, Krapp, Papier,</l>
+            <l>Schinken, Scheeren, Stiefel, Wicken,</l>
+            <l>Wolle, Seife, Garn und Bier;</l>
+            <l>Pfefferkuchen, Lumpen, Trichter,</l>
+            <l>Nüsse, Tabak, Gläser, Flachs,</l>
+            <l>Leder, Salz, Schmalz, Puppen, Lichter,</l>
+            <l>Rettig, Rips, Raps, Schnaps, Lachs, Wachs!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und ihr andern deutschen Sachen,</l>
+            <l>Tausend Dank sei euch gebracht!</l>
+            <l>Was kein Geist je konnte machen,</l>
+            <l>Ei, das habet </l>
+            <l>Denn ihr habt ein Band gewunden</l>
+            <l>Um das deutsche Vaterland.</l>
+            <l>Und die Herzen hat verbunden</l>
+            <l>Mehr als unser Bund dies Band.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

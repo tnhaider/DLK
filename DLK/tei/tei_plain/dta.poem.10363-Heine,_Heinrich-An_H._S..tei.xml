@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An H. S.</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">154</measure>
+        <measure type="tokens">96</measure>
+        <measure type="characters">600</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905192211"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An H. S.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie ich dein Büchlein hastig aufgeschlagen,</l>
+            <l>Da grüßen mir entgegen viel vertraute,</l>
+            <l>Viel goldne Bilder, die ich weiland schaute</l>
+            <l>Im Knabentraum und in den Kindertagen.</l>
+            <l>Ich sehe wieder stolz gen Himmel ragen</l>
+            <l>Den frommen Dom, den deutscher Glaube baute,</l>
+            <l>Ich hör' der Glocken und der Orgel Laute,</l>
+            <l>Dazwischen klingt's wie süße Liebesklagen.</l>
+            <l>Wohl seh' ich auch wie sie den Dom umklettern,</l>
+            <l>Die flinken Zwerglein, die sich dort erfrechen</l>
+            <l>Das hübsche Blum- und Schnitzwerk abzubrechen.</l>
+            <l>Doch mag man immerhin die Eich' entblättern.</l>
+            <l>Und sie des grünen Schmuckes rings berauben, —</l>
+            <l>Kommt neuer Lenz, wird sie sich neu belauben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das fünffte Gespräch.</title>
+        <author>
+          <persName>
+            <surname>Weise</surname>
+            <forename>Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">30</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6 5-6</measure>
+        <measure type="syllables">214</measure>
+        <measure type="tokens">140</measure>
+        <measure type="characters">862</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1701</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-25043-0"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Drama; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das fünffte Gespräch.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>5. Wer aber schon das vierdte kriegt/</l>
+            <l>Das droben auf dem simse liegt/</l>
+            <l>Der schneidet größre bissen/</l>
+            <l>Die weiber-taffel wird damit</l>
+            <l>Am fische-fleisch und kuchen-schnitt</l>
+            <l>Sich wohl behelffen müssen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>6. </l>
+            <l>Das auf die männer-tafel sol.</l>
+            <l>Das schneidet etwas kühner:</l>
+            <l>Denn sind die lieben herren nicht</l>
+            <l>Auf übrig fressen abgericht</l>
+            <l>So fressens ihre diener.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>7. </l>
+            <l>Dasselb ist aus der weise groß/</l>
+            <l>Und hilfft die tütsche-mütter/</l>
+            <l>Doch im trenchiren solls allein</l>
+            <l>Dort vor die musicanten seyn</l>
+            <l>Und vor die hochzeit-bitter.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>8. Jtzt wird das siebend’ angericht/</l>
+            <l>Das wird man bey dem schniedte nicht</l>
+            <l>So liederlich vergessen/</l>
+            <l>Und haben wir es nicht beschaut/</l>
+            <l>So wird doch wol die jungfer braut</l>
+            <l>Mit auf der hochzeit essen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>9. Die messer sind sehr gut bestalt/</l>
+            <l>Drum wird die speise warm und kalt</l>
+            <l>Den gästen niedlich schmecken:</l>
+            <l>Und sonderlich die liebe braut/</l>
+            <l>Wird auff die henn’ und sauerkraut</l>
+            <l>Die finger fleissig lecken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

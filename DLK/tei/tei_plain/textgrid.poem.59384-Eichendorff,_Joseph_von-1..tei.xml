@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">1.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">212</measure>
+        <measure type="tokens">152</measure>
+        <measure type="characters">860</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>1.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frisch eilt der helle Strom hinunter.</l>
+            <l>Drauf ziehn viel bunte Schifflein munter,</l>
+            <l>Und Strom und Schiff und bunte Scheine,</l>
+            <l>Sie fragen alle: was ich weine?</l>
+            <l>Mir ist so wohl, mir ist so weh,</l>
+            <l>Wie ich den Frühling fahren seh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel Lenze sitz ich schon da oben,</l>
+            <l>Ein Regenbogen steht im Land erhoben</l>
+            <l>Und durch die Täler, Wiesen, Wogen</l>
+            <l>Still, wie ein fernes Lied, gezogen,</l>
+            <l>Schifft immerfort dein himmlisch Bild –</l>
+            <l>Doch Strom und Schiff nie stille hielt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Frisch eilt der helle Strom hinunter.</l>
+            <l>Drauf ziehn viel bunte Schifflein munter,</l>
+            <l>Und Strom und Schiff und bunte Scheine,</l>
+            <l>Sie fragen alle: was ich weine?</l>
+            <l>Mir ist so wohl, mir ist so weh,</l>
+            <l>Wie ich den Frühling fahren seh.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Viel Lenze sitz ich schon da oben,</l>
+            <l>Ein Regenbogen steht im Land erhoben</l>
+            <l>Und durch die Täler, Wiesen, Wogen</l>
+            <l>Still, wie ein fernes Lied, gezogen,</l>
+            <l>Schifft immerfort dein himmlisch Bild –</l>
+            <l>Doch Strom und Schiff nie stille hielt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

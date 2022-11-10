@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">XlIV.  
+ An H. Caspar Dietzel.  
+ Vber die Abschrifft vnd verlag  Leonis Armenii.</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-6 4-3 5-3</measure>
+        <measure type="syllables">164</measure>
+        <measure type="tokens">120</measure>
+        <measure type="characters">713</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20218-7"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik, Drama</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>XlIV.  
+ An H. Caspar Dietzel.  
+ Vber die Abschrifft vnd verlag  Leonis Armenii.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der bochverhaßte Fürst/ den zwar die grosse Stadt </l>
+            <l>Deß </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Erd/ Himmel/ Freund vnd Feind/ der durch gehäuffte wundẽ</l>
+            <l>Von diesem Thron gestürtzt/ den er mit macht betratt/</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der Fürst der sterbend lehrt/ wie bald das schnelle Radt</l>
+            <l>Deß Glücks/ werd’ vmbgekehrt/ hat/ nun er gantzverschwun-</l>
+            <l>den </l>
+            <l>Durch zuthun meiner faust/ sein Leben wider funden/</l>
+            <l>Daß jhm der Mörder Schwerdt/ so schnell verkürtzet</l>
+            <l>hatt. </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich jrr’/ Er fiel vorhin alß Bizantz jhn entleibet/</l>
+            <l>Er fällt nun durch die Hand/ die seinen Todt beschreibet</l>
+            <l>Er fällt nun/ weil man nicht mein schreiben/ lesen kan.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch der/ der dreymal starb/ Muß dreyfach durch Euch lebẽ/</l>
+            <l>Herr Dietzel dessen Hand/ vnd druck jhm dis kan geben/</l>
+            <l>Was Bizantz/ mein gedicht; vnd schrifft jhm abgewan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

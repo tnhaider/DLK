@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">33.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">104</measure>
+        <measure type="tokens">70</measure>
+        <measure type="characters">392</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195088"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>33.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dort wo das Wissen mit dem Seyn zusammenfällt,</l>
+            <l>In dem Bewußtseyn ist der Mittelpunkt der Welt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur im Bewußtseyn was du findest, ist gefunden,</l>
+            <l>Wo sich ein Aeußeres dem Inneren verbunden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nur im Bewußtseyn wenn dir Gott ist aufgegangen,</l>
+            <l>Hast du ihn wirklich, und gestillt ist dein Verlangen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du hast ihn nicht gedacht, er ward dir nicht gegeben,</l>
+            <l>Er lebt in dir, und macht dich und die Welt dir leben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

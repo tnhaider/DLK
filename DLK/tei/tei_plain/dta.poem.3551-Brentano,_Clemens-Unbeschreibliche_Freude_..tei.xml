@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Unbeschreibliche Freude .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4</measure>
+        <measure type="syllables">142</measure>
+        <measure type="tokens">100</measure>
+        <measure type="characters">571</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1808</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519172"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Unbeschreibliche Freude .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer ist denn draussen und klopfet an?               </l>
+            <l>Der mich so leise wecken kann?</l>
+            <l>Das ist der Herzallerlieble dein,</l>
+            <l>Steh auf und laß mich zu dir ein.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Mädchen stand auf, und ließ ihn ein,</l>
+            <l>Mit seinem schneeweissen Hemdelein;</l>
+            <l>Mit seinen schneeweissen Beinen,</l>
+            <l>Das Mädchen fing an zu weinen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ach weine nicht, du Liebste mein,</l>
+            <l>Aufs Jahr sollt du mein eigen seyn;</l>
+            <l>Mein eigen sollt du werden,</l>
+            <l>O Liebe auf grüner Erden.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich wollt daß alle Felder wären Papier,</l>
+            <l>Und alle Studenten schrieben hier;</l>
+            <l>Sie schrieben ja hier die liebe lange Nacht,</l>
+            <l>Sie schrieben uns beiden die Liebe doch nicht ab.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

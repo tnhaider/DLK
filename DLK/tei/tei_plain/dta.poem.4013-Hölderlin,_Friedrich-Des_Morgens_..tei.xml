@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Des Morgens .</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">205</measure>
+        <measure type="tokens">131</measure>
+        <measure type="characters">795</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197104"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Des Morgens .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Vom Thaue glänzt der Rasen, beweglicher</l>
+            <l>Eilt schon die wache Quelle; die Birke neigt</l>
+            <l>Ihr schwankes Haupt und im Geblätter</l>
+            <l>Rauscht es und schimmert; und um die grauen</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gewölke streifen röthliche Flammen dort,</l>
+            <l>Verkündende, sie wallen geräuschlos auf;</l>
+            <l>Wie Fluten am Gestade, wogen</l>
+            <l>Höher und höher die wandelbaren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Komm nun, o komm, und eile mir nicht zu schnell,</l>
+            <l>Du goldner Tag, zum Gipfel des Himmels fort!</l>
+            <l>Denn offner fliegt, vertrauter Dir mein</l>
+            <l>Auge, Du Freudiger! zu, so lang Du</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Deiner Schöne jugendlich blickst und noch</l>
+            <l>Zu herrlich nicht, zu stolz mir geworden bist;</l>
+            <l>Du möchtest immer eilen, könnt' ich,</l>
+            <l>Göttlicher Wanderer, mit Dir! &amp;#8212; doch lächelst</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des frohen Uebermüthigen Du, daß er</l>
+            <l>Dir gleichen möchte; segne mir lieber dann</l>
+            <l>Mein sterblich Thun und heitre wieder,</l>
+            <l>Gütiger! heute den stillen Pfad mir!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

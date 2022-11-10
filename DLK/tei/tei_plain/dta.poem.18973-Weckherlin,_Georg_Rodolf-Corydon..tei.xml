@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Corydon.</title>
+        <author>
+          <persName>
+            <surname>Weckherlin</surname>
+            <forename>Georg Rodolf</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-5 2-4 3-14</measure>
+        <measure type="syllables">184</measure>
+        <measure type="tokens">136</measure>
+        <measure type="characters">766</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198111"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Corydon.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Weil Ich nicht mehr die Zeit</l>
+            <l>Nach langem layd vnd streit</l>
+            <l>Verzweiflend kan vertreiben/</l>
+            <l>So muß Ich/ Cloris/ schreiben</l>
+            <l>Die zeugnuß meiner beut;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieweil ich nichts erworben</l>
+            <l>Von Euch dan hassz zu lohn/</l>
+            <l>Bin Ich hie Corydon</l>
+            <l>Auß lieb vnd layd gestorben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Alßdan der arme Hürt/ beschliessend seinen mund/</l>
+            <l>Sunck mit dem haupt gantz blaich vnd sprachloß zu</l>
+            <l>dem grund;</l>
+            <l>Als Cloris solches sah/wolt sie gar nicht verziehen/</l>
+            <l>Sondern fieng an davon/ schnell wie ein Reh/ zu</l>
+            <l>fliehen/</l>
+            <l>So voll zorn/ stoltz vnd hassz/ Als Sie den Filodor</l>
+            <l>Vnd seine Myrt verliessz/ voll lieb vnd lust zuvor/</l>
+            <l>Vnd voll verwunderung jetz/ vnd als voll des tods</l>
+            <l>zaichen</l>
+            <l>Sie sahen Corydon auß lieb vnd layd verblaichen/</l>
+            <l>Vnd sterben/ wa sie nicht mit fleiß/ mit trost/ mit</l>
+            <l>macht/</l>
+            <l>In seinen schwachen leib den gaist zu ruck gebracht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

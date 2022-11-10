@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">41.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">175</measure>
+        <measure type="tokens">95</measure>
+        <measure type="characters">658</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1839</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195122"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>41.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie ein Botaniker nur von Profession</l>
+            <l>Bemerket, was uneingeweihtem Blick entflohn,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der zarten Moose krausgeästetes Gewimmel,</l>
+            <l>Von andern übersehn als unscheinbarer Schimmel;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch wer mit rechtem Blick und Kunstsinn es gewahrt,</l>
+            <l>Dem ist des Schöpfers Kunst auch darin offenbart,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nicht minder als im glanzentfalteten Gebäude</l>
+            <l>Buntkroniger Blumenpracht, jedermanns Augenfreude:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So im von Meisterhand entworfenen Gedicht</l>
+            <l>Sind Reize, die so leicht nicht fallen ins Gesicht,</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In denen doch sich zeigt des Meisters Kunst und Macht</l>
+            <l>Nicht minder als im Schmuck erfindungsreichster Pracht;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch nur der Kenner und Liebhaber von Kleinheiten</l>
+            <l>Ergetzt sich an derlei verborgenen Feinheiten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

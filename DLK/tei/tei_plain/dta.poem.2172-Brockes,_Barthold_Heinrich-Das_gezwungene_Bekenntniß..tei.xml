@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das gezwungene Bekenntniß.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">140</measure>
+        <measure type="tokens">84</measure>
+        <measure type="characters">511</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1748</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198553"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das gezwungene Bekenntniß.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dieß sind die Triebe, die sich fast bey allen Menschen</l>
+            <l>finden lassen:</l>
+            <l>Sie suchen zu erniedrigen, was sie bewundern, und sie</l>
+            <l>hassen</l>
+            <l>Die, so sie nicht verachten können; sie sind, an denen,</l>
+            <l>die sie schätzen,</l>
+            <l>Bemühet, Fehler zu entdecken, an ihnen etwas auszu-</l>
+            <l>setzen.</l>
+            <l>Doch zwinget sie die Macht der Tugend und der Ver-</l>
+            <l>dienste zum Vertrauen</l>
+            <l>Zu der in ihnen anerkannten aufrichtigen Beschaffenheit.</l>
+            <l>Dieß zeigt der Tugend wahren Werth und ist nicht an-</l>
+            <l>ders anzuschauen,</l>
+            <l>Als ein gezwungenes Bekenutniß von ihrer Ungerech-</l>
+            <l>tigkeit.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

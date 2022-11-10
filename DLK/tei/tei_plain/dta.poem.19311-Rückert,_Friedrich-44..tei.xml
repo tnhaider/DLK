@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">44.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2 5-2 6-2 7-2</measure>
+        <measure type="syllables">172</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">675</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>44.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dich irret in der Welt die Vielgestaltigkeit,</l>
+            <l>Einfält'ger, dir misfällt die Manigfaltigkeit:</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß nicht an jedem Ort gilt, was an einem gilt,</l>
+            <l>Und daß die eine Zeit lobt, was die andre schilt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ist es, wie der Spruch des Meisters ausgesprochen:</l>
+            <l>Es wird hier Widerspruch von Widerspruch gebrochen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Dich aber möcht' ich nicht zum Gärtner meinem Garten,</l>
+            <l>Da du nicht zugestehst den Blumen ihre Arten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch stellte gar dich Gott in seinem Garten an,</l>
+            <l>Wie würde nicht zu Spott sein Plan vor deinem Plan!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie würde nicht genutzt die Scheer', und weggeputzt</l>
+            <l>Unnützer Putz, und fein gleichförmig zugestutzt;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>In Unergetzlichkeit würd' alles eingeschnürt,</l>
+            <l>Soweit Gesetzlichkeit du hättest eingeführt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

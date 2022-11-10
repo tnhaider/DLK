@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Vogel</title>
+        <author>
+          <persName>
+            <surname>Bierbaum</surname>
+            <forename>Otto Julius</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">108</measure>
+        <measure type="characters">602</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1887</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Vogel</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Vogel singt gottlobesam,</l>
+            <l>Ein Vogel tief ist meiner Brust;</l>
+            <l>Der Vogel ist die Liebe,</l>
+            <l>Die Liebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leis ist die Stimme, die er hat,</l>
+            <l>Und seine Weise ist ganz schlicht,</l>
+            <l>Doch fröhlich ist sein Singen,</l>
+            <l>Sein Singen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gottlobesames leises Lied,</l>
+            <l>Du fröhlich Lied in meiner Brust,</l>
+            <l>Du bist mir Trost und Glaube,</l>
+            <l>Und Glaube.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ein Vogel singt gottlobesam,</l>
+            <l>Ein Vogel tief ist meiner Brust;</l>
+            <l>Der Vogel ist die Liebe,</l>
+            <l>Die Liebe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Leis ist die Stimme, die er hat,</l>
+            <l>Und seine Weise ist ganz schlicht,</l>
+            <l>Doch fröhlich ist sein Singen,</l>
+            <l>Sein Singen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gottlobesames leises Lied,</l>
+            <l>Du fröhlich Lied in meiner Brust,</l>
+            <l>Du bist mir Trost und Glaube,</l>
+            <l>Und Glaube.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

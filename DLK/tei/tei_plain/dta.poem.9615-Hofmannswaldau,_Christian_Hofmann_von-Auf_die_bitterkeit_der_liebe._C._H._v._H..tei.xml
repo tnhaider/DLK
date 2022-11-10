@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf die bitterkeit der liebe.  
+ C. H. v. H.</title>
+        <author>
+          <persName>
+            <surname>Hofmannswaldau</surname>
+            <forename>Christian Hofmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-8</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">58</measure>
+        <measure type="characters">369</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1697</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199377"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf die bitterkeit der liebe.  
+ C. H. v. H.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die nacht Egyptiens/ des Aetna wildes feuer/</l>
+            <l>Das wüten von der see/ der wüsten ungeheuer/</l>
+            <l>Des drachen gelbes gift/ der Garamanten sand/</l>
+            <l>Des neuen Zembles eyß/ der höllen heisser brand/</l>
+            <l>Der Scythen haupt-gefahr/ der donner-berge grausen/</l>
+            <l>Des Caucasus verdruß/ des norden kaltes sausen/</l>
+            <l>Ist nur ein schattenwerck und bild derselben qual/</l>
+            <l>Damit die Venus hat gezieret ihren saal.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

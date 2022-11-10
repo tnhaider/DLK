@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An ***</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8 4-8</measure>
+        <measure type="syllables">265</measure>
+        <measure type="tokens">173</measure>
+        <measure type="characters">1025</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1860</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191007"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik; Prosa</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An ***</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Auf hohem Felsen lieg' ich hier,</l>
+            <l>Der Krankheit Nebel über mir,</l>
+            <l>Und unter mir der tiefe See</l>
+            <l>Mit seiner nächt’gen Klage Weh,</l>
+            <l>Mit seinem Jubel, seiner Lust,</l>
+            <l>Wenn buntgeschmückte Wimpel fliegen,</l>
+            <l>Mit seinem Dräu’n aus hohler Brust,</l>
+            <l>Wenn Sturm und Welle sich bekriegen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mir ist er gar ein trauter Freund,</l>
+            <l>Der mit mir lächelt, mit mir weint,</l>
+            <l>Ist, wenn er grünlich golden ruht,</l>
+            <l>Mir eine sanfte Zauberfluth,</l>
+            <l>Aus deren tiefem, klaren Grund</l>
+            <l>Gestalten meines Lebens steigen,</l>
+            <l>Geliebte Augen, süßer Mund</l>
+            <l>Sich lächelnd tröstend zu mir neigen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie hab’ ich schon so manche Nacht</l>
+            <l>Des Mondes Wiederschein bewacht!</l>
+            <l>Die klare Bahn auf dunklem Grün,</l>
+            <l>Wo meiner Todten Schatten zieh’n;</l>
+            <l>Wie manchen Tag den lichten Hang,</l>
+            <l>Bewegt von hüpfend leichten Schritten,</l>
+            <l>Auf dem mit leisem Geistergang</l>
+            <l>Meiner Lebend’gen Bilder glitten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und als dein Bild vorüberschwand,</l>
+            <l>Da streckte ich nach dir die Hand,</l>
+            <l>Und meiner Seele ward es weh,</l>
+            <l>Daß dir verborgen ihre Näh’;</l>
+            <l>So nimm denn meine Lieder nun</l>
+            <l>Als liebesrothe Flammenzungen,</l>
+            <l>Laß sie in deinem Busen ruh’n</l>
+            <l>Und denk’ ich hab’ sie dir gesungen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

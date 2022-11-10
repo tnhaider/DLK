@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Liebe ohne Stand .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">247</measure>
+        <measure type="tokens">173</measure>
+        <measure type="characters">996</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Liebe ohne Stand .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es ritt ein Ritter wohl durch das Ried,               </l>
+            <l>Er hob wohl an ein neues Lied,</l>
+            <l>Gar schöne thät er singen,</l>
+            <l>Daß Berg und Thal erklingen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das hört des Königs sein Töchterlein</l>
+            <l>In ihres Vaters Lustkämmerlein,</l>
+            <l>Sie flochte ihr Härlein in Seiden,</l>
+            <l>Mit dem Ritter wollte sie reiten.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er nahm sie bey ihrem seidenen Schopf</l>
+            <l>Und schwung sie hinter sich auf sein Roß.</l>
+            <l>Sie ritten in einer kleinen Weile</l>
+            <l>Wohl vier und zwanzig Meilen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und da sie zu dem Wald 'naus kamen,</l>
+            <l>Das Rößlein das will Futter han.</l>
+            <l>„feins Liebchen, hier wollen wir ruhen,</l>
+            <l>„das Rößlein, das will Futter.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Er spreit sein Mantel ins grüne Gras,</l>
+            <l>Er bat sie, daß sie zu ihm saß,</l>
+            <l>„feins Liebchen, ihr müsset mich lausen,</l>
+            <l>„mein gelbkrauß Härlein durchzausen.“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des härmt sich des Königs sein Töchterlein,</l>
+            <l>Viel heiße Thränen sie fallen ließ,</l>
+            <l>Er schaut ihr wohl unter die Augen,</l>
+            <l>„warum weinet ihr, schöne Jungfraue?“</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>„warum sollt ich nicht weinen und traurig seyn,</l>
+            <l>„ich bin ja des Königs sein Töchterlein;</l>
+            <l>„hätt ich meinem Vater gefolget,</l>
+            <l>„frau Kayserin wär ich geworden.“</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

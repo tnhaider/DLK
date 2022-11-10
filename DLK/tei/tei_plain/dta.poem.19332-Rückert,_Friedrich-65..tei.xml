@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">65.</title>
+        <author>
+          <persName>
+            <surname>Rückert</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">100</measure>
+        <measure type="tokens">72</measure>
+        <measure type="characters">398</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905195090"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>65.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Liebe Gottes kann so werden übertrieben,</l>
+            <l>Daß sie für Sünd' es hält den Menschen auch zu lieben;</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Als würde Gott um das, was ihm gebührt, betrogen,</l>
+            <l>Der Antheil, den du weihst dem Menschen, ihm entzogen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>So ists, den Menschen wenn du liebst als Kreatur;</l>
+            <l>Lieb' ihn als ewigen Gedanken Gottes nur!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du liebest Gott nicht ganz, wenn du ihn liebst allein,</l>
+            <l>Wenn nicht auch alles, was er liebet, groß und klein.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dryander mit der Komödianten-Bande.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4</measure>
+        <measure type="syllables">150</measure>
+        <measure type="tokens">109</measure>
+        <measure type="characters">594</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Dryander mit der Komödianten-Bande.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mich brennt's an meinen Reiseschuh'n,</l>
+            <l>Fort mit der Zeit zu schreiten —</l>
+            <l>Was wollen wir agiren nun</l>
+            <l>Vor so viel klugen Leuten?</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hebt das Dach sich von dem Haus</l>
+            <l>Und die Koulissen rühren</l>
+            <l>Und strecken sich zum Himmel raus,</l>
+            <l>Strom, Wälder musiziren!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und aus den Wolken langt es sacht,</l>
+            <l>Stellt alles durcheinander,</l>
+            <l>Wie sich's kein Autor hat gedacht:</l>
+            <l>Volk, Fürsten und Dryander.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da gehn die einen müde fort,</l>
+            <l>Die andern nah'n behende,</l>
+            <l>Das alte Stück, man spielt's so fort</l>
+            <l>Und kriegt es nie zu Ende.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und keiner kennt den letzten Akt</l>
+            <l>Von allen die da spielen,</l>
+            <l>Nur der da droben schlägt den Takt,</l>
+            <l>Weiß, wo das hin will zielen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

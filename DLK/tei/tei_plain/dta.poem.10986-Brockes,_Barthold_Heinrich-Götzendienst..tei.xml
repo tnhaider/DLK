@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Götzendienst.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="syllables">123</measure>
+        <measure type="tokens">83</measure>
+        <measure type="characters">504</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1740</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905198572"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Götzendienst.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wer nicht, in Gottes Creaturen, sein' Allmacht, Lieb und
+Weisheit ehrt,</l>
+            <l>Und nichts zu seinem Preise denkt, wenn er die Wunder sieht</l>
+            <l>In welchem er sich offenbart, fast fühlbar und fast sichtbarlich,</l>
+            <l>Scheint nimmermehr ein guter Christ,</l>
+            <l>Und, wo nicht gar ein Atheist,</l>
+            <l>Ein Götzendiener wenigstens (von einer Gottheit, die er sich,</l>
+            <l>Zu seinem Besten, selbst erdacht,</l>
+            <l>Die gleichsam bloß für ihn allein,</l>
+            <l>Erschuf und wirket, was sie wirket, ihn segnet und ihn selig</l>
+            <l>Ja, mit Verstand und Sinnen, doch Verstand- und Sinnen-</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

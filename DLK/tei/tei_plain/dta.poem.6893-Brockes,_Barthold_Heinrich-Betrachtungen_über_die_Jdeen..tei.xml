@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Betrachtungen über die Jdeen.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="syllables">147</measure>
+        <measure type="tokens">90</measure>
+        <measure type="characters">547</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Betrachtungen über die Jdeen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>In allen Handlungen der Sinnen</l>
+            <l>Macht man den Unterscheid,</l>
+            <l>Von einer dunckelen Empfindlichkeit,</l>
+            <l>Durch welche man von ihnen wird gerühret,</l>
+            <l>Zu einem deutlichen Begriff, den man von innen,</l>
+            <l>In unsrer Seele selbst verspüret.</l>
+            <l>Ein jeder Vorwurff, den wir sehen,</l>
+            <l>Erreget und erweckt in uns Jdeen.</l>
+            <l>Allein,</l>
+            <l>Wofern man überleget,</l>
+            <l>Daß es der Geist allein, der sie erreget,</l>
+            <l>So müssen sie vom Leib wol unterschieden seyn.</l>
+            <l>Man hüte sich,</l>
+            <l>Daß man statt seiner nicht erwehle</l>
+            <l>Die Striche, welche cörperlich,</l>
+            <l>Aus welchen mit so vielen Bildern,</l>
+            <l>Die Vorwürff’ im Gehirn sich schildern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

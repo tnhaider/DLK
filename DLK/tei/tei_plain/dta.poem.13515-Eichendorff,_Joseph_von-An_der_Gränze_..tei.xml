@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An der Gränze .</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">125</measure>
+        <measure type="tokens">92</measure>
+        <measure type="characters">523</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An der Gränze .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die treuen Berg' steh'n auf der Wacht:</l>
+            <l>„wer streicht bei stiller Morgenzeit</l>
+            <l>Da aus der Fremde durch die Haid'?“ —</l>
+            <l>Ich aber mir die Berg' betracht'</l>
+            <l>Und lach' in mich vor großer Lust,</l>
+            <l>Und rufe recht aus frischer Brust</l>
+            <l>Parol und Feldgeschrei sogleich:</l>
+            <l>Vivat Oestreich!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Da kennt mich erst die ganze Rund,</l>
+            <l>Nun grüßen Bach und Vöglein zart</l>
+            <l>Und Wälder rings nach Landesart,</l>
+            <l>Die Donau blitzt aus tiefem Grund,</l>
+            <l>Der Stephansthurm auch ganz von fern</l>
+            <l>Guckt über'n Berg und säh' mich gern,</l>
+            <l>Und ist er's nicht, so kommt er doch gleich,</l>
+            <l>Vivat Oestreich!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

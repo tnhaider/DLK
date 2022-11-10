@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mädchen.</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-14</measure>
+        <measure type="syllables">148</measure>
+        <measure type="tokens">106</measure>
+        <measure type="characters">604</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1837</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191113"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mädchen.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Gar oft schon fühlt' ich's tief, des Mädchens Seele</l>
+            <l>Wird nicht sich selbst, dem Liebsten nur geboren.</l>
+            <l>Da irrt sie nun verstoßen und verloren,</l>
+            <l>Schickt heimlich Blicke schön als Boten aus,</l>
+            <l>Daß sie auf Erden suchen ihr ihr Haus.</l>
+            <l>Sie schlummert in der Schwüle, leicht bedeckt,</l>
+            <l>Lächelt im Schlafe, athmet warm und leise,</l>
+            <l>Doch die Gedanken sind fern auf der Reise,</l>
+            <l>Und auf den Wangen flattert träum'risch Feuer,</l>
+            <l>Hebt buhlend oft der Wind den zarten Schleier.</l>
+            <l>Der Mann, der da zum erstenmal sie weckt,</l>
+            <l>Zuerst hinunterlangt in diese Stille,</l>
+            <l>Dem fällt sie um den Hals vor Freude bang</l>
+            <l>Und läßt ihn nicht mehr all' ihr Lebelang.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

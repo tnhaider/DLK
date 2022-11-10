@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Von der Hitze und von der Kälte.</title>
+        <author>
+          <persName>
+            <surname>Brockes</surname>
+            <forename>Barthold Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-16</measure>
+        <measure type="syllables">188</measure>
+        <measure type="tokens">126</measure>
+        <measure type="characters">735</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1730</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20087-5"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Von der Hitze und von der Kälte.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit dieser Wahrheit scheint recht überein zu kommen,</l>
+            <l>Was uns Aesopus dort in kluger Fabel sagt:</l>
+            <l>Von einem Wald-Gott ward, aus Mitleid, aufgenommen</l>
+            <l>Ein Reisender, den Frost und Hunger plagt:</l>
+            <l>Er haucht in seine Hand, um minder Frost zu fühlen;</l>
+            <l>Er bläset auch beym Tisch, die heisse Kost zu kühlen.</l>
+            <l>Der Wald-Gott, der den Handel nicht verstunde,</l>
+            <l>War gantz bestürtzt und ausser sich, zu sehn,</l>
+            <l>So kalt und warm aus einem Munde</l>
+            <l>Und fast in selbiger Minute gehn.</l>
+            <l>Derselbe Hauch geschah nur auf verschiedne Weise,</l>
+            <l>Indem er langsam haucht, und bläst den Athem leise;</l>
+            <l>Erwärmt er seine Hand, die gantz durch Frost erstarrt.</l>
+            <l>An statt, daß da die Lufft aus seiner Lunge</l>
+            <l>Durch einen Stoß gerad’ und hefftig drunge,</l>
+            <l>Der Speisen heisser Dampff dadurch verjaget ward.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

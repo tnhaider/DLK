@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Er entsaget der Liebe.</title>
+        <author>
+          <persName>
+            <surname>Gressel</surname>
+            <forename>Johann Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8 2-8 3-8</measure>
+        <measure type="syllables">207</measure>
+        <measure type="tokens">139</measure>
+        <measure type="characters">801</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1716</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905199041"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Er entsaget der Liebe.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Du schwacher Liebes-Gott wo sind nun deine Banden?</l>
+            <l>Mein Hertz und Sinn</l>
+            <l>Hat seine Freyheit funden.</l>
+            <l>Du solt annoch an mir erstreiten Schimpff und Schanden/</l>
+            <l>Weil ich nun bin</l>
+            <l>Von Ketten loß gebunden/</l>
+            <l>Verlach’ ich den Zunder und Plunder der Liebe/</l>
+            <l>Vermeide die schönen </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Sieh hier mein Hertze ist gantz loß von deinen Ketten/</l>
+            <l>Das willig hat</l>
+            <l>Von dir sich fangen lassen.</l>
+            <l>Man kan sich gleichwol noch aus deinen Banden retten/</l>
+            <l>Wenn in der That/</l>
+            <l>Man will die Fesseln hassen/</l>
+            <l>So deine verschmitzete Schwäncke uns geben/</l>
+            <l>Verkürtzen und würtzen das edelste Leben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Und also lieffert dir die Freyheit jetzt </l>
+            <l>Mit vollem Glück</l>
+            <l>Sucht sie dich zu besiegen/</l>
+            <l>Du solt wol tausendmahl mit ihr dich wieder balgen/</l>
+            <l>Eh deine Tück</l>
+            <l>Sie werden unter kriegen.</l>
+            <l>Ich trotze/ und schelte nun billig die Ketten/</l>
+            <l>Wovon sich sonst trauet leicht keiner zu retten.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An  ***</title>
+        <author>
+          <persName>
+            <surname>Droste-Hülshoff</surname>
+            <forename>Annette von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-6 2-6 3-6 4-6</measure>
+        <measure type="syllables">255</measure>
+        <measure type="tokens">174</measure>
+        <measure type="characters">1015</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519994"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An  ***</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Kein Wort, und wär' es scharf wie Stahles Klinge,</l>
+            <l>Soll trennen, was in tausend Fäden Eins,</l>
+            <l>So mächtig kein Gedanke, daß er dringe</l>
+            <l>Vergällend in den Becher reinen Weins;</l>
+            <l>Das Leben ist so kurz, das Glück so selten,</l>
+            <l>So großes Kleinod, einmal sein statt gelten!</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Hat das Geschick uns, wie in frevlem Witze,</l>
+            <l>Auf feindlich starre Pole gleich erhöht,</l>
+            <l>So wisse, dort, dort auf der Scheidung Spitze</l>
+            <l>Herrscht, König über Alle, der Magnet,</l>
+            <l>Nicht frägt er ob ihn Fels und Strom gefährde,</l>
+            <l>Ein Stral fährt mitten er durchs Herz der Erde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Blick' in mein Auge — ist es nicht das deine,</l>
+            <l>Ist nicht mein Zürnen selber deinem gleich?</l>
+            <l>Du lächelst — und dein Lächeln ist das meine,</l>
+            <l>An gleicher Lust und gleichem Sinnen reich;</l>
+            <l>Worüber alle Lippen freundlich scherzen,</l>
+            <l>Wir fühlen Heilger es im eignen Herzen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Pollux und Castor, — wechselnd Glühn und Bleichen,</l>
+            <l>Des Einen Licht geraubt dem Andern nur,</l>
+            <l>Und doch der allerfrömmsten Treue Zeichen. —</l>
+            <l>So reiche mir die Hand, mein Dioskur!</l>
+            <l>Und mag erneuern sich die holde Mythe,</l>
+            <l>Wo überm Helm die Zwillingsflamme glühte.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

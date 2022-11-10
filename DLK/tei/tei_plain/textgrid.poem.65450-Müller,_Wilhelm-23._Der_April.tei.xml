@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">23. Der April</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">8</measure>
+        <measure type="verses_per_stanza">1-2 2-2 3-2 4-2</measure>
+        <measure type="syllables">112</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">502</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1810</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>23. Der April</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der spröden Rosenknospe gleich erscheinst du mir, April,</l>
+            <l>Die, wie auch Luft und Licht sie kost, sich noch nicht öffnen will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch aus den rothen Ritzen schielt sie dann und wann hervor,</l>
+            <l>Und zittert schüchtern gleich zurück, wenn's trüb' ist vor dem Thor.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der spröden Rosenknospe gleich erscheinst du mir, April,</l>
+            <l>Die, wie auch Luft und Licht sie kost, sich noch nicht öffnen will.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Doch aus den rothen Ritzen schielt sie dann und wann hervor,</l>
+            <l>Und zittert schüchtern gleich zurück, wenn's trüb' ist vor dem Thor.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

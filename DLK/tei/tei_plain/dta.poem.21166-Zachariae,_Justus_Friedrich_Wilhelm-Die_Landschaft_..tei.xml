@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Landschaft .</title>
+        <author>
+          <persName>
+            <surname>Zachariae</surname>
+            <forename>Justus Friedrich Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4</measure>
+        <measure type="syllables">294</measure>
+        <measure type="tokens">192</measure>
+        <measure type="characters">1150</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1764</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20676-2"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Landschaft .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Geliebtes Feld, dein aufgeklärter Himmel,</l>
+            <l>Der sanft und rein um stille Fluren fließt,</l>
+            <l>Empfange mich vom Lärm und vom Getümmel</l>
+            <l>Der weiten Stadt, wo Unmuth mich umschließt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wie fröhlich steigt aus silberfarbnen Wellen</l>
+            <l>Das Morgenroth zum feuchten Horizont!</l>
+            <l>Der graue Wald, den Lust und Tag erhellen,</l>
+            <l>Zeigt in der Höh die Wipfel schon umsonnt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Lerche fliegt in musikalschen Schaaren</l>
+            <l>Mit süßer Stimm auf sichren Haiden fort;</l>
+            <l>Und fürchtet nicht des falschen Garns Gefahren,</l>
+            <l>Und fürchtet nicht des Feuerrohres Mord.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Voll Anmuth lockt das blühende Gestade,</l>
+            <l>Die Ocker fließt mit sanftern Wellen fort;</l>
+            <l>Am Ufer tanzt die lachende Najade,</l>
+            <l>Der Tanz und West ihr fliegend Haar verwirrt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Der wilde Busch, von Blüten überschneyet,</l>
+            <l>Besieht sich stolz in spiegelklarer Fluth;</l>
+            <l>Sie fließt dahin, von keinem Sturm entweihet,</l>
+            <l>So rein und still, wie Silber in der Gluth.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es hängt indes an Klippen voller Weide</l>
+            <l>Der bärtge Bock, der die Gesträuche nagt;</l>
+            <l>Da unbesorgt der Hirte Lieb und Freude</l>
+            <l>Auf heiserm Rohr den öden Felsen sagt.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>O Einsamkeit, dürft ich mich dir ergeben!</l>
+            <l>Hier herrschest du im ungestörten Hain.</l>
+            <l>Warum muß ich im Lärm der Städte leben?</l>
+            <l>Hier könnt ich froh, wie dieser Hirte, seyn!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abendlied .</title>
+        <author>
+          <persName>
+            <surname>Brentano</surname>
+            <forename>Clemens</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">9</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4 7-4 8-4 9-4</measure>
+        <measure type="syllables">239</measure>
+        <measure type="tokens">172</measure>
+        <measure type="characters">972</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-20090519157"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abendlied .</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Nun laßt uns singen das Abendlied,               </l>
+            <l>Denn wir müssen gehn,</l>
+            <l>Das Kännchen mit dem Weine,</l>
+            <l>Lassen wir nun stehn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Kännchen mit dem Weine,</l>
+            <l>Das muß geleeret seyn,</l>
+            <l>Also muß auch das Abendlied</l>
+            <l>Wohl fein gesungen seyn.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Wohl unterm grünen Tannenbaum,</l>
+            <l>Allda ich fröhlich lag,</l>
+            <l>In mein feins Liebchens Armen</l>
+            <l>Die lange liebe Nacht.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Blätter von den Bäumen</l>
+            <l>Die fallen nun auf mich,</l>
+            <l>Daß mich mein Schatz verlassen hat,</l>
+            <l>Das freuet wohl mich.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Daß mich mein Schatz verlassen hat,</l>
+            <l>Das kömmt wohl daher,</l>
+            <l>Sie dacht sich zu verbessern,</l>
+            <l>Betrog sich gar sehr.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Des Abends, wenn es dunkel wird,</l>
+            <l>Steht er wohl vor der Thür,</l>
+            <l>Mit seinem blanken Schwerdte,</l>
+            <l>Als wie ein Offizier.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit seinem blanken Schwerdte,</l>
+            <l>Gleich einem rechten Held,</l>
+            <l>Mit ihm will ich es wagen,</l>
+            <l>Ins weite, weite Feld.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Mit ihm will ich es wagen,</l>
+            <l>Zu Wasser und zu Land,</l>
+            <l>Daß mich mein Schatz verlassen hat,</l>
+            <l>Das bringt mir keine Schand.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Das Abendlied gesungen ist,</l>
+            <l>Das Kännchen ist geleert,</l>
+            <l>Laß sehn nun wie du Kerl aussiehst.</l>
+            <l>Mit deinem blanken Schwerdt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

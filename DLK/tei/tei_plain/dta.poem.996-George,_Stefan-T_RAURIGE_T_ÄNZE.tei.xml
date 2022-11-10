@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">T RAURIGE   T ÄNZE</title>
+        <author>
+          <persName>
+            <surname>George</surname>
+            <forename>Stefan</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4</measure>
+        <measure type="syllables">130</measure>
+        <measure type="tokens">86</measure>
+        <measure type="characters">683</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1897</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905191530"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>T RAURIGE   T ÄNZE</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Drei weisen kennt vom dorf der blöde knabe               </l>
+            <l>Die wenn er kommt sich st&amp;#228;ndig wiederholen               </l>
+            <l>Die eine wie der v&amp;#228;ter hauch vom grabe               </l>
+            <l>Die eh sie starben sich dem herrn befohlen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die andre hat die tugendhafte weihe               </l>
+            <l>Als ob sie schwestern die beim spinnrad sassen               </l>
+            <l>Und m&amp;#228;gde s&amp;#228;ngen die in langer reihe               </l>
+            <l>Vor zeiten zogen auf den abendstrassen             </l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die dritte droht &amp;#8212; vers&amp;#252;ndigung und rache               </l>
+            <l>Mit altem dolch in himmel-blauer scheide               </l>
+            <l>Mit mancher sippe angestammtem leide               </l>
+            <l>Mit bösen sternen &amp;#252;ber manchem dache.             </l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

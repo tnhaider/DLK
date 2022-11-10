@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Zänker.</title>
+        <author>
+          <persName>
+            <surname>Gleim</surname>
+            <forename>Johann Wilhelm Ludwig</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-15</measure>
+        <measure type="syllables">105</measure>
+        <measure type="tokens">73</measure>
+        <measure type="characters">393</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1745</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905197682"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Zänker.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Es zanken sich die Redner,</l>
+            <l>Um Wörter und um Silben,</l>
+            <l>Und schimpfen, wenn sie zanken.</l>
+            <l>Es zanken sich die Prinzen,</l>
+            <l>Um Gold und veste Städte,</l>
+            <l>Und sterben, eh sie siegen.</l>
+            <l>Es zanken sich die Weisen</l>
+            <l>Um gut und böse Welten,</l>
+            <l>Und bauen keine bessre.</l>
+            <l>Zankt immer, tapfre Zänker,</l>
+            <l>Zankt tapfer, eh ihr sterbet!</l>
+            <l>Um Länder, oder Reime,</l>
+            <l>Will ich mit euch nicht zanken.</l>
+            <l>Doch, wolt ihr mit mir zanken;</l>
+            <l>So tadelt diese Böhmin.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

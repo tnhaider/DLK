@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Unentschiedene</title>
+        <author>
+          <persName>
+            <surname>Boie</surname>
+            <forename>Heinrich Christian</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4 2-4 3-4 4-4 5-4 6-4</measure>
+        <measure type="syllables">180</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">646</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1775</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Unentschiedene</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einen Zauber in dem Klang</l>
+            <l>Ihrer Stimme hat Filinde,</l>
+            <l>Daß ich immer nur mit Zwang</l>
+            <l>Mich dem süßen Ton entwinde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einen Zauber in dem Blick</l>
+            <l>Ihrer Augen hat Agathe,</l>
+            <l>Daß ich über mein Geschick</l>
+            <l>In Besorgnis fast gerathe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von den schwestern gleich gerührt,</l>
+            <l>Hab ich keine noch erkoren.</l>
+            <l>Wenn mein Auge die verführt,</l>
+            <l>Hält mich jene bei den Ohren.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einen Zauber in dem Klang</l>
+            <l>Ihrer Stimme hat Filinde,</l>
+            <l>Daß ich immer nur mit Zwang</l>
+            <l>Mich dem süßen Ton entwinde.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Einen Zauber in dem Blick</l>
+            <l>Ihrer Augen hat Agathe,</l>
+            <l>Daß ich über mein Geschick</l>
+            <l>In Besorgnis fast gerathe.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Von den schwestern gleich gerührt,</l>
+            <l>Hab ich keine noch erkoren.</l>
+            <l>Wenn mein Auge die verführt,</l>
+            <l>Hält mich jene bei den Ohren.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

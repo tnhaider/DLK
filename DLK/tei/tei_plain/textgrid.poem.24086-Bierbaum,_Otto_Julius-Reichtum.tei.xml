@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Reichtum</title>
+        <author>
+          <persName>
+            <surname>Bierbaum</surname>
+            <forename>Otto Julius</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">22</measure>
+        <measure type="verses_per_stanza">1-11 2-11</measure>
+        <measure type="syllables">168</measure>
+        <measure type="tokens">118</measure>
+        <measure type="characters">686</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1887</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Reichtum</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Perlen gleiten durch meine Hand –:</l>
+            <l>Das war Wasser, das verschwand;</l>
+            <l>Gold kam über mich hergelaufen –:</l>
+            <l>Wolkenberge, Wolkenhaufen;</l>
+            <l>Nichts ist mehr in meiner Hand,</l>
+            <l>Und ich kann mir garnichts kaufen,</l>
+            <l>Und mir blieb nur, was ich fand:</l>
+            <l>Ein Herz für mich, ein Glück für mich,</l>
+            <l>Zwei Augen, die leuchten: Ich liebe dich,</l>
+            <l>Und eine Wärme innerlich:</l>
+            <l>Du, du und ich ...</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Perlen gleiten durch meine Hand –:</l>
+            <l>Das war Wasser, das verschwand;</l>
+            <l>Gold kam über mich hergelaufen –:</l>
+            <l>Wolkenberge, Wolkenhaufen;</l>
+            <l>Nichts ist mehr in meiner Hand,</l>
+            <l>Und ich kann mir garnichts kaufen,</l>
+            <l>Und mir blieb nur, was ich fand:</l>
+            <l>Ein Herz für mich, ein Glück für mich,</l>
+            <l>Zwei Augen, die leuchten: Ich liebe dich,</l>
+            <l>Und eine Wärme innerlich:</l>
+            <l>Du, du und ich ...</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

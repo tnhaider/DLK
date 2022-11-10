@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ungeduld.</title>
+        <author>
+          <persName>
+            <surname>Müller</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">23</measure>
+        <measure type="verses_per_stanza">1-5 2-6 3-6 4-6</measure>
+        <measure type="syllables">239</measure>
+        <measure type="tokens">177</measure>
+        <measure type="characters">984</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1821</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="urn:nbn:de:kobv:b4-200905194209"></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">Lyrik</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ungeduld.</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich grüb' es gern in jeden Kieselstein,</l>
+            <l>Ich möcht' es sä'n auf jedes frische Beet</l>
+            <l>Mit Kressensamen, der es schnell verräth,</l>
+            <l>Auf jeden weißen Zettel möcht' ich's schreiben:</l>
+            <l>Dein ist mein Herz, und soll es ewig bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich möcht' mir ziehen einen jungen Staar,</l>
+            <l>Bis daß er spräch' die Worte rein und klar,</l>
+            <l>Bis er sie spräch' mit meines Mundes Klang,</l>
+            <l>Mit meines Herzens vollem, heißen Drang;</l>
+            <l>Dann säng' er hell durch ihre Fensterscheiben:</l>
+            <l>Dein ist mein Herz, und soll es ewig bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Den Morgenwinden möcht' ichs hauchen ein,</l>
+            <l>Ich möcht' es säuseln durch den regen Hain;</l>
+            <l>O, leuchtet' es aus jedem Blumenstern!</l>
+            <l>Trüg' es der Duft zu ihr von nah und fern!</l>
+            <l>Ihr Wogen, könnt ihr nichts als Räder treiben?</l>
+            <l>Dein ist mein Herz, und soll es ewig bleiben.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Ich meint', es müßt' in meinen Augen stehn,</l>
+            <l>Auf meinen Wangen müßt' man's brennen sehn,</l>
+            <l>Zu lesen wär's auf meinem stummen Mund,</l>
+            <l>Ein jeder Athemzug gäb's laut ihr kund;</l>
+            <l>Und sie merkt nichts von all' dem bangen Treiben:</l>
+            <l>Dein ist mein Herz, und soll es ewig bleiben!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

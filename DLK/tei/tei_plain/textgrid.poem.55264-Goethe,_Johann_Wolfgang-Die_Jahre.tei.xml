@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Jahre</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>University of Göttingen/Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>mail@thomashaider.net</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutsches Lyrik Korpus Edition (DLK) v6</name>
+          <date>9-11-2022</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-8 2-8</measure>
+        <measure type="syllables">156</measure>
+        <measure type="tokens">98</measure>
+        <measure type="characters">614</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1790</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="N.A."></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">N.A.</classCode>
+        <classCode scheme="text_genre">verse</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Jahre</head>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Jahre sind allerliebste Leut:</l>
+            <l>Sie brachten gestern, sie bringen heut,</l>
+            <l>Und so verbringen wir Jüngern eben</l>
+            <l>Das allerliebste Schlaraffenleben.</l>
+            <l>Und dann fällt's den Jahren auf einmal ein,</l>
+            <l>Nicht mehr wie sonst bequem zu sein,</l>
+            <l>Wollen nicht mehr schenken, wollen nicht mehr borgen</l>
+            <l>Sie nehmen heute, sie nehmen morgen.</l>
+          </lg>
+          <lg rhyme="unknown" type="stanza">
+            <l>Die Jahre sind allerliebste Leut:</l>
+            <l>Sie brachten gestern, sie bringen heut,</l>
+            <l>Und so verbringen wir Jüngern eben</l>
+            <l>Das allerliebste Schlaraffenleben.</l>
+            <l>Und dann fällt's den Jahren auf einmal ein,</l>
+            <l>Nicht mehr wie sonst bequem zu sein,</l>
+            <l>Wollen nicht mehr schenken, wollen nicht mehr borgen</l>
+            <l>Sie nehmen heute, sie nehmen morgen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
