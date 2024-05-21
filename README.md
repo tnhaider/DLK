@@ -2,15 +2,15 @@
 
 As basis for research on computational literary stylistics of poetry, we aimed to build a large, comprehensive, and easily searchable corpus of New High German poetry. We achieved this by collecting and parsing the bulk of digitized corpora that contain public domain German literature. As this corpus contains the majority of digitized public domain poetry from the New High German period, we call this new corpus the German Poetry Corpus, in German: Deutsches Lyrik Korpus, DLK for short.
 
-|             | TGRID 'Verse' | DTA: 'Lyrik' | DLK v5     |
+|             | TGRID 'Verse' | DTA: 'Lyrik' | DLK v6     |
 | :---------- | ------------: | -----------: | ---------: |
-| \#syllables | 24,025,692    | 4,421,923    | 25,901,322 |
-| \#words     | 16,049,526    | 2,986,912    | 17,335,638 |
-| \#tokens    | 19,346,248    | 3,549,224    | 20,852,476 |
-| \#lines     | 2,641,558     | 458,851      | 2,827,091  |
-| \#stanzas   | 410,550       | 63,080       | 430,244    |
-| \#poems     | 50,549        | 22,039       | 65,755     |
-| \#authors   | 227           | 73           | 254        |
+| \#syllables | 12,012,846    | 4,421,923    | 15,196,215 |
+| \#words     |  8,024,763    | 2,986,912    | 10,162,011 |
+| \#tokens    |  9,673,124    | 3,549,224    | 12,201,712 |
+| \#lines     |  1,320,779    | 458,851      |  1,643,076 |
+| \#stanzas   |    205,275    | 63,080       |    246,677 |
+| \#poems     |     50,549    | 22,039       |     65,755 |
+| \#authors   |        227    | 73           |        254 |
 
 This corpus essentially contains the poetry from the German Text Archive (Deutsches Textarchiv: DTA) and also the Digital Library of Textgrid.
 According to the number of line group tags with the attribute-value pair type=’poem’ (`<lg type='poem'>`), Textgrid contains 51,264 poems with the genre label ‘Verse’, while DTA contains 23,877 poems with the genre label ‘Lyrik’. 
