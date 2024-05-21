@@ -2,15 +2,15 @@
 
 As basis for research on computational literary stylistics of poetry, we aimed to build a large, comprehensive, and easily searchable corpus of New High German poetry. We achieved this by collecting and parsing the bulk of digitized corpora that contain public domain German literature. As this corpus contains the majority of digitized public domain poetry from the New High German period, we call this new corpus the German Poetry Corpus, in German: Deutsches Lyrik Korpus, DLK for short.
 
-|             | TGRID 'Verse' | DTA: 'Lyrik' | DLK v5     |
+|             | TGRID 'Verse' | DTA: 'Lyrik' | DLK v6     |
 | :---------- | ------------: | -----------: | ---------: |
-| \#syllables | 24,025,692    | 4,421,923    | 25,901,322 |
-| \#words     | 16,049,526    | 2,986,912    | 17,335,638 |
-| \#tokens    | 19,346,248    | 3,549,224    | 20,852,476 |
-| \#lines     | 2,641,558     | 458,851      | 2,827,091  |
-| \#stanzas   | 410,550       | 63,080       | 430,244    |
-| \#poems     | 50,549        | 22,039       | 65,755     |
-| \#authors   | 227           | 73           | 254        |
+| \#syllables | 12,012,846    | 4,421,923    | 15,196,215 |
+| \#words     |  8,024,763    | 2,986,912    | 10,162,011 |
+| \#tokens    |  9,673,124    | 3,549,224    | 12,201,712 |
+| \#lines     |  1,320,779    | 458,851      |  1,643,076 |
+| \#stanzas   |    205,275    | 63,080       |    246,677 |
+| \#poems     |     50,549    | 22,039       |     65,755 |
+| \#authors   |        227    | 73           |        254 |
 
 This corpus essentially contains the poetry from the German Text Archive (Deutsches Textarchiv: DTA) and also the Digital Library of Textgrid.
 According to the number of line group tags with the attribute-value pair type=’poem’ (`<lg type='poem'>`), Textgrid contains 51,264 poems with the genre label ‘Verse’, while DTA contains 23,877 poems with the genre label ‘Lyrik’. 
@@ -22,7 +22,7 @@ According to the number of line group tags with the attribute-value pair type=�
  Not all of the texts under consideration were written in the German language. The actual corpus sizes after filtering can be inspected in the Table above. It should be noted that the entire DTA corpus (not restricted to genre label 'Lyrik') contains a total of 40,077 line groups that look like poems, but without the proper genre labels (e.g., appearing in the genre ‘science’), poems are likely embedded within other texts (by quotation, e.g., for criticism) and might not come with proper meta-data.
  Still, we kept DTA books that had no proper author name, but only author information 'N.A.'. In these cases, we annotated the author name 'Various', indicating anthologies with multiple contributing authors. You might want to remove these for authorship attribution studies.
  
-  Regrettably, it is not always clear from the Textgrid XML in which context a poem was published, as each poem comes with its own TEI P5 header, sometimes with adequate information, sometimes without it. Furthermore, titles (text headers) in Textgrid are not always correctly annotated (though DTA is not perfect here either), and there is no reference URN (of which DTA makes use to refer back to wikimedia). Additionally, it is not always clear if a Textgrid poem is actually just a stanza, since other poems with the same title exist (e.g., for Möricke).
+  Unfortunately, it is not always clear from the Textgrid XML in which context a poem was published, as each poem comes with its own TEI P5 header, sometimes with adequate information, sometimes without it. Furthermore, titles (text headers) in Textgrid are not always correctly annotated (though DTA is not perfect here either), and there is no reference URN (of which DTA makes use to refer back to wikimedia). Additionally, it is not always clear if a Textgrid poem is actually just a stanza, since other poems with the same title exist (e.g., for Möricke).
   
   We also crawled the German version of Project Gutenberg (GUT-DE). However, we omit this corpus from this collection, as it is wildly inconsistent and only offers metadata for less than 1/3 of its poems. In total, GUT-DE contains 36,822 poems. All things considered, this corpus might still be of interest for work that does not depend on proper metadata or markup. We might include the data here at a later time, or upon request.
   
